@@ -12597,3 +12597,230 @@
 [32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/11/16 ]> sport-en-cultuur.pdf[0m
 [32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/11/25 ]> wetenschapsvisie-2025-keuzes-voor-de-toekomst.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 18; BatchedItems: 100]...[0m
+[main ff1f1615] Added batch #18 of policy-docs (total: 100
+ 101 files changed, 34040 insertions(+)
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/12/02/liberia-2006-05-06/aab-liberia-mei-2006.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/ix-financien-en-nationale-schuld/9-financien-en-nationale-schuld.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/j-deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2014/vii-binnenlandse-zaken-en-koninkrijksrelaties-rb2014.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/vi-veiligheid-en-justitie.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2017/09/19/bijlagen-miljoenennota-2018/Miljoenennota-2018-bijlage.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2020/09/15/miljoenennota-2021/Miljoenennota 2021 met omslag.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2024/09/17/l-nationaal-groeifonds-rijksbegroting-2025/L Nationaal Groeifonds Rijksbegroting 2025.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2009/06/19/nota-2003-homogene-groep-internationale-samenwerking-hgis/hgis-nota-2003.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/10/deel-5-8-van-de-stukken-bij-de-kabinetsformatie-financien/beslisnotas-stukken-formatiedeel7.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2014/06/27/ontwerpbesluit-ter-uitvoering-van-de-jeugdwet-besluit-jeugdwet.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2016/02/08/besluit-invoering-keuzedelen-beroepsonderwijs.pdf
+ create mode 100644 policy-documents/Archive/brieven/2013/05/27/bijlage-3-bij-vraag-48-jaarverslag-2012f/lp-v-j-0000003364.pdf
+ create mode 100644 policy-documents/Archive/brieven/2013/06/28/voor-nederland-wereldwijd.pdf
+ create mode 100644 policy-documents/Archive/brieven/2017/12/07/bijlage-17197345.pdf
+ create mode 100644 policy-documents/Archive/brochures/2008/02/20/berichten-buitenland-nr-12-1-december-2007-januari-2008/bbdec-2007-jan-2008.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2006/05/17/rijksjaarverslag-defensie-2005.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/xiii-economische-zaken-landbouw-en-innovatie/11-jv-13-economische-zaken-landbouw-en-inn-p.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2014/05/21/deltafonds/j-deltafonds-compleet.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2015/05/20/financien-en-nationale-schuld/9-financien.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2015/05/20/internetbijlagen-bij-financieel-jaarverslag-van-het-rijk-2014/0-2-internetbijlagen-bij-het-fjr-2014.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2015/05/20/overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs/2b-hoge-colleges-van-staat.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2015/05/21/jaarverslag-homogene-groep-internationale-samenwerking-hgis-2014.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2016/05/18/financien-en-nationale-schuld-2015/9.-ix-financien-en-nationale-schuld.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2016/05/18/jaarverslag-homogene-groep-internationale-samenwerking-hgis.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2017/09/08/jaarverslag-2016-centraal-bureau-van-de-statistiek.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2020/05/20/deltafonds-2019/j-deltafonds.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2021/05/19/deltafonds-2020/j-deltafonds.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2022/05/18/deltafonds-2021/jaarverslag-en-slotwet-deltafonds-2021.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2022/05/18/jaarverslag-inspectie-militaire-gezondheidszorg-2021.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2023/05/17/mobiliteitsfonds-2022/jaarverslag-mobiliteitsfonds-2022.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2024/05/15/bijlagen-financieel-jaarverslag-rijk-2023/bijlagen-bij-financieel-jaarverslag-rijk-over-2023.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2024/05/15/deltafonds-2023/deltafonds-jaarverslag-2023.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2009/10/13/nota-nav-verslag-wolbes/notanavverslagwolbes.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2010/01/15/politie-v-curacao-sint-maarten-bonaire-sint-eustatius-en-saba-18189.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/09/19/programmaplan-nationale-politie-waakzaam-en-dienstbaar/20110919-2011-2000413831b-voortgangsbericht-over-de-vorming-van-de-nationale-politie.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/03/14/wetsvoorstel-wijziging-wet-educatie-en-beroepsonderwijs-in-verband-met-bekostiging-bero-85F6AF3F/wetsvoorstel-wijziging-wet-educatie-en-beroepsonderwijs-in-verband-met-bekostiging-beroepsonderwijs-voor-deelne-5D528BC9.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/03/07/beantwoording-vragen-rapport-bezuinigen-op-uitvoeringsorganisaties.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/11/08/antwoorden-op-vragen-vaste-commissie-voor-infrastructuur-en-milieu-ter-voorbereiding-op-het-wgo-water.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/10/24/vaststelling-van-de-begrotingsstaten-van-het-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties-vii-voor--F7D40EBB.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/06/16/beantwoording-kamervragen-over-het-vws-jaarverslag-2014.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/10/30/kamerbrief-met-rapportage-internationale-militaire-samenwerking.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2016/01/21/bijlage-antwoorden-kamervragen-jaarverslag-beheer-staatsdeelnemingen-2014.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/04/26/memorie-van-antwoord-op-wijziging-van-de-wet-op-hoger-onderwijs-en-wetenschappelijk-onderzoek.pdf
+ create mode 100644 "policy-documents/Archive/kamerstukken/2017/10/24/nota-naar-aanleiding-van-het-verslag-\342\200\223-belastingplan-2018.pdf"
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/01/14/bijlage-3-monitor-anti-witwasbeleid.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/02/04/bijlage-3-beleidsdoorlichtingen-belicht.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/04/26/beantwoording-kamervragen-nationaal-preventieakkoord.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/06/19/bijlage-1-kamerbrief-inzake-beleidsreactie-op-iob-evaluatie-van-dcv.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/09/06/nota-van-wijziging-verzamelwet-szw-2020.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/09/17/belastingplan-2020-memorie-van-toelichting/Belastingplan 2020 memorie van toelichting.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/09/25/eerste-notat-van-wijziging-wetsvoorstel-verzamelwet-szw-2020.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/01/14/memorie-van-antwoord-mrvns-19-dec-def.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/09/01/monitor-beleidsmaatregelen-hoger-onderwijs-2019-2020.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/09/07/nationaal-groeifonds.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/10/08/monitor-beleidsmaatregelen-2019-2020.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/22/rapport-financiele-staat-van-het-onderwijs-2019.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/06/07/bijlage-2-antwoorden-srv.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/03/25/beantwoording-schriftelijk-overleg-over-publicatie-dreigingsbeeld-milieucriminaliteit-2021-kamerstuk-22343-nr-299.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/10/04/nota-van-wijziging-wetsvoorstel-belastingplan-2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht/bijlage-10-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2016/07/04/bijlage-5-bij-besluit-wob-verzoek-over-evaluatie-begroting-koning/05-verstrekte-stukken-deel-5.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2017/10/10/regeerakkoord-2017-vertrouwen-in-de-toekomst.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2021/06/08/beantwoording-kamervragen-jaarverslag-vws-2020.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-deelbesluit-1-op-wob-verzoek-over-toeslagenaffaire-en-bespreking-in-ministe-19A35267/Bijlage5-deelbesluit-1-wob-toeslagenaffaire-en-bespreking-in-ministerraden.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2002/09/01/iob-cultuur-en-ontwikkeling-1981-2001-evaluatie-van-een-beleidsthema.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2008/09/12/jaarrapportage-wapenexportbeleid-2007/jaarrapport-2007-8099776-rev2010.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2008/10/01-evaluatie-van-het-nederlandse-beleid-voor-stedelijke-armoedebestrijding/iob-meer-dan-een-dak.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2010/04/20/aan-de-slag-met-sterke-vrouwen-in-het-koninkrijk/aandeslagmetsterkevrouweninhetkoninkrijk.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2010/09/21/staat-van-de-europese-unie-2010-2011-bijlage/svdu-2011-bijlage.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2012/07/01/symposium-10-jaar-dualisering.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/22/the-total-economic-value-of-nature-on-bonaire/13007212-bijlage6.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/27/mensenhandel-in-en-uit-beeld/lp-v-j-0000002713.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/15/jaaroverzicht-koninklijk-huis-2012.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/18/eindrapport-commissie-onderzoek-elektronisch-stemmen-in-het-stemlokaal/eindrapport-commissie-onderzoek-elektronisch-stemmen-in-het-stemlokaal-web.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/04/22/onderwijs-werkt/eindrapport-onderwijs-werkt-2013-regioplan.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/11/25/wetenschapsvisie-2025-keuzes-voor-de-toekomst.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/12/01/kostenverschillen-in-de-jeugdzorg.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/05/01/jaarrapportage-bedrijfsvoering-rijk-2014.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/01/19/de-nederlandse-publieke-dienst/web-v5-de-nederlandse-publieke-dienst-nl.PDF
+ create mode 100644 policy-documents/Archive/rapporten/2016/07/06/rapport-werkgroep-bereikbaarheid.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/09/20/meerjarenplan-inspectie-leefomgeving-en-transport-ilt-2017-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/11/16/sport-en-cultuur.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/02/09/erfgoedbalans-2017.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/12/stand-van-zaken-acties-en-activiteiten-rijksoverheid-eind-2016.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/04/uitvoeren-met-ambitie-uitvoeringsprogramma-2018-2019-nationale-klimaatadaptatiestrategie-nas.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/25/bijlage-2-seo-2018-monitor-netwerkkwaliteit-en-staatgaranties.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/04/rivm-rapport-bewust-omgaan-met-veiligheid-doelen-en-effect-maten-in-het-risico-en-veiligheidsbeleid.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/04/zbo-evaluatie-eindrapport-evaluatie-college-rechten-van-de-mens.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2020/05/15/bijlage-2-nota-van-antwoord-betreffende-zienswijzen-op-de-nrd-luchtvaartnota-2020-2050.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2020/12/04/tk-bijlage-evaluatie-wet-veiligheidsregio-s.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/03/08/tk-bijlage-nvs19-midterm-review-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/06/01/rapport-ik-was-altijd-al-niet-standaard.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/09/21/defensie-projectenoverzicht-2021/2021-09-21-defensie-projectenoverzicht-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/07/06/tk-bijlage-tiu-220193-tls-rapportage-wodc-vestigingsklimaat.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/03/28/bijlage-staat-van-schiphol-2022.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/26/besluit-op-wob-verzoek-over-land-information-manoeuvre-centre-limc/bijlage-5-wob-besluit-limc-map1-51-83.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/12/23/2e-deelbesluit-wob-verzoek-chinabeleid/2e-deelbesluit-wob-chinabeleid-documenten-1.pdf
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/05/23/besluit-wob-verzoek-beleid-correspondentie-met-bkr/wob-beleid-correspondentie-bkr-documenten-2.pdf
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/12/23/besluit-woo-verzoek-overleggen-chinabeleid/woo-chinabeleid-documenten-1-20.pdf
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2023/05/17/deltafonds-2022 ]> jaarverslag-deltafonds-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2023/05/17 ]> bijlage-rapportage-staat-van-ons-water-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/09/19/advies-raad-van-state-bij-ontwerp-miljoenennota-2024-en-septemberrapportage ]> advies-raad-van-state-miljoenennota-2024-en-septemberrapportage.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/05/08 ]> tk-bijlage-1-eindrapport-seksuele-uitbuiting-van-jongens-in-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2008/01/01/beleidsdoorlichting-seksuele-en-reproductieve-gezondheid-en-rechten-en-hiv-aids-2004-2006 ]> iob-beleidsdoorlichting-seksuele-en-reproductieve-gezondheid-en-rechten-en-hiv-aids-2004-2006.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2008/07/24/wetsvoorstel-implementatie-richtlijn-herverzekering ]> fm07-1911b.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2009/01/29 ]> evaluatie-van-de-dgis-coherentie-eenheid.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 651[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/09/22 ]> antwoorden-op-kamervragen-miljoenennota-2015.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2014/04/01 ]> jaarverslag-aivd-2013.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2009/04/01 ]> millennium-ontwikkelingsdoel-2-alle-jongens-en-meisjes-naar-school.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2009/07/08 ]> mvt-crw-politie-tk-15578.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/06/08 ]> beantwoording-kamervragen-over-het-jaarverslag-van-het-ministerie-van-buitenlandse-zaken-over-2011.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/02/12/ist-web-inspectiebericht ]> lp-v-j-0000002581.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/06/01 ]> overkoepelend-eindrapport-ruimte-voor-onderwijs-tijdens-corona-evaluatie-servicedocumenten-mbo-ho.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/06/07 ]> rapportage-waarnemingsmissie-ovse-over-de-tweede-kamerverkiezing-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/02/21 ]> europese-commissie-43-initiatieven-ingedeeld-in-6-kernprioriteiten.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 652[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2020/04/21/beantwoording-kamervragen-over-raad-buitenlandse-zaken-22-april-2020 ]> verslag-inzake-schriftelijk-overleg-raad-buitenlandse-zaken-van-22-april-2020.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/04/07 ]> beantwoording-so-imf-voorjaarsvergadering.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2021/07/01 ]> onvolledige-opbouw-aowadviesdefdigitaal2806.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/06/17 ]> bijlage-1-antwoorden-kamervragen-voorjaarsnota-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/11/24 ]> vervolgonderzoek-kindpakketten-bureau-bartels.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht ]> bijlage-7-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/09/18 ]> antwoord-op-feitelijke-vragen-beleidsreactie-op-beleidsdoorlichting-erfgoed.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2003/07/01 ]> iob-behartiging-van-de-buitenlandse-belangen-van-de-nederlandse-antillen-en-aruba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2012/05/16/vii-binnenlandse-zaken ]> 11-jv-7-binnenlandse-zaken.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 653[0m
+[32m[1m * File downloaded: [37m[22m[3m[ circulaires/2014/05/30 ]> meicirculaire-gemeentefonds-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/08/27/iob-evaluatie-pragmatisme-voorbij ]> het-nederlands-beleid-ten-aanzien-van-de-rol-van-het-gemeenschappelijk-veiligheids-en-defensiebeleid-in-de-euro-A533C034.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/03/18 ]> 5-ontwerp-mariene-strategie-voor-het-nederlandse-deel-van-de-noordzee-2022-2027-deel-3-programma-van-maatregelen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/10/23 ]> de-antwoorden-op-de-vragen-bij-de-ontwerpbegroting-vws-2018.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/12/16 ]> dialogic-2021-eindrapport-evalueren-leren-en-sturen-doorlichting-van-het-onderzoek-en-wetenschapsbeleid.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/05/19 ]> antwoorden-kamervragen-beleidsbrief-defensie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/09/18 ]> materieelprojectenoverzicht-defensie-2018.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 654[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2014/05/21/financieel-jaarverslag-van-het-rijk-2013 ]> financieel-jaarverslag-van-het-rijk-2013-compleet.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2015/05/20/financieel-jaarverslag-van-het-rijk-2014 ]> 0-1-financieel-jaarverslag-van-het-rijk-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2009/09/15/memorie-van-toelichting-2010-buitenlandse-zaken ]> mvt-2010.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/11/18 ]> archiefwet-2021-wettekst-met-mvt.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ besluiten/2021/04/23 ]> nota-naar-aanleiding-van-het-verslag-inzake-tijdelijke-wet-testbewijzen-covid-19.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2017/05/17/financien-en-nationale-schuld-2016 ]> 9.-ix-jaarverslag-ministerie-van-financien-en-nationale-schuld-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/09/30 ]> evaluatie-college-voor-examens-2009-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/09/21 ]> kamerbrief-over-informatievoorziening-nieuwe-commissievoorstellen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2021/10/15 ]> beantwoording-kamervragen-begroting-2022.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 655[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/11/16/voorzitterschapseditie-staat-van-de-europese-unie-2015 ]> staat-van-de-europese-unie-2015-v2.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/07/10 ]> kamerbrief-over-voortgangsrapportage-gia.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/04/23 ]> bijlage-vragen-en-antwoorden-15e-halfjaarsrapportag.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/05/09 ]> tussentijdse-evaluatie-2013.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2013/11/04 ]> fiches-werkgroep-beoordeling-nieuwe-commissie-voorstellen-bnc.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2011/06/30 ]> jaarverslag-2010-inspectie-verkeer-en-waterstaat.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/03/28/memorie-van-toelichting-rond-wetsvoorstel-goedkeuring-handelsovereenkomst-eu-colombia-en-peru ]> 003711229-mvt-coria-versie-nov-2012.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ woo-besluiten/2022/09/13/besluit-op-wob-verzoek-over-beleidsdeelneming-bonaire-brandstof-terminals-bv ]> bijlage2-wob-woo-over-beleidsdeelneming-bonaire-brandstof-terminals-bv.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2013/11/22 ]> nota-van-toelichting-rond-professionalisering-van-de-jeugdzorg.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 656[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/01/02 ]> beleidsdoorlichting-nationale-veiligheid.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/11/15 ]> beantwoording-kamervragen-gesteld-tijdens-begrotingsbehandeling-buitenlandse-zaken.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ circulaires/2017/12/08 ]> decembercirculaire-gemeentefonds-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/06/07 ]> tk-bijlage-nationale-strategie-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/06/07/tk-bijlage-nationale-strategie-2019 ]> Nationale-Veiligheid-Strategie-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/06/08 ]> kamervragen-jaarverslag-bzk-vii.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/03/01 ]> bijlage-6-specificaties-stemprinter-en-stemmenteller.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht ]> bijlage-8-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht ]> bijlage-12-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 657[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2009/04/01 ]> millennium-ontwikkelingsdoel-3-stimuleren-van-gelijkheid-tussen-mannen-en-vrouwen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2007/10/22/begroting-2008-defensie ]> kamerbrief-2007-10-22-beantwoording-vragen-begroting-2008-defensie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2015/05/20/deltafonds ]> j-deltafonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2023/03/15/auditrapport-2022-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties ]> auditrapport-2022-bzk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/03/18 ]> 1-ontwerp-nationaal-water-programma-2022-2027.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/04/16 ]> de-staat-van-het-onderwijs-onderwijsverslag-2012-2013.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 658[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/11/11 ]> beantwoording-kamervragen-over-begroting-vws-2015.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2014/06/03/de-jaren-van-het-koninkrijk-tien-knooppunten ]> 40368-de-jaren-van-het-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2017/05/17/bijlagen-financieel-jaarverslag-rijk-2016 ]> 0.1-bijlagen-bij-het-financieel-jaarverslag-van-het-rijk-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/11/09 ]> tk-bijlage-wodc-rapport-state-of-the-art-statelijke-dreigingen-fase-1.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2021/05/19/financien-en-nationale-schuld-2020 ]> ix-financien-en-nationale-schuld.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/10/07 ]> wetsvoorstel-wet-voortgezet-onderwijs-20xx.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/06/16 ]> jaarverslag-beheer-staatsdeelnemingen-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/04/20 ]> bmh-8-klaar-voor-klimaatverandering.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2020/09/15 ]> defensie-projectenoverzicht-2020.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 659[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/03/08 ]> lekker-vrij-vrije-tijd-tijdsdruk-en-de-arbeidsduur-van-vrouwen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2012/05/10 ]> jaarrapportage-bedrijfsvoering-rijk-2011-rapportage-grote-en-risicovolle-ict-projecten.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/05/01 ]> rapport-grote-en-risicovolle-projecten.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2013/05/08/v-buitenlandse-zaken ]> v-buitenlandse-zaken-rijksjaarverslag-2012.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/03/25 ]> nota-naar-aanleiding-van-verslag-machtigingswet-oprichting-invest-nl.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2020/04/28 ]> dummybegroting-memorie-van-toelichting-van-de-begrotingstaat-van-het-mobiliteitsfonds-voor-het-jaar-2020.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/09/30 ]> advies-raad-van-state-over-vierde-periodieke-beschouwing-naar-de-interbestuurlijke-verhoudingen.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 660[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/06/01 ]> selectie-en-plaatsing-bij-numerusfixusopleidingen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/01/20 ]> nota-n-a-v-het-verslag-inzake-het-wetsvoorstel-kindregelingen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/03/01 ]> bitter-en-zoet.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/06/05 ]> beantwoording-kamervragen-over-het-jaarverslag-2014-en-verantwoordingsonderzoek-2014-defensie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/05/18 ]> evaluatie-inzet-nederlandse-militairen-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/02/24 ]> omvang-en-verdeling-van-de-geestelijke-verzorging-in-de-krijgsmacht-vanaf-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/07/07/verantwoording-aanpak-georganiseerde-criminaliteit-2014 ]> tk-bijlage-verantwoording-aanpak-georganiseerde-criminaliteit-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ wob-verzoeken/2013/12/12/bijlagen-bij-besluit-wob-verzoek-rond-selectiviteitsbeleid-luchthaven-schiphol-en-luch-DED5FD22 ]> wob-arkefly-13.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2013/01/14 ]> stand-van-zaken-uitvoering-toezeggingen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ wob-verzoeken/2022/03/30/besluit-op-wob-verzoek-over-algoritmen ]> bijlagen-wob-besluit-gebruik-en-werking-van-algoritmes.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 661[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/05/11 ]> programma-een-thuis-voor-iedereen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/11/17/beantwoording-vragen-begroting-bzk ]> beantwoording-schriftelijke-vragen-begroting-bzk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/12/14 ]> meerjarenbeleidsplan-igz-2012-2015.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/05/22 ]> beantwoording-kamervragen-financieel-jaarverslag-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2018/05/01 ]> jaarverslag-2017-hgis.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2016/12/29 ]> erzamelbrief-aan-gemeenten-2016-2.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 662[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/11/02 ]> beantwoording-feitelijke-vragen-inzake-hgis-nota-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2019/06/05 ]> jaarverslag-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties-2018.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2020/05/20 ]> homogene-groep-internationale-samenwerking-jaarverslag-2019.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 19; BatchedItems: 100]...[0m
