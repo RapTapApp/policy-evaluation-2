@@ -1696,3 +1696,228 @@
 [32m[1m * File downloaded: [37m[22m[3m[ richtlijnen/2013/08/27/antwoorden-op-vragen-van-het-algemeen-dagblad-over-sona-deel-1 ]> vragen-en-antwoorden-algemeen-dagblad.pdf[0m
 [32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/10/17 ]> bijlage-reactie-op-schriftelijk-overleg-inzake-brief-vierlandenoverleg-ocw-en-voortgang-caribische-landen.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 8; BatchedItems: 100]...[0m
+[main b6e8551] Added batch #8 of policy-docs (total: 100
+ 101 files changed, 14782 insertions(+)
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/h-bes-fonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2016/09/20/iv-koninkrijksrelaties-rijksbegroting-2017/4.-iv-koninkrijksrelaties-en-bes-fonds.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2013/08/19/33-442-nota-van-wijziging.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2014/09/19/beleidsvisie-veiligheidsbeleid-midden-amerika-en-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/15/beslisnota-bij-overleggingsbrief-inzake-europese-overeenkomst-tot-bescherming-van-kleine-huisdieren.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/22/beslisnota-bij-kamerbrief-over-informatievoorziening-financieel-en-begrotingsbeheer-caribisch-nederland-2019-2021.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/09/26/tk-beslisnota-bij-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo-augustus-2022.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2014/06/19/besluitenlijst-bestuurlijk-overleg-evaluatie-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/brieven/2015/07/04/ek-bijlage-brief-inzake-nieuwe-consulaire-tarieven/lp-v-j-0000008588.pdf
+ create mode 100644 policy-documents/Archive/brieven/2015/07/04/tk-bijlage-brief-inzake-nieuwe-consulaire-tarieven/lp-v-j-0000008590.pdf
+ create mode 100644 policy-documents/Archive/brieven/2022/11/02/briefwisseling-regeringscommissaris-over-stand-van-zaken-criteria-fase-21.pdf
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/02/13/jaarplan-2014-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/jaarplannen/2018/02/13/jaarplan-2018-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/jaarplannen/2019/01/21/jaarplan-2019-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/iv-koninkrijksrelaties/iv-koninkrijksrelaties-rijksjaarverslag-2012.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2014/05/21/bes-fonds/h-bes-fonds-compleet.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/02/24/kamerbrief-jaarplan-2011-kustwacht-in-caribisch-gebied/brief-mindef-jaarplan-2011-kustwacht-in-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/07/08/aanbiedingsbrief-jaarverslag-2010-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het--F2F094E8/brief-mindef-aanbiedingsbrief-jaarverslag-2010-kwcarib.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/12/27/aanbiedingsbrief-bij-jaarplan-2012-kustwacht-caribisch-gebied/kamerbrief-jaarplan-2012-kwcarib.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/12/28/kamerbrief-over-motie-duurzame-energie-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/03/27/aanbiedingsbrief-rapport-over-verkenning-implementatie-verdrag-van-malta-op-de-eilanden-van-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/04/18/beantwoording-kamervragen-over-koopkrachtondersteuning-in-het-buitenland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-kamervragen-over-jaarverslag-en-slotwet-bes-fonds-2011.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/17/kamerbrief-over-regulerend-kader-elektriciteitsvoorziening-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/03/14/overzicht-voorgenomen-regelgeving-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/05/22/uitstelbrief-beanwoording-motie-heijnen-segers-inzake-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/06/18/kamerbrief-over-voortgang-zorg-in-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/02/10/kamerbrief-over-brief-raad-van-state-inzake-staatkundige-evaluatie-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/03/21/kamerbrief-kabinetsreactie-evaluatie-rijkscoordinatie-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/04/24/kamerbrief-antwoorden-op-vragen-szw-beleid-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/06/10/mvt-curacao.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/11/20/aanbiedingsbrief-bij-rapport-plan-van-aanpak-kinderrechten-eerste-aanzet.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/11/27/kamerbrief-over-meerjarenprogramma-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/03/03/kamerbrief-over-voortgang-onderwijsverbeteringen-in-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/03/30/nader-rapport-wetsvoorstel-invoering-profielen-vmbo.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2016/05/12/kamerbrief-met-kabinetsreactie-op-het-rapport-evaluatie-spies.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/02/23/beantwoording-kamervragen-over-het-jaarplan-2017-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/04/04/beantwoording-kamervragen-over-toestroom-van-venezolaanse-vluchtelingen-naar-curacao.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/05/29/antwoorden-kamervragen-over-het-bericht-verouderde-strafwet-bes-hindert-veroordeling-seksuele-delicten.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/07/05/kamerbrief-over-reactie-op-motie-over-beleid-leven-lang-leren-en-rol-bibliotheken-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/07/17/antwoorden-kamervragen-over-het-bericht-kustwacht-bonaire-niet-versterkt.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/09/21/kamerbrief-over-verslag-bestuurlijk-overleg-en-reis-saba-sint-eustatius-en-en-sint-maarten.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/10/09/beantwoording-kamervragen-over-reactie-bonaire-op-onderzoek-sociaal-minimum-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/12/12/bijlage-kamerbrief-inzake-verslag-raad-buitenlandse-zaken-van-10-december-2018.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/01/21/aanbiedingsbrief-bij-het-jaarplan-2019-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/04/29/kamerbrief-over-verzamelbrief-naar-aanleiding-van-het-algemeen-overleg-ao-koninkrijksrelaties-van-13-februari-2019.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/05/27/uitstelbrief-over-reactie-op-brief-over-postvoorziening-in-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/10/02/kamerbrief-over-uitkomsten-situation-analysis-en-stand-van-zaken-kinderrechten-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/01/17/beantwoording-kamervragen-over-voortgangsrapportage-ijkpunt-bestaanszekerheid-caribisch-B8AB271F/ek-wr-343-reactie-op-vragen-inzake-eerste-voortgangsrapportage-ijkpunt-bestaanszekerheid-cn.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/03/31/kamerbrief-tijdelijke-subsidieregeling-loonkosten-en-inkomensverlies-caribisch-nederland/tk-kamerbrief-tijdelijke-subsidieregeling-loonkosten-en-inkomensverlies-cn.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/04/23/kamerbrief-invulling-motie-bestrijding-armoede-en-dakloosheid-tijdens-coronacrisis/tk-invulling-motie-nijboer-cs.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/05/14/kamerbrief-over-voortgang-aanpak-huiselijk-geweld-en-kindermishandeling-in-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/09/18/nota-naar-aanleiding-van-verslag.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/10/09-bij-het-voorstel-van-de-tijdelijke-wet-maatregelen-covid-19/tweede-nota-van-wijziging.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/08/tk-aanbieding-midterm-review-van-de-nationale-veiligheid-strategie-2019.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/04/01/id10745-inbreng-so-voorhang-wijz-besluit-register-onderwijsdeelnemers.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/04/12/beantwoording-kamervragen-van-het-lid-de-groot-en-diertens-d66-over-de-vrachthaven-bonaire.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/09/03/nota-naar-aanleiding-van-het-verslag-wetsvoorstel-niet-indexeren-van-het-basiskinderbijslagbedrag.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/10/07/kamerbrief-met-kabinetsreactie-op-afsprakenlijst-ipko-augustus-2021-en-antwoorden-op-schriftelijke-vragen.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/10/12/antwoorden-op-kamervragen-over-rapport-van-committee-on-the-elimination-of-racial-discrimination/beantwoording-kamervragen-over-het-rapport-van-het-committee-on-the-elimination-of-racial-discrimination.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/12/14/beantwoording-nadere-kamervragen-commissies-szw-en-korel-over-eerste-rapportage-ambities-kinderarmoede.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/12/15/kamerbrief-vaststelling-bedragen-szw-domein-caribisch-nederland-2022.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/03/22/verduurzaming-energie-in-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/04/06/rappelabele-toezeggingen-minister-voor-armoedebeleid-participatie-en-pensioenen-februari-2022.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/04/25/kamerbrief-toezegging-informatie-over-invoering-dubbele-kinderbijslag-caribisch-nederland/uitstelbrief-over-toezegging-informeren-kamer-voor-het-meireces-over-de-invoering-van-de-dubbele-kinderbijslag.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/07/01/kamerbrief-over-reisverslagen-uitwerking-hoofdlijnenbrief-bestuurlijke-afspraken-caribisch-nederland-en-cn-enve-46E7815C.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/01/24/verzoek-informatie-verhoging-sociale-uitkeringen-versus-ijkpunt-sociaal-minimum.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/04/04/tk-periodieke-rapportage-inzet-rechtshandhaving-cariben-en-hoofdlijnen-jvo-januari-2023.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/04/24/rappel-ek-toezeggingen-minister-voor-app-april-2023.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/05/08/tk-rapport-raad-voor-de-rechtshandhaving-over-jeugdcriminaliteit-en-jeugdstrafrecht-bes.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/10/17/bijlage-reactie-op-schriftelijk-overleg-inzake-brief-vierlandenoverleg-ocw-en-voortgang-caribische-landen.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-februari24-organogram-nl.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-nl-organogram-juni-2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-nov23-organogrammen-nl.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-oktober-organogram-nl.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogram-apr-2023-nl.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogram-juli-2023-nl.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogram-mei2023-NL-v2.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogram-nl-aug2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogram-nl-dec2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/bzk-organogrammen-nl-januari2024.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/organogram-bzk-juni-2024.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/organogram-bzk-mei-2024.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2018/10/19/organogram-ministerie-van-bzk/organogram-bzk-nl-mei-2024.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/03/gespreksverslag-lessons-learned-corona-in-het-koninkrijk/lessons-learned-covid-in-caribisch-gebied-13042021.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/01/toezeggingen-caribisch-nederland.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/27/bijlage-rapport-raad-voor-de-rechtshandhaving/lp-v-j-0000002937.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/21/onderzoek-deregulering-en-taakverlichting-cn.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/10/01/vijf-jaar-caribisch-nederland-gevolgen-voor-de-bevolking.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/07/23/tk-bijlage-fiu-nederland-jaaroverzicht-2018.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/09/06/tk-bijlage-eindversie-rapport-opvolging-aanbevelingen-reclassering.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/03/20/staat-van-het-bestuur-2022.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/03/20/staat-van-het-bestuur-2022/staat-van-bestuur-2022.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/06/27/tk-bijlage-5-internationaal.pdf
+ create mode 100644 policy-documents/Archive/richtlijnen/2013/08/27/antwoorden-op-vragen-van-het-algemeen-dagblad-over-sona-deel-1/vragen-en-antwoorden-algemeen-dagblad.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2023/04/26/agenda-rijksministerraad-26-april-2023/agenda-rijksministerraad-20230426.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2023/04/26/geannoteerde-besluitenlijst-rijksministerraad-26-april-2023/besluitenlijst-rijksministerraad-20230426.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/01/31/besluitenlijst-rijksministerraad-31-januari-2025/besluitenlijst-rijksministerraad-20250131.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/10/14/wob-verzoek-inzake-het-opvragen-van-taxatiegegevens-van-percelen-op-bonaire.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/11/27/besluit-wob-verzoek-dienstreizen-vanuit-nederlandse-ministeries-naar-caribisch-deel-va-551CC5E3/wob-verzoek-dienstreizen-ienm-naar-caribisch-gebied.pdf
+[32m[1m * File downloaded: [37m[22m[3m[ jaarplannen/2022/02/04 ]> jaarplan-2022-kustwacht-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 88[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/06/23 ]> kamerbrief-over-regelgeving-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/02/01 ]> kamerbrief-over-onderwijsaangelegenheden-op-de-bes-eilanden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2014/04/17 ]> afschrift-brief-aan-minister-plasterk-van-het-bestuurscollege-van-het-openbaar-lichaam-sint-eustatius.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/07/07 ]> antwoorden-op-kamervragen-over-de-ipko-reis-mei-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ formulieren/2015/03/03/visumaanvraagformulier-koninkrijk-der-nederlanden-caribische-gebiedsdelen ]> Bijlage_01_-_Visumaanvraagformulier.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/03/06 ]> advisory-committee-on-the-framework-convention-for-the-protection-of-national-minorities.-engels.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/03/28 ]> tweede-nota-van-wijziging.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2010/12/22/onderwijsbevoegdheid-van-leerkrachten-in-caribisch-nederland ]> 260280.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 89[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/06/12 ]> kamerbrief-reactie-op-de-briefwisseling-met-openbaar-lichaam-bonaire-m.b.t.-pensioenfonds-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/06/18 ]> kamerbrief-inzake-onafhankelijk-onderzoek-naar-visumverlening-in-de-caribische-delen-van-het-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/09/04 ]> kabinetsreactie-op-interparlementair-koninkrijksoverleg-juni-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/08/27 ]> beantwoording-kamervragen-over-russische-oorlogsschepen-en-bommenwerpers-in-de-buurt-van-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/02/03/antwoorden-kamervraag-over-het-toezicht-persoonsgegevens-in-het-visa-waiver-programma ]> lp-v-j-0000000424.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/09/01 ]> tk-bijlage-1-nota-naar-aanleiding-van-het-verslag-wijziging-bw-bes-ivm-afzien-geweld-in-de-opvoeding-van-kinderen-35-791.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2014/12/10 ]> reactie-bestuurscollege-saba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/04/17 ]> beantwoording-kamervragen-over-de-hoge-inflatie-in-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/04/16 ]> kamerbrief-over-voortgang-informatiebeveiliging-sso-caribisch-nederland.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 90[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/05/10 ]> aanbieding-eindrapport-klimaattafel-bonaire.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/02/19 ]> antwoorden-kamervragen-naar-aanleiding-reis-naar-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/02/08 ]> beantwoording-kamervragen-over-werkbezoek-saba-en-sint-eustatius-januari-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/05/22 ]> tk-bijlage-aanbieding-jaaroverzicht-fiu-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2011/08/26 ]> actualisering-notitie-het-buitenlands-beleid-van-het-koninkrijk-in-de-cariben.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/06/29 ]> beantwoording-kamervragen-over-het-jaarverslag-2017-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribi-B2C557A7.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/07/10 ]> aanbieding-nota-naar-aanleiding-van-verslag-eerste-kamer-over-raamverdrag-vs-over-defensieaangelegenheden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/05/23 ]> tk-bijlage-fiu-jaaroverzicht-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/06/26 ]> antwoorden-op-kamervragen-over-de-wijziging-begrotingsstaten-ministerie-van-ocw.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2017/05/17 ]> jaarverslag-2016-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 91[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/12/18 ]> kamerbrief-over-inventarisatie-kiescolleges-eerste-kamer.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/06/22 ]> armoede-in-caribisch-nederland-een-verkenning.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/06/11/jaaroverzicht-2012-financial-intelligence-unit-nederland ]> lp-v-j-0000003466.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarplannen/2011/12/27/jaarplan-2012-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied ]> brief-mindef-bijlage-jaarplan-2012-kwcarib-tk1.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/06/03 ]> voorstel-van-wet-bij-aanpassingswet-ocw-wetten-bes.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/05/28 ]> lange-termijn-plan-2019-2028-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/04/20 ]> tk-bijlage-inrichting-van-de-repressieve-brandweerzorg.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarplannen/2016/12/22 ]> jaarplan-2017-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2013/04/19 ]> overzicht.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 92[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/03/21 ]> kamerbrief-over-whisc-en-verdrag-van-san-jose.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2022/12/12 ]> beslisnota-beantwoording-kamervragen-bankzaken-saba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/11/20 ]> kamerbrief-over-wijziging-van-algemene-maatregelen-van-bestuur-van-het-basis-en-voortgezet-onderwijs-voor-europ-04B9BBA4.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/03/01 ]> beantwoording-kamervragen-over-planning-memorie-van-antwoord-rijkswet-koninkrijksgeschillen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/10/05 ]> kamerbrief-met-reactie-op-motie-omtzigt-over-de-wisselkoersproblematiek.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2010/04/06/kamerbrief-over-de-sepotbeslissing-van-het-om-na-inzake-een-schietincident-te-curacao-2007 ]> brief-mindef-sepotbeslissing-om-na-schietincident-cur-1.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/11/06 ]> afvalbeheer-in-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/05/25 ]> reactie-op-brief-over-kindermisbruik-caribisch-deel-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/08/29 ]> kamerbrief-over-onderzoek-naar-onderwijs-in-het-engels-in-caribisch-nederland.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 93[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2022/12/22 ]> beslisnota-bij-kamerbrief-bij-comply-or-explain-wetgevingsoverzicht.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/10/01 ]> beantwoording-kamervragen-over-een-bigregistratie-voor-personen-die-een-opleiding-hebben-genoten-op-een-van-de--EC2B6B96.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2015/09/15 ]> iv-koninkrijksrelaties-rijksbegroting-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarplannen/2014/12/18 ]> jaarplan-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2022/05/18 ]> jaarverslag-2021-kw-carib.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/09/26 ]> beantwoording-kamervragen-ontwerpbegroting-2015-van-koninkrijksrelaties-iv-en-bes-fonds-h.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/01/27 ]> memorie-van-toelichting-bij-aanpassingswet-studiefinanciering-bes.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/10/14/kamerbrief-over-lopende-zaken-koninkrijksrelaties-en-reactie-op-verzoeken ]> kamerbrief-over-stand-van-zaken-en-planningen-dossiers-koninkrijksrelaties-en-reacties-op-drie-verzoeken-van-de-39BADBF7.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/03/02 ]> de-kwaliteit-van-de-residentiele-zorg-bij-kas-di-karko.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 94[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2012/09/18 ]> h-bes-fonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2015/05/20/bes-fonds ]> h-bes-fonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2023/04/11 ]> periodieke-update-wetgevingsoverzicht-caribisch-nederland-april-2023.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/12/22 ]> wetgevingsoverzicht-comply-or-explain.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/06/22 ]> kamerbrief-toezeggingen-algemeen-overleg-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/06/27 ]> bijlage-beantwoording-kamervragen-1e-suppletoire-begroting-ocw-2012.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/06/08 ]> beantwoording-kamervragen-jaarverslag-kr-iv.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/06/19 ]> tk-reactie-op-de-staat-van-de-rechtshandhaving-van-caribisch-nederland-2017-van-de-raad-voor-de-rechtshandhaving.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/01/19 ]> kamerbrief-over-beleid-gezondheidszorg-op-bes-eilanden.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 95[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/10/10 ]> beantwoording-kamervragen-begroting-2012-bes-fonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2018/07/13 ]> een-koninkrijk-vier-landen-europees-en-caribisch.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brochures/2015/04/01 ]> het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/03/17 ]> kamerbrief-met-verslag-werkbezoek-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/06/17 ]> tk-bijlage-5-internationale-politiesamenwerking.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/12/19 ]> tk-aanbieding-rapporten-raad-voor-de-rechtshandhaving.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brochures/2015/04/01/gearresteerd-in-de-dominicaanse-republiek ]> gearresteerd-in-de-dom-republiek-hr.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/09/05 ]> beantwoording-kamervragen-betreft-bericht-over-de-gebrekkige-beschikbaarheid-npo-uitzendingen-in-het-buitenland-E0DC3C99.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/06/27 ]> beantwoording-kamervragen-over-het-bericht-`bonaire-overspoeld-met-sargassum-zeewier'.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 96[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/08/16 ]> verslag-werkbezoek-saba-en-sint-eustatius-25-27-juni-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/11/27 ]> kamerbrief-over-vn-verdrag-handicap-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/07/03 ]> kamerbrief-bij-ontwerpbesluit-wijziging-diverse-algemene-maatregelen-van-bestuur-op-het-terrein-van-primair-en--73E26D72.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/10/29 ]> kamerbrief-inzake-reactie-op-brieven-woningcorporatie-bonaire.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/11/20 ]> kamerbrief-over-wijziging-van-algemene-maatregelen-van-bestuur-van-het-primair-en-voortgezet-onderwijs-voor-eur-B256CD24.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/09/01 ]> kamerbrief-overzicht-stortingen-in-het-pensioenfonds-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2023/04/11 ]> beslisnota-bij-antwoorden-op-kamervragen-vso-over-comply-or-explain-en-update-wetgevingsoverzicht-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ regelingen/2020/06/29/opengestelde-monumenten-lening-nationaal-restauratiefonds ]> 4e-allonge-wijziging-van-de-overeenkomst.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/12/16 ]> bijlage-concept-jaarplanning-szw-2023.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/12/09/antwoorden-op-kamervragen-over-2e-suppletoire-begroting-koninkrijksrelaties ]> antwoorden-op-kamervragen-iv-2e-sup-2022-kr.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 97[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/02/09 ]> tk-onderzoek-raad-voor-de-rechtshandhaving-inzake-buitengewone-agenten-van-politie-in-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/05/20 ]> beantwoorden-kamervragen-over-de-rol-van-de-karel-doorman-in-de-caribische-zee.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/05/11 ]> antwoorden-op-de-vragen-over-de-43-zorgmedewerkers-die-door-nederland-naar-curacao-zijn-gestuurd.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ regelingen/2020/06/29/opengestelde-monumenten-lening-nationaal-restauratiefonds ]> 3e-allonge-wijziging-van-de-overeenkomst.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2021/09/21/iv-koninkrijksrelaties-rijksbegroting-2022 ]> 4 Koninkrijksrelaties en BES-fonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/09/07 ]> kamerbrief-over-versterking-rechtshandhaving-caribische-landen-in-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2013/02/11 ]> afschrift-brief-aan-minister-president-sint-maarten-met-diverse-onderwerpen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/04/15/aanbiedingsbrief-bij-onderwijsagenda-caribisch-nederland ]> aanbiedingsbrief-bij-de-onderwijsagenda-caribisch-deel-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2022/11/23 ]> bijlage-1-financien-szw-aanpak-geldzorgen-armoede-en-schulden.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 98[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/11/29 ]> bijlage-1-financien-szw-aanpak-geldzorgen-armoede-en-schulden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/12/16 ]> kamerbrief-over-uitvoering-begroting-2019-koninkrijksrelaties.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/06/22 ]> reactie-verzoek-vaste-kamercommissie-koninkrijksrelaties-over-abn-amro-en-st-eustatius.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/12/18 ]> kamerbrief-over-jaarplan-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/06/04 ]> kamerbrief-over-gevolgen-bezuinigingen-op-fysiotherapeutische-zorg-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/05/06 ]> kamerbrief-over-rapport-zorg-in-landen-rond-caribisch-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/04/03 ]> kamerbrief-over-werkwijze-ind-op-saba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2022/01/07/afschrift-2e-reactie-op-benoemingstermijn-plaatsvervangend-rijksvertegenwoordiger ]> bijlage-3-tweede-brief-dd-7-jan22-over-benoemingstermijn-plv-rijksvertegenwoordiger.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 9; BatchedItems: 100]...[0m
