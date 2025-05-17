@@ -381,7 +381,7 @@ try {
 
 
     $Logging.Info_StartedDownloadingAllFiles()
-    $Search = Initialize-Search -StartFromPageNr 1
+    $Search = Initialize-Search -StartFromPageNr 307
 
     while (-not $Search.HasFinishedPages) {
 
