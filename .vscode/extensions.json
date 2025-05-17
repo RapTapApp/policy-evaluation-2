@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    // Languages:
+    "ms-toolsai.jupyter-renderers", //            Jupyter notebook
+    "ms-vscode.powershell", //                    PowerShell
+    "ms-python.python", //                        Python
+    // Documentation:
+    "ban.spellright", //                          Checking spelling
+    "DavidAnson.vscode-markdownlint", //          Markdown linter
+    "bierner.markdown-mermaid", //                Markdown mermaid diagrams
+    "darkriszty.markdown-table-prettify", //      Markdown table formatter
+    // Data-files:
+    "GrapeCity.gc-excelviewer", //                CSV & Excel-files
+    "redhat.vscode-xml", //                       XML-files
+    "redhat.vscode-yaml", //                      YAML-files
+    // Environment:
+    "mutantdino.resourcemonitor" //               Resource monitor
+  ]
+}

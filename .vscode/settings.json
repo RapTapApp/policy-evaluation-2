@@ -1,0 +1,261 @@
+{
+  /*
+    ---[ Language override: json ]---
+  */
+  "[json]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    // Disable formatting
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  /*
+    ---[ Language override: json (with comments) ]---
+  */
+  "[jsonc]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    // Disable formatting
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  /*
+    ---[ Language override: markdown ]---
+  */
+  "[markdown]": {
+    "editor.defaultFormatter": "darkriszty.markdown-table-prettify",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "off",
+    "editor.renderWhitespace": "trailing",
+    // Disable formatting
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    // Disable trimming whitespace
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": false,
+    "files.trimTrailingWhitespace": false,
+    "editor.trimAutoWhitespace": false
+  },
+  /*
+    ---[ Language override: yaml ]---
+  */
+  "[yaml]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    // Disable formatting
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  /*
+    ---[ Language override: xml ]---
+  */
+  "[xml]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    // Disable formatting
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  /*
+
+
+    ---[ IDE: Associate file-extensions with languages ]---
+  */
+  "files.associations": {
+    // PowerShell
+    "**/*.Format.ps1xml": "xml",
+    "**/*.Types.ps1xml": "xml",
+  },
+  /*
+
+
+    ---[ IDE: Editor ]---
+  */
+  "editor.formatOnSave": true,
+  "editor.parameterHints.cycle": true,
+  "editor.parameterHints.enabled": true,
+  "editor.rulers": [
+    128
+  ],
+  /*
+    ---[ IDE: Editor: Indentation ]---
+  */
+  "editor.autoIndent": "full",
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.trimAutoWhitespace": true,
+  /*
+
+
+    ---[ IDE: Explorer ]---
+  */
+  "explorer.fileNesting.enabled": true,
+  "explorer.sortOrderLexicographicOptions": "unicode",
+  /*
+
+
+    ---[ IDE: Files ]---
+  */
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.defaultLanguage": "",
+  "files.enableTrash": true,
+  "files.encoding": "utf8",
+  /*
+    ---[ IDE: Files: Whitespace ]---
+  */
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  /*
+
+
+    ---[ EXT: spellright ]---
+  */
+  "spellright.addToSystemDictionary": true,
+  "spellright.useDocumentSymbolsInCode": true,
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  /*
+
+
+    ---[ Ext: Git ]---
+  */
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  /*
+
+
+    ---[ Ext: Markdown ]---
+  */
+  "markdown.math.enabled": true,
+  /*
+
+
+    ---[ EXT: Markdown: Linter ]---
+  */
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": [
+        "br",
+        "sup",
+        "kbd"
+      ]
+    },
+    "MD041": false,
+    "MD049": {
+      "style": "underscore"
+    }
+  },
+  /*
+
+
+    ---[ EXT: PowerShell: Run-time ]---
+  */
+  "powershell.powerShellDefaultVersion": "PowerShell (x64)",
+  "powershell.enableProfileLoading": false,
+  "powershell.startAutomatically": true,
+  /*
+
+
+    ---[ EXT: PowerShell: Gui ]---
+  */
+  "powershell.helpCompletion": "LineComment",
+  "powershell.buttons.showPanelMovementButtons": false,
+  "powershell.buttons.showRunButtons": true,
+  /*
+
+
+    ---[ EXT: PowerShell: Code-folding ]---
+  */
+  "powershell.codeFolding.enable": true,
+  "powershell.codeFolding.showLastLine": false,
+  /*
+    ---[ EXT: PowerShell: Code-formatting ]---
+  */
+  "powershell.codeFormatting.autoCorrectAliases": true,
+  "powershell.codeFormatting.avoidSemicolonsAsLineTerminators": true,
+  "powershell.codeFormatting.ignoreOneLineBlock": false,
+  "powershell.codeFormatting.useConstantStrings": true,
+  "powershell.codeFormatting.useCorrectCasing": true,
+  /*
+  ---[ EXT: PowerShell: Code-formatting: Indentation ]---
+  */
+  "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline",
+  "powershell.codeFormatting.preset": "OTBS",
+  /*
+    ---[ EXT: PowerShell: Code-formatting: Whitespace ]---
+  */
+  "powershell.codeFormatting.addWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.alignPropertyValuePairs": true,
+  "powershell.codeFormatting.newLineAfterCloseBrace": true,
+  "powershell.codeFormatting.newLineAfterOpenBrace": true,
+  "powershell.codeFormatting.openBraceOnSameLine": true,
+  "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.whitespaceAfterSeparator": true,
+  "powershell.codeFormatting.whitespaceAroundOperator": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+  "powershell.codeFormatting.whitespaceBetweenParameters": true,
+  "powershell.codeFormatting.whitespaceInsideBrace": true,
+  /*
+
+
+    ---[ EXT: PowerShell: Debugging ]---
+  */
+  "powershell.debugging.createTemporaryIntegratedConsole": false,
+  /*
+    ---[ EXT: PowerShell: Integrated-console ]---
+  */
+  "powershell.integratedConsole.focusConsoleOnExecute": true,
+  "powershell.integratedConsole.forceClearScrollbackBuffer": true,
+  "powershell.integratedConsole.showOnStartup": false,
+  "powershell.integratedConsole.suppressStartupBanner": false,
+  "powershell.integratedConsole.useLegacyReadLine": false,
+  /*
+    ---[ EXT: PowerShell: Pester ]---
+  */
+  "powershell.pester.codeLens": true,
+  "powershell.pester.debugOutputVerbosity": "Diagnostic",
+  "powershell.pester.outputVerbosity": "Normal",
+  "powershell.pester.useLegacyCodeLens": false,
+  /*
+    ---[ EXT: PowerShell: Script-analysis ]---
+  */
+  "powershell.scriptAnalysis.enable": true,
+  "powershell.scriptAnalysis.settingsPath": ".vscode/settings.ext/powershell/script-analysis.psd1",
+  /*
+
+
+    ---[ EXT: Xml (schemas) ]---
+  */
+  "xml.fileAssociations": [
+    {
+      "systemId": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/src/Schemas/Format.xsd",
+      "pattern": "**/*.Format.ps1xml"
+    },
+    {
+      "systemId": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/src/Schemas/Types.xsd",
+      "pattern": "**/*.Types.ps1xml"
+    }
+  ]
+  /*
+
+
+    ---[ EOC (end of config) ]---
+  */
+}
