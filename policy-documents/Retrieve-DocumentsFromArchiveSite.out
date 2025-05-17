@@ -5532,3 +5532,226 @@
 [37m[3m - Search[719] => Got results from page 279[0m
 [32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/08/01 ]> advieskader-meer-ruimte-voor-nieuwe-scholen.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 25; BatchedItems: 100]...[0m
+[main 863952b] Added batch #25 of policy-docs (total: 100
+ 101 files changed, 227 insertions(+)
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xv-sociale-zaken-en-werkgelegenheid/15-sociale-zaken-en-werkgelegenheid.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2014/11/25/2e-suppletoire-begroting-2014-szw.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/01/31/beslisnota-bij-nader-rapport-inzake-voorstel-van-rijkswet-houdende-goedkeuring-van-het-vn-verdrag-inzake-staats-780FFE4C.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/31/beslisnota-bij-kamerbrief-ek-verlening-tijdelijke-wet-digitaal-vergaderen.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/23/onderliggende-beslisnota-verzamelbrief-luchtvaart-2022.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/29/beslisnota-bij-kamerbrief-over-commissieverzoek-om-reactie-op-nrc-artikel-en-nvvb-standpunt/beslisnota-bij-kamerbrief-reactie-op-commissiebrief-mbt-verzoek-om-reactie-op-nrc-artikel-en-standpunt-nvvb.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/05/31/onderliggende-beslisnota-s-kamerbrief-cd-water-7-juni-2023.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2021/05/04/concept-besluit-van-houdende-de-tweede-verlenging-van-de-geldingsduur-van-de-tijdelijke-wet-maatregelen-covid-19.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2022/06/15/concept-beleidsbesluit-ouders-in-het-buitenland.pdf
+ create mode 100644 policy-documents/Archive/brieven/2014/11/19/overzicht-van-regelgeving-kennisdeling-experimenten-en-pilots.pdf
+ create mode 100644 policy-documents/Archive/brieven/2019/04/05/toezeggingen-binnenlandse-zaken-en-koninkrijksrelaties-rappel-februari-2019.pdf
+ create mode 100644 policy-documents/Archive/convenanten/2022/06/16/bestuurlijke-werkafspraken-bonaire-2022-2023.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2022/05/18/defensie-2021/jaarverslag-en-slotwet-ministerie-van-defensie-2021.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2011/12/02/beantwoording-kamervragen-over-het-artikel-luchtvaartsector-curacao-krijgt-nederlandse-hulp.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/02/06/nultarief-op-transportkosten.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/03/12/kamerbrief-evaluatie-wet-openbare-lichamen-bes-en-wet-financien-bes.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/04/20/kamerbrief-over-valero-raffinaderij-op-aruba.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/07/01/overzicht-toezeggingen.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/10/18/kamerbrief-over-beleid-invasieve-exotische-muggen.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/06/03/het-algemeen-deel-van-de-memorie-van-toelichting.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/06/23/memorie-van-toelichting-wapenhandelsverdrag.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/10/21/tk-politieonderwijs-bes-brief-van-de-raad-voor-de-rechtshandhaving/lp-v-j-0000006632.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/07/01/kamerbrief-over-evaluatie-gecombineerde-provinciale-staten-en-waterschapsverkiezingen-en-eilandsraadverkiezinge-AD8779A4.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/07/16/kamerbrief-bij-overzicht-internationale-aanbevelingen-op-gebied-van-mensenrechten.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/08/26/beantwoording-kamervragen-over-de-arrestatie-van-carvajal-en-dreigende-inval-venezuela-op-aruba.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2016/03/21/beantwoording-kamervragen-over-beleidsdoorlichting-van-artikel-18-natuur-en-regio.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2016/04/25/kamerbrief-met-reactie-op-het-overzicht-openstaande-toezeggingen.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/01/13/kamerbrief-over-planning-stukken-2017.pdf
+ create mode 100644 "policy-documents/Archive/kamerstukken/2017/04/24/aanbieding-eindrapport-van-de-evaluatie-van-de-meerjarenprogramma\342\200\231s-fondo-desaroyo-aruba-fda.pdf"
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/06/21/kamerbrief-kabinetsreactie-beleidsdoorlichting-zw-en-wazo.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/06/27/beantwoording-kamervragen-over-de-a-brief-vervanging-onderzeebootcapaciteit.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/12/21/kamerbrief-over-uitbreiding-neonatale-hielprikscreening.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/01/11/kamerbrief-met-reactie-op-verzoek-om-brief-met-inzet-koninkrijksregering-voor-het-overleg-met-venezuela.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/04/06/beantwoording-kamervragen-over-goudsmokkel-vanuit-venezuela-naar-aruba-curacao-en-bonaire.pdf
+ create mode 100644 "policy-documents/Archive/kamerstukken/2018/05/02/kamerbrief-met-a-brief-project-\342\200\230midlife-update-zr.ms.-johan-de-witt\342\200\231.pdf"
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/09/13/nader-rapport-wet-schadefonds-geweldsmisdrijven.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/11/22/kamerbrief-over-reactie-op-het-rapport-over-het-wwf-living-planet-report-2018.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/11/29/aanvullende-post.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2018/12/14/kamerbrief-verzoek-om-reactie-op-de-venezolaanse-vluchtelingenproblematiek-en-de-nederlandse-rol-in-de-opvang.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/06/26/kamerbrief-verbeteringen-reisdocumentenstelsel.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/10/11/beleidsdoorlichting-artikel-21-duurzaamheid.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/12/16/kamerbrief-over-begrotingswijzigingen-ten-opzichte-van-de-2e-suppletoire-begroting-2019-van-het-ministerie-van--C6E0F61E.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/12/16/overzicht-mutaties-na-najaarsnota-vws-begroting-2019.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/02/11/nota-naar-aanleiding-van-verslag-kadasterwet-bes/nota-naar-aanleiding-van-het-verslag-over-kadasterwet-bes.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/05/15/kamerbrief-compensatie-studenten-en-ondersteuningsmaatregelen-onderwijs-covid-19.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/06/12/antwoorden-op-vragen-over-humanitaire-hulp-aan-venezuela-via-hub-op-curacao/bijlage-beantwoording-feitelijke-vragen-verlenging-verdrag-vs-curacao-inzake-humanitaire-hulp-aan-venezuela-via-D759620E.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/08/28/afbouw-tijdelijke-versoepeling-uitstel-van-betaling-in-verband-met-covid-19.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/09/15/aanbiedingsbrief-met-de-inzetbaarheidsrapportage-1e-helft-2020.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/18/beantwoording-kamervragen-over-het-bericht-onzekerheid-over-vaccinatiedatum-bes-en-cas.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26/verslag-so-voorhang-bekostiging-in-het-vo-def.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/04/20/id-8374-k-2-besluit-bekostiging-wvo-2021-vereenvoudiging-bekostiging-vo.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/05/26/memorie-van-toelichting-7e-incidentele-suppletoire-begroting-2021-vws/zevende-incidentele-suppletoire-begroting-vws-2021-memorie-van-toelichting.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/05/31/kamerbrief-over-zevende-voortgangsrapportage-over-de-bestuurlijke-ingreep-sint-eustatius.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/06/09/beantwoording-kamervragen-over-een-coronatoegangsbewijs-voor-nederlanders-die-in-het-buitenland-gevaccineerd-worden.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/06/18/antwoorden-op-feitelijke-vragen-over-de-wijziging-van-de-begrotingsstaten-van-het-ministerie-van-ocw-voor-het-j-636DFE7E.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/11/11/20211020-nota-nav-verslag-vkc-tk.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/01/14/memorie-van-toelichting.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/03/11/status-luchtvaartnota.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/06/21/beleidsbesluit-ouders-in-het-buitenland.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/07/07/kamerbrief-over-opvolging-aanbevelingen-vn-kinderrechtencomite.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/07/15/implementatie-beleidsvisie-collecties-uit-een-koloniale-context.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/09/20/tweede-kamer-koopkrachtbrief.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/11/10/antwoorden-kamervragen-over-de-internationale-aanpak-van-georganiseerde-drugscriminaliteit-en-criminele-geldstromen.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2015/11/04/bijlagen-bij-besluit-wob-verzoek-declaraties-medewerkers-szw/bijlage-3-szw-deel-25.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2021/06/04/memorie-van-toelichting.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2022/05/17/planningsoverzicht-tweede-kamerstukken-2022/planningsoverzicht-vaste-commissie-voor-binnenlandse-zaken.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/23/bijlagen-bij-kamerbrief-over-toezending-documenten-met-betrekking-tot-de-denktank-desinformatie-51-101.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/18/planningsoverzicht-2023-bzk/planningsoverzicht-vaste-commissie-voor-binnenlandse-zaken-2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2023/05/11/bevindingen-verwerkingsregister-buitenlandse-zaken.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2007/10/08/wodc-rapport-georganiseerde-criminaliteit-en-rechtshandhaving-op-st-maarten/st-maarten.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/18/het-opsporingsproces-door-de-recherche-op-bonaire-sint-eustatius-en-saba/lp-v-j-0000004062.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/10/06/rapport-specifiek-onderzoek-naar-de-ontwikkeling-van-het-bestuurlijk-handelen-bij-de-gwendoline-van-putten-school.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/10/07/verzekerdenmonitor-2014.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/10/14/vws-verzekerdenmonitor-2015.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/10/10/onderzoekskader-mbo.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/12/evaluatie-door-college-vijf-jaar-college-voor-de-rechten-van-de-mens.pdf
+ create mode 100644 "policy-documents/Archive/rapporten/2018/02/05/rapport-\342\200\230nabijheid-of-distantie-een-wereld-van-verschil\342\200\231.pdf"
+ create mode 100644 policy-documents/Archive/rapporten/2018/08/28/tk-bijlage-kustwacht.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/09/13/rvs-wetsvoorstel-met-mvt-wijziging-wet-schadefonds-geweldsmisdrijven.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/02/08/tussenadvies-commissie-collectie-nederland.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/08/01/advieskader-meer-ruimte-voor-nieuwe-scholen.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/11/09/landspakket-aruba-uitvoeringsagenda-1-oktober-31-december-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/11/15/tk-bijlage-2-meerjarenagenda-slachtofferbeleid-2018-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/12/01/landspakket-aruba-uitvoeringsagenda-1-januari-31-maart-2022.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/07/08/2022121464-2-bijlage-nationale-veiligheidsanalyse-rapport-risicobeheersmaatregelen.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/08/30/nationaal-programma-tegen-discriminatie-en-racisme-2022/rapport-ncdr-nationaal-programma-2022.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/10/12/ocw-agenda-tegen-discriminatie-en-racisme.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/02/22/tk-bijlage-1-nota-naar-aanleiding-van-het-verslag-behandeling-tk-wet-seksuele-misdrijven-36222.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/07/10/tk-bijlage-2-bwo-szw-factsheet-sc-demografische-ontwikkelingen-2050.pdf
+ create mode 100644 policy-documents/Archive/regelingen/2021/01/14/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-bonaire-de-tijdelijke-regeling-maatregelen-covid-19-s-90B382AC.pdf
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/09/regeling-houdende-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-het-invoeren-van-her-2F3FAA92.pdf
+ create mode 100644 policy-documents/Archive/regelingen/2023/09/11/ontwerpregeling-regionaal-investeringsfonds-mbo-2024-2027.pdf
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/06/01/onderzoekskader-2017-voor-het-toezicht-op-de-voorschoolse-educatie-en-het-primair-onderwijs.pdf
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/06/01/onderzoekskader-2017-voor-het-toezicht-op-het-voortgezet-onderwijs.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2020/07/15/verslag-raad-buitenlandse-zaken-van-13-juli-2020.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2021/06/04/geannoteerde-besluitenlijst-ministerraad-4-juni-2021/geannoteerde-besluitenlijst-ministerraad-20210604.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2023/03/07/documenten-ter-ondersteuning-van-besluitvorming-over-coronamaatregelen-7-maart-2023/voorstel-besluitvorming-omgang-resterende-adviezen-covid-19.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2023/12/15/geannoteerde-besluitenlijst-ministerraad-15-december-2023/besluitenlijst-ministerraad-20231215.pdf
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/11/29/besluitenlijst-rijksministerraad-29-november-2024/besluitenlijst-rijksministerraad-20241129.pdf
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/07/11/besluit-woo-verzoek-inzetbaarheidsrapportages-defensie/woo-besluit-inzetgereedheidsrapportages.pdf
+[32m[1m * File downloaded: [37m[22m[3m[ richtlijnen/2014/05/06 ]> profielschets-rijksvertegenwoordiger-voor-de-openbare-lichamen-bonaire-sint-eustatius-en-saba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/03/20 ]> kamerbrief-over-maatregelen-douaneversterking-ter-bestrijding-van-handel-in-ivoor.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/01/12 ]> toekomstvisie-isla-raffinaderij-curacao.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/06/06 ]> kamerbrief-over-verschillende-onderwerpen-van-het-caribisch-deel-van-het-koninkrijk.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/06/14 ]> beantwoording-kamervragen-verhoging-van-de-eu-uitgaven-aan-ontwikkelingshulp.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2022/06/08 ]> beslisnota-van-iw-inzake-reglementen-bij-overeenkomst-inzake-wielvoertuigen-1958-wp-29-vergadering-maart-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/10/05 ]> salarissen-in-het-primair-onderwijs.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/09/03/geannoteerde-besluitenlijst-rijksministerraad-3-september-2021 ]> besluitenlijst-rijksministerraad-20210903.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2021/11/11 ]> beslisnota-bij-papiaments-mbo-opleidingen-bonaire-wijziging-web-bes.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 280[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/12/17/geannoteerde-besluitenlijst-rijksministerraad-17-december-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20211217.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/05/03 ]> geannoteerde-agenda-informele-raad-algemene-zaken-van-17-mei-2021.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/09/28 ]> nader-rapport-over-de-wijziging-van-de-mediawet.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/12/17/geannoteerde-besluitenlijst-rijksministerraad-17-december-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20211217-v2.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2018/01/19 ]> overzicht-verwachte-kamerbrieven-ocw-2018.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/09/07 ]> jaarplanning-kamercommissies-szw-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/10/10 ]> kamerbrief-overzicht-bestedingen-voor-onbedoelde-tiener-zwangerschappen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/12/14 ]> deskundigenoordeel-beleidsdoorlichting-artikel-10-begroting-szw-tegemoetkoming-ouders.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/08/29 ]> kamerbrief-over-kabinetsappreciatie-afsprakenlijst-interparlementair-koninkrijksoverleg.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 281[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/02/19 ]> tk-bijlage-advies-ap-derde-nota-van-wijziging.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/06/22 ]> antwoorden-kamervragen-over-het-bericht-dat-een-curacaose-loterij-het-ook-goed-doet-in-nederland.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/11/18 ]> kamerbrief-inzake-verlenging-subsidieregelingen-rijksoverheid-per-1-januari-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/01/31/kamerbrief-reactie-op-moties-over-excuses-voor-nederlands-slavernijverleden ]> kamerbrief-over-appreciatie-moties-excuses-voor-nederlandse-slavernijverleden-en-in-te-stellen-bewustwordingsfonds.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/04/17 ]> kamerbrief-over-toevoegen-adrenoleukodystrofie-aan-de-hielprikscreening.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2023/10/27/geannoteerde-besluitenlijst-rijksministerraad-27-oktober-2023 ]> besluitenlijst-rijksministerraad-20231027.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2019/09/17/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2020 ]> 15_SocialeZaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/07/03 ]> publieksmonitor-bzk-1-meting.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2022/05/04 ]> concept-nota-van-toelichting.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 282[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2012/04/19 ]> hoofdlijnenbrief-sloa-2013-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/06/25/geannoteerde-besluitenlijst-ministerraad-25-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210625.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/12/02 ]> tk-bijlage-het-aangifteproces-op-bonaire-sint-eustatius-en-saba-tweede-vervolgonderzoek.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/06/25/geannoteerde-besluitenlijst-ministerraad-25-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210625v2.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/06/30 ]> stand-van-zaken-communicatie-over-nieuwe-donorwet-met-bijzondere-doelgroepen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2020/10/30 ]> interim-auditrapport-oktober-2020.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2023/09/18 ]> tk-memorie-van-toelichting-wijziging-van-boek-3-van-het-burgerlijk-wetboek-en-van-boek-3-van-het-burgerlijk-wetboek-bes.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 283[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/03/13 ]> samenvatting-structuurvisie-infrastructuur-en-ruimte.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/07/01 ]> bijlage-bestedingsplan-luchtvaartautoriteit.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/03/29 ]> tk-bijlage-gezamenlijke-koninkrijksreactie-evaluatie-justitiele-rijkswetten.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/10/10 ]> onderzoekskader-po.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/06/01 ]> onderzoekskader-2017-voor-het-toezicht-op-de-voorschoolse-educatie-en-het-primair-onderwijs.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2020/05/20/buitenlandse-zaken-2019 ]> v-buitenlandse-zaken.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2022/05/18/onderwijs-cultuur-en-wetenschap-2021 ]> jaarverslag-en-slotwet-ministerie-van-onderwijs-cultuur-en-wetenschap-2021.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2012/12/18 ]> antwoorden-schriftelijke-kamervragen-2e-suppletoire-begroting-vws-2012.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/09/24 ]> kamerbrief-over-stand-van-zaken-sint-eustatius.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2018/06/25 ]> lijst-van-vragen-en-antwoorden-van-de-begrotingsstaten-van-het-ministerie-van-ienw-en-het-infrastructuur-en-del-CCFEE886.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 284[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/09/15 ]> blauwe-boekje-2020.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/12/21 ]> bijlage-reactie-per-aanbeveling.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/03/10 ]> kamerbrief-over-besluiten-resterende-adviezen-covid-19.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2023/04/24 ]> mva-wetsvoorstel-herinvoering-loting.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/07/18 ]> bijlage-inzake-inbreng-so-raad-buitenlandse-zaken-dd-12-juli-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2020/03/27 ]> rapport-expertadvies-vereenvoudiging-doorbelasting-generieke-digitale-infrastructuur.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2010/11/29 ]> toolbox-diversiteit.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/06/11 ]> kamerbrief-over-visie-op-de-toekomst-van-de-onderzeedienst.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/07/02 ]> nota-naar-aanleiding-van-verslag-fvw-2013.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/09/13 ]> kamerbrief-over-de-energieprijzen-in-bonaire.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 285[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/06/06 ]> antwoorden-over-jaarverslag-en-slotwet-koninkrijksrelaties-2012-deel-1.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/04/04/landspakket-aruba-uitvoeringsagenda-1-april-30-juni-2022 ]> 2-uitvoeringsagenda-q2-2022-aruba.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/11/01 ]> memorie-van-antwoord.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/12/21 ]> kamerbrief-over-aanpassing-steunmaatregelen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ besluiten/2019/02/15 ]> wijziging-besluit-onderstand-bes.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2019/02/21 ]> wijziging-besluit-onderstand-bes-gerectificeerd.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/12/12 ]> beantwoording-kamervragen-over-wijziging-begrotingsstaten-ministerie-van-defensie-2019-samenhangende-met-de-najaarsnota.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/11/02 ]> lijst-van-vragen-en-antwoorden-stand-van-zaken-huurcommissie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/02/02 ]> landspakket-aruba-uitvoeringsagenda-1feb-1apr-2021.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/04/01 ]> landspakket-aruba-uitvoeringsagenda-1-april-30-juni-2021.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 286[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/06/29 ]> landspakket-aruba-uitvoeringsagenda-1-juli-30-september-2021.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2017/05/15 ]> afschrift-brief-aan-bestuurscollege-openbaar-lichaam-sint-eustatius.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/03/06 ]> beantwoording-kamervragen-over-stand-van-zaken-chikungunya.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2015/06/27/tk-memorie-van-toelichting-wetsvoorstel-verdrag-montreal-en-de-bes ]> lp-v-j-0000008480.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/05/13 ]> kamerbrief-over-de-voortgang-in-de-werkgroepen-en-projecten-uit-de-koninkrijksconferentie-2014.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2013/04/03 ]> beantwoording-kamervragen-over-bericht-dat-marine-wederom-ingeroepen-moest-worden-om-watervoorziening-op-saba-te-redden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/04/04 ]> schriftelijke-kamervragen-bij-de-vierde-incidentele-suppletoire-begroting-2022.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/02/09/antwoorden-op-kamervragen-over-nederlands-hulpgeld-voor-wederopbouw-sint-maarten ]> antwoorden-op-kamervragen-over-het-nederlandse-hulpgeld-voor-de-wederopbouw-van-sint-maarten.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2022/10/31 ]> beantwoording-vragen-van-het-lid-ephraim-groep-van-haga-aan-de-minister-van-financien-over-begroting-kaag-niet--A0C27AA6.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/03/16 ]> beantwoording-kamervragen-over-het-coronavirus-covid-19.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 287[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/04/11/memorie-van-toelichting ]> lp-v-j-0000000877.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/04/11/memorie-van-toelichting-zoals-voorgelegd-aan-rvs ]> lp-v-j-0000000879.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brieven/2018/12/21 ]> bijlage-1-planningsbrief-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/06/25 ]> beantwoording-kamervragen-over-het-archimedes-instituut.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2019/09/03 ]> rappel-juli-2019-toezeggingen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarplannen/2019/06/03 ]> saba-package-uitvoeringsagenda-januari-december-2019.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/05/25/kamerbrief-herziening-lnv-begroting ]> kamerbrief-over-herziening-lnv-begroting.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/10/27/nota-van-wijziging-bij-begrotingsstaat-vws-2021-vanwege-extra-middelen-ic-capaciteit-en-7B91F3CE ]> nota-van-wijziging-bij-begroting-vws-xvi-2021.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 288[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2020/12/15/kamerbrief-over-begrotingswijzigingen-2e-suppletoire-begroting-2020-van-landbouw-natuur-8EE030A4 ]> kamerbrief-over-begrotingswijzigingen-ten-opzichte-van-de-2e-suppletoire-begroting-2020-van-landbouw-natuur-en--0B4E52D6.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2016/09/02 ]> advies-raad-van-state-bij-verzamelwet-szw-2017.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/07/12 ]> wetsvoorstel-web-bes.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/07/15 ]> kamerbrief-tk-over-verslag-bezoek-benedenwindse-eilanden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2024/07/12/besluitenlijst-ministerraad-12-juli-2024 ]> besluitenlijst-ministerraad-20240712.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2020/09/15/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2021 ]> 15_Sociale_Zaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/10/10 ]> onderzoekskader-vo.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/07/06 ]> beantwoording-kamervragen-over-het-bericht-`curacaose-kust-gaat-dicht'.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2017/05/26 ]> beantwoording-kamervragen-over-de-schade-aan-het-koraal-voor-de-kust-van-curacao.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2014/04/02 ]> aanbiedingsbrief-bij-teeb-voor-gebieden.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 289[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/02/07/tk-reactie-rapporten-raad-voor-de-rechtshandhaving ]> lp-v-j-0000007493.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2015/05/04 ]> kamerbrief-met-reactie-op-de-rapporten-van-het-capaciteitsorgaan.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/09/03 ]> beantwoording-kamervragen-over-het-bericht-dat-nederlandse-schoolexamens-op-curacao-op-een-marineschip-afgenome-0E24DB22.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2022/11/03 ]> tk-beslisnota-inzake-voortgangsbrief-slachtofferbeleid.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2021/10/15 ]> reactie-op-verzoek-om-uitgebreide-brief-over-de-stand-van-zaken-ten-aanzien-van-de-aanvragen-in-het-kader-van-d-B9F4B27F.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ vergaderstukken/2021/12/03/agenda-ministerraad-3-december-2021 ]> agenda-ministerraad-20211203.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/12/02 ]> tk-bijlage-3b-overzicht-mous-georganiseerde-criminaliteit.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2011/11/16/aanbiedingsbrief-met-antwoord-aan-st-eustatius-awareness-and-development-sead-movement ]> aanbiedingsbrief-met-antwoord-op-brief-sead.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 26; BatchedItems: 100]...[0m
