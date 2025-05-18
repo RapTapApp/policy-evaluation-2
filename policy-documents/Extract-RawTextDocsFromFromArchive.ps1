@@ -199,7 +199,7 @@ function Export-RawTextFromSourceFile {
 
     process {
         if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-            $Logging.Warn_TargetFileAllreadyExists($TargetFile)
+            # $Logging.Warn_TargetFileAllreadyExists($TargetFile)
 
         } else {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
