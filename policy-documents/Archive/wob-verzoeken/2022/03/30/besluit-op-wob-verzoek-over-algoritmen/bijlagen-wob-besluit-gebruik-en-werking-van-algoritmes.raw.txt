@@ -1,0 +1,1161 @@
+Bijlage 1 — Inventarislijst 
+Beoordeling Wob-gronden 
+Nr. Document 
+n.v.t 
+Algoritme Ramingsmodel Huurtoeslag Volledig openbaar 
+1 
+10.2.e 
+Deels openbaar 
+2 Bijlage Huurtoeslag Handleiding 
+n.v.t 
+3 Profielsamenvattingen 
+Reeds openbaar, zie Wijziqing 
+van de Wet basisreqistratie 
+personen in verband met de 
+invoerinq van een centrale 
+voorzieninq ter ondersteuninq 
+van de colleges van 
+burqemeester en wethouders bil 
+het onderzoek of een persoon als 
+inqezetene in de basisreqistratie 
+personen op een adres in de 
+qemeente dient te worden 
+ingeschreven alsmede naar de 
+juistheid van de gegevens 
+betreffende het adres van een 
+ingezetene in de basisregistratie 
+personen 1 Tweede Kamer der 
+Staten-Generaal 
+Leefbaarometer Documenten zijn reeds openbaar, n.v.t 
+4 
+vindplaatsen opgenomen in 
+bijlage 2 
+Volledig openbaar n.v.t 
+5 Algoritmen voor het aanvragen van een 
+Nederlands reisdocument 
+Algoritme Authenticiteit van het Volledig openbaar n.v.t 
+6 
+reisdocument en Active Authentication 
+Algoritme Bestands Controle Module (BCM) Volledig openbaar n.v.t 
+7 
+GBA-V/BRP 
+Volledig openbaar n.v.t 
+8 Algoritme 6 voorbeeld sheet BRP- 
+bestandscóntroles 
+Algoritme voorwaarderegel BRP-PIVA-V. Volledig openbaar n.v.t 
+9 
+Volledig openbaar n.v.t 
+10 Algoritme Permanente Monitor 
+Dubbelinschrijvingen (PMD) 
+n.v.t 
+11 Algoritme 10 PMD_zoekprofielen Volledig openbaar 
+n.v.t 
+Volledig openbaar 
+12 Algoritme geautomatiseerde 
+gezichtsvergelijking bij het Registratie Niet-
+Ingezetenen (RNI)-inschrijfproces 
+(Oribi/Cognitec 
+Volledig openbaar n.v.t 
+Algoritme 11 Cognitec-Brochure (003) 
+13 
+n.v.t 
+Algoritme Volledig openbaar 
+14 
+d PIA_RNI_gezichtssca n ner_septem ber_2021 
+(002) 
+Niet openbaar 10.2.9 
+15 Self-assessment Dataloket 
+Vragenlijst Zicht op Algoritmes 
+
+Datum 
+9 februari 2022 
+Alleen testopstelling in een pilot (fietsenstalling 
+FMH Geen actieve 
+telling). 
+Algoritmen 
+DocDirekt 
+Geen Algoritmen 
+SSC-ICT 
+Rijksdienst voor Conform ARK- 
+De volgende bijlagen zijn toegevoegd: 
+Identiteitsgegevens analyse 
+0 Algoritme 1-3 beantwoording vragen WOB-
+verzoek 
+• Algoritme 4 en S beantwoording vragen 
+WOB-verzoek 
+• Algoritme 6 beantwoording vragen WOB-
+verzoek 
+• Algoritme 6 voorbeeld sheet BRP-
+bestandscontroles 
+• Algoritme 8 beantwoording vragen WOB-
+verzoek 
+• Algoritme 9 LAA 
+• Algoritme 10 beantwoording vragen WOB-
+verzoek 
+• Algoritme 10 PMD_zoekprofielen 
+• Algoritme 11 aanvulling op uitvraag ARK 
+• Algoritme 11 Cognitec-Brochure (003) 
+• Algoritme 11 
+dPIA_RNI_gezichtsscanner_september 2021 
+(002) 
+• Levering ARK algoritme 1-10 
+Conform ARK- Self-assessment Dataloket 
+Logius 
+analyse Vragenlijst Zicht op Algoritmes 
+Dienst Huurcommissie 
+Nationaal Coordinator Groningen Geen Algoritmen 
+Informatie betreffende Leefbaarometer 2.0  
+Het huidige model is uit 2014 (Leefbaarometer 2.0) en toegepast met data 2014 
+(en 2012 met terugwerkende kracht), 2016 en 2018 (met telkens een update van 
+de website, incl. data/tabellen op 'open data' (data.overheid.nl) en een 
+tweejaarlijks analyserapport over de uitkomsten aan de Tweede Kamer, zie: 
+www.leefbaarometer.nl 
+1. Document: "Leefbaarometer 2.0; Instrumentontwikkeling': 
+https:/ldoc.leefbaarometer.ni/resources/Leefbaarometer%202.0%20Instrume 
+ntontwikkelinq%2000NCEPT.pdf 
+2. Dataset Leefbaarometer 2018: 
+https://data.overheid.nl/dataset/leefba a rometer-meting-2018#pa nel -3 
+3. Twee brieven van de minister van BZK aan de Eerste Kamer (in afschrift aan 
+Tweede Kamer) n.a.v. vragen, onder andere over de systematiek van het 
+model van de Leefbaarometer 2.0: 
+3a. Brief 30 april 2021 
+https://ieefbaarometer.ni/resources/brief%20minister%20BZK%20aan%20  
+Eerste%20Kamer%20d.d.%2030%20april%202021%20m.b.t.%20(o.a.)%2 
+Ode%20Leefbaarometer%20n.a.v.%20vragen%20EK-fracties.pdf 
+3b. Brief d.d. 12 juli 2021 
+Pagina 2 van 3 
+
+Ramingsmodel Huurtoeslag 
+Ten behoeve van de ramingen van het budgettaire beslag van de huurtoeslag wordt een 
+rekenmodel gebruikt. Dit model gebruikt niet op persoon herleidbare gegevens (die BZK ontvangt 
+van de Belastingdienst/Toeslagen) met betrekking tot de huurtoeslagpopulatie en kent als 
+rekenregels de in wet- en regelgeving neergelegde berekening van de huurtoeslag om de 
+(gemiddelde) huurtoeslag per huishouden te berekenen. Daarnaast kent het model om het volume 
+van de huurtoeslagpopulatie te voorspellen een rekenregel op basis van een schatting van de 
+relatie tussen economische conjunctuur (met name werkloosheid) en huurtoeslaggebruik. Het 
+model en de rekenregels dienen om het budgettaire beslag van de huurtoeslag zo goed mogelijk te 
+voorspellen en hebben geen gevolgen voor individuele burgers. 
+
+Handleiding Opstellen van de Raming 1 
+A. Inleiding 3 
+1. Afbakening 3 
+2. Doelstelling en functie van de handleiding 3 
+3. Opbouw 3 
+B. Organisatie van het rantingsproces 4 
+1. Ramingsnota 4 
+2. Gebruik van het ramingsmodel 4 
+3. Checks en balances 4 
+4. Documentatie van liet proces 4 
+5. Externe (bron)gegevens 4 
+C. Van uitgangspuntennota tot en met ramingsnota 7 
+1. Uitgangspuntennota 9 
+2. Budget huurtoeslag 9 
+2.1 Uitgaven huurtoeslag 9 
+2. 1.1 Verplichtingenraming huurtoeslag naar toeslagjaar 9 
+2.1.2 Bedrijfsvoering Belastingdienst 10 
+2.2 Ontvangsten huurtoeslag  11 
+2.3 Verschillenanalyse 11 
+3. Budget eigen woning regelingen  12 
+4. Ramingsnota 12 
+D. Werkinstructies 13 
+1. Het schrijven van de uitgangspuntennota 13 
+2. Het opstellen van de raming van het budget huurtoeslag 13 
+3. Het opstellen van de uitgavenraming huurtoeslag 13 
+3.1 Het opstellen van de verplichtingenraming huurtoeslag 14 
+3. 1.1 Het opstellen van de basisraming 16 
+3.1.2 Het verwerken van de stelposten 18 
+3.2 Het bepalen van de gegevens bedrijfsvoering Belastingdienst 18 
+4. Het opstellen van de ontvangstenraming Fout! Bladwijzer niet gedefinieerd. 
+5. Het draaien van de verschillenanalyse 18 
+6. Het opstellen van de raming eigen woning regelingen 22 
+7. Het schrijven van de ramingsnota 22 
+E Checks en Balances 23 
+F Waarborgen op Proces en Mijlpaalproducten 24 
+1 landleiding Opstellen van de Raming 2 
+
+B. Organisatie van liet ramingsproces 
+1. Ramingsnota 
+De uiteindelijke uitkomst van het ramingsproces is het uitbrengen van een ramingsnota met de verwachte 
+uitgaven en ontvangsten voor de komende jaren ten aanzien van huurtoeslag, BEW en BGSEW. Daarnaast 
+wordt in de ramingsnota ingegaan op de gehanteerde uitgangspunten bij het opstellen van de raming en 
+wordt gekeken naar de verschillen ten aanzien van de vorige raming. 
+2. Gebruik van het ramingsmodel 
+Voor de raming van de verplichtingen van de huurtoeslag wordt gebruik gemaakt van een ramingsmodel. Dit 
+ramingsmodel is sinds 2015 in gebruik en heeft een aantal voordelen ten opzichte van het vorige 
+ramingsmodel. Zo is het zelfstandig te beheren, inzichtelijk, verklaarbaar, eenvoudig, flexibel en kan het snel 
+inspelen op veranderingen. Dit ramingsmodel maakt daarnaast gebruik van de kracht van de micro-data van 
+de Belastingdienst. Het model maakt gebruik van spreadsheets met een vast format, die gecontroleerd en 
+getoetst worden. 
+3. Checks en balances 
+Om de betrouwbaarheid van de ramingen te waarborgen, geldt het zogenoemde vier-ogenprincipe. De 
+producten en data worden uitvoerig door een tweede persoon gecontroleerd en geaccordeerd. Hiervoor zijn 
+verschillende checks en balances ingebouwd in het ramingsproces. Deze checks and balances vinden op 
+vaste momenten in het proces plaats en worden gedocumenteerd. De vaste momenten waarop deze checks en 
+balances plaatsvinden, worden beschreven in deel D Werkinstructies. 
+4. Documentatie van het proces 
+Van de uiteindelijke ra►ningsreeks moet bekend zijn hoe deze tot stand is gekomen en welke parameters als 
+uitgangspunt zijn gehanteerd. De uiteindelijke ramingsreeks, en-alle tussengelegen stappen, moeten 
+gedocumenteerd worden, zodat dooreen `derde' nagegaan kan worden hoe de uiteindelijke reeks tot stand is 
+gekomen. 
+De documentatie van liet ramingsproces wordt verzameld in G:\WBI\Wonen\A-R\Huurtoeslag\Ramingen\ 
+Begroting jaar t. Hier staan onder andere de uitgangspuntennota, de ramingsnota, het ramingsmodel, de 
+ontvangstenraming en ramingen voor andere regelingen in. 
+5. Externe (bron)gegevens 
+Om de verschillende ramingsreeksen te kunnen genereren wordt gebruik gemaakt van gegevens uit externe 
+bronnen. Zoals beschreven is het van belang dat er betrouwbaarheidscontroles plaatsvinden op de 
+aangeleverde gegevens. Een aantal van de aangeleverde gegevens zijn vast en worden ieder jaar verkregen. 
+Daarnaast zijn er gegevens die alleen nodig zijn op moment van bijvoorbeeld beleidswijzigingen. Deze zijn 
+hieronder niet meegenomen en dienen ieder jaar apart bekeken te worden. Hieronder een overzicht van de 
+vaste externe bronnen, met de benodigde gegevens in het ramingsproces en bijbehorende contactpersonen. 
+Daarnaast worden een aantal externe gegevens van het internet gehaald, zoals de Macro Economische 
+Verkenning (MEV), Centraal Economisch Plan (CEP) en volume bevolking>19 jaar. Alle externe gegevens 
+worden opgeslagen. 
+1 landleiding Opstellen van de Raming 4 
+
+o Contactpersoon: Sector 1 Publieke Financiën 
+o E-mailadres:( ncpb.nl 
+Centraal Bureau voor de Statistiek: 
+• Huurenquête; de uitkomsten van de huurenquête worden opgevraagd door de afdeling Analyse en 
+Ramingen van het ministerie van BZK en worden naar vier huurklassen ingedeeld. 
+o Contactpersoon: Woningmarkt/Strategisch en Financieel Beleidt0.1eM 
+o E-mailadres: V O.2.en raminbzk.nl  
+Rijksdienst voor Ondernemend Nederland: 
+• Aantallen aanvragers BEW-oud en BEW+ die een bijdrage ontvangen; deze aantallen worden 
+opgevraagd om de P X Q voor de raming BEW te kunnen berekenen. 
+o Contactpersoon: GIDS/Woonregelingen ._ e 
+o E-mailadres: ' . .e nrvo.nl 
+• Lopende en toekomstige aantallen aanvragers BGSEW; deze aantallen worden opgevraagd om de P 
+x Q voor de raming BGSEW te kunnen berekenen. 
+o Contactpersoon: GIDS/Woonregelinge 
+o E-mailadres: i .rvo.n1 
+Belastingdienst Toeslagen: 
+• Toekenningsproces; liet aantal voorlopige en definitieve toekenningen door de Belastingdienst wordt 
+gebruikt om een raming te maken voor de ontvangsten huurtoeslag. 
+o Contactpersoon: Belastingdienst Toeslagen/ , . E' 
+o E-mailadres: ni (belastin7dienst.nl  
+• Invorderingbeleid; met het tempo van invorderen van terugvorderingen wordt bepaald hoe de 
+ontvangstenstroom wordt vormgegeven. 
+o Contactpersoon: Belastingdienst Toeslagen 
+o E-mailadres: I .e aibelastini•dienst.nl 
+• Oninbare terugvorderingen; er zijn afspraken gemaakt met Belastingdienst/Toeslagen over het 
+percentage oninbare terugvorderingen. Jaarlijks, aan de start van de begrotingsramingen, worden de 
+afspraken getoetst op basis van de realisatie van het laatste begrotingsjaar. Verschillen die structureel 
+afwijken van de gemaakte afspraken worden via het ARO gemeld aan de Belastingdienst/Toeslagen 
+en vormen de basis om de afspraken aan te passen. 
+o Contactpersoon: Belastingdienst Toeslagen 1 
+o E-mailadres: ~ nbelastingdienst.nl 
+
+Figuur 2: Overzicht van de uitgangspuntennota tot en met de ramingsnota , 
+Hoofdstuk 1. Uitgangspuntennota 
+r 
+Basis- stel-
+raming posten 
+I 
+••l 
+2.1.1 2.1.2 
+Verplichtingen Bedrijfsvoering 
+per huurtoeslagj aar Belastingdienst 
+11 
+2.1 Uitgaven buurtoeslag 2.2 Ontvangsten huurtoeslag 
+per begrotingsjaar (o.b.v. de MEV en CEP) per begrotingsjaar 
+2.3 Verschillenanalyse 
+Hoofdstuk 2. Budget huurtoeslag 
+Hoofdstuk 3. Budget eigen woning 
+regelingen 
+Hoofdstuk 4. Ramingsnota 
+g 
+Handleiding OpsteIka van de Rang 
+
+De basisraming 
+De basisraming wordt gemaakt met behulp van een ramingsmodel. Het primaire doel van deze ramingstool is 
+het ramen van het volume en de verplichtingen huurtoeslag van het begrotingsjaar t tot en met t+5. 
+Het ramingsmodel is opgebouwd uit een raming voor de zittende populatie en een saldo in- en uitstroom. Het 
+te verwachten saldo in- en uitstroom wordt met behulp van een regressieanalyse bepaald op basis van de 
+werkeloosheid en volume bevolking. Er zal een correctie op het saldo in- en uitstroom worden toegepast 
+indien er een dalend of stijgend niet-gebruik wordt verwacht op basis van een vergelijking met gerealiseerde 
+aantallen of wanneer de ijking op het realisatiejaar daar aanleiding toe geeft. 
+In het ramingsproces van de basisraming zijn vijf stappen te onderscheiden. Deze stappen zijn toegelicht in 
+deel D Werkinstructies. Allereerst dient het ramingsmodel met bijbehorende tools technisch aangepast te 
+worden ten behoeve van een volgend ramingsjaar. Dit wordt gedaan door het ramingsmodel van t- 1, de 
+basisvariant, aan te passen. Daarna worden een aantal gegevens ten behoeve van de huur- en 
+loonontwikkeling verzameld en kunnen de invoerindexen berekend worden. Vervolgens kunnen de gegevens 
+gemiddelde huur, gemiddeld inkomen, gemiddelde subsidie en gemiddeld aantal maanden per jaar voor de 
+raming voor de zittende populatie (per huishoudtype) bepaald worden. Hierop volgt het berekenen van het 
+saldo in- en uitstroom. Als laatste stap wordt er een raming gemaakt van het volume en de verplichtingen 
+huurtoeslag. Deze stappen worden uitgebreider beschreven in deel D ` Werkinstructies'. 
+Stelposten 
+Naast de basisraming zijn stelposten opgenomen. In de stelposten zijn bedragen opgenomen die om 
+verschillende redenen niet met behulp van het model konden worden doorgerekend. De inventarisatie van 
+stelposten is gebaseerd op besluitvorming, de uitgangspuntennota en de risico's in de ramingsnota van vorig 
+jaar. Deze stelposten worden in de ramingen opgenomen, zodra zij bekend zijn. Het saldo van de 
+basisraming en de stelposten leidt tot een verplichtingenraming naar toeslagjaar. 
+2.1.2 Bedrijfsvoering Belastingdienst 
+De bedrijfsvoering van de Belastingdienst beïnvloed de uitgavenraming huurtoeslag. De volgende posten 
+vallen onder de bedrijfsvoering Belastingdienst: 
+• Decemberbetalingen; de betalingen voor de maand januari van het jaar t worden voor het grootste 
+deel in december van het jaar t-1 gedaan. 
+• ' Nabetalingen; de Belastingdienst stelt gedurende het huurtoeslagjaar de toekenningen alleen 
+voorlopig vast. Na afloop van het jaar worden de beschikkingen definitief toegekend. In veel 
+gevallen zal op dat moment de toeslag lager worden vastgesteld, wat leidt tot terugvorderingen, in 
+andere gevallen wordt de toeslag hoger vastgesteld. In dat laatste geval leidt dit tot nabetalingen. 
+Deze nabetalingen vinden na afloop van het toeslagjaar (en dus in een ander begrotingsjaar) plaats. 
+De post nabetalingen (dit jaar voor eerder) betreft de nabetalingen die in het betreffende 
+begrotingsjaar worden gedaan over eerdere huurtoeslagjaren. Deze komen dus boven op de 
+verplichtingenraming om de raming naar begrotingsjaar te verkrijgen. De post nabetalingen (later 
+voor dit jaar) betreft de nabetalingen die in latere begrotingsjaren voor het betreffende 
+huurtoeslagjaar worden gedaan en komen dus in mindering op de verplichtingenraming. 
+• Terug te vorderen bedragen; de verplichtingenraming beschrijft het budget huurtoeslag dat 
+uiteindelijk (na definitief toekennen) aan de huishoudens wordt uitgekeerd. In de systematiek van de 
+Awir betaalt de Belastingdienst in eerste instantie uit op voorlopige beschikkingen die later kunnen 
+worden gecorrigeerd. Als gevolg hiervan wordt in eerste instantie meer uitbetaald dan waar per saldo 
+to 
+1 landleiding Opstellen van de Raming 
+
+nieuwe reeks afgezet tegen de voorgaande reeks. Het verschil in de ontvangstenreeks wordt toegeschreven 
+aan de gewijzigde aanname. 
+De verschillenanalyse vormt samen met het saldo van de uitgaven en ontvangsten huurtoeslag het budget 
+huurtoeslag. 
+3. Budget eigen woning regelingen 
+De eigen woning regelingen, de BEW-oud, BEW+ en BGSEW zijn gesloten voor nieuwe aanvragen. De 
+betalingen betreffen de lopende verplichtingen aan aanvragers die nog in de regeling zitten. Het ramen van 
+de meerjaren budgetreeksen komt neer op het bepalen van het aantal aanvragers in de regeling en dat te 
+vermenigvuldigen met de gemiddelde bijdragen van de verschillende regelingen. Na 15 jaar een bijdrage te 
+hebben ontvangen wordt voor de aanvragers die nog in de regeling zitten bepaald of ze recht hebben op een 
+betaling ineens van de contante waarde van de bijdragen voor de laatste 15 jaren. De gemiddelde bijdragen 
+worden over de jaren heen constant verondersteld, omdat op de regelingen prijsbijstellingsregels van kracht 
+zijn. 
+4. Ramingsnota 
+Het resultaat van het ramingsproces is een ramingsnota. Eerst wordt er een korte ramingsnota op basis van de 
+MEV opgesteld. Hierin zitten de ramingsreeks uitgaven huurtoeslag op basis van de MEV inclusief 
+verschillenanalyse, de ontvangstenraming huurtoeslag en de ramigsreeksen regelingen eigen woningbezit. 
+Begin februari wordt deze concept ramingsnota besproken met DFEZ en IRF van het ministerie van 
+Financiën. De concept ramingsnota wordt vervolgens aangeboden aan het DT Wonen. 
+In maart wordt de ramingsnota geactualiseerd op basis van gegevens van de CEP. Deze ramingsnota wordt 
+besproken met FEZ en IRF en vervolgens als bijlage meegezonden met de beleidsbrief aan Financiën. Dit ten 
+behoeve van de voorjaarsbesluitvorming en de begrotingsvoorbereiding. 
+12 
+Handleiding Opstellen van de Raming 
+
+is aangepast aan begrotingsjaar t, zoals hieronder beschreven in stap 1 (3.1.1), kunnen gegevens ingevoerd 
+worden in het ramingsmodel. Deze gegevens worden ingevuld op basis van de prognoses van de MEV. Alle 
+invoerindexen uit stap 2 zijn hiermee gebaseerd op de MEV. Nadat alle gegevens voor de invoerindexen zijn 
+ingevuld, kan de ramingsreeks op basis van de MEV worden opgesteld door de stappen verder te volgen. 
+Daarbij is het tevens van belang dat in stap 4 liet volume van de werkeloosheid (tabblad Saldo_ kenmerken) 
+wordt aangepast aan de gegevens gebaseerd op de MEV. Uit het proces van de verschillende stappen wordt 
+zo de ramingsreeks voor de uitgaven huurtoeslag op basis van de MEV neergezet. 
+Eind februari wordt een definitieve ramingsreeks gedraaid voor de uitgaven huurtoeslag op basis van het 
+macrobriefje welke gebaseerd is op het Centraal Economische Plan (CEP). Hierbij worden dezelfde stappen 
+gevolgd als bij het opstellen van de ramingsreeks op basis van de MEV. 
+3.1 Het opstellen van de verplichtingenraming huurtoeslag 
+Deze verplichtingenraming komt tot stand door de basisraming op te tellen met stelposten. De basisraming 
+vormt dus de basis van de totale ramingsreeks. 
+De documentatie van het ramingsproces van de verplichtingenraming is te vinden in G:\WBI\WonenW-
+R\Huurtoeslag\Ramingen\Begroting\Begroting 2018\01-Ra►ning_HTjaren_volume_prijs. Hierin zijn het 
+ramingsmodel en de ramingsreeksen voor de verplichtingen huurtoeslag te vinden. Deze map is weer 
+onderverdeeld in subsnappen: 
+• De submap ARCHIEF; deze is bedoeld om diverse oudere varianten in op te slaan; 
+• De submap BASIS _TOOLS; hierin staat liet basismodel gedocumenteerd; 
+• De submap OUTPUT SYNTAX; in deze map wordt de gegenereerde output geplaatst; 
+• De submap VARIANTEN; hier worden de MEV en CEP varianten uitgewerkt en gedocumenteerd. 
+In deze map kan de uiteindelijke ramingsreeks voor de verplichtingen huurtoeslag gecontroleerd 
+worden. 
+14 
+handleiding Opstellen van de Raming 
+
+3.1.1 Het opstellen van de basisraming 
+Het ramingsproces voor de verplichtingen huurtoeslag bestaat uit een aantal stappen: 
+1. Het technisch aanpassen van het ramingsmodel naar begrotingsjaar t; 
+2. Het berekenen van de invoerindexen; 
+3. Het berekenen van de huurtoeslagkeninerken voor de zittende populatie; 
+4. Het berekenen van het saldo in- en uitstroom; 
+5. Het ramen van volume en uitgaven huurtoeslag. 
+1. Het technisch aanpassen van het ramingsmodel naar begrotingsjaar t 
+Elke ramingsronde wordt er een nieuwe basis voor het ramingsmodel gemaakt. Dit wordt gedaan door het 
+ramingsmodel van t-1, de basisvariant, aan te passen naar begrotingsjaar t. Hiervoor worden een aantal 
+gegevens verzameld, welke met bron te vinden zijn in deel B paragraaf 5. Met het aanpassen van deze 
+gegevens wordt het ramingsmodel aangepast naar begrotingsjaar t en wordt er een nieuwe basis gegenereerd, 
+genaamd RAMINGSMODEL_Rt: 
+• Het basisjaar en ratningsjaar (tabblad Lijsten) worden jaarlijks aangepast naar jaar t; 
+• De gegevens om te regressie te draaien, het volume huurtoeslag, werkeloosheid t en bevolking>19, 
+worden jaarlijks geactualiseerd; 
+• De regressie (tabblad Regressie) wordt jaarlijks berekent, waarna wordt bekeken of er behoefte is om 
+deze te actualiseren; 
+• Het verwacht niet-gebruik (tabblad Saldo_ kenmerken) wordt jaarlijks geactualiseerd; 
+• Het profiel huurtoeslag (tabblad Saldo—kenmerken) wordt jaarlijks geactualiseerd. 
+2. Het berekenen van de invoerindexen 
+Om de invoerindexen te berekenen worden een aantal gegevens verzamelt. De benodigde gegevens zijn het 
+contractloon marktsector, kopppelingspercentage CPB, CPI, gegevens om de macrovariabelen om te zetten 
+naar indexen, uitkomsten CBS Huurenquête, weging van het contractloon/WKA voor ouderen en 
+verzamelinkomens. De bronnen van deze gegevens zijn te vinden in deel B paragraaf 5. Met deze gegevens 
+kunnen de invoerindexen berekend worden. Hiervoor is een spreadsheets ontwikkeld genaamd 
+ONTWIKKELING_PRM_INK_HR_Rt. In deze spreadsheet worden de volgende invoerparameters ingevuld 
+en berekend: 
+• Huurtoeslag parameters 
+o Maximale huurgrens 
+o Aftoppingsgrens laag; bij 1 of 2 personen 
+o Aftoppingsgrens hoog; bij 3 of meer personen 
+o Kwaliteitskortingsgrens 
+o Taakstellinglopslag op de normhuur 
+o Kortings% tussen normhuur en kortingsgrens 
+o Kortings% tussen kortingsgrens en aftopping 
+o Kortings% boven aftopping 
+o Minimum- en referentie-normhuur per huishouden 
+o Correctie minimum- en referentie-normhuur per huishouden 
+o Minimum en referentie inkomens per huishouden 
+o Correctie minimum- en referentie inkomensijkpunt per huishouden 
+o Maximum inkomen per huishouden 
+o Correctie maximum inkomens per huishouden 
+• Inkomensontwikkeling 
+• Huurontwikkeling 
+Handleiding Opstellen van de Raming 16 
+
+3.1.2 Het verwerken van de stelposten 
+De basisraming wordt vervolgens aangevuld met stelposten. In de stelposten zijn uitgaven opgenomen die 
+niet in de basisraming tot uitdrukking komen. Dit zijn correcties op de basisraming en stelposten voor nieuw 
+beleid, dat (nog) niet in de basisraming is doorgerekend. Voor de stelposten wordt een volume en een prijs 
+berekend (P x Q). Het is hierbij van belang te bedenken welk deel van de stelpost toegerekend kan worden 
+aan volume en welk deel aan prijs. Eerder geraamde stelposten die gaan optreden in het basisjaar worden 
+opgenomen in de basisraming. 
+3.2 Het bepalen van de gegevens bedrijfsvoering Belastingdienst 
+De volgende gegevens van de bedrijfsvoering Belastingdienst worden verkregen: 
+• Decemberbetalingen; 
+• Nabetalingen; 
+• Terug te vorderen bedragen; 
+• Heffingsrente; 
+• Post onverklaard. 
+Deze posten worden opgesteld aan de hand van de financiële verantwoordingsoverzichten huurtoeslag die 
+door de Belastingdienst worden opgeleverd. 
+4. Het opstellen van de ontvangstenraming 
+Naast een uitgavenraming huurtoeslag wordt er ook een ontvangstenraming huurtoeslag opgesteld. De 
+ontvangstenraming bestaat uit een drietal producten: 
+• Een meerjaren reeks voor de ontvangsten; 
+• Een verschillenanalyse voor de ontvangsten; 
+• Een overzicht van (na)betalingen en terugvorderingen naar toeslagjaar en begrotingsjaar ten behoeve 
+van de verplichtingenraming. 
+De meerjaren reeks en verschillenanalyse worden opgenomen in de ramingsnota. Het overzicht van 
+(na)betalingen en terugvorderingen wordt als input gebruikt in de verplichtingenraming. 
+1. Input 
+Voor de opstelling van de ontvangstenraming worden de volgende inputgegevens gebruikt. 
+1. Maandelijkse financiële en beleidsoverzichten van de Belastingdienst: Voorde raming jaar t+l 
+worden de overzichten december jaar t-1 gebruikt. De overzichten van december jaar t-1 staan in 
+G:\WBI\Wonen\A-R\Huurtoeslag\Ramingen\Begroting\Begroting t-1\Ontvangstenraming\Data 
+• Specificatie RC HUT jaar t-1 
+• Verloop verplichtingen HUT jaar t- l; 
+• Vorderingen HUUR jaar t- l; 
+• Uitgaven HUT jaar t-1 bevat 2 werkbladen (Uitgaven en ontvangsten huurtoeslag en uitgaven en 
+ontvangsten VT/DT HUT); 
+• Uitkomsten DT A 1_1_1_huurtoeslag. 
+2. Bedrijfsvoeringinforinatie van de Belastingdienst over: 
+• Wijzigingen in het invorderingsbeleid; 
+• De start van de DT van vorig jaar en vermoedelijk verloop van de nieuwe en reeds lopende DT; 
+• Wanneer acties tegen slechte schatters zullen plaatsvinden en wat de acties hebben opgeleverd; 
+• Resultaten van de antifraude maatregelen. 
+1landleiding Opstellen van de Raming 18 
+
+8. Outputoverzichten 
+De outputoverzichten worden automatisch gegenereerd. 
+• Het overzicht "Nabet en Vord" gaat naar de opsteller van de verplichtingenraming; 
+• Neem de overzichten terugvorderingen, ontvangsten en verschillenanalyse over in de ramingsnota. 
+5. Het draaien van de verschillenanalyse 
+Op de uitgaven en ontvangsten huurtoeslag wordt een verschillenanalyse gedraaid. Voor de uitgaven 
+huurtoeslag wordt de ramingsreeks, zoals deze is opgesteld bij de begroting t-1, afgezet tegen de reeks, zoals 
+deze voor het huidige begrotingsjaar t is vastgesteld. 
+De verschillen-analyse doorloopt de volgende proces stappen: 
+1. Opstellen Excel indexen-VA o.b.v. CEPjaar t- 1, MEV jaar t en SPSS-syntax berekenen kengetallen-
+HT 
+2. Bepalen verplichtingen op basis van de indexering CEPjaar t-1(ijking) 
+3. Bepalen verplichting van individuele VA-posten 
+4. Bepalen verplichtingen van samengestelde VA-posten 
+5. Uitkomsten verplichtingen totale verschillen-analyse 
+De producten van bovenstaande processen zijn te vinden op de volgende locatie: 
+G:\WBI\Wonen\A-R\Huurtoeslag\Ramingen\Begroting\Begroting 2018\01-
+Raming_HTjaren_volume_prijs\VARIANTEN 
+1. Opstellen Excel indexen- VA o. b. v. CEPjaar t-1, A1EV jaar t en ,SPSS-syntax berekenen kengetallen-HT 
+De gecontroleerde indexen met de stand CEPjaar t-1 (laatste stand vorige raming) en stand MEV jaar t 
+(stand huidige raming) zullen worden samengevoegd in één Excel indexen-VA. Na controle kunnen de 
+vastgestelde indexen-VA worden gebruikt om de nieuwe reeksen kengetallen met SPSS-syntax te berekenen. 
+Tevens zal de gecontroleerde SPSS-syntax berekenen kengetallen huurtoeslag en het Excel Ramingsmodel 
+stand MEV jaar t worden overgenomen. 
+Voor de verschillen-analyse worden de volgende posten berekend: 
+• Effect ijking 
+• Forecast aantallen 
+• Volume bevolking 
+• Werkloosheid 
+• Huurparameters 
+• Inkomensparameters 
+• Huurontwikkeling 
+• Inkomensontwikkeling 
+Om het effect van de ijking te berekenen worden de indexen in de SPSS-syntax stand MEV jaar t gewijzigd 
+inde stand CEPjaar t- l. Bij het overnemen van de indexen stand CEPjaar t-1 moetende jaren passend 
+worden gemaakt aan het raamwerkbestand waarop de SPSS-syntax berekenen kengetallen in SPSS wordt 
+gedraaid. Tevens wordt de aanpassing in werkloosheid ook al meegenomen in het ramingsmodel, omdat het 
+effect ijking en werkloosheid met elkaar samenhangen. 
+Handleiding Opstellen van de Raming 20 
+
+Er vindt in een ramingsronde een verschillenanalyse plaats op de uitgaven huurtoeslag op basis van de MEV 
+(CEP t-1 t.o.v. MEV t) en een verschillenanalyse op de uitgaven huurtoeslag op basis van de CEP (CEP t-1 
+t.o.v. CEP t). Ook op de ontvangstenraming huurtoeslag wordt een verschillenanalyse gedraaid. Deze is 
+hierboven beschreven in 4.7. De verschillenanalyse leidt tot de raming van het budget huurtoeslag. 
+6. Het opstellen van de raming eigen woning regelingen 
+Aan het begin van elk jaar worden de lopende aantallen aanvragers voor de verschillende regelingen 
+opgevraagd bij de Rijksdienst voor Ondernemend Nederland (RVO). Voor de BGSEW geeft de RVO ook de 
+aantallen voor toekomstige jaren. Voor de BEW+ en BEW-oud worden de aantallen aanvragers voor 
+toekomstige jaren geraamd door toepassing van uitvalpercentages op het huidige bestand van aanvragers. De 
+uitval percentages worden bepaald op basis van de realisaties van de inkomens- en bewoningscontroles. 
+7. Het schrijven van de ramingsnota 
+De laatste stap in het proces is het schrijven van de ramingsnota. In november wordt begonnen met het 
+schrijven van de ramingsnota op basis van de MEV. In deze ramingsnota worden, naast een 
+managementsamenvatting, de volgende onderwerpen opgenomen: 
+• Analyse van het huurtoeslagjaar waarop de basisraming gebaseerd is; 
+• Uitgangspunten, parameters en indexeringen die ten aanzien van de raming gebruikt zijn; 
+• Verplichtingenraming; 
+• Uitgavenraming naar toeslagjaar; 
+• Ontvangstenraming; 
+• Eigen woning regelingen. 
+Hierbij worden oudere ramingsnota's als basis gebruikt. Deze conceptnota wordt in februari opgeleverd en 
+besproken met DFEZ en IRF van het ministerie van Financiën. In maart wordt de concept ramingsnota 
+herschreven met parameters op basis van de CEP. De definitieve ramingsnota wordt via DFEZ aan Financiën 
+aangeboden. Deze wordt als bijlage bij de Beleidsbrief gevoegd. 
+Handleiding Opstellen van de Raming zz 
+
+F Waarborgen op Proces en Mijlpaalproducten 
+In het ramingsproces zijn verschillende checks and balances ingebouwd om het proces te waarborgen. 
+• Het gehele proces is vastgelegd in een Administratieve Organisatie (AO) en een onderliggende 
+Werkinstructie (WI). 
+• Minimaal één medewerker dient over voldoende kennis en ervaring te bezitten om een juiste en tijdige 
+Ramingsnota te kunnen garanderen. Deze medewerker dient kennis te bezitten over het financiële, 
+begrotings- en huurtoeslagproces en moet minimaal één jaar een ramingsproces hebben uitgevoerd. 
+• Het gehele ramingsproces wordt op cruciale momenten en producten voorzien van een collegiale 
+controle. Deze controle wordt vastgelegd in een checklist. 
+• De te gebruiken spreadsheets voldoen aan een vast format, zodat het inzicht behouden blijft en de kans 
+op fouten minimaal is. Deze spreadsheets worden collegiaal getoetst. 
+Onderstaande checklist dient door de betrokken medewerkers te worden ingevuld en te worden voorzien van 
+eventuele bijlage(n). 
+Checklist 
+Proces en product: Uitvoeren door: Controle: Bijlage: 
+(naam/paraaf) (naam/paraaf) (J/N) 
+Opleveren Uitgangspuntennota 
+Opleveren Modellen en SPSS-syntax 
+Actualiseren Regressie en Profiel-HT 
+Vaststellen Indexatie obv MEV 
+Opleveren Verplichtingen HT MEV 
+Opleveren Verschil-Analyse MEV 
+Opleveren Ontvangsten MEV 
+Opleveren Stelposten MEV 
+Opleveren Verplichtingen BEW 
+Opleveren Totale Raming MEV 
+Vaststellen Indexatie obv CEP 
+Opleveren Verplichtingen HT CEP 
+Opleveren Verschil-Analyse CEP 
+Opleveren Ontvangsten CEP 
+Opleveren Stelposten CEP 
+Opleveren totale Raming CEP 
+Opleveren Ramingsnota CEP 
+24 
+1 landleiding Opstellen van de Raming 
+
+• Godsdienstig; 
+• Levensbeschouwelijk; 
+• Onjuiste beoordeling aanvraagstation. 
+Kwaliteitsalgoritme voor vingerafdruk —NIST Fingerprint Image Quality ( NFIQ) 2 
+Deze algoritme betreft een open source algoritme en wordt gebruikt voor de kwaliteitsbepaling van 
+de vingerafdruk tijdens het aanvraagproces van een reisdocument (alleen voor passpoort en 
+identiteitskaart). De NFIQ 2-kwaliteitskenmerken zijn formeel gestandaardiseerd als onderdeel van 
+ISO/IEC 29794-4 norm (ISO - ISO/IEC 29794-4:2017 - Information technolog — Biometric sample 
+quality — Part 4: Finger image data). Het algoritme gebruikt verschillende kwaliteitsparameters, 
+bijvoorbeeld is ervoldoende vingeroppervlakte aanwezig, of ervlekken aanwezig zijn in de afdrukken, 
+of er sprake is van onscherpte in de afdrukken, etc. 
+Kwaliteitsbeoordeling vindt automatisch plaats zonder inhoudelijke beoordeling van de ambtenaar. 
+Als het systeem aangeeft dat de kwaliteit van de afdruk onvoldoende is, kan het systeem besluiten 
+dat de vingerafdruk nog een keer moet worden afgenomen. Echter, deze beslissing van de software 
+kan door de ambtenaar overruled worden. Dit kan nodig zijn indien aan de betreffende vinger een 
+tijdelijk of een permanent gebrek is geconstateerd. Ook is er een mogelijkheid om het opnemen van 
+de vingerafdrukken in zijn geheel over te slaan: 
+• Er is sprake van een permanent gebrek aan alle vingers; 
+• Er is sprake van een tijdelijk gebrek aan alle vingers; 
+• De aanvrager is jonger dan 12 jaar. 
+Vergelijkingsalgoritme voor vingerafdruk 
+De vergelijkingssoftware (MorphoKit versie 5.19.0) wordt geleverd door de derde partij (Idemia) en 
+wordt gebruikt ter ondersteuning van een identiteitsverificatieproces. De software wordt ingezet: 
+• Indien de ambtenaar twijfelt aan de identiteit van de burger. Dan kan er een 
+identiteitsverificatie uitgevoerd worden op basis van vingerafdruk. Dit kan plaatsvinden zowel 
+bij aanvraagproces als bij uitgifteproces; 
+• De burger kan inzicht vragen naar de vingerafdruk in de chip. 
+Voor het algoritme wordt gebruik gemaakt van minutia gebaseerde controle. Voor de werkingen 
+worden er twee templates gemaakt (één van de bron (live vingerafdruk van de burger) en één van de 
+opname (vingerafdruk opgeslagen op de chip in het oude / nieuwe document) en die worden 
+vervolgens automatisch vergeleken. 
+
+Beantwoording vragen WOB-verzoek AGROS-VPRO 
+Algoritme 6: Bestands Controle Module ( BCM) GBA-V/BRP 
+Gemeenten zijn, conform artikel 4.3 van de Wet BRP, verplicht periodiek een onderzoek naar de 
+inrichting, de werking en de beveiliging van de basisregistratie, alsmede naar de verwerking van 
+gegevens in de basisregistratie, voor zover het de gemeentelijke voorziening betreft of het college 
+verantwoordelijk is voor de bijhouding (jaarlijkse Zelfevaluatie). Het college van burgemeester en 
+wethouders zendt periodiek een uittreksel van de resultaten van het onderzoek aan de Autoriteit 
+persoonsgegevens en de Minister van Binnenlandse Zaken en Koninkrijkrelaties. In het uittreksel 
+worden gegevens opgenomen zoals vermeld in artikel 21 van de Regeling BRP. Conform artikel 47 
+van het Besluit BRP geschiedt de uitvoering van het onderzoek door middel van een door Onze 
+Minister beschikbaar gesteld evaluatie-instrument. 
+Voor het onderzoek naar de verwerking van de gegevens in de basisregistratie is RvIG de 
+Bestandscontrole Module (BCM) ontwikkeld. Deze bevat structuurcontroles (opbouw persoonslijst 
+conform Logisch Ontwerp GBA), domeincontroles (onjuiste waarden conform Logisch Ontwerp 
+GBA) en Logische controles (opgenomen gegevens niet conform Wet- en Regelgeving). Deze 
+controles zijn opgenomen in een excelsheet die door de BCM ingelezen wordt en de controles 
+worden uitgevoerd over de complete database GBA-V. De manier van definiëren van de controles 
+is opgenomen in paragraaf 5.2.3 Syntax voorwaarderegels van het Logisch Ontwerp GBA, dit 
+document is vrij beschikbaar op de site van rvig.nl. De resultaten van een BCM-controle worden 
+maandelijks ter beschikking gesteld aan de gemeenten via een beveiligde omgeving in de 
+Kwaliteitsmonitor. Aan de gemeenten wordt het controlenummer en het administratienummer 
+(uniek nummer) ter beschikking gesteld, alsmede een toelichting op de controle. Het is aan de 
+individuele gemeenten om eventuele fouten te onderzoeken en te verbeteren. De resultaten van 
+de run van eind november van een jaar worden gebruikt voor de uitvoer van de jaarlijkse 
+Zelfevaluatie. 
+De BCM is een instrument dat gewijzigd kan worden door wijzigende Wet- en Regelgeving en na 
+het ontdekken van nieuwe fouten/omissies. Deze worden intern aangeleverd door RvIG zelf 
+(bijvoorbeeld beheerder GBA-V), gemeenten en afnemers van de gegevens. Na een testperiode 
+worden nieuwe controles in productie genomen en met een toelichting opgenomen in de 
+Kwaliteitsmonitor. 
+
+autorisatiebesluit: zij zorgt ervoor dat de daadwerkelijke gegevensverstrekking precies wordt 
+toegesneden op de in het autorisatiebesluit opgenomen taak/taken, doelgroep(en) en de noodzaak 
+om over deze doelgroep(en) gegevens te ontvangen. Hierbij vindt dus altijd maatwerk plaats op 
+basis waarvan niet meer gegevens worden verstrekt over een doelgroep dan strikt noodzakelijk is 
+voor de uitvoering van een publiekrechtelijke taak. 
+Omdat de voorwaarderegel de technische uitwerking is van het autorisatiebesluit en deze als het 
+ware "volgt", is elke voorwaarderegel het resultaat van een uitvoerige toetsing aan de daarvoor 
+geldende wettelijke criteria. Bovendien is bij elk aanvraagtraject (dus nog voordat een 
+autorisatiebesluit wordt genomen) een medewerker betrokken die kennis heeft van de werking van 
+de voorwaarderegels en deze kan en mag opstellen. 
+Het Besluit basisadministraties persoonsgegevens BES is te vinden op: 
+https://wetten.overheid.ni/BW BR0028622/2016-12-21  
+
+Profieloverzicht PMD 
+Laatst bijgewerkt: 13-7-2021 
+Beschrijving actieve zoekprofielen 
+RNI-1 
+Dit profiel zoekt binnen de RNI naar PL'en met gelijke voornaam en geslachtsnaam, 
+geslachtsaanduiding en geboortegegevens (geboortedatum, geboorteplaats en geboorteland). 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+RNI-Vgl-1 
+Dit profiel zoekt binnen de RNI naar PL'en met een vergelijkbare samengestelde naam en gelijke 
+geslachtsaanduiding en geboortegegevens (geboortedatum, geboorteplaats en geboorteland). 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+RNI-Vgl-3 
+Dit profiel zoekt naar PL'en met een bekend vertrekadres, met gelijke voornaam, en vergelijkbare 
+samengestelde naam. De geslachtsaanduiding en geboortedatum zijn ook gelijk. Door de extra 
+criteria wordt hoofdzakelijk in de RNI gezocht. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+Het vertrekadres is bekend. 
+RNI-Ov-Vgl-1 
+Dit profiel zoekt in de RNI enerzijds en PL'en van overleden personen anderzijds. Er wordt gezocht 
+naar een vergelijkbare samengestelde naam, gelijke geslachtsaanduiding en gelijke 
+geboortegegevens (geboortedatum en geboorteplaats). 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+BSN-GBA-RNI 
+Dit profiel zoekt in de RNI en GBA naar PL'en met een gelijk burgerservicenummer. Hoewel het niet 
+vaak voorkomt, kunnen deze PL'en ook van overleden personen zijn. 
+Extra criteria: 
+geen 
+
+GBA-RNI-Vgl-6 
+Dit profiel zoekt in de RNI enerzijds en de GBA anderzijds naar PL'en met een gelijke voornaam, 
+vergelijkbare samengestelde naam en gelijke geslachtsaanduiding en geboortedatum. De PL'en 
+verschillen in het aantal ouders dat met naam is vermeld. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+GBA-6 
+Dit profiel zoekt in de RNI en GBA naar vergelijkbare PL'en met een verschillende geboorteplaats 
+maar een gelijk geboorteland buiten Nederland. De samengestelde naam, geslachtsaanduiding en 
+geboortedatum zijn hetzelfde. Ook de samengestelde naam van Ouder 1 komt overeen. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+G BA-7 
+Dit profiel zoekt in de RNI en GBA naar PL'en met dezelfde samengestelde naam en 
+geboortegegevens (geboortedatum en geboorteplaats). 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+GBA-8 
+Dit profiel zoekt naar PL'en met een bekend vertrekadres en dezelfde samengestelde naam, 
+geboortedatum en geslachtsaanduiding. Door de extra criteria wordt niet in de GBA gezocht. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+Het vertrekland is bekend. 
+G BA-9 
+Dit profiel zoekt in de RNI en GBA naar PL'en met dezelfde samengestelde naam, geboortedatum, 
+geslachtsaanduiding en geboorteland buiten Nederland. Daarnaast is ook de samengestelde naam 
+van een van de ouders gelijk. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+GBA-10 
+Dit profiel zoekt in de RNI en GBA naar PL'en met dezelfde samengestelde naam, geboortedatum en 
+geslachtsaanduiding. Het geboorteland is niet Nederland. De PL'en verschillen in het aantal ouders 
+dat met naam is vermeld. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Gebdatum_ongelijk 
+Dit profiel zoekt in de RNI en GBA naar vergelijkbare PL'en met een ongelijke geboortedatum, 
+waarbij het geboortejaar en de geboorteplaats wel gelijk zijn. De eigen samengestelde naam is 
+vergelijkbaar en de samengestelde naam van Ouder 1 komt overeen. Bovendien is het woonadres 
+gelijk. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+EU 
+Dit profiel zoekt in de RNI en GBA naar PL'en met een gelijk EU-persoonsnummer en gelijke 
+nationaliteit. 
+Extra criteria: 
+geen 
+Adres_bl_gebpl 
+Verklaring van de naam: adres-buitenland correspondeert met geboorteplaats, voor inschrijvingen 
+in de GBA mag de geboorteplaats alleen gevuld worden wanneer er een geboorteacte wordt getoond 
+het buitenlandadres is dan een proxy voor de geboorteplaats. Dit profiel zoekt in de RNI en GBA 
+naar PL'en waarbij de eerste voornaam en de geboortedatum gelijk zijn en als er een tweede 
+voornaam bekend is moet de le letter overeenkomen (in veel slecht gevulde PL-en is alleen de eerste 
+letter van de 2e voornaam gegeven). Daarnaast is de geboorteplaats gelijk aan de plaats in het 
+buitenland van de andere PL en wordt voor de eerste 3 namen in de geslachtsnaam bekeken of één 
+van deze namen ongeveer overeen komt met één van de namen in de andere PL. 
+Extra criteria: 
+De volledige geboortedatum is bekend en één van de PL-en is opgeschort. 
+Achterstevoren 
+Dit profiel zoekt in de RNI en GBA naar PL'en waarbij de eerste voornaam en de eerste 
+geslachtsnaam verwisseld lijken te zijn. De geboortedatum is gelijk en van één van de personen is 
+de PL slecht gevuld (initiële vulling of de geboorteplaats is onbekend). 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+
+Beschrijving inactieve zoekprofielen 
+RNI-2 
+Dit profiel zoekt binnen de RNI naar PL'en waarvoor een deel van de geboortegegevens, namelijk 
+de geboorteplaats, het geboorteland en het geboortejaar overeenkomt, maar de volledige 
+geboortedatum verschillend is. De samengestelde naam (voornaam, voorvoegsel en geslachtsnaam) 
+en geslachtsaanduiding zijn gelijk. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+De geboorteplaats en het geboorteland zijn bekend. 
+Datum document en datum opneming zijn gelijk voor beide PL'en. 
+Dit profiel is uitgezet vanaf 28-10-2020. 
+RNI-5 
+Dit profiel zoekt binnen de RNI en GBA naar PL'en met een gelijke voornaam. De geslachtsnaam lijkt 
+anders, maar blijkt te zijn opgebouwd uit meerdere namen (zoals bij Iberische namen) die wel 
+overeenkomen maar in een andere volgorde zijn gegeven. De geslachtsaanduiding en 
+geboortedatum zijn ook hetzelfde. 
+Extra criteria: 
+De volledige geboortedatum is bekend. 
+Het geboorteland is bekend en niet Nederland. 
+Dit profiel is uitgezet vanaf 28-10-2020. 
+
+lijnen getrokken met meetpunten. Dat 
+gebeurt met de verificatiefoto ook en dat 
+wordt als het ware op elkaar gelegd (de 
+templates en niet de foto's) en die worden 
+met elkaar vergeleken. Die techniek blijft 
+continu in ontwikkeling aangezien je vaak te 
+maken hebt met veranderende 
+omstandigheden. Denk hierbij aan de 
+omgeving (statisch of dynamisch) en de 
+persoon in kwestie zelf. Die techniek wordt 
+ook gebenchmarkt. Zie hier Independent 
+Vendor Tests - Cognitec voor meer 
+informatie. (Het gaat om de 1:1 vergelijking 
+en niet 1:N) 
+Zie antwoord bij 9. 
+10 Indien er sprake is van een lerend algoritme, 
+hoe vaak wordt er geleerd/getraind? 
+De techniek van Cognitec is vertaald naar de 
+11 Welke software/applicatie is gebruikt? 
+gebruiker binnen de ORIBI-applicatie welke 
+als SDK wordt gehanteerd in de RNI 
+applicatie. Het doel is het voorkomen van 
+een onterechte acceptatie, immers, je wilt 
+geen fraudeur accepteren. Deze instelling 
+staat op 1 op 50.000. Met andere woorden: 
+het is een kans van 1 op 50.000 dat het 
+systeem het bij het verkeerde eind heeft 
+echter, je kunt dus aan de "knoppen 
+draaien" om het systeem strakker te zetten. 
+Houd er dan wel rekening mee dat een 
+zogenaamde "onterechte afwijzing" 
+toeneemt. Nu staat de "onterechte 
+acceptatie (FAR)" ingesteld op 1 op 50.000 
+en de "onterechte afwijzing (FRR)" staat op 4 
+op 1.000. Een zogenaamde FRR is minder 
+erg dan een FAR. Vandaar dat er naar een 
+acceptabele afstelling is gezocht voor de 
+dagelijkse praktijk. Dit kan (in overleg met 
+ORIBI) worden aangepast. 
+
+v 
+• 1Oíi u 
+• • c 
+uE• ó 
+0 4 > _. 
+L.y U •  
+CD ` c  u 'ó 
+r É>• 
+ó 
+1.2   ó 2  E E 
+E  
+0 
+T 
+O 
+O • 
+rn 
+C • • 
+o " É 
+0 w 
+t 
+N 
+O •- v Y _ 
+N • w N L 
+5 • á_2; 
+O Ó 
+23e2 ,431c11 polj L' z•.aw• • 
+• 
+Á 
+f• u 
+A 
+.1 . 1i 
+V 
+E 
+rn Jv E 
+• 
+r 
+• m y • t • m 
+4 O 
+ó 
+• Y` 
+n $.• • > c 
+v ó c ó n 
+; 
+w cn u A 
+• 
+-►:i`•' • 
+lig: 
+11 
+'Ik • 
+• 
+Lá 
+Leading the Industry 
+B12 engine ( 201 
+from test databas 
+
+4. • 
+1 K 
+0 3 
+X 
+• 
+1 
+i 
+CD 
+•.  !I
+• 
+• 
+F 
+CM • 
+1 
+i 
+i 
+1 
+1 
+1 
+L• 
+• 
+Q 
+1 
+0 
+! 
+• 
+• 
+• 
+0 
+1 
+1. 
+1 • s• 
+• 
+u 
+.z 
+C Ó1 A V C 
+.. n . • No` 
+T < c nU É • v n .- • L: 
+U 
+•= 3 
+n Ia 's 
+^J N C O w0. Ó1 uyy ••.L-. V-. . x d C • V 6 
+p  
+C C a 8 U C C Ó C Ó a N a O V u OI 
+:J I/1 I` •>
+o c c a • 
+l_ v 0 1 y ,En ,E n I` • ,n.- - e • • a 3 c c c c 
+a U   í••. 9 .2 
+- • ó• Á0 g É 
+^ • _U C ':. 
+> o o n n • l. n o V • ` •• N V ríit •1i1 
+v r. .• E Pi ' '> w• ë 
+N  
+• 
+FaceVACS-VideoScan 
+General features Detailed investigations 
+Border control 
+• stores and reports investigation results 
+Find a demo video at 
+www.cognitec.com 
+
+1: 
+kol 
+.-<• I` ^ N 
+E • ó 
+r ' • ; V • 6 V u 
+U c 
+• 
+• 
+• 
+X 
+• 
+u 
+I•y 
+O 
+C 
+É 
+0 
+m 
+u • 
+is t: 
+A 
+O L 
+C Zi 
+n ≥ 
+ry • 
+•V r 
+W r 
+ò5 C 
+T .LY. • N 
+L • ; C 
+• n 1•• _ •.•,   1! 
+• u c ua i C +:i.e• •'•llr== 
+X vi •u D ó ó .≥ N • ó • • 
+`, __ • ,.. 
+• o • • c E` v 
+• N c 
+J- 
+: •+.''" ••:'•:;,•;••,;• . 
+c• 
+c A rn E 
+•r - S,'• `_ ' • 
+3 ≤ m ó y Y E2 ufO 2L • Yía c N u = 
+l,L. ' f}} 
+• c e:r , L° c 3 i ó n'c v n v .^ m 
+- - ~ \ 
+t ' v ó c o > •  • o c L• ` 
+E  Z 
+•p r• 
+• • 
+F 
+e 
+• o n • N L u • • :. r C o: •• 
+• 
+C- E a 
+m á ó>ó• 
+T• E n• c c u o•• E y 'S ._ Y V 
+• • ' H C O n D . C Ó N á - •.3.1 L.. 
+E t • c rn • E L n c a. o. • r V " ,w v c 
+Vo  • C L O Ó o t - d ' 4-r 3 
+3__ ._. 3 U • u• o E 
+T c c i a Q Y Á r, •. • c ó 0
+c o á E` •-> n••-• c Á g Z c 
+JE 
+V v. 
+N V a •.•{ T N c— o V O 
+U O. " O' j. C D ./• • • • E Dnn d O C D r 
+` 
+C C • 
+1 
+e yo ' c S c • c - ái c .% 
+Y u ó • • c ó n • á• 
+1 
+C•J 0 E u 
+Reference Projects 
+Cognitec is a member of 
+Border control 
+info® cognitec.com Law enforcement 
+2000 • Australia 
+
+• 
+t s 
+..r---... 
+Gegevensbescherm i ngs- 
+effectbeoordel i ng ( PIA) . 
+Rijksdienst voor Identiteitsgegevens 
+Directie Uitvoering 
+z 
+Den Haag, 28 september 2021 
+J I 
+Maatre 
+I 
+ustwqrdi.pg. 
+. 
+0 ", 
+Noódzaák  •.,•.: 
+plbin-d 
+- Effecten in kaart 
+As 
+40 
+(9 
+rrX . y•- 
+o FS •-_ ; •r .} •,• ,• -•► • 
+• 
+• t - 
+• .- 1.•- 
+• w . 
+- • • -• •' • , •,* '  i••, •• 
+%. 
+hJP 
+1• *4 
+•-•m ini ma • I S e C'•C1 .-, .• 
+;• Ri min n•l . 
+R•ec ts -.. ron ö.%, 
+_.. . 
+• •_ - 
+• - •n wizi • r 
+,• , .• .et  
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+Gegevensbeschermi ngs-
+effectbeoordeling ( PIA) 
+Rijksdienst voor Identiteitsgegevens 
+Directie Uitvoering 
+Contact: 
+Rijksdienst voor Identiteitsgegevens 
+Accountmanager Registratie Niet Ingezetenen (RNI) 
+-@rvig.nl 
+Telefoon: 06 - • 
+Versie: 1.0 September 2021 
+3 1 14 Gegevensbeschermingseffectbeoordeling i PIA 
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+Inleiding 
+De Rijksdienst voor Identiteitsgegevens (RvIG) beheert de persoonsgegevens van niet-ingezetenen 
+in de RNI. Voor het bijbehorende proces is reeds een PIA opgesteld. Voorliggende PIA is daarop een 
+aanvulling omdat een nieuwe processtap toegevoegd wordt; geautomatiseerde vergelijking van een 
+persoon met de gezichtsopname uit het identiteitsdocument. 
+51 14 Gegevensbeschermingseffectbeoordeling 1 PIA 
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+4. Verwerkingsdoeleinden 
+Inschrijving in de RNI geschiedt pas nadat de identiteit deugdelijk is vastgesteld (art. 2.67 4°e lid, 
+iwet BRP). Voor de identiteitsvaststelling moet de aanvrager een identiteitsdocument voorleggen 
+(art. 2.80, wet BRP). De automatische gezichtsvergelijking ondersteunt de medewerker van het 
+RNI-loket in de beoordeling of de persoon en het document daadwerkelijk bij elkaar horen en of 
+daarmee de identiteit van de persoon vastgesteld kan worden. De gelijkenis van de foto is een 
+•an de criteria voor de acceptatie van het identiteitsdocument. (echt, eigen, geldig, 
+ekwalificeerd: zie paragraaf 9) 
+5. Betrokken partijen 
+1Burger 
+Betrokkene, ondervindt de consequenties van de gezichtsvergelijking. Overhandigt zijn 
+identiteitsdocument en werkt mee aan het maken van een live gezichtsopname. 
+(Ministerie van BZK/RvIG 
+Verwerkingsverantwoordelijke voor RNI-gegevens. RvIG heeft als beheerder van het RNI-
+systeem onder voorwaarden toegang tot persoonsgegevens, niet tot de gezichtsopnames omdat 
+deze niet opgeslagen worden. 
+Gemeente met RNI-loket 
+werker, voert het identificatieproces uit en heeft daarmee toegang tot de gezichtsopnames 
+Eerr zolang deze in het gezichtsvergelijkingssysteem staan. De behandelende medewerker 
+beoordeelt het resultaat van de geautomatiseerde gezichtsvergelijking en wordt juist geacht om 
+de foto uit de chip zelf ook goed te bekijken en zo een eigen oordeel over de gelijkenis te 
+vormen. 
+Geautomatiseerd gezichtsvergelijkingssysteem 
+Ontvanger, voor de duur van de vergelijking toegang tot de gezichtsopnames. De 
+gezichtsopnames worden niet opgeslagen. Systeembeheerders hebben dus geen toegang 
+•aartoe. 
+De live opname van de persoon wordt niet opgeslagen en is alleen gedurende het proces van 
+identiteitsvaststelling in het systeem geregistreerd en voor de medewerkers van het RNI-loket 
+zichtbaar. 
+Er is geen directe verstrekker omdat de gezichtsopname op het moment van 
+identiteitsvaststelling ter plekke gegenereerd worden. De gezichtsopname uit het document 
+wordt alleen tijdelijk gebruikt door het automatische gezichtsvergelijkingssysteem. Daarna zijn 
+!de opnames niet meer nodig en kunnen verwijderd worden.  
+71 14 Gegevensbeschermingseffectbeoordeling I PIA 
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+9. Juridisch en beleidsmatig kader 
+Wettelijke verplichting tot deugdelijke identiteitsvaststelling: 
+Wet BRP art. 2.67 4 d lid, Besluit BRP art.35 
+Wettelijke verplichting tot gebruik van een identiteitsdocument voor de identiteitsvaststelling: 
+art. 2.80, wet BRP en Wet op de Identificatieplicht 
+Beleid: 
+voorkomen van fouten en fraude; 
+streven naar hoge kwaliteit bij identiteitsvaststelling en registratie; 
+- streven naar uniforme, gestandaardiseerde processen; 
+0 ondersteunen van personeel met hulpmiddelen; 
+deugdelijke identiteitsvaststelling op basis van een document gebeurt door het 
+onderzoeken van volgende eigenschappen: 
+o echt; 
+o eigen; 
+o geldig; •!+ ' t 
+o gekwalificeerd; 12•- 
+verschijningsplicht t.b.v. identiteitsvaststelling. •'*<. 
+10. Bewaartermijnen 
+Voor het primaire doel, identiteitsvaststelling, is het niet nodig de live-opname langer te bewaren 
+dan noodzakelijk voor de geautomatiseerde beoordeling (orde grootte: seconden). 
+• 
+91 14 Gegevensbeschermingseffectbeoordeling I PIA 
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+14. Noodzaak en evenredigheid 
+M.b.t proportionaliteit: 
+Een deugdelijke identiteitsvaststelling is essentieel voor inschrijving in de RNI of voor 
+wijzigingsverzoeken om mogelijke fouten te voorkomen en fraude tegen te gaan. Het is nu ook al 
+gebruikelijk om daarvoor de gezichtsopname van een identiteitsdocument te vergelijken met de . 
+aanwezige persoon. Alleen gebeurt dat nu door de medewerker aan de balie. Uit onderzoek blijkt 
+dat mensen veel fouten kunnen maken, zeker als een identiteitsdocument al enkele jaren oud is. 
+uist de combinatie van mens en machine zorgt voor een betere prestatie. ' 
+M.b.t. subsidiariteit: 
+Het is moeilijk om administratieve gegevens op een betrouwbare wijze aan een persoon te 
+koppelen. Door vergelijking van de gezichtsopname uit de chip van het identiteitsdocument kan 
+' en bewijs geleverd worden dat document en persoon bij elkaar horen. Een gezichtsopname is de 
+minder invasieve methode vergeleken met het andere biometrisch_ e kenmerk, namelijk 
+•inoerafdrukken. 
+• 
+I , 
+15. Rechten van de betrokkene 
+•- 
+w 
+(Betrokkene heeft rechten in lijn met de AVG. Deze zijn al verwerkt in het bestaande proces voor 
+Cierzoeken met betrekking tot wijziging, inzage of verwijderen van gegevens (art. 2.81, wet BRP). 
+111 14 Gegevensbeschermingseffectbeoordeling I PIA 
+
+Rijksdienst voor Identiteitsgegevens - Directie Uitvoering 
+D. Beschrijving voorgenomen 
+maatregelen 
+17. Maatregelen 
+Risico op lekken van gegevens: 
+toegang alleen voor geautoriseerd personeel; 
+geen opslag van de gezichtsopname uit de live opname anders dan noodzakelijk 
+voor de duur van de gezichtsvergelijking; 
+gezichtsvergelijkingssysteem binnen de beschermde omgeving van een RNI-loket 
+installeren; 
+toezicht op leverancier bij werkzaamheden in het kader van beheer. 
+r 
+Risico op manipuleren van het systeem en de uitslag van de vergelijking: 
+systeem is alleen toegankelijk voor geautoriseerd personeel; ~ 
+4 ogen principe voor de gehele aanvraagprocedure. 
+Risico op foute uitslag: 41 
+medewerker moet ook zelf een beoordeling maken; 
+gezichtsvergelijking is niet het enige criterium voor het vaststellen van de identiteit; 
+second opinion door tweede medewerker of bij moeilijkere gevallen door experts bij 
+politie of KMar; 
+bur•er heeft recht om bezwaar te maken tegen een besluit.  
+13 1 14 Gegevensbeschermingseffectbeoordeling I PIA 
+

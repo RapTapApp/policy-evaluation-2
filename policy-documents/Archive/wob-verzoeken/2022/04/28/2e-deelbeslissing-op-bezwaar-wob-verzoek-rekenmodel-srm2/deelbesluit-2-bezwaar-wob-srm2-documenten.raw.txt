@@ -1,0 +1,3881 @@
+1
+10.2.e
+Van: ) - DGMo
+Aan: 10.2.e ) - DGMo-WV
+Onderwerp: SSRS
+Datum: donderdag 5 maart 2020 09:32:00
+Bijlagen: nota M IenW en M MenW svz bronbeleid, streefwaarden, SRSS en GGA.pdf
+Prioriteit: Hoog
+10.2.e
+,
+Zie bijgaand. Net uit HPRM geplukt, waarbij ik zie dat M wel naar het stuk over SSRS heeft
+gekeken. Vragen zijn neem ik aan niet meer beantwoord? Overigens vraagt ze ook of de hele
+operatie misschien uitgesteld moet worden?
+Dank dat het verstandig is haar zo nog wel tijdens staf te wijzen op signaal Tauw en naar ik
+begrijp ook 10.2.e . Ikv
+verwachtingmanagement/opbouwen richting evt advies dat ze wrs binnenkort krijgt.
+10.2.e
+Bezwaar Tauw/ op dit punt zit op 2 dingen:
+11.1
+10.2.e
+ heeft nog de vraag gesteld hoe snel het tweede punt zou kunnen, maar daar kwam niet
+echt een antwoord op.
+10.2.e
+Gr, 
+10.2.e
+Directoraat-Generaal Mobiliteit
+Directie Wegen en Verkeersveiligheid
+........................................................................
+Ministerie van Infrastructuur en Waterstaat
+Rijnstraat 8 | Den Haag |
+Postbus 20901 | 2500 EX | Den Haag
+........................................................................
+M 06-10.2.e
+10.2.e
+E @minienw.nl
+........................................................................
+Ik werk op ma t/m do
+NB: elk bericht wordt in de CC ook aan wob-stikstof@minienw.nl gezonden ten behoeve van een
+ordentelijke archivering met het oog op mogelijke Wob-verzoeken.
+
+Ten behoeve van projectspecifieke berekeningen rekent AERIUS Calculator voor wegverkeer met 
+een implementatie van de standaardrekenmethode 2 (SRM2) die is beschreven in de technische 
+beschrijving van het RIVM bij de Regeling beoordeling luchtkwaliteit 2007. De implementatie van 
+SRM2 in AERIUS hanteert een maximale rekenafstand van 5 kilometer tot de weg. De overweging 
+hierbij is dat berekende bijdragen van wegverkeer op enkele kilometers van de weg niet meer 
+betekenisvol zijn te herleiden tot een individueel project. Ook in de bovengenoemde technische 
+beschrijving van het RIVM is aangegeven dat voor wegverkeer op basis van SRM2 niet tot 
+willekeurig grote afstanden mag worden gerekend. Door uit te gaan van een maximale 
+rekenafstand van 5 km bij de doorrekening van individuele projecten, wordt hieraan invulling 
+gegeven in AERIUS Calculator. 
+Voor het vaststellen van de bijdrage van wegverkeer aan de totale landelijke deposities wordt wel 
+landsdekkend gerekend. Dat is mogelijk, omdat de bijdragen dan niet herleidbaar hoeven te zijn 
+tot een specifiek project. De bijdrage van wegverkeer aan de totale landelijke deposities wordt 
+berekend met het verspreidingsmodel OPS. Het OPS-model kent geen begrenzing in de afstand tot 
+de bron waar een depositiebijdrage wordt berekend.  
+ 
+4) Waarom was dit voorheen 3 km, en waarom is dit opgerekt naar 5 km?  
+ 
+Onder het PAS gold een zogenoemde afstandsgrenswaarde van 3 kilometer vanaf de weg voor 
+prioritaire projecten ten aanzien van hoofdwegen. Dat betekende dat de deposities met AERIUS 
+Calculator alleen werden berekend op natuurgebieden binnen 3 kilometer van een ingevoerde 
+wegvakken. Die 3 km was dus van toepassing op het selecteren van (delen van) natuurgebieden 
+waar moest worden gerekend. Voor de geselecteerde (delen van) natuurgebieden werden 
+vervolgens de bijdragen bepaald van de extra verkeersbewegingen op alle wegen binnen 5 
+kilometer rondom deze (delen van) natuurgebieden. De stikstofdepositie die het totale wegverkeer 
+op het hoofdwegennet veroorzaakt, werd in het kader van de jaarlijkse monitoring op basis van de 
+meest actuele inzichten voor de verschillende zichtjaren berekend en in AERIUS meegenomen in 
+de depositieruimte. Op deze manier werden de prognoses van de stikstofdepositie van het 
+wegverkeer, bestaande uit een combinatie van autonome ontwikkeling en effecten van 
+hoofdwegenprojecten zo goed mogelijk inzichtelijk gemaakt en jaarlijks geactualiseerd. In de 
+gebiedsanalyses werd per Natura 2000 gebied deze totale depositieruimte ecologisch beoordeeld. 
+Met het wegvallen van het PAS en de afstandsgrenswaarde is AERIUS Calculator op dit punt 
+aangepast. Calculator rekent ten behoeve van projectspecifieke berekeningen nu op alle (delen 
+van) natuurgebieden binnen 5 km (en neemt daarbij de bijdragen mee van de wegen binnen 5 
+km). 
+ 
+In de uitvoeringspraktijk voorafgaande aan het PAS werd in beginsel uitgegaan van een maximum 
+rekenafstand van 3 kilometer tot de weg in onderzoeken naar de effecten voor deposities. Als 
+sprake was van de aanleg van een nieuwe weg of projecten zeer grote effecten op de 
+verkeersbewegingen hadden, werd een rekenafstand van 5 km gehanteerd.  
+Deze afbakening van 3 km was mede gebaseerd op een literatuurstudie van het destijds meest 
+actueel beschikbare internationaal empirisch ecologisch onderzoek naar de effecten van wegen op 
+vegetatie (Schaffers, A.P.. Effectafstand van stikstof uit verkeersemissies op de vegetatie; een 
+inventarisatie van de literatuur. Wageningen University, 2010). Deze studie heeft als conclusie 
+opgeleverd dat de effecten van stikstofdepositie op de omliggende vegetatie beperkt blijven tot 
+een zone van orde grootte 500 meter vanaf de weg. Omdat resteffecten op een grotere afstand 
+dan 500 meter niet geheel waren uit te sluiten op basis van deze literatuurstudie, mede doordat in 
+een deel van de onderzoeken nog (geringe) effecten aantoonbaar waren op de onderzochte locatie 
+die het verst van de weg lag, is deze effectafstand van 500 meter opgehoogd met een ruime 
+veiligheidsmarge van 2500 meter. Daarmee werden waarborgen ingebouwd om risico op 
+ecologische effecten buiten het onderzoeksgebied uit te sluiten. 
+ 
+ 
+5) Is de depositie van bijv. een snelweg op meer dan 5 km afstand niet meer significant? 
+
+11.1 
+     
+ 
+ 
+9) Ook wordt in deze audit opgemerkt (pagina 19) dat eerder het gebruik van OPS is aanbevolen en 
+geïmplementeerd, maar dat "andere overwegingen" weer hebben geleid tot terug gaan naar SRM2. 
+Waarom is dat gebeurd? Wat waren deze andere overwegingen? Wie heeft deze keuze gemaakt?   
+> Zie 8  
+Deze keuze is destijds gemaakt door het (toenmalige) Ministerie van Economische Zaken en het 
+(toenmalige) Ministerie van Infrastructuur en Milieu. 
+ 
+10) Wat is de wetenschappelijke basis voor het gebruik van SRM2 voor het berekenen van 
+deposities? 
+>  
+Standaardrekenmethode 2 (SRM2) is beschreven in de technische beschrijving van het RIVM bij de 
+Regeling beoordeling luchtkwaliteit 2007 (https://www.rivm.nl/bibliotheek/rapporten/2014-
+0109.pdf). In hoofdstuk 3 van dit rapport is ingegaan op de validatie van SRM2. 
+In AERIUS wordt SRM2 gebruikt voor het berekenen van de wegbijdrage aan de concentraties 
+stikstofoxiden en ammoniak. AERIUS bepaalt vervolgens de deposities door de berekende 
+concentraties van een stof te vermenigvuldigen met de effectieve droge depositiesnelheid voor de 
+desbetreffende stof. De waarden voor deze depositiesnelheid zijn afgeleid met OPS-model. 
+ 
+Zie ook: 
+https://www.aerius.nl/nl/nieuws/toelichting-toepassingsbereik-en-beschrijving-rekenmethode-
+aerius-calculator-2015 
+https://www.aerius.nl/files/media/factsheets/srm2_implementatie_in_aerius_calculator_-
+_beschrijving_-_15_september_2016.pdf 
+ 
+ 
+
+ 
+10.2.e 10.2.e
+Van:  (WVL) @rws.nl> 
+Verzonden: dinsdag 2 juni 2020 08:48
+10.2.e 10.2.e
+Aan:  (WVL) @rws.nl>
+Onderwerp: 2020 mei Vragen Jan Salden
+ 
+10.2.e
+Ha
+ 
+10.2.e
+Goed weekend gehad? Hierbij nog een paar kleine dingen. Is het nog handig als  kijkt
+naar de antwoorden t.a.v. SRM2 en OPS?
+ 
+Groet,
+ 
+10.2.e
+
+10.2.e 10.2.e 10.2.e
+Aan:    (BS)  < @rws.nl>;   (WVL)
+10.2.e 10.2.e 10.2.e
+@rws.nl>; WVL)  < @rws.nl>
+10.2.e 10.2.e
+CC:    (MN)  @rws.nl>; 10.2.e   (BS)
+10.2.e
+@rws.nl>; 10.2.e   (BS) 10.2.e @rws.nl>
+Onderwerp:  RE:  vragen  1Vandaag  100  km/u
+ 
+Bijgevoegd de aangepaste antwoorden. Deze aanpassingen zijn door DGMo afgestemd met
+RIVM
+ 
+10.2.e
+Van:    (WVL) 
+Verzonden:  vrijdag  29  mei  2020  16:10
+10.2.e 10.2.e 10.2.e
+Aan:    (BS)  @rws.nl>;    (WVL)
+10.2.e 10.2.e 10.2.e
+@rws.nl>;    (WVL)  @rws.nl>
+10.2.e 10.2.e
+CC:    (MN)  @rws.nl>; 10.2.e   (BS)
+10.2.e
+@rws.nl>; 10.2.e   (BS) 10.2.e @rws.nl>
+Onderwerp:  RE:  vragen  1Vandaag  100  km/u
+ 
+Hoi,
+ 
+Er staan hier echt hele rare antwoorden in. DGMo (10.2.e ) is al bezig met een
+inhoudelijke reactie, omdat dit zo niet naar buiten kan.
+ 
+Groet,
+10.2.e
+ 
+10.2.e 10.2.e
+Van:    (BS)  @rws.nl> 
+Verzonden:  vrijdag  29  mei  2020  15:28
+10.2.e 10.2.e 10.2.e
+Aan:    (WVL)  @rws.nl>;    (WVL)
+10.2.e 10.2.e 10.2.e
+@rws.nl>;    (WVL)  @rws.nl>
+10.2.e 10.2.e
+CC:    (MN)  @rws.nl>; 10.2.e   (BS)
+10.2.e
+@rws.nl>; 10.2.e   (BS)  <10.2.e @rws.nl>
+Onderwerp:  FW:  vragen  1Vandaag  100  km/u
+ 
+Collegae,
+ 
+10.2.e
+Voor jullie zeker relevant, dank  voor het doorsturen. Even checken dat we niet via
+10.2.e
+EenVandaag de discussie over 5km en Ops vs aerius gaan voeren. @ : wellicht samen
+10.2.e
+met  rivm even vragen om als rivm naar ons verwijst even mee te mogen lezen met
+de concept-antwoorden?
+ 
+10.2.e
+Groet.  
+10.2.e
+Ps:  voor de stuurgroep relevant denk ik. 
+—
+Getypt op de telefoon. 
+ 
+Van: 10.2.e (BS) 10.2.e @rws.nl>
+Datum: vrijdag 29 mei 2020 1:41 PM
+10.2.e 10.2.e
+Aan:  (BS) @rws.nl>
+10.2.e
+Kopie: 10.2.e (BS) @rws.nl>
+Onderwerp: FW: vragen 1Vandaag 100 km/u
+ 
+Voor als je er zin in hebt:
+
+
+
+11.1
+11.1
+10.2.e
+11.1
+10.2.e
+11.1
+10.2.e
+11.1
+
+13
+10.2.e
+Van: (WVL)
+Aan: 10.2.e ) - BSK; 10.2.e ) - DGB; 10.2.e ) - BSK
+10.2.e
+Cc: ) - BSK
+Onderwerp: RE: Memo "dekenproblematiek" stikstofdepositie
+Datum: vrijdag 5 juni 2020 10:55:58
+Bijlagen: Memo "dekenproblematiek" stikstofdepositie_ .docx
+10.2.e
+10.2.e
+Dag 
+Bij deze nog mijn opmerkingen. 
+Groet,
+10.2.e
+10.2.e
+Van:  )  -  BSK 
+Verzonden:  donderdag  4  juni  2020  20:28
+10.2.e 10.2.e
+Aan:  )  -  DGB  ;  )  -  BSK 
+10.2.e 10.2.e
+CC:    (WVL)  ;  )  -  BSK 
+Onderwerp:  RE:  Memo  'dekenproblematiek'  stikstofdepositie
+10.2.e 10.2.e 10.2.e 10.2.e
+Ha    
+Heldere notitie, hierbij nog een paar aanvullende suggesties van mijn zijde. Wil jij hem zelf
+verder afronden? Als ik daar iets in kan doen, roep gerust.
+Heb ook een eerste aanzet gemaakt voor korte notitie over de (interne en externe) organisatie
+van de dekenproblematiek. Ben nog even zoekende, dus dacht gooi het even in de groep. Graag
+jullie reactie/input daarop.
+10.2.e
+Groet 
+10.2.e 10.2.e
+Van:  )  -  DGB  @minienw.nl> 
+Verzonden:  donderdag  4  juni  2020  17:55
+10.2.e 10.2.e
+Aan:  )  -  BSK  @minienw.nl>
+10.2.e 10.2.e 10.2.e
+CC:  )  -  BSK  @minienw.nl>;    (WVL)
+10.2.e
+@rws.nl>
+Onderwerp:  RE:  Memo  'dekenproblematiek'  stikstofdepositie
+10.2.e
+Ha 
+Heel fijn zo’n notitie waarin oplossingsrichtingen gestructureerd en helder op een rij zijn gezet.
+Ik heb enkele illustrerende plaatjes toegevoegd en ook tekstsuggesties. Ik heb onder meer een
+alinea toegevoegd over het ‘heroverwegen’ van afronden/afkappen op twee decimalen.
+Waarschijnlijk had je hier bewust niet (veel) over opgenomen (om niet vooruit te lopen op
+Hordijk?), maar het leek mij wel zinvol dit toe noemen. Kijk maar of je het ook zinvol vindt.
+Ook zie ik in de voorgestelde oplossingsrichtingen een onderscheid tussen:
+- Oplossingen die ervoor zorgen dat we kleine bijdragen (deels) buiten beschouwing kunnen
+laten bij projecten (oplossingen die het onderzoeksgebied kleiner en hapbaarder maken):
+rekenafstand, drempelwaarde, afronding,…
+- Oplossingen voor de situatie waarin die kleine bijdragen wel moeten worden meegenomen,
+maar waarbij het voor projecten makkelijker wordt gemaakt om ze extern te salderen of te
+compenseren (zoals de natuurbank).
+Voor enkele aangegeven sub-oplossingsrichtingen is me nog niet duidelijk hoe/of dit
+oplossingen kunnen zijn voor de dekenproblematiek. Zie mijn opmerking hierover in het
+document.
+10.2.e
+Groet! 
+0610.2.e
+
+10.2.e
+10.2.e
+10.2.e
+11.1
+10.2.e
+11.1
+10.2.e
+11.1
+11.1
+11.1
+
+ 
+ 
+Toelichting Bestuurskern 
+Dir.Wegen en 
+ 
+Verkeersveiligheid 
+ 
+11.1
+Wegverkeersbeleid 
+ 
+ 
+Datum 
+2 juni 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+- Emissies als gevolg van wegverkeer worden doorgerekend met een 
+implementatie van Standaard Rekenmethode 2 (SRM 2), die is 
+beschreven in de technische beschrijving van het RIVM bij de Regeling 
+beoordeling luchtkwaliteit 2007. De implementatie van SRM2 in AERIUS 
+hanteert een maximale rekenafstand van 5 kilometer tot de weg. De 
+overweging hierbij is dat berekende bijdragen van wegverkeer op enkele 
+kilometers van de weg niet meer betekenisvol zijn te herleiden tot een 
+individueel project. Ook in de bovengenoemde technische beschrijving 
+van het RIVM is aangegeven dat voor wegverkeer op basis van SRM2 niet 
+tot willekeurig grote afstanden mag worden gerekend. Door uit te gaan 
+van een maximale rekenafstand van 5 km bij de doorrekening van 
+individuele projecten, wordt hieraan invulling gegeven in AERIUS 
+Calculator.  
+- Emissies van andere bronnen dan wegverkeer worden doorgerekend met 
+OPS. OPS kent op dit moment geen begrenzing in rekenafstand voor 
+individuele projectberekeningen. Wel worden berekeningen om 
+1
+systeemtechnische redenen afgekapt bij een berekende bijdrage < 0,005 
+                                                                        
+1
+ Uit de stresstest voor beschikbaarheidsstelling van AERIUS Calculator 2019 kwam aan het licht dat 
+het systeem zonder afkapping bij intensiever gebruik zo traag werd, dat er geen sprake was van 
+een stabiele werkomgeving voor gebruikers. Eerder is door RIVM aangegeven dat berekende 
+bijdragen van een individuele activiteit kleiner dan 0,05 mol/ha/jaar verwaarloosbaar klein zijn. Het 
+ 
+Pagina 3 van 11 
+ 
+
+11.1
+10.2.e
+11.1
+11.1
+10.2.e
+11.1
+11.1
+
+Bestuurskern 
+Dir.Wegen en 
+Ad 2 Ecologische onderbouwing 
+Verkeersveiligheid 
+Ecologisch kan onderbouwd worden dat een kleine depositiebijdrage niet leidt tot 
+Wegverkeersbeleid 
+significant negatieve effecten – ook niet in combinatie met andere – nog niet 
+uitgevoerde maar al wel vergunde – initiatieven. Dergelijke kleine 
+Datum 
+2 juni 2020 
+depositiebijdragen hebben ecologisch immers geen enkel meetbaar effect. Uit 
+uitspraken van de Raad van State blijkt dat in bepaalde situaties een kleine 
+toename van depositie toelaatbaar werd geacht op gebieden waar de kritische 
+4
+depositiewaarde werd overschreden . Of dat mogelijk is, lijkt altijd beoordeeld te 
+moeten worden door een ecoloog, aan de hand van de specifieke omstandigheden 
+in het betreffende Natura 2000-gebied. De vraag is wanneer stikstofemissies 
+leiden tot een relevante en meetbare depositie. Als een toename van depositie in 
+redelijkheid niet meetbaar is, kan dergelijke minimale bijdrage dan wel relevant 
+zijn in het licht van de overschreden kritische depositiewaarde? Van belang 
+daarbij is dat na de inwerkingtreding van de Spoedwet stikstof per 1 januari j.l. 
+niet langer een vergunningplicht geldt voor activiteiten met niet-significante 
+gevolgen voor Natura 2000-gebieden. Het gaat dan om gevolgen die – gezien de 
+specifieke kenmerken en omstandigheden van het Natura 2000-gebied – met 
+zekerheid niet significant zijn en de instandhoudingsdoelstellingen van het gebied 
+niet in gevaar brengen. Vraag daarbij is op welke wijze andere – nog niet 
+uitgevoerde maar al wel vergunde – initiatieven bij deze ecologische beoordeling 
+in de voortoets en/of passende beoordeling betrokken dienen te worden.  
+11.1 
+ 
+ 
+ 
+11.1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+ Zie bijvoorbeeld ABRvS 24 februari 2016, ECLI:NL:RVS:2016:497, ro. 18 
+11.1
+ 
+Pagina 7 van 11 
+
+ 
+ 
+Daarmee wordt ‘ruimte’ aanbieden ten behoeve van extern salderen mogelijk ook Bestuurskern 
+Dir.Wegen en 
+interessant voor bedrijven die hun werkzaamheden niet willen beëindigen. 
+Verkeersveiligheid 
+ 
+Wegverkeersbeleid 
+11.1
+  
+ 
+ 
+Datum 
+2 juni 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4e Een door overheden gevulde depositiebank voor extern salderen 
+Als de overheid zelf maatregelen treft of financiert, kan de overheid doorgaans 
+ook zelf bepalen welke ontwikkelingen van de beschikbaar gekomen ruimte 
+gebruik mogen maken. Nadeel van een volledig door overheden gevulde 
+depositiebank is dat er minder salderingsruimte beschikbaar zal komen, omdat de 
+overheid beperkte middelen beschikbaar heeft om maatregelen te 
+treffen/financieren.  
+Vooralsnog heeft het kabinet besloten een ontwikkelreserve van minimaal 20 
+mol/ha/j in te stellen voor het legaliseren van meldingen en projecten van 
+nationaal belang. Deze ontwikkelreserve wordt gevuld door een (klein) deel van 
+de depositiereductie dankzij de bronmaatregelen die het rijk heeft vastgesteld als 
+onderdeel van de structurele aanpak. Na benutting van de ruimte die nodig is 
+voor het legaliseren van de meldingen, kan de resterende ruimte ingezet worden 
+ten behoeve van het oplossen van de dekenproblematiek bij projecten van 
+nationaal belang.  
+Omdat de ontwikkelreserve pas daadwerkelijk kan worden ingezet voor 
+toestemmingverlening als de effecten van de bronmaatregelen vast staan en de 
+ruimte in de ontwikkelreserve met prioriteit wordt ingezet voor het legaliseren 
+van de meldingen, is de ontwikkelreserve geen oplossing voor (de 
+dekenproblematiek van) ontwikkelingen van nationaal belang waarvoor de 
+komende jaren een toestemmingsbesluit nodig is. 
+ 
+  
+11.1
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Pagina 9 van 11 
+ 
+
+ 
+ 
+Het kabinet heeft besloten een Natuurbank in te richten voor projecten van het Bestuurskern 
+Dir.Wegen en 
+Rijk en van waterschappen die een dwingende reden van groot openbaar belang 
+Verkeersveiligheid 
+vertegenwoordigen. Het gaat hierbij prioritair om projecten in het kader van 
+Wegverkeersbeleid 
+rijksinfra- en waterveiligheid en defensieprojecten die een veiligheidsbelang 
+ 
+vertegenwoordigen. Een dergelijke bank zou ook voor overige projecten kunnen 
+Datum 
+2 juni 2020 
+worden ingesteld met als groot voordeel dat individuele projecten niet meer zelf 
+hoeven te onderhandelen met TBO’s. Voor TBO’s is het aantrekkelijk omdat 
+grotere oppervlaktes kunnen worden ingericht in plaats van telkens kleine 
+snippertjes.  
+ 
+11.1 
+ 
+ 
+ 
+ 
+ 
+Pagina 11 van 11 
+ 
+
+11.1
+ 
+10.2.g
+10.2.e
+Mvg 
+Verzonden met BlackBerry Work(www.blackberry.com)
+10.2.e 10.2.e
+Van: " ) - BSK" @minienw.nl>
+Verzonden: 11 jun. 2020 21:43
+10.2.e 10.2.e
+Naar: " ) - HBJZ" @minienw.nl>
+10.2.e
+Cc: "Jurgens, G. (Gijs) - HBJZ" @minienw.nl>
+Onderwerp: FW: DOMUS-20163470-v3-
+Tweede_rapport_Adviescollege_Meten_Berekenen_Stikstof v3
+10.2.e 10.2.e
+Van: ) - DGMo @minienw.nl>
+Datum: donderdag 11 jun. 2020 9:29 PM
+10.2.e 10.2.e 10.2.e
+Aan: ) - BSK @minienw.nl>, ) - DGMo-
+10.2.e
+WV < @minienw.nl>
+Onderwerp: FW: DOMUS-20163470-v3-Tweede_rapport_Adviescollege_Meten_Berekenen_Stikstof
+v3
+11.1
+Morgenochtend verder, maar na een eerste scan: 
+ 
+10.2.e
+ morgenochtend voor overleg even bellen hoe hierop te reageren in overleg?
+ 
+Fijne avond J
+ 
+ 
+Van: 10.2.e @nvwa.nl> 
+Verzonden: donderdag 11 juni 2020 21:04
+10.2.e 10.2.e
+Aan: Doosje, mr. G.A.J. (Arjen) @minlnv.nl>; )
+10.2.e 10.2.e 10.2.e
+@minlnv.nl>; @minlnv.nl>; 
+10.2.e
+@minlnv.nl>; @minlnv.nl>;
+10.2.e 10.2.e 10.2.e
+) - DGMo @minienw.nl>; @rivm.nl'
+10.2.e 10.2.e 10.2.e
+@rivm.nl>; 10.2.e @rivm.nl>; @rivm.nl'
+10.2.e 10.2.e
+@rivm.nl>; 10.2.e @rivm.nl' @rivm.nl>; 10.2.e
+10.2.e 10.2.e
+@minlnv.nl>; ) - BSK @minienw.nl>
+10.2.e 10.2.e
+CC: @minlnv.nl>;
+10.2.e
+@minlnv.nl>; @minlnv.nl>; 10.2.e
+@minlnv.nl>
+
+17
+DEPARTEMENTAAL VERTROUWELIJK 
+Bestuurskern 
+Minister Dir.Wegen en 
+Verkeersveiligheid 
+Wegverkeersbeleid 
+Den Haag 
+Contactpersoon 
+10.2.e
+M  +31(0)6-10.2.e
+@minienw.nl
+10.2.e
+10.2.e
+M  +31(0)6-10.2.e
+@minienw.nl
+10.2.e
+Datum 
+12 juni 2020 
+Advies Commissie Hordijk - Meten en Berekenen 
+Kenmerk 
+IenW/BSK-2020/111482 
+Bijlage(n) 
+4 
+Inleiding 
+Op donderdag 11 juni jl. heeft DGS stikstof onder embargo het tweede advies 
+van de Commissie Hordijk ontvangen. Het advies is gedeeld met IenW, RIVM, 
+LNV om gezamenlijk een eerste reactie van de Minister van LNV voor te 
+bereiden. As. maandag vindt een persconferentie plaats en zal de Minister van 
+LNV het advies aan de Tweede Kamer aanbieden.  
+Met deze nota ontvangt u een eerste duiding vanuit DGMO. In de bijlagen vindt 
+u het eindrapport van de commissie (bijlage 1) en de ambtelijke concept-
+stukken van DG Stikstof, die vanmiddag (12 juni) bij LNV de lijn in zijn
+gegaan: de aanbiedingsbrief aan de Tweede Kamer (bijlage 2), de ambtelijke
+appreciatie van DGS (bijlage 3) en de spreeklijn voor de Minister van LNV ten
+behoeve van de persconferentie (bijlage 4).
+Advies 
+ U wordt gevraagd kennis te nemen van de bevindingen (op hoofdlijnen)
+uit het advies van de Commissie Hordijk;
+ U wordt gevraagd kennis te nemen van de eerste ambtelijke duiding door
+DGMo en de grote gevolgen die het rapport kan hebben;
+ U wordt gevraagd, in het geval u de woordvoeringslijn voor de Minister
+van LNV zoals opgenomen in de bijlage bij deze nota, niet kunt
+ondersteunen, daarvoor nog dit weekend telefonisch contact te zoeken
+met de Minister van LNV.
+Belangrijkste bevindingen Commissie Hordijk 
+De hoofdbevinding van de commissie, tevens voor IenW de meest relevante 
+bevinding, is dat AERIUS Calculator niet geschikt zou zijn voor de 
+vergunningverlening. Daarvoor geeft de commissie twee redenen: 
+1. de onbalans tussen het detailniveau waarop de depositiebijdragen van
+projecten nu worden berekend en de wetenschappelijke onzekerheid in de
+berekende bijdragen;
+DEPARTEMENTAAL VERTROUWELIJK Pagina 1 van 4 
+
+ 
+ 
+beroepsprocedures zoals de ViA15. Het rapport zal benut worden door 
+appellanten om hun beroepen nader te onderbouwen.  
+ 
+ Verder kan, indien het advies overgenomen wordt, de vraag gesteld worden 
+wat dit betekent voor de toestemmingverlening: kunnen er nog wel 
+vergunningen verleend worden o.b.v. berekeningen met AERIUS 
+Calculator?  
+ 
+o Initiatiefnemers kunnen onzeker worden over de rechtsbasis van reeds 
+verleende vergunningen, en ook over de haalbaarheid van lopende of 
+voorgenomen vergunningaanvragen.  
+o Bevoegde gezagen kunnen terughoudend worden met het verlenen van 
+vergunningen, omdat ze vrezen voor de houdbaarheid ervan voor de 
+rechter. Dit kan onder meer de vergunningverlening voor woningbouw 
+middels het Stikstofregistratiesysteem raken. 
+o Lopende beroepsprocedures bij de Raad van State en rechtbanken 
+kunnen negatief beïnvloed worden door het rapport als appellanten het 
+rapport aanhalen op hun beroep te onderbouwen dat AERIUS Calculator 
+niet geschikt is voor het betreffende toestemmingsbesluit en negatieve 
+effecten van het betreffende project dus niet kunnen worden uitgesloten. 
+ 
+ IenW acht de volgende boodschap als reactie op het rapport raadzaam: 
+ 
+o Ronduit pal achter het instrument Calculator blijven staan en 
+daarin vertrouwen blijven uitstralen. Enerzijds omdat we ervan 
+overtuigd zijn dat dit instrument het best beschikbare instrument is waar 
+de afgelopen circa tien jaar door kennisinstellingen aan is gewerkt en het 
+instrument ten opzichte van andere landen van kwalitatief hoog niveau 
+is. Anderzijds omdat nu twijfel laten over het instrument de facto ertoe 
+zal leiden dat vergunningverlening stil komt te liggen totdat alle 
+verbeteringen zijn opgevolgd. Dat kan jaren duren met grote 
+consequenties voor ruimtelijke en economische ontwikkelingen in ons 
+land, waarbij wederom de bouwsector weer bijzonder hard getroffen zal 
+worden.  
+ 
+o Tegelijkertijd aangeven dat het rapport het advies van Hordijk 
+goede aanknopingspunten biedt om de systematiek van meten en 
+berekenen en bijbehorend instrumentarium verder door te 
+ontwikkelen. Samen met de overige bevoegde gezagen dient de 
+Minister van LNV te verkennen wat ervoor nodig is om beleidsmatige 
+wensen beter aan te sluiten op hetgeen wetenschappelijk mogelijk is, 
+ecologisch nog relevant is en juridisch benodigd is. En wat de 
+mogelijkheden zijn om de wijze van berekenen tussen de verschillende 
+bronnen meer gelijk te krijgen. Dat zal tijd vergen, maar die tijd moeten 
+we nemen. In de tussentijd moet de ‘winkel’ wel open blijven. En dat kan 
+ook: AERIUS Calculator is geschikt als input voor vergunningverlening.  
+ 
+NB. Voor het berekenen van deposities als gevolg van wegverkeer tot 
+een afstand van 5 km bij individuele projectberekeningen is inhoudelijke 
+onderbouwing beschikbaar met LNV, provincies en RIVM is afgestemd. 
+Deze onderbouwing heeft het kabinet onder meer met de kamer gedeeld 
+en deze wordt gebruikt in reacties op zienswijzen en in 
+beroepsprocedures. De Raad van State heeft nog niet geoordeeld dat 
+deze onderbouwing niet volstaat. 
+DEPARTEMENTAAL VERTROUWELIJK 
+Pagina 3 van 4 
+
+22
+Adviescollege Meten en Berekenen Stikstof beoordeelt AERIUS als 
+niet doelgeschikt voor projectspecifieke berekeningen 
+Reactie bevindingen en aanbevelingen adviescollege 
+Het Adviescollege Meten en Berekenen Stikstof heeft de kwaliteit beoordeeld van het meetnet 
+en de rekenmodellen voor stikstofemissie en stikstofdepositie. Het eindrapport met de 
+bevindingen van het adviescollege is op 15 juni 2020 gepubliceerd. 
+Het adviescollege oordeelt in beginsel positief: de kwaliteit van het meetnet en de 
+rekenmodellen voor bepalen van de deposities op landelijke schaal is voldoende tot goed. Het 
+adviescollege stelt dat wel een aantal verbeteringen nodig is: 
+- uitbreiding van het meetnet en gebruik maken van satellietmetingen
+- verbeteringen in rekenmodellen, zoals het gebruik van en modelensemble (combineren
+uitkomsten van verschillende modellen)
+- meer emissiemetingen.
+Deze verbeteringen zijn deels al in gang gezet en kunnen deels worden opgepakt in het
+‘nationaal stikstofonderzoeksprogramma’ dat het adviescollege voorstelt.
+De bevindingen over de kwaliteit op landelijk schaal zijn duidelijk en de aanbevelingen geven 
+inhoudelijk richting aan een verbetering van het gehele meet- en rekensysteem voor stikstof. 
+Het adviescollege heeft apart gekeken naar de toepassing van het rekeninstrument AERIUS 
+Calculator bij projectspecifieke depositieberekeningen in het kader van 
+toestemmingsbesluiten. Er was reikhalzend uitgekeken naar de bevindingen van het 
+adviescollege over AERIUS, omdat er veel vragen zijn over het detailniveau waarop AERIUS 
+Calculator op dit moment de depositiebijdrage van een individueel project berekent: 
+• AERIUS berekent een projectbijdrage aan de deposities met het rekenmodel OPS tot een
+rekenkundige drempel van 0,005 mol/jaar op het detailniveau van een hectare. Dat
+betekent dat bij bijvoorbeeld een overnachtingshaven of een veehouderij sprake is van een
+berekende bijdrage op tientallen tot honderden kilometers van het project. De omvang van
+de stikstofopgave (elk project heeft een ‘landelijk effect’) en de beperkte mogelijkheden
+om dit binnen projecten op te lossen, zorgt ervoor dat stikstof een belemmering vormt
+voor doorgaan van veel projecten.
+• Voor projecten met wegverkeer speelt dit probleem minder. Voor wegverkeer hanteert
+AERIUS het rekenmodel SRM2 (in plaats van OPS), in lijn met het rekenmodel dat wettelijk
+is voorgeschreven voor luchtkwaliteitberekeningen. SRM2 hanteert een maximale
+rekenafstand van 5 kilometer tot de bron.
+Vanuit IenW en andere partijen is eerder dit jaar bij het Adviescollege aandacht gevraagd 
+voor het detailniveau waarop AERIUS Calculator rekent bij het bepalen van projectspecifieke 
+depositiebijdragen. Daarbij is de vraag gesteld of kleine berekende bijdragen op een 
+individuele hectare (bijvoorbeeld 0,01 mol) op grotere afstand (tientallen/honderden 
+kilometers) met voldoende wetenschappelijke zekerheid te herleiden zijn naar een individueel 
+project. Beeld is dat door het hanteren van een hogere drempel dan 0,005 mol en/of door het 
+hanteren van een maximale rekenafstand (in lijn met die voor wegverkeer) meer recht wordt 
+gedaan aan de onzekerheden in het rekenmodel. 
+Concept, 15 juni 2020 1
+
+Er kon systeemtechnisch tot 0,005 mol/ha/j gerekend worden en voor de ecologische 
+beoordeling leek een berekende depositiebijdrage afgerond op twee decimalen leek destijds 
+2
+een keuze die in ieder geval veilig genoeg was . Er is niet onderzocht of bijvoorbeeld 0,05 
+mol/ha/jaar of hoger ook voldoende veilig is. 
+ 
+Maximale rekenafstand wegverkeer 
+Het adviescollege stelt dat de maximale rekenafstand van 5 kilometer niet verdedigbaar is, 
+omdat het merendeel van de deposities voorbij deze afstand neerslaat. Het argument voor 
+het hanteren van deze maximale rekenafstand is tot dusverre altijd geweest dat berekende 
+projectspecifieke depositiebijdragen van wegverkeer voorbij deze afstand niet meer 
+herleidbaar zijn naar een individueel project. Het gaat daarbij nadrukkelijk om 
+depositiebijdragen van individuele projecten. Bij het berekenen van de bijdrage van 
+wegverkeer aan de totale deposities wordt wel gerekend op afstanden verder dan 5 kilometer 
+omdat daarbij zeer veel bronnen worden doorgerekend en de cumulatie van veel kleine 
+bijdragen relevant kan zijn. De herleidbaarheid naar een individuele bron is daarbij minder 
+relevant.     
+ 
+Bij de constatering van het adviescollege dat het grootste deel van de deposities van 
+wegverkeer voorbij 5 kilometer neerslaat, dient aangemerkt te worden dat het oppervlak 
+waarover de depositie neerslaat exponentieel toeneemt met de afstand tot de bron. Het deel 
+van dat buiten 5 kilometer per hectare neerslaat is daarmee een fractie van wat binnen 5 
+3
+kilometer per hectare neerslaat . Met de afstand tot de bron lijkt de schijnnauwkeurigheid van 
+de berekeningen toe te nemen. De aanbeveling om de maximale rekenafstand van 5 
+kilometer voor wegverkeer los te laten lijkt te leiden tot meer detaillering (stikstofdeken) en 
+meer schijnzekerheid.  
+  
+In het eindadvies van het Adviescollege Stikstofproblematiek (Remkes) wordt voorgesteld om 
+activiteiten aan te spreken op significante effecten dichtbij Natura 2000- gebieden, maar niet 
+op marginale effecten op honderden kilometers afstand, omdat dat laatste onderdeel uitmaakt 
+van generiek beleid. De aanbevelingen van het adviescollege om de rekenafstand van 5 
+kilometer voor wegverkeer te laten vervallen en om geen maximale rekenafstand voor andere 
+bronnen te hanteren lijkt niet aan te sluiten op het voorstel van Remkes.  
+ 
+Het hanteren van een maximale rekenafstand voor wegverkeer en niet voor andere bronnen 
+ziet het adviescollege als een ongelijke behandeling van sectoren. Om gelijkwaardiger te 
+rekenen stelt het adviescollege voor om de maximale rekenafstand voor wegverkeer te laten 
+vervallen. Opvallend is dat het adviescollege de mogelijkheid om ook voor andere bronnen 
+een maximale rekenafstand te hanteren, niet als optie aangeeft om gelijkwaardiger te 
+rekenen, terwijl dit de schijnnauwkeurigheid in de rekenresultaten kan verminderen. 
+ 
+Opvallend is dat in het eindrapport niet wordt ingegaan op de relatie met de wijze waarop 
+momenteel voor wegverkeer wordt gerekend voor lokale luchtkwaliteit. SRM2 wordt al meer 
+dan 10 jaar toegepast in de Monitoring van het Nationaal Samenwerkingsprogramma 
+Luchtkwaliteit en wordt ook toegepast bij de toetsing of projecten voldoen aan de Europese 
+normen voor bijvoorbeeld fijnstof en stikstofdioxide. Bij gebruik van SRM2 voor 
+                                                           
+2
+  De Minister van LNV heeft hierover aangegeven: “Ten behoeve van de ecologische beoordeling rondt 
+AERIUS Calculator de berekende depositiebijdrage van een individueel plan af op twee decimalen. Dit 
+is voldoende precies om de ecologische effecten van stikstof te kunnen beoordelen, omdat kleinere 
+bijdrages niet kunnen leiden tot een piek in de belasting van stikstof.” Bron: 
+https://www.eerstekamer.nl/behandeling/20191213/memorie_van_antwoord_5/document3/f=/vl4he
+wc825yg_opgemaakt.pdf 
+3
+  Ongeveer 90% van de Nederlandse emissies NO slaat buiten Nederland neer. 
+X
+Concept, 15 juni 2020 3 
+ 
+
+RIVM, beheerder van de rekenmodellen in AERIUS, steunt deze lijn. Uitgangspunt is daarom 
+om voor lopende en geplande depositieonderzoeken voor projecten met wegverkeer vast te 
+houden aan de huidige aanpak, dus rekenen met SRM2 in Calculator.  
+ 
+Parallel daaraan moeten de aanbevelingen van het adviescollege worden bestudeerd en moet 
+worden bepaald wat op welke wijze wordt overgenomen, en ook wat nader moet worden 
+uitgezocht. 
+ 
+Een deel van de technisch-inhoudelijke uitgangspunten en beleidskeuzes van de huidige 
+werkwijze in AERIUS Calculator is nog gebaseerd op de PAS-systematiek en vragen 
+heroverweging. Met name ten aanzien van de maximale rekenafstand en de rekenkundige 
+drempel (afrondingsregel) is nader onderzoek gewenst:  
+ 
+• De vraag over de maximale afstand tot de bron waarvoor geldt dat de berekende 
+depositiebijdragen herleidbaar zijn naar een individueel project is door het adviescollege 
+niet beantwoord in het eindrapport. Dit vraagt om nader onderzoek.  
+ 
+Als argument om de rekenafstand van 5 km voor wegverkeer te laten vervallen noemt het 
+adviescollege de gelijkwaardigheid met andere sectoren die nu geen maximale 
+rekenafstand kennen. Er kan ook meer gelijkwaardigheid gecreëerd worden tussen 
+verschillende typen bronnen, door voor andere bronnen, net als bij wegverkeer, te 
+onderzoek tot welke afstand een depositiebijdrage nog toe te rekenen is aan een 
+individueel project en voor deze bronnen vervolgens ook een maximale rekenafstand te 
+hanteren. Ter illustratie: In AERIUS Calculator 1.5 (2012) werden bij de berekening van de 
+depositiebijdragen van individuele bronnen de volgende maximale rekenafstanden 
+gehanteerd: 
+- Stallen 10 km 
+- Industriële bronnen: 50 km 
+- Wegen: 5 km 
+- Glastuinbouw: 25 km. 
+ 
+• De motivatie om de rekenkundige drempel niet aan te passen is vooral beleidsmatig en 
+juridisch gemotiveerd, waarbij vraagtekens gezet kunnen worden bij de juistheid van de 
+5
+gehanteerde juridische randvoorwaarden . Daarnaast geldt voor de huidige rekenkundige 
+drempel van 0,005 mol dat deze is gekozen om systeemtechnische redenen en in beginsel 
+niet inhoudelijke of wetenschappelijk is onderbouwd. Het is daarom gewenst dat alsnog de 
+mogelijkheden worden onderzocht om, op basis van logische redeneringen, te komen tot 
+consensus over een hogere rekenkundige drempelwaarde dan 0,005 mol/ha/jaar bij 
+projectspecifieke berekeningen. Deze hogere rekenkundige drempelwaarde kan dan 
+worden toegepast in AERIUS. 
+Overigens is niet alleen het aantal decimalen, maar ook de gehanteerde eenheid van 
+invloed is op het detailniveau. Door de eenheid mol/ha/jaar te kiezen wordt bijvoorbeeld 
+bij afronding op 2 decimalen op een groter detailniveau gerekend dan wanneer wordt 
+uitgegaan van kg stikstof/ha/jaar en een afronding op twee decimalen (0,005 kg 
+stikstof/ha/jaar komt overeen met ongeveer 0,35 mol/ha/jaar). 
+ 
+                                                           
+5
+ Zo stelt het adviescollege: “Het voorzorgprincipe vraagt vooralsnog om een strikte grenswaarde bij 
+vergunningverlening”. Deze randvoorwaarde volgt niet uit wet- en regelging, noch uit jurisprudentie. 
+Concept, 15 juni 2020 5 
+ 
+
+opstellen? Op welke wijze kunnen de matrices precies bijdragen aan het verbeteren van 
+de balans tussen het detailniveau van de berekeningen en de onzekerheden?   
+• Hoe vindt precies de aggregatie plaats naar cluster van hexagonen? Worden per gebied 
+alle hexagonen meegenomen? Ook waar geen bijdrage van 0,005 of hoger is berekend? 
+Of worden alleen hexagonen meegenomen waar een waarde is berekend van 0,005 mol of 
+hoger. Beeld is dat alle hexagonen worden meegenomen (ook waar geen bijdragen van 
+0,005 mol of meer is berekend). Dit betekent dat voor een bepaald habitattype de 
+aggregatie ook kan leiden tot een gemiddelde bijdrage van 0,00 mol? 
+De dunne deken die met OPS wordt berekend lijkt de voordelen van aggregatie voor 
+projecten sterk te beperken. Als bijvoorbeeld in merendeel van de gebieden een bijdrage 
+wordt berekend van 0,01 mol per hectare (indicatieve berekeningen voor wegverkeer met 
+OPS laten dit zien), dan zal de aggregatie van de effecten geen ander beeld opleveren. 
+• Het adviescollege geeft aan dat de berekeningen een schijnnauwkeurigheid opleveren 
+omdat er onvoldoende informatie is om op de gevraagde ruimtelijke schaal de 
+berekening met voldoende nauwkeurigheid uit te voeren. Wat bedoelt het adviescollege 
+met de ‘gevraagde ruimtelijke schaal’? Het detailniveau van een hectare/hexagoon? De 
+keuze van een hectare is, voor zover mij bekend, gemaakt omdat inschatting van RIVM 
+ooit was dat dit het uiterste detailniveau was waarop nog een zinnige uitspraak kan 
+worden gedaan over de depositiebijdrage. Ziet het adviescollege geen juridische ruimte 
+om vanuit wetenschappelijk oogpunt naar de gehanteerde ruimtelijke schaal te kijken? 
+• Er wordt in het rapport niet ingegaan op de wijze waarop (bij projectspecifieke 
+berekeningen) de emissies en de ruimtelijke verdeling van de emissies worden 
+bepaald. Een voorbeeld is de verkeersaantrekkende werking van woningbouwplannen. Het 
+extra verkeer wordt veelal meegenomen tot de eerste doorgaande weg. Daarmee wordt 
+een fractie van de totale emissies door een rit van en naar de woning meegenomen in de 
+berekeningen. Voor die fractie wordt vervolgens wel de depositiebijdrage tot op 
+tientallen/honderden kilometers berekend tot 0,005 mol. Dit illustreert de schijnzekerheid 
+van het huidige detailniveau in AERIUS Calculator.      
+ 
+Op verschillende technisch-inhoudelijke uitgangspunten van AERIUS, waarover ook vanuit de 
+praktijk vragen zijn gesteld, is het adviescollege in het eindrapport niet of beperkt ingegaan. 
+Dit roept de vraag op of het adviescollege voldoende tijd en informatie voor het onderzoek 
+naar de doelgeschiktheid van AERIUS. Met welke partijen heeft het adviescollege gesproken? 
+Vanuit IenW is het adviescollege eerder aangeboden om met hen in gesprek te gaan om het 
+gebruik van AERIUS in de uitvoeringspraktijk toe te lichten. Daar heeft het adviescollege geen 
+gebruik van gemaakt.  
+ 
+ 
+Concept, 15 juni 2020 7 
+ 
+
+10.2.g, 11.1
+Met vriendelijke groet,
+10.2.e
+Van: Doosje, mr. G.A.J. (Arjen) @minlnv.nl>
+10.2.e
+Verzonden: zondag 14 juni 2020 22:29
+Aan: @minlnv.nl>;  <10.2.e@minlnv.nl>; 
+10.2.e 10.2.e 10.2.e
+@nvwa.nl>; 10.2.e <10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @minezk.nl>
+CC: Dongen, H.A.M. van (Hellen) 10.2.e @minlnv.nl>; Pieterman, V.G. (Vera)
+10.2.e @minlnv.nl>; 10.2.e @minlnv.nl>; 10.2.e )
+10.2.e @minlnv.nl>; 10.2.e ) 10.2.e @minlnv.nl>; 10.2.e )
+10.2.e @minlnv.nl>; Stikstof LNV <Stikstof@minlnv.nl>
+Onderwerp: RE: Concept woordvoeringslijn adviesrapport Hordijk
+Goedenavond allemaal, in de grote brij aan mails dit weekend zitten we nu ongeveer met de laatste punten op de
+i. Even resumeren en een paar verzoeken:
+- De Landsadvocaat maakt vanavond of morgenochtend het advies definitief (lijn: 
+10.2.g, 11.1
+10.2.e
+). Zodra het er is, verzoek aan 
+het dan in deze kring te verspreiden (actie 
+10.2.e
+10.2.e
+10.2.
+- Woordvoeringslijn: op de versie van  reageerde  met een belangrijk punt. Het verzoek is om nog
+10.2.e 10.2.e
+e 10.2.e
+goed naar die passage te kijken, ook in de brief (actie / met  en 10.2.e
+- Ook over de woordvoeringslijn: graag onderstreepte deel nog toevoegen want RIVM gaf aan dat dit niet
+op korte termijn te realiseren is (althans, het grootste deel niet) “Het Adviescollege doet ook voor
+verbetering van deze calculator een aantal aanbevelingen, die volgens het adviescollege op de korte termijn
+10.2.e
+10.2.e
+zijn te realiseren” (actie / )
+- Als we de definitieve stukken hebben morgenochtend, dan zo snel mogelijk naar minister. Goed om nog
+even wat ruimte te hebben om eventuele aanpassingen te kunnen doen aan de brief. ( hoe doen
+10.2.e
+we dat allemaal?).
+Van wat er nog van over is: fijne avond! 
+Arjen
+Van: 10.2.e @minlnv.nl>
+Verzonden: zondag 14 juni 2020 16:11
+10.2.e
+Aan: 10.2.e < @minlnv.nl>; 10.2.e @nvwa.nl>; 10.2.e
+< @minlnv.nl>; Doosje, mr. G.A.J. (Arjen) @minlnv.nl>; )
+10.2.e 10.2.e 10.2.e
+10.2.e @minlnv.nl>; 10.2.e @minlnv.nl>
+CC: Dongen, H.A.M. van (Hellen) @minlnv.nl>; Pieterman, V.G. (Vera)
+10.2.e
+@minlnv.nl>; @minezk.nl>; )
+10.2.e 10.2.e 10.2.e
+10.2.e 10.2.e
+10.2.e @minlnv.nl>; @minlnv.nl>; 
+@minlnv.nl>
+Onderwerp: RE: Concept woordvoeringslijn adviesrapport Hordijk
+10.2.e
+Dag ,
+Ik neem de vrijheid ook te reageren.
+11.1
+2
+
+........................................................................
+T: 06 10.2.e
+10.2.e
+E: @minlnv.nl
+www.rijksoverheid.nl/lnv
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is toegezonden, wordt u
+verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard ook, die
+verband houdt met risico's verbonden aan het elektronisch verzenden van berichten.
+This message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you by mistake, you are
+requested to inform the sender and delete the message. The State accepts no liability for damage of any kind resulting from the risks inherent in the
+electronic transmission of messages.
+4
+
+11.1
+ 
+Groet,
+ 
+10.2.e
+ 
+Van: < @minlnv.nl> 
+10.2.e 10.2.e
+Verzonden: zondag 14 juni 2020 16:24
+10.2.e
+Aan: < @minezk.nl>;  < @minlnv.nl>;  < @minlnv.nl>; 
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+<10.2.e @nvwa.nl>
+CC:  < @minezk.nl>;  < @minezk.nl>;  < @minlnv.nl>; 
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+<10.2.e @minlnv.nl>; Stikstof LNV <Stikstof@minlnv.nl>
+Onderwerp: RE: Aanvullend verzoek
+ 
+10.2.e
+Ha , inderdaad een helder en bruikbaar advies. Ik heb nog twee aanvullende vragen:
+10.2.g, 11.1
+ 
+10.2.e
+-      Een check op de reactielijn zou ik prettig vinden, zeker ook gelet op reactie van op de woordvoeringslijn (stuur ik door).
+ 
+Arjen
+ 
+10.2.e
+Van: < @minezk.nl> 
+10.2.e
+Verzonden: zondag 14 juni 2020 15:57
+Aan: < @minlnv.nl>;  < @minlnv.nl>;  < @minlnv.nl>; 
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+<10.2.e @nvwa.nl>
+CC:  < @minezk.nl>;  < @minezk.nl>;  < @minlnv.nl>; 
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+<10.2.e @minlnv.nl>
+Onderwerp: FW: Aanvullend verzoek
+ 
+Hoi allen,
+Dit lijkt mij een goed bruikbaar en helder advies. Missen jullie nog dingen? 11.1
+Groet,
+10.2.e
+ 
+Van:10.2.e | Pels Rijcken <10.2.e @pelsrijcken.nl> 
+Verzonden: zondag 14 juni 2020 15:35
+10.2.e
+Aan:10.2.e < @minezk.nl>
+CC:  < @minlnv.nl>;  < @minezk.nl>;  < @minlnv.nl>
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+Onderwerp: RE: Aanvullend verzoek
+ 
+Bijgaand een concept. Op- en aanmerkingen hoor ik graag.
+ 
+ 
+Groet,
+ 
+10.2.e
+ 
+ 
+| Pels Rijcken & Droogleever Fortuijn N.V. | Bezuidenhoutseweg 57 | Postbus 11756, 2502 AT Den Haag | | | | @pelsrijcken.nl |
+10.2.e 10.2.e 10.2.e 10.2.e
+www.pelsrijcken.nl
+ 
+ 
+10.2.e
+Van:  < @minezk.nl> 
+10.2.e
+Verzonden: zondag 14 juni 2020 12:26
+Aan:  | Pels Rijcken < @pelsrijcken.nl>
+10.2.e 10.2.e
+CC: 10.2.e <10.2.e @minlnv.nl>; 10.2.e <10.2.e @minezk.nl>; 10.2.e <10.2.e @minlnv.nl>
+Onderwerp: Aanvullend verzoek
+ 
+10.2.e
+Dag ,
+In het verlengde van jouw analyse graag ook een oordeel of de lijn die we nu aan de minister hebben meegegeven verdedigbaar is. Zie bijlage.
+Groet,
+10.2.e
+Verstuurd vanaf mijn iPhone
+Begin doorgestuurd bericht:
+Van: "10.2.e " <10.2.e @minlnv.nl>
+Datum: 14 juni 2020 om 12:00:48 CEST
+10.2.e
+Aan: "10.2.e " < @minezk.nl>, "10.2.e " <10.2.e @minlnv.nl>
+Onderwerp: Doorst: DOMUS-20163470-v4-Tweede_rapport_Adviescollege_Meten_Berekenen_Stikstof
+10.2.e
+En dit is de set zoals die vrijdagavond naar de minister is gegaan (met concept spreeklijn). Goed om  te vragen of dit (na zijn oordeel over betekenis van het advies) een verdedigbare
+lijn is.
+ 
+Dit is de laatste stand van zaken.
+ 
+10.2.e
+Begin doorgestuurd bericht:
+Van: " " < @minlnv.nl>
+10.2.e 10.2.e
+Datum: 12 juni 2020 om 21:51:10 CEST
+Aan: " " < @nvwa.nl>
+10.2.e 10.2.e
+Kopie: "10.2.e " <10.2.e @minlnv.nl>
+Onderwerp: RE: DOMUS-20163470-v4-Tweede_rapport_Adviescollege_Meten_Berekenen_Stikstof
+Hoi 10.2.e ,
+ 
+Zie bijgaand het eindresultaat na verwerking van nog enkele puntjes na ronde DG’s. En alvast een voorlopige spreeklijn achter de algemene spreeklijn op basis van inbreng van
+WJZ.
+ 
+
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+Dit bericht is uitsluitend bestemd voor de geadresseerde. Het bericht kan vertrouwelijke informatie bevatten waarvoor het beroepsgeheim van advocaat of notaris geldt. Als u dit bericht per abuis hebt ontvangen, wordt u
+verzocht het te vernietigen en de afzender te informeren. Alle werkzaamheden worden verricht op grond van een overeenkomst van opdracht als bedoeld in artikel 7:400 van het Burgerlijk Wetboek met de naamloze
+vennootschap Pels Rijcken & Droogleever Fortuijn N.V., gevestigd te Den Haag en ingeschreven in het Handelsregister onder nr. 27283716. Op de overeenkomst zijn de algemene voorwaarden van toepassing, die zijn
+gedeponeerd ter griffie rechtbank Den Haag onder nr. 19/2015. Daarin is een aansprakelijkheidsbeperking opgenomen. De algemene voorwaarden zijn te raadplegen op www.pelsrijcken.nl/algemene-voorwaarden en
+worden op verzoek langs elektronische weg of op andere wijze kosteloos aan u toegezonden.
+This message is solely intended for the addressee and may contain information that is confidential and legally privileged. If you are not the intended recipient please notify the sender immediately and delete this
+message. All our services are performed by virtue of an agreement for the supply of services as referred to in Section 7:400 of the Dutch Civil Code between Pels Rijcken & Droogleever Fortuijn N.V. and the client. Pels
+Rijcken & Droogleever Fortuijn N.V. is a public limited company that is based in The Hague and registered with the Chamber of Commerce Haaglanden under number 27283716. All services provided are subject to our
+general terms and conditions which include a limitation of liability clause and are deposited with the District Court of The Hague under number 19/2015. Our general terms and conditions can be found on our website
+www.pelsrijcken.nl/en/general-terms-and-conditions and upon request we will provide you with a copy, free of charge.
+
+SRM2 houdt rekening met de effecten van de hoogteligging op de verspreiding. OPS
+doet dat niet. Dat is één van de redenen waarom SRM2 meer geschikt is voor
+depositieberekeningen voor wegverkeer dan OPS.  
+ 
+En wat is de relatie tussen een geluidsscherm en stikstof? 
+Een geluidsscherm zorgt ervoor dat de emissies meer opstijgen. Een scherm leidt dan
+tot een lagere depositiebijdrage in de directe omgeving dan een weg zonder scherm.
+Een scherm haalt geen emissies weg, maar zorgt voor meer verdunning.
+ 
+Is er bij de windtunnelexperimenten enz ook specifiek gekeken naar stikstof? 
+De windtunnelexperimenten kijken naar de verspreiding/verdunning van de emissies in
+een specifieke situatie die op schaal is nagemaakt. Dat is in windtunnelonderzoeken
+onafhankelijk van de stof.
+ 
+ 
+ 
+ 
+ 
+Van: 10.2.e ) - BSK 10.2.e @minienw.nl> 
+Verzonden: maandag 15 juni 2020 14:34
+Aan: 10.2.e ) - DGB <10.2.e @minienw.nl>
+CC: 10.2.e ) - DGMo 10.2.e @minienw.nl>
+Onderwerp: RE: Vragen EenVandaag inz. 100-maatregel en depositie wegverkeer
+ 
+@ 10.2.e
+ 
+Kan jij onderstaande vragen zsm oppakken?
+ 
+ 
+Van: 10.2.e ) - DGMo 10.2.e @minienw.nl> 
+Verzonden: maandag 15 juni 2020 14:08
+Aan: 10.2.e ) - DCO 10.2.e @minienw.nl>; 10.2.e
+ - DGMo-WV 10.2.e @minienw.nl>; 10.2.e ) - BSK
+10.2.e @minienw.nl>
+CC: 10.2.e ) - BSK 10.2.e @minienw.nl>; 10.2.e ) -
+DCO 10.2.e @minienw.nl>
+Onderwerp: RE: Vragen EenVandaag inz. 100-maatregel en depositie wegverkeer
+ 
+10.2.e
+Bijgaand nog even de QandA’s die eerder gevraagd zijn. Ik zal iam  nu kijken naar de
+vragen hieronder!
+ 
+Gr, 10.2.e
+ 
+Van: ) - DCO @minienw.nl> 
+10.2.e 10.2.e
+Verzonden: maandag 15 juni 2020 13:50
+Aan: ) - DGMo < @minienw.nl>; 
+10.2.e 10.2.e 10.2.e
+) - DGMo-WV @minienw.nl>; ) - BSK
+10.2.e 10.2.e
+@minienw.nl>
+10.2.e
+CC: ) - BSK @minienw.nl>
+10.2.e 10.2.e
+Onderwerp: RE: Vragen EenVandaag inz. 100-maatregel en depositie wegverkeer
+ 
+Dank 10.2.e nog paar vragen. Wanneer is srm-2 ontwikkeld? Wat was de aanleiding?
+wat bedoel je met hoogteligging wegen? En wat is de relatie tussen een geluidsscherm en
+stikstof? 
+Is er bij de windtunnelexperimenten enz ook specifiek gekeken naar stikstof? 
+Heb je voor mij rivm bevindingen over srm-2 specifiek stikstof? 
+
+Verzonden met BlackBerry Work
+(www.blackberry.com)
+ 
+Van: Jan Salden 10.2.e @eenvandaag.nl>
+Datum: maandag 15 jun. 2020 11:55 AM
+Aan: Wuite, M.P. (Marianne) - DCO <marianne.wuite@minienw.nl>, Noordenbos, I. (Ivar) - BSK
+<ivar.noordenbos@minienw.nl>
+Onderwerp: Re: Vragen EenVandaag inz. 100-maatregel en depositie wegverkeer
+ 
+Dag Marianne, Ivar, 
+ 
+Een vervolgvraag dringt zich op naar aanleiding van het rapport van de Commissie
+Hordijk:
+ 
+11. Indien voor wegverkeer de afstandsgrens van 5 km. komt te vervallen en OPS moet
+worden toegepast; welke consequenties heeft dat dan voor lopende wegprojecten in het
+algemeen en de 7 MIRT-projecten in het bijzonder? Onderkennen jullie dat de berekende
+depositie dan (fors) zal toenemen en er meer compenserende / mitigerende maatregelen
+nodig zullen zijn? 
+Met vriendelijke groet,
+Jan Salden
+Researchredacteur EenVandaag
+Postbus 2
+1200 JA Hilversum
+T:  +31 (0)35 10.2.e
+M: +31 (0)6 10.2.e
+ 
+@: 10.2.e @eenvandaag.nl
+t: @jan_salden
+ 
+ 
+ 
+Op vr 12 jun. 2020 om 10:43 schreef Jan Salden 10.2.e @eenvandaag.nl>:
+ 
+ 
+Ha Marianne, Ivar, 
+ 
+In het kader van een uitzending die wij voorbereiden over de depositie van wegverkeer
+en de 100-maatregel hieronder een aantal vragen. Kunnen jullie ze vóór woensdag as
+beantwoorden? 
+ 
+1. Is bij de verhoging van 120 naar 130 km/u doorgerekend tot hoeveel extra emissie en
+depositie deze maatregel zou leiden? Zo ja, om hoeveel extra emissie en depositie ging
+dit (gemiddeld)? Wat was de hoogst berekende depositie als gevolg van de verhoging in
+een N2000-gebied? En om welk gebied ging dit?
+ 
+2. Is de snelheidsverhoging onderzocht op significante effecten voor de natuur? Waaruit
+blijkt dat die effecten er niet zijn/waren? 
+ 
+3. Hoe is te verklaren dat de verlaging van 130 naar 100 ruimte oplevert voor 60/70.000
+woningen en nog 7 MIRT-projecten, als de verhoging van 120 naar 130 geen
+significante effecten zou hebben?
+ 
+
+36
+Van: (BS)
+10.2.e
+Aan: (MN);  (WVL);  (MN)
+10.2.e 10.2.e 10.2.e
+Cc: (BS); (WVL)
+10.2.e
+10.2.e
+Onderwerp: FW: stikstof en AERIUS
+Datum: dinsdag 16 juni 2020 12:54:58
+10.2.
+Hoi  et al,
+e
+De eerste (terechte) vragen over Hordijk druppelen al binnen. Mag ik jullie vragen om echt ZSM de eerder afgesproken
+informatie naar de relevante mensen en projecten te verspreiden (eventueel aangeven dat ze via steunpunt natuur vragen
+kunnen stellen) om de rust binnen RWS te bewaren. 11.1
+Dank!!
+Groet, 
+10.2.e
+........................................................................
+M 06-
+10.2.e
+10.2.e
+E @rws.nl
+........................................................................
+Ik werk op ma-di-woe-do
+Van: 10.2.e (BS) 
+Verzonden: dinsdag 16 juni 2020 12:51
+Aan: 10.2.e (WVL) ; 10.2.e (BS) 
+Onderwerp: FW: stikstof en AERIUS
+Van: 10.2.e ) - DGB <10.2.e @minienw.nl> 
+Verzonden: dinsdag 16 juni 2020 12:33
+Aan: 10.2.e (WNZ)10.2.e @rws.nl>;10.2.e (MN) 10.2.e @rws.nl>
+CC:  (WNZ) @rws.nl>;  (BS) @rws.nl>
+10.2.e 10.2.e 10.2.e 10.2.e
+Onderwerp: RE: stikstof en AERIUS
+Hi,
+We hoeven nog even niets met Hordijk. Vandaag gaat/is een brief uit naar de TK. Daarin onderstaande tekst:
+“Resumerend biedt dit eindadvies goede aanknopingspunten om de systematiek van meten en berekenen en bijbehorend
+instrumentarium verder door te ontwikkelen. 
+De komende periode wordt gebruikt om, in samenwerking met de andere bevoegde instanties en kennisinstellingen, te bezien
+hoe opvolging gegeven kan worden aan het eindadvies van het Adviescollege.
+Na de zomer stuur ik uw Kamer een nadere kabinetsreactie op de aanbevelingen in dit eindadvies.”
+10.2.e
+Van:  (WNZ) @rws.nl> 
+10.2.e 10.2.e
+Verzonden: dinsdag 16 juni 2020 12:22
+Aan: 10.2.e ) - DGB 10.2.e @minienw.nl>; 10.2.e (MN) 10.2.e @rws.nl>
+CC: 10.2.e (WNZ) 10.2.e @rws.nl>
+Onderwerp: FW: stikstof en AERIUS
+Hoi 10.2.e 10.2.e
+Onderstaande mail heb ik zojuist ontvangen. Daarnaast heb ik vanmorgen dit artikel (zie link en onderstaande) gelezen op
+Intranet.
+http://corporate.intranet.rws.nl/Actueel/Nieuws/Nieuws_Rijkswaterstaat/2020.06.16/Stikstof_Update_Commissie_Hordijk.htm
+Hoe gaan we e.e.a. aanvliegen vanuit de Landelijke Werkgroep GGA?
+Groet,
+10.2.e
+Intranet
+Wat betekent dit voor Rijkswaterstaat?
+AERIUS Calculator is het wettelijk voorgeschreven instrument, zeg maar de rekenmachine, dat gebruikt wordt bij de
+toestemmingverlening. AERIUS en landelijke vastgestelde regels zijn en blijven voor RWS uitgangspunt voor de
+berekeningen die wij doen voor projecten. Met AERIUS gebruiken we het best beschikbare rekeninstrument dat er is.
+Dat AERIUS Calculator onzekerheden bevat, is bekend. Er wordt voortdurend gewerkt aan de doorontwikkeling van AERIUS,
+een nieuwe release is voorzien voor eind augustus. Voor vergunningverlening (zowel afgegeven als lopende vergunningen)
+en Tracébesluiten heeft dit adviesrapport dan ook geen directe consequenties.
+
+43
+Van: ) - BSK
+10.2.e
+Aan: )
+10.2.e
+Cc: Doosje, mr. G.A.J. (Arjen); ) - DGB;  - DCO
+10.2.e 10.2.e 10.2.e
+Onderwerp: RE: woordvoeringslijn
+Datum: woensdag 22 juli 2020 20:39:00
+Hoi 10.2.e
+Hierbij aangevuld.
+Mvg,
+10.2.e
+Redeneerlijn 5km
+Beoordelen en verlenen van vergunningen voor projecten
+·
+Voor het verlenen van vergunningen wordt gekeken naar de verwachte stikstofdepositie
+(de neerslag van stikstof) van dat project. De stikstofdepositie door het project wordt
+beoordeeld op het detailniveau van een hectare. Hoe dichter bij een project hoe meer
+neerslag op een hectare, hoe verder van een project hoe minder. (En ook: hoe warmer
+hoe verder, hoe hoger hoe verder en hoe vlakker hoe verder).
+· Dat geldt ook voor wegverkeer. Met de afstand tot de weg neemt de bijdrage per
+hectare snel af. Op enkele kilometers is de bijdrage nog maar een fractie van de bijdrage
+vlak langs de weg.
+· De rekenmethode (standaardrekenmethode 2 =SRM2) waarmee de depositiebijdrage
+van verkeer wordt berekend bij vergunningaanvragen berekent de stikstof neerslag tot
+maximaal 5 kilometer van de weg.
+· Deze rekenmethode (met de grens 5 km) wordt niet alleen gebruikt bij wegenprojecten,
+maar voor alle projecten die leiden tot extra wegverkeer. Dus ook bij woningbouw,
+bedrijventerreinen en (landbouw)bedrijven.
+· Na enkele kilometers is de berekende depositiebijdrage van het wegverkeer niet meer
+betekenisvol te herleiden tot het project. Daarom is in SRM2 een maximale rekenafstand
+van 5 kilometer opgenomen.
+Het grootste deel van de emissies slaat weliswaar neer voorbij 5 kilometer, maar die
+emissies verspreiden en verdunnen zich over zulke grote afstanden dat sprake is van een
+hele dunne deken die voor het grootste deel over onze buurlanden ligt. Van de
+stikstofoxiden die in Nederland worden uitgestoten komt ongeveer 90% in het
+buitenland terecht (https://www.tno.nl/nl/over-tno/nieuws/2019/10/factsheet-
+stikstofemissie/.)
+· SRM2 is uitvoerig gevalideerd in windtunnel- en veldexperimenten. Het is speciaal voor
+wegverkeer ontwikkeld en houdt bijvoorbeeld rekening met de hoogte van de weg en de
+invloed van een geluidsscherm.
+· Voor de  berekeningen van emissies van andere bronnen dan wegverkeer wordt bij
+vergunningaanvragen gerekend met de rekenmethode OPS systeem dat geen maximale
+rekenafstand kent. Dit systeem is geschikt voor stilstaande bronnen met een verticale
+uitstoot zoals schoorstenen.
+· Ook RIVM bevestigt dat SRM2 meer geschikt is voor projectspecifieke berekeningen van
+wegverkeer dan OPS en zorgt voor nauwkeuriger resultaten en minder onzekerheden.
+· Beide systemen (SRM2 en OPS) zijn verwerkt in de AERIUS Calculator dat wettelijk is
+voorgeschreven voor het berekenen van deposities voor vergunningaanvragen.
+· Hordijk heeft in zijn tweede advies kritiek gegeven op dit systeem en adviseert om voor
+
+10.2.e
+..........................................
+Programma Directoraat Generaal Stikstof
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+Bezuidenhoutseweg 73 | 2594 AC | Den Haag |
+Postbus 20401 | 2500 EK | Den Haag
+..........................................
+M 06 10.2.e
+10.2.e @minlnv.nl
+10.2.e @nvwa.nl
+www.aanpakstikstof.nl
+ 
+Van: 10.2.e @minlnv.nl> 
+Verzonden: woensdag 22 juli 2020 11:29
+Aan: 10.2.e @minlnv.nl>; 10.2.e ) 10.2.e @nvwa.nl>
+CC: Doosje, mr. G.A.J. (Arjen) 10.2.e @minlnv.nl>;10.2.e )
+10.2.e @minlnv.nl>
+Onderwerp: RE: woordvoeringslijn
+ 
+Hoi 
+10.2.e
+ 
+Hier een voorzet op basis van input RIVM en IenW. 11.1
+ 
+Redeneerlijn 5 km
+ 
+Het RIVM is verantwoordelijk voor het in beeld brengen van de stikstofdepositie in heel
+Nederland. Dit gebeurt met metingen en met berekeningen.
+Het RIVM doet dit voor de onderbouwing van het beleid en voor de monitoring van de
+feitelijke stikstofdepositie
+Daarbij worden alle bronnen die stikstof uitstoten op een zelfde manier doorgerekend: tot
+op grote afstand, tot ze niet meer bijdragen aan de depositie.
+ 
+Vergunningen
+Het ‘bevoegd gezag’ (het Rijk en de provincies) beoordeelt vergunningaanvragen. 
+11.1
+Voor wegverkeer en landbouwemissies wordt voor de vergunningaanvraag gerekend met
+verschillende modellen.
+Voor wegverkeer wordt de depositie berekend tot maximaal 5 km van de weg.  Bij de
+beoordeling van andere bronnen dan wegverkeer geldt die afstandsgrens niet.
+            
+11.1
+ 
+Commissie Hordijk
+11.1
+
+Aan: 10.2.e @minlnv.nl>
+CC: Doosje, mr. G.A.J. (Arjen) 10.2.e @minlnv.nl>
+Onderwerp: woordvoeringslijn
+ 
+10.2.e
+Ha , dank voor gesprek.
+Zoals afgesproken zojuist ontvang ik graag van je de communicatielijn.
+hgr
+10.2.e
+..........................................
+Programma Directoraat Generaal Stikstof
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+Bezuidenhoutseweg 73 | 2594 AC | Den Haag |
+Postbus 20401 | 2500 EK | Den Haag
+..........................................
+M 06 10.2.e
+10.2.e @nvwa.nl
+www.aanpakstikstof.nl
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is
+toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen
+aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van
+berichten.
+This message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you
+by mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind
+resulting from the risks inherent in the electronic transmission of messages.
+
+depositie snelheid?
+ 
+Voor de reactie richting Salden is onze suggestie dat RIVM als eerste het gebruik van SRM2
+voor wegverkeer (dat overigens iets anders is dan ‘wegprojecten’) in AERIUS Calculator
+motiveert en onderbouwt (algemene reactie). Vervolgens kan dan in detail worden ingegaan op
+de bovengenoemde door Apollon geconstateerde verschillen.
+Hieronder een tekstsuggestie voor mail aan Salden, waarbij gebruik gemaakt is van eerder
+afgestemde teksten (in de werkgroep SSRS, nav kamervragen en Q&A’s voor debatten etc).
+Veel herhalingen dus met eerdere beantwoordingen, maar het lijkt ons verstandig om per punt
+wel steeds een onderbouwing of verklaring van gemaakte keuzes toe te voegen.
+Ter info: Vergelijkbare vragen zijn onlangs gesteld door de kamerleden Bruis/Kröger en ter
+afstemming met RIVM aan Gerben gestuurd (zie bijlage).
+ 
+Groet,
+10.2.e
+ 
+ 
+Suggestie voor de opbouw van de reactie:
+ 
+11.1
+ 
+Algemene reactie:
+         
+· 11.1
+         
+         
+         
+        
+ 
+Reactie op detailpunten:
+ 
+·         11.1
+
+ 
+Vriendelijke groet, 
+10.2.e
+-----------------------------------
+RIVM, MIL/SPA 
+T 03010.2.e , M 06-10.2.e , www.aerius.nl
+ 
+Van: Jan Salden 10.2.e @eenvandaag.nl>
+Datum: 15 juni 2020 om 19:35:30 CEST
+Aan: 10.2.e @rivm.nl>
+CC: 10.2.e 10.2.e @rivm.nl>
+Onderwerp: Hordijk
+ 
+10.2.e
+Beste , 
+ 
+Naar aanleiding van het rapport van de Commissie Hordijk heb ik de volgende vraag:
+ 
+- De commissie adviseert onder meer om de gelijkwaardigheid, transparantie en
+robuustheid van AERIUS te verbeteren door voor verkeer en (oa) landbouw hetzelfde
+model te gebruiken en een bronreceptormatrix te hanteren. Ook adviseren ze depositie niet
+op een hexagoon, maar op een cluster van hexagonen, ingedeeld naar habitattype, te
+berekenen. Is bij benadering aan te geven hoeveel tijd met een dergelijke aanpassing van
+Aerius gemoeid zou zijn?
+ 
+Verder stuur ik je een rapport toe dat door 10.2.e , lid van de klankbordgroep van
+de commissie Hordijk, is opgesteld (zie bijlage), aan de commissie beschikbaar is gesteld
+en ingaat op de verschillen tussen SRM2 en OPS. 
+Zouden jullie op dit rapport en de door Nijhuis aangedragen verklaringen voor de
+verschillende rekenuitkomsten kunnen reageren?
+ 
+Tot slot: 
+Eerder noemde ik in ons telefoongesprek 10.2.e . Hij heeft in 2017 bij TNO en in
+december 2019 bij je collega 10.2.e de forse verschillen in uitkomsten tussen
+SRM2 en OPS per e-mail aangekaart. Wat is daar destijds mee gebeurd? En waarom is
+door de Commissie Mer in het recente advies over stikstofdepositieberekeningen rond
+Lelystad Airport toch geadviseerd SRM2 te gebruiken voor het berekenen van deposities
+van wegverkeer?
+ 
+Ik besef dat ik weer de nodige tijd van je vraag, maar wil niet over één nacht ijs gaan en
+dus ook op correcte wijze wederhoor toepassen. Hoor graag. 
+ 
+ 
+Met vriendelijke groet,
+Jan Salden
+Researchredacteur EenVandaag
+Postbus 2
+1200 JA Hilversum
+T:  +31 (0)35 671 5855
+M: +31 (0)6 10.2.e
+@: 10.2.e @eenvandaag.nl 
+t: @jan_salden
+ 
+
+44aa
+2020Z10442 
+(ingezonden 9 juni 2020) 
+Vragen van de leden Bruins (ChristenUnie), Paternotte (D66) en Kröger (GroenLinks) aan de 
+ministers van Infrastructuur en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit 
+over het rapport Evaluatie stikstofberekeningen Lelystad Airport (advies 3456) van de 
+Commissie voor de m.e.r. d.d. 31 maart 2020 
+1. Wordt in AERIUS voor het berekenen van de depositie ten gevolge van wegverkeer de 
+standaardrekenmethode 2 (SRM2) uit de Regeling beoordeling luchtkwaliteit gebruikt, zoals 
+de werkgroep in de Evaluatie stikstofberekeningen Lelystad Airport adviseert?
+De depositiebijdrage van wegverkeer wordt in AERIUS Calculator inderdaad berekend met 
+een implementatie van Standaardrekenmethode 2 (SRM2). Dit is ook toegelicht in de 
+documentatie bij AERIUS Calculator: https://www.aerius.nl/nl/factsheets/berekening-
+depositiebijdrage-bronnen-sector-verkeer-en-vervoer/.  
+2. Klopt het dat in AERIUS voor emissiebronnen uit alle andere sectoren dan wegverkeer de
+depositie wordt berekend met OPS?
+De depositiebijdrage van andere bronnen door werkverkeer wordt in AERIUS Calculator 
+inderdaad berekend met het rekenmodel OPS. Dit is ook toegelicht in de documentatie bij 
+AERIUS Calculator:  https://www.aerius.nl/nl/factsheets/berekening-verspreiding-en-
+deposities-met-ops/.  
+3. Klopt het dat in AERIUS met SRM2 de depositie tot een rekengrens van 5 km links en
+rechts van de weg wordt berekend? Zo ja, wat is de (technisch) inhoudelijke reden dat 
+depositie verder dan 5 km links en rechts van de weg wordt afgekapt?
+De implementatie van SRM2 in AERIUS Calculator hanteert inderdaad een maximale 
+rekenafstand van 5 kilometer tot de weg. De overweging hierbij is dat berekende 
+bijdragen van wegverkeer op enkele kilometers van de weg niet meer betekenisvol zijn te 
+herleiden tot een individueel project. 
+Ook in de technische beschrijving van SRM2 van het RIVM is aangegeven dat voor 
+wegverkeer op basis van SRM2 niet tot willekeurig grote afstanden mag worden gerekend. 
+Door uit te gaan van een maximale rekenafstand van 5 km bij de doorrekening van 
+individuele projecten, wordt hieraan invulling gegeven in AERIUS Calculator. 
+De maximale rekenafstand geldt bij projectspecifieke berekeningen. Voor het vaststellen 
+van de bijdrage van wegverkeer aan de totale landelijke deposities wordt wel 
+landsdekkend gerekend. Dat is mogelijk, omdat de bijdragen dan niet herleidbaar hoeven 
+te zijn tot een specifiek project. 
+4. Als de met SRM2 berekende bijdragen op meer dan enkele kilometers van de weg niet 
+meer betekenisvol zijn te herleiden tot een individueel project, geldt dat dan niet net zozeer
+voor andere sectoren en andere depositiemodellen, zoals OPS? Zo nee, waarom niet?
+Er zijn goede redenen om voor wegverkeer met SRM2 te rekenen en een maximale 
+rekenafstand van 5 kilometer te hanteren (zie hiertoe ook het antwoord op vraag 3). In 
+hoeverre ook voor andere bronnen een maximale rekenafstand (vergelijkbaar met 
+wegverkeer) kan worden gehanteerd, vraagt om nader onderzoek. 
+
+emissies verspreidt zich tot ver van de bron, maar de toename van het oppervlak 
+waarover de emissies zich verspreiden zorgt ervoor dat de depositiebijdrage per hectare 
+buiten 5 kilometer een fractie is van wat binnen 5 kilometer per hectare neerslaat. Het 
+grootste deel van de deposities door Nederlandse bronnen komt uiteindelijk ook in het 
+2
+buitenland terecht . 
+ 
+7. In welke mate komt de totale depositie berekend voor wegverkeer met SRM2 overeen met 
+de depositie berekend met OPS (voor eenzelfde emissie met dezelfde emissie-kenmerken als 
+uitstoothoogte, warmteinhoud, spreiding en temporele variatie)? Welk percentage van de 
+depositie mist ruwweg door het afkappen bij 5 km in SRM2? 
+ 
+De wijze waarop de verspreiding van emissies in SRM2 is gemodelleerd verschilt van de 
+wijze waarop dat in OPS gebeurt. Dat betekent dat de berekende depositiebijdrage van 
+een bron met OPS verschilt van de berekende depositiebijdrage van dezelfde bron met 
+SRM2. 
+De modellering in SRM2 is gericht op de lokale verspreiding van emissies van wegverkeer 
+op buitenstedelijke wegen. OPS is niet toegespitst op een specifieke broncategorie en 
+vooral bedoeld voor grootschalige berekeningen. SRM2 is specifiek voor wegverkeer 
+ontwikkeld en houdt rekening met de invloed van specifieke wegkenmerken op de 
+verspreiding, zoals de hoogte- en diepteligging van de weg en de aanwezigheid van 
+geluidsschermen. OPS houdt daar geen rekening mee.  Dat maakt SRM2 meer geschikt 
+voor projectspecifieke berekeningen van wegverkeer dan OPS. 
+ 
+Het Adviescollege Meten en Berekenen Stikstof stelt in haar eindrapport dat het grootste 
+gedeelte van de NH3- en NOX-deposities neerslaat op een grotere afstand dan 5 kilometer 
+3 
+van de bron. Uit figuur 1 in het eindrapport volgt dat grofweg 80-90% van de NH
+emissies en 90-95% van de NOX-emissies voorbij 5 kilometer neerslaat. Hierbij dient 
+opgemerkt te worden dat het oppervlak waarover de depositie neerslaat logaritmisch 
+toeneemt met de afstand tot de bron waardoor de depositie per hectare verder van de 
+bron sterk afneemt. Zie antwoord op vraag 6.  
+ 
+8. Hoe verhoudt de depositie berekend met SRM2 zich tot die berekend met OPS dicht bij de 
+weg, zeg op afstanden van 100 m, 500 m, en 1, 2, 3, 4 en 5 km? 
+ 
+Er zijn geen vergelijkingen tussen SRM2 en OPS beschikbaar die dit inzicht geven. Zoals 
+aangegeven in het antwoord op vraag 7 leiden de verschillen in de wijze van modellering 
+tussen SRM2 en OPS tot verschillen in de berekende deposities. De verschillen zijn ook 
+afhankelijk van de precieze locatie van de bron, wegkenmerken en de locatie van de 
+rekenpunten.   
+ 
+9. Klopt het dat SRM2 door het afkappen bij 5 km geen enkele depositie berekent voorbij de 
+afstandsgrens ongeacht de hoeveelheid emissies, terwijl OPS rekent zonder afstandsgrens, 
+en dus per definitie meer depositie berekent voorbij de afstandsgrens? 
+ 
+De maximale rekenafstand van 5 kilometer tot de weg in SRM2 betekent inderdaad dat 
+AERIUS Calculator geen depositiebijdragen van wegverkeer berekent voorbij 5 kilometer. 
+Deze maximale rekenafstand is onafhankelijk van de omvang van de emissies van de 
+bron.  
+OPS hanteert geen maximale rekenafstand en kan in AERIUS Calculator voor individuele 
+projecten depositiebijdragen berekenen op grotere afstanden dan 5 kilometer.  
+                                              
+2
+ Stikstofproblematiek - emi ssies en depositie van stikstof in Nederland - TNO 
+)  
+(https://www.tweedekamer.nl/kamerstukken/detail?id=2019Z18875&did=2019D39248
+
+depositiesnelheid zijn door RIVM afgeleid met OPS. Dit is beschreven in de technische 
+3
+beschrijving van de SRM2 implementatie in AERIUS .  
+• In het rapport maakt TNO de opmerking dat de correctie voor source depletion niet is 
+opgenomen in de beschrijving van SRM2 in de Regeling beoordeling luchtkwaliteit 
+2007. 
+• In AERIUS Calculator zijn de concentratiebijdragen berekend conform de beschrijving 
+van SRM2 in de Regeling beoordeling luchtkwaliteit. De correctie voor source depletion 
+en de vermenigvuldiging met de depositiesnelheid zijn nabewerkingen op de berekende 
+concentraties met SRM2 die bedoeld zijn om te komen tot een betrouwbare berekening 
+van de deposities. 
+ 
+14. Is SRM2 volgens u geschikt om een betrouwbare depositie te berekenen? 
+ 
+ 
+11.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                              
+3
+  https://www.aerius.nl/files/media/factsheets/srm2_implementatie_in_aerius_calculator_-_beschrijving_-
+ 
+_15_december_2015.pdf
+
+47
+Van: (WVL)
+10.2.e
+Aan: | Pels Rijcken"
+10.2.e
+Onderwerp: RE: advies Hordijk irt Via15 (max rekenafstand)
+Datum: dinsdag 23 juni 2020 21:07:35
+Bijlagen: Antwoord aan Jan Salden Eenvandaag op vragen rapport Apollon juni 2020 Definitief.docx
+Hoi 10.2.e
+Bij deze nog de reactie van RIVM nav het conceptrapport van Apollon over het niet geschikt zijn
+van SRM2.
+Van:  | Pels Rijcken 
+10.2.e
+Verzonden: maandag 22 juni 2020 14:32
+Aan:  (WVL) 
+10.2.e
+CC: ) - HBJZ ; ) - DGB ; ) - BSK ; 
+10.2.e 10.2.e 10.2.e 10.2.e
+(WVL) ;  (MN) 
+10.2.e
+Onderwerp: Re: advies Hordijk irt Via15 (max rekenafstand)
+Ik zou wel dat stuk van apollon willen ter voorbereiding :)
+Verstuurd vanaf mijn iPhone
+Op 22 jun. 2020 om 14:13 heeft  (WVL) @rws.nl> het
+10.2.e 10.2.e
+volgende geschreven:
+﻿
+Apollon heeft blijkbaar vorige week ook een kritisch rapport over SRM2 opgesteld
+welke door eenVandaag naar RIVM is gestuurd voor commentaar. Die is vandaag
+naar ons doorgestuurd, de inhoud en impact wordt bestudeerd.
+Gelet hierop lijkt het me sowieso niet handig dat de notitie woensdag wordt
+rondgedeeld.
+Van:  | Pels Rijcken @pelsrijcken.nl> 
+10.2.e 10.2.e
+Verzonden: maandag 22 juni 2020 13:52
+Aan:  (WVL) @rws.nl>
+10.2.e 10.2.e
+CC: ) - HBJZ @minienw.nl>; ) - DGB
+10.2.e 10.2.e 10.2.e
+< @minienw.nl>; ) - BSK @minienw.nl>;
+10.2.e 10.2.e 10.2.e
+ (WVL) @rws.nl>;  (MN)
+10.2.e 10.2.e 10.2.e
+@rws.nl>
+10.2.e
+Onderwerp: Re: advies Hordijk irt Via15 (max rekenafstand)
+Ha,
+Dank. Waardevolle input. Ik stuur morgenochtend de meest actuele lijn voor
+woensdag rond.
+Ik wil dit eigenlijk niet ronddelen. Of is dat een dringende wens van hogerhand?
+10.2.e
+Verstuurd vanaf mijn iPhone
+Op 22 jun. 2020 om 12:29 heeft  (WVL)
+10.2.e
+10.2.e @rws.nl> het volgende geschreven:
+
+51
+Van: ) - BSK
+10.2.e
+Aan: ) - DGB; ) - DGMo
+10.2.e 10.2.e
+Onderwerp: FW: Verzoek zsm check op nota inz SRM2 en OPS
+Datum: vrijdag 26 juni 2020 10:39:47
+Bijlagen: DOMUS-20179322-v1-
+10.2.e
+Informatieve_nota_verschil_behandeling_verkeer_bij_stikstof_berekening_nav_1_vandaag versie 16.27_
+.docx
+10.2.g
+Van: 10.2.e @rivm.nl> 
+Verzonden: vrijdag 26 juni 2020 10:16
+Aan: 10.2.e ) - BSK 10.2.e @minienw.nl>; 10.2.e @minlnv.nl
+10.2.e
+CC: 10.2.e @minlnv.nl; 10.2.e ) - DGMo 10.2.e @minienw.nl>; 
+ 10.2.e @rivm.nl>
+Onderwerp: RE: Verzoek zsm check op nota inz SRM2 en OPS
+10.2.e
+Dag ,
+10.2.e
+Vanuit het RIVM herkennen wij het commentaar van  goed.
+We willen wel benadrukken dat er naast de beleidskeuzes het RIVM een eigenstandige
+10.2.e
+wetenschappelijke verantwoordelijkheid heeft. Daarom heeft  ook een punt dat het
+te makkelijk is van het RIVM om het weg te zetten als alleen een beleidskeuze. Vanuit
+onze wetenschappelijk oordeel vinden wij SRM2 gebruik  nauwkeuriger. Wij vonden een
+afkapgrens van een aantal kilometer ook wetenschappelijk te verantwoorden, maar het
+is wel in een beleidsdiscussie ontstaan. Wij zijn wel van mening dat het goed is om hier
+opnieuw naar te kijken.
+We vinden dan ook dat de nota niet een te defensieve insteek moet hebben.
+We hebben eerder gezegd dat we blijven door ontwikkelen aan het instrumentarium van
+AERIUS. Het is altijd goed om te blijven nadenken en het rapport Hordijk is daar een
+goede aanleiding voor. Daar kunnen we ook kijken of met andere keuzes de balans
+tussen de zekerheid van beleidskeuzes en de wetenschappelijke onzekerheden in
+modellen verbeterd kan worden. Mochten er onevenwichtigheden zitten in de uitkomsten
+voor verschillende sectoren dan wordt dat uiteraard ook bekeken.
+Bijgevoegd nog een aantal tekstuele opmerkingen van mijn collega 10.2.e .
+10.2.e
+10.2.e
+RIVM, MIL/SPA, Bilthoven
++31-610.2.e
+10.2.e @rivm.nl
+Van: ) - BSK @minienw.nl> 
+10.2.e 10.2.e
+Verzonden: vrijdag 26 juni 2020 09:14
+Aan: @minlnv.nl
+10.2.e
+CC: @minlnv.nl; @rivm.nl>; ) -
+10.2.e 10.2.e 10.2.e
+DGMo @minienw.nl>
+10.2.e
+Onderwerp: RE: Verzoek zsm check op nota inz SRM2 en OPS
+
+was sent to you by mistake, you are requested to inform the sender and delete the message. RIVM accepts no
+liability for damage of any kind resulting from the risks inherent in the electronic transmission of messages.
+www.rivm.nl/en Committed to health and sustainability
+
+10.2.e, buiten reikwijdte verzoek
+10.2.e
+
+10.2.e
+10.2.e
+10.2.e
+11.1
+10.2.e
+10.2.e
+10.2.e
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e 10.2.e
+10.2.e
+10.2.e 10.2.e
+10.2.e
+10.2.e
+10.2.e
+
+11.1
+ 
+
+11.1
+ 
+ 
+ 
+This message was sent by Atlassian Jira (v8.5.1#805001-sha1:c5b54a7)
+Jira is improving email notifications, share your feedback!
+Get Jira notifications on your phone! Download the Jira Server app for Android or iOS.
+
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e 10.2.e
+10.2.e
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+
+
+11.1
+
+
+
+
+
+11.1
+
+
+
+buiten reikwijdte verzoek
+10.2.e
+buiten reikwijdte verzoek
+10.2.g
+10.2.g
+10.2.e 10.2.e
+10.2.e 10.2.e
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+.
+11.1
+ 
+10.2.e
+Het is niet onverwacht dat deze optie wordt aangedragen. Zoals ook al aangegeven door 
+in een nota aan de Minister zal hier op politiek niveau een besluit over moeten worden
+genomen. De Minister had deze week al gevraagd om een A4’tje met daarin de voor en nadelen
+11.1
+van verschillende opties. Ik heb daartoe een aanzet gedaan (bijgevoegd). Ik heb daarin 
+ 
+Mijn beeld is dat op deze korte termijn geen politieke keuze gemaakt kan worden voor het
+10.2.e
+alternatief dat  voorstelt (doorrekenen voorbij 5 km met OPS). Ik heb als opmerking in de
+tekst opgenomen:
+11.1
+ 
+10.2.e, 11.1
+ 
+Groet! 10.2.e
+0610.2.e
+ 
+> 
+Van: 10.2.e @bij12.nl
+Verzonden:  donderdag  6  augustus  2020  18:31
+Aan:  @minlnv.nl>;  @minlnv.nl>
+10.2.e 10.2.e
+CC:  @minlnv.nl>;  Doosje,  mr.  G.A.J.  (Arjen)
+10.2.e
+@minlnv.nl>;  Stikstof  LNV  <Stikstof@minlnv.nl>;    -  DGB
+10.2.e 10.2.e
+@minienw.nl>;  @minlnv.nl>; 
+10.2.e 10.2.e 10.2.e
+@minienw.nl>;  @minlnv.nl>; 
+10.2.e 10.2.e
+@minlnv.nl>;  @minlnv.nl>;
+10.2.e
+@nvwa.nl>; 
+10.2.e 10.2.e
+10.2.e
+@minlnv.nl>; @minlnv.nl>; 
+10.2.e
+@brabant.nl>;  @bij12.nl>; 
+10.2.e 10.2.e
+10.2.e
+@pzh.nl>;  @provincie-utrecht.nl>; 
+10.2.e
+@brabant.nl>;  @bij12.nl>; 
+10.2.e 10.2.e
+@bij12.nl>
+Onderwerp:  RE:  Tekstvoorstel  reactie  Hordijk  in  de  tweede  kabinetsreactie  -  MR
+ 
+10.2.e
+Beste    en  anderen,
+ 
+10.2.e
+Doorgewerkt  in  de  versie  van    onze  aanvullingen  en  commentaar  vanuit  de  provincies.
+ 
+.
+11.1
+-          
+11.1
+          
+          
+          
+.
+
+Verzonden:  woensdag  5  augustus  2020  15:20
+Aan: 10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @bij12.nl' 10.2.e @bij12.nl>;
+10.2.e @minienw.nl' 10.2.e @minienw.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @minienw.nl' 10.2.e @minienw.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>
+CC: 10.2.e @minlnv.nl>;  Doosje,  mr.  G.A.J.  (Arjen)
+10.2.e @minlnv.nl>
+Onderwerp:  Tekstvoorstel  reactie  Hordijk  in  de  tweede  kabinetsreactie  -  MR
+ 
+10.2.e
+Beste 10.2.e en ,
+ 
+Dank voor het stuk. Ik denk dat de actuele punten er in staan…11.1
+.
+Ik mis nog het stuk over de onderzoeken tav verbeteren van de depositie/emissie modellen en
+ensemble modellering (fase 3?), klopt dat ?
+Ook verwachten jullie nog aanvullende info van het RIVM…zou je in de tekst kunnen aangeven
+waar deze mogelijk ingepast zou kunnen worden?
+ 
+Zie een paar opm/vragen van mij in de versie die ook al door 10.2.e is bewerkt.
+ 
+Vraag…we hebben het gehad over een oplegnota bij de tekst voor de brief. 11.1
+Dit kan mogelijk leiden tot meer concreetheid in de brief, indien gewenst.
+ 
+Hgr 10.2.e
+Dit  bericht  kan  informatie  bevatten  die  niet  voor  u  is  bestemd.  Indien  u
+niet  de  geadresseerde  bent  of  dit  bericht  abusievelijk  aan  u  is  gezonden,
+wordt  u  verzocht  dat  aan  de  afzender  te  melden  en  het  bericht  te
+verwijderen.
+De  Staat  aanvaardt  geen  aansprakelijkheid  voor  schade,  van  welke  aard
+ook,  die  verband  houdt  met  risico's  verbonden  aan  het  elektronisch
+verzenden  van  berichten.
+This  message  may  contain  information  that  is  not  intended  for  you.  If  you
+are  not  the  addressee  or  if  this  message  was  sent  to  you  by  mistake,  you
+are  requested  to  inform  the  sender  and  delete  the  message.
+The  State  accepts  no  liability  for  damage  of  any  kind  resulting  from  the
+risks  inherent  in  the  electronic  transmission  of  messages.
+
+11.1
+ 
+ 
+ 
+ 
+ 
+In deze lijn zal ik nog naar de huidige teksten kijken.
+ 
+10.2.e
+Groet, 
+Van: 10.2.e @minlnv.nl> 
+Verzonden: dinsdag 11 augustus 2020 16:23
+
+suggesties doen. Kan dat?
+ 
+Groeten,
+ 
+10.2.e
+ 
+Van: 10.2.e @bij12.nl> 
+Verzonden: dinsdag 11 augustus 2020 12:12
+Aan: 10.2.e - BSK10.2.e @minienw.nl>; 10.2.e @minlnv.nl>;
+10.2.e @minlnv.nl>
+10.2.e
+Onderwerp: RE: Tekstvoorstel reactie Hordijk in de tweede kabinetsreactie versie 2.0-
+ 
+Misschien wel. Al denk ik, dat niemand zal betwisten dat er een hoog mate van detail gevraagd
+wordt. 11.1
+ 
+Zoiets?
+11.1
+ 
+Er is inderdaad veel geschoven in de tekstblokken. Wellicht doordat we net anders tegen de
+hoofdlijn aankijken? Ik heb wel behoefte om die met elkaar vast te stellen (of te constateren
+dat we er anders tegen aankijken).
+ 
+11.1
+ 
+              
+              
+              
+              
+              
+ 
+ 
+ 
+10.2.e
+Groet, 
+ 
+ 
+ 
+Van: 10.2.e - BSK 10.2.e @minienw.nl> 
+Verzonden: dinsdag 11 augustus 2020 11:39
+Aan: 10.2.e @bij12.nl>; 10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>
+10.2.e
+Onderwerp: RE: Tekstvoorstel reactie Hordijk in de tweede kabinetsreactie versie 2.0-
+
+Verzonden: maandag 10 augustus 2020 17:05
+Aan: 10.2.e @minlnv.nl>
+10.2.e
+Onderwerp: FW: Tekstvoorstel reactie Hordijk in de tweede kabinetsreactie versie 2.0-
+ 
+10.2.e
+Hoi ,
+ 
+Deze alvast ter info.
+Ik heb nog geen inhoudelijke reactie van 10.2.e (en heb de tekst ook nog niet intern
+kunnen afstemmen…)
+ 
+Groet,
+10.2.e
+ 
+Van: 10.2.e @bij12.nl> 
+Verzonden: maandag 10 augustus 2020 15:46
+Aan: 10.2.e - BSK 10.2.e @minienw.nl>; 10.2.e @minlnv.nl>
+10.2.e
+Onderwerp: Re: Tekstvoorstel reactie Hordijk in de tweede kabinetsreactie versie 2.0
+ 
+10.2.e
+Voor de volgorde mag  voor want ik ben nu toch niet in de gelegenheid.
+10.2.e
+Groet, 
+ 
+Get Outlook for Android
+From: 10.2.e - BSK 10.2.e @minienw.nl>
+Sent: Monday, August 10, 2020 3:40:44 PM
+To: 10.2.e @minlnv.nl>; 10.2.e @bij12.nl>
+10.2.e
+Subject: Tekstvoorstel reactie Hordijk in de tweede kabinetsreactie versie 2.0
+ 
+10.2.e
+10.2.e
+Hoi  en ,
+ 
+Hierbij mijn suggesties.
+Graag jullie kritische blik en aanvullingen. Ik heb ook bepaalde passages geschrapt.
+ 
+(Misschien handig als jullie afspreken om na elkaar in het stuk te werken, dat scheelt weer
+overtikken… ;-)
+ 
+Groet,
+10.2.e
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is
+toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen
+aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van
+berichten.
+This message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you
+by mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind
+resulting from the risks inherent in the electronic transmission of messages.
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+
+89
+Minister Bestuurskern 
+Dir. Wegen en 
+Staatssecretaris 
+Verkeersveiligheid 
+Wegverkeersbeleid 
+Rijnstraat 8 
+Den Haag 
+Postbus 20901 
+2500 EX  Den Haag 
+Contactpersoon 
+10.2.e
+10.2.e
+M  +31(0)6- 
+10.2.e
+@minienw.nl 
+10.2.e
+Datum 
+20 augustus 2020 
+Actua Stikstof – augustus 2020 
+Kenmerk 
+IENW/BSK-2020/165335 
+Bijlagen 
+1 
+Inleiding 
+In deze nota wordt u geïnformeerd over enkele actua binnen het stikstofdossier 
+en worden uw vragen beantwoord die u gesteld heeft bij de eerdere nota over 
+rekenmethodes stikstof (ENW/BSK-2020/150437). De nota gaat in op de 
+volgende actualiteiten: 
+1. Kabinetsreactie advies Cie Hordijk, inclusief beantwoording vragen naar
+aanleiding van de nota;
+2. Vrijstelling vergunningplicht stikstof bouwfase;
+3. Contact Provincie Gelderland in relatie tot compensatieopgave Ring
+Utrecht en Hoevelaken.
+Ad 1 Kabinetsreactie advies Cie Hordijk 
+Er wordt een MCSP-notitie voorbereid voor de kabinetsreactie op het advies 
+van de Cie Hordijk. Planning: 
+- Directeurenoverleg: 31 augustus
+- DG-overleg: 3 september
+- MCSP: 8 september
+Op werkvloerniveau is er overeenstemming met LNV (en provincies) over 
+welke elementen de kabinetsreactie zou moeten bevatten: 
+- Uitstralen dat het huidige rekeninstrumentarium doelgeschikt is voor
+vergunningverlening en de vergunningverlening dus gewoon door kan
+gaan.
+- Dit concreet onderbouwen ten aanzien van de punten waarvan het
+adviescollege heeft aangegeven dat AERIUS doelongeschikt zou zijn
+voor vergunningverlening. Dit geldt in het bijzonder voor het gebruik
+van SRM 2 en de maximale rekenafstand van 5 km.
+- Aangeven dat door het adviescollege aangedragen aanbevelingen
+nader onderzocht worden in het kader van de doorontwikkeling van
+Pagina 1 van 4 
+
+ 
+buiten reikwijdte verzoek
+Pagina 3 van 4 
+ 
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+buiten reikwijdte verzoek
+
+ 
+Directie Bestuurlijke en 
+Politieke Zaken 
+ 
+ 
+Ons kenmerk 
+BPZ / 20087716 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+buiten reikwijdte verzoek
+ 
+4. Beleidsevaluatie PAS      
+ 
+buiten reikwijdte verzoek
+- Aandachtspunt is het incorporeren van deze reactie in de brief met ook 
+Remkes en Hordijk. Dat wordt nog een balanceeract om geen 
+tegenstrijdigheden te hebben.  
+- Mogelijk komt het over dat advies-Hordijk en evaluatie PAS anders 
+oordelen over AERIUS. Inhoudelijk is er geen tegenstrijdigheid: evaluatie 
+PAS zegt dat het goed is dat er een instrument ‘zoals AERIUS’ is; maar 
+heeft niet gekeken naar de specifieke werking zoals Hordiijk. Proberen om 
+de indruk van tegenstrijdigheid te voorkomen.  
+ 
+buiten reikwijdte verzoek
+ 
+ Pagina 3 van 7 
+ 
+
+ 
+Directie Bestuurlijke en 
+Politieke Zaken 
+ 
+ 
+Ons kenmerk 
+BPZ / 20087716 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Gevraagd wordt of het onderscheid tussen NOX en NH3-emissies hiervoor 
+nog uitmaakt. Dat zou moeten worden gecheckt bij experts, in ieder geval 
+zijn meer factoren van belang (zoals of het stal of weide-emissies betreft). 
+Is een goede vraag voor een eventuele verkenning naar het doorvoeren 
+van het onderscheid. 
+- Het maakt verschil of een afstandsgrens wordt gebruikt als hulpmiddel of 
+voor vergunningen. Concreet speelt momenteel een rechtszaak over 
+ViA15.  
+- Conclusie: er moet nog goed worden uitgezocht hoe een en ander op 
+elkaar in werkt voor hier een keuze kan worden gemaakt. Goed om voor 
+de vervolgbesluitvorming in het dg-overleg ook implicaties van en voor de 
+rechtszaak VIA15 te beschrijven. En om een plan B te hebben voor het 
+geval bij de Raad van State de ViA15 sneuvelt op de 5km-grens. 
+ 
+Overige  
+- De voorgestelde lijn wordt gedeeld tav Rekenkundige grens en het 
+onderzoeken van mogelijkheden voor minder ruimtelijke detaillering.  
+- Het tijdpad is ook akkoord.  
+- Eventuele tekstsuggesties kunnen worden aangeleverd bij 10.2.e 
+ en 10.2.e .  
+buiten reikwijdte verzoek
+ 
+ Pagina 5 van 7 
+ 
+
+ 
+Directie Bestuurlijke en 
+Politieke Zaken 
+ 
+ 
+Ons kenmerk 
+BPZ / 20087716 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+buiten reikwijdte verzoek
+ 
+ 
+ 
+ Pagina 7 van 7 
+ 
+
+11.1
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+  .
+ 
+ 
+Van: 10.2.e - BSK 
+Verzonden: donderdag 27 augustus 2020 14:07
+Aan: 10.2.e <10.2.e @minlnv.nl>
+CC: 10.2.e - DGB <10.2.e @minienw.nl>; 10.2.e - DGMo
+<10.2.e @minienw.nl>
+Onderwerp: RE: reactie Hordijk
+ 
+10.2.e
+Hoi ,
+ 
+Hierbij onze opmerkingen op de discussienotitie voor het DO.
+We hebben zoveel mogelijk gewerkt met concrete tekstvoorstellen, zodat ze snel te verwerken
+zijn. Als je nog vragen hebt over onze opmerkingen of een nadere toelichting nodig hebt om ze
+te kunnen verwerken, kan je natuurlijk altijd contact opnemen.
+ 
+.  is vanaf morgen eerste
+BRW 10.2.e
+aanspreekpunt.
+ 
+
+Hierbij mijn laatste versie.
+11.1
+.
+ 
+ heb ik niet meer toe kunnen voegen. Dat kan misschien nog in de laatste
+11.1
+ronde.
+ 
+Ik draag het nu over aan 10.2.e en 10.2.e . Zij zullen morgenochtend de versie
+voor het DO maken. Jullie kunnen vandaag dus nog op deze versie reageren.
+ 
+10.2.e
+ 
+10.2.e
+Van: 10.2.e < @minlnv.nl> 
+Verzonden: dinsdag 25 augustus 2020 10:19
+Aan: 10.2.e - BSK' <10.2.e @minienw.nl>;10.2.e
+<10.2.e @bij12.nl>; 10.2.e <10.2.e @minlnv.nl>; 10.2.e
+10.2.e
+ < @minlnv.nl>; 10.2.e <10.2.e @minlnv.nl>; 10.2.e
+ <10.2.e @bij12.nl>; 10.2.e <10.2.e @minlnv.nl>;
+10.2.e <10.2.e @minlnv.nl>; 10.2.e
+<10.2.e @minlnv.nl>
+CC: 10.2.e <10.2.e @nvwa.nl>; Doosje, mr. G.A.J. (Arjen)
+<10.2.e @minlnv.nl>; 10.2.e <10.2.e @rivm.nl>; 10.2.e
+10.2.e
+ <10.2.e @minlnv.nl>; 10.2.e <10.2.e @minlnv.nl>; 
+ <10.2.e @minlnv.nl>; 10.2.e
+<10.2.e @minlnv.nl>; 10.2.e - DGB <10.2.e @minienw.nl>; Stikstof
+LNV <Stikstof@minlnv.nl>
+Onderwerp: RE: reactie Hordijk
+ 
+Beste allen,
+ 
+Hierbij mijn bijdrage.
+ 
+Belangrijkste punten:
+ 
+ 11.1
+ 
+11.1
+ 
+ 
+
+<10.2.e @minlnv.nl>; 10.2.e <10.2.e @rivm.nl>; 10.2.e
+10.2.e
+ <10.2.e @minlnv.nl>; 10.2.e <10.2.e @minlnv.nl>; 
+ <10.2.e @minlnv.nl>; 10.2.e
+<10.2.e @minlnv.nl>; 10.2.e - DGB <10.2.e @minienw.nl>
+Onderwerp: RE: reactie Hordijk
+ 
+10.2.e
+Wij zullen vanuit IenW het stokje van  overnemen…
+ 
+ 
+Van: 10.2.e <10.2.e @bij12.nl> 
+Verzonden: maandag 24 augustus 2020 08:27
+10.2.e
+Aan: 10.2.e <10.2.e @minlnv.nl>; 10.2.e < @minlnv.nl>;
+10.2.e
+10.2.e < @minlnv.nl>; 10.2.e <10.2.e @minlnv.nl>;
+10.2.e - BSK <10.2.e @minienw.nl>; 10.2.e
+<10.2.e @bij12.nl>; 10.2.e <10.2.e @minlnv.nl>; 10.2.e
+ <10.2.e @minlnv.nl>; 10.2.e @minlnv.nl>
+CC: 10.2.e @nvwa.nl>; Doosje, mr. G.A.J. (Arjen)
+<g.a.j.doosje@minlnv.nl>;10.2.e @rivm.nl>; 10.2.e
+10.2.e
+@minlnv.nl>; 10.2.e @minlnv.nl>; 
+@minlnv.nl>; 10.2.e
+@minlnv.nl>
+Onderwerp: RE: reactie Hordijk
+ 
+Allen,
+ 
+In bijlage het eerste karretje van het treintje.
+ 
+ 
+ 
+10.2.e
+Met vriendelijke groet,
+ 
+10.2.e
+10.2.e
+Aanwezig op maandag en donderdag. Op andere dagen voor spoedzaken per telefoon
+bereikbaar.
+Leidseveer 2, 3511  SB Utrecht  |   www.bij12.nl
+M +31 (0)6 10.2.e  | F +31 (0)85 486 22 22  | E 10.2.e @bij12.nl
+ 
+Van: 10.2.e @minlnv.nl> 
+Verzonden: vrijdag 21 augustus 2020 17:01
+Aan: 10.2.e @minlnv.nl>; 10.2.e @minlnv.nl>; 10.2.e
+10.2.e
+@minlnv.nl>; '10.2.e - BSK' 10.2.e @minienw.nl>; 
+@bij12.nl>; 10.2.e @bij12.nl>;
+10.2.e @minlnv.nl>; 10.2.e @minlnv.nl>;
+
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is
+toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen
+aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van
+berichten.
+This message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you
+by mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind
+resulting from the risks inherent in the electronic transmission of messages.
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+
+buiten reikwijdte verzoek
+10.2.e
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+104
+Discussienota Directeurenoverleg 31 augustus 
+Onderwerp: concept-Kamerbrief over het advies-Hordijk, en concept-nota voor de MCSP 
+Versie: 26.8.2020 
+Opmerking: deze nota bevat de nog te maken overwegingen die niet expliciet in de Kamerbrief 
+verwoord zijn; als leeswijzer wordt voorgesteld om allereerst de concept-Kamerbrief te lezen en te 
+behandelen, zodat  onderhavige nota alleen hoeft in te gaan op nog liggende beslispunten. U wordt 
+verzocht op de in de nota genoemde punten keuzes  te maken of in te stemmen met nader 
+onderzoek. 
+Aanleiding 
+Op 15 juni 2020 is het rapport van het adviescollege Meten en Berekenen Stikstof met een korte 
+reactie aan de Eerste en Tweede Kamer aangeboden (Kamerstuk 35334, nr.88). In de reactie is 
+aangegeven dat het kabinet na de zomer met een nadere reactie op de aanbevelingen van het 
+college zal komen. De concept-Kamerbrief bevat die reactie.  
+Het rapport behandelt het onderwerp op twee schaalniveaus: nationaal en lokaal. Deze nota 
+behandelt het advies-Hordijk t.a.v. het lokale niveau, omdat dat het onderdeel is waarin lastige 
+afwegingen moeten worden gemaakt. In het advies geeft het college aan dat het meet-, reken- en 
+modelinstrumentarium op nationaal niveau voldoende tot goed is. Tevens geeft het college een 
+aantal suggesties om het instrumentarium verder te verbeteren om de nauwkeurigheid verder te 
+verhogen. Deze suggesties zijn allemaal al opgepakt en er is voldoende budget voor beschikbaar. 
+Op dit punt kan het kabinet de aanbevelingen van het college overnemen, zoals ook te lezen is in 
+de concept-Kamerbrief. 
+Het instrumentarium op lokaal niveau (AERIUS Calculator) beoordeelt het college echter als niet 
+doelgeschikt voor toestemmingsverlening. Op dit punt vergt het formuleren van een 
+kabinetsreactie een zorgvuldige afweging. Ten behoeve van het maken van deze afwegingen bevat 
+deze nota een samenvatting van het advies van het college, gevolgd door de opties die voorliggen 
+om op de bevindingen te reageren, met argumentatie. Verzocht wordt om aan de hand van de 
+opties richting te geven in de kabinetsreactie. 
+Samenvatting van het advies van het college t.a.v. AERIUS 
+Het college: 
+- is van mening dat AERIUS in principe geschikt is voor toestemmingsverlening, mits aan een
+aantal voorwaarden wordt voldaan;
+- oordeelt vervolgens dat AERIUS nu niet doelgeschikt is voor toestemmingsverlening vanwege
+o de te hoge mate van detail, ingegeven door de gehanteerde rekengrens van 0,005
+mol/ha/jaar op een ruimtelijke schaal van 1 ha.
+o de ongelijke behandeling van verschillende typen bronnen, namelijk door voor wegverkeer het
+model SRM2 met een afstandsgrens van 5 km te hanteren, terwijl voor de overige bronnen het
+model OPS wordt gebruikt zonder een dergelijke afstandsgrens (maar wel een rekengrens van
+0,005 mol/ha/jaar).
+- stelt dat de depositiegrens van 0,005 mol/ha/jaar in de huidige situatie noodzakelijk is vanwege
+het voorzorgsbeginsel;
+- geeft geen advies over welke depositiegrens nog wel wetenschappelijk verantwoord is;
+- stelt vervolgens dat een hogere grens alleen mogelijk is bij ambitieus bronbeleid;
+- doet voorstellen om robuustheid, transparantie en gelijkheid tussen de typen bronnen te
+vergroten door:
+o Rekenmethode SRM2 (nu benut voor verkeer) te vervangen door rekenmethode OPS (nu
+benut voor andere emissiebronnen)
+o voor OPS te werken met een (vaste) bron-receptor-matrix
+o rekenpunten te aggregeren per habitattype (zij het binnen een maximale onderlinge afstand)
+Toetsing op hoofdlijnen 
+De genoemde adviezen hebben een sterk technisch karakter, en overnemen zou grote 
+consequenties hebben voor de toestemmingsverlening en het stikstofbeleid. Mede omdat het 
+college de adviezen niet heeft laten toetsen op juridische houdbaarheid of consequenties voor het 
+1 
+
+ 
+Hetzelfde geldt voor optie b, waarbij op dit moment nog geen wetenschappelijk onderbouwde 
+afkapgrens beschikbaar is en (impliciet) wordt toegegeven dat de afstandsgrens van SRM2 
+onjuist is. 
+ 
+Het nu al laten vallen van de afstandsgrens van SRM2 (optie c) creëert weliswaar een gelijke 
+behandeling van de bronnen, maar leidt anderzijds tot het toerekenen van de door verkeer 
+veroorzaakte depositie op veel meer Natura 2000-gebieden (per project) en brengt de 
+verdedigingslijn in gevaar die is gehanteerd in de gerechtelijke procedure over de ViA15 (de 
+Raad van State zal hierover naar verwachting in oktober uitspraak doen). Het risico bestaat dat 
+de uitspraak van de Raad van State dwingt om een al dan niet tijdelijke oplossing te verzinnen 
+voor vergelijkbare projecten. Afhankelijk van de uitspraak kunnen die in lijn van de genoemde 
+opties liggen. 
+ 
+Nog afgezien van de wetenschappelijke onderbouwing van een afstandsgrens speelt ook nog de 
+vraag naar de relatie met bronbeleid. Want alle depositie die nieuw wordt veroorzaakt, maar 
+niet zou vallen onder de vergunningplicht, komt 'ten laste van' de achtergronddepositie en zal 
+dus mee gaan tellen voor de opgave om via brongerichte maatregelen de totale depositie fors te 
+laten dalen. Meer depositie mogelijk maken via een soepeler vergunningenbeleid leidt dus tot 
+een verzwaring van de opgave voor brongerichte maatregelen. 
+ 
+Bovenstaande illustreert welke dilemma's het advies van Hordijk op dit punt oplevert en daarom 
+wordt geadviseerd om op dit moment in de kabinetsreactie te volstaan met een principe-
+uitspraak dat eenduidige principes zullen worden gehanteerd maar dat de precieze uitwerking 
+nader onderzoek vergt en moet passen binnen de juridische en ecologische kaders. Een keuze 
+tussen deze (of andere) opties kan worden gemaakt, zodra er goed gekeken is naar 
+onderbouwing en consequenties. Geadviseerd wordt om de buitenwereld te betrekken bij dit 
+proces. 
+ 
+ 
+C. Rekenkundige grens.  
+Onderzoeken van de mogelijkheden voor een hogere rekenkundige grens. 
+ 
+ Toelichting: op dit moment wordt – om te voldoen aan het voorzorgsprincipe - gewerkt met een 
+lage rekenkundige grens, waarbij 'geen depositie' gelijkstaat aan minder dan 0,005 mol ha/jaar. 
+Onderzocht moet worden of wetenschappelijk kan worden onderbouwd dat de nul kan worden 
+gebaseerd op een hogere afronding dan 0,005. Hierdoor zou wel een (mogelijk aanzienlijk) deel 
+van de door projecten veroorzaakte depositie niet meer worden meegenomen. 
+ Hier spelen vergelijkbare dilemma's als onder B en moet een besluit hierover voldoen aan de 
+ecologische en juridische randvoorwaarden. Reden waarom wordt geadviseerd om dit nader te 
+onderzoeken. 
+ Het al lopende onderzoek naar een drempelwaarde is overigens een (juridisch gezien) andere 
+wijze van het niet aan een project toerekenen van (een deel van) de depositie, en staat hier los 
+van. Bij de drempelwaarde wordt níet gesteld dat de depositie onder de drempelwaarde 'nul' is, 
+maar wordt het via gerelateerde brongerichte maatregelen mogelijk gemaakt om een deel van 
+de door projecten veroorzaakte depositie niet mee te nemen in de beoordeling van 
+toestemmingsverlening. in de brief wordt het verschil uitgelegd, omdat het adviescollege beide 
+begrippen door elkaar lijkt te halen. 
+ 
+D. Onderzoeken van de mogelijkheden voor een minder ruimtelijke detaillering. 
+ 
+ Toelichting: AERIUS werkt met een hoog ruimtelijk detailniveau voor berekeningen (grid van 
+kilometercellen). De overtuiging is dat dit het meest recht doet aan de daadwerkelijke 
+verschillen in depositie in het veld, én aan het juridische vereiste dat berekeningen op 
+'locatieniveau' moeten plaatsvinden. Het college adviseert om de robuustheid te vergroten door 
+te werken met gemiddelden per habitattype. In de concept-Kamerbrief worden hierbij al 
+kanttekeningen geplaatst. Hoewel nog onderzoek zal worden gedaan naar de mogelijkheden van 
+aggregatie, wordt ingeschat dat dit voor de korte termijn geen kansrijke optie voor verbetering 
+van AERIUS Calculator is. In ieder geval wordt geadviseerd om het voorstel niet snel door te 
+3 
+ 
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+ 
+ 
+gebruik van SRM2 inclusief afkapgrens verdedigt en derhalve in 
+kabinetsbrief geen opening biedt om hier nu van af te stappen. Dat kan 
+immers vele projecten raken met verkeersaantrekkende werking; naast 
+infra- ook industrie- en woningbouwprojecten.  
+3. Met de minister van LNV af te spreken dat er geen stappen worden 
+ondernomen waarmee uitgestraald wordt dat er geen vertrouwen is in de 
+huidige systematiek met afkapgrens. Dat gebeurt ongetwijfeld met de 
+beste intenties, maar lopende vergunning-trajecten en beroepsprocedures 
+zouden hierdoor geschaad kunnen worden. 10.2.g 
+ 
+ 
+ 
+ 
+ 
+ 
+Uw bijdrage 
+– U kunt aan de minister van LNV aangeven dat u enorme risico’s 
+constateert indien het kabinet niet voldoende daadkrachtig haar 
+vertrouwen in het huidige gebruik van SRM2 mét afkapgrens uitstraalt. 
+Dat geldt niet alleen voor lopende beroepsprocedures, maar ook voor 
+lopende vergunningaanvragen en projecten die voornemens zijn om op 
+korte termijn vergunning aan te vragen en voor bestemmingsplannen. 
+Niet alleen wegprojecten zullen geraakt worden, maar ook alle 
+woningbouwprojecten binnen en buiten het SSRS, industrieprojecten en 
+zelfs de landbouw bij plannen waar wegverkeer aan de orde is.  
+ 
+– U kunt daarbij ter herinnering oproepen dat IenW zowel ambtelijk als 
+politiek nog vóór het doorrekenen van de snelheidsverlaging meermalen 
+gewezen heeft op de situatie waarin we ons nu bevinden en indertijd 
+geadviseerd heeft om de snelheidsverlaging niet met OPS door te rekenen, 
+maar de huidige werkwijze voor berekeningen bij projecten met 
+wegverkeer toe te passen. Dat dit advies niet overgenomen is en de toen 
+al verwachtte risico’s nu daadwerkelijk optreden, maakt dat u van de 
+minister van LNV verwacht dat zij met man en macht probeert de risico’s 
+11.1
+voor alle projecten met verkeersaantrekkende werking te voorkomen.  
+ 
+Daarvoor is nodig dat de minister van LNV haar vertrouwen uitspreekt in 
+de huidige werkwijze en op geen enkele wijze de suggestie wekt dat de 
+huidige werkwijze inclusief afkapgrens heroverwogen wordt. 
+ 
+– U kunt uw zorg uitspreken over de signalen die u krijgt in relatie tot de 
+naderende kabinetsreactie. De ambtelijke samenwerking verloopt heel 
+goed en op de inhoud lijkt er ambtelijk tussen de departementen geen 
+discussie te zijn over de legitimiteit van het gebruik van SRM2 met 
+afkapgrens. IPO heeft ook ambtelijk aangegeven de afkapgrens nu niet ter 
+discussie te willen stellen, gezien de risico’s voor lopende en naderende 
+projecten.11.1 
+ 
+Er is derhalve in het ambtelijk proces 
+afgesproken dat in de kabinetsreactie vertrouwen wordt uitgestraald in de 
+huidige werkwijze en dat in het kader van de gewenste doorontwikkeling 
+van AERIUS verkend gaat worden hoe tot een meer gelijke wijze van 
+berekeningen kan worden gekomen voor de verschillende emissiebronnen. 
+Pagina 2 van 5 
+DEPA RTEMENTA AL VERTROUWELIJK 
+
+ 
+ 
+Context 
+• Kabinetsreactie is in voorbereiding; eerste bespreking in DG overleg is 
+gepland op 10 september. Behandeling MCSP is voorzien op 22 
+september. 
+• Ondertussen zijn er kamervragen aan u gesteld nav uitzending Eén 
+Vandaag en i.r.t. Hordijk. De concept-antwoorden op deze 
+kamervragen worden separaat aan u voorgelegd. Daarbij wordt het 
+advies aan u gegeven deze antwoorden nog vooruitlopend op de 
+kabinetsreactie naar de kamer te sturen. 
+ 
+ 
+Overig 
+ 
+buiten reikwijdte verzoek
+Pagina 4 van 5 
+DEPA RTEMENTA AL VERTROUWELIJK 
+
+109
+Van: - DGMo
+10.2.e
+Aan:
+10.2.e
+Cc: ; Doosje, mr. G.A.J. (Arjen)
+10.2.e
+Onderwerp: RE: concept Annotatie BWO Minister LNV aanstaande vrijdag
+Datum: donderdag 3 september 2020 07:55:00
+Dag 10.2.e ,
+Dank voor toesturen! In onze annotatie zal ik 11.1
+Hoor het graag, alvast dank! En annotatie stuur ik op zodra hier de lijn in (hopelijk einde
+ochtend).
+Groet,
+10.2.e
+Van: 10.2.e @nvwa.nl> 
+Verzonden:  woensdag  2  september  2020  20:36
+Aan: 10.2.e @minienw.nl>
+CC: 10.2.e @minlnv.nl>;  Doosje,  mr.  G.A.J.  (Arjen)
+10.2.e @minlnv.nl>
+Onderwerp:  FW:  concept  Annotatie  BWO  Minister  LNV  aanstaande  vrijdag
+Ha 10.2.e ,
+Zie bijgaand de concept annotatie voor M LNV voor het BWO met M IenW.
+Kan nog aangepast worden door Arjen/Hellen/Vera.
+Zelf ben ik morgenochtend even in ziekenhuis.
+Graag de definitieve versie van IenW naar 10.2.e sturen.
+Dank en groet, 
+10.2.e
+10.2.e
+10.2.e
+..........................................
+Programma Directoraat Generaal Stikstof
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+Bezuidenhoutseweg  73  |  2594  AC  |  Den  Haag  |
+Postbus  20401  |  2500  EK  |  Den  Haag
+..........................................
+M  06 10.2.e
+10.2.e @minlnv.nl
+10.2.e @nvwa.nl
+www.aanpakstikstof.nl
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+
+10.2.e
+10.2.e
+11.1
+10.2.e
+11.1 11.1
+10.2.e
+10.2.e
+
+luchtkwaliteitsberekeningen (https://www.rivm.nl/bibliotheek/rapporten/2014-0109.pdf):
+“ In de praktijk kan niet voor willekeurig kleine waarden voor de bronreceptorafstand worden gerekend.
+Evenzo is het niet correct om voor willekeurig grote afstanden te rekenen. De maximum rekenafstand
+wordt mede bepaald door de afstand tot waar voor dubbelteling wordt gecorrigeerd, dat is tot drie
+kilometer. In de monitoringtool wordt de bijdrage van SRM2 wegen dan ook tot 3.5 kilometer van de weg
+berekend.”
+ 
+In dit RIVM rapport staat als toelichting bij de dubbeltellingcorrectie:
+“ Dubbeltellingen ontstaan wanneer de bijdrage van een individuele weg (of andere bron) aan de
+grootschalige concentratie significant is. Een exacte correctie hiervoor kan worden uitgevoerd met
+behulp van de dubbeltellingcorrectiegegevens die de Minister jaarlijks ingevolge artikel 66, onder g en h,
+bekend maakt. Bij deze correctiegegevens is rekening gehouden met de bijdrage van het verkeer op
+hoofdwegen tot op drie gridcellen van het grid waarop de correctiewaarde betrekking heeft. Het is dus
+een correctiefactor voor de lokale bijdrage van het verkeer op hoofdwegen. Voor de grootschalige
+bijdrage van de snelwegen wordt niet gecorrigeerd. Deze bijdrage blijft altijd deel uitmaken van de
+achtergrondwaarden.”
+ 
+De bovenstaande maximale afstand van 3,5 km waarvoor dubbeltellingcorrecties worden uitgevoerd geeft
+m.i. richting aan de afstandsgrens waarbij onderscheid kan worden gemaakt tussen:
+-          Significante lokale bijdragen die herleidbaar zijn naar een individuele wegen
+-          Bijdragen die niet meer herleidbaar zijn naar een individuele weg en opgaan in een grootschalige
+concentratiebijdrage van wegen.
+ 
+Bij gebruik van SRM2 voor bepalen van concentratiebijdragen door wegverkeer en toetsing aan de
+luchtkwaliteitnormen wordt rekening gehouden met de zogenoemde dubbeltellingcorrectie.
+Een dubbeltelling ontstaat als de invloed van een (bestaande) bron op de lokale concentratie apart wordt
+berekend en bij de grootschalige concentratie (GCN kaarten) wordt opgeteld.  Indien de bijdrage van een
+snelweg wordt opgeteld bij de grootschalige concentratie, kan de waarde van de achtergrondconcentratie
+worden gecorrigeerd voor deze dubbeltelling. Hiertoe heeft het RIVM kaarten opgesteld met een
+dubbeltellingcorrectie (die ook zijn gepubliceerd).  De correctie voor dubbeltelling is exact bepaald voor
+alle locaties tot ongeveer 3,5 km van bestaande rijkswegen. 
+https://www.rivm.nl/gcn-gdn-kaarten/dubbeltellingcorrectie
+https://www.rivm.nl/gcn-gdn-kaarten/concentratiekaarten
+https://www.rijksoverheid.nl/onderwerpen/luchtkwaliteit/vraag-en-antwoord/hoe-kan-ik-luchtvervuiling-
+berekenen
+
+= document 112
+
+= document 112
+10.2.e
+10.2.e
+10.2.e
+10.2.g
+
+ 
+ 
+aannemelijk is dat de Raad van State veel tijd nodig zal hebben alvorens 
+tot een uitspraak te kunnen komen. Het betreft qua omvang de grootste 
+rechtszaak voor RWS dit jaar en op basis van ervaringen in de praktijk is 
+de inschatting dat dit snel langer dan een half jaar gaat duren. Ter 
+vergelijk: voor A27 Houten-Hooipolder had de Raad van State ongeveer 
+24 weken nodig om tot een uitspraak te komen. 
+• Daarbij is de Raad van State er zich bewust van dat het kabinet nog een 
+reactie moet geven op het advies van Hordijk en lijkt het aannemelijk dat 
+deze de kabinetsreactie zal willen afwachten alvorens er tot een uitspraak 
+wordt gekomen. 
+• Dit roept opnieuw de vraag op wat de timing van het versturen van de 
+kabinetsreactie moet zijn en, daarmee samenhangend, de timing voor wat 
+betreft de beantwoording van de kamervragen die aan IenW gesteld zijn 
+over de 5 km afkapgrens en zogenaamde ‘dubbele boekhouding’ (Eén 
+Vandaag, Jan Salden). 
+ 
+ 
+Opties/overwegingen 
+ 
+Timing Kabinetsreactie 
+ 
+Optie 1: spoed kabinetsreactie versturen, voor uitspraak RvS over ViA15 
+• 11.1 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Optie 2: kabinetsreactie versturen na uitspraak RvS over ViA15 
+• Wachten tot er een uitspraak ligt van de Raad van State, maakt dat 
+verzending van de kabinetsreactie nog maanden op zich kan laten 
+wachten. 11.1 
+.  
+• 11.1 
+.  
+• Wanneer er een positieve uitspraak is op de ViA15 zal die positief effect 
+hebben op de kabinetsreactie op het rapport van de cie. Hordijk. Dan is 
+het expliciet duidelijk dat SRM2 juridisch standhoudt. 11.1 
+ 
+  
+• 11.1
+ Die 
+laatste loopt vertraging op, nu er een negatief advies ligt van de Raad van 
+State omtrent het wetsvoorstel voor de structurele stikstofaanpak en het 
+voorstel voor vrijstelling voor de bouw. 
+DEPARTEMENTAAL VERTROUWELIJK 
+Pagina 2 van 3 
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+DEPARTEMENTAAL VERTROUWELIJK Pagina 3 van 5
+
+de prioritaire habitats). HBJZ verwacht echter dat het snel langer dan
+een half jaar kan duren voordat de RvS met een uitspraak komt.
+buiten reikwijdte verzoek
+DEPARTEMENTAAL VERTROUWELIJK Pagina 5 van 5
+
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+..........................................
+Programma Directoraat Generaal Stikstof
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+Bezuidenhoutseweg  73  |  2594  AC  |  Den  Haag  |
+Postbus  20401  |  2500  EK  |  Den  Haag
+..........................................
+M  06 10.2.e
+10.2.e @minlnv.nl
+10.2.e @nvwa.nl
+www.aanpakstikstof.nl
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+
+10.2.e
+10.2.g
+10.2.e
+10.2.g
+
+
+
+Doordat de kleinere aantallen voertuigen worden verwaarloosd, veranderen de uitkomsten: niet 
+alle deposities worden meer in beeld gebracht. Zo zijn er na wijziging minder effecten in de 
+Biesbosch. 
+ 
+ 
+ 
+Als minder wegen zijn meegenomen dan kan dat leiden tot hogere bijdragen. De gegevens in 
+bovenstaande tabel van Nijhuis zijn voor mij niet herleidbaar.  
+ 
+ 
+Voor de omvang van de berekening maakt het eigenlijk weinig uit of de wegen wel of niet worden 
+meegenomen. Er zijn geen technische redenen om wegen met “kleine” verschillen achterwege te 
+laten. In de praktijk gebeurt het ook niet bij alle projecten. 
+In stap 2 worden verder alle natuurgebieden buiten beschouwing gelaten, die op een grotere 
+afstand liggen dan 5 km. Dat is bijzonder, omdat andere sectoren geen natuurgebieden buiten 
+beschouwing mogen laten. 
+ 
+ 
+
+ 
+De bijdragen buiten 5 km zijn met een standaard depositie model (OPS) gewoon goed te 
+berekenen en vanwege hun omvang betekenisvol. De verdedigingslijn lijkt meer op die van een 
+initiatiefnemer, die zonder nadere onderbouwing zijn milieu-impact wil bagatelliseren. 
+ 
+Dat OPS bijdragen van wegverkeer kan berekenen buiten 5 km betekent niet dat de bijdragen 
+betekenisvol zijn voor de beoordeling van een individueel projecteffect. OPS is wel geschikt voor 
+berekening van deken van deposities over Nederland waarbij de berekende bijdragen niet 
+herleidbaar hoeven zijn naar een individuele bron (en totale berekende bijdragen worden 
+gekalibreerd aan de hand van metingen). 
+ 
+Vervolgens wordt in AERIUS niet gerekend met het standaard depositiemodel (OPS) maar met een 
+standaard rekenmodel voor verkeer (SRM2) welke voor deposities is aangepast. Hierover is bij  
+EenVandaag ivm de viaA15 een uitzending geweest. 
+ 
+Bij de introductie van het PAS in 2015 is OPS gekozen als ‘standaard depositiemodel’ bij 
+projectspecifieke depositieberekeningen voor andere bronnen dan wegverkeer. Daarvoor was 
+STACKS het standaard rekenmodel voor landbouw, industrie, scheepvaart, luchtvaart,… Voor 
+wegverkeer was SRM2 ook in de periode voor het PAS al het standaard depositiemodel (werd 
+toegepast in bijvoorbeeld PluimSnelweg van TNO).  
+Als het gaat om projectspecifieke berekeningen is SRM2 dus al langer het standaard 
+depositiemodel voor wegverkeer, dan dat OPS het standaard depositiemodel is voor andere 
+bronnen. 
+ 
+Opmerkelijk was dat mijn rapport over het verkeersmodel welk ik eerder via @Jan_salden 
+(EenVandaag) tbv wederhoor met het @RIVM had gedeeld ook bekend was bij het Ministerie, maar 
+jammer genoeg niet bij de Raad van State. Dit bleek tijdens de zitting 
+ 
+Jan Salden heeft op 15 juni meerdere vragen aan RIVM gesteld naar aanleiding van Hordijk advies. 
+Daarbij heeft Jan Salden ook het Apollon rapport toegestuurd aan RIVM met de vraag om te 
+reageren op de bevindingen van Apollon. Dat was toen overigens nog een concept rapport. 
+Op 22 juni heeft RIVM contact met ons opgenomen over de vragen. Op 23 juni heeft RIVM 
+gereageerd richting Jan Salden. 
+Nijhuis kon gebruik maken van de informatie van RIVM bij de zitting van de ViA15 op 24 juni.  
+ 
+Geconcludeerd was dat de deposities met SRM2 worden onderschat. SRM2, welk in AERIUS 
+uitsluitend voor het wegverkeer wordt gebruikt berekent minder deposities dan OPS, wat binnen 
+AERIUS voor alle andere sectoren moet worden toegepast. 
+ 
+
+ 
+ 
+ 
+ 
+SRM2 is zodoende niet op grote afstanden geschikt. Onderzoek laat zien dat concentraties op 3,5 
+km vanwege de rekengrens zelfs met meer dan een factor 4 in SRM2 worden onderschat. Eerder 
+was daarom een afstandsgrens op 3 km in SRM2 opgenomen (AERIUS 16L) 
+ 
+ 
+Er staat: “Eerder was daarom een afstandsgrens op 3 km in SRM2 opgenomen (AERIUS 16L)”.  
+Daarom? Hier wordt m.i. een onjuist relatie gelegd. De afstandsgrens van 3 km gold onder het PAS 
+(net zoals Calculator 2016L het rekeninstrument was onder het PAS). Deze is gebaseerd op de 
+praktijk voorafgaande aan het PAS, waarin in beginsel ook werd gerekend met 3 km afstandsgrens 
+bij MIRT projectonderzoeken stikstof (o.a. in PluimSnelweg van TNO). In de toelichtingen bij de 
+wet- en regelgeving destijds is daar ook naar verwezen, als ik het juist heb. 
+De grens van 3 km is dus niet gekozen omdat op 3,5 km de onderschatting relatief groot zou zijn.  
+ 
+
+Vraagt m.i. om nuancering: 
+Hordijk beschouwt het gebruik van SRM2 binnen AERIUS niet doelgeschikt omdat het leidt tot 
+verschil in beoordeling van sectoren. Het gaat dus om de ‘ongelijkheid’.  Hordijk stelt niet dat SRM2 
+niet geschikt zou zijn, maar heeft moeite met de afkap op 5 km. Hordijk adviseert om gebruik te 
+maken van een op OPS gebaseerde bron-receptormatrix (is wat anders dan OPS). Hierdoor vervalt 
+dan impliciet ook de afkappingsafstand van 5 km voor verkeersemissies. 
+ 
+De ongelijkheid die Hordijk constateert kan ook worden weggenomen door voor andere bronnen een 
+afstandsgrens te hanteren. 
+ 
+Bij de ‘fit for purpose’  van OPS waar Nijhuis naar verwijst kunnen zeker bij projectspecifieke 
+berekeningen voor wegverkeer vraagtekens worden geplaatst. RIVM heeft hier in reactie op Apollon 
+rapport over aangegeven: “Er is bij de ontwikkeling van AERIUS Calculator voor gekozen om 
+wegverkeer te berekenen met SRM2 omdat de modellering in SRM2 gericht is op de lokale 
+verspreiding van emissies van wegverkeer op buiten-stedelijke wegen en rekening houdt met de 
+invloed van specifieke wegkenmerken op de verspreiding, zoals de hoogte- en diepteligging van de 
+weg en de aanwezigheid van geluidsschermen. OPS is ontwikkeld voor het beschrijven van de 
+verspreiding van emissies vanuit een stationaire bron met een verticale uitstoot. SRM2 is beter 
+geschikt voor project-specifieke berekeningen van wegverkeer dan OPS. De keuze om wegverkeer in 
+AERIUS Calculator met SRM2 door te rekenen zorgt daarom voor nauwkeurige resultaten en minder 
+onzekerheden.”      
+ 
+ 
+ 
+  
+
+Dit betekent niet dat het ongeschikt is om te gebruiken voor berekeningen aan bewegende 
+bronnen (dat staat ook niet in stuk van Landsadvocaat). Voor bepaalde bronnen is OPS het beste 
+model dat er nu is, omdat er simpelweg geen alternatief beschikbaar is.  
+ 
+Voor bepaalde bronnen lijkt OPS wel minder nauwkeurig dan andere beschikbare rekenmodellen. 
+Een voorbeeld is vliegverkeer. Er is een versie van het rekenmodel Stacks die speciaal voor 
+vliegverkeer is ontwikkeld. Deze versie houdt rekening met specifieke kenmerken van vliegverkeer 
+(snelheid, stijging door warmte-uitstoot,..). OPS modelleert een opstijgend vliegtuig als een rij 
+schoorstenen die steeds hoger worden. 
+ 
+Echter, omdat OPS is opgenomen in AERIUS Calculator en AERIUS Calculator wettelijk is 
+voorgeschreven moet voor andere bronnen dan wegverkeer worden gerekend met OPS. 
+ 
+De vraag in hoeverre OPS geschikt is voor alle bronnen en op welke punten verbeteringen gewenst 
+zijn, zou m.i. door RIVM gesteld moeten worden in de doorontwikkeling van AERIUS Calculator. 
+Daarbij moet gebruik van andere, betere rekenmodellen m.i. niet worden uitgesloten. 
+ 
+Gesteld wordt dat OPS geen rekening houdt met specifieke weg-inrichtingen. Maar dit kan op 
+eenzelfde wijze ook met OPS worden berekend, door de verticale spreiding (sigma_z_0) op basis 
+van de invoer wegkenmerken net als in SRM2 intern in OPS te aan te passen. 
+ 
+Interessante gedachte. Als OPS wordt doorontwikkeld en in lijn wordt gebracht met SRM2, dan kan 
+het wellicht een alternatief zijn voor berekeningen binnen 5 km? Wat blijft is dat de bijdragen niet 
+na enkele kilometers niet meer herleidbaar is naar een individuele bron. Mijn beeld is dat het in lijn 
+brengen met SRM2 wellicht meer aanpassingen vraagt dan hier aangegeven.  
+ 
+Gesteld wordt dat het gebruik van OPS voor wegen niet consistent zou zijn met luchtkwaliteit. Maar 
+hoe consistent is het als alleen voor wegprojecten een ander depositie-model wordt gebruikt? En 
+als bij landelijke deposities van wegen weer wel OPS wordt gebruikt? 
+ 
+Gebruik van OPS bij landelijke berekeningen is uitlegbaar omdat het dan gaat om de berekende 
+totale bijdrage van veel bronnen verspreid over het land, waarbij de berekende bijdragen niet 
+herleidbaar hoeven te zijn naar individuele projecten.  
+ 
+Voor luchtkwaliteit wordt overigens ook alleen voor wegverkeer SRM2 (en SRM1) gebruikt. Voor 
+andere bronnen wordt bij projectspecifieke berekeningen gerekend met het Nieuw Nationaal Model 
+(NNM). Ook bij luchtkwaliteit worden dus verschillende modellen gebruikt voor enerzijds 
+wegverkeer en anderzijds andere bronnen.  
+ 
+Als uitsmijter wordt gesteld dat het bij de rekengrens bij 5 km het gaat om “de hele kleine effectjes 
+(de ‘0,01-tjes’)”. Mijn berekening laat juist zien dat met SRM2 de deposities ten opzichte van OPS 
+met een factor 4,7 tot 6,0 worden onderschat. 
+ 
+De factor 4,7 tot 6,0 die Nijhuis noemt heeft betrekking op ‘onderschatting’ op nationale schaal: de 
+som van alle deposities in Nederland. Hij heeft daarbij vergeleken wat in totaal binnen en in totaal 
+buiten 5 km neerkomt. 
+Die 0,01 mol die de landsadvocaat in de notitie noemt betreft de bijdrage in mol/hectare voorbij 5 
+km. Dat is de berekende bijdrage op lokale schaal.  
+Nijhuis vergelijkt dus niet vergelijkbare waarden, en wekt met formuleringen als “mijn berekening 
+laat juist zien” de suggestie dat die 0,01 mol/hectare niet juist is.  
+  
+Er wordt geklaagd, dat er veel te nauwkeurig moet worden gerekend. Doch als men niet bereid is, 
+om in de enorme lijst van weguitbreidingen projecten te schappen en men in 
+
+
+
+
+
+
+
+
+
+Pagina: 5
+Nummer: 1 Auteur:  - HBJZ Datum: 22-9-2020 17:04:00 +02'00'
+10.2.e
+Ps. SRM2 is een gevalideerd model dat ontwikkeld is om de luchtkwaliteit te berekenen. Hiermee worden n NO2 en PM10 berekend.
+Nummer: 2 Auteur: 10.2.e (WVL) Datum: 22-9-2020 16:38:00 +02'00'
+RvS wilde hier overigens helemaal geen discussie over voeren. 
+
+
+
+
+
+
+
+vergunningsaanvragen niet eerlijk rekent, dan werkt men deze situatie eigenlijk toch ook zelf in de 
+hand. 
+Benieuwd hoe hier de Raad van State over gaat oordelen. 
+ 
+Nijhuis komt met een eenvoudige oplossing voor het probleem dat te nauwkeurig moet worden 
+gerekend: projecten schrappen want dan hoef je niet meer te rekenen. 
+ 
+ 
+ 
+ 
+
+buiten scope
+10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e
+10.2.e
+10.2.e, 11.110.2.e
+10.2.e
+10.2.e
+10.2.e
+11.1
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e
+10.2.e 10.2.e, 11.1
+10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e 10.2.e
+10.2.e
+10.2.e 10.2.e 10.2.e 10.2.e 10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e
+10.2.e 10.2.e 10.2.g 10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e 10.2.e
+10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e 10.2.e
+10.2.e
+10.2.e
+
+138
+Van: Burg, C. van der (Kees) - DGMo
+Aan: Nieuwenhuizen, C. van (Cora) - DBO
+Cc: - DGMo;  - DGMo-WV
+10.2.e 10.2.e
+Onderwerp: Hordijk
+Datum: donderdag 24 september 2020 19:51:16
+Bijlagen: 01. Nota M_actualiteiten Hordijk_210920.PDF
+Tweede Kamerbrief Hordijk 24-9 .docx
+Prioriteit: Hoog
+Dag Cora,
+Naar aanleiding van jouw reactie op de actualiteitennota mbt Hordijk (voor gemak bijgevoegd)
+het volgende:
+· In de nota wordt de ambtelijk afgestemde lijn van de kabinetsbrief nogal bondig
+weergegeven 11.1
+ Zie onderaan de mail de relevante passages in de brief mbt 5 km. De volledige
+conceptbrief als bijlage ingesloten.
+Mbt het RIVM onderzoek is in de brief opgenomen: “
+· 11.1
+· Er is nog geen akkoord van M LNV op de concept-kabinetsbrief, maar ambtelijke inschatting
+is dat M de nu opgestelde lijn zal ondersteunen. Met oog op bespreking in MCSP op 2
+oktober as. dient de brief morgen naar de MCSP verzonden te worden.
+· 11.1
+Graag een toets bij jou of je, gezien jouw opmerking bij de nota, uit de voeten kunt met
+onderstaande tekst en akkoord kunt gaan met verzending van de conceptbrief morgen naar
+MCSP? Of dat je liever eerst zelf nog belt met 10.2.e
+Groet,
+Kees
+Het gebruik van AERIUS Calculator voor
+toestemmingsverlening
+11.1
+
+11.1
+ 
+ 
+
+10.2.e 10.2.e
+11.1
+
+10.2.e
+10.2.e
+10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e
+10.2.e 10.2.e
+10.2.e
+10.2.e
+11.1
+10.2.e
+11.1
+
+140
+Van: Burg, C. van der (Kees) - DGMo
+Aan: - DGMo-WV;  - DGMo
+10.2.e 10.2.e
+Onderwerp: FW: Hor, hor hordijk
+Datum: donderdag 24 september 2020 21:05:26
+Verzonden met BlackBerry Work
+(www.blackberry.com)
+Van: Dongen, H.A.M. van (Hellen) 10.2.e @minlnv.nl>
+Datum: donderdag 24 sep. 2020 8:38 PM
+Aan: Burg, C. van der (Kees) - DGMo10.2.e @minienw.nl>
+Onderwerp: Re: Hor, hor hordijk
+Hi Kees,
+﻿
+Deze lijkt me geen probleem. Nemen we nog ergens mee :-).
+Overleg RWS en bouw snap ik.
+Nog een reactie op de brief van Carola.
+We houden contact,
+Hellen
+Verstuurd vanaf mijn iPad
+Op 24 sep. 2020 om 19:53 heeft Burg, C. van der (Kees) - DGMo
+10.2.e @minienw.nl> het volgende geschreven:
+﻿ Ha Hellen,
+Excuses voor mijn afwezigheid vanmorgen.  maar was
+buiten reikwijdte verzoek
+wat andere spoeddingen aan het doen 
+Nog even de laatste loodjes voor wat betreft de kabinetsreactie op Hordijk. Jij al
+witte rook ontvangen van Carola?
+We hebben ondertussen onze minister geïnformeerd over de ambtelijk afgestemde
+lijn en dit leidde tot nog enkele aanvullende vragen bij haar. Ter beantwoording
+daarvan hebben we nu de concrete teksten uit de brief aan haar voorgelegd. Op
+één zin verwacht ik reactie van de minister, namelijk de eerste zin in volgende
+tekst: 
+“
+11.1
+Hebben we natuurlijk ook al aan de orde gehad in DG overleg en zin wordt
+blijkbaar op verschillende manieren gelezen. 11.1
+
+141
+Van: Burg, C. van der (Kees) - DGMo
+Aan: - DGMo-WV; - DGMo
+10.2.e 10.2.e
+Onderwerp: RE: Hordijk
+Datum: donderdag 24 september 2020 23:38:39
+Cora nog even gesproken zojuist
+Waardering voor jullie 
+Is zo ie zo niet blij met een RIVM onderzoek: is dat toegezegd eigenlijk? 
+Of we goed bij opdracht betrokken zouden worden: 11.1
+Gaat nu niets doen richting LNV maar in MSCP wel waarschuwen voor.... 
+Verzonden met BlackBerry Work
+(www.blackberry.com)
+Van: Burg, C. van der (Kees) - DGMo 10.2.e @minienw.nl>
+Datum: donderdag 24 sep. 2020 9:03 PM
+Aan: Nieuwenhuizen, C. van (Cora) - DBO10.2.e @minienw.nl>
+Kopie:  - DGMo @minienw.nl>, 
+10.2.e 10.2.e 10.2.e
+10.2.e - DGMo-WV10.2.e @minienw.nl>
+Onderwerp: RE: Hordijk
+DG Stikstof de rode zin graag aanpassen, mailt ze me net ...
+Verzonden met BlackBerry Work
+(www.blackberry.com)
+= dcoument 138
+
+= document 138
+
+143
+Van: - DGMo
+10.2.e
+Aan: - DGMo
+10.2.e
+Onderwerp: FW: concept opdracht RIVM verkenning afstandsgrens-projectspecifieke depositie berekeningen
+Datum: maandag 28 september 2020 11:38:00
+t.i.
+Van: 10.2.e - DGMo 
+Verzonden: vrijdag 25 september 2020 08:05
+Aan: Burg, C. van der (Kees) - DGMo 10.2.e @minienw.nl>
+Onderwerp: FW: concept opdracht RIVM verkenning afstandsgrens-projectspecifieke depositie
+berekeningen
+Ter info; mail die ik eerder gestuurd heb in reactie op voorstel RIVM om hetgeen in hun mail
+(onder mijn mail) als Plan van Aanpak te beschouwen.
+Groet,
+10.2.e
+Van: 10.2.e - DGMo 
+Verzonden: maandag 21 september 2020 13:12
+Aan: 10.2.e @rivm.nl>; 10.2.e - DGB
+10.2.e
+10.2.e @minienw.nl>; 10.2.e @minlnv.nl>; 
+@minlnv.nl>; 10.2.e @nvwa.nl>;
+Doosje, mr. G.A.J. (Arjen) 10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>
+CC: 10.2.e @minlnv.nl>; 10.2.e @rivm.nl>;
+10.2.e @bij12.nl' 10.2.e @bij12.nl>; Stikstof LNV <Stikstof@minlnv.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @rivm.nl>;
+10.2.e - DGMo-WV10.2.e @minienw.nl>
+Onderwerp: RE: concept opdracht RIVM verkenning afstandsgrens-projectspecifieke depositie
+berekeningen
+Dag  en anderen,
+10.2.e
+Ik begrijp heel goed jullie voorstel gezien de deadline van 16 oktober uitgevraagd is. Echter,
+vanuit IenW vind ik dit geen gewenste werkwijze. Gezien de complexiteit en mogelijke impact
+van de resultaten is een meer uitgewerkt plan van aanpak vereist, wat m.i. toch echt een
+gezamenlijk gesprek vraagt.
+De onderstaande mail beschrijft op hoofdlijnen de planning en de organisatie, maar betreft geen
+inhoudelijk uitwerking van de uitvraag aan RIVM (in mail nog enkele vragen opgenomen). Het
+geeft nog geen inzicht in de onderzoeksmethode en het beoogde eindresultaat. Cruciale vraag
+hierbij is op basis van welke criteria de verschillende opties worden beoordeeld (de opdracht
+spreekt van ‘eenduidige criteria’?)? Hoe bepaalt RIVM of een bepaalde afstandsgrenswaarde of
+drempelwaarde wetschappelijk gezien voldoende kan worden onderbouwd? Wordt apart
+gekeken naar NH3 en naar NOX? Wordt ook een relatie gelegd met de afrondingsregels en
+rekenafstanden in de rekenmodellen voor luchtkwaliteit? Beschrijft RIVM de verschillende opties
+aan de hand van de criteria (soort van tabel) of wordt er ook advies gegeven? Ik heb op basis
+van de teksten geen beeld wat er precies in welke vorm wordt opgeleverd.
+Kort en goed: vanuit IenW zouden we graag zien dat dit onderzoek de tijd krijgt die het nodig
+heeft, ook om aan de voorkant een gedeeld beeld te hebben van de uitgangspunten en op te
+leveren inzichten. Laten we ajb snelheid niet boven zorgvuldigheid gaan. Dit signaal hebben we
+inmiddels 10.2.e afgegeven aan DGS.
+Hartelijke groet,
+
+-      de klankbordgroep toetst of de beoordeling van de opties op consequenties
+voldoende bruikbaar zijn voor het beleid;
+      de klankbordgroep bewaakt dat de manier waarop deze inzichten zijn
+-
+opgeschreven geen invloed hebben op de juridische en/of ecologische implicaties
+van beleidskeuzes;
+      De klankbordgroep bestaat uit de formele opdrachtgevers van het AERIUS
+-
+instrumentarium;
+ 
+De planning
+-      Maandag 21 september      schriftelijk akkoord op aanpak
+      Maandag 28 september      concept rondsturen
+-
+      Donderdag 1 oktober         bijeenkomst klankbordgroep in Den Haag
+-
+      Maandag 12 oktober          eind concept rondsturen
+-
+      Donderdag 15 oktober       bijeenkomst klankbordgroep online
+-
+      Vrijdag 16 oktober             aanleveren eind rapport
+-
+ 
+ Er wordt niet ingegaan op de inhoud/onderzoeksmethode (er is nu volstaan met
+Aanpak
+aangeven dat binnen RIVM expertise bij elkaar wordt gebracht, eventueel berekeningen
+worden uitgevoerd en eventueel experts van buiten RIVM worden geraadpleegd).
+-      Wij brengen de expertise binnen het RIVM bij elkaar om in korte tijd alle inzichten bij
+elkaar te brengen. Alle kennis over zowel AERIUS als de gebruikte modellen is
+beschikbaar binnen het RIVM;
+      Waar nodig en mogelijk doen we een aantal extra berekeningen (extra? zijn er al
+-
+berekeningen uitgevoerd?) om de consequenties voor stikstofdepositie van keuzes in
+Welke consequenties? Bijdragen buiten afstandsgrens? Of boven
+beeld te brengen. 
+drempel? Hoe wordt hieraan invulling gegeven? Door middel van cases? Hoe worden
+consequenties bepaald? Voor welke jaren? Wordt ook gekeken naar trend en de
+mate waarin generieke maatregelen leiden tot emissiedaling bij desbetreffende bron
+?
+      Eventueel laten we nog experts van kennisinstituten naast het RIVM meelezen. Wie?
+-
+Welke bureaus/instituten?
+ 
+De opties
+1)       Een specifieke afkapgrens voor alle emissiebronnen, die kan verschillen
+afhankelijk van het type emissiebron
+2)       Een 5 kilometer afkapgrens voor alle emissiebronnen
+3)       Geen afkapgrens voor alle emissiebronnen (afgezien van de rekenkundige grens
+van 0,005 mol /ha/jr)
+In de uitvraag is deze 1 mol
+4)       Een afkapgrens op depositie van 1 mol/ha/jr 
+expliciet weggelaten. Er zijn meer grenzen te bedenken.
+In uitvraag is ruimte opgenomen voor meer opties. Onderzoekt RIVM die? Er kan ook
+worden gedacht aan combinaties van opties: afkapgrens op basis van deposities in
+combinatie met afstandsgrens, of 5 km voor wegverkeer en geen afstandsgrens voor
+andere bronnen.
+ 
+Ik hoor graag of jullie hier nog vragen of opmerkingen bij hebben… Ik zou graag
+maandag een definitief akkoord hebben, zodat 16 oktober haalbaar blijft.
+ 
+Met vriendelijke groet,
+ 
+10.2.e
+ 
+ 
+10.2.e
+10.2.e
+RIVM, MIL/SPA, Bilthoven
++31-6-10.2.e
+@rivm.nl
+10.2.e
+ 
+
+Met vriendelijke groet,
+ 
+10.2.e
+ 
+10.2.e
+10.2.e
+RIVM, MIL/SPA, Bilthoven
++31-6-10.2.e
+@rivm.nl
+10.2.e
+ 
+Van: 10.2.e - DGB 10.2.e @minienw.nl> 
+Verzonden: vrijdag 18 september 2020 10:32
+Aan: 10.2.e @minlnv.nl>; 10.2.e
+@minlnv.nl>; 10.2.e @nvwa.nl>; Doosje, mr. G.A.J.
+(Arjen) 10.2.e @minlnv.nl>; 10.2.e @rivm.nl>; 10.2.e -
+DGMo 10.2.e @minienw.nl>; 10.2.e @minlnv.nl>
+CC: 10.2.e @minlnv.nl>; 10.2.e @rivm.nl>;
+10.2.e @bij12.nl' 10.2.e @bij12.nl>; Stikstof LNV <Stikstof@minlnv.nl>; 10.2.e
+@minlnv.nl>
+Onderwerp: RE: concept opdracht RIVM verkenning afstandsgrens-projectspecifieke depositie
+berekeningen
+ 
+Ha 10.2.e
+ 
+Dank voor het stuk waarin mij goed kan vinden. Ik heb wel een vraag over de planning. Er is
+aangegeven dat het resultaat 16 oktober wordt verwacht. Betekent dit dat uiterlijk 16 oktober
+een conceptresultaat van RIVM wordt verwacht wat vervolgens in de klankbordgroep wordt
+besproken, of is het idee dat op 16 oktober een afgestemd stuk ligt (en dus al eerder een
+conceptversie moet zijn opgeleverd en besproken).
+De precieze (en realistische) planning voor oplevering van tussenproducten en eindproduct
+komt ook terug in het plan van aanpak van RIVM, neem ik aan. Wanneer verwacht je het plan
+van aanpak en wellicht goed om vast een overlegmoment voor de klankbordgroep te plannen
+(gezien de vollopende agenda’s)?
+ 
+In reactie op jouw toevoeging 10.2.e 11.1
+.
+ 
+Met vriendelijke groet,
+10.2.e
+0610.2.e
+ 
+ 
+Van: 10.2.e @minlnv.nl> 
+Verzonden: vrijdag 18 september 2020 06:58
+Aan: 10.2.e @minlnv.nl>; 10.2.e
+@nvwa.nl>; Doosje, mr. G.A.J. (Arjen) 10.2.e @minlnv.nl>; 10.2.e
+@rivm.nl>; 10.2.e - DGMo 10.2.e @minienw.nl>;
+10.2.e minlnv.nl>
+CC: 10.2.e - DGB 10.2.e @minienw.nl>; 10.2.e @minlnv.nl>;
+10.2.e @rivm.nl>; 10.2.e @bij12.nl' 10.2.e @bij12.nl>; Stikstof
+LNV G @minlnv.nl>; 10.2.e @minlnv.nl>
+Onderwerp: RE: concept opdracht RIVM verkenning afstandsgrens-projectspecifieke depositie
+berekeningen
+
+Beste, zie bijgaand de aangepaste opdracht aan het RIVM.
+We hebben getracht zo objectief en zuiver mogelijk de opdracht te formuleren.
+Als zodanig gaat deze naar RIVM.
+Ik stel voor in de eerste klankbordgroep meeting de opdracht en het spoedig op te leveren PvA
+van RIVM te bespreken.
+Graag verneem ik wie van jullie daar deel van zal uit maken.
+Mvg
+ 
+10.2.e
+10.2.e
+..........................................
+Programma Directoraat Generaal Stikstof
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+Bezuidenhoutseweg 73 | 2594 AC | Den Haag |
+Postbus 20401 | 2500 EK | Den Haag
+..........................................
+M 06 10.2.e
+10.2.e @minlnv.nl
+10.2.e @nvwa.nl
+www.aanpakstikstof.nl
+ 
+ 
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. If you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for damage of any kind resulting from the
+risks inherent in the electronic transmission of messages.
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is
+toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen
+aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van
+berichten.
+This message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you
+by mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind
+resulting from the risks inherent in the electronic transmission of messages.
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht
+abusievelijk aan u is verzonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. Het
+RIVM aanvaardt geen aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's
+verbonden aan het elektronisch verzenden van berichten.
+www.rivm.nl De zorg voor morgen begint vandaag
+This message may contain information that is not intended for you. If you are not the addressee or if this message
+was sent to you by mistake, you are requested to inform the sender and delete the message. RIVM accepts no
+liability for damage of any kind resulting from the risks inherent in the electronic transmission of messages.
+www.rivm.nl/en Committed to health and sustainability
+ 
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht
+
+146a
+Concept 1 okt 2020 
+Verslag stuurgroep stikstof 31 augustus 2020 
+Aanwezig 
+Louis Schouwstra,10.2.e 
+1. Haagse actualiteiten
+buiten reikwijdte verzoek
+• Wetsvoorstel vrijstelling bouw. 'Wet stikstof en natuurverbetering'. 
+ Nog niet duidelijk in
+hoeverre infraprojecten hiervan kunnen gaan profiteren. Nog discussie met mn LNV/ BZK.
+Nog geen duidelijkheid over het budget (dat nodig is om stikstofarmer te gaan bouwen; dat
+kost veel geld).
+• Kabinetsappreciatie Hordijk/ Remkes moet 9 okt komen. Bij Hordijk is men benieuwd naar
+uitspraak RvS op ViA15. Wel is duidelijk dat wij geen reden zien om te stoppen met het
+gebruik van Aerius. Dit is en blijft het best beschikbare gereedschap. Remkes: Scheiding
+depositie door ammoniak en stikstofoxide. Verwachte reacties is dat we voor de effecten van
+onze projecten geen onderscheid hoeven te maken, maw dat we wel degelijk
+stikstofproducerende activiteiten kunnen aankopen om ruimte te maken voor de (meestal
+geringe) effecten van extra verkeer door onze projecten.
+• Aanlegeffecten. Waarom zijn we die met Aerius gaan uitrekenen bij de Ring Utrecht?
+Antwoord: ondanks het feit dat we verwachten dat deze wegvallen tov de effecten in de
+gebruiksfase willen we dat onderbouwen met voorbeelden en uit de praktijk meer gevoel
+krijgen. Nog te bespreken met DGMo of dit altijd moet, of alleen zoveel gevallen als nodig is
+om voldoende onderbouwing te krijgen. De commissie MER heeft overigens ook gevraagd
+naar de effecten in de aanlegfase.
+• Onderzoek N2000-gebieden: aanwijzingsproces is juist geweest, dus we kunnen er geen
+schrappen.
+Twentekanalen: informerende nota aan M (ligt die er al?). Wilhelminakanaal. Nota naar
+•
+college Tilburg gegaan voor DG RWS?buiten reikwijdte verzoek
+.
+Werkgroep Kennis
+• Aanlegeffecten. Deze week overleg met DGMo. Twee sporen: 1. projecten helpen /
+buiten reikwijdte verzoek 10.2.e
+werkwijze ontwikkelen.  Na een project of 5 meer beeld. 
+ maakt notitie. 2.  Besluitvorming of we aanlegfase gaan meenemen in OTB's en TB's.
+Scenario's: wel op de plank; niet in (O)TB; bij enkele projecten wel in (O)TB en dan kijken;
+voor alle projecten doen. Hoe ziet het proces eruit?
+• Vooralsnog is advies: buiten reikwijdte verzoek .
+10.2.e
+ en  en  worden uitgenodigd voor gesprek met DGMo. Notitie
+10.2.e 10.2.e
+10.2.e
+moet via stuurgroep en wellicht via Michèle.  en 10.2.e kijken wie (mee)schrijft.
+10.2.e
+buiten reikwijdte verzoek
+• Communicatie.  is nog niet vervangen. (?).  moet
+10.2.e
+de capaciteit gaan leveren. Nu voor financiën verzilveren. Donderdag DG-HID-gesprek
+hierover. 10.2.e levert informatie aan bij RWS MN.
+• Nieuwe afspraak voorzitters werkgroepen Kennis - Productie. Tom initieert afspraak.
+Werkgroep Productie
+10.2.e
+• trekt secretaris aan voor 0,4 FTE.
+A.s. donderdag heisessie.
+•
+• Casus Twentekanalen hoort eerst in een werkgroep en gaat naar Productie. Daar beoordeelt
+men hoe verder. Indien nodig wordt Kennis ook ingeschakeld.
+Pagina 1 van 4 
+
+Concept 1 okt 2020 
+ 
+Actielijst  
+ 
+Nr Actie Wie Wanneer Status 
+86. Prioritering V&R-projecten (voor inzet    
+specialistisch advies)    
+10.2.e
+• Lijst maken en actueel houden  (met Wanneer? Nog open 
+met projecten waar we het  
+10.2.e
+stikstofprobleem niet (geheel)  
+kunnen oplossen. Afstemmen 
+met BS. 
+88. Rapportage uitvoerbaarheidstoets    
+10.2.e
+• Bestuurlijke oplegger opstellen  Loopt nog 
+• Voorleggen aan stuurgroep (tbv    
+strekking boodschap; niet de  
+details in)  
+• Special in stuurgroep? Doen? 
+ 
+90. Rol stuurgroep bij besluiten die snel    
+nodig zijn 10.2.e /   
+• Wat leggen we voor?  15/5/20 Nog open 
+10.2.e
+Schriftelijke rondes of niet? Bv 
+beoordeling stikstofeffecten > 5 
+km in aanlegfase). 
+91. Advies Remkes 8 juni    
+10.2.e
+• Duiding maken  Kabinetsreactie 
+• Berichtgeving RWS-breed 10.2.e / is vertraagd (9 
+ 10.2.e okt.). 
+94. Vervolg notitie ‘losse eindjes’ B&O /  Af te stemmen 
+10.2.e
+10.2.e 10.2.e
+• Notitie opstellen ?  -  
+10.2.e
+• Afstemmen met DGMo en HBJZ 
+• Praktische zaken (verspreiden 
+boodschap, evt instructies, …) 
+via werkgroep Productie 
+96. Register administratie stikstof   Wordt 
+• Opzet rondsturen 10.2.e gekoppeld aan 
+Checkmogelijke overlap in uitvraag  uitvraag 
+projecten nav actualisatie  projecten. 
+projectgegevens (door 10.2.e )  
+Afstemmen behoefte GGA met wg 10.2.e 
+Kennis (10.2.e ) 
+98. Interpretatie juridisch kader passende    
+beoordeling  
+• Keuze om lijn ‘ruimte zoeken’  
+te volgen Wie? 
+• Deze lijn bespreken met bureau 
+van project A6 Lelystad 
+• Aangescherpte lijn verwerken 
+in instructie stikstof 
+100. Nieuwe bijeenkomst stuurgroep (‘live’) 10.2.e Okt. Niet meer ‘live’ 
+ vanwege 
+Corona. 
+Digitaal? 
+101. Tweewekelijkse update M   Gereed. 
+• Opzet werkwijze / 4/9 
+10.2.e
+10.2.e
+   
+10.2.e
+10.2.e
+• In gang zetten productie /  11/9 
+Pagina 3 van 4 
+ 
+
+148ca
+Technisch/inhoudelijke reactie op Zienswijzen SSRS. 
+Bij12 – 25 september 2020 
+1.  
+Aanleiding / casuistiek:  
+Zienswijze BSV Bergen.pdf -  
+10.2.g
+ 
+Door woningbouw geraakte hexagonen bevind zich op meer dan 5km van dichtsbijzijnde 
+snelweg (A9) : "Uitgaande van het RIVM-rekensysteem Aerius telt de stikstofdepositie 
+buiten de 5 kilometer niet mee. Echter de voorgenoemde natuurgebieden liggen op meer dan 
+5 kilometer afstand van de A9. Volgens het RIVM-rekensysteem Aerius komt er daardoor 
+van de A9 geen stikstofdepositie in de voorgenoemde natuurgebieden terecht (= waarde 0). 
+Er kan om die reden geen saldering plaatsvinden met de voorgenoemde bouw van de meer 
+dan 150 woningen in de gemeente Bergen als voorgenoemd omdat de stikstofdepositie van de 
+woningbouw kleiner of gelijk moet zijn aan de daling van de stikstofdepositie als gevolg van 
+de snelheidsverlaging op de A9 = waarde 0, want de stikstofdepositie van de A9 in de 
+voorgenoemde natuurgebieden is volgens het RIVM-rekensysteem Aerius 0 omdat de 
+natuurgebieden zich op een afstand van in ieder geval meer dan 5 km bevindt vanaf de A9." 
+Bezwaar (generiek) 
+Het positieve saldo van snelheidsverlaging mag je op een afstand van meer dan 5km van de 
+snelweg niet gebruiken voor saldering met woningbouw of andere projecten, zoals in het 
+SSRS wel gebeurd. 
+Technische-inhoudelijke reactie 
+Zie ook Kamervraag 1 in de link.  
+De implementatie van SRM2 in AERIUS Calculator hanteert een maximale rekenafstand van 
+5 kilometer tot de weg. De overweging hierbij is dat berekende projectspecifieke bijdragn 
+van wegverkeer op enkele kilometers van de weg niet meer betekenisvol zijn te herleiden tot 
+een individueel project.   
+Voor het vaststellen van de bijdrage van wegverkeer aan de totale landelijke deposities wordt 
+wel landsdekkend gerekend. Dat is mogelijk, omdat de bijdragen dan niet herleidbaar hoeven 
+te zijn tot een specifiek project. De bijdrage van wegverkeer aan de totale landelijke 
+deposities wordt berekend met het verspreidingsmodel OPS. Het OPS-model kent geen 
+begrenzing in de afstand tot de bron waar een depositiebijdrage wordt berekend.  
+Voor het bepalen van het effect van de landelijke maatregel van snelheidsverlaging, wordt op 
+dezelfde wijze gerekend als bij het bepalen van de landelijke achtergronddeposities. Er wordt 
+ook buiten de 5km-buffer van snelwegen een bijdrage bepaald. Dit gebeurt met het OPS-
+model.  Dit levert een positief saldo op, dat met 30% is afgeroomd alvorens ter beschikking 
+te worden gesteld aan woningbouwprojecten.  
+https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2020/06/0
+8/beantwoording-kamervragen-over-de-brief-voortgang-stikstofproblematiek-structurele-
+aanpak/beantwoording-kamervragen-over-de-brief-voortgang-stikstofproblematiek-
+structurele-aanpak.pdf 
+
+3.  
+Aanleiding / casuistiek:  
+Zienswijze BSV Bergen.pdf - 10.2.g 
+ 
+"Daarbij wordt geanticipeerd op een afname van de stikstofuitstoot in de natuurgebieden de 
+Schoorlse Duinen en het Noordhollands Duinreservaat als gevolg van de snelheidsverlaging 
+op termijn. De verlaging van de stikstofdepositie als gevolg van de snelheidsverlaging op de 
+A9 is om die reden onzeker. Ik verwijs u hiervoor naar de uitspraken van de Raad van State 
+van 29 mei 20192 waarin is geoordeeld dat geen toestemming gegeven mag worden voor 
+extra stikstofemissie anticiperend op een nog niet gerealiseerde stikstofafname."    
+ 
+Bezwaar (generiek) 
+De maatregel is nog niet volledig gerealiseerd, maar de ruimte wordt al wel vergund. 
+ 
+Technische-inhoudelijke reactie 
+De vergelijking met de eerdere uitspraak uit de PAS gaat  niet op, omdat er toen 
+geanticipeerd op autonome daling van maatregelen waarvoor nog geen dekking was en de 
+uitvoering onzeker was.  De snelheidsmaatregel is al in  uitvoering voordat de effecten van de 
+aanlegfase van projecten plaatshebben.  
+ 
+  
+
+5. 
+Aanleiding / casuïstiek:  
+Zienswijze SSRS zaak 310270 - 10.2.e   
+Wat is de depositieruimte die door de snelheidsverlaging voor deze 2 gebieden wordt 
+gecreëerd?  Waar kan ik die cijfers vinden?   
+ 
+Bezwaar (generiek) 
+Waar is de informatie te vinden over de initiële en actuele depositieruimte in het SSRS? 
+ 
+Technische-inhoudelijke reactie 
+Via het Georegister wordt de data ontsloten: “Deze webservice bevat de initiële 
+depositieruimte per hexagoon als gevolg van het effect van de verlaging van de 
+maximumsnelheid op de autosnelwegen tussen 06:00 en 19:00 uur van 130 naar 100 km per 
+uur en de actuele nog beschikbare depositieruimte per hexagoon. De dataset wordt dagelijks 
+geactualiseerd op basis van reeds in AERIUS Register verwerkte vergunningaanvragen. ” 
+ 
+PM De webservice werkt niet. Downloadinformatie bevat alleen de initiële ruimte.  
+ 
+https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/be66c
+c2d-2ff0-4b80-aa6d-beedb06636d7 
+ 
+
+buiten reikwijdte verzoek
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+buiten reikwijdte verzoek
+
+11.1
+
+
+
+
+
+11.1
+
+
+
+geluidonderzoek), die in doorlooptijd variëren tussen de drie en zes
+maanden.
+4 .Projecten, en daarmee de toestemmingsverlening, kunnen nóg langer stil
+komen te liggen indien de nieuwe berekeningen leiden tot het moeten
+nemen van aanvullende maatregelen, wat zeer aannemelijk is omdat het
+aantal geraakte bieden zal toenemen.
+Vraag: “Wat betekent: De compensatieopgave per habitattype is minimaal, maar
+dient behoorlijk opgeplust te worden om te voldoen aan het ecologisch vereiste
+minimum om het te doen kwalificeren?”
+Antwoord:
+Op meer dan 5 km gaat het om zeer minieme bijdragen. Indien er onverhoopt een
+compensatieopgave gaat gelden voor deze minieme bijdragen, geldt dat deze
+compensatie erg groot zal worden doordat de gecompenseerde natuur een
+minimum oppervlak zal moeten kennen voordat het ecologisch kwalificeert. Daarbij
+komt, doordat het aantal habitats dat geraakt wordt zal toenemen, ook het aantal
+habitats dat gecompenseerd zal moeten worden toeneemt. Verhoudingsgewijs leidt
+een aanpak waarin projecten verantwoordelijk worden gehouden voor minieme
+bijdragen ver van de bron, tot een enorme compensatieopgave die nog bovenop de
+reeds geldende opgave voor natuuruitbreiding komt. 
+Interne noot: de omgekeerde redenering zal zijn dat landbouw hier nu
+wel voor gesteld staat, dus waarom andere projecten/bronnen niet? Wat
+precies de reden is dat IenW voorstaat dat er ook voor andere bronnen
+beter gekeken moet gaan worden naar haalbare en verdedigbare
+afstandsgrenzen.
+Vraag: Voor bestemmingsplannen kan hierdoor ineens de plan-m.e.r.-plicht
+ontstaan: als er kleine depositiebijdragen worden berekend in Natura 2000-
+gebieden, is de kans groot dat er een passende beoordeling moet worden gemaakt
+en ontstaat er daardoor ineens een m.e.r.-plicht. “Wat is hiervoor maatgevend?,
+Waarom een m.e.r. plicht?”  
+Antwoord:
+Artikel 7.2a van de Wet milieubeheer bepaalt dat een plan-mer noodzakelijk is,
+wanneer een passende beoordeling wordt gemaakt voor hetzelfde plan. Met andere
+
+10.2.g, 11.1
+.”
+10.2.e
+10.2.e
+
+2 van 2 
+Aanbiedingsformulier voor MCSP 
+Gevolgen en juridisch kader 
+Gevolgen rijksbegroting * 	❑ Ja 	El Nee 
+Gevolgen apparaatsuitgaven * 	❑ Ja 	E Nee 
+Gevolgen voor regeldruk * 	❑  Ja 	E Nee 
+Overeenstemming met JenV 	❑ 
+ Ja 	❑  Nee, met bijlage 	❑  Nee, zonder bijlage E N.v.t. 
+inzake wetgevingstoets en 
+effectenanalyse * 
+Overeenstemming met JenV 	❑ 
+ Ja 	❑  Nee, met bijlage 	❑  Nee, zonder bijlage 	E N.v.t. 
+inzake fouten- en 
+misbruiksignalering * 
+Aan EU Notificatie voldaan * 	
+❑ Ja 	❑  Nee 	E N.v.t. 
+E Nee 
+	❑ 
+Verplichting int. verdragen en/of  Ja 	
+Europese regelgeving * 
+Interdepartementale afstemming 
+Overeenstemming BZK inzake 
+❑ Ja 	❑  Nee 	E N.v.t. 
+beoordelingskader financiële/ 
+bestuurlijke consequenties 
+decentrale overheden en/of Caribisch 
+Nederland * 
+Overeenstemming Aruba, Curaçao en 3  a 
+❑ 	❑ Nee 	E N.v.t. 
+Sint Maarten * 
+in 1DG-overleg Stikstof 
+Ambtelijk afgestemd * 	
+E Ja 	❑  Nee 	❑  N.v.t. 	
+Overeenstemming bereikt op 	
+®Ja 	❑  Nee 	❑  N.v.t. 
+ambtelijk niveau * 
+Overeenstemming bereikt met 
+❑ AZ 	E BZK ❑  EZK 	E I&W ❑  SZW ❑  VWS 	LNV 
+ OCW 	❑  JenV ❑ 
+❑ BZ 	❑  Def 	❑  Fin 	❑  BH&OS 
+Omschrijving geschilpunten 
+Contactpersonen 
+Contactpersoon 1 	 Contactpersoon 2 
+Naam * 	 I11.1 	 I11.1 
+Afdeling * 	 I LNV/programma DG Stikstof 	 LNV/programma DG Stikstof 
+Telefoonnummer * 	 11.1 	 11.1 
+E-mailadres 	* 11.1 @nywa.n1 	 11.1 minInv.n1 
+Formulier nummer 20191220-01 
+
+Programma DG Stikstof 
+Ons kenmerk 
+Het Adviescollege heeft het AERIUS-model en het Nederlands Emissiemodel voor 
+DGS / 20242646 
+Ammoniak (NEMA) beoordeeld en in het eindadvies voorstellen voor 
+verbetermogelijkheden gedaan. Zoals aangegeven in mijn brief van 15 juni 2020 
+(Kamerstuk, 35 334, nr. 88) bevestigt het adviescollege in dit eindadvies zijn 
+bevindingen uit het eerste advies: op nationale schaal is de wetenschappelijke 
+basis voor de wetenschappelijke onderbouwing voor het meten en berekenen van 
+de concentratie en depositie van stikstofverbindingen op orde. De (beleids)vragen 
+over bronbijdragen, depositieniveaus op Natura 2000- gebieden en herkomst van 
+de depositie kunnen met het huidige meet- en rekensysteem voldoende 
+nauwkeurig worden vastgesteld. Het huidige systeem, inclusief het gebruik van 
+AERIUS Calculator in de huidige vorm, blijft daarom de belangrijkste basis voor 
+vergunningverlening, waarbij het systeem blijvend wordt doorontwikkeld, zodat 
+bevoegde gezagen met vertrouwen beleid en toestemmingsverlening hierop 
+kunnen blijven baseren. Het Adviescollege doet daartoe aanbevelingen gericht op 
+het verbeteren van het meet-, model- en rekeninstrumentarium, uitbreiding van 
+het meetnet en instelling van een kennisprogramma stikstof mede gericht op het 
+mogelijk gebruik van een modelensemble en satellietmetingen. Het kabinet neemt 
+deze aanbevelingen ter harte en zet stappen om de huidige systematiek en 
+bijbehorend instrumentarium verder te verstevigen in lijn met gedane 
+aanbevelingen. In deze brief licht ik deze stappen nader toe. 
+Het Adviescollege beoordeelt het instrumentarium op lokaal niveau (AERIUS 
+Calculator) als niet doelgeschikt voor toestemmingsverlening vanwege een tweetal 
+punten: 1) de geconstateerde onbalans in beleidsmatig gewenst detailniveau en 
+wetenschappelijke onzekerheid, 2) het gebruik van verschillende rekenmodellen 
+(SRM-2, OPS) bij de vergunningverlening voor verschillende type emissiebronnen. 
+Het Adviescollege doet ten aanzien van deze twee punten aanbevelingen voor 
+doorontwikkeling van het instrumentarium, zoals het verbeteren van de 
+robuustheid van AERIUS Calculator door de aggregatie naar habitattype en het 
+gebruik van een bron-receptormatrix waarbij een vereenvoudigde relatie tussen 
+bron en receptor in de vorm van een (statische) tabel wordt gehanteerd. 
+Voor het vervolg is een brede afweging van deze aanbevelingen van belang, 
+waarbij ook de juridische, ecologische en beleidsmatige aspecten mee gewogen 
+worden. Het kabinet zal daarom in de komende periode de aanbevelingen van het 
+Adviescollege nader onderzoeken binnen deze bredere context. Daarnaast neemt 
+het kabinet de aanbevelingen van het Adviescollege nadrukkelijk mee als 
+onderdeel van de uitwerking van de structurele aanpak stikstof en in samenhang 
+met de uitwerking van de aanbevelingen uit het eindrapport 'Niet alles kan overal' 
+van het Adviescollege Stikstofproblematiek. 
+Het meet- en modelinstrumentarium op nationale schaal 
+Kennisprogramma stikstof 
+Het Adviescollege adviseert dat een samenhangend Kennisprogramma stikstof 
+wordt opgezet. Dit advies heb ik overgenomen, zoals ik in mijn brief van 15 juni 
+2020 al had aangeven. Doel van dit Kennisprogramma is om transparante en 
+wetenschappelijke onderbouwing te bieden voor het huidige en toekomstige beleid 
+voor stikstof in Nederland met het oog op de lange termijn. Vanuit mijn ministerie 
+zal via dit programma worden ingezet op een intensivering van de samenwerking 
+met kennisinstellingen in binnen- en buitenland, waarbij een verdiepte 
+Pagina 2 van 7 
+
+Programma DG Stikstof 
+Ons kenmerk 
+wordt het aantal praktijkmetingen van emissiearme stallen geïntensiveerd om zo 
+DGS / 20242646 
+de emissiefactoren te kunnen herleiden. 
+Naar aanleiding van mijn toezegging om de voor- en nadelen van een eventuele 
+verplaatsing van het meetpunt Vredepeel in kaart te brengen kan ik u melden 
+dat, zoals aangegeven in mijn brief van 14 januari 2019 (Kamerstuk 32 670, nr. 
+143), het meetpunt Vredepeel vanwege zijn ligging niet gebruikt wordt in de 
+kalibratie van de depositieberekeningen, maar louter betrokken bij het bepalen 
+van de trend in concentraties van ammoniak in de lucht. Een verplaatsing zou een 
+trendbreuk van de metingen tot gevolg hebben en daarom ziet het RIVM 
+inhoudelijk geen reden om het meetpunt te verplaatsen. Daarnaast heeft het 
+RIVM aangegeven dat een eventuele verplaatsing hoge kosten met zich mee zou 
+brengen. Op basis hiervan kom ik tot de conclusie dat verplaatsing van het 
+meetpunt Vredepeel op korte termijn niet haalbaar is. Ik heb het RIVM gevraagd 
+om in haar meetstrategie voor de toekomst, ook dit meetpunt te beschouwen ten 
+opzichte van de andere meetstations en een eventuele uitbreiding te 
+onderzoeken. 
+Het gebruik van AERIUS Calculator voor toestemmingsverlening 
+AERIUS Calculator wordt gebruikt voor het doorrekenen van projecten op hun 
+effecten op stikstofdepositie. Dit is de beste en wetenschappelijk onderbouwde 
+methode die de basis blijft voor de vergunningverlening door bevoegde gezagen. 
+Het AERIUS instrumentarium wordt continu doorontwikkeld en geactualiseerd op 
+basis van de meest recente wetenschappelijke inzichten. De aanbevelingen van 
+het Adviescollege ondersteunen deze doorlopende ontwikkeling. Voor het 
+onderdeel AERIUS Calculator is het van belang dit te doen in de bredere context 
+van wat beleidsmatig wenselijk is, juridisch mogelijk is en ecologisch gezien 
+noodzakelijk is, rekening houdend met het voorzorgsprincipe. De uit te werken 
+aanbevelingen van het Adviescollege zie ik dan ook als steun in de rug om AERIUS 
+Calculator steeds het best ontwikkelde ondersteuningsinstrument te laten zijn 
+voor vergunningverlening. 
+Gewenst detailniveau van berekeningen AERIUS Calculator 
+Het Adviescollege constateert dat de wetenschappelijke onzekerheid in 
+berekeningen hoger is dan, zoals het Adviescollege uitdrukt, de 
+'beoordelingsdrempel' (hierna te noemen 'grenswaarde' of 'grenswaarde(n) bij de 
+vergunningsverlening'). Het Adviescollege stelt: "Het voorzorgsprincipe vraagt 
+vooralsnog om een strikte grenswaarde bij vergunningverlening. Een amipitieus 
+bronbeleid met vastgelegde nationale doelstellingen heeft als voordeel dat de 
+grenswaarden bij de vergunningverlening verhoogd zouden kunnen worden zodat 
+de onzekerheden in de berekeningen voor de vergunningen minder kritisch 
+worden en schijnzekerheid minder prominent wordt." Op voorwaarde dat de 
+overschrijding van de KDW in een Natura 2000-gebied substantieel vermindert 
+door vaststaand beleid, geeft het Adviescollege aan dat de grens van 0,005 
+mol/ha/jaar verruimd kan worden voor vergunningverlening. Feitelijk beschouwt 
+het Adviescollege de (huidige) rekenkundige grens van 0,005 mol/ha/jr als een 
+grenswaarde, die op termijn verhoogd zou kunnen worden. Het kabinet heeft 
+hiervoor al een belangrijke stap gezet met de structurele aanpak en het 
+ambitieuze bronbeleid. Het advies over verhoging van een beoordelingsgrens en 
+de voorwaarden waaronder dit zou kunnen, biedt meer ruimte voor 
+vergunningverlening. 
+Pagina 4 van 7 
+
+Programma DG Stikstof 
+Ons kenmerk 
+jaarlijkse monitoring van de totale stikstofdepositie worden alle emissiebronnen, 
+DGS / 20242646 
+dus ook wegverkeer (inclusief autonome ontwikkelingen en extra verkeer als 
+gevolg van projecten als woningbouw, landbouw en industrie), landsdekkend 
+doorgerekend met OPS. Dat is mogelijk, omdat de bijdragen bij landsdekkende 
+doorrekeningen niet herleidbaar hoeven te zijn tot een specifiek project of 
+wegtraject. Tegenover deze diffuse deken van bijdragen van wegverkeer staan 
+generieke bronmaatregelen die in de achterliggende decennia hebben gezorgd 
+voor een sterke afname van de stikstofemissies door wegverkeer. En ook tussen 
+2018 en 2030 voorziet PBL een daling van de totale NOx emissies door 
+wegverkeer met ruim 50%. 
+Het kabinet acht een gelijkwaardige behandeling van verschillende typen 
+emissiebronnen gewenst en onderzoekt daarom in samenwerking met het RIVM of 
+aan de hand van eenduidige criteria een wetenschappelijk onderbouwde 
+afstandsgrens dan wel depositiewaarde voor verschillende emissiebronnen vast te 
+stellen is en welke implicaties dit met zich meebrengt. Het kabinet acht dit 
+onderzoek van belang in het licht van de structurele aanpak stikstof gericht op 
+natuurherstel en stikstofreductie binnen de gestelde ecologische en juridische 
+kaders die daarvoor gelden. 
+Verbetering robuustheid AERIUS 
+Om de robuustheid van AERIUS Calculator te kunnen vergroten, doet het 
+Adviescollege de volgende voorstellen. Ten eerste adviseert het Adviescollege 
+aggregatie naar habitattype om de mate van detail in de evaluatie van depositie 
+op natuurgebieden te verlagen. Het Adviescollege geeft aan dat de robuustheid 
+kan worden vergroot door een gemiddelde te nemen van de verschillende 
+rekenresultaten binnen een cluster van hexagonen met hetzelfde habitattype. 
+Daarbij moet volgens het Adviescollege in de toepassing van de aggregatie een 
+afstandscriterium worden gehanteerd voor de grotere Natura 2000-gebieden, 
+omdat daar de stikstofdepositie grotere ruimtelijke variatie kent. Daar staat 
+tegenover dat een gemiddelde depositie in een groot gebied per definitie de 
+verschillen in depositie op de relevante locaties in dat gebied verhult. Inzicht in 
+die verschillen is belang, met name omdat de depositie afhangt van zowel de 
+afstand tot de bron als van de 'ruwheid' van het landschap (bij eenzelfde 
+concentratie in de lucht deponeert meer stikstof in een bosrijke omgeving dan in 
+een landschap met alleen lage begroeiing). Op basis van het voorzorgsprincipe en 
+jurisprudentie volgt dat in de vergunningverlening het effect van de depositie op 
+elke locatie moet worden beoordeeld. In hoeverre clustering van hexagonen 
+hierbij nuttig is en wat hiervan de juridische en uitvoeringstechnische 
+consequenties zijn, wordt vanuit ecologisch opzicht onderzocht. 
+Daarnaast beveelt het Adviescollege aan om de verspreidingsberekeningen in 
+AERIUS in het vervolg uit te voeren met behulp van bron-receptormatrices 
+(BRM's). Ik acht het niet wenselijk om de huidige werkwijze op dit punt aan te 
+passen, omdat OPS (binnen AERIUS Calculator) elke bron-receptorrelatie 
+afzonderlijk uitrekent, waarbij zo goed mogelijk rekening wordt gehouden met 
+specifieke omstandigheden. Het opvolgen van dit advies zou leiden tot grotere 
+wetenschappelijke onzekerheden in plaats van de door het Adviescollege 
+aanbevolen verkleining daarvan. Er wordt dan met specifieke omstandigheden 
+geen rekening meer gehouden. Een vergelijkbare aanpak als door het 
+Pagina 6 van 7 
+
