@@ -27,17 +27,6 @@ $global:Logging = [PSCustomObject]::new()
 
 
 
-    Add-LoggingMethod 'Info_BatchProcessInvoked' -Method {
-
-        param([int] $BatchNr, [int] $BatchedItems)
-
-        $S = $PSStyle.Foreground.BrightBlue + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
-        $R = $PSStyle.Reset
-
-        Write-Information $($S + " ! Batch process invoked: $F [BatchNr: $BatchNr; BatchedItems: $BatchedItems]..." + $R)
-    }
-
     Add-LoggingMethod 'Info_StartedJoiningRawTexts' -Method {
 
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
@@ -79,45 +68,6 @@ $global:Logging = [PSCustomObject]::new()
         Write-Warning $($S + " ! Failed Joining raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
     }
 
-}
-#endregion
-
-#region -- Declare: Initialize-BatchProcess --
-function Initialize-BatchProcess ([int] $Size = 30, [scriptblock] $OnProcess) {
-
-    $Batch = [PSCustomObject] @{
-        Size      = $Size
-        OnProcess = $OnProcess
-
-        Number    = 0
-        Items     = [System.Collections.Generic.List[PSCustomObject]]::new($Size)
-    }
-
-    $Batch = $Batch | Add-Member -Name 'ForEachItem' -Value {
-
-        param([PSCustomObject] $Item)
-
-        $this.Items.Add($Item)
-
-        if ($this.Items.Count -ge $this.Size) {
-            $this.FlushItems()
-        }
-    }
-
-    $Batch = $Batch | Add-Member -Name 'FlushItems' -Value {
-
-        if ($this.Items.Count -ge 0) {
-
-            $this.Number++
-
-            $global:Logging.Info_BatchProcessInvoked($this.Number, $this.Items.Count)
-            $this.OnProcess.Invoke($this.Number, $this.Items)
-
-            $this.Items.Clear()
-        }
-    }
-
-    return $Batch
 }
 #endregion
 
