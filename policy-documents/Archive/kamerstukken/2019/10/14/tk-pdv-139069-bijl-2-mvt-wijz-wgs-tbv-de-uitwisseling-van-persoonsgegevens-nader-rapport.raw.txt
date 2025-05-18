@@ -1,0 +1,919 @@
+Wijziging van de Wet gemeentelijke schuldhulpverlening ten behoeve van de uitwisseling 
+van persoonsgegevens 
+ 
+MEMORIE VAN TOELICHTING 
+ 
+ALGEMEEN 
+ 
+1. Inleiding 
+ 
+Wat is de aanleiding? 
+1
+Voor schuldhulpverlening geldt sinds 1 juli 2012 de Wet gemeentelijke schuldhulpverlening (Wgs). 
+Deze wet regelt dat mensen met problematische schulden bij gemeenten terecht kunnen voor onder 
+meer advies, schuldbemiddeling of een saneringskrediet. Een deel van de gemeenten geeft zelf hulp, 
+andere schakelen instellingen in die zich bezighouden met schuldhulpverlening. Schulden zijn 
+problematisch als de som van de geëiste maandelijkse aflossingen op schulden en 
+betalingsachterstanden hoger is dan de aflossingscapaciteit. Gevolg is dat de persoon die het betreft 
+niet kan voortgaan met afbetalen of al opgehouden is met betalen. Voor schuldhulpverlening is veel 
+informatie nodig over de (financiële) situatie van de persoon met schulden. Een betere ontsluiting van 
+persoonsgegevens als middel om schuldhulpverlening effectiever te maken en daarmee bij te dragen 
+aan een behoorlijke levensstandaard, maar bijvoorbeeld ook gezondheid, staat daarom al langer in de 
+belangstelling. Tegelijkertijd roept deze gegevensuitwisseling vragen op over het mensenrecht van de 
+bescherming van privacy. In 2013 vroeg de Tweede Kamer in de Motie Schouten de regering met 
+betrokkenen bij schuldhulpverlening te overleggen over de privacyaspecten van initiatieven om 
+2
+informatie over schulden makkelijker beschikbaar te maken. De evaluatie van de Wgs in 2016 
+3
+bevestigt het belang van meer inzicht in gegevens. Begin 2018 is de Tweede Kamer geïnformeerd 
+4
+over welke gegevens in welke fase van het schuldhulpverleningsproces noodzakelijk zijn. Een andere 
+belangrijke ontwikkeling is de inwerkingtreding van nieuwe privacyregelgeving, de Algemene 
+5
+Verordening Gegevensbescherming (AVG) , die de Wet bescherming persoonsgegevens vervangt. De 
+AVG geeft een kader voor omgaan met persoonsgegevens waar de Wgs beter op afgestemd moet 
+worden. De Brede schuldenaanpak, die 22 mei 2018 aan de Tweede Kamer is aangeboden, wil 
+vroegsignalering van problematische schulden versterken en zet in op snellere en betere 
+schuldhulpverlening. Om dit te realiseren kondigt de Brede schuldenaanpak een wijziging van de Wgs 
+aan om gegevensuitwisseling voor schuldhulpverlening te faciliteren en tegelijkertijd naleving van de 
+6
+AVG te waarborgen. Gegevensuitwisseling tussen schuldhulpverleners en schuldeisers moet 
+bijvoorbeeld huisuitzettingen als gevolg van huurachterstanden voorkomen. Dit is onderdeel van het 
+7
+regeerakkoord en draagt bij aan de verwezenlijking van het belangrijke grondrecht bescherming van 
+8
+huis en familieleven. In moties van het lid Peters vraagt de Tweede Kamer aandacht voor verankering 
+van afspraken tussen gemeenten en woningcorporaties om huisuitzettingen door schulden te 
+9
+voorkomen. Uitwisselen van persoonsgegevens over mensen met huurachterstanden, zodat 
+schuldhulpverleners hulp kunnen aanbieden, is een belangrijk onderdeel van die afspraken. 
+Voorliggende wijziging van de Wgs is de uitwerking van de in de Brede schuldenaanpak 
+aangekondigde wetswijziging en voert mede de moties over dit onderwerp uit. Verder wordt van de 
+gelegenheid gebruik gemaakt een onduidelijkheid in de oorspronkelijke toelichting op de Wgs uit 2010 
+10
+recht te zetten over de toegang van zelfstandigen tot schuldhulpverlening. De verduidelijking van 
+ 
+1
+ Stb. 2012 nr. 78. 
+2
+ Kamerstukken II 2013/14, 24515 nr. 273. 
+3
+ Kamerstukken II 2015/16, 34509 nr. 1.  
+4
+ Kamerstukken II 2017/18, 24515 nr. 426. 
+5
+ Verordening (EU) 2016/679 betreffende de bescherming van natuurlijke personen in verband met de verwerking van 
+persoonsgegevens en betreffende het vrije verkeer van die gegevens. (PbEU 2016 L119). 
+6
+ Kamerstukken II2017/18, 24515 nr. 431. 
+7
+ Terugdringen van schulden en armoede, blz. 27, Regeerakkoord 2017-2021 ‘Vertrouwen in de toekomst’. 
+8
+ Artikel 8 van het Europees Verdrag voor de Rechten van de Mens. 
+9
+ Kamerstukken II 2017/18, 24515 nr. 443, Kamerstukken II 2017/18, 35000 XV nr. 53. 
+10
+ Kamerstukken II 2009/10, 32291 nr. 3. 
+
+ 
+1. intern verwijzen: Er is sprake van intern verwijzen als de gemeente binnen de eigen organisatie 
+geregeld heeft dat burgers die in beeld zijn bij de gemeente (meestal door gebruik van regelingen 
+en voorzieningen), in geval van gesignaleerde (dreigende) problematische schulden, worden 
+doorgeleid naar de schuldhulpverlening.  
+2. extern doorverwijzen: Er is sprake van extern doorverwijzen wanneer de gemeente afspraken 
+heeft met bedrijven en instellingen dat zij klanten waarvan zij vermoeden of weten dat er sprake 
+is van (dreigende) problematische schulden, verwijzen naar de gemeente. De klanten nemen zelf 
+contact op (eventueel met hulp van de verwijzer).  
+3. signaleren door derden: Er is sprake van signalering door derden als de gemeente afspraken 
+heeft met bedrijven en instellingen dat deze zelf signalen afgeven aan de gemeente wanneer zij 
+vermoeden of weten dat er sprake is van (dreigende) problematische schulden bij hun klanten. 
+Het kan gaan om feitelijke gegevens als betalingsachterstanden, maar ook om andere signalen. 
+De signalen worden afgegeven met of zonder medeweten van de klanten, maar niet door de 
+klanten zelf. 
+ 
+Omdat in de Wgs niet expliciet staat dat vroegsignalering van schulden een taak van gemeenten is, 
+ontstaat spanning met de AVG wanneer schuldhulpverleners persoonsgegevens willen gebruiken die 
+zij van schuldeisers ontvangen. Dat speelt bij methode 3: Signaleren door derden. Met deze 
+wetswijziging wordt beoogd de Wgs te verduidelijken, zodat een kader ontstaat over wat wel en niet 
+mag bij gegevensuitwisseling voor vroegsignalering van schulden. Vroegsignalering moet van 
+schuldpreventie worden onderscheiden. Bij schuldpreventie is geen uitwisseling van tot op het individu 
+herleidbare informatie nodig. Voorbeelden van schuldpreventie zijn financiële educatie, voorlichting 
+over de risico’s van lenen of de financiële gevolgen van life events, zoals meerderjarig worden of 
+scheiden. 
+ 
+Waarom overheidsinterventie en instrumentkeuze 
+De maatschappelijke inzet om vroegsignalering te versterken is groot, maar de juridische 
+belemmeringen voor gegevensuitwisseling bij vroegsignalering kunnen gemeenten en de betrokken 
+schuldeisers, zoals woningcorporaties en energiebedrijven, niet oplossen. De Wgs moet daarvoor beter 
+afgestemd worden op de privacyregelgeving (AVG). Daarom vragen zij aan de rijksoverheid de 
+regelgeving te verbeteren door de wettelijke taken van schuldhulpverlening duidelijker te omschrijven. 
+Hiermee ontstaat een wettelijke grondslag voor het verzamelen en verwerken van persoonsgegevens 
+die noodzakelijk is voor het uitvoeren van die taken. Met deze wetswijziging wordt expliciet in de wet 
+opgenomen dat het noodzakelijk is dat gemeenten persoonsgegevens uitwisselen voor 
+vroegsignalering. Meer concreet regelt de wetswijziging dat gemeenten op basis van signalen over 
+betalingsachterstanden die zij van schuldeisers ontvangen uit eigen beweging hulp aanbieden. 
+ 
+De wetswijziging creëert de mogelijkheid om bij of krachtens algemene maatregel van bestuur (AMvB) 
+signalen op te nemen die aanleiding zijn voor het college om uit eigen beweging schuldhulpverlening 
+aan te bieden. Het gaat om signalen:  
+1. waarmee redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met 
+het betalen van zijn schulden of dat hij in de toestand verkeert dat hij heeft opgehouden te 
+betalen (gebaseerd op definitie schuldhulpverlening artikel 1 Wgs) of 
+2. die een bedreigende situatie voorspellen, inhoudende gedwongen woningontruiming, beëindiging 
+van de levering van gas, elektriciteit, stadsverwarming of water of opzegging dan wel ontbinding 
+van de zorgverzekering (gebaseerd op artikel 4, tweede lid, Wgs). 
+ 
+Als deze uitgangspunten voor te kiezen signalen worden gelegd naast de praktijkervaringen met 
+vroegsignalering van schulden, blijken betalingsachterstanden op vaste lasten de meest gebruikte 
+voorspellers voor vroegsignalering. Knelpunten met het betalen van vaste lasten blijken goed te 
+ 
+- Vroegsignalering schulden door gemeenten, Inspectie SZW, 2017. De Inspectie noemt als vierde methode risicomodellen. 
+Omdat deze methode niet relevant is voor de wetswijziging, gaat de toelichting er niet op in. 
+4 
+
+Uit eigen beweging een eerste gesprek als bedoeld in artikel 4, eerste lid, onderdeel b, Wgs, 
+aanbieden 
+ 
+Gemeente Naam, adres, woonplaats/NAW Identiteit vaststellen 
+Burgerservicenummer (BSN) 
+Verblijfstatus Nederland 
+ 
+Basisregistratie Personen/BRP 
+ 
+Woningverhuurders Contactgegevens van de Uit eigen beweging een 
+hoofdhuurder  eerste gesprek als bedoeld 
+in artikel 4, eerste lid, 
+onderdeel b, Wgs, 
+aanbieden 
+ 
+Zorgverzekeraars/CAK Naam, adres, postcode, woonplaats, Uit eigen beweging een 
+geboortedatum en BSN van de op de eerste gesprek als bedoeld 
+zorgpolis vermelde in artikel 4, eerste lid, 
+verzekeringnemer en verzekerden onderdeel b, Wgs, 
+ aanbieden 
+Zorgverzekeraarsidentificatienummer  
+ Gegevens overgenomen uit 
+de door de verzekeringsnemer artikel 7b.1 van de Regeling 
+verschuldigde bedragen, inclusief zorgverzekering 
+eventuele bestuursrechtelijke  
+premies  
+Energiebedrijven Contactgegevens van de klant, diens Uit eigen beweging een 
+klantnummer en informatie over de eerste gesprek als bedoeld 
+hoogte van diens schuld  in artikel 4, eerste lid, 
+onderdeel b, Wgs, 
+aanbieden 
+ 
+Gegevens overgenomen uit 
+de Regeling afsluitbeleid 
+voor kleinverbruikers van 
+elektriciteit en gas en de 
+Warmteregeling 
+Drinkwaterbedrijven Contactgegevens van de klant, diens Uit eigen beweging een 
+klantnummer en informatie over de eerste gesprek als bedoeld 
+hoogte van diens schuld  in artikel 4, eerste lid, 
+onderdeel b, Wgs, 
+aanbieden 
+ 
+Gegevens overgenomen uit 
+de Regeling afsluitbeleid 
+voor kleinverbruikers van 
+drinkwater 
+ 
+Het is nodig ruimte te houden om te experimenteren en innoveren met andere signalen. Dit sluit aan 
+bij de ambitie uit de brede schuldenaanpak om de schuldhulpverlening te vernieuwen en verbeteren. 
+De andere of nieuwe signalen kunnen potentieel betere voorspellers van problematische schulden 
+opleveren. Dat wil zeggen signalen waarmee mensen met schulden die nog niet in beeld zijn bij 
+gemeenten worden bereikt. Een signaal waarmee nog geen ervaring is, maar waarmee een nieuwe 
+4 
+
+ 
+De wetswijzing verduidelijkt de procedure over het besluit over toegang tot en inhoud van de hulp 
+(plan van aanpak) door het opnemen van een specifieke bepaling daarover. Deze verduidelijking wil 
+ook bijdragen aan het realiseren van de brede toegang tot schuldhulpverlening die de Wgs beoogt. In 
+het bijzonder voor zelfstandigen wekt de memorie van toelichting van het oorspronkelijke wetsvoorstel 
+16
+ten onrechte de indruk dat zelfstandigen geen hulp zouden kunnen krijgen. De wettelijke taak om te 
+besluiten over schuldhulpverlening is de grondslag voor en de rechtvaardiging van het raadplegen van 
+persoonsgegevens. In de uitvoering ontwikkelt zich, mede onder invloed van de politieke en 
+bestuurlijke belangstelling voor schuldhulpverlening, de praktijk dat iedere rechtmatige inwoner om 
+schuldhulpverlening kan vragen. Gelet op de vaak kwetsbare positie waarin mensen met schulden 
+zitten, is de hulpvraag eenvoudig en zonder eisen (artikel 4, eerste lid, Wgs). Schuldhulpverlening kan 
+starten op aanvraag, al dan niet mondeling gedaan. Elke aanvraag wordt individueel beoordeeld en 
+gemotiveerd gehonoreerd of afgewezen. Bij afwijzing is het nodig en steeds meer de gewoonte, om 
+een alternatief te bieden of burgers met ondersteuning en begeleiding (‘warm’) door te verwijzen, 
+bijvoorbeeld begeleiden naar een aanvraag voor maatschappelijke ondersteuning. Artikel 3 van de 
+Wgs biedt geen mogelijkheid om groepen categoriaal uit te sluiten van schuldhulpverlening. De Wgs 
+noemt twee overwegingen om schuldhulpverlening te weigeren (artikel 3, tweede en derde lid, Wgs), 
+namelijk in geval een persoon al eerder gebruik heeft gemaakt van schuldhulpverlening (recidive) en 
+in geval een persoon fraude heeft gepleegd die financiële benadeling van een bestuursorgaan tot 
+gevolg heeft en die persoon in verband daarmee onherroepelijk strafrechtelijk is veroordeeld of een 
+onherroepelijke bestuurlijke sanctie, die beoogt leed toe te voegen, is opgelegd.  
+ 
+Ook welke hulp iemand krijgt, het plan van aanpak, is een individuele beoordeling en vereist 
+motivering. Dat geldt zeker voor situaties die vragen om een meer specifieke vorm van 
+schuldhulpverlening of juist een meer integrale aanpak, zoals bij burgers met onderliggende 
+problemen (verslaving, dakloosheid), voor wie ook maatschappelijke ondersteuning nodig is. Gerichte 
+aanpakken zijn ook nodig voor zelfstandigen zonder personeel of personen met een onderneming met 
+schulden, mensen met een eigen woning met overwaarde, burgers die geen stabiel of toereikend 
+inkomen hebben, enz. om in al deze situaties tijdig een gemotiveerd besluit te nemen over toegang en 
+het plan van aanpak zijn persoonsgegevens nodig.  
+ 
+De Wgs regelt dat binnen vier weken na de eerste hulpvraag een gesprek plaatsvindt (artikel 4, eerste 
+17
+lid, Wgs). Bij een bedreigende situatie is dat drie dagen (artikel 4, tweede lid, Wgs). Dat zijn goede 
+momenten om informatie te vergaren, maar het direct kunnen raadplegen van relevante 
+informatiebronnen zal (een besluit over) schuldhulpverlening verder versnellen en verbeteren. De 
+huidige wetstekst van de Wgs legt niets in de weg aan brede toegang, maar duidelijke bepalingen 
+over de inhoud en de persoonsgegevens waarvan raadpleging noodzakelijk is om tijdig en 
+gemotiveerd een besluit te nemen ontbreken. Daarom wordt de wetstekst op dit punt verduidelijkt. 
+Daarbij wordt expliciet geregeld dat de hulpvraag ook mondeling kan en wordt schuldhulpverlening 
+onderverdeeld in besluitvorming en uitvoering: 
+a. besluitvorming bestaat uit een besluit of iemand ja/nee toegang tot schuldhulp krijgt en over 
+welke hulp iemand krijgt, het plan van aanpak.  
+b. uitvoering houdt in uitvoering van de onder a. genoemde besluiten, inclusief nazorg. Het is feitelijk 
+handelen in de privaatrechtelijke sfeer en hoeft niet expliciet wettelijk geregeld. Gebruikelijk is dat 
+hulpverlener en cliënt voor specifieke vormen van hulpverlening zoals een schuldregeling of 
+budgetbeheer, een overeenkomst sluiten, waarin afspraken over gegevensuitwisseling worden 
+opgenomen. 
+Voor besluitvorming over welke hulp iemand krijgt, is het voldoende een plan van aanpak op 
+hoofdlijnen te maken dat laat zien dat schuldhulpverlening, zoals gedefinieerd in artikel 1 Wgs, wordt 
+gegeven. Het plan van aanpak kan bijvoorbeeld stabilisatie gevolgd door schuldregelen inhouden. De 
+ 
+16
+ Kamerstukken II 2009/10, 32291 nr. 3. 
+17
+ Onder bedreigende situatie wordt verstaan gedwongen woningontruiming, beëindiging van de levering van gas, elektriciteit, 
+stadsverwarming of water of opzegging dan wel ontbinding van de zorgverzekering. 
+4 
+
+schuldhulpverlening te 
+weigeren 
+Ja/Nee strafrechtelijke veroordeling 
+Gemeente en andere gemeenten Fraude vaststellen 
+of bestuurlijke sanctie voor financiële 
+ 
+benadeling bestuursorgaan 
+Omdat fraude een 
+ 
+overweging is om 
+Zo ja, dossier inzien 
+toegang tot 
+ 
+schuldhulpverlening te 
+Frauderegister 
+weigeren, moet 
+ 
+worden vastgesteld of 
+ 
+iemand heeft 
+gefraudeerd. Bij fraude 
+moet het fraudedossier 
+ingezien kunnen 
+worden om 
+gemotiveerd te kunnen 
+besluiten over 
+wel/geen toegang tot 
+schuldhulpverlening. 
+Ja/Nee strafrechtelijke veroordeling Fraude vaststellen 
+UWV, SVB, Belastingdienst, DUO 
+of bestuurlijke sanctie voor financiële  
+benadeling bestuursorgaan Omdat fraude een 
+ overweging is om 
+toegang tot 
+Zo ja, dossier inzien 
+schuldhulpverlening te 
+ 
+weigeren, moet 
+ 
+worden vastgesteld of 
+iemand heeft 
+gefraudeerd. Bij fraude 
+moet het fraudedossier 
+ingezien kunnen 
+worden om 
+gemotiveerd te kunnen 
+besluiten over 
+wel/geen toegang tot 
+schuldhulpverlening. 
+Besluit Plan van aanpak 
+ 
+Gemeente Ja/Nee Wmo en/of Jeugdzorg en zo Plan van aanpak 
+ja, hulpverlener(s) schuldhulpverlening 
+ opstellen 
+  
+Contact leggen met 
+andere hulpverleners 
+voor afgestemde 
+hulpverlening 
+ 
+ 
+Rechtspraak Ja/Nee bewind en zo ja, Plan van aanpak 
+bewindvoerder schuldhulpverlening 
+ opstellen 
+Centraal curatele- en bewindregister  
+(CCBR) - Openbaar Contact leggen met 
+andere hulpverleners 
+4 
+
+beslagvrije voet + laatste datum 
+berekening door schuldeiser 
+Betalingsachterstanden Plan van aanpak 
+(andere) Schuldeisers 
+ schuldhulpverlening 
+ontstaansdatum, hoofdsom, boetes / opstellen 
+verhogingen, actueel schuldsaldo, 
+lopende betalingsregelingen, 
+beslagvrije voet + laatste datum 
+berekening door schuldeiser 
+Beslagen Plan van aanpak 
+Deurwaarders 
+ schuldhulpverlening 
+Digitale beslagregister opstellen 
+VISH 
+Aanbieders van krediet (Sanerings)Kredieten en hypotheken Plan van aanpak 
+met betalingsachterstand schuldhulpverlening 
+ opstellen 
+Bureau Kredietregistratie (BKR) 
+ 
+ 
+3. Verhouding tot hoger recht en nationale regelgeving 
+ 
+Mensenrechten 
+De Wgs en deze wetswijziging raken aan verschillende mensenrechten, neergelegd in verschillende 
+mensenrechtenverdragen. De mate waarin en de voorwaarden waaronder schuldhulpverleners 
+persoonsgegevens mogen uitwisselen vereist een afweging van het recht op bescherming van de 
+privacy tegen sociale en economische rechten, zoals een behoorlijke levensstandaard en gezondheid. 
+De rechtvaardiging van de inperking van de privacy ligt daarom in het helpen schulden op te lossen. 
+Het is belangrijk te noemen dat de wetswijziging één van de acties is om schulden op te lossen. De 
+Brede schuldenaanpak heeft drie actielijnen die alle drie nodig zijn en ook de achterliggende oorzaken 
+achter schulden willen aanpakken: 1) Problematische schulden voorkomen: preventie en 
+vroegsignalering, 2) Ontzorgen en ondersteunen en 3) Zorgvuldige en maatschappelijk verantwoorde 
+incasso. De wetswijziging maakt het makkelijker voor mensen om hulp van de overheid te krijgen 
+door een belangrijke drempel voor het vragen en accepteren van hulp, het verzamelen van informatie, 
+weg te nemen. De wetswijziging geeft waarborgen waarmee gemeenten de verantwoordelijkheid voor 
+het verwerken van persoonsgegevens voor schuldhulpverlening goed kunnen invullen, zoals 
+voorwaarden voor het doorgeven van persoonsgegevens, onder meer om stigmatiseren te voorkomen. 
+Effectieve gegevensuitwisseling binnen het (gemeentelijke) sociale domein en met schuldeisers, 
+waaronder ook de overheid zelf, stimuleert integraal werken in de zin dat niet alleen armoede wordt 
+bestreden, maar de hulp ook bijdraagt aan gezondheid, onderwijs en werk. Gegevensuitwisseling 
+tussen schuldhulpverleners en schuldeisers moet bijvoorbeeld huisuitzettingen vanwege 
+huurachterstanden voorkomen. Dit draagt bij aan de verwezenlijking van het belangrijke grondrecht 
+bescherming van huis en familieleven. 
+ 
+Algemene Verordening Gegevensbescherming (AVG) 
+De wetswijziging faciliteert de uitwisseling en verwerking van persoonsgegevens voor 
+schuldhulpverlening door gemeenten en andere bij schuldhulpverlening betrokken organisaties. De 
+wetswijziging beoogt daarmee ook de naleving te waarborgen van de nieuwe Europese 
+privacyregelgeving, de AVG, die per 25 mei 2018 van toepassing is. Een voorwaarde voor de 
+verwerking van persoonsgegevens is het hebben van een expliciete grondslag. Een veel gebruikte 
+grondslag is toestemming van de gebruiker. Deze grondslag is niet goed bruikbaar voor het 
+verzamelen van persoonsgegevens voor schuldhulpverlening. In de eerste plaats, omdat de burgers 
+met problematische schulden zich lang niet altijd melden bij gemeenten. De gemeente gebruikt 
+daarom signalen van derden om burgers met problematische schulden te vinden. Ook als een burger 
+zichzelf wel meldt, bestaat twijfel over de grondslag toestemming, omdat de burger afhankelijk is van 
+4 
+
+met vroegsignalering iemand heeft benaderd, is hiervoor het startpunt. De Awb is ook relevant als 
+iemand die niet te goeder trouw blijkt alsnog toegang tot schuldhulpverlening wordt geweigerd. Ook 
+de tussentijdse beëindiging van de hulp is een besluit. Bij vroegsignalering biedt de gemeente uit 
+eigen beweging een eerste gesprek als bedoeld in artikel 4 aan. Dit aanbod van de gemeente is op 
+zichzelf nog geen besluit; de rechtspositie van de burger wijzigt immers niet. Vervolgens zal een 
+gesprek op grond van artikel 4 Wgs, tweede lid, onderdeel b, Wgs plaatsvinden, waarna als 
+daadwerkelijk een schuldhulpverleningstraject tot stand komt een besluit tot toegang met een plan 
+van aanpak wordt genomen. 
+ 
+Een deel van de gemeenten besteedt de uitvoering van schuldhulpverlening uit aan gespecialiseerde 
+instellingen die in opdracht van en voor rekening van de gemeenten werken. Indien de uitbesteding 
+ook het laten nemen van besluiten namens het College (over toegang en hulp) omvat, is mandatering 
+aan een niet-ondergeschikte nodig. Daaraan stelt titel 10.1 van de Algemene wet bestuursrecht eisen. 
+De Wgs vereist dat in het plan voor schuldhulpverlening wordt aangegeven welke maatregelen de 
+gemeenteraad en het college nemen om de kwaliteit te borgen van de wijze waarop de integrale 
+schuldhulpverlening wordt uitgevoerd (artikel 4), ongeacht uitbesteding en mandatering en inclusief 
+gegevensverwerking. Bij mandatering en uitbesteding blijft het college verantwoordelijk, bijvoorbeeld 
+ook voor het behandelen van klachten. 
+ 
+Wmo 2015 en Jeugdwet 
+In de Wmo 2015 zijn bepalingen opgenomen over het gebruik van informatie die is verzameld in het 
+kader van schuldhulpverlening (artikelen 5.1.1 en 5.2.1) voor maatschappelijke ondersteuning. Met 
+deze wetswijziging en in het bijzonder de AMvB ter uitwerking daarvan wordt de omgekeerde 
+gegevensstroom geregeld. Voor schuldhulpverlening is relevant of iemand maatschappelijke 
+ondersteuning krijgt en zo ja, wie de hulpverleners zijn. Dit is noodzakelijk om de verschillende 
+vormen van hulpverlening af te stemmen. De wetswijziging regelt ook dat gedeeld mag worden met 
+schuldhulpverlening wie jeugdzorg krijgt en wie de hulpverleners zijn in aansluiting op artikel 7.4.1 tot 
+en met 7.4.4 van de Jeugdwet. De Wmo 2015 en de Jeugdwet vereisen toestemming van de burger 
+voor hergebruik van de persoonsgegevens voor een ander doel, in dit geval schuldhulpverlening. 
+Omdat schuldhulpverlening zonder uitwisseling van persoonsgegevens niet mogelijk is, wordt deze 
+voorwaarde niet in de Wgs opgenomen. De grondslag voor de verwerking van persoonsgegevens is 
+een wettelijke verplichting en taak van algemeen belang, ook voor de informatie of iemand 
+maatschappelijke ondersteuning of jeugdzorg krijgt en zo ja, wie de hulpverleners. Uitdrukkelijke 
+toestemming zou daarmee slechts een extra drempel opwerpen, die ook nog een verkeerde perceptie 
+van vrijblijvendheid zou bieden. Het is niet nodig om voor schuldhulpverlening een grondslag te 
+maken om het medisch beroepsgeheim te doorbreken, omdat het niet noodzakelijk is om iemands 
+ziektebeeld te kennen. Die gegevens hoeven dus niet te worden uitgewisseld voor 
+schuldhulpverlening. 
+ 
+Signalen uit de zorg (Wmo 2015 en Jeugdwet) en uitvoering van de Participatiewet hoeven niet 
+expliciet als signalen voor vroegsignalering van schulden in regelgeving te worden opgenomen. Deze 
+personen zijn immers bekend binnen de gemeente. In de diverse vormen van klantcontact kunnen zij 
+naar schuldhulpverlening worden verwezen (zie ‘Hoofdlijnen van het voorstel’, a. Vroegsignalering van 
+schulden). Hetzelfde geldt bijvoorbeeld voor signalen uit de gemeentelijke belastingen. Met de 
+wetswijziging wordt wel expliciet geregeld dat deze informatie voor zover noodzakelijk voor 
+schuldhulpverlening (dus als iemand hulp heeft geaccepteerd) uitgewisseld en gebruikt mag worden. 
+ 
+Wet algemene bepalingen burgerservicenummer 
+Burgerservicenummers kunnen door overheidsorganen bij de uitvoering van hun taken worden 
+gebruikt. Ook overheidsorganen in de rol van schuldeiser, zoals de Belastingdienst of het UWV, 
+gebruiken burgerservicenummers. Omdat schuldhulpverlening in een deel van de gemeenten door 
+instellingen buiten de gemeente wordt verleend, is een wettelijke bepaling nodig op grond waarvan 
+deze instellingen burgerservicenummers mogen gebruiken (artikel 15 Wet algemene bepalingen 
+burgerservicenummer). Deze wetswijziging voorziet in de benodigde regelgeving. Gemeenten blijven 
+4 
+
+ter uitvoering van het gemeentelijke plan integrale schuldhulpverlening. Om de gegevens conform de 
+privacyregelgeving te mogen melden bij de gemeente gebruiken verhuurders nu de algemene 
+voorwaarden of de huurovereenkomst als grondslag. Het is de vraag of deze grondslag voldoende 
+aansluit bij de AVG. Om juridische zekerheid te geven zal het melden van betalingsachterstanden door 
+verhuurders in regelgeving worden verankerd met de bestaande regelingen voor zorgverzekeraars en 
+leveranciers van energie en drinkwater als voorbeeld. 
+ 
+Participatiewet en Wet Structuur Uitvoeringsorganisatie Werk en inkomen  
+Identiteits-, inkomens- en vermogensgegevens die zijn verzameld bij uitvoering van de Participatiewet 
+kunnen worden hergebruikt voor schuldhulpverlening. De Wet structuur uitvoeringsorganisatie werk 
+en inkomen (Wet SUWI) regelt hoe UWV, SVB en gemeenten samenwerken en gegevens uitwisselen 
+bij de uitvoering van sociale zekerheidswetten, waaronder de Wgs. In het gegevensregister onder de 
+Wet SUWI zijn alle gegevens opgesomd die met behulp van de door de Wet SUWI benoemde 
+gemeenschappelijke elektronische voorziening (GeVS) worden ontsloten (artikel 5:20 Besluit SUWI en 
+artikel 6.2 Regeling SUWI). De Wgs wordt op meerdere plekken in de Wet SUWI genoemd, in elk 
+geval in artikel 9 en 62. De Wet SUWI gaat alleen in op de gegevens, niet op de techniek. De 
+uitvoerders van de sociale verzekeringswetten zijn vrij om daar een keuze in te maken die voldoet aan 
+de AVG. De regelgeving gaat wel in op het beheer van de GeVS. UWV, SVB en gemeenten moeten 
+deze gezamenlijk in stand houden en door ontwikkelen. De gegevens worden door het Bureau 
+Keteninformatisering Werk & Inkomen (BKWI) van het UWV ontsloten uit diverse (basis)registraties en 
+de voorzieningen worden door BKWI beheert. Ook ander bronnen dan gemeenten, UWV en SVB 
+leveren informatie, bijvoorbeeld de Belastingdienst (onder meer toeslagen) en de RDW 
+(gemotoriseerde voertuigen). Het Inlichtingenbureau (IB) heeft ook de wettelijke basis in de SUWI-
+regelgeving (artikel 63) en fungeert als knooppunt naar gemeenten. IB is een stichting en wordt 
+aangestuurd door haar bestuur. De minister van SZW bepaalt de kaders voor dit bestuur. Artikel 8, 
+derde lid, Wgs regelt dat het vragen en het verstrekken van gegevens voor schuldhulpverlening kan 
+geschieden door tussenkomst van het IB. 
+ 
+Wetboek van Burgerlijke Rechtsvordering (beslagvrije voet) 
+Met de inwerkingtreding van de Wet vereenvoudiging beslagvrije voet kan de beslagvrije voet in 
+principe zonder informatie van de schuldenaar worden berekend. Voor implementatie is een ICT-tool 
+in ontwikkeling om de gegevens die nodig zijn om de beslagvrije voet te berekenen automatisch 
+digitaal te verzamelen bij bronnen zoals de Polisadministratie van UWV en de Basisregistratie 
+Personen (BRP). De beslagvrije voet is een belangrijk onderdeel van de inkomensinformatie die nodig 
+is voor schuldhulpverlening. De gegevensbronnen, zoals UWV, leveren ook informatie voor 
+schuldhulpverlening. In de wetswijziging is daarom opgenomen dat schuldhulpverleners bij het 
+opstellen van het plan van aanpak de beslagvrije voet zoals geregeld in het Wetboek van Burgerlijke 
+Rechtsvordering gebruiken. Dit houdt in lijn met de huidige praktijk in dat altijd ten minste 5% van 
+het inkomen gebruikt kan worden voor aflossing van schulden. Er is dus altijd een minimale 
+afloscapaciteit, hetgeen van belang is voor schuldeisers om mee te werken aan een schuldregeling. 
+ 
+Caribisch Nederland 
+De Wgs en bijvoorbeeld ook de Algemene wet bestuursrecht gelden niet in Caribisch Nederland. Deze 
+wetswijziging is daarom niet direct relevant voor Caribisch Nederland. Dit neemt niet weg dat onder 
+de armere huishoudens een groot aandeel met schulden kampt. Schuldhulpverlening is een 
+eilandelijke taak. Betalingsachterstanden op vaste lasten zijn belangrijke signalen voor schulden. De 
+Regeling elektriciteit en drinkwater BES regelt daarom dat een distributeur afnemers die facturen niet 
+tijdig voldoen bij iedere aanmaning tot betaling informeert over onder meer schulphulpverlening en de 
+mogelijkheid vooraf te betalen. De problemen en oplossingen zijn dus vergelijkbaar. Het kabinet wil 
+met de openbare lichamen afspraken maken over schuldhulpverlening. Prioriteit hebben praktische 
+stappen die op korte termijn kunnen worden gezet. Nieuwe of gewijzigde regelgeving zijn niet 
+20
+voorzien, maar ook niet uitgesloten.  
+ 
+20
+ Kamerstukken II 2017/18, 34775 IV nr. 45. 
+4 
+
+bestaat namelijk uit administratieve en juridische acties, die burgers als regeldruk ervaren. De 
+wetswijziging wil de hulpverlening beter laten aansluiten bij het doenvermogen van burgers met 
+schulden door gegevensuitwisseling te vereenvoudigen. Voor het oplossen van schulden hoeven 
+burgers dan minder in actie te komen. Zij worden zo ontzorgd. De regeldruk die zij ervaren neemt af. 
+Burgers kunnen altijd nee zeggen tegen een hulpaanbod of juist aangeven aan welke (andere) hulp zij 
+behoefte hebben (betere rechtsbescherming). De Wgs biedt een kader. De lasten en 
+lastenvermindering die burgers ervaren hangt af van hoe gemeenten en schuldeisers de hulpverlening 
+in de praktijk vormgeven. 
+ 
+De keerzijde van het ontzorgen van burgers is dat schuldhulpverleners makkelijker de beschikking 
+krijgen over persoonsgegevens zonder dat burgers daarvoor toestemming hebben gegeven. Het risico 
+is reputatie- of anderszins relationele schade en het verlies van vertrouwelijkheid van het door 
+beroepsgeheim beschermde persoonsgegevens. Schuldhulpverleners evalueren namelijk inkomens- en 
+schuldeninformatie, maar bijvoorbeeld ook strafrechtelijke of medische persoonsgegevens, om de 
+economische situatie, gezondheid, betrouwbaarheid en het gedrag te analyseren. Het is een inbreuk 
+op de privacy van burgers die wellicht helemaal niet geholpen willen worden of die geen hulp nodig 
+hebben. Daarnaast treden risico’s op door al dan niet ongeoorloofde toegang en verstrekking van de 
+persoonsgegevens aan instanties in de schulden- en incassoketen of anderen. Om de privacy van 
+burgers te beschermen wordt het faciliteren van gegevensuitwisseling voor schuldhulpverlening in dit 
+wetsvoorstel gecombineerd met waarborgen. Allereerst worden persoonsgegevens alleen verwerkt als 
+dat noodzakelijk is om te voldoen aan de wettelijke verplichtingen en taken van algemeen belang van 
+de Wgs. Ook de gegevensverwerkingen worden nauwkeuriger omschreven. Het gaat om de twee 
+processen. Het eerste proces is uit eigen beweging hulp aanbieden (vroegsignalering). Daartoe 
+worden gegevens verstrekt (door schuldeisers aan de gemeente die het betreft), gebruikt (door 
+schuldhulpverleners) en gewist (in het informatiesysteem). Het tweede proces is een besluit over de 
+toegang en het plan van aanpak voor schuldhulpverlening. Daartoe worden gegevens opgevraagd of 
+geraadpleegd en gebruikt door schuldhulpverleners. De specificatie gaat uit van dataminimalisatie, 
+alleen absoluut noodzakelijke gegevens worden uitgewisseld. Burgers houden altijd hun 
+privacyrechten, zoals het recht op informatie, inzage, rectificatie en gegevenswissing en het recht van 
+bezwaar. Om de privacy verder te beschermen gelden aansluit- en gebruikersvoorwaarden voor de 
+gebruikte informatiesystemen die de inzage en besluiten over persoonsgegevens beperken tot 
+schuldhulpverleners. 
+ 
+Regeldruk gemeenten 
+De huidige Wgs legt het initiatief voor schuldhulpverlening grotendeels bij de burger. Het is helaas 
+geen nieuws dat veel burgers geen hulp kunnen of willen vragen. Daarom gaan gemeentes al jaren 
+zelf op zoek naar mensen met problematische schulden. De Inspectie SZW concludeerde in 2017 dat 
+31
+vrijwel alle gemeenten op enige wijze invulling geven aan vroegsignalering. Het wetsvoorstel 
+voorziet in de eerste plaats de uitvoeringspraktijk van een juridische basis die naleving van de AVG 
+waarborgt.  
+ 
+Vroegsignalering van schulden is, zo staat in de toelichting van de Wgs, onderdeel van 
+schuldhulpverlening. De wetswijziging leidt dus niet tot een nieuwe gemeentelijke taak. De 
+wetswijziging verduidelijkt wel de gemeentelijke taak op het vlak van vroegsignalering van schulden. 
+Dit is de noodzakelijke rechtvaardiging voor het mogen verwerken van persoonsgegevens. Naleving 
+van de AVG maakt duidelijke wettelijke verplichtingen noodzakelijk. Uniformiteit is ook nodig voor de 
+uitvoerbaarheid voor schuldeisers en om burgers overal in Nederland een vergelijkbare dienstverlening 
+te bieden. De vormgeving is gebaseerd op de bestaande uitvoering die sinds 2015 via evaluaties, 
+leidraden en kennisdeling landelijk wordt gefaciliteerd.  
+ 
+ 
+31
+ Zie onder meer: 
+- Vroegsignalering problematische schulden door gemeenten; Verkennende studie, Inspectie SZW, 2015. 
+- Het gebruik van methoden van vroegsignalering problematische schulden door gemeenten, Inspectie SZW, 2016. 
+- Vroegsignalering schulden door gemeenten, Inspectie SZW, 2017. 
+4 
+
+zorgvuldige en maatschappelijk verantwoorde incasso van achterstallige betalingen dragen 
+schuldeisers bij aan het voorkomen en oplossen van problematische schulden. De schuldeisers 
+namens de rijksoverheid (CAK, Belastingdienst, UWV, SVB, CJIB en DUO) werken samen vanuit de 
+35
+Rijksincassovisie. Gegevensuitwisseling met gemeenten is een onderdeel van de Rijksincassovisie. 
+Deze wetswijziging maakt de gegevensuitwisseling tussen de rijksoverheid en gemeenten makkelijker. 
+Zorgverzekeraars, energiebedrijven en drinkwaterbedrijven moeten voldoen aan regels voor een 
+zorgvuldige incasso (zie ook 3. Verhouding tot hoger recht en nationale regelgeving). Zij melden op 
+basis daarvan mensen met betalingsachterstanden aan bij gemeenten. De wetswijziging verandert 
+daar niets aan, maar de uitvoering wordt wel makkelijker en juridisch zekerder door afstemming met 
+de Wgs. Het gaat om ongeveer 40 zorgverzekeraars, 40 energieleveranciers en 10 
+drinkwaterbedrijven. Voor verhuurders en in het bijzonder woningcorporaties wordt op grond van 
+artikel 8 Wgs over gegevensuitwisseling nieuwe regelgeving gemaakt over het melden van 
+betalingsachterstanden aan gemeenten. Dit leidt tot administratieve lasten die in de toelichting op de 
+AMvB in kaart worden gebracht. 
+ 
+5. Uitvoering, toezicht en handhaving 
+Om vroegsignalering van schulden en gegevensuitwisseling bij schuldhulpverlening te versterken 
+hebben gemeenten, de koepels (VNG, NVVK, Divosa) en vertegenwoordigers van de belangrijkste 
+publieke en private schuldeisers vele afspraken gemaakt en hulpmiddelen ontwikkeld. De rijksoverheid 
+heeft daarbij afwisselende rollen: stimuleren, coördineren en subsidiëren. De betrokken organisaties 
+zullen deze ontwikkelingsactiviteiten de komende tijd voortzetten. 
+ 
+Vroegsignalering van schulden 
+De praktijkervaring die een groot aantal gemeenten inmiddels met vroegsignalering van schulden 
+heeft opgedaan, is gebundeld in handreikingen die gemeenten gebruiken om vroegsignalering op 
+grotere schaal toe te passen. De belangrijkste zijn: 
+- Leidraad Vroegsignalering schulden (2018); 
+- Vroegsignalering schulden: Lessen uit de praktijk (2018); 
+- Handreiking vroegsignalering schulden en bescherming van persoonsgegevens (2017). 
+De branchevereniging voor schuldhulpverlening en sociaal bankieren, NVVK, heeft een website en 
+webforum om gemeente te ondersteunen bij vroegsignalering. 
+ 
+Om vroegsignalering op landelijke schaal toe te passen zijn naast deze wetswijziging ook afspraken 
+tussen schuldhulpverleners en schuldeisers nodig. Deze worden tot nu toe per gemeente en per 
+schuldeiser gemaakt. Het Interbestuurlijk Programma, dat momenteel wordt uitgevoerd, zet onder 
+meer in op landelijke afspraken over vroegsignalering van schulden. Dit moet leiden tot uniformering 
+en vereenvoudiging, hetgeen noodzakelijk is voor efficiënte uitvoering en automatisering. De 
+landelijke afspraken krijgen waarschijnlijk de vorm van één of meer convenanten die onder leiding van 
+VNG en NVVK worden opgesteld met de belangrijkste schuldeisers. 
+ 
+Voor het digitaal verzamelen en verwerken van signalen over betalingsachterstanden bestaan al 
+applicaties: Vindplaats van schulden (VPS) van BKR en het Registratie Informatie Systeem (RIS) 
+Vroeg eropaf van Inforing. 
+Gegevensuitwisseling besluit toegang en plan van aanpak schuldhulpverlening 
+Voor snellere hulpverlening is het nodig dat de persoonsgegevens die noodzakelijk zijn voor 
+schuldhulpverlening digitaal beschikbaar komen voor de gemeentelijke schuldhulpverlening. 
+Uitgangspunt daarbij is dat burgers in de eerste plaats zelf digitaal de beschikking (kunnen) krijgen 
+over hun persoonsgegevens. Als burgers minder zelfredzaam zijn, moeten hulpverleners de 
+betreffende gegevens kunnen gebruiken. Vereenvoudiging en ontzorging van burgers is nodig. Dit 
+vraagt betere afstemming tussen de organisaties in de schulden- en incassoketen en betere 
+informatievoorziening van burgers. Burgers hoeven alleen informatie te geven als de overheid niet zelf 
+ 
+35
+ Kamerstukken II 2017/18, 24515, Nr. 446. 
+4 
+
+Toezicht en handhaving 
+Kern van deze wetswijziging is regulering van de verwerking van persoonsgegevens door gemeenten bij 
+schuldhulpverlening en in het bijzonder de afstemming van de Wgs met de AVG. Schuldhulpverlening 
+omvat geen uitkering, toeslag, etc. voor burgers, zodat misbruik en oneigenlijk gebruik door burgers van 
+de Wgs geen risico is. De AP houdt toezicht op de naleving van de regels voor bescherming van 
+persoonsgegevens. De AP gebruikt een groot deel van de capaciteit om onderzoek te doen naar de 
+naleving van de AVG. Heeft de AP tijdens onderzoek overtredingen vastgesteld, dan kan de AP, in het 
+geval van schuldhulpverlening, de gemeente dwingen deze overtredingen te beëindigen. Bijvoorbeeld 
+door een last onder dwangsom op te leggen. Andere belangrijke taken van de AP zijn bijvoorbeeld 
+adviseren over nieuwe regelgeving. In dat kader heeft de AP een wetgevingsadvies gegeven over deze 
+wijziging van de Wgs. 
+ 
+Om naleving van de privacyregels te waarborgen heeft iedere gemeente een eigen, interne 
+toezichthouder: Functionaris voor de gegevensbescherming. Om vooraf de privacyrisico’s van 
+gegevensverwerking voor schuldhulpverlening in kaart te brengen maken (en actualiseren) gemeenten 
+een gegevensbeschermingseffectbeoordeling (DPIA). Deze beoordeling is belangrijk voor bepalen en 
+nemen van technische en organisatorische maatregelen om de risico’s te verkleinen. 
+ 
+6. Financiële gevolgen 
+Schulden kosten de maatschappij veel geld. De vuistregel is dan ook dat investeringen in het 
+voorkomen en oplossen van schulden zich altijd terugverdienen. Dat geldt zowel voor burgers die 
+incassokosten en boetes voorkomen, gemeenten die bijvoorbeeld besparen op uitkeringen, zorg en 
+maatschappelijke ondersteuning als schuldeisers die allerlei kosten uitsparen van 
+betalingsherinneringen tot deurwaarders en huisuitzettingen vanwege huurachterstanden. Enkele 
+cijfers: Een huishouden met problematische schulden kost de maatschappij ongeveer € 100.000 (over 
+tien jaar). Minder dan 1% hiervan zijn directe kosten voor schuldhulpverlening. Gemeenten ontvangen 
+hiervoor via de algemene uitkering van het Gemeentefonds geld. Gemeenten geven gemiddeld in de 
+orde van grootte van € 15 per inwoner per jaar uit aan schuldhulpverlening. Dit is een investering die 
+zich terugverdient, zowel binnen de gemeente (vooral voorkomen bijstandsuitkeringen) als 
+maatschappij breed (denk aan voorkomen werkloosheid, ziektekosten, afsluiten energie, enz.). Elke 
+euro die gemeenten besteden aan schuldhulpverlening, leidt tot gemiddeld twee euro aan 
+38
+kostenbesparing op andere plekken. 
+ 
+Het doel van deze wetswijzing, uitwisseling van persoonsgegevens faciliteren, maakt 
+schuldhulpverlening effectiever en efficiënter. Dit levert voor alle betrokkenen kostenbesparingen op. 
+Dit geldt in het bijzonder voor vroegsignalering van schulden.  
+ 
+In het onderzoek ‘Amsterdam: Vroeg Eropaf; Businesscase preventie en vroegsignalering van 
+39
+schulden’ zijn de kosten en baten onderzocht. In de businesscase kregen ruim 10.000 inwoners op 
+basis van signalen van schuldeisers hulp aangeboden. Daarvoor was een investering door de 
+gemeente van €1,8 miljoen nodig, gemiddeld €179 per melding. De kosten zijn inclusief ICT voor 
+40
+uitwisseling en registratie van de meldingen, waarvan de jaarlijkse kosten op €5000-6000 zijn. De 
+baten voor de gemeente waren €3,8 miljoen, €380 per melding. De besparingen zitten bij 
+schuldhulpverleningstrajecten, omdat lichtere hulp voldoende is, op de Participatiewet, omdat minder 
+uitgaven aan uitkeringen nodig zijn en bij maatschappelijke opvang, omdat huisuitzettingen worden 
+voorkomen. De onderzoekers concluderen over de aanpak in Amsterdam dat elke geïnvesteerde euro 
+ 
+38
+ 
+- Quickscan financiële gevolgen wetsvoorstel gemeentelijke schuldhulpverlening, Cebeon, 2009 
+- Op weg naar effectieve schuldhulp: De kosten en baten van schuldhulpverlening, APE/Stimulanz, 2011 
+- Schuldhulpverlening loont!; Een onderzoek naar de kosten en baten van schuldhulpverlening, Hogeschool Utrecht/Regioplan, 
+2011 
+- Overkoepelende blik op de omvang en preventie van schulden in Nederland, Nibud, 2014. 
+39
+ Amsterdam: Vroeg Eropaf. Businesscase vroegsignalering en preventie van schulden, Panteia, 2014. 
+40
+ NVVK-Leidraad vroegsignalering van schulden schat kosten voor ICT bij vroegsignalering op €350 – €1000 per maand. 
+4 
+
+(persoonlijk contact, schuldregeling aanbieden, enz.). Als dat niet tot betaling leidt, worden de 
+betalingsachterstanden eenmalig bij de gemeente gemeld. Schuldeiser zouden een terugkoppeling van 
+de gemeenten over het resultaat van het hulpaanbod zeer op prijs stellen. In de toelichting is 
+ingegaan op de mogelijkheden. 
+ 
+Het verzamelen en verwerken van signalen over betalingsachterstanden doen schuldeisers en 
+gemeenten meestal digitaal en geautomatiseerd met ICT. In de versie voor internetconsultatie was de 
+mogelijkheid opgenomen voor het beheer en gebruik van deze ICT-voorzieningen eisen in regelgeving 
+op te nemen. Een aantal reacties vroeg om verduidelijking en aansluiting bij de bestaande praktijk van 
+deze bepalingen. Omdat met de voorgestelde bepalingen niet meer was beoogd dan naleving van de 
+AVG te borgen, is ervoor gekozen deze te laten vervallen. Zodra gemeenten de 
+betalingsachterstanden van schuldeisers voor de uitvoering van hun taak schuldhulpverlening hebben 
+ontvangen zijn zij verwerkingsverantwoordelijke voor die persoonsgegevens. Als zij een organisatie 
+inschakelen om de gegevens te verwerken, is daarvoor een verwerkingsovereenkomst nodig. Hoe dan 
+ook dienen alle verwerkingen van persoonsgegevens aan de AVG te voldoen. 
+ 
+De internetconsultatie stelde drie vragen. De reacties geven bruikbare inzichten: 
+1. Ontbreken persoonsgegevens in de tabel in het algemene deel (zie pagina's 6 en 7) van de 
+memorie van toelichting die noodzakelijk zijn voor schuldhulpverlening. Deze vraag heeft voorstellen 
+opgeleverd die zijn verwerkt in de toelichting bij de wetswijziging en worden benut bij het formuleren 
+van de AMvB op grond van het bestaande artikel 8 Wgs over gegevensuitwisseling. 
+2. Zou de melding van betalingsachterstanden door verhuurders aan gemeenten wettelijk geregeld 
+moeten worden (in aanvulling op de grondslag voor gemeenten om de gegevens te mogen ontvangen 
+en gebruiken)? De reacties zijn eensgezind over het nut van een wettelijke regelgeving voor het 
+melden van huurachterstanden. Voor huurachterstanden wordt daarom in overleg met onder meer 
+woningcorporaties en gemeenten een vergelijkbare regeling gemaakt op grond van het bestaande 
+artikel 8 Wgs over gegevensuitwisseling. Deze regeling zal de ruimte behouden voor verhuurders voor 
+eigen (maatschappelijk verantwoorde) incassoactiviteiten en om huisuitzetting toch door te zetten (en 
+niet te melden) in geval van woonfraude en overlast. 
+3. Is overgangsrecht nodig voor het aanpassen van het gemeentelijke plan integrale 
+schuldhulpverlening en gemeentelijke (ICT-)processen? Uit de reacties blijkt dat een overgangstermijn 
+nodig is, onder meer om het gemeentelijke plan schuldhulpverlening aan te passen. Hiervoor geeft de 
+huidige Wgs al ruimte, omdat het plan voor een periode van ten hoogste vier jaar geldt en tussentijds 
+kan worden gewijzigd (artikel 2 Wgs). Vanuit het belang van naleving van de AVG is een 
+overgangstermijn van meer dan een half jaar voor de andere onderdelen van de wetswijziging niet te 
+rechtvaardigen. 
+ 
+Enkele reacties spreken de wens uit (lokale) belastingschulden als signaal voor vroegsignalering van 
+schulden te willen gebruiken. Het doel van vroegsignalering is mensen met schulden die nog niet in 
+beeld zijn bij gemeenten te bereiken. Belastingschulden lijkt een minder geschikt signaal, omdat 
+mensen met belastingachterstanden al bekend zijn bij de overheid en ook via maatschappelijk 
+verantwoorde incasso en intern doorverwijzen beter bereikt kunnen worden. Bovendien zijn 
+belastingschulden niet direct een bedreiging voor de eerste levensbehoeften. Het is daarom de vraag 
+of de uitwisseling van belastingschulden voor vroegsignalering noodzakelijk en proportioneel is. Er zijn 
+betere voorspellers voor problematische schulden, namelijk betalingsachterstanden op vaste lasten. 
+Als iemand op basis van een betalingsachterstand op vaste lasten een hulpaanbod van de gemeente 
+krijgt en accepteert, worden uiteraard alle schulden geïnventariseerd, inclusief belastingschulden, voor 
+het maken van een plan van aanpak schuldhulpverlening. 
+ 
+Bestuurlijke reactie VNG en uitvoeringstoets NVVK 
+VNG heeft in nauw overleg met Divosa en NVVK een bestuurlijke reactie opgesteld. NVVK heeft 
+namens haar leden, die zowel uit gemeenten als private instellingen voor schuldhulpverlening bestaan, 
+een uitvoeringstoets uitgevoerd. VNG is (in eigen woorden) ‘enthousiast’ over de voorgestelde 
+wetswijziging, maar geeft wel ‘zeven succesfactoren voor de (financiële) uitvoerbaarheid en 
+4 
+
+ 
+De AP onderschrijft dat naleving van de privacyregelgeving vereist dat gemeenten alleen de signalen 
+mogen ontvangen die tot actie leiden. Het wetsvoorstel kiest daarom voor een duidelijke, niet-
+vrijblijvende taakomschrijving voor gemeenten voor vroegsignalering van schulden. De AP biedt wel 
+een alternatief. Een tussenstap in de wet opnemen, dat wil zeggen een tussenorganisatie die signalen 
+van schuldeisers ontvangt en bewerkt op basis van keuzes in het gemeentelijke plan voor 
+schuldhulpverlening of criteria in regelgeving. Een tussenstap is op dit moment niet aantrekkelijk: De 
+keuze aan gemeenten laten, gaat ten koste van een uniforme aanpak. In regelgeving een selectie of 
+combinatie voorschrijven van betalingsachterstanden op huur, zorgpremie, energie en drinkwater sluit 
+niet aan bij de bestaande regelgeving en praktijk. Deze keuze laat de mogelijkheid open dat 
+gemeenten een landelijke organisatie inschakelen om de gegevens te verwerken op basis van een 
+verwerkingsovereenkomst, waarbij de gemeente verwerkingsverantwoordelijke blijft.  
+ 
+Ter uitvoering van het advies van de AP is een toelichting opgenomen over de terugkoppeling aan 
+schuldeisers over de hulp die burgers naar aanleiding van een signaal over betalingsachterstanden 
+krijgen. Ook de mogelijkheden en onmogelijkheden van het gebruik van gegevens over gemeentelijke 
+belastingschulden zijn op advies van de AP verder toegelicht. 
+ 
+Adviescollege Toetsing Regeldruk 
+Het Adviescollege Toetsing Regeldruk (ATR) stelt voor de regeldruk voor gemeenten en schuldeisers te 
+beperken door een uniforme termijn te hanteren voor het doorgeven van betalingsachterstanden voor 
+vroegsignalering en de bewaartermijn voor die betalingsachterstanden te verlengen tot 12 maanden. 
+Deze adviezen worden meegenomen bij de AMvB gegevensuitwisseling schuldhulpverlening. Om 
+tegenstrijdige en onduidelijke regelgeving te voorkomen is het voornemen in deze AMvB één op één 
+aan te sluiten bij de bestaande regelgeving voor schuldeisers. De bestaande regelgeving kent geen 
+termijnen van betalingsachterstanden, slechts één meldingsmoment en voorwaarden om invulling te 
+geven aan een maatschappelijk verantwoorde incasso. De AMvB gegevensuitwisseling 
+schuldhulpverlening wordt voor advies aan ATR voorgelegd, vanwege deze adviezen en om de 
+regeldruk van de uitwerking van wet te toetsen. ATR stelt voor te onderzoeken hoe 
+betalingsachterstanden voor hypotheken kunnen worden toegepast voor vroegsignalering. Het 
+wetsvoorstel biedt hiervoor via de tijdelijke regeling (artikel 10) ruimte. Het initiatief ligt bij 
+hypotheekverstrekkers in samenwerking met gemeenten. 
+ 
+Nationale Ombudsman 
+De Nationale Ombudsman heeft op eigen initiatief gereageerd op het wetsvoorstel. De Nationale 
+Ombudsman spreekt waardering uit voor het wetsvoorstel en in het bijzonder de verbetering van de 
+rechtsbescherming van burgers en het wegnemen van obstakels voor burgers om hulp te krijgen. 
+Omdat bij vroegsignalering van schulden burgers geen weet hebben dat hun betalingsachterstanden 
+tussen schuldeisers en schuldhulpverleners worden uitgewisseld, adviseert de Nationale Ombudsman 
+dat burgers zo spoedig mogelijk worden geïnformeerd. Aan dit advies wordt in het wetsvoorstel 
+vervolg gegeven door de termijnen die gelden voor een intakegesprek als een burgers zelf om hulp 
+vraagt, ook te hanteren bij signalen over betalingsachterstanden bij vroegsignalering: Binnen vier 
+weken als hoofdregel en binnen drie werkdagen bij een bedreigende situatie, zoals een voorgenomen 
+huisuitzetting. De Nationale Ombudsman adviseert wettelijke termijnen op te nemen voor 
+overheidsinstanties waarbinnen zij moeten reageren op een verzoek van schuldhulpverleners om een 
+schuldenoverzicht en een voorstel voor een schuldenregeling. Deze aanbeveling wordt niet in dit 
+44
+wetsvoorstel geregeld, maar is onderdeel van de sociale (rijks)incasso. Tenslotte vraagt de Nationale 
+Ombudsman in de toelichting te verduidelijken dat het college ook als schuldhulpverlening wordt 
+uitbesteed en gemandateerd verantwoordelijk blijft voor het behandelen van klachten. Deze 
+aanbeveling is overgenomen. 
+ 
+ 
+ 
+44
+ Kamerstukken II 2018/19, 24 515 nr. 457. 
+4 
+
+ 
+ARTIKELSGEWIJS 
+ 
+ARTIKEL I. WIJZIGING VAN DE WET GEMEENTELIJKE SCHULDHULPVERLENING 
+ 
+A, B, C, E, G, H, I (artikelen 1, 2, derde en vijfde lid, 3, tweede en derde lid, 4, derde lid, 5, eerste en 
+derde lid, 6 en 7, eerste en tweede lid) 
+In deze onderdelen wordt voorgesteld de terminologie te uniformeren. In verschillende artikelen van 
+de wet wordt uitgegaan van de verzoeker. Dit begrip is gedefinieerd als een persoon die zich tot het 
+college heeft gewend voor schuldhulpverlening. Met vroegsignalering is er echter geen sprake van een 
+persoon die zich tot het college heeft gewend. Voorgesteld wordt om te spreken over cliënt wanneer 
+het gaat om een persoon die schuldhulpverlening krijgt op grond van de Wgs. De definitie van 
+verzoeker kan vervolgens vervallen in artikel 1. In verschillende artikelen wordt gesproken over 
+persoon. Persoon wordt vervangen door inwoner. De Wgs spreekt dan straks over inwoner wanneer er 
+nog geen beschikking is afgegeven, tegelijk is een cliënt ook een inwoner. 
+ 
+Van de gelegenheid is gebruik gemaakt het tweede lid van artikel 7 in technische zin te wijzigen in lijn 
+met aanwijzing 3.27, vierde lid, van de Aanwijzingen voor de regelgeving (verwijzing binnen een 
+artikel wordt zoveel mogelijk vermeden). 
+ 
+B (artikel 2, vierde lid) 
+Met de wijziging van het vierde lid wordt een nieuw onderdeel op chronologische volgorde ingevoegd. 
+In het nieuwe onderdeel c is expliciet opgenomen dat actief afspraken moeten worden gemaakt met 
+schuldeisers. Met deze afspraken wordt in algemene zin preventie van schulden en 
+schuldhulpverlening beoogd, maar ook vroegsignalering van schulden. Hierbij kan worden gedacht aan 
+afspraken over het incassobeleid dat bedrijven voeren, afspraken over de invulling van 
+vroegsignalering en samenwerking bij schuldregelen. Het kan zijn dat het bedrijf na het uitblijven van 
+een betaling eerst telefonisch contact moet opnemen alvorens over te gaan tot incasso maatregelen. 
+ 
+C (artikel 3, eerste en vijfde lid (nieuw)) 
+Door in het eerste lid explicieter te maken dat het college een taak heeft ten aanzien van het geven 
+van schuldhulpverlening, kan vervolgens op basis van artikel 8, eerste lid, bij of krachtens AMvB 
+aangegeven worden welke uitwisseling van gegevens noodzakelijk zijn voor een goede taakvervulling. 
+In onderdeel b van het eerste lid is de vroegsignalering opgenomen. Het college zal na ontvangst van 
+een bij AMvB te bepalen signaal aan een inwoner een aanbod moeten doen om met elkaar in gesprek 
+te gaan om te bezien of en welke hulp eventueel nodig is. Dit zal op korte termijn zijn, aangezien het 
+gesprek binnen vier weken na ontvangst van de melding zal dienen plaats te vinden (zie hierna de 
+toelichting bij onderdeel E). Alleen die signalen waarvan duidelijk is dat ze een goede voorspeller 
+vormen van het bestaan van meer schulden dan alleen de betalingsachterstand waarover het signaal 
+is afgegeven, kunnen bij AMvB worden aangewezen. Zoals aangegeven in hoofdstuk 2 van het 
+algemeen deel van deze memorie van toelichting zullen dat in eerste instantie de signalen zijn die 
+betrekking hebben op de betalingsachterstanden van huur van een woning, water, energie en 
+zorgverzekering.  
+ 
+Daarnaast wordt een nieuw lid aan artikel 3 toegevoegd. In principe is het college alleen bevoegd 
+schuldhulpverlening aan inwoners van zijn eigen gemeente aan te bieden. Er zijn echter 
+omstandigheden die het wenselijk maken om schuldhulpverlening aan te bieden (en hiervoor 
+persoonsgegevens te verwerken) aan een persoon die geen inwoner is van zijn gemeente, 
+bijvoorbeeld aan een (ex-)gedetineerde of in het geval van een verhuizing. In het kader van de 
+terugkeer van gedetineerden in de samenleving is het wenselijk om in voorkomende gevallen al een 
+schuldhulpverleningstraject op te starten voordat de gedetineerde vrijkomt. Ook als iemand al in een 
+schuldhulpverleningstraject zit en verhuist naar een andere gemeente kan het wenselijk zijn om deze 
+persoon te blijven helpen in dezelfde gemeente vanwege de continuïteit van de hulpverlening. Het 
+college heeft hierin de beleidsvrijheid om een eigen afweging te maken. Wanneer besloten is om een 
+4 
+
+De beschikking tot weigering bevat de motivering. Er is slechts één absolute weigeringsgrond welke is 
+opgenomen in het vierde lid van artikel 3, te weten een persoon die geen verblijfstatus heeft komt 
+niet in aanmerking voor schuldhulpverlening. De motivering kan beperkt blijven tot de constatering 
+dat iemand geen verblijfstatus heeft. De overige reden om te weigeren zijn minder absoluut (artikel 3, 
+tweede en derde lid, Wgs) en vereisen een deugdelijke motivering. 
+Wanneer iemand toegelaten wordt tot schuldhulpverlening bestaat de beschikking uit het plan van 
+aanpak. Door dit expliciet voor te schrijven, is niet alleen bezwaar en beroep mogelijk tegen het al dan 
+niet toelaten tot de schuldhulpverlening, maar is er ook betere rechtsbescherming mogelijk tegen het 
+45
+soort hulp dat aangeboden wordt. Het opnemen van het plan van aanpak in de beschikking betekent 
+ook dat een wijziging van de rechtspositie van de persoon betekent dat er een gewijzigde beschikking 
+dient te worden afgegeven, waartegen wederom bezwaar en beroep kan worden opengesteld. 
+Als de persoon in verband met schuldhulpverlening na het eerste gesprek aangeeft niet te willen 
+worden geholpen hoeft het college geen beschikking af te geven. 
+In het voorgestelde vierde lid is de verplichting opgenomen dat in het plan van aanpak rekening moet 
+worden gehouden met het bestaansminimum. Als er (minnelijke) schuldregelingen worden getroffen 
+dient ten minste de beslagvrije voet in acht te worden genomen. Het ophogen van de beslagvrije voet 
+is toegestaan, het verminderen niet. 
+Er is sprake van een tussentijdse beëindiging als het plan van aanpak niet volledig wordt uitgevoerd 
+en het beoogde resultaat dat met het plan van aanpak wordt nagestreefd niet wordt gehaald. Als het 
+plan van aanpak volledig wordt uitgevoerd, is het echter niet nodig om een besluit te nemen. Er is 
+immers geen sprake van een tussentijdse beëindiging. In het plan van aanpak kunnen bijvoorbeeld 
+voorwaarden worden opgenomen die nagekomen dienen te worden door de schuldenaar om een 
+effectieve hulp mogelijk te maken. Bijvoorbeeld het volgen van een cursus budgetbeheer, bekostigd 
+door de gemeente. Als blijkt dat de gestelde voorwaarden onvoldoende worden nageleefd, kan dit 
+reden zijn om het traject voortijdig stop te zetten. Om bij deze tussentijdse beëindiging van het 
+schuldhulpverleningstraject ook de rechtsbescherming te garanderen is in het vijfde lid expliciet 
+geregeld dat er in dat geval een beschikking wordt afgegeven. 
+ 
+H (artikel 6) 
+Met dit wetsvoorstel wordt aan het college een grotere bevoegdheid gegeven om gegevens op te 
+vragen die noodzakelijk zijn om de inkomens- en schuldenpositie van de persoon die met zijn 
+schulden wil worden geholpen. Dit kan vanaf het moment dat er contact is geweest met een inwoner 
+met schulden die op eigen initiatief hulp heeft gezocht bij het college of via vroegsignalering in beeld 
+is gekomen. In artikel 6 is de inlichtingenplicht geregeld. Aangezien zoals hiervoor is aangegeven het 
+college (een deel van) de gegevens zelf kan verzamelen, wordt voorgesteld de inlichtingenplicht in 
+artikel 6 te beperken tot die gegevens die niet door het college zelf zijn te verkrijgen. Daarnaast wordt 
+voorgesteld de plicht te beperken tot de persoon die op grond van de Wgs daadwerkelijk hulp krijgt 
+(en waarbij daarmee een beschikking is afgegeven met een plan van aanpak waarin aangegeven is 
+welke hulp wordt gegeven). Zolang er nog geen formele beschikking is genomen geldt daarmee nog 
+niet de inlichtingenplicht op grond van artikel 6, maar wel de bepalingen met betrekking tot een 
+aanvraag op grond van de Awb. Zo schrijft artikel 4:2, tweede lid, van de Awb voor dat de aanvrager 
+de gegevens en bescheiden bevat die voor de beslissing op de aanvraag nodig zijn en hij redelijkerwijs 
+de beschikking kan krijgen. Gegevens die het college zelf kan verkrijgen om de beschikking vast te 
+stellen zijn geen gegevens die nodig zijn voor de aanvraag en hoeven ook niet door de aanvrager te 
+worden geleverd. 
+ 
+J (artikel 8, eerste lid) 
+Met de voorgestelde wijziging in het eerste lid wordt toegevoegd dat onder te bepalen voorwaarden 
+gegevens en inlichtingen aan het college worden verstrekt. De wijziging is bedoeld om het huursignaal 
+te kunnen regelen in aanvulling op de bestaande regelgeving voor het melden van 
+betalingsachterstanden op energie, drinkwater en zorgpremie. 
+ 
+45
+ Uitspraken ECLI:NL:CRVB:2016:1491, ro 4.5 t/m 4.8, en ECLI:NL:CRVB:2018: 3241, ro 4.11 en 4.13, onderbouwen het belang 
+om dit expliciet te regelen. 
+4 
+
+voet toch eerder of gelijk in werking treedt is er een samenloopbepaling opgenomen (eerste lid). 
+Zodra de Wet vereenvoudiging beslagvrije voet in werking treedt, is het noodzakelijk dat de Wet 
+gemeentelijke schuldhulpverlening aangepast wordt aan de door de Wet vereenvoudiging beslagvrije 
+voet gewijzigde bepalingen in het Wetboek van Burgerlijke Rechtsvordering. Daarvoor is een bepaling 
+opgenomen in het tweede lid.  
+ 
+ARTIKEL IV. INWERKINGTREDING 
+De inwerkingtredingsbepaling regelt dat het moment van inwerkingtreding van dit wetsvoorstel bij 
+koninklijk besluit gebeurt. Dit moment kan per artikel of onderdeel ervan verschillen. Hierbij wordt 
+met name gedacht aan het later inwerking laten treden van onderdeel B, onder 2, aangezien ten 
+gevolge van voorgestelde wijziging voor zover hieraan in de gemeentelijke plannen niet of niet 
+voldoende aan is tegemoet gekomen, noodzakelijk is de plannen op dit punt in overeenstemming te 
+brengen met de wet. 
+ 
+De Staatssecretaris van Sociale Zaken 
+en Werkgelegenheid, 
+ 
+ 
+ 
+ 
+T. van Ark 
+4 
+
