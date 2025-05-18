@@ -164,7 +164,6 @@ function Get-TargetInfoFromSourceFile {
 function Export-RawTextFromSourceFile {
 
     [CmdletBinding()]
-    [OutputType([string])]
     param(
         [Parameter(Mandatory, ValueFromPipelineByPropertyName)]
         [PSCustomObject] $SourceFile,
