@@ -8442,3 +8442,206 @@ Exception calling ".ctor" with "1" argument(s): "Rebuild failed: trailer not fou
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\09\organogram-ministerie-van-vws ]> Organogram-ministerie-van-Volksgezondheid-Welzijn-en-Sport-versie-jan2020.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\09\organogram-ministerie-van-vws ]> organogram-vws-2024.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 42; BatchedItems: 100]...[0m
+[main cd65bcf7] Added batch #42 of policy-docs (total: 100
+ 101 files changed, 160709 insertions(+)
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/10/18/antwoorden-kamervragen-over-het-bericht-tot-in-de-dood-tweederangs-en-de-column-van-john-van-den-heuvel-menseli-F4753152.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2023/10/19/tk-beleidskader-aanpak-mensensmokkel-2023-2026.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/05/15/memorie-van-toelichting-slotwet-infrastructuur-en-waterstaat-2023/ienw-memorie-van-toelichting-slotwet-2023.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/05/15/memorie-van-toelichting-slotwet-mobiliteitsfonds-2023/mobiliteitsfonds-memorie-van-toelichting-slotwet-2023.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/05/15/memorie-van-toelichting-slotwet-sociale-zaken-en-werkgelegenheid-2023/szw-memorie-van-toelichting-slotwet-2023.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/09/17/wetsvoorstel-belastingplan-2025/bp25-wetsvoorstel.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/09/17/wetsvoorstel-belastingplan-bes-eilanden-2025/bp-bes-wetsvoorstel-belastingplan-bes-eilanden-2025.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/09/17/wetsvoorstel-niet-afbouwen-dubbele-algemene-heffingskorting/wetsvoorstel-bevriezing-afbouw-dubbele-algemene-heffingskorting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/09/17/wetsvoorstel-wijziging-wet-op-het-kindgebonden-budget/wetsvoorstel-wijziging-kindgebonden-budget.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2011/09/20/effect-op-u-2011.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/02/01/niet-visumplichtige-nationaliteiten-caribische-koninkrijksdelen/lijst-van-niet-visumplichtige-nationaliteiten-caribisch-visum.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/03/07/defensiekrant-nr-5-2013/defensiekrant-5-2013.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/04/19/koninkrijk-der-nederlanden/2koninkrijk-der-nederlanden-def.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/04/26/overzicht-van-voorgenomen-en-aanhangige-regelgeving-van-het-ministerie-van-economische-zaken-inzake-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/05/15/effect-op-u-prinsjesdag-2011/effect-op-u-2011.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/06/18/bestuurskosten-ministerie-van-defensie-november-december-2012/hennis-plasschaert.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/07/04/samenvattingen-scorekaarten-2013.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/09/17/deltafonds/j-deltafonds-mvt.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/09/17/infrafonds/a-infrastructuurfonds-mvt.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/09/17/toetsingskader-risicoregelingen-idb.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/09/17/toetsingskader-risicoregelingen-multilaterale-banken.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/10/17/antwoorden-schriftelijke-vragen-begroting-economische-zaken-2013.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/11/04/fiches-werkgroep-beoordeling-nieuwe-commissie-voorstellen-bnc.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/11/07/overzicht-van-afspraken-uit-het-bestuurlijk-overleg-financiele-verhoudingen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/11/28/bestuurskosten-ministerie-van-financien-oktober-2013.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/11/29/instructie-voor-de-delegatie-van-het-koninkrijk-der-nederlanden-naar-negende-ministeriele-conferentie-wto.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/12/10/nationaal-actieplan-mensenrechten/b-20644-nationaal-aktieplan-web.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/12/11/registratie-niet-ingezetenen-veelgestelde-vragen/veel-gestelde-vragen-registratie-niet-ingezetenen-1.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2013/12/20/overzicht-bes-wetegeving.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/01/24/6-fiches.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/03/04/overzicht-te-ontvangen-brieven-ministerie-ocw.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/06/03/de-jaren-van-het-koninkrijk-tien-knooppunten/40368-de-jaren-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/06/27/fiche-1-mededeling-eu-veiligheidsstrategie-in-midden-amerika-en-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/09/16/rijksbegroting-2014-uitgelicht/uitgelicht-begroting-2014.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/09/16/septembercirculaire-gemeentefonds-2014.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/10/31/beantwoording-feitelijke-vragen-begroting-buitenlandse-handel-en-ontwikkelingssamenwerking-2014.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2014/11/14/conclusies-eindevaluatie-amfo.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/05/20/resultaten-rijksbegroting-2013-per-thema.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/08/26/organogram-nieuw-bzk/organigramnieuwbzk.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/09/17/rappelabele-toezeggingen-aan-de-eerste-kamer-waarvan-de-termijn-op-1-juli-2015-verlopen-is.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/10/03/geannoteerde-agenda-raad-buitenlandse-zaken-van-12-oktober-2015.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/10/07/bijlagen-bij-besluit-wob-verzoek-windmolenparken-op-zee.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/10/12/evaluatie-fol-verdrag-over-de-periode-oktober-2013-tot-en-met-september-2014.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/10/14/schriftelijke-beantwoording-van-vragen-over-de-begrotingsbehandeling-economische-zaken-2016.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/11/04/bijlagen-bij-besluit-wob-verzoek-declaraties-medewerkers-bzk/besluit-wobverzoek-declaraties-medewerkers-bzk-bijlagen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/11/04/bijlagen-bij-besluit-wob-verzoek-declaraties-medewerkers-szw/bijlage-3-szw-deel-25.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/11/27/categoriemanagement-gerechtsdeurwaarders/16-de-duurzame-relatie-tussen-gerechtsdeurwaardersmarkt-en-rijksoverheid.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/12/11/bijlage-3-bij-besluit-wob-verzoek-over-verplaatsing-vaarroutes-noordzee/bijlage-3-documenten-inzake-wob2-deel1.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/12/11/bijlage-3-bij-besluit-wob-verzoek-over-verplaatsing-vaarroutes-noordzee/bijlage-3-documenten-inzake-wob2-deel2.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/12/16/verdiepende-studie-werelden-van-verschil.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/12/17/bijlagen-bij-besluiten-over-functioneren-politie-in-caribisch-gebied/bijlagen-bij-wobbesluiten-17-december-2015-en-22-februari-2016.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2015/12/22/stand-van-zaken-over-zorg-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/01/22/nieuwe-ontwikkelingen-in-het-emancipatiebeleid.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/02/25/bijlagen-bij-wob-besluit-over-het-pgb-dossier/bijlagen-bij-wob-besluit-doc-2-tm-30.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/01/registratie-niet-ingezetenen-veelgestelde-vragen/veel-gestelde-vragen-registratie-niet-ingezetenen-1.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/04/agenda-minister-infrastructuur-en-milieu-uit-de-periode-november-2012-december-2015.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/04/agenda-minister-sociale-zaken-en-werkgelegenheid-uit-de-periode-november-2012-december-2015.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht/bijlage-10-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht/bijlage-12-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht/bijlage-7-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/04/13/bijlage-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht/bijlage-8-bij-besluit-wob-verzoek-over-wijzigingswet-wet-bekostiging-financieel-toezicht.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/05/03/rappelabele-toezeggingen-aan-de-eerste-kamer.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/05/17/rapportage-burgerbrieven-vws-2015.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/05/18-per-thema/resultaten-rijksbegroting-2014.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/06/16/vragen-en-antwoorden-verantwoordingsonderzoek-algemene-rekenkamer.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/06/16/vragen-en-antwoorden-vws-jaarverslag.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/06/18/onderzoek-huidig-beleid-bij-de-rijksoverheid-voor-buitenlandse-dienstreizen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/06/24/bijlagen-bij-besluit-wob-verzoek-adr-rapporten-2015-bz/35.-adr-2015-1040-onderzoek-huidig-reisbeleid-bij-de-rijksoverheid-voor-buitenlandse-dienstreizen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/07/04/bijlage-2-bij-besluit-wob-verzoek-over-evaluatie-begroting-koning/02-verstrekte-stukken-deel-2.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/07/04/bijlage-5-bij-besluit-wob-verzoek-over-evaluatie-begroting-koning/05-verstrekte-stukken-deel-5.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/07/04/overzicht-van-verdragen-zonder-vereiste-van-parlementaire-goedkeuring-2012-1-april-2016.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/07/04/overzicht-voorgedragen-voor-stilzwijgende-goedkeuring-vanaf-januari-2012-tot-1-april-2016.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/09/20/rijksbegroting-2017-vi-veiligheid-en-justitie/6.-vi-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/10/31/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-100B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/10/31/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-102B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/10/31/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-103B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2016/10/31/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-104B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/02/13/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-105B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/03/31/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-106B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/04/09/brief-aan-minister-president-over-bestuurlijke-situatie-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/05/15/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-107B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-115B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-116B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-117B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-118B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-119B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-127B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-128B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenV-129B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinJenVmaart2018.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/01/organogram-ministerie-van-veiligheid-en-justitie/OrganogramMinVenJ-109B.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/21/beleidsdoorlichting-zw-en-wazo.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/06/22/eerste-suppletoire-wet-begroting-van-vws.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/10/10/budgettair-overzicht-bij-het-regeerakkoord-vertrouwen-in-de-toekomst/budgettair-overzicht-regeerakkoord-2017-vertrouwen-in-de-toekomst.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/10/10/regeerakkoord-2017-vertrouwen-in-de-toekomst.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2017/11/21/introductiedossier-ministerie-van-justitie-en-veiligheid/JenV_Introductiedossier_V12_2.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2018/01/09/organogram-ministerie-van-vws/230901-organogram-vws-sept23.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2018/01/09/organogram-ministerie-van-vws/250103-organogram-vws.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2018/01/09/organogram-ministerie-van-vws/Organogram-ministerie-van-Volksgezondheid-Welzijn-en-Sport-versie-jan2020.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2018/01/09/organogram-ministerie-van-vws/organogram-vws-2024.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\09\organogram-ministerie-van-vws ]> vws-organogram.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\09-ministerie-van-vws ]> Organogram.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\19 ]> fiche-3-aanbeveling-onderhandelingsmandaat-voor-een-toekomstig-partnerschap-tussen-de-eu-en-acs-landen-post-cotonou.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\01\19 ]> overzicht-verwachte-kamerbrieven-ocw-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\02\21 ]> jaarplanning-vws-1e-kwartaal-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\05\17 ]> stand-van-zaken-verbetertraject-rcn-unit-szw-per-31-december-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\05\17 ]> uitvoeringsverslag-eerste-twee-jaar-wet-kinderbijslagvoorziening-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\07\13 ]> een-koninkrijk-vier-landen-europees-en-caribisch.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\07\20 ]> fiche-8-mfk-lgo-besluit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\11 ]> verslag-73ste-avvn.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-februari24-organogram-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-nl-organogram-juni-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-nov23-organogrammen-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-oktober-organogram-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-22-04-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-30-aug-2022-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-ambtelijke-organisatie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-apr-2023-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-januari2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-juli-2023-nl.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-mei2023-NL-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-nl-aug2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogram-nl-dec2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> BZK-organogram.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> bzk-organogrammen-nl-januari2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> organogram-bzk-juni-2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> organogram-bzk-mei-2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> organogram-bzk-nl-mei-2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\10\19\organogram-ministerie-van-bzk ]> organogram-BZK-oktober-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-132B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-133B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-134B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-135B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-136B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-137B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-138B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-140B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-143B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-145B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-146B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-147B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-150B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-151B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-152B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-153B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-154B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-155B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-156B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-157B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-159B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-160B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-161B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-162B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-163B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-164B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-165B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-166B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-167B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-168B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-170B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-171B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-172B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-173B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-174B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-175B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-176B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-177B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-178B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-179B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-180B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-181B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-182B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-183B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-184B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-185B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-186B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-187B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-188B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-189B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-190B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-191B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-192B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-193B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-194B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-196B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-197B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-199B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-200B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-201B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-202B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-203B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-205B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-206B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-207B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-208B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-209B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-210B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-212B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-213B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ publicaties\2018\11\15\organogram-ministerie-van-justitie-en-veiligheid ]> OrganogramMinJenV-214B.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 43; BatchedItems: 100]...[0m

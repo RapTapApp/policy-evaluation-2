@@ -1,0 +1,2249 @@
+Gegevensbeschermingseffectbeoordeling (DPIA)
+ 
+VWS | Directie Informatiebeleid / CIO
+DPIA EU Digitaal Corona Certificaat & nationaal Coronatoegangsbewijs
+Den Haag, 21 juni 2021 / versie 2.0 / Status: vastgesteld
+Gegevensbeschermingseffectbeoordeling 
+(DPIA) 
+ 
+VWS | Directie Informatiebeleid / CIO 
+DPIA EU Digitaal Corona Certificaat & nationaal Coronatoegangsbewijs 
+Den Haag, 21 juni 2021 / versie 2.0 / Status: vastgesteld 
+ 
+ 
+ 
+  
+ 
+
+Contact:
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Ministerie van Volksgezondheid, Welzijn en Sport Directie Informatiebeleid/CIO
+Coronatoegangsbewijs 
+Parnassusplein 5 2511 VX Den Haag
+Versie: 2.0, 21 juni 2021
+Gegevensbeschermingseffectbeoordeling (DPIA) 
+VWS | Directie Informatiebeleid / CIO 
+DPIA EU Digitaal Corona Certificaat (DCC) & nationaal Coronatoegangsbewijs 
+Contact: 
+Ministerie van Volksgezondheid, Welzijn en Sport 
+Directie Informatiebeleid/CIO 
+Parnassusplein 5 
+2511 VX Den Haag 
+Versie: 2.0, 21 juni 2021 
+ 
+ 
+3 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+[Deze pagina bevat de inhoudsopgave van dit rapport. Deze wordt niet voorgelezen door de screenreader. Gebruik voor navigatie de gemaakte 
+bladwijzers in deze PDF.]
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Coronatoegangsbewijs 
+ Toelichting rol trust framework EU .................................................................................... 32 
+ Is sprake van (semi‐)geautomatiseerde besluitvorming? ................................................... 33 
+ Beveiliging ........................................................................................................................... 33 
+ Juridisch  en bele idsmatig kader .......................................................................................... 3 5 
+ Bewaarte rmijne n ................................................................................................................ 3 5 
+ Digitaal Bewijsmiddel via CoronaCheck app ....................................................................... 36 
+ Fysiek Bewijsmiddel via Website (coronacheck.nl) ............................................................ 36 
+ Fysiek Bewijsmiddel via hulpverlenersportaal (HKVI) ........................................................ 36 
+ CoronaCheck Scanner ......................................................................................................... 36 
+ Secundaire gegevensverwerking ........................................................................................ 36 
+B. Beoordeling rechtmatigheid gegevensverwerkingen .................................................. 37 
+ Rechtsgrond ........................................................................................................................ 3 7 
+ Grondslagen EU DCC ........................................................................................................... 37 
+ Grondslagen nationaal Coronatoegangsbewijs .................................................................. 38 
+ Bijzonde re  persoonsgegevens ............................................................................................. 4 0 
+ Wettelijke uitzondering verwerkingsverbod bijzondere persoonsgegevens ..................... 40 
+ Burgerservicenummer ........................................................................................................ 40 
+ Doelbind ing ......................................................................................................................... 4 0 
+ Noodzaak en evenredigheid  ............................................................................................... 4 0 
+ Proportionaliteit ................................................................................................................. 41 
+ Subsidiariteit ....................................................................................................................... 42 
+ Re chten  van  betrokkenen ................................................................................................... 4 2 
+ Transparantie (art. 12, 13 AVG) .......................................................................................... 42 
+ Notificatieplicht (art. 14 AVG) ............................................................................................ 43 
+ Recht op inzage (art. 15 AVG) ............................................................................................. 43 
+ Recht op rectificatie (art. 16 AVG) ...................................................................................... 43 
+ Recht op verwijdering (art. 17 AVG) ................................................................................... 43 
+ Recht op beperking (art. 18 AVG) ....................................................................................... 44 
+ Kennisgevingsplicht derden (art. 19 AVG) .......................................................................... 44 
+ Recht op overdraagbaarheid (art. 20 AVG) ........................................................................ 44 
+ Recht van bezwaar (art. 21 AVG) ........................................................................................ 44 
+ Verbod van geautomatiseerde besluitvorming (art. 22 AVG) ............................................ 44 
+C. Beschrijving en beoordeling risico’s voor de betrokkenen, maatregelen en restrisico’s 46 
+ Risico’s ............................................................................................................................... . 4 6 
+ Procesoverstijgend ............................................................................................................. 48 
+ Installatie CoronaCheck App ............................................................................................... 60 
+ Verificatie identiteit gebruiker ........................................................................................... 61 
+ Opvragen brongegevens ..................................................................................................... 62 
+ Beoordelen brongegevens .................................................................................................. 64 
+ Uitgifte Bewijsmiddel.......................................................................................................... 64 
+ Uitlezen Bewijsmiddel ........................................................................................................ 65 
+  
+5 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+CoronaCheck, coronacheck.nl, CoronaCheck Scanner en hulpverlenersportaal (HKVI) voor zowel EU DCC als Coronatoegangsbewijs
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+De CoronaCheck app wordt reeds ingezet voor het genereren van een digitaal Coronatoegangsbewijs (in de vorm van een QR‐code) op basis 
+van een negatieve testuitslag. Daarnaast kan een persoon kiezen om een Coronatoegangsbewijs te genereren dat geschikt is om te printen via 
+Coronatoegangsbewijs 
+coronacheck.nl. Dit wordt voor binnenlands gebruik stapsgewijs uitgebreid met een Coronatoegangsbewijs op basis van vaccinatiegegevens 
+(vaccinatiebewijs) en een positief testresultaat (herstelbewijs). Vanaf 1 juli 2021 wordt het tevens mogelijk om via CoronaCheck of coronacheck.
+nl het EU DCC ten behoeve van reizen (de Europese QR‐code) te gebruiken (voor vaccinatie, herstel of negatieve test). Via dezelfde applicatie en 
+website kan dus zowel een nationaal Coronatoegangsbewijs als een EU DCC worden gegenereerd.
+Voor binnenlands gebruik wordt voor het uitlezen van de QR‐code door de controleurs gebruik gemaakt van de CoronaCheck Scanner om te 
+ 
+controleren of iemand beschikt over een geldig Coronatoegangsbewijs. Deze zal tevens worden ingezet voor de controle van een EU DCC van 
+ 
+een Europese burger uit een andere lidstaat die toegang wil tot een evenement of locatie in Nederland. Nederland heeft ervoor gekozen om de 
+CoronaCheck, coronacheck.nl, CoronaCheck Scanner en hulpverlenersportaal (HKVI) voor zowel 
+EU DCC niet in te zetten voor binnenlands gebruik door Nederlandse burgers aangezien de EU DCC meer gegevens bevat dan noodzakelijk voor 
+EU DCC als Coronatoegangsbewijs 
+binnenlands gebruik. Het Nederlandse Coronatoegangsbewijs is zo ontworpen dat de QR‐code minimale data bevat en de controleur niet kan 
+zien of iemand beschikt oDe  vCoroer een vnaCacheckcina tie‐, tappest‐ of herst  wordt  elbewijsreeds  . Dingezete eisen die gelden v  voor  hetoor de gegev  genererenens die zijn opgenomen in de QR‐c  van  een  digitaal  ode 
+van het EU DCC ten behoeve van reizen zijn uitgebreider en bevatten meer persoonsgegevens.
+Coronatoegangsbewijs (in de vorm van een QR‐code) op basis van een negatieve testuitslag. 
+Daarnaast kan een persoon kiezen om een Coronatoegangsbewijs te genereren dat geschikt is om 
+Indien het een persoon niet lukt via CoronaCheck of coronacheck.nl een EU DCC en een Coronatoegangsbewijs te genereren, is voorzien in een 
+te printen via coronacheck.nl. Dit wordt voor binnenlands gebruik stapsgewijs uitgebreid met een 
+hulpverlenersportaal (HKVI).
+Coronatoegangsbewijs  op  basis  van  vaccinatiegegevens  (vaccinatiebewijs)  en  een  positief 
+Verder is, als het gaat om uitrtestresultaateizen, de minist (herstelbewijs).er van Infr Vaastrucnaf 1tuur en  juli 2021Wa twordterstaa t erhetv oor vtevenersan mogelijktwoordelijk da om vit de ina CorovoernaCing vheckan het EU DC of  C in het 
+georganiseerde vervoer goed verloopt. De minister van Justitie en Veiligheid heeft de verantwoordelijkheid voor de controle en handhaving van 
+coronacheck.nl het EU DCC ten behoeve van reizen (de Europese QR‐code) te gebruiken (voor 
+inreizigers met eigen vervoer.
+vaccinatie, herstel of negatieve test). Via dezelfde applicatie en website kan dus zowel een 
+nationaal Coronatoegangsbewijs als een EU DCC worden gegenereerd.  
+De applicaties CoronaCheck, CoronaCheck Scanner, de websitecoronacheck.nl en het hulpverlenersportaal (HKVI) zijn onder 
+ 
+verantwoordelijkheid van de minister van VWS (hierna de minister) ontwikkeld. Het uitgangspunt van deze DPIA is het voorgenomen gebruik 
+Voor binnenlands gebruik wordt voor het uitlezen van de QR‐code door de controleurs gebruik 
+van(persoons)gegevens zoals bekend op 21 juni 2021.
+gemaakt van de CoronaCheck Scanner om te controleren of iemand beschikt over een geldig 
+Reikwijdte DPIA
+Coronatoegangsbewijs. Deze zal tevens worden ingezet voor de controle van een EU DCC van een 
+Europese burger uit een andere lidstaat die toegang wil tot een evenement of locatie in Nederland. 
+Deze DPIA geldt voor het EU DCC ten behoeve van reizen en voor het Coronatoegangsbewijs voor nationaal gebruik.
+Nederland heeft ervoor gekozen om de EU DCC niet in te zetten voor binnenlands gebruik door 
+De verordening treedt 1 juli 2021 in werking. Door middel van een EU DCC kan het vrij verkeer van personen op een veilige wijze worden 
+Nederlandse  burgers  aangezien  de  EU  DCC  meer  gegevens  bevat  dan  noodzakelijk  voor 
+gefaciliteerd gedurende de pandemie en wordt voorkomen
+binnenlands gebruik. Het Nederlandse Coronatoegangsbewijs is zo ontworpen dat de QR‐code 
+minimale data bevat en de controleur niet kan zien of iemand beschikt over een vaccinatie‐, test‐ 
+of herstelbewijs. De eisen die gelden voor de gegevens die zijn opgenomen in de QR‐code van het 
+EU DCC ten behoeve van reizen zijn uitgebreider en bevatten meer persoonsgegevens.  
+ 
+Indien  het  een  persoon  niet  lukt  via  CoronaCheck  of  coronacheck.nl  een  EU  DCC  en  een 
+Coronatoegangsbewijs te genereren, is voorzien in een hulpverlenersportaal (HKVI).  
+ 
+Verder  is,  als  het  gaat  om  uitreizen,  de  minister  van  Infrastructuur  en  Waterstaat  ervoor 
+verantwoordelijk dat de invoering van het EU DCC in het georganiseerde vervoer goed verloopt. 
+De  minister  van  Justitie  en  Veiligheid  heeft  de  verantwoordelijkheid  voor  de  controle  en 
+handhaving van inreizigers met eigen vervoer.  
+ 
+De  applicaties  CoronaCheck,  CoronaCheck  Scanner,  de  websitecoronacheck.nl  en  het 
+hulpverlenersportaal (HKVI) zijn onder verantwoordelijkheid van de minister van VWS (hierna de 
+minister)  ontwikkeld.  Het  uitgangspunt  van  deze  DPIA  is  het  voorgenomen  gebruik 
+van(persoons)gegevens zoals bekend op 21 juni 2021.  
+ 
+Reikwijdte DPIA 
+Deze DPIA geldt voor het EU DCC ten behoeve van reizen en voor het Coronatoegangsbewijs voor 
+nationaal gebruik. 
+ 
+De verordening treedt 1 juli 2021 in werking. Door middel van een EU DCC kan het vrij verkeer van 
+personen op een veilige wijze worden gefaciliteerd gedurende de pandemie en wordt voorkomen 
+7 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+• Het gebruik van de CoronaCheck Scanner als het gaat om het uitlezen van een Coronatoegangsbewijs om toegang te verkrijgen tot een 
+evenement of locatie in Nederland waarvoor geldt dat toegang kan worden verkregen op basis van de Tijdelijke wet 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+coronatoegangsbewijzen.
+Coronatoegangsbewijs 
+• Het gebruik van de CoronaCheck Scanner als het gaat om het uitlezen van de EU DCC van personen uit andere lidstaten die toegang willen 
+tot een evenement of locatie in Nederland waarvoor geldt dat toegang kan worden verkregen op basis van een nationaal 
+coronatoegangsbewijs.
+Buiten reikwijdte van deze DPIA valt:
+‐ Het gebruik van de CoronaCheck Scanner als het gaat om het uitlezen van een 
+• De gegevensverwerking bij de uitvoerders van de test, de vaccinatiezetter en de verklaarder van herstel.
+• De Scan app voor het uitlezen van het EU DCC in het kader van georganiseerd vervoer en controle van inreizigers met eigen vervoer.
+Coronatoegangsbewijs om toegang te verkrijgen tot een evenement of locatie in 
+• De Scan app voor het uitlezen van het EU DCC door een andere lidstaat.
+Nederland waarvoor geldt dat toegang kan worden verkregen op basis van de Tijdelijke 
+• Het trust framework en de daarmee samenhangende Europese spelregels over welke vaccins en tests erkend worden en de te hanteren 
+wet coronatoegangsbewijzen.  
+beslisregels over hoe lang welke test of vaccin een significante verlaging van het besmettingsgevaar van de betrokkene met zich meebrengt.
+‐ Het gebruik van de CoronaCheck Scanner als het gaat om het uitlezen van de EU DCC van 
+• De uitzonderingsroutes die momenteel nog worden ontwikkeld, bijvoorbeeld voor mensen die niet beschikken over een BSN.
+personen uit andere lidstaten die toegang willen tot een evenement of locatie in 
+• De wijze waarop voor de inwoners van de BES‐eilanden zal worden voorzien in de uitgifte van een EU DCC.
+Nederland waarvoor geldt dat toegang kan worden verkregen op basis van een nationaal 
+• De wijze waarop zal worden geregeld dat de CAS‐landen kunnen aansluiten op het systeem dat de EU bouwt om vaccinatie‐, test en 
+herstelbewijzen te authentiseren en verifiëren.
+coronatoegangsbewijs.  
+• Het publiceren van de app in de relevante app stores is in zoverre binnen de reikwijdte van deze DPIA dat risico’s op “valse” apps onderdeel 
+ 
+uit zullen maken van de risico‐analyse.
+Buiten reikwijdte van deze DPIA valt: 
+• Eventuele verwerkingen in deze app stores van persoonsgegevens door Apple en/of Google vallen buiten de reikwijdte van deze DPIA.
+‐ De  gegevensverwerking  bij  de  uitvoerders  van  de  test,  de  vaccinatiezetter  en  de 
+• Het broncodedepot van de CoronaCheck app.
+verklaarder van herstel. 
+• Het inloggen door de persoon in de CoronaCheck app vindt plaats met DigiD via de ToegangVerleningService (TVS). Beide worden 
+‐ De Scan app voor het uitlezen van het EU DCC in het kader van georganiseerd vervoer en 
+beschouwd als een bouwsteen waarvan het gebruik wel binnen de reikwijdte van deze DPIA valt maar niet de werking. Beide bouwstenen 
+vallen onder de verantwoordelijkheid van de minister van BZK.
+controle van inreizigers met eigen vervoer. 
+‐ De Scan app voor het uitlezen van het EU DCC door een andere lidstaat. 
+‐ Het  trust  framework en de daarmee samenhangende Europese spelregels over welke 
+vaccins en tests erkend worden en de te hanteren beslisregels over hoe lang welke test 
+of vaccin een significante verlaging van het besmettingsgevaar van de betrokkene met 
+zich meebrengt. 
+‐ De  uitzonderingsroutes  die  momenteel  nog  worden  ontwikkeld,  bijvoorbeeld  voor 
+mensen die niet beschikken over een BSN.  
+‐ De wijze waarop voor de inwoners van de BES‐eilanden zal worden voorzien in de uitgifte 
+van een EU DCC. 
+‐ De wijze waarop zal worden geregeld dat de CAS‐landen kunnen aansluiten op het 
+systeem dat de EU bouwt om vaccinatie‐, test en herstelbewijzen te authentiseren en 
+verifiëren. 
+‐ Het publiceren van de app in de relevante app stores is in zoverre binnen de reikwijdte van 
+deze DPIA dat risico’s op “valse” apps onderdeel uit zullen maken van de risico‐analyse. 
+Eventuele verwerkingen in 
+deze app stores van persoonsgegevens door Apple en/of 
+Google vallen buiten de reikwijdte van deze DPIA.  
+‐ Het broncodedepot van de CoronaCheck app. 
+‐ Het inloggen door de persoon in de CoronaCheck app vindt plaats met DigiD via de 
+ToegangVerleningService (TVS). Beide worden beschouwd als een bouwsteen waarvan 
+het gebruik wel binnen de reikwijdte van deze DPIA valt maar niet de werking. Beide 
+bouwstenen vallen onder de verantwoordelijkheid van de minister van BZK.  
+  
+9 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+IenW Ministerie van Infrastructuur en Waterstaat
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Minister van VWS Minister van Volksgezondheid, Welzijn en Sport
+Coronatoegangsbewijs 
+NAAT Nucleic Acid Amplification Test, een test voor DNA‐markeringen in een monster
+PCR‐test Polymerase Chain Reaction‐test, een specifiek type NAAT
+TVS ToegangVerleningService
+IenW  Ministerie van Infrastructuur en Waterstaat 
+ 
+Minister van VWS  Minister van Volksgezondheid, Welzijn en Sport 
+ 
+NAAT  Nucleic Acid Amplification Test, een test voor DNA‐markeringen in een 
+monster 
+ 
+PCR‐test  Polymerase Chain Reaction‐test, een specifiek type NAAT 
+ 
+TVS  ToegangVerleningService 
+ 
+  
+11 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+[Figuur 1 Routes Bewijsmiddelen (vereenvoudigd)]
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Deze drie routes zijn zowel van toepassing op het genereren van een EU DCC en Coronatoegangsbewijs op basis van test‐, vaccinatie‐ als 
+Coronatoegangsbewijs 
+herstelgegevens.
+Momenteel wordt onderzocht of er nog meer situaties zijn die een aparte uitzonderingsroute vereisen, deze vallen buiten scope van deze DPIA. 
+Deze uitzonderingsroutes zullen in de vorm van een addendum bij deze DPIA worden gevoegd.
+De twee hoofdroutes én de route via het Hulpverlenersportaal worden onderstaand op hoofdlijnen beschreven. In paragraaf 3 wordt dit voor 
+testen, vaccinatie en herstel apart nader uitgewerkt.
+App: Route Digitaal Bewijsmiddel via CoronaCheck App
+1. Betrokkene downloadt de CoronaCheck app in een appstore (doorgaans Apple App Store of Google Play Store) en installeert deze.
+2. De CoronaCheck app zal met behulp van een configuratieserver van VWS (hierover later meer) een aantal instellingen ophalen.
+3. In de CoronaCheck app wordt bij eerste gebruik in een onboardingsproces aan de betrokkene uitgelegd wat de Bewijsmiddelen in kunnen 
+houden en waar ze voor gebruikt kunnen worden. Daarbij wordt de betrokkene in de gelegenheid gesteld de privacyverklaring te lezen.
+ 
+Figuur  1  Rou te s  Bewijsmiddelen  (vereenvoudigd) 
+ 
+Deze drie routes zijn zowel van toepassing op het genereren van een EU DCC en 
+Coronatoegangsbewijs op basis van test‐, vaccinatie‐ als herstelgegevens. 
+Momenteel wordt onderzocht of er nog meer situaties zijn die een aparte uitzonderingsroute 
+vereisen, deze vallen buiten scope van deze DPIA. Deze uitzonderingsroutes zullen in de vorm van 
+een addendum bij deze DPIA worden gevoegd.  
+ 
+De twee hoofdroutes én de route via het Hulpverlenersportaal worden onderstaand op hoofdlijnen 
+beschreven. In paragraaf 3 wordt dit voor testen, vaccinatie en herstel apart nader uitgewerkt.  
+ 
+AApppp::  RRoouuttee  DDiiggiittaaaall  BBeewwiijjssmmiiddddeell  vviiaa  CCoorroonnaaCChheecckk  AApppp  
+1. Betrokkene downloadt de CoronaCheck app in een appstore (doorgaans Apple App Store 
+of Google Play Store) en installeert deze. 
+2. De CoronaCheck app zal met behulp van een configuratieserver van VWS (hierover later 
+meer) een aantal instellingen ophalen. 
+3. In de CoronaCheck app wordt bij eerste gebruik in een onboardingsproces aan de 
+betrokkene uitgelegd wat de Bewijsmiddelen in kunnen houden en waar ze voor gebruikt 
+kunnen worden. Daarbij wordt de betrokkene in de gelegenheid gesteld de 
+privacyverklaring te lezen. 
+13 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Website: Route Fysiek Bewijsmiddel via Website https://coronacheck.nl
+1. Betrokkene geeft op de Website aan dat hij of zij zijn of een test‐, vaccinatie‐ of herstelbewijs wenst.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+2. De identiteit van de betrokken wordt geverifieerd (hetzij door DigiD‐niveau midden, hetzij door middel van een door een privaat teststation 
+Coronatoegangsbewijs 
+3
+uitgereikte unieke ophaalcode en verificatiecode, beide twee‐factor authenticatie) .
+3. Als de betrokkene in stap 1 heeft aangegeven alleen een testbewijs te willen ophalen worden de gegevens bij het teststation of bij de 
+GGD’en opgehaald en vervolgt het proces met stap 5. Als betrokkene in stap 1 heeft aangegeven een andersoortig Bewijsmiddel te willen 
+volgt stap 4.
+4. De benodigde gegevens worden bij de bronhouders (vaccinatiezetter of verklaarder van herstel) opgevraagd.
+5. Betrokkene bevestigt dat hij op basis van de beschikbare informatie een QR‐code wil maken.
+WWeebbssiittee::  RRoouuttee  FFyyssiieekk  BBeewwiijjssmmiiddddeell  vviiaa  WWeebbssiittee  hhttttppss::////ccoorroonnaacchheecckk..nnll    
+6. De opgehaalde informatie wordt beoordeeld aan de hand van de vereisten die op Europees niveau worden gesteld voor het verkrijgen van 
+1. Betrokkene geeft op de Website aan dat hij of zij zijn of een test‐, vaccinatie‐ of 
+een EU DCC én aan de hand van de vereisten die op nationaal niveau worden gesteld voor het verkrijgen van een Coronatoegangsbewijs.
+7. Indien de opgehaalde informatie voldoet aan de hiervoor genoemde vereisten, worden de beide Bewijsmiddelen (EU DCC / 
+herstelbewijs wenst. 
+Coronatoegangsbewijs) door VWS verstrekt. De Bewijsmiddelen worden in de vorm van QR‐codes getoond en ter download aangeboden in 
+2. De identiteit van de betrokken wordt geverifieerd (hetzij door DigiD‐niveau midden, hetzij 
+PDF‐formaat. Het technische verschil tussen het EU DCC en het Coronatoegangsbewijs is, ook al worden ze beide als QR‐codes getoond, a) 
+door middel van een door een privaat teststation uitgereikte unieke ophaalcode en 
+dat ze andere gegevens bevatten en b) met technisch andere gekwalificeerde elektronische handtekeningen ondertekend zijn. Daarom 
+3
+verificatiecode, beide twee‐factor authenticatie) . 
+worden hier twee verschillende signing servers van VWS voor gebruikt.
+3. Als de betrokkene in stap 1 heeft aangegeven alleen een testbewijs te willen ophalen 
+8. Betrokkene kan de Bewijsmiddelen in de vorm van een QR‐code in PDF‐bestanden downloaden en op papier printen en beschikt daarmee 
+worden de gegevens bij het teststation of bij de GGD’en opgehaald en vervolgt het proces 
+over een EU DCC en Coronatoegangsbewijs op papier.
+met stap 5. Als betrokkene in stap 1 heeft aangegeven een andersoortig Bewijsmiddel te 
+willen volgt stap 4. 
+HKVI: Route Fysiek Bewijsmiddel via hulpverlenersportaal
+4. De benodigde gegevens worden bij de bronhouders (vaccinatiezetter of verklaarder van 
+1. Betrokkene wendt zich tot de vaccinatiezetter of de uitvoerder van de test met het verzoek om een Bewijsmiddel te genereren;
+herstel) opgevraagd. 
+5. Betrokkene bevestigt dat hij op basis van de beschikbare informatie een QR‐code wil 
+2. De vaccinatiezetter of de uitvoerder van de test logt in op het HKVI met:
+a) UZI‐pas, of
+maken. 
+4
+b) Twee‐factor‐authenticatie (indien vooraf hiervoor aangemeld door de verantwoordelijke arts en gecontroleerd )
+6. De opgehaalde informatie wordt beoordeeld aan de hand van de vereisten die op 
+3. De vaccinatiezetter of uitvoerder van de test vult de benodigde informatie voor een Bewijsmiddel in;
+Europees niveau worden gesteld voor het verkrijgen van een EU DCC én aan de hand van 
+4. De vaccinatiezetter of uitvoerder van de test bevestigt dat het Bewijsmiddel gegenereerd moet worden;
+de vereisten die op nationaal niveau worden gesteld voor het verkrijgen van een 
+Coronatoegangsbewijs. 
+7. Indien de opgehaalde informatie voldoet aan de hiervoor genoemde vereisten, worden de 
+beide Bewijsmiddelen (EU DCC / Coronatoegangsbewijs) door VWS verstrekt. De 
+Bewijsmiddelen worden in de vorm van QR‐codes getoond en ter download aangeboden 
+in PDF‐formaat. Het technische verschil tussen het EU DCC en het Coronatoegangsbewijs 
+is, ook al worden ze beide als QR‐codes getoond, a) dat ze andere gegevens bevatten en b) 
+met technisch andere gekwalificeerde elektronische handtekeningen ondertekend zijn. 
+Daarom worden hier twee verschillende signing servers van VWS voor gebruikt. 
+8. Betrokkene kan de Bewijsmiddelen in de vorm van een QR‐code in PDF‐bestanden 
+downloaden en op papier printen en beschikt daarmee over een EU DCC en 
+Coronatoegangsbewijs op papier.  
+ 
+HHKKVVII::  RRoouuttee  FFyyssiieekk  BBeewwiijjssmmiiddddeell  vviiaa  hhuullppvveerrlleenneerrssppoorrttaaaall  
+1. Betrokkene wendt zich tot de vaccinatiezetter of de uitvoerder van de test met het 
+verzoek om een Bewijsmiddel te genereren; 
+2. De vaccinatiezetter of de uitvoerder van de test logt in op het HKVI met: 
+a) UZI‐pas, of 
+b) Twee‐factor‐authenticatie (indien vooraf hiervoor aangemeld door de 
+4
+verantwoordelijke arts en gecontroleerd ) 
+3. De vaccinatiezetter of uitvoerder van de test vult de benodigde informatie voor een 
+Bewijsmiddel in; 
+4. De vaccinatiezetter of uitvoerder van de test bevestigt dat het Bewijsmiddel gegenereerd 
+moet worden; 
+                                                                 
+3
+ De wijze waarop wordt voor de commerciële teststations aan de teststations gehouden, in de aansluitvoorwaarden wordt 
+twee‐factor authenticatie vereist. 
+4
+ Niet alle artsen (of hun gedelegeerden) hebben de beschikking over een UZI‐pas. 
+3 De wijze waarop wordt voor de commerciële teststations aan de teststations gehouden, in de aansluitvoorwaarden wordt twee‐factor authenticatie vereist.
+4 Niet alle artsen (of hun gedelegeerden) hebben de beschikking over een UZI‐pas.
+15 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+uitgewerkt welke gegevens zijn opgenomen in de QR‐code van het EU DCC die door genoemde partijen kunnen worden uitgelezen.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Uit hoofde van zowel betrouwbaarheid als privacy wordt vanuit de Verordening de eis gesteld (overweging 22 van de verordening) dat de 
+Coronatoegangsbewijs 
+verificatie van het EU DCC offline plaats kan vinden zodat de lidstaat die het EU DCC heeft uitgegeven of een andere partij geen informatie krijgt 
+over waar en wanneer de verificatie plaatsvindt. Dit wordt gerealiseerd door periodiek de publieke sleutels van de uitgevende lidstaten in de 
+CoronaCheck Scanner in te laden. Dit sleutelbeheer vindt plaats op basis van het European trust framework dat dit mogelijk maakt (zie paragraaf 
+8 voor nadere uitwerking). Verificatie door middel van de VWS CoronaCheck Scanner leidt niet tot netwerkverkeer met het land van uitgifte. 
+Hiermee wordt voorkomen dat het land van uitgifte door dergelijk netwerkverkeer haar onderdanen zou kunnen volgen.
+uitgewerkt welke gegevens zijn opgenomen in de QR‐code van het EU DCC die door genoemde 
+1.3 Corona Scan App: uitlezen Coronatoegangsbewijs uit CoronaCheck app
+partijen kunnen worden uitgelezen.  
+Zoals eerder aangegeven is het Coronatoegangsbewijs intern in de CoronaCheck app nog geen QR‐ code, maar een van een gekwalificeerde 
+ 
+elektronische handtekening voorziene dataset voor het Coronatoegangsbewijs. Deze dataset heeft een afgiftedatum en een geldigheidsduur.
+Uit hoofde van zowel betrouwbaarheid als privacy wordt vanuit de Verordening de eis gesteld 
+De CoronaCheck app genereert op basis hiervan QR‐codes die iedere 90 seconden veranderen in de app. In deze veranderende QR‐code zelf 
+(overweging 22 van de verordening) dat de verificatie van het EU DCC offline plaats kan vinden 
+staat een afgiftetijdstip en een geldigheidsduur van 24 uur. Omdat in het geval het Coronatoegangsbewijs gebaseerd is op een testbewijs het 
+zodat de lidstaat die het EU DCC heeft uitgegeven of een andere partij geen informatie krijgt over 
+einde van de laatste 24 uurstermijn voorbij de geldigheidsduur van het testbewijs kan vallen wordt het afgiftetijdstip zo nodig geantedateerd.
+waar en wanneer de verificatie plaatsvindt. Dit wordt gerealiseerd door periodiek de publieke 
+sleutels van de uitgevende lidstaten in de CoronaCheck Scanner in te laden. Dit sleutelbeheer vindt 
+Hiermee wordt het Coronatoegangsbewijs een soort strippenkaart die het volgen van gebruikers van het Coronatoegangsbewijs bemoeilijkt én 
+plaats op basis van het European trust framework dat dit mogelijk maakt (zie paragraaf 8 voor 
+waardoor niet valt af te leiden of het Coronatoegangsbewijs is gebaseerd op een test‐, vaccinatie‐ of herstelbewijs. Een strip is immers nooit 
+langer dan één dag geldignadere.  uitwerking). Verificatie door middel van de VWS CoronaCheck Scanner leidt niet tot 
+netwerkverkeer met het land van uitgifte. Hiermee wordt voorkomen dat het land van uitgifte 
+Deze 24‐uurs‐QR‐code kan getoond worden aan een gebruiker van de CoronaCheck Scanner. Deze toont “rood” of “groen” en bij een groen 
+door dergelijk netwerkverkeer haar onderdanen zou kunnen volgen. 
+scherm de volgende set gegevens: eerste letter voornaam, eerste letter achternaam, geboortemaand en geboortedag van de betrokkene, zodat 
+ 
+geverifieerd kan worden dat de toonder van het Coronatoegangsbewijs dezelfde persoon is als degene aan wie het uitgereikt is. Deze set aan 
+ Corona Scan App: uitlezen Coronatoegangsbewijs uit CoronaCheck app 
+identificerende gegevens kan bij een digitaal coronatoegangsbewijs nog beperkt worden om de mogelijkheid tot herleidbaarheid van de 
+Zoals eerder aangegeven is het Coronatoegangsbewijs intern in de CoronaCheck app nog geen QR‐
+persoon te verminderen.
+code, maar een van een gekwalificeerde elektronische handtekening voorziene dataset voor het 
+1.4 Corona Scan App: uitlezen papieren Coronatoegangsbewijs
+Coronatoegangsbewijs. Deze dataset heeft een afgiftedatum en een geldigheidsduur.  
+Het “papieren” Corona  toegangsbewijs zoals verkregen via de Website of via het hulpverlenersportaal (HKVI) kan getoond worden aan een 
+gebruiker van de CoronaCheck Scanner. De CoronaCheck Scanner toont “rood” of “groen” en bij een groen scherm vervolgens de eerste letter 
+De CoronaCheck app genereert op basis hiervan QR‐codes die iedere 90 seconden veranderen in de 
+voornaam, eerste letter achternaam, geboortemaand en geboortedag, zodat geverifieerd kan worden dat de toonder van het 
+app. In deze veranderende QR‐code zelf staat een afgiftetijdstip en een geldigheidsduur van 24 uur. 
+Coronatoegangsbewijs dezelfde persoon is als degene aan wie het uitgereikt is. Bij een papieren Coronatoegangsbewijs worden alle 
+Omdat in het geval het Coronatoegangsbewijs gebaseerd is op een testbewijs het einde van de 
+bovenstaande gegevens getoond.
+laatste 24 uurstermijn voorbij de geldigheidsduur van het testbewijs kan vallen wordt het 
+afgiftetijdstip zo nodig geantedateerd. 
+ 
+Hiermee wordt het Coronatoegangsbewijs een soort strippenkaart die het volgen van gebruikers 
+van het Coronatoegangsbewijs bemoeilijkt én waardoor niet valt af te leiden of het 
+Coronatoegangsbewijs is gebaseerd op een test‐, vaccinatie‐ of herstelbewijs. Een strip is immers 
+nooit langer dan één dag geldig. 
+ 
+Deze 24‐uurs‐QR‐code kan getoond worden aan een gebruiker van de CoronaCheck Scanner. Deze 
+toont “rood” of “groen” en bij een groen scherm de volgende set gegevens: eerste letter 
+voornaam, eerste letter achternaam, geboortemaand en geboortedag van de betrokkene, zodat 
+geverifieerd kan worden dat de toonder van het Coronatoegangsbewijs dezelfde persoon is als 
+degene aan wie het uitgereikt is. Deze set aan identificerende gegevens kan bij een digitaal 
+coronatoegangsbewijs nog beperkt worden om de mogelijkheid tot herleidbaarheid van de 
+persoon te verminderen.  
+ 
+ Corona Scan App: uitlezen papieren Coronatoegangsbewijs 
+Het “papieren” Coronatoegangsbewijs zoals verkregen via de Website of via het 
+hulpverlenersportaal (HKVI) kan getoond worden aan een gebruiker van de CoronaCheck Scanner. 
+De CoronaCheck Scanner toont “rood” of “groen” en bij een groen scherm vervolgens de eerste 
+letter voornaam, eerste letter achternaam, geboortemaand en geboortedag, zodat geverifieerd kan 
+worden dat de toonder van het Coronatoegangsbewijs dezelfde persoon is als degene aan wie het 
+uitgereikt is. Bij een papieren Coronatoegangsbewijs worden alle bovenstaande gegevens getoond.  
+17 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+• Startdatum en einddatum geldigheid Coronatoegangsbewijs
+• Eerste letter voornaam, eerste letter achternaam
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+• Geboortemaand en geboortedag
+Coronatoegangsbewijs 
+• Indicatie of de code digitaal of als fysiek Bewijsmiddel is uitgegeven
+Met dien verstande dat deze set aan identificerende gegevens bij een digitaal Coronatoegangsbewijs nog beperkt kan worden om de 
+mogelijkheid tot herleidbaarheid van de persoon te verminderen.
+ Startdatum en einddatum geldigheid Coronatoegangsbewijs 
+EU DCC
+Persoonsgegevens die in de EU DCC (QR‐code) zijn opgenomen ongeacht het type (test‐, vaccinatie‐ of herstelbewijs):
+ Eerste letter voornaam, eerste letter achternaam 
+ Geboortemaand en geboortedag 
+o Naam: familienaam of familienamen en voornaam of voornamen en eventueel tussenvoegsel
+ Indicatie of de code digitaal of als fysiek Bewijsmiddel is uitgegeven 
+o Geboortedatum
+ 
+o Doelziekte of ziekteverwekker (bijvoorbeeld: SARS‐CoV‐2 en/of varianten daarop)
+Met dien verstande dat deze set aan identificerende gegevens bij een digitaal 
+o Unieke certificaatidentificatiecode
+o Lidstaat waar test/vCoronatoeaccinatie is uitgangsbewijsgevoerd of herst nog bepeelbewijs is vrkt kan wordenerkregen om de mogelijkheid tot herleidbaarheid van de 
+o Afgever van het EU DCC, dat is voor Nederland de minister van VWS
+persoon te verminderen. 
+ 
+De QR‐code voor het EU DCC als testbewijs bevat naast de algemene gegevens:
+EU DCC 
+Persoonsgegeve ns die  in de EU  DCC  (QR‐code)  zijn  opgenomen onge acht het type  (te st‐,  vaccinatie‐ 
+o Geregistreerde datum en tijdstip van testafname
+of  herstelbewijs): 
+o Type test
+o Naam: familienaam of familienamen en voornaam of voornamen en eventueel 
+o Naam van de test(facultatief voor NAAT (PCR) test)
+o Naam van de testproducentussenvoegselt (facultatief voor NAA  T (PCR) test)
+o Testresultaat
+o Geboortedatum 
+o Testcentrum of – faciliteit (optioneel bij snelle antigeentest)
+o Doelziekte of ziekteverwekker (bijvoorbeeld: SARS‐CoV‐2 en/of varianten daarop) 
+o Unieke certificaatidentificatiecode 
+De QR‐code voor het EU DCC als vaccinatiebewijs naast de algemene gegevens:
+o Lidstaat waar test/vaccinatie is uitgevoerd of herstelbewijs is verkregen 
+o Vaccin/profylaxe (type vo acAcin, bfgevve. mRNA‐vr van heact EUcin of an DCC, tigen‐vdat is vooraccin) Nederland de minister van VWS 
+o Vaccin‐naam
+ 
+o Handelsvergunninghouder of producent van het vaccin
+De QR‐code  voor het EU  DCC als  testbewijs bevat naast de  algeme ne  gege vens: 
+o Volgnummer in reeks vaccinaties/doses
+o Geregistreerde datum en tijdstip van testafname 
+o Vaccinatiedatum, met vermelding datum van laatst ontvangen dosis
+o Type test 
+o Naam van de test(facultatief voor NAAT (PCR) test) 
+De QR‐code voor het EU DCC als herstelbewijs bevat in aanvulling op de algemene gegevens de volgende gegevens:
+o Naam van de testproducent (facultatief voor NAAT (PCR) test) 
+o Datum eerste positieve testresultaat (NAAT)
+o Testresultaat 
+o Datum vanaf wanneer certificaat geldig is
+o Testcentrum of – faciliteit (optioneel bij snelle antigeentest) 
+o Datum tot wanneer certificaat geldig is
+ 
+De QR‐code  voor het EU  DCC als  vaccinatiebewijs  naast de algemene gege vens: 
+2.3 Persoonsgegevens die worden verwerkt bij het uitlezen door de CoronaCheck Scanner
+o Vaccin/profylaxe (type vaccin, bv. mRNA‐vaccin of antigen‐vaccin) 
+Afhankelijk van het Bewijsmiddel (EU DCC of Coronatoegangsbewijs) worden er verschillende persoonsgegevens verwerkt in de CoronaCheck 
+o Vaccin‐naam 
+Scanner. In het geval van het EU DCC zullen dat alle
+o Handelsvergunninghouder of producent van het vaccin 
+o Volgnummer in reeks vaccinaties/doses 
+o Vaccinatiedatum, met vermelding datum van laatst ontvangen dosis 
+ 
+De QR‐code  voor het EU  DCC als  herste lbewijs  bevat  in aanvulling  op de algemene g e geven s de 
+volgende  ge gevens: 
+o Datum eerste positieve testresultaat (NAAT) 
+o Datum vanaf wanneer certificaat geldig is 
+o Datum tot wanneer certificaat geldig is  
+ 
+ Persoonsgegevens die worden verwerkt bij het uitlezen door de CoronaCheck Scanner 
+Afhankelijk van het Bewijsmiddel (EU DCC of Coronatoegangsbewijs) worden er verschillende 
+persoonsgegevens verwerkt in de CoronaCheck Scanner. In het geval van het EU DCC zullen dat alle 
+19 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+2.5 Categorisering persoonsgegevens
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+In bovenstaande tekst is opgesomd welke persoonsgegevens worden verwerkt. Het betreft gewone en bijzondere persoonsgegevens (namelijk: 
+gezondheidsgegevens in de vorm van test‐, vaccinatie‐ en herstelgegevens). Daarnaast worden wettelijk identificerende gegevens verwerkt 
+Coronatoegangsbewijs 
+(namelijk: het BSN van betrokkene). Er worden géén strafrechtelijke persoonsgegevens verwerkt.
+3. Verwerkingen van persoonsgegevens
+Onderstaand worden alle voorgenomen gegevensverwerkingen weergegeven.
+ Categorisering persoonsgegevens 
+3.1 Configuratie‐ en signing servers
+In bovenstaande tekst is opgesomd welke persoonsgegevens worden verwerkt. Het betreft gewone 
+Voor het beheer van de CoronaCheck app, coronacheck.nl, de CoronaCheck Scanner app en het hulpverlenersportaal is een configuratieserver 
+en bijzondere persoonsgegevens (namelijk: gezondheidsgegevens in de vorm van test‐, vaccinatie‐ 
+actief. Bij het opstarten wordt informatie geconfigureerd. Deze configuratieserver bevat beslisregels zoals de duur van de geldigheid van test‐, 
+en herstelgegevens). Daarnaast worden wettelijk identificerende gegevens verwerkt (namelijk: het 
+vaccinatie en herstelbewijzen en sleutels die gebruikt worden voor de beveiliging. Ook bevat de configuratieserver een mogelijkheid waarmee 
+BSN van betrokkene). Er worden géén strafrechtelijke persoonsgegevens verwerkt.  
+de service om test‐, vaccinatie en herstelbewijzen te valideren tijdelijk of permanent beëindigd kan worden. Deze mogelijkheid kan worden 
+gebruikt als de inzet van de CoronaCheck app, coronacheck.nl, de CoronaCheck Scanner en het hulpverlenersportaal definitief niet meer 
+wenselijk wordt geacht.
+ Verwerkingen van persoonsgegevens 
+ 
+Bij het ondertekenen wordt gebruik gemaakt van signing servers. Deze beoordeelt of de verzamelde of aangeleverde informatie (in het geval 
+Onderstaand worden alle voorgenomen gegevensverwerkingen weergegeven.  
+van HKVI) voldoende is om een Bewijsmiddel uit te geven. Verder ontdoen deze de verstrekte test‐, vaccinatie‐ en herstelgegevens van de 
+ 
+elektronische handtekeningen van de bronhouders/verstrekkers en in het geval van het Coronatoegangsbewijs ontdoet de specifieke signing 
+ Configuratie‐ en signing servers 
+server voor het Coronatoegangsbewijs dit van andere gegevens dan de initialen en de geboortedatum. Vervolgens ondertekenen de signing 
+Voor het beheer van de CoronaCheck app, coronacheck.nl, de CoronaCheck Scanner app en het 
+servers de uitslag namens de minister van VWS, maar alléén indien de opgehaalde informatie voldoet aan de vereisten die op Europees en 
+hulpverlenersportaal is een configuratieserver actief. Bij het opstarten wordt informatie 
+nationaal niveau aan het EU DCC en Coronatoegangsbewijs worden gesteld.
+geconfigureerd. Deze configuratieserver bevat beslisregels zoals de duur van de geldigheid van 
+3.2 Digitale route Btestewijsmiddel op basis v‐, vaccinatie en herstelbewijzenan testresultaat en sleutels die gebruikt worden voor de beveiliging. Ook bevat 
+de configuratieserver een mogelijkheid waarmee de service om test‐, vaccinatie en herstelbewijzen 
+Test – Digitale route digte validerenitaal Bewijsmiddel via C tijdelijk of permaoronaCheck Anent beëppindigd kan worden. Deze mogelijkheid kan worden gebruikt 
+Deze paragraaf beschrijft het proces waarbij gebruik wordt gemaakt van de CoronaCheck app voor het genereren van een Bewijsmiddel op 
+als de inzet van de CoronaCheck app, coronacheck.nl, de CoronaCheck Scanner en het 
+basis van een testresultaat. De testresultaten worden hierbij verstrekt door de uitvoerder van de test (de GGD of een privaat teststation).
+hulpverlenersportaal definitief niet meer wenselijk wordt geacht. 
+ 
+7
+Betrokkene installeert de CoronaCheck app op de smartphone via de Apple App Store of de Google Play Store. Na installatie zoekt de 
+Bij het ondertekenen wordt gebruik gemaakt van signing servers. Deze beoordeelt of de 
+CoronaCheck app contact met de configuratieserver van VWS, om daar de meest recente instellingen en actueel sleutelmateriaal op te halen.
+verzamelde of aangeleverde informatie (in het geval van HKVI) voldoende is om een Bewijsmiddel 
+Indien de test is afgenomen door een private testaanbieder ontvangt betrokkene, zodra de negatieve testuitslag beschikbaar is, een ophaalcode 
+uit te geven. Verder ontdoen deze de verstrekte test‐, vaccinatie‐ en herstelgegevens van de 
+van de testaanbieder. Vervolgens vult
+elektronische handtekeningen van de bronhouders/verstrekkers en in het geval van het 
+Coronatoegangsbewijs ontdoet de specifieke signing server voor het Coronatoegangsbewijs dit van 
+andere gegevens dan de initialen en de geboortedatum. Vervolgens ondertekenen de signing 
+servers de uitslag namens de minister van VWS, maar alléén indien de opgehaalde informatie 
+voldoet aan de vereisten die op Europees en nationaal niveau aan het EU DCC en 
+Coronatoegangsbewijs worden gesteld. 
+ 
+ Digitale route Bewijsmiddel op basis van testresultaat 
+ 
+TTeesstt  ––  DDiiggiittaallee  rroouuttee  ddiiggiittaaaall  BBeewwiijjssmmiiddddeell  vviiaa  CCoorroonnaaCChheecckk  AApppp  
+Deze paragraaf beschrijft het proces waarbij gebruik wordt gemaakt van de CoronaCheck app voor 
+het genereren van een Bewijsmiddel op basis van een testresultaat. De testresultaten worden 
+hierbij verstrekt door de uitvoerder van de test (de GGD of een privaat teststation).  
+ 
+7
+Betrokkene installeert de CoronaCheck app op de smartphone  via de Apple App Store of de 
+Google Play Store. Na installatie zoekt de CoronaCheck app contact met de configuratieserver van 
+VWS, om daar de meest recente instellingen en actueel sleutelmateriaal op te halen.  
+ 
+Indien de test is afgenomen door een private testaanbieder ontvangt betrokkene, zodra de 
+negatieve testuitslag beschikbaar is, een ophaalcode van de testaanbieder. Vervolgens vult 
+                                                                 
+7
+ Android vanaf versie 6 en iOS vanaf versie 11. 
+7 Android vanaf versie 6 en iOS vanaf versie 11.
+21 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+overzichtelijkheid is de eerste stap uit de verwerking (het installeren van de CoronaCheck App) weggelaten.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+[Figuur 2 Bewijsmiddel vaccinatie via CoronaCheck en coronacheck.nl]
+Coronatoegangsbewijs 
+Vaccinatie – Digitale route digitaal Bewijsmiddel via CoronaCheck app
+Deze paragraaf beschrijft het proces waarbij gebruik wordt gemaakt van de CoronaCheck app voor het genereren van een EU DCC of 
+Corornatoegangsbewijs op basis van vaccinatie. De vaccinatiegegevens worden hierbij verstrekt door het RIVM (beschikt naar schatting over 82 
+8
+% van de vaccinatiegegevens ) of de vaccineerder (zoals GGD, ziekenhuizen, huisartsen).
+overzichtelijkheid is de eerste stap uit de verwerking (het installeren van de CoronaCheck App) 
+Na installatie van de CoronaCheck app zal betrokkene met zijn of haar DigiD moeten inloggen via de ToegangVerleningService (TVS) die door 
+weggelaten. 
+DICTU voor BZK wordt geëxploiteerd. Als dit succesvol verloopt zal de backend service van de CoronaCheck App van TVS een digitaal 
+ 
+gewaarmerkt token ontvangen die het versleuteld burgerservicenummer (BSN) van de betrokkene bevat. Deze technische oplossing is gekozen 
+omdat als het gaat om vaccinaties er sprake is van een groot aantal partijen en personen blijken niet altijd meer te weten bij welke partij men 
+gevaccineerd is. Door middel van een technische oplossing (zie paragraaf 8.3) kan worden gezocht bij de verschillende vaccineerders. Met 
+behulp van dit token worden in de gekoppelde vaccinatie‐administraties de vaccinatiegegevens van betrokken opgevraagd.
+Vervolgens kan betrokkene ervoor kiezen een QR‐code te genereren op basis van de opgehaalde vaccinatiegegevens. De CoronaCheck app 
+stuurt de uitslag dan naar de aan de app gekoppelde signing service. De signing service ondertekent de uitslag namens de minister van VWS, 
+maar alléén indien de opgehaalde informatie voldoet aan de vereisten die op Europees en nationaal niveau aan een Bewijsmiddel worden 
+gesteld. Vervolgens stuurt de signing service zowel de EU DCC als het
+ 
+Figuur  2  Bewijsmiddel  vacci nati e  via  CoronaChe ck en  corona che ck.nl 
+ 
+ 
+VVaacccciinnaattiiee  ––  DDiiggiittaallee  rroouuttee  ddiiggiittaaaall  BBeewwiijjssmmiiddddeell  vviiaa  CCoorroonnaaCChheecckk  aapppp  
+Deze paragraaf beschrijft het proces waarbij gebruik wordt gemaakt van de CoronaCheck app voor 
+het genereren van een EU DCC of Corornatoegangsbewijs op basis van vaccinatie. De 
+vaccinatiegegevens worden hierbij verstrekt door het RIVM (beschikt naar schatting over 82 % van 
+8
+de vaccinatiegegevens ) of de vaccineerder (zoals GGD, ziekenhuizen, huisartsen).  
+ 
+Na installatie van de CoronaCheck app zal betrokkene met zijn of haar DigiD moeten inloggen via 
+de ToegangVerleningService (TVS) die door DICTU voor BZK wordt geëxploiteerd. Als dit succesvol 
+verloopt zal de backend service van de CoronaCheck App van TVS een digitaal gewaarmerkt  token 
+ontvangen die het versleuteld burgerservicenummer (BSN) van de betrokkene bevat. Deze 
+technische oplossing is gekozen omdat als het gaat om vaccinaties er sprake is van een groot aantal 
+partijen en personen blijken niet altijd meer te weten bij welke partij men gevaccineerd is. Door 
+middel van een technische oplossing (zie paragraaf 8.3) kan worden gezocht bij de verschillende 
+vaccineerders. Met behulp van dit toke n worden in de gekoppelde vaccinatie‐administraties de 
+vaccinatiegegevens van betrokken opgevraagd.  
+  
+Vervolgens kan betrokkene ervoor kiezen een QR‐code te genereren op basis van de opgehaalde 
+vaccinatiegegevens. De CoronaCheck app stuurt de uitslag dan naar de aan de app gekoppelde 
+signing service. De signing service ondertekent de uitslag namens de minister van VWS, maar alléén 
+indien de opgehaalde informatie voldoet aan de vereisten die op Europees en nationaal niveau aan 
+een Bewijsmiddel worden gesteld. Vervolgens stuurt de signing service zowel de EU DCC als het 
+                                                                 
+8
+ Zoals bekend op moment van schrijven; 21‐06‐2021 
+8 Zoals bekend op moment van schrijven; 21‐06‐2021
+23 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+geboortemaand en geboortedag van de gebruiker, zodat geverifieerd kan worden aan de hand van een fysiek identiteitsbewijs, dat de toonder 
+van de EU DCC dezelfde persoon is als degene aan wie het uitgereikt is. Voor het beheer van CoronaCheck en CoronaCheck Scanner is een 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+configuratieserver actief. Zo wordt bij het opstarten van de applicaties de configuratie opgehaald. Deze configuratie server bevat instellingen 
+Coronatoegangsbewijs 
+zoals de duur van de geldigheid van test‐, vaccinatie‐ of herstelbewijzen en sleutels die gebruikt worden voor de beveiliging en het vaststellen 
+van de betrouwbaarheid van het EU DCC. Ook bevat de configuratie server een mogelijkheid waarmee de service om voornoemde bewijzen te 
+valideren tijdelijk of permanent beëindigd kan worden. Deze laatste mogelijkheid kan worden gebruikt als de inzet van de app definitief niet 
+meer wenselijk wordt geacht.
+De CoronaCheck Scanner kan – indien daartoe wordt besloten door de toezichthouder – tevens door de toezichthouder worden ingezet die 
+geboortemaand en geboortedag van de gebruiker, zodat geverifieerd kan worden aan de hand van 
+deze kunnen gebruiken ter controle of de controleurs handelen volgens de geldende regels.
+een fysiek identiteitsbewijs, dat de toonder van de EU DCC dezelfde persoon is als degene aan wie 
+4. Verwerkingsdoeleinden
+het uitgereikt is. Voor het beheer van CoronaCheck en CoronaCheck Scanner is een 
+configuratieserver actief. Zo wordt bij het opstarten van de applicaties de configuratie opgehaald. 
+4.1 Verwerkingsdoeleinden EU DCC
+Deze configuratie server bevat instellingen zoals de duur van de geldigheid van test‐, vaccinatie‐ of 
+De verordening treedt 1 juli 2021 in werking en verplicht de lidstaten tot de uitgifte van vaccinatie‐, test‐ en herstelbewijzen. Door middel van 
+herstelbewijzen en sleutels die gebruikt worden voor de beveiliging en het vaststellen van de 
+een EU DCC kan het vrij verkeer van personen op een veilige wijze worden hersteld gedurende de pandemie en wordt voorkomen dat lidstaten 
+betrouwbaarheid van het EU DCC. Ook bevat de configuratie server een mogelijkheid waarmee de 
+een eigen oplossing kiezen die niet interoperabel is met die van andere lidstaten. Door middel van een trust framework kan de authenticiteit 
+service om voornoemde bewijzen te valideren tijdelijk of permanent beëindigd kan worden. Deze 
+van een certificaat van een lidstaat in een andere lidstaat worden geverifieerd en kan fraude worden voorkomen. Het doel van de beoogde 
+gegevensverwerking is daarmee om het vrij verkeer van personen tijdens de COVID‐19‐pandemie te faciliteren en te voorkomen dat mensen 
+laatste mogelijkheid kan worden gebruikt als de inzet van de app definitief niet meer wenselijk 
+met een verhoogd besmettingsgevaar inreizen in de lidstaten. Dit gebeurt door de afgifte, verificatie en aanvaarding van interoperabele 
+wordt geacht. 
+vaccinatie‐, test‐ en herstelcertificaten teneinde het vrije verkeer tijdens de COVID‐19‐pandemie te vergemakkelijken.
+ 
+De CoronaCheck Scanner kan – indien daartoe wordt besloten door de toezichthouder – tevens 
+4.2 Verwerkingsdoeleinden Coronatoegangsbewijs
+door de toezichthouder worden ingezet die deze kunnen gebruiken ter controle of de controleurs 
+Nederland heeft er belang bij dat niet‐essentiële sectoren die tot nog toe aan de meeste COVID‐19‐ pandemie gerelateerde restricties 
+handelen volgens de geldende regels.  
+onderworpen zijn geweest (sport, cultuur, horeca) op gecontroleerde wijze weer, of meer, open kunnen.
+ 
+5. Betrokken partijen
+ Verwerkingsdoeleinden 
+Er is een aantal partijen betrokken bij het genereren en gebruiken van een Bewijsmiddel. Onderstaande toelichting beschrijft welke partijen 
+ 
+betrokken zijn en wat de rol van deze partijen is.
+ Verwerkingsdoeleinden EU DCC 
+De verordening treedt 1 juli 2021 in werking en verplicht de lidstaten tot de uitgifte van vaccinatie‐, 
+5.1 Gebruiker als betrokkene
+test‐ en herstelbewijzen. Door middel van een EU DCC kan het vrij verkeer van personen op een 
+De gebruiker als betrokkene is degene op wiens verzoek een Bewijsmiddel gegenereerd wordt. De daarvoor benodigde test‐, vaccinatie en 
+veilige wijze worden hersteld gedurende de pandemie en wordt voorkomen dat lidstaten een eigen 
+herstelgegevens worden alleen op diens verzoek door CoronaCheck of coronacheck.nl of via het hulpverlenersportaal opgevraagd bij de 
+oplossing kiezen die niet interoperabel is met die van andere lidstaten. Door middel van een trust 
+bronhouder en omgezet in een Bewijsmiddel (zowel EU DCC als een Coronatoegangsbewijs).
+framework kan de authenticiteit van een certificaat van een lidstaat in een andere lidstaat worden 
+geverifieerd en kan fraude worden voorkomen. Het doel van de beoogde gegevensverwerking is 
+daarmee om het vrij verkeer van personen tijdens de COVID‐19‐pandemie te faciliteren en te 
+voorkomen dat mensen met een verhoogd besmettingsgevaar inreizen in de lidstaten. Dit gebeurt 
+door de afgifte, verificatie en aanvaarding van interoperabele vaccinatie‐, test‐ en 
+herstelcertificaten teneinde het vrije verkeer tijdens de COVID‐19‐pandemie te vergemakkelijken. 
+ 
+ Verwerkingsdoeleinden Coronatoegangsbewijs 
+Nederland heeft er belang bij dat niet‐essentiële sectoren die tot nog toe aan de meeste COVID‐19‐
+pandemie gerelateerde restricties onderworpen zijn geweest (sport, cultuur, horeca) op 
+gecontroleerde wijze weer, of meer, open kunnen. 
+ 
+ Betrokken partijen 
+Er is een aantal partijen betrokken bij het genereren en gebruiken van een Bewijsmiddel. 
+Onderstaande toelichting beschrijft welke partijen betrokken zijn en wat de rol van deze partijen is. 
+ 
+ Gebruiker als betrokkene 
+De gebruiker als betrokkene is degene op wiens verzoek een Bewijsmiddel gegenereerd wordt. De 
+daarvoor benodigde test‐, vaccinatie en herstelgegevens worden alleen op diens verzoek door 
+CoronaCheck of coronacheck.nl of via het hulpverlenersportaal opgevraagd bij de bronhouder en 
+omgezet in een Bewijsmiddel (zowel EU DCC als een Coronatoegangsbewijs). 
+25 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+voor die testadministraties en verstrekken de gegevens ten behoeve van het Bewijsmiddel gebaseerd op een positieve testuitslag 
+(herstelbewijs).
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Coronatoegangsbewijs 
+Wanneer een testuitvoerder wil aansluiten op het in deze DPIA beschreven proces dient de testuitvoerder te voldoen aan de voorwaarden zoals 
+gesteld door VWS in de aansluitvoorwaarden documentatie. Op deze manier worden testuitvoerders aangesloten die voldoen aan de privacy‐ 
+en security eisen zoals gesteld door VWS. Op het stelsel worden vervolgens de nodige bewakingsslagen uitgevoerd (zoals toetsen beveiliging, 
+9
+bewaken op verandering en steekproeven) .
+5.5 Uitvoerders van vaccinaties (GGD’en, ziekenhuizen, huisartsen, instellingsartsen) 
+voor die testadministraties en verstrekken de gegevens ten behoeve van het Bewijsmiddel 
+Uitvoerders van vaccinaties zijn onder andere de GGD‐en, de ziekenhuizen en de huisartsen die vaccinatiegegevens aanleveren ten behoeve 
+gebaseerd op een positieve testuitslag (herstelbewijs).  
+van het genereren van een Bewijsmiddel via
+ 
+CoronaCheck en coronacheckWanneer.nl of z een telf inestuvitvoeroeren via het hulpder wil aansluitenverlenerspor op hettaal in. Op v dezeer DPIAzoek v ban de persoon weschreven procoresdt bij de uit dient de  voerder van de 
+vaccinatie de vaccinatiegegevens opgehaald.
+testuitvoerder te voldoen aan de voorwaarden zoals gesteld door VWS in de aansluitvoorwaarden 
+documentatie. Op deze manier worden testuitvoerders aangesloten die voldoen aan de privacy‐ en 
+Vaccinatiezetters vervullen de rol van verwerkingsverantwoordelijke als het gaat om de eigen vaccinatieadministraties en zijn daarmee 
+security eisen zoals gesteld door VWS. Op het stelsel worden vervolgens de nodige 
+verstrekkers van de gegevens zoals opgenomen in de vaccinatieadministratie.
+9
+bewakingsslagen uitgevoerd (zoals toetsen beveiliging, bewaken op verandering en steekproeven) .  
+ 
+Wanneer een vaccineerder of verklaarder van herstel wil aansluiten op het in deze DPIA beschreven proces dienen zij te voldoen aan de 
+voorwaarden zoals gesteld door VWS zodat wordt voldaan aan de privacy‐ en security eisen zoals gesteld door VWS. De bijbehorende 
+ Uitvoerders van vaccinaties (GGD’en, ziekenhuizen, huisartsen, instellingsartsen) 
+documentatie wordt momenteel opgesteld.
+Uitvoerders van vaccinaties zijn onder andere de GGD‐en, de ziekenhuizen en de huisartsen die 
+vaccinatiegegevens aanleveren ten behoeve van het genereren van een Bewijsmiddel via 
+5.6 Ministerie van BZK
+CoronaCheck en coronacheck.nl of zelf invoeren via het hulpverlenersportaal. Op verzoek van de 
+Het ministerie van BZK is verwerkingsverantwoordelijke voor een aantal bouwstenen die gebruikt worden binnen het beschreven proces. Het 
+persoon wordt bij de uitvoerder van de vaccinatie de vaccinatiegegevens opgehaald. 
+gaat daarbij om de TVS, een publieke routeringsvoorziening benodigd voor de DigiD‐inlog en het gebruik van de Basisregistratie Personen (BRP) 
+Vaccinatiezetters vervullen de rol van verwerkingsverantwoordelijke als het gaat om de eigen 
+ten behoeve van het proces.
+vaccinatieadministraties en zijn daarmee verstrekkers van de gegevens zoals opgenomen in de 
+vaccinatieadministratie.  
+5.7 Verwerkers van VWS: Prolocation, Webhelp
+ 
+- Prolocation beheert de configuratie server en back end systemen van VWS en tevens de signing servers (voor zowel Coronatoegangsbewijs 
+Wanneer een vaccineerder of verklaarder van herstel wil aansluiten op het in deze DPIA 
+als EU DCC) die door VWS worden ingezet. Prolocation is verwerker van VWS.
+beschreven proces dienen zij te voldoen aan de voorwaarden zoals gesteld door VWS zodat wordt 
+- Webhelp levert de benodigde helpdeskdiensten en is verwerker van VWS. De helpdesk fungeert als informatiepunt en ondersteunt burgers 
+als ze vastlopen bij de werking van de app. Daarnaast zorgen ze voor uitleg en doorverwijzing als burgers er tegenaan lopen dat de data die 
+voldaan aan de privacy‐ en security eisen zoals gesteld door VWS. De bijbehorende documentatie 
+wordt opgehaald niet volledig of juist is. Ze verwijzen dan bijvoorbeeld naar de testuitvoerders, GGD en RIVM en leggen uit wat de burger 
+wordt momenteel opgesteld. 
+kan doen. Daarbij worden geen persoonsgegevens verwerkt. Als de helpdesk de vraag niet direct kan beantwoorden dan wordt de vraag 
+ 
+uitgezet, daarvoor worden de naam en de contactgegevens van de burger verwerkt zodat opnieuw contact kan worden opgenomen zodra 
+ Ministerie van BZK 
+een antwoord beschikbaar is.
+Het ministerie van BZK is verwerkingsverantwoordelijke voor een aantal bouwstenen die gebruikt 
+worden binnen het beschreven proces. Het gaat daarbij om de TVS, een publieke 
+routeringsvoorziening benodigd voor de DigiD‐inlog en het gebruik van de Basisregistratie 
+Personen (BRP) ten behoeve van het proces.  
+ 
+ Verwerkers van VWS: Prolocation, Webhelp 
+- Prolocation beheert de configuratie server en back end systemen van VWS en tevens de 
+signing servers (voor zowel Coronatoegangsbewijs als EU DCC) die door VWS worden ingezet. 
+Prolocation is verwerker van VWS.  
+- Webhelp levert de benodigde helpdeskdiensten en is verwerker van VWS. De helpdesk 
+fungeert als informatiepunt en ondersteunt burgers als ze vastlopen bij de werking van de app. 
+Daarnaast zorgen ze voor uitleg en doorverwijzing als burgers er tegenaan lopen dat de data 
+die wordt opgehaald niet volledig of juist is. Ze verwijzen dan bijvoorbeeld naar de 
+testuitvoerders, GGD en RIVM en leggen uit wat de burger kan doen. Daarbij worden geen 
+persoonsgegevens verwerkt. Als de helpdesk de vraag niet direct kan beantwoorden dan wordt 
+de vraag uitgezet, daarvoor worden de naam en de contactgegevens van de burger verwerkt 
+zodat opnieuw contact kan worden opgenomen zodra een antwoord beschikbaar is. 
+                                                                 
+9
+ https://www.rijksoverheid.nl/onderwerpen/coronavirus‐covid‐19/algemene‐coronaregels/cijfers‐
+en‐onderzoeken‐over‐het‐coronavirus/coronacheck‐voor‐aanbieders‐testen 
+9 https://www.rijksoverheid.nl/onderwerpen/coronavirus‐covid‐19/algemene‐coronaregels/cijfers‐ en‐onderzoeken‐over‐het‐coronavirus/coronacheck‐voor‐aanbieders‐testen
+27 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+6.2 Belangen bij Coronatoegangsbewijs
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+− Nederland heeft er belang bij dat niet‐essentiële sectoren die tot nog toe aan de meeste COVID‐19‐pandemie gerelateerde restricties 
+onderworpen zijn geweest (sport, cultuur, horeca) weer, of meer, open kunnen.
+Coronatoegangsbewijs 
+− De betrokkenen zelf heeft er belang bij dat hij weer van sportwedstrijden, culturele voorstellingen etc. kan genieten.
+− De sport‐ en cultuurinstellingen en ‐bedrijven en horeca‐ondernemers hebben er belang bij dat zij weer meer gelegenheid hebben om 
+open te gaan en meer mensen te ontvangen.
+7. Verwerkingslocaties
+ Belangen bij Coronatoegangsbewijs 
+De verwerkingen vinden binnen de EER plaats, de middelen die nodig zijn als onderdeel van de volledige werking van het systeem om van een 
+‐ Nederland heeft er belang bij dat niet‐essentiële sectoren die tot nog toe aan de meeste 
+testuitslag of een vaccinatieattest een Coronatoegangsbewijs of een EU DCC te maken, dit zijn de configuratieserver (die op zichzelf geen 
+persoonsgegevens verwerkt, maar daar wel van belang voor is) en de signing service, maar ook ondersteunende firewalls, logging servers en 
+COVID‐19‐pandemie gerelateerde restricties onderworpen zijn geweest (sport, cultuur, 
+proxy servers staan in Nederland bij leverancier Prolocation.
+horeca) weer, of meer, open kunnen. 
+‐ De betrokkenen zelf heeft er belang bij dat hij weer van sportwedstrijden, culturele 
+De verwerkingen vinden zoals beschreven binnen de EER plaats, met dien verstande dat het kan voorkomen dat een gebruiker zijn of haar 
+voorstellingen etc. kan genieten. 
+smartphone buiten de EER brengt en dat het deel van de verwerking die in de CoronaCheck App zelf plaatsvindt daardoor ook buiten de EER 
+‐ De sport‐ en cultuurinstellingen en ‐bedrijven en horeca‐ondernemers hebben er belang 
+kan plaatsvinden. Dit valt echter buiten de invloedssfeer van VWS. Daarbij is het de vraag of er niet eerst sprake is van doorgifte in de zin van art. 
+bij dat zij weer meer gelegenheid hebben om open te gaan en meer mensen te ontvangen. 
+44 AVG als de betrokkene een QR‐code laat scannen buiten de EER. In de privacyverklaring zal een tekst worden opgenomen om de 
+betrokkenen op dit punt te informeren.
+ Verwerkingslocaties 
+Tenslotte voorziet de Verordening in de mogelijkheid om certificaten af te geven voor overzeese gebiedsdelen, waaronder die van Nederland 
+ 
+(via een verwijzing naar art. 355 lid 2 Verdrag van de werking van de Europese Unie). Voor de afgifte van certificaten voor de overzeese 
+De verwerkingen vinden binnen de EER plaats, de middelen die nodig zijn als onderdeel van de 
+gebiedsdelen zal een aparte DPIA worden opgesteld.
+volledige werking van het systeem om van een testuitslag of een vaccinatieattest een 
+Coronatoegangsbewijs of een EU DCC te maken, dit zijn de configuratieserver (die op zichzelf geen 
+8. Techniek en methode van gegevensverwerking
+persoonsgegevens verwerkt, maar daar wel van belang voor is) en de signing service, maar ook 
+Onderstaand wordt, voor zover nog niet uitgewerkt in voorgaande paragrafen, beschreven op welke wijze en met gebruikmaking van welke 
+ondersteunende firewalls, logging servers en proxy servers staan in Nederland bij leverancier 
+(technische) middelen en methoden de persoonsgegevens worden verwerkt. Tevens wordt benoemd of sprake is van (semi‐)geautomatiseerde 
+Prolocation. 
+besluitvorming, profilering of big‐data verwerkingen.
+ 
+Voor alle genoemde routes geldt dat het in de invloedssfeer van VWS ligt om deze geheel of gedeeltelijk af te schakelen, bijvoorbeeld door geen 
+De verwerkingen vinden zoals beschreven binnen de EER plaats, met dien verstande dat het kan 
+Bewijsmiddelen meer uit te geven en in het geval van de CoronaCheck app zelfs het kunnen tonen van bijvoorbeeld het Coronatoegangsbewijs 
+voorkomen dat een gebruiker zijn of haar smartphone buiten de EER brengt en dat het deel van de 
+uit te schakelen.
+verwerking die in de CoronaCheck App zelf plaatsvindt daardoor ook buiten de EER kan 
+plaatsvinden. Dit valt echter buiten de invloedssfeer van VWS. Daarbij is het de vraag of er niet 
+eerst sprake is van doorgifte in de zin van art. 44 AVG als de betrokkene een QR‐code laat scannen 
+buiten de EER. In de privacyverklaring zal een tekst worden opgenomen om de betrokkenen op dit 
+punt te informeren. 
+ 
+Tenslotte voorziet de Verordening in de mogelijkheid om certificaten af te geven voor overzeese 
+gebiedsdelen, waaronder die van Nederland (via een verwijzing naar art. 355 lid 2 Verdrag van de 
+werking van de Europese Unie). Voor de afgifte van certificaten voor de overzeese gebiedsdelen zal 
+een aparte DPIA worden opgesteld.  
+ 
+ Techniek en methode van gegevensverwerking 
+Onderstaand wordt, voor zover nog niet uitgewerkt in voorgaande paragrafen, beschreven op 
+welke wijze en met gebruikmaking van welke (technische) middelen en methoden de 
+persoonsgegevens worden verwerkt. Tevens wordt benoemd of sprake is van 
+(semi‐)geautomatiseerde besluitvorming, profilering of big‐data verwerkingen. 
+ 
+Voor alle genoemde routes geldt dat het in de invloedssfeer van VWS ligt om deze geheel of 
+gedeeltelijk af te schakelen, bijvoorbeeld door geen Bewijsmiddelen meer uit te geven en in het 
+geval van de CoronaCheck app zelfs het kunnen tonen van bijvoorbeeld het Coronatoegangsbewijs 
+uit te schakelen. 
+ 
+29 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+− Met het BSN en deze BRP‐gegevens wordt een cryptografische hash‐waarde berekend met behulp van het SHA‐256 algoritme. Omdat 
+genoemde invoerdata een zekere mate van voorspelbaarheid heeft, is de maximale entropie van dit deel van de hash‐waarde niet de 256 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+10
+bits die het SHA‐256 algoritme potentieel biedt, maar is deze gereduceerd tot ongeveer 58 bits in de meest conservatieve schatting , maar 
+Coronatoegangsbewijs 
+effectief waarschijnlijk 70 bits (dit heeft te maken met de structuur van het BSN, hoe uniek achternamen zijn en dat de geboortedata in een 
+maximaal interval van 1906 tot 2021 zullen liggen).
+− Om deze nog relatief lage entropie te adresseren wordt bij de berekening van de hash‐waarde een voor de zorgaanbieder unieke salt 
+gebruikt (ook wel shared secret genoemd) die de entropie voor derden verhoogt evenredig aan de lengte van de salt. Vooralsnog wordt 
+uitgegaan van een totale entropie (voor derden die niet bekend zijn met de salt) van 384 bits of meer. Dit vormt samen de “UNOMI‐token”
+− Uit oogpunt van proportionaliteit worden eerst de bronhouders waarvan de grootste kans is dat zij de benodigde gegevens hebben 
+‐ Met het BSN en deze BRP‐gegevens wordt een cryptografische 
+bevraagd met deze “UNOMI‐token”. De volgorde van bevraging is RIVM en GGD’en tegelijk, daarna de overige bronsystemen zoals 
+Hash‐waarden zijn 
+hash‐waarde berekend met behulp van het SHA‐256 
+huisartsen en ziekenhuizen. Opgemerkt moet worden dat in de scenario’s waarbij de bronhouder wel bekend is bij de gebruiker, maar dit 
+controlegetallen voor 
+geen commercieel teststation is, deze “UNOMI‐token” nog steeds wordt ingezet, maar dan als verificatiebevraging of de gegevens ook echt 
+algoritme. Omdat genoemde invoerdata een zekere mate van 
+tekenreeksen. Zij hebben de 
+aanwezig zijn zonder ze werkelijk al gevraagd te hebben. Dit ter minimalisatie van de verwerkte persoonsgegevens.
+eigenschap dat veranderingen in 
+voorspelbaarheid heeft, is de maximale entropie van dit deel 
+een tekenreeks veranderingen in 
+van de hash‐waarde niet de 256 bits die het SHA‐256 
+Hash‐waarden zijn controlegetallen voor tekenreeksen. Zij hebben de eigenschap dat veranderingen in een tekenreeks veranderingen in het 
+het controlegetal opleveren. Een 
+algoritme potentieel biedt, maar is deze gereduceerd tot 
+controlegetal opleveren. Een bijzondere variant hiervan zijn cryptografische hash‐waarden. Deze hebben als eigenschap dat de kleinste 
+bijzondere variant hiervan zijn 
+10
+ongeveer 58 bits in de meest conservatieve schatting , maar 
+wijziging in de tekenreeks de grootst mogelijke verandering in het controlegetal opleveren, waardoor de kans dat met een soortgelijke 
+cryptografische hash‐waarden. 
+tekenreeks hetzelfde controlegetal bereffectiefekend w waarschijnlijkordt geminimaliseer 70 bits (dit d wheeftordt te.  maken met de 
+Deze hebben als eigenschap dat 
+structuur van het BSN, hoe uniek achternamen zijn en dat de 
+de kleinste wijziging in de 
+geboortedata in een maximaal interval van 1906 tot 2021  tekenreeks de grootst mogelijke 
+verandering in het controlegetal 
+zullen liggen). 
+opleveren, waardoor de kans dat 
+‐ Om deze nog relatief lage entropie te adresseren wordt bij de 
+met een soortgelijke tekenreeks 
+berekening van de hash‐waarde een voor de zorgaanbieder 
+hetzelfde controlegetal berekend 
+unieke salt gebruikt (ook wel  shared secret genoemd) die de 
+wordt geminimaliseerd wordt. 
+entropie voor derden verhoogt evenredig aan de lengte van 
+de  salt. Vooralsnog wordt uitgegaan van een totale entropie (voor derden die niet bekend 
+zijn met de salt) van 384 bits of meer. Dit vormt samen de “UNOMI‐token” 
+‐ Uit oogpunt van proportionaliteit worden eerst de bronhouders waarvan de grootste kans 
+is dat zij de benodigde gegevens hebben bevraagd met deze “UNOMI‐token”. De volgorde 
+van bevraging is RIVM en GGD’en tegelijk, daarna de overige bronsystemen zoals 
+huisartsen en ziekenhuizen. Opgemerkt moet worden dat in de scenario’s waarbij de 
+bronhouder wel bekend is bij de gebruiker, maar dit geen commercieel teststation is, deze 
+“UNOMI‐token” nog steeds wordt ingezet, maar dan als verificatiebevraging of de 
+gegevens ook echt aanwezig zijn zonder ze werkelijk al gevraagd te hebben. Dit ter 
+minimalisatie van de verwerkte persoonsgegevens.  
+                                                                 
+10
+ Deze inschatting is gebaseerd op de volgende elementen: 
+ 
+‐ Geboortejaar en BSN zijn gerelateerd (BSN wordt opvolgend uitgegeven, niet willekeurig); 
+‐ In Nederland zijn ongeveer 300 000 unieke achternamen; 
+10 Deze inschatting is gebaseerd op de volgende elementen:
+‐ Ieder jaar zijn er ongeveer 300 voornamen echt populair, wel worden voornamen gecombineerd, in deze 
+inschatting wordt met het laatste geen rekening gehouden, wat deze conservatief maakt; 
+− Geboortejaar en BSN zijn gerelateerd (BSN wordt opvolgend uitgegeven, niet willekeurig);
+‐ Van het BSN zijn zeven cijfers relevant (soms acht, ook hierom is de inschatting daarom conservatief); 
+ 
+− In Nederland zijn ongeveer 300 000 unieke achternamen;
+7 58
+Het totale aantal combinaties is 10  * 365 * 300 000 * 300 = 2 . 
+− Ieder jaar zijn er ongeveer 300 voornamen echt populair, wel worden voornamen gecombineerd, in deze inschatting wordt met het laatste geen rekening gehouden, wat deze 
+conservatief maakt;
+− Van het BSN zijn zeven cijfers relevant (soms acht, ook hierom is de inschatting daarom conservatief); 
+Het totale aantal combinaties is 107 * 365 * 300 000 * 300 = 258.
+31 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+voor om, achteraf bezien, onjuist uitgegeven DCC’s niet in te trekken maar “uit te laten doven”, dus de vernieuwing te blokkeren. Bij de 
+uitwisseling van intrekkingen van EU DCC’s van andere EER‐ lidstaten is er een theoretische mogelijkheid dat er persoonsgegevens worden 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+verwerkt, ook door VWS, maar deze situatie kan zich alleen voordoen als een andere EER‐lidstaat zich niet aan de verordening houdt.
+Coronatoegangsbewijs 
+Omgekeerd wordt het EU Trust Framework gebruikt om de CoronaCheck Scanner te voeden met geldige sleutels (en informatie over 
+ingetrokken sleutels). Dit vindt niet realtime online plaats, maar periodiek, waarbij een volledige set geldige sleutels van andere EER‐lidstaten 
+wordt gepubliceerd en de set van ingetrokken sleutels die anders nog geldig zouden zijn. Hierdoor kan de CoronaCheck Scanner offline EU 
+DCC’s verifiëren.
+voor om, achteraf bezien, onjuist uitgegeven DCC’s niet in te trekken maar “uit te laten doven”, dus 
+8.6 Is sprake van (semi‐)geautomatiseerde besluitvorming?
+de vernieuwing te blokkeren. Bij de uitwisseling van intrekkingen van EU DCC’s van andere EER‐
+Er is geen sprake van profilering of big data‐verwerkingen. In deze verwerking is wel sprake van geautomatiseerde besluitvorming met 
+lidstaten is er een theoretische mogelijkheid dat er persoonsgegevens worden verwerkt, ook door 
+significant effect op de betrokkene in de zin van art. 22 lid 1 AVG. Of een EU DCC of een Coronatoegangsbewijs al dan wordt niet gegenereerd 
+VWS, maar deze situatie kan zich alleen voordoen als een andere EER‐lidstaat zich niet aan de 
+treft de betrokkene in aanmerkelijke mate, nu dit effect heeft op de bewegingsvrijheid van de betrokkene binnen de EU en met betrekking tot 
+binnenlandse activiteiten en evenementen, en vindt via de applicatie CoronaCheck App en via de Website https://coronacheck.nl geheel 
+verordening houdt. 
+geautomatiseerd plaats. Voor de juridische waardering hiervan verwijzen wij naar Deel B van deze DPIA (paragraaf 15.10). Voor nu moet 
+ 
+opgemerkt worden dat er sprake is van een mogelijkheid van menselijke tussenkomst (via de route van het hulpverlenersportaal HKVI) waarbij 
+Omgekeerd wordt het EU Trust Framework gebruikt om de CoronaCheck Scanner te voeden met 
+de persoon contact kan opnemen met de vaccinatiezetter of uitvoerder van de test die vervolgens via een speciaal ingericht 
+geldige sleutels (en informatie over ingetrokken sleutels). Dit vindt niet realtime online plaats, maar 
+hulpverlenersportaal (HKVI) de gegevens invoert en een bewijsmiddel genereert dat door de persoon kan worden opgehaald of wordt 
+periodiek, waarbij een volledige set geldige sleutels van andere EER‐lidstaten wordt gepubliceerd 
+verstuurd via de post. Tevens is voorzien in een helpdesk voor met name die personen die er niet in slagen een bewijsmiddel te genereren maar 
+en de set van ingetrokken sleutels die anders nog geldig zouden zijn. Hierdoor kan de CoronaCheck 
+er wel recht op menen te hebben omdat ze zijn gevaccineerd of getest.
+Scanner offline EU DCC’s verifiëren. 
+8.7 Beveiliging
+ 
+In Deel C is een meer uitgebreide beschrijving opgenomen van de (voor)genomen maatregelen. In deze paragraaf de hoofdlijnen van de 
+ Is sprake van (semi‐)geautomatiseerde besluitvorming? 
+gebruikte technische en organisatorische maatregelen:
+Er is geen sprake van profilering of big data‐verwerkingen. In deze verwerking is wel sprake van 
+geautomatiseerde besluitvorming met significant effect op de betrokkene in de zin van art. 22 lid 1 
+AVG. Of een EU DCC of een Coronatoegangsbewijs al dan wordt niet gegenereerd treft de 
+Technische maatregelen
+betrokkene in aanmerkelijke mate, nu dit effect heeft op de bewegingsvrijheid van de betrokkene 
+• Pseudonimisering: met name bij de bevraging van de bronhouders van de test‐, vaccinatie‐ en herstelgegevens wordt gebruik gemaakt van 
+binnen de EU en met betrekking tot binnenlandse activiteiten en evenementen, en vindt via de 
+een geavanceerde pseudonimisering die het mogelijk maakt om meerdere bronhouders te bevragen over betrokkene zonder dat de 
+bronhouders kunnen reconstrueren welke betrokkene het betreft.
+applicatie CoronaCheck App en via de Website https://coronacheck.nl geheel geautomatiseerd 
+• Versleuteling: bij alle uitwisselingen extern wordt er gebruik gemaakt van geavanceerde versleuteling van de persoonsgegevens in 
+plaats. Voor de juridische waardering hiervan verwijzen wij naar Deel B van deze DPIA (paragraaf 
+transport. Dit is ook zoveel mogelijk doorgezet bij uitwisselingen tussen interne technische componenten van het systeem. Daarnaast zijn 
+15.10). Voor nu moet opgemerkt worden dat er sprake is van een mogelijkheid van menselijke 
+de persoonsgegevens in de App in rust versleuteld.
+tussenkomst (via de route van het hulpverlenersportaal HKVI) waarbij de persoon contact kan 
+• Compartimentering: er zijn zoveel mogelijke technische afscheidingen gemaakt tussen de technische componenten die per (deel)stap 
+opnemen met de vaccinatiezetter of uitvoerder van de test die vervolgens via een speciaal 
+betrokken zijn. Dit is te vergelijken met
+ingericht hulpverlenersportaal (HKVI) de gegevens invoert en een bewijsmiddel genereert dat door 
+de persoon kan worden opgehaald of wordt verstuurd via de post. Tevens is voorzien in een 
+helpdesk voor met name die personen die er niet in slagen een bewijsmiddel te genereren maar er 
+wel recht op menen te hebben omdat ze zijn gevaccineerd of getest. 
+ 
+ Beveiliging 
+In Deel C is een meer uitgebreide beschrijving opgenomen van de (voor)genomen maatregelen. In 
+deze paragraaf de hoofdlijnen van de gebruikte technische en organisatorische maatregelen: 
+ 
+TTeecchhnniisscchhee  mmaaaattrreeggeelleenn  
+ Pseudonimisering: met name bij de bevraging van de bronhouders van de test‐, vaccinatie‐ 
+en herstelgegevens wordt gebruik gemaakt van een geavanceerde pseudonimisering die 
+het mogelijk maakt om meerdere bronhouders te bevragen over betrokkene zonder dat 
+de bronhouders kunnen reconstrueren welke betrokkene het betreft. 
+ Versleuteling: bij alle uitwisselingen extern wordt er gebruik gemaakt van geavanceerde 
+versleuteling van de persoonsgegevens in transport. Dit is ook zoveel mogelijk doorgezet 
+bij uitwisselingen tussen interne technische componenten van het systeem. Daarnaast zijn 
+de persoonsgegevens in de App in rust versleuteld. 
+ Compartimentering: er zijn zoveel mogelijke technische afscheidingen gemaakt tussen de 
+technische componenten die per (deel)stap betrokken zijn. Dit is te vergelijken met 
+33 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Voor het invulsysteem voor zorgverleners (HKVI) is gekozen om deze conform NEN 7510 te beveiligen en de logging conform NEN 7513 uit te 
+voeren. Het gaat om zorggegevens die met hetzelfde niveau van zorg bejegend moeten worden als elders in de zorg het geval is. Voor de 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+overige componenten die leiden tot een toekenning of afwijzing van een Bewijsmiddel is gekozen om deze conform de BIO te beveiligen, 
+Coronatoegangsbewijs 
+waarbij er op punten verdergaande methoden zijn gekozen dan de BIO voorschrijft. Voor door VWS ingezette dienstverleners geldt dat deze 
+zich conform ISO 27001/27002 dienen te beveiligen.
+9. Juridisch en beleidsmatig kader
+Onderstaand wordt de wet‐ en regelgeving met mogelijke gevolgen voor de gegevensverwerkingen benoemd.
+ 
+− de Verordening (EU) 2021/953 van het Europees Parlement en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van 
+Voor het invulsysteem voor zorgverleners (HKVI) is gekozen om deze conform NEN 7510 te 
+interoperabele COVID‐19‐vaccinatie‐, test‐ en herstelcertificaten (digitaal EU‐COVID‐certificaat) teneinde het vrije verkeer tijdens de 
+beveiligen en de logging conform NEN 7513 uit te voeren. Het gaat om zorggegevens die met 
+COVID‐19‐pandemie te faciliteren.
+hetzelfde niveau van zorg bejegend moeten worden als elders in de zorg het geval is. Voor de 
+− Wet publieke gezondheid (Wpg)
+overige componenten die leiden tot een toekenning of afwijzing van een Bewijsmiddel is gekozen 
+− Tijdelijke wet maatregelen Covid‐19 (wijziging Wpg)
+− Tijdelijke regeling maatregelen Covid‐19
+om deze conform de BIO te beveiligen, waarbij er op punten verdergaande methoden zijn gekozen 
+− Wijziging van de Wet publieke gezondheid in verband met het stellen van tijdelijke regels over de inzet van coronatoegangsbewijzen bij de 
+dan de BIO voorschrijft. Voor door VWS ingezette dienstverleners geldt dat deze zich conform ISO 
+bestrijding van het virus SARS‐CoV‐2 (Tijdelijke wet coronatoegangsbewijzen).
+27001/27002 dienen te beveiligen. 
+− Wetsvoorstel Wijziging van de Wet publieke gezondheid in verband met enkele verbeteringen en preciseringen van de tijdelijke regels over 
+de inzet van coronatoegangsbewijzen bij de bestrijding van het virus SARS‐CoV‐2.
+ Juridisch en beleidsmatig kader 
+− Regeling van de Ministers van Volksgezondheid, Welzijn en Sport, van Justitie en Veiligheid en van Binnenlandse Zaken en 
+Onderstaand wordt de wet‐ en regelgeving met mogelijke gevolgen voor de gegevensverwerkingen 
+Koninkrijksrelaties tot wijziging van de Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op 
+benoemd. 
+basis van een negatieve testuitslag.
+− Regeling van de Ministers van Volksgezondheid, Welzijn en Sport, van Justitie en Veiligheid en van Binnenlandse Zaken en 
+‐ de Verordening (EU) 2021/953 van het Europees Parlement en de Raad betreffende een 
+Koninkrijksrelaties tot wijziging van de Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op 
+kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID‐19‐vaccinatie‐, 
+basis van vaccinatie of herstel.
+test‐ en herstelcertificaten (digitaal EU‐COVID‐certificaat) teneinde het vrije verkeer  
+− Regeling van de Minister van Volksgezondheid, Welzijn en Sport houdende tijdelijke bepalingen ter uitvoering van de Europese 
+tijdens de COVID‐19‐pandemie te faciliteren. 
+verordening over certificaten met betrekking tot covid‐19 (Tijdelijke spoedregeling DCC).
+‐ Wet publieke gezondheid (Wpg) 
+− Wet op de geneeskundige behandelingsovereenkomst (WGBO)
+‐ Tijdelijke wet maatregelen Covid‐19 (wijziging Wpg) 
+10. Bewaartermijnen
+‐ Tijdelijke regeling maatregelen Covid‐19 
+‐ Wijziging van de Wet publieke gezondheid in verband met het stellen van tijdelijke regels 
+Het uitgangspunt is dat gegevens zo kort mogelijk worden bewaard. In de hiernavolgende paragrafen worden de specifieke bewaartermijnen 
+over de inzet van coronatoegangsbewijzen bij de bestrijding van het virus SARS‐CoV‐2 
+beschreven.
+(Tijdelijke wet coronatoegangsbewijzen).  
+‐ Wetsvoorstel Wijziging van de Wet publieke gezondheid in verband met enkele 
+verbeteringen en preciseringen van de tijdelijke regels over de inzet van 
+coronatoegangsbewijzen bij de bestrijding van het virus SARS‐CoV‐2. 
+‐ Regeling van de Ministers van Volksgezondheid, Welzijn en Sport, van Justitie en Veiligheid 
+en van Binnenlandse Zaken en Koninkrijksrelaties tot wijziging van de Tijdelijke regeling 
+maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van 
+een negatieve testuitslag. 
+‐ Regeling van de Ministers van Volksgezondheid, Welzijn en Sport, van Justitie en Veiligheid 
+en van Binnenlandse Zaken en Koninkrijksrelaties tot wijziging van de Tijdelijke regeling 
+maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van 
+vaccinatie of herstel. 
+‐ Regeling van de Minister van Volksgezondheid, Welzijn en Sport houdende tijdelijke 
+bepalingen ter uitvoering van de Europese verordening over certificaten met betrekking 
+tot covid‐19 (Tijdelijke spoedregeling DCC).  
+‐ Wet op de geneeskundige behandelingsovereenkomst (WGBO) 
+ 
+ Bewaartermijnen 
+Het uitgangspunt is dat gegevens zo kort mogelijk worden bewaard. In de hiernavolgende 
+paragrafen worden de specifieke bewaartermijnen beschreven. 
+ 
+35 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+B. Beoordeling rechtmatigheid gegevensverwerkingen
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+11. Rechtsgrond
+Coronatoegangsbewijs 
+Het EU DCC en het coronatoegangsbewijs worden zoals eerder omschreven via dezelfde routes en technische oplossingen gegenereerd voor de 
+persoon die hierom verzoekt. Als het gaat om de grondslagen voor deze verwerking van de benodigde persoonsgegevens dan geldt dat deze 
+voor de EU DCC voortvloeien uit de verordening en voor het Coronatoegangsbewijs zijn geregeld in nationale wetgeving. De grondslag is 
+daarmee wettelijke plicht zoals bedoeld in art. 6 lid sub c AVG. Onderstaand wordt dit nader uitgewerkt.
+11.1 Grondslagen EU DCC
+B. Beoordeling rechtmatigheid 
+Uitgifte van de EU DCC door de minister van VWS
+gegevensverwerkingen 
+De EU DCC wordt verstrekt op grond van de verordening (artikel 3 tweede lid van de verordening) en geeft als taak aan de minister van VWS (of 
+de door hem aangewezen instanties) de uitgifte van het EU DCC in digitale vorm of op papier. Omdat de verordening rechtstreeks werkt en de 
+ Rechtsgrond 
+noodzaak tot verwerking van gegevens in het kader van de opgelegde taak evident is, is het niet nodig om hiervoor een aparte 
+verwerkingsgrondslag in de wHet EU DCCet op t en e nemen. Ihet coronn aratoetikel 10 zgangsbewijsesde lid v woran de vden zeroalorsdening w eerder omschrevordt degene die ven via dereanzeltfwdoore routesdelijk is v enoor de uit  gifte 
+aangewezen als verwerkingsverantwoordelijke. De minister van VWS is daarmee verwerkingsverantwoordelijke voor de uitgifte van het EU DCC.
+technische oplossingen gegenereerd voor de persoon die hierom verzoekt. Als het gaat om de 
+grondslagen voor deze verwerking van de benodigde persoonsgegevens dan geldt dat deze voor de 
+EU DCC voortvloeien uit de verordening en voor het Coronatoegangsbewijs zijn geregeld in 
+RIVM: verstrekken vaccinatiegegevens
+nationale wetgeving. De grondslag is daarmee wettelijke plicht zoals bedoeld in art. 6 lid sub c AVG. 
+In de Tijdelijke wet coronatoegangsbewijzen is in artikel 6ba een delegatiegrondslag opgenomen waarmee regels kunnen worden gesteld ter 
+Onderstaand wordt dit nader uitgewerkt.  
+uitvoering van bindende onderdelen van EU‐ rechtshandelingen. Momenteel wordt een ministeriële regeling voorbereid op basis van deze 
+delegatiegrondslag waarin de grondslag voor het RIVM voor het verstrekken van de vaccinatiegegevens vanuit het CIMS is opgenomen. De 
+ 
+inwerkingtreding is voorzien vóór de ingangsdatum van de verordening.
+ Grondslagen EU DCC 
+ 
+UUiittggiiffttee  vvaann  ddee  EEUU  DDCCCC  ddoooorr  ddee  mmiinniisstteerr  vvaann  VVWWSS  
+Verstrekken gegevens door vaccinatiezetters en uitvoerders van de test
+De EU DCC wordt verstrekt op grond van de verordening (artikel 3 tweede lid van de verordening) 
+De vaccinatiezetters en uitvoerders van de test hebben op basis van de WGBO een dossierplicht. Voor het verstrekken van de benodigde 
+en geeft als taak aan de minister van VWS (of de door hem aangewezen instanties) de uitgifte van 
+gegevens voor het genereren van een EU DCC is de grondslag opgenomen in artikel 10, zevende lid, van de verordening waar de facto een 
+wettelijke leveringsplicht is opgenomen voor degene die de vaccinatie heeft toegediend of de test heeft uitgevoerd. Dit biedt tevens de 
+het EU DCC in digitale vorm of op papier. Omdat de verordening rechtstreeks werkt en de 
+grondslag voor het doorbreken van het beroepsgeheim (op basis van een wettelijke plicht, artikel 7:457 lid 1 WGBO).
+noodzaak tot verwerking van gegevens in het kader van de opgelegde taak evident is, is het niet 
+nodig om hiervoor een aparte verwerkingsgrondslag in de wet op te nemen. In artikel 10 zesde lid 
+van de verordening wordt degene die verantwoordelijk is voor de uitgifte aangewezen als 
+Secundaire gegevensverwerking
+verwerkingsverantwoordelijke. De minister van VWS is daarmee verwerkingsverantwoordelijke 
+Voor de secundaire verwerking van persoonsgegevens (de verwerking van IP‐nummers door de servers van VWS) geldt dat deze inherent zijn 
+aan het gebruik van internet als medium én voortvloeien uit de verplichting van art. 32 AVG die op de verwerkingsverantwoordelijke rust om
+voor de uitgifte van het EU DCC.  
+ 
+RRIIVVMM::  vveerrssttrreekkkkeenn  vvaacccciinnaattiieeggeeggeevveennss  
+In de Tijdelijke wet coronatoegangsbewijzen is in artikel 6ba een delegatiegrondslag opgenomen 
+waarmee regels kunnen worden gesteld ter uitvoering van bindende onderdelen van EU‐
+rechtshandelingen. Momenteel wordt een ministeriële regeling voorbereid op basis van deze 
+delegatiegrondslag waarin de grondslag voor het RIVM voor het verstrekken van de 
+vaccinatiegegevens vanuit het CIMS is opgenomen. De inwerkingtreding is voorzien vóór de 
+ingangsdatum van de verordening.  
+ 
+VVeerrssttrreekkkkeenn  ggeeggeevveennss  ddoooorr  vvaacccciinnaattiieezzeetttteerrss  eenn  uuiittvvooeerrddeerrss  vvaann  ddee  tteesstt  
+De vaccinatiezetters en uitvoerders van de test hebben op basis van de WGBO een dossierplicht. 
+Voor het verstrekken van de benodigde gegevens voor het genereren van een EU DCC is de 
+grondslag opgenomen in artikel 10, zevende lid, van de verordening waar de facto een wettelijke 
+leveringsplicht is opgenomen voor degene die de vaccinatie heeft toegediend of de test heeft 
+uitgevoerd. Dit biedt tevens de grondslag voor het doorbreken van het beroepsgeheim (op basis 
+van een wettelijke plicht, artikel 7:457 lid 1 WGBO).  
+ 
+SSeeccuunnddaaiirree  ggeeggeevveennssvveerrwweerrkkiinngg  
+Voor de secundaire verwerking van persoonsgegevens (de verwerking van IP‐nummers door de 
+servers van VWS) geldt dat deze inherent zijn aan het gebruik van internet als medium én 
+voortvloeien uit de verplichting van art. 32 AVG die op de verwerkingsverantwoordelijke rust om 
+37 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Verstrekken gegevens door vaccinatiezetters en testers
+Voor het verstrekken van de benodigde gegevens voor het genereren van een coronatoegangsbewijs voor de uitvoerder van de test, de 
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+e
+toediener van het vaccin en de verklaarder van het herstel is de grondslag voor het verstrekken van de gegevens opgenomen in artikel 58 lid 6 
+Coronatoegangsbewijs 
+van de Tijdelijke wet coronatoegangsbewijzen. Dit biedt tevens de grondslag voor het doorbreken van het beroepsgeheim (op basis van een 
+wettelijke plicht, artikel 7:457 lid 1 WGBO).
+Uitlezen door controleur
+Voor het lezen van het elektronische of schriftelijke coronatoegangsbewijs wordt een door de minister beschikbaar gestelde applicatie gebruikt: 
+VVeerrssttrreekkkkeenn  ggeeggeevveennss  ddoooorr  vvaacccciinnaattiieezzeetttteerrss  eenn  tteesstteerrss  
+de CoronaCheck Scanner (art. 58re, lid 3 Tijdelijke wet coronatoegangsbewijzen). De controleur kan de benodigde gegevens verwerken om te 
+Voor het verstrekken van de benodigde gegevens voor het genereren van een 
+zien of het elektronisch of schriftelijk coronatoegangsbewijs geldig is (artikel 58re lid 6 Tijdelijke wet Coronatoegangsbewijzen, ). Dit is 
+uitgewerkt in de ministeriële regeling tot wijziging van de Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van 
+coronatoegangsbewijs voor de uitvoerder van de test, de toediener van het vaccin en de 
+coronatoegangsbewijzen op basis van een negatieve testuitslag (artikel 6.31 lid 4) en in de ministeriële regeling tot wijziging van de Tijdelijke 
+verklaarder van het herstel is de grondslag voor het verstrekken van de gegevens opgenomen in 
+regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van vaccinatie of herstel (artikel 6.31a lid 6 en 
+artikel 58e lid 6 van de Tijdelijke wet coronatoegangsbewijzen. Dit biedt tevens de grondslag voor 
+artikel 6.31b lid 4).
+het doorbreken van het beroepsgeheim (op basis van een wettelijke plicht, artikel 7:457 lid 1 
+WGBO).  
+Uitlezen door toezich thouder
+Voor het lezen van het elektronische of schriftelijke Coronatoegangsbewijs wordt een door de minister beschikbaar gestelde applicatie gebruikt: 
+UUiittlleezzeenn  ddoooorr  ccoonnttrroolleeuurr  
+de CoronaCheck Scanner (art. 58re, lid 3 Tijdelijke wet coronatoegangsbewijzen). Artikel 58ra lid 1 Tijdelijke wet Coronatoegangsbewijzen regelt 
+Voor het lezen van het elektronische of schriftelijke coronatoegangsbewijs wordt een door de 
+dat bij ministeriële regeling regels kunnen worden gesteld voor het beschikken over een bewijsmiddel voor toegang tot activiteiten of 
+minister beschikbaar gestelde applicatie gebruikt: de CoronaCheck Scanner (art. 58re, lid 3 
+voorzieningen. Artikel 58rd, tweede lid, onder a van de Tijdelijke wet Coronatoegangsbewijzen regelt dat in diezelfde ministeriële regeling 
+Tijdelijke wet coronatoegangsbewijzen). De controleur kan de benodigde gegevens verwerken om 
+regels gesteld kunnen worden over een verplichting voor personen om het coronatoegangsbewijs en geldig identiteitsdocument te tonen aan 
+te zien of het elektronisch of schriftelijk coronatoegangsbewijs geldig is (artikel 58re lid 6 Tijdelijke 
+een toezichthouder.
+wet Coronatoegangsbewijzen, ). Dit is uitgewerkt in de ministeriële regeling tot wijziging van de 
+In artikel 6.30 lid 2 van de Tijdelijke regeling maatregelen is opgenomen dat de persoon die deelname of toegang wenst bij aanvang van de 
+Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op 
+deelname of de toegang tevens zijn coronatoegangsbewijs en zijn identiteitsdocument aan een toezichthouder vertoont op diens verzoek. Dit 
+basis van een negatieve testuitslag (artikel 6.31 lid 4) en in de ministeriële regeling tot wijziging van 
+is uitgewerkt in de ministeriële regeling tot wijziging van de Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van 
+de Tijdelijke regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen 
+coronatoegangsbewijzen op basis van een negatieve testuitslag (artikel 6.31 lid 4) en in de ministeriële regeling tot wijziging van de Tijdelijke 
+op basis van vaccinatie of herstel (artikel 6.31a lid 6 en artikel 6.31b lid 4). 
+regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van vaccinatie of herstel (artikel 6.31a lid 6 en 
+ 
+artikel 6.31b lid 4). Deze artikelen regelen dat de toezichthouder de gegevens, bedoeld in artikel 6.28, onderdeel b, door middel van de 
+applicatie, bedoeld in artikel 58re, derde lid, van de wet kan verwerken om te zien of het elektronisch of schriftelijk coronatoegangsbewijs 
+UUiittlleezzeenn  ddoooorr  ttooeezziicchhtthhoouuddeerr  
+geldig is en zo ja, wat de gegevens zijn, bedoeld in artikel 6.28, onderdeel b, onder 1o.
+Voor het lezen van het elektronische of schriftelijke Coronatoegangsbewijs wordt een door de 
+minister beschikbaar gestelde applicatie gebruikt: de CoronaCheck Scanner (art. 58re, lid 3 
+Tijdelijke wet coronatoegangsbewijzen). Artikel 58ra lid 1 Tijdelijke wet Coronatoegangsbewijzen 
+Secundaire gegevensverwerking
+regelt dat bij ministeriële regeling regels kunnen worden gesteld voor het beschikken over een 
+Voor de secundaire verwerking van persoonsgegevens (de verwerking van IP‐nummers door de servers van VWS) geldt dat deze inherent zijn 
+aan het gebruik van internet als medium. In de
+bewijsmiddel voor toegang tot activiteiten of voorzieningen. Artikel 58rd, tweede lid, onder a van 
+de Tijdelijke wet Coronatoegangsbewijzen regelt dat in diezelfde ministeriële regeling regels 
+gesteld kunnen worden over een verplichting voor personen om het coronatoegangsbewijs en 
+geldig identiteitsdocument te tonen aan een toezichthouder. 
+In artikel 6.30 lid 2 van de Tijdelijke regeling maatregelen is opgenomen dat de persoon die 
+deelname of toegang wenst bij aanvang van de deelname of de toegang tevens zijn 
+coronatoegangsbewijs en zijn identiteitsdocument aan een toezichthouder vertoont op diens 
+verzoek. Dit is uitgewerkt in de ministeriële regeling tot wijziging van de Tijdelijke regeling 
+maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van een 
+negatieve testuitslag (artikel 6.31 lid 4) en in de ministeriële regeling tot wijziging van de Tijdelijke 
+regeling maatregelen covid‐19 in verband met de inzet van coronatoegangsbewijzen op basis van 
+vaccinatie of herstel (artikel 6.31a lid 6 en artikel 6.31b lid 4). Deze artikelen regelen dat de 
+toezichthouder de gegevens, bedoeld in artikel 6.28, onderdeel b, door middel van de applicatie, 
+bedoeld in artikel 58re, derde lid, van de wet kan verwerken om te zien of het elektronisch of 
+schriftelijk coronatoegangsbewijs geldig is en zo ja, wat de gegevens zijn, bedoeld in artikel 6.28, 
+onderdeel b, onder 1o. 
+ 
+SSeeccuunnddaaiirree  ggeeggeevveennssvveerrwweerrkkiinngg  
+Voor de secundaire verwerking van persoonsgegevens (de verwerking van IP‐nummers door de 
+servers van VWS) geldt dat deze inherent zijn aan het gebruik van internet als medium. In de 
+39 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+14.1 Proportionaliteit
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+De vraag die moet worden beantwoord is of de inbreuk op de persoonlijke levenssfeer en de bescherming van de persoonsgegevens van de 
+betrokkenen in evenredige verhouding staan tot de verwerkingsdoeleinden. Voor de beoordeling van de proportionaliteit van de voorgenomen 
+Coronatoegangsbewijs 
+verwerking zijn op basis van de jurisprudentie van het EHRM en de opinies van de WP29 (de voorganger van de EDPB) de belangrijkste criteria:
+a) Niet in strijd met een wettelijke bepaling;
+b) Een legitiem doel nastreven;
+c) Noodzakelijk in een democratische samenleving.
+  Proportionaliteit 
+a. Niet in strijd met een wettelijke bepaling
+De vraag die moet worden beantwoord is of de inbreuk op de persoonlijke levenssfeer en de 
+bescherming van de persoonsgegevens van de betrokkenen in evenredige verhouding staan tot de 
+Wij hebben geen wettelijke bepalingen geconstateerd die in strijd is met de voorgenomen verwerking door middel van de inzet van de 
+verwerkingsdoeleinden. Voor de beoordeling van de proportionaliteit van de voorgenomen 
+CoronaCheck app, coronacheck.nl of de route via het hulpverlenersportaal.
+verwerking zijn op basis van de jurisprudentie van het EHRM en de opinies van de WP29 (de 
+b. Een legitiem doel nastreven
+voorganger van de EDPB) de belangrijkste criteria: 
+ 
+Het doel wat nagestreefd wordt met het EU DCC is de bewegingsvrijheid van personen in de EER te verruimen nu deze zijn ingeperkt vanwege 
+a)  Niet in strijd met een wettelijke bepaling; 
+de COVID‐19 pandemie. Het nagestreefde doel is dus het (gecontroleerd) bevorderen van het vrij verkeer van personen (artikel 21 VWEU). Als 
+b)  Een legitiem doel nastreven; 
+zodanig is evident dat de Verordening (EU 2021/0068) een legitiem doel nastreeft en in het verlengde daarvan de voorgenomen verwerking dit 
+c)  Noodzakelijk in een democratische samenleving. 
+evenzeer doet.
+ 
+Het doel dat nagestreefd wordt met de inzet van het Coronatoegangsbewijs voor nationaal gebruik is zorgen dat activiteiten en voorzieningen 
+a. Niet in strijd met een wettelijke bepaling 
+in tijden van COVID‐19 sneller weer verantwoord plaats kunnen vinden. Met een Coronatoegangsbewijs kunnen personen toegang krijgen tot 
+Wij hebben geen wettelijke bepalingen geconstateerd die in strijd is met de voorgenomen 
+activiteiten en voorzieningen. De Tijdelijke wet coronatoegangsbewijzen bestaat uit een aantal artikelen die voor tijdelijke duur zijn toegevoegd 
+verwerking door middel van de inzet van de CoronaCheck app, coronacheck.nl of de route via het 
+aan de Wet publieke gezondheid. Coronatoegangsbewijzen moeten uitgevraagd worden indien op grond van artikel 58ra, eerste lid, Wpg regels 
+hulpverlenersportaal. 
+zijn gesteld op de volgende terreinen; cultuur, evenementen, georganiseerde jeugdactiviteiten, horeca of sport. Voor zowel de inzet van de EU 
+DCC als het coronatoegangsbewijs geldt da  t wordt nagestreefd de door de COVID‐19 pandemie beperkte vrijheden te verruimen op een 
+gecontroleerde wijze zodat wordt voorkomen dat het aantal besmettingen toeneemt door besmette inreizigers of deelnemers aan 
+b. Een legitiem doel nastreven 
+binnenlandse activiteiten op bovenstaande terreinen.
+Het doel wat nagestreefd wordt met het EU DCC is de bewegingsvrijheid van personen in de EER te 
+verruimen nu deze zijn ingeperkt vanwege de COVID‐19 pandemie. Het nagestreefde doel is dus 
+c. Noodzakelijk in een democratische samenleving
+het (gecontroleerd) bevorderen van het vrij verkeer van personen (artikel 21 VWEU). Als zodanig is 
+evident dat de Verordening (EU 2021/0068) een legitiem doel nastreeft en in het verlengde 
+Dit criterium valt uiteen in drie subcriteria:
+daarvan de voorgenomen verwerking dit evenzeer doet.  
+• Dringende maatschappelijke noodzaak:
+Het doel dat nagestreefd wordt met de inzet van het Coronatoegangsbewijs voor nationaal gebruik 
+ Er is sprake van dringende maatschappelijke noodzaak tot het kunnen opheffen van de inperkingen van de bewegingsvrijheid van 
+is zorgen dat activiteiten en voorzieningen in tijden van COVID‐19 sneller weer verantwoord plaats 
+ingezetenen in Nederland, zowel binnen Nederland, als ter zake van het meer vrij over de landsgrenzen binnen de EER kunnen reizen.
+kunnen vinden. Met een Coronatoegangsbewijs kunnen personen toegang krijgen tot activiteiten 
+• Proportionaliteit van het middel voor het doel:
+en voorzieningen. De Tijdelijke wet coronatoegangsbewijzen bestaat uit een aantal artikelen die 
+ Het doel is betrokkenen met een objectiveerbaar substantieel lagere kans op het zijn van een verspreider van SARS‐CoV‐2, de 
+ziekteverwekker die de oorzaak is van de COVID‐19
+voor tijdelijke duur zijn toegevoegd aan de Wet publieke gezondheid. Coronatoegangsbewijzen 
+moeten uitgevraagd worden indien op grond van artikel 58ra, eerste lid, Wpg regels zijn gesteld op 
+de volgende terreinen; cultuur, evenementen, georganiseerde jeugdactiviteiten, horeca of sport. 
+Voor zowel de inzet van de EU DCC als het coronatoegangsbewijs geldt dat wordt nagestreefd de 
+door de COVID‐19 pandemie beperkte vrijheden te verruimen op een gecontroleerde wijze zodat 
+wordt voorkomen dat het aantal besmettingen toeneemt door besmette inreizigers of deelnemers 
+aan binnenlandse activiteiten op bovenstaande terreinen.  
+ 
+c. Noodzakelijk in een democratische samenleving 
+Dit criterium valt uiteen in drie subcriteria: 
+•  Dringende maatschappelijke noodzaak: 
+Er is sprake van dringende maatschappelijke noodzaak tot het kunnen opheffen van de 
+inperkingen van de bewegingsvrijheid van ingezetenen in Nederland, zowel binnen 
+Nederland, als ter zake van het meer vrij over de landsgrenzen binnen de EER kunnen 
+reizen. 
+•  Proportionaliteit van het middel voor het doel: 
+Het doel is betrokkenen met een objectiveerbaar substantieel lagere kans op het zijn van 
+een verspreider van SARS‐CoV‐2, de ziekteverwekker die de oorzaak is van de COVID‐19 
+41 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+wordt momenteel opgesteld en zal op dezelfde wijze ter beschikking worden gesteld. De source code van CoronaCheck en CoronaCheck 
+Scanner en alle technische informatie zijn bovendien openbaar beschikbaar via GitHub.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Coronatoegangsbewijs 
+Voor de route via het hulpverlenersportaal (HKVI) geldt dat de betrokkenen zelf de betreffende zorgaanbieder verzoekt om de benodigde 
+gegevens in te voeren in het portaal en vervolgens een Bewijsmiddel op papier ontvangt. Hierin staan de verwerkte persoonsgegevens 
+vermeld.
+15.2 Notificatieplicht (art. 14 AVG)
+Indien de verwerkingsverantwoordelijke persoonsgegevens van een ander verkrijgt, moet de betrokkene hiervan uiterlijk binnen vier weken 
+wordt momenteel opgesteld en zal op dezelfde wijze ter beschikking worden gesteld. De source 
+van op de hoogte worden gesteld. Hierin is voorzien in het ontwerp van CoronaCheck en via https://coronacheck.nl doordat de persoon bij het 
+code van CoronaCheck en CoronaCheck Scanner en alle technische informatie zijn bovendien 
+ophalen de gegevens getoond krijgt en daarbij wordt aangegeven uit welke bron deze afkomstig zijn (zoals RIVM, GGD, private teststations, 
+openbaar beschikbaar via GitHub.  
+huisarts).
+ 
+Voor de route via het hulpverlenersportaal (HKVI) geldt dat de persoonsgegevens niet afkomstig zijn van een andere partij, artikel 14 AVG is 
+Voor de route via het hulpverlenersportaal (HKVI) geldt dat de betrokkenen zelf de betreffende 
+daarmee niet van toepassing.
+zorgaanbieder verzoekt om de benodigde gegevens in te voeren in het portaal en vervolgens een 
+Bewijsmiddel op papier ontvangt. Hierin staan de verwerkte persoonsgegevens vermeld. 
+15.3 Recht op inzage (art. 15 AVG)
+ 
+In het huidige ontwerp wordt voorzien in het actief tonen van de door CoronaCheck of Website (https://coronacheck.nl) zelf verwerkte 
+  Notificatieplicht (art. 14 AVG) 
+persoonsgegevens (met uitzondering van het IP‐adres). Voor de overige gegevens geldt dat er inzageprocessen belegd zijn binnen het 
+Indien de verwerkingsverantwoordelijke persoonsgegevens van een ander verkrijgt, moet de 
+ministerie van VWS en/of de betrokken verwerkers. Voor de route via het hulpverlenersportaal (HKVI) geldt dat de betrokkene via het papieren 
+betrokkene hiervan uiterlijk binnen vier weken van op de hoogte worden gesteld. Hierin is voorzien 
+bewijs kan zien welke gegevens zijn verwerkt.
+in het ontwerp van CoronaCheck en via https://coronacheck.nl doordat de persoon bij het ophalen 
+15.4 Recht op rectificatie (art. 16 AVG)
+de gegevens getoond krijgt en daarbij wordt aangegeven uit welke bron deze afkomstig zijn (zoals 
+RIVM, GGD, private teststations, huisarts).  
+In het geval de betrokkene constateert dat onjuiste persoonsgegevens die hem of haar betreffen verwerkt worden, is voorzien in een 
+helpdeskfunctie waar  bij de persoon ondersteuning wordt geboden bij welke stappen gezet moeten worden om de gegevens te corrigeren. De 
+persoon kan dit vervolgens bij de zorgaanbieder die verantwoordelijk is voor het bronsysteem of het RIVM laten aanpassen indien de gegevens 
+Voor de route via het hulpverlenersportaal (HKVI) geldt dat de persoonsgegevens niet afkomstig 
+niet correct zijn. Voor de route via het hulpverlenersportaal (HKVI) geldt dat de zorgaanbieder al bekend is en de betrokkenen kan de gegevens 
+zijn van een andere partij, artikel 14 AVG is daarmee niet van toepassing. 
+laten aanpassen.
+ 
+  Recht op inzage (art. 15 AVG) 
+15.5 Recht op verwijdering (art. 17 AVG)
+In het huidige ontwerp wordt voorzien in het actief tonen van de door CoronaCheck of Website 
+Voor de primaire gegevensverwerking geldt dat de betrokkene de verwerkte persoonsgegevens zelf uit de CoronaCheck App kan verwijderen. 
+(https://coronacheck.nl) zelf verwerkte persoonsgegevens (met uitzondering van het IP‐adres). 
+Voor het genereren van een papieren bewijs via https://coronacheck.nl geldt deze op de website zelf binnen enkele minuten verdwijnt. Als de 
+Voor de overige gegevens geldt dat er inzageprocessen belegd zijn binnen het ministerie van VWS 
+sessie met de website zijn geldigheid heeft verloren, wordt deze verwijderd uit de browser (tenzij de gebruiker deze op tijd downloadt). Het 
+en/of de betrokken verwerkers. Voor de route via het hulpverlenersportaal (HKVI) geldt dat de 
+coronatoegangsbewijs kan ook eerder verdwijnen wanneer de persoon de browser waarin het bewijs wordt getoond sluit.
+betrokkene via het papieren bewijs kan zien welke gegevens zijn verwerkt. 
+Voor de afgeleide verwerkingen geldt met name voor de IP‐adressen dat de bewaartermijn dusdanig kort is (zeven dagen) dat een 
+ 
+verwijderingsverzoek doorgaans later tot besluitvorming zal leiden dan dat het nog ingewilligd kan worden.
+  Recht op rectificatie (art. 16 AVG) 
+In het geval de betrokkene constateert dat onjuiste persoonsgegevens die hem of haar betreffen 
+verwerkt worden, is voorzien in een helpdeskfunctie waarbij de persoon ondersteuning wordt 
+geboden bij welke stappen gezet moeten worden om de gegevens te corrigeren. De persoon kan 
+dit vervolgens bij de zorgaanbieder die verantwoordelijk is voor het bronsysteem of het RIVM laten 
+aanpassen indien de gegevens niet correct zijn. Voor de route via het hulpverlenersportaal (HKVI) 
+geldt dat de zorgaanbieder al bekend is en de betrokkenen kan de gegevens laten aanpassen. 
+ 
+  Recht op verwijdering (art. 17 AVG) 
+Voor de primaire gegevensverwerking geldt dat de betrokkene de verwerkte persoonsgegevens zelf 
+uit de CoronaCheck App kan verwijderen. Voor het genereren van een papieren bewijs via 
+https://coronacheck.nl geldt deze op de website zelf binnen enkele minuten verdwijnt. Als de 
+sessie met de website zijn geldigheid heeft verloren, wordt deze verwijderd uit de browser (tenzij 
+de gebruiker deze op tijd downloadt). Het coronatoegangsbewijs kan ook eerder verdwijnen 
+wanneer de persoon de browser waarin het bewijs wordt getoond sluit. 
+ 
+Voor de afgeleide verwerkingen geldt met name voor de IP‐adressen dat de bewaartermijn 
+dusdanig kort is (zeven dagen) dat een verwijderingsverzoek doorgaans later tot besluitvorming zal 
+leiden dan dat het nog ingewilligd kan worden.  
+43 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+• De betrokkene is in staat om zich over de regels die worden toegepast in de besluitvorming te informeren. Dit wordt opgenomen in de 
+privacyverklaring.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+• De betrokkene kan zich door middel van de route via het hulpverlenersportaal tot diens vaccinatiezetter of uitvoerder van de test wenden 
+Coronatoegangsbewijs 
+en langs die weg alsnog een Bewijsmiddel verstrekt krijgen indien de betrokkene aan de criteria voldoet. Dit brengt een menselijke 
+tussenkomst met zich mee en is effectief een mogelijkheid om het besluit aan te vechten.
+Op grond van het voorgaande komen we niet toe aan toepassing van art. 40 UAVG.
+ De betrokkene is in staat om zich over de regels die worden toegepast in de 
+besluitvorming te informeren. Dit wordt opgenomen in de privacyverklaring. 
+ De betrokkene kan zich door middel van de route via het hulpverlenersportaal tot diens 
+vaccinatiezetter of uitvoerder van de test wenden en langs die weg alsnog een 
+Bewijsmiddel verstrekt krijgen indien de betrokkene aan de criteria voldoet. Dit brengt 
+een menselijke tussenkomst met zich mee en is effectief een mogelijkheid om het besluit 
+aan te vechten. 
+ 
+Op grond van het voorgaande komen we niet toe aan toepassing van art. 40 UAVG.  
+  
+45 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Deze gevolgen zouden niet kunnen ontstaan zonder de verwerkingen die ten grondslag liggen aan het (al dan niet) verstrekken van een 
+Bewijsmiddel.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Coronatoegangsbewijs 
+[Figuur: Waarschijnlijkheid van schade (kans)]
+Vervolgens is aan de hand van de maatregelen (niet genomen, voorgenomen of genomen) beoordeeld wat het restrisico is wat overblijft.
+Om de leesbaarheid te verhogen zijn de risico’s ingedeeld in procesoverstijgende risico’s en risico’s die duidelijk te relateren zijn aan 
+processtappen zoals in deel A beschreven. Daarbinnen zijn risico’s opgedeeld in de volgende categorieëen:
+ 
+• Apparatuur
+Deze gevolgen zouden niet kunnen ontstaan zonder de verwerkingen die ten grondslag liggen aan 
+• Programmatuur
+het (al dan niet) verstrekken van een Bewijsmiddel. 
+• Gegevens
+ 
+• Organisatie
+ 
+• Omgeving
+• Dienstverleners
+middelhoog  hoog   zeer hoog 
+• Ketenpartners
+ernstige schade 
+risico  risico  risico  
+De gekozen systematiek is een afgeleide van de in de BIO gehanteerde MAPGOOD‐methodiek (Mens, Apparatuur, Programmatuur, Gegevens, 
+Organisatie, Omgeving, Dienstverleners). Hiervan is afgeweken nu de factor Mens vooral de betrokkene zelf is en de meer menselijke fouten in 
+middelhoog  hoog 
+enige  laag risico 
+de Organisatie liggen besloten. De Ketenpartners zijn opgenomen omdat er veel afhankelijkheden van ketenpartners zijn.
+risico  risico 
+laag   middelhoog 
+minimaal  zeer laag risico 
+risico  risico 
+ 
+redelijke   eerder wel  
+onwaarschijnlijk 
+ 
+kans  dan niet 
+ 
+ 
+ 
+waarschijnlijkheid van schade (kans) 
+ 
+ 
+ 
+Vervolgens is aan de hand van de maatregelen (niet genomen, voorgenomen of genomen) 
+beoordeeld wat het restrisico is wat overblijft. 
+ 
+Om de leesbaarheid te verhogen zijn de risico’s ingedeeld in procesoverstijgende risico’s en risico’s 
+die duidelijk te relateren zijn aan processtappen zoals in deel A beschreven. Daarbinnen zijn risico’s 
+opgedeeld in de volgende categorieëen: 
+ Apparatuur 
+ Programmatuur 
+ Gegevens 
+ Organisatie 
+ Omgeving 
+ Dienstverleners 
+ Ketenpartners 
+ 
+De gekozen systematiek is een afgeleide van de in de BIO gehanteerde MAPGOOD‐methodiek 
+(Mens, Apparatuur, Programmatuur, Gegevens, Organisatie, Omgeving, Dienstverleners). Hiervan is 
+afgeweken nu de factor Mens vooral de betrokkene zelf is en de meer menselijke fouten in de 
+Organisatie liggen besloten. De Ketenpartners zijn opgenomen omdat er veel afhankelijkheden van 
+ketenpartners zijn. 
+  
+47 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+ernst schade (impact) 
+
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐ principe (toetsing door tweede persoon). Daarnaast 
+vinden er geautomatiseerde kwaliteits‐ en beveiligingstests op de broncode plaats.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Beperking/uitdaging:
+Coronatoegangsbewijs 
+Status maatregel: Genomen
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Risico na maatregelen: Zeer laag
+#4. Uitval CoronaCheck App door programmeerfouten
+Impact: Hoog Kans: Hoog
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐
+Risico: Hoog
+principe (toetsing door tweede persoon). Daarnaast vinden er geautomatiseerde kwaliteits‐ en 
+Het niet beschikbaar zijn van de App door een foute release kan het onmogelijk maken dat het bewijsmiddel getoond wordt, wat met name 
+beveiligingstests op de broncode plaats. 
+voor het EU DCC een grote impact voor de betrokkene met zich mee kan brengen. Het niet kunnen doen verifiëren van het 
+Beperking/uitdaging:  
+Coronatoegangsbewijs kan eveneens een grote impact hebben op de betrokkene, ook omdat hiermee diens mogelijkheden tot sociale 
+participatie worden ingeperStatuskt maatregel:.  Genomen 
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth
+Impact na maatregelen: Laag 
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐ principe (toetsing door tweede persoon). Daarnaast 
+Kans na maatregelen: Laag 
+vinden er geautomatiseerde kwaliteits‐ en beveiligingstests op de broncode plaats.
+Risico na maatregelen: Zeer laag 
+Beperking/uitdaging:
+ 
+Status maatregel: Genomen
+#4.  UUiittvvaall  CCoorroonnaaCChheecckk  AApppp  ddoooorr  pprrooggrraammmmeeeerrffoouutteenn  
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Impact: Hoog 
+Risico na maatregelen: Zeer laag
+Kans: Hoog  
+Risico: Hoog 
+#5. Uitval CoronaCheck Scanner door programmeerfouten
+Het niet beschikbaar zijn van de App door een foute release kan het onmogelijk maken dat het 
+Impact: Hoog Kans: Hoog
+bewijsmiddel getoond wordt, wat met name voor het EU DCC een grote impact voor de 
+Risico: Hoog
+betrokkene met zich mee kan brengen. Het niet kunnen doen verifiëren van het 
+Het niet kunnen verifiëren van het Bewijsmiddel kan een grote impact hebben op de betrokkene, ook omdat hiermee diens mogelijkheden tot 
+Coronatoegangsbewijs kan eveneens een grote impact hebben op de betrokkene, ook omdat 
+sociale participatie worden
+hiermee diens mogelijkheden tot sociale participatie worden ingeperkt. 
+ingeperkt.
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth 
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐ principe (toetsing door tweede persoon). Daarnaast 
+principe (toetsing door tweede persoon). Daarnaast vinden er geautomatiseerde kwaliteits‐ en 
+vinden er geautomatiseerde kwaliteits‐ en beveiligingstests op de broncode plaats.
+beveiligingstests op de broncode plaats. 
+Beperking/uitdaging:
+Beperking/uitdaging:  
+Status maatregel: Genomen
+Status maatregel: Genomen 
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Risico na maatregelen: ZImeer laagpact na maatregelen: Laag 
+Kans na maatregelen: Laag 
+#6. Ontbreken van inzageprRisicooc nessena maatregelen: Zeer laag 
+Impact: Hoog Kans: Hoog
+ 
+Risico: Zeer hoog
+#5.  UUiittvvaall  CCoorroonnaaCChheecckk  SSccaannnneerr  ddoooorr  pprrooggrraammmmeeeerrffoouutteenn  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Hoog 
+Het niet kunnen verifiëren van het Bewijsmiddel kan een grote impact hebben op de 
+betrokkene, ook omdat hiermee diens mogelijkheden tot sociale participatie worden 
+ingeperkt. 
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth 
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐
+principe (toetsing door tweede persoon). Daarnaast vinden er geautomatiseerde kwaliteits‐ en 
+beveiligingstests op de broncode plaats. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Laag 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Zeer laag 
+ 
+#6.  OOnnttbbrreekkeenn  vvaann  iinnzzaaggeepprroocceesssseenn  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Zeer hoog 
+49 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+staat zou zijn grote delen van de bevolking te volgen bij het bezoeken van culturele evenementen en sportevenementen.
+Maatregelen: Decentrale opzet
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Door de CoronaCheck App zelf de gegevens op te laten halen en te laten ondertekenen én omdat de uitgelezen Bewijsmiddelen niet 
+Coronatoegangsbewijs 
+opgeslagen worden in de CoronaCheck Scanner App
+ontstaat er geen nieuwe centrale databank.
+Beperking/uitdaging:
+Status maatregel: Genomen
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Risico na maatregelen: Zeer laag
+staat zou zijn grote delen van de bevolking te volgen bij het bezoeken van culturele 
+evenementen en sportevenementen. 
+#10. Inbreuken via (data) ketenpartners
+Maatregelen: Decentrale opzet 
+Impact: Hoog Kans: Hoog
+Risico: Zeer hoog Door de CoronaCheck App zelf de gegevens op te laten halen en te laten ondertekenen én 
+Het incident zou hier zijn daomdat er sprt de uiake is vtgelezenan een inbr Bewijsmiddeleneuk van buit nienaf via syet opgeslagenstemen v woan ketrden inenpar de CoronaChecktners. Dit is een specifieker r Scanner Apisicp o dan 
+“Inbreuken van buitenafon”t.staat er geen nieuwe centrale databank. 
+Maatregelen: Toetsen aansluitingen.
+Beperking/uitdaging:  
+Er zijn uitgebreide aansluitvoorwaarden en er vindt toetsing conform een protocol plaats alvorens een ketenpartij wordt aangesloten.
+Status maatregel: Genomen 
+Beperking/uitdaging:
+Impact na maatregelen: Laag 
+Status maatregel: Genomen
+Kans na maatregelen: Laag 
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Risico na maatregelen: Zeer laag 
+Risico na maatregelen: Laag
+ 
+#10.  IInnbbrreeuukkeenn  vviiaa  ((ddaattaa))  kkeetteennppaarrttnneerrss  
+#11. Ontbreken van rectificatieprocessen en doorzendingen
+Impact: Hoog 
+Impact: Hoog Kans: Hoog
+Kans: Hoog  
+Risico: Zeer hoog
+Risico: Zeer hoog 
+Het recht op rectificatie (art. 16 AVG) is een cruciaal recht in het gegevensbeschermingsrecht en vloeit voort uit het juistheidsvereiste (art. 5 
+Het incident zou hier zijn dat er sprake is van een inbreuk van buitenaf via systemen van 
+AVG). Bij rectificatie dient (conform art. 19 AVG) een doorzending van de rectificatie aan derden aan wie de onjuiste data eerder is verstrekt 
+ketenpartners. Dit is een specifieker risico dan "Inbreuken van buitenaf". 
+plaats te vinden. Het ontbreken van een proces hiervoor, is behoudens andere maatregelen om het recht op een juiste gegevensverwerking te 
+Maatregelen: Toetsen aansluitingen. 
+kunnen effectueren, een ernstig risico voor de betrokkene.
+Er zijn uitgebreide aansluitvoorwaarden en er vindt toetsing conform een protocol plaats 
+Maatregelen: Er is een helpdesk.
+alvorens een ketenpartij wordt aangesloten. 
+Er komt een speciale helpdesk die betrokkenen helpen bij het verwerven van een juiste en verifieerbaar Bewijsmiddel als er problemen met de 
+Beperking/uitdaging:  
+data bij BRP of bronhouders zijn.
+Beperking/uitdaging: Dit is niet vStatus maatregel:oor 23 juni. Genomen 
+Status maatregel: Voorgenomen
+Impact na maatregelen: Middelhoog 
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag
+Risico na maatregelen: Laag 
+ 
+#11.  OOnnttbbrreekkeenn  vvaann  rreeccttiiffiiccaattiieepprroocceesssseenn  
+  eenn  ddoooorrzzeennddiinnggeenn  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Zeer hoog 
+Het recht op rectificatie (art. 16 AVG) is een cruciaal recht in het gegevensbeschermingsrecht 
+en vloeit voort uit het juistheidsvereiste (art. 5 AVG).  Bij rectificatie dient (conform art. 19 
+AVG) een doorzending van de rectificatie aan derden aan wie de onjuiste data eerder is 
+verstrekt plaats te vinden. Het ontbreken van een proces hiervoor, is behoudens andere 
+maatregelen om het recht op een juiste gegevensverwerking te kunnen effectueren, een 
+ernstig risico voor de betrokkene. 
+Maatregelen: Er is een helpdesk. 
+Er komt een speciale helpdesk die betrokkenen helpen bij het verwerven van een juiste en 
+verifieerbaar Bewijsmiddel als er problemen met de data bij BRP of bronhouders zijn. 
+Beperking/uitdaging: Dit is niet voor 23 juni. 
+Status maatregel: Voorgenomen 
+Impact na maatregelen: Middelhoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+51 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Er zijn instructies voor de helpdesk over hoe te handelen bij het door een gebruiker gemeld worden van een datalek. Verder zijn de binnen de 
+VWS gangbare instructies voor VWS‐medewerkers hoe te handelen bij een (vermeend) datalek van toepassing.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Beperking/uitdaging:
+Coronatoegangsbewijs 
+Status maatregel: Genomen
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Risico na maatregelen: Zeer laag
+#15. Doorgifte naar landen buiten de EER
+Impact: Hoog Kans: Hoog
+Er zijn instructies voor de helpdesk over hoe te handelen bij het door een gebruiker gemeld 
+Risico: Zeer hoog
+worden van een datalek. Verder zijn de binnen de VWS gangbare instructies voor VWS‐
+Doorgifte naar landen buiten de EER is in beginsel verboden (art. 74 AVG) omdat dit met een hoge mate van waarschijnlijkheid kan leiden tot 
+medewerkers hoe te handelen bij een (vermeend) datalek van toepassing. 
+een situatie waarin de betrokkenen hun rechten niet meer kunnen effectueren. Laatstgenoemde situatie wordt bij voorbaat als een ernstig risico 
+Beperking/uitdaging:  
+gezien.
+Maatregelen: ComponenStatusten anders dan de C maatregel: GenomenoronaCheck A  pp zelf uitsluitend in de EER laten werken.
+Met uitzondering van de CoronaCheck App zelf kunnen alle componenten binnen de EER gehuisvest worden. De CoronaCheck App zal 
+Impact na maatregelen: Laag 
+onvermijdelijk ook buiten de EER gebruikt worden. Aanvullende maatregel is hier de betrokkene over te informeren in de privacyverklaring.
+Kans na maatregelen: Laag 
+Beperking/uitdaging: De CoronaCheck App zelf kan buiten de EER belanden, dit is onvermijdelijk voor o.a. Caribisch Nederland, maar ook voor 
+Risico na maatregelen: Zeer laag 
+reizigers die buiten de EER reizen.
+ 
+Status maatregel: Genomen
+#15.  DDoooorrggiiffttee  nnaaaarr  llaannddeenn  bbuuiitteenn  ddee  EEEERR  
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+Impact: Hoog 
+Risico na maatregelen: Laag
+Kans: Hoog  
+Risico: Zeer hoog 
+#16. Inbreuken van buitenaf
+Doorgifte naar landen buiten de EER is in beginsel verboden (art. 74 AVG) omdat dit met een 
+Impact: Hoog Kans: Hoog
+hoge mate van waarschijnlijkheid kan leiden tot een situatie waarin de betrokkenen hun 
+Risico: Zeer hoog
+rechten niet meer kunnen effectueren. Laatstgenoemde situatie wordt bij voorbaat als een 
+Een inbreuk van buitenaf op bijvoorbeeld de signing servers zou tot een inbreuk op de persoonlijke levenssfeer van heel veel betrokkenen 
+ernstig risico gezien. 
+kunnen leiden, waarbij er gezondheidsgegevens in het geding zijn.
+Maatregelen: Componenten anders dan de CoronaCheck App zelf uitsluitend in de EER laten 
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth
+werken. 
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐ principe (toetsing door tweede persoon). Daarnaast 
+Met uitzondering van de CoronaCheck App zelf kunnen alle componenten binnen de EER 
+vinden er geautomatiseerde kwaliteits en beveiligingstests op de broncode plaats.
+gehuisvest worden. De CoronaCheck App zal onvermijdelijk ook buiten de EER gebruikt 
+Beperking/uitdaging:
+worden. Aanvullende maatregel is hier de betrokkene over te informeren in de 
+Status maatregel: Genomen
+privacyverklaring. 
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Beperking/uitdaging: De CoronaCheck App zelf kan buiten de EER belanden, dit is 
+Risico na maatregelen: Laag
+onvermijdelijk voor o.a. Caribisch Nederland, maar ook voor reizigers die buiten de EER reizen. 
+#17. Gebruik van autorStatusisaties v maatregel:an andere medew Genomenerkers 
+Impact: Laag Impact na maatregelen: Hoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+#16.  IInnbbrreeuukkeenn  vvaann  bbuuiitteennaaff  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Zeer hoog 
+Een inbreuk van buitenaf op bijvoorbeeld de signing servers zou tot een inbreuk op de 
+persoonlijke levenssfeer van heel veel betrokkenen kunnen leiden, waarbij er 
+gezondheidsgegevens in het geding zijn. 
+Maatregelen: Vier‐ogen principe, testen etc., continuous testing, devops, defence in depth 
+De ontwikkelstraat van VWS werkt op basis van continuous integration en het vier‐ogen‐
+principe (toetsing door tweede persoon). Daarnaast vinden er geautomatiseerde kwaliteits en 
+beveiligingstests op de broncode plaats. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Middelhoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+#17.  GGeebbrruuiikk  vvaann  aauuttoorriissaattiieess  vvaann  aannddeerree  mmeeddeewweerrkkeerrss  
+Impact: Laag 
+53 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Kans: Hoog
+Risico: Hoog
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Diefstal van gegevenssets is een groot probleem.
+Coronatoegangsbewijs 
+Maatregelen: Integriteitstoetsing bij aanname, protocollen voor signaleren integriteitsproblemen, functiescheiding.
+Er vindt een integriteitstoetsing van de personele bezetting binnen het programma plaats.
+Daarnaast zijn er geen centrale databases.
+Beperking/uitdaging:
+Status maatregel: Genomen
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Kans: Hoog  
+Risico na maatregelen: Laag
+Risico: Hoog 
+Diefstal van gegevenssets is een groot probleem. 
+#21. Protocol niet gevolgd (opzettelijk)
+Impact: Middelhoog KMaatregelen:ans: Middelhoog Integriteitstoetsing bij aanname, protocollen voor signaleren 
+Risico: Middelhoog integriteitsproblemen, functiescheiding. 
+De factor mens blijft altijd een zwakke schakel. Denk aan het niet volgen van ontwikkel‐ en releaseprotocollen. Omdat dit over het algemeen 
+Er vindt een integriteitstoetsing van de personele bezetting binnen het programma plaats. 
+ook achteraf te detecteren valt is hier een middelhoge impact ingeschat.
+Daarnaast zijn er geen centrale databases. 
+Maatregelen: Toetsen hanteren protocollen, vier‐ogen principe.
+Beperking/uitdaging:  
+Beperking/uitdaging:
+Status maatregel: Genomen 
+Status maatregel: Genomen
+Impact na maatregelen: Middelhoog 
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag
+Risico na maatregelen: Laag 
+ 
+#22. Onzorgvuldige omgang met wachtwoorden
+#21.  PPrroottooccooll  nniieett  ggeevvoollggdd  ((ooppzzeetttteelliijjkk))  
+Impact: Hoog Kans: Hoog
+Impact: Middelhoog 
+Risico: Hoog
+Kans: Middelhoog  
+Een onzorgvuldige omgang met wachtwoorden kan de integriteit en vertrouwelijkheid van het uitgifteproces van Bewijsmiddelen verstoren. 
+Risico: Middelhoog 
+Het kan ook leiden tot het aantasten van de integriteit van de CoronaCheck App en de CoronaCheck Scanner App.
+De factor mens blijft altijd een zwakke schakel. Denk aan het niet volgen van ontwikkel‐ en 
+Maatregelen: Twee‐factor authenticatie, elimineren noodzaak van wachtwoorden, toetsen gebruik (logging).
+releaseprotocollen. Omdat dit over het algemeen ook achteraf te detecteren valt is hier een 
+Er wordt overal twee‐factor authenticatie ingezet. Verder is er sprake van gebruik van wederkerige TLS‐verbindingen waardoor wachtwoord 
+middelhoge impact ingeschat. 
+gebruik geminimaliseerd wordt. Voor HKVI geldt dat er logging onform NEN 7513 is ingericht.
+Maatregelen: Toetsen hanteren protocollen, vier‐ogen principe. 
+Beperking/uitdaging:
+ 
+Status maatregel: Genomen
+Impact na maatregelen: MBeperkiiddelhoog Kng/uitdans na maaaging:   tregelen: Laag
+Risico na maatregelen: Laag
+Status maatregel: Genomen 
+Impact na maatregelen: Middelhoog 
+#23. Protocol niet gevolgd (onopzettelijk)
+Kans na maatregelen: Laag 
+Impact: Middelhoog
+Risico na maatregelen: Laag 
+Kans: Middelhoog
+ 
+#22.  OOnnzzoorrggvvuullddiiggee  oommggaanngg  mmeett  wwaacchhttwwoooorrddeenn  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Hoog 
+Een onzorgvuldige omgang met wachtwoorden kan de integriteit en vertrouwelijkheid van het 
+uitgifteproces van Bewijsmiddelen verstoren. Het kan ook leiden tot het aantasten van de 
+integriteit van de CoronaCheck App en de CoronaCheck Scanner App. 
+Maatregelen: Twee‐factor authenticatie, elimineren noodzaak van wachtwoorden, toetsen 
+gebruik (logging). 
+Er wordt overal twee‐factor authenticatie ingezet. Verder is er sprake van gebruik van 
+wederkerige TLS‐verbindingen waardoor wachtwoord gebruik geminimaliseerd wordt. Voor 
+HKVI geldt dat er logging onform NEN 7513 is ingericht. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Middelhoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+#23.  PPrroottooccooll  nniieett  ggeevvoollggdd  ((oonnooppzzeetttteelliijjkk))  
+Impact: Middelhoog 
+Kans: Middelhoog  
+55 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Kans: Hoog
+Risico: Hoog
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Met name voor nieuwe releases geldt dat ontbrekend of slecht projectmanagement impact kan hebben op de kwalteit van de releases in 
+Coronatoegangsbewijs 
+termen van privacy en informatiebeveiliging.
+Maatregelen: Hoogwaardig projectmanagement.
+Er is een programma‐organisatie, met per component een projectmanager. De componenten worden in lijn met “agile” methodieken 
+ontwikkeld.
+Beperking/uitdaging:
+Status maatregel: Genomen
+Kans: Hoog  
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+Risico: Hoog 
+Risico na maatregelen: Laag
+Met name voor nieuwe releases geldt dat ontbrekend of slecht projectmanagement impact 
+kan hebben op de kwalteit van de releases in termen van privacy en informatiebeveiliging. 
+#27. Voorzienbaar wegvallen personeel (vakantie, ontslag)
+Impact: Middelhoog KMaatregelen:ans: Middelhoog Hoogwaardig projectmanagement. 
+Risico: Laag
+Er is een programma‐organisatie, met per component een projectmanager. De componenten 
+De beschikbaarheid van met name de CoronaCheck App zal niet snel in het geding komen, maar de uitgifte van nieuwe Bewijsmiddelen kan in 
+worden in lijn met "agile" methodieken ontwikkeld. 
+het gedrang raken als er personele uitval in de beheerorganisatie van de betrokken VWS‐systemen ontstaat. De kans hierop is laag ingeschat.
+Beperking/uitdaging:  
+Maatregelen: Goede vakantieplanning, voldoende redundantie in organisatie, deel van de redundantie is bereikt door specialistische 
+Status maatregel: Genomen 
+uitbesteding.
+Impact na maatregelen: Hoog 
+De beheerorganisatie is deels al in staat om uitval van individuen op te vangen en is doende voldoende redundantie te organiseren om dit op 
+Kans na maatregelen: Laag 
+termijn geheel te kunnen.
+Risico na maatregelen: Laag 
+Beperking/uitdaging:
+ 
+Status maatregel: Voorgenomen
+#27.  VVoooorrzziieennbbaaaarr  wweeggvvaalllleenn  ppeerrssoonneeeell  ((vvaakkaannttiiee,,  oonnttssllaagg))  
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Impact: Middelhoog 
+Risico na maatregelen: Zeer laag
+Kans: Middelhoog  
+Risico: Laag 
+#28. Fraude (intern)
+De beschikbaarheid van met name de CoronaCheck App zal niet snel in het geding komen, 
+Impact: Hoog Kans: Hoog
+maar de uitgifte van nieuwe Bewijsmiddelen kan in het gedrang raken als er personele uitval 
+Risico: Hoog
+in de beheerorganisatie van de betrokken VWS‐systemen ontstaat. De kans hierop is laag 
+Diefstal van gegevenssets is een groot probleem.
+ingeschat. 
+Maatregelen: Integriteitstoetsing bij aanname, protocollen voor signaleren integriteitsproblemen, functiescheiding.
+Maatregelen: Goede vakantieplanning, voldoende redundantie in organisatie, deel van de 
+Er vindt een integriteitstoetsing van de personele bezetting binnen het programma plaats.
+redundantie is bereikt door specialistische uitbesteding. 
+Daarnaast zijn er geen centrale databases.
+Beperking/uitdaging:De beheerorganisatie is deels al in staat om uitval van individuen op te vangen en is doende 
+Status maatregel: Genomenvoldoende redundantie te organiseren om dit op termijn geheel te kunnen. 
+Impact na maatregelen: Middelhoog Kans na maatregelen: Laag
+Beperking/uitdaging:  
+Risico na maatregelen: Laag
+Status maatregel: Voorgenomen 
+Impact na maatregelen: Laag 
+#29. Huisvesting
+Kans na maatregelen: Laag 
+Impact: Hoog
+Risico na maatregelen: Zeer laag 
+Kans: Hoog
+ 
+#28.  FFrraauuddee  ((iinntteerrnn))  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Hoog 
+Diefstal van gegevenssets is een groot probleem. 
+Maatregelen: Integriteitstoetsing bij aanname, protocollen voor signaleren 
+integriteitsproblemen, functiescheiding. 
+Er vindt een integriteitstoetsing van de personele bezetting binnen het programma plaats. 
+Daarnaast zijn er geen centrale databases. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Middelhoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+#29.  HHuuiissvveessttiinngg  
+Impact: Hoog 
+Kans: Hoog  
+57 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+Kans na maatregelen: Laag
+Risico na maatregelen: Laag
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Coronatoegangsbewijs 
+#33. Incidentele uitval dienstverleners
+Impact: Middelhoog Kans: Middelhoog
+Risico: Middelhoog
+Uitval van dienstverleners kan betekenen dat er geen nieuwe Bewijsmiddelen kunnen worden uitgegeven of Bewijsmiddelen niet kunnen 
+worden vernieuwd. Als dit incidenteel is, zal de impact middelhoog zijn.
+Maatregelen: Redundantie bij dienstverlener
+Kans na maatregelen: Laag 
+De datacenters zijn driedubbel uitgevoerd.
+Risico na maatregelen: Laag 
+Beperking/uitdaging:
+ 
+Status maatregel: Genomen
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+#33.  IInncciiddeenntteellee  uuiittvvaall  ddiieennssttvveerrlleenneerrss  
+Risico na maatregelen: Zeer laag
+Impact: Middelhoog 
+Kans: Middelhoog  
+#34. Niet passende (sub)verwerkersovereenkomsten
+Risico: Middelhoog 
+Impact: Hoog Kans: Hoog
+Uitval van dienstverleners kan betekenen dat er geen nieuwe Bewijsmiddelen kunnen worden 
+Risico: Hoog
+uitgegeven of Bewijsmiddelen niet kunnen worden vernieuwd. Als dit incidenteel is, zal de 
+Het niet hebben van passende (sub)verwerkersovereenkomsten kan er toe leiden dat persoonsgegevens verwerkt worden zonder de passende 
+impact middelhoog zijn. 
+waarborgen van de AVG, in het bijzonder de passende technische en organisatorische maatregelen als bedoeld in art. 32 AVG.
+Maatregelen: Redundantie bij dienstverlener 
+Maatregelen: Passende verwerkersovereenkomst ( Prolocation, Webhelp)
+De datacenters zijn driedubbel uitgevoerd. 
+De standaard‐VWS verwerkersovereenkomsten worden ingezet.
+Beperking/uitdaging:  
+Beperking/uitdaging:
+Status maatregel: Genomen 
+Status maatregel: Genomen
+Impact na maatregelen: Laag 
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Kans na maatregelen: Laag 
+Risico na maatregelen: Zeer laag
+Risico na maatregelen: Zeer laag 
+ 
+#35. Structurele uitval dienstverleners
+Impact: Hoog Kans: Hoog#34.  NNiieett  ppaasssseennddee  ((ssuubb))vveerrwweerrkkeerrssoovveerreeeennkkoommsstteenn  
+Risico: Hoog
+Impact: Hoog 
+Uitval van dienstverleners kan betekenen dat er geen nieuwe Bewijsmiddelen kunnen worden uitgegeven of Bewijsmiddelen niet kunnen 
+Kans: Hoog  
+worden vernieuwd. Als dit structureel is, zal de impact hoog zijn.
+Risico: Hoog 
+Maatregelen: Continuïteitsmanagement
+Het niet hebben van passende (sub)verwerkersovereenkomsten kan er toe leiden dat 
+Er is uitwijk, daarnaast zijn de datacenters driedubbel uitgevoerd.
+persoonsgegevens verwerkt worden zonder de passende waarborgen van de AVG, in het 
+Beperking/uitdaging:
+bijzonder de passende technische en organisatorische maatregelen als bedoeld in art. 32 AVG. 
+Status maatregel: Genomen
+Maatregelen: Passende verwerkersovereenkomst ( Prolocation, Webhelp) 
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+De standaard‐VWS verwerkersovereenkomsten worden ingezet. 
+Risico na maatregelen: Laag
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Laag 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Zeer laag 
+ 
+#35.  SSttrruuccttuurreellee  uuiittvvaall  ddiieennssttvveerrlleenneerrss  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Hoog 
+Uitval van dienstverleners kan betekenen dat er geen nieuwe Bewijsmiddelen kunnen worden 
+uitgegeven of Bewijsmiddelen niet kunnen worden vernieuwd. Als dit structureel is, zal de 
+impact hoog zijn. 
+Maatregelen: Continuïteitsmanagement 
+Er is uitwijk, daarnaast zijn de datacenters driedubbel uitgevoerd. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Hoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+59 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+kunnen worden voor de versleuteling van de onderlinge communicatie. Hierdoor wordt het wijzigen van componenten zonder dat dit 
+opgemerkt wordt ernstig bemoeilijkt. Dit is een onderdeel van het “defence‐in‐depth” principe wat is toegepast.
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Beperking/uitdaging: Uiteindelijk zal dit vooral reactief zijn. Ook certificate pinning is uiteindelijk niet onfeilbaar.
+Coronatoegangsbewijs 
+Status maatregel: Genomen
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+Risico na maatregelen: Laag
+16.3 Verificatie identiteit gebruiker
+kunnen worden voor de versleuteling van de onderlinge communicatie. Hierdoor wordt het 
+#39. Authenticatiemethode gebruikers onvoldoende betrouwbaar
+wijzigen van componenten zonder dat dit opgemerkt wordt ernstig bemoeilijkt. Dit is een 
+Impact: Hoog Kans: Hoog
+onderdeel van het "defence‐in‐depth" principe wat is toegepast. 
+Risico: Zeer hoog
+Beperking/uitdaging: Uiteindelijk zal dit vooral reactief zijn. Ook certificate pinning is 
+Als men zich kan voordoen als een ander is het denkbaar dat gezondheidsgegevens van een ander persoon met de werkelijke gebruiker 
+uiteindelijk niet onfeilbaar. 
+gedeeld worden en/of dat het Bewijsmiddel onbetrouwbaar wordt.
+Status maatregel: Genomen 
+Maatregelen: eIDAS‐hoog‐conforme authenticatie kiezen.
+Impact na maatregelen: Hoog 
+Beperking/uitdaging: Op korte termijn is er voor Nederlandse burgers geen online authenticatie‐infrastructuur die e‐IDAS‐conform is 
+Kans na maatregelen: Laag 
+beschikbaar.
+Risico na maatregelen: Laag 
+Status maatregel: Niet genomen
+ 
+Impact na maatregelen: Hoog Kans na maatregelen: Middelhoog
+ 
+Risico na maatregelen: Hoog
+ Verificatie identiteit gebruiker 
+#40. TVS niet beschik baar
+Impact: Middelhoog Kans: Middelhoog
+#39.  AAuutthheennttiiccaattiieemmeetthhooddee  ggeebbrruuiikkeerrss  oonnvvoollddooeennddee  bbeettrroouuwwbbaaaarr  
+Risico: Middelhoog
+Impact: Hoog 
+Een gevolg van een onbeschikbaar TVS is dat de Bewijsmiddelen die afhankelijk zijn van TVS (met name vaccinatie‐ en herstelbewijzen) niet 
+Kans: Hoog  
+afgegeven kunnen worden. Middelhoge impact omdat samenstellen gegevensset zelden tijdkritisch is, middelhoge kans (verstekwaarde).
+Risico: Zeer hoog 
+Maatregelen: Afspraken beschikbaarheid TVS/DDoS‐mitigatie
+Als men zich kan voordoen als een ander is het denkbaar dat gezondheidsgegevens van een 
+VWS is nog in gesprek met DICTU om dit te waarborgen. Daarnaast zijn er maatregelen getroffen om overvraging van TVS te voorkomen.
+ander persoon met de werkelijke gebruiker gedeeld worden en/of dat het Bewijsmiddel 
+Beperking/uitdaging: Hier is een afhankelijkheid van DICTU (BZK)
+onbetrouwbaar wordt. 
+Status maatregel: Voorgenomen
+Maatregelen: eIDAS‐hoog‐conforme authenticatie kiezen. 
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+ 
+Risico na maatregelen: Zeer laag
+Beperking/uitdaging: Op korte termijn is er voor Nederlandse burgers geen online 
+authenticatie‐infrastructuur die e‐IDAS‐conform is beschikbaar. 
+Status maatregel: Niet genomen 
+Impact na maatregelen: Hoog 
+Kans na maatregelen: Middelhoog 
+Risico na maatregelen: Hoog 
+ 
+#40.  TTVVSS  nniieett  bbeesscchhiikkbbaaaarr  
+Impact: Middelhoog 
+Kans: Middelhoog  
+Risico: Middelhoog 
+Een gevolg van een onbeschikbaar TVS is dat de Bewijsmiddelen die afhankelijk zijn van TVS 
+(met name vaccinatie‐ en herstelbewijzen) niet afgegeven kunnen worden. Middelhoge 
+impact omdat samenstellen gegevensset zelden tijdkritisch is, middelhoge kans 
+(verstekwaarde). 
+Maatregelen: Afspraken beschikbaarheid TVS/DDoS‐mitigatie 
+VWS is nog in gesprek met DICTU om dit te waarborgen. Daarnaast zijn er maatregelen 
+getroffen om overvraging van TVS te voorkomen. 
+Beperking/uitdaging: Hier is een afhankelijkheid van DICTU (BZK) 
+Status maatregel: Voorgenomen 
+Impact na maatregelen: Laag 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Zeer laag 
+ 
+ 
+ 
+ 
+61 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+rechten van betrokkenen en als zodanig, op grond van overweging 75 AVG, al een risico voor de betrokkene.
+Maatregelen: Bij ophalen gegevens laten zien bij welke bronhouders er gegevens worden gevraagd, ook hier helpdesk
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+In de CoronaCheck App wordt nadat de gegevens zijn opgehaald getoond welke gegevens bij welke bronhouder afkomstig zijn.
+Coronatoegangsbewijs 
+Beperking/uitdaging:
+Status maatregel: Genomen
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+Risico na maatregelen: Zeer laag
+#44. BRP niet beschikbaar
+rechten van betrokkenen en als zodanig, op grond van overweging 75 AVG, al een risico voor 
+Impact: Middelhoog Kans: Middelhoog
+de betrokkene. 
+Risico: Middelhoog
+Maatregelen: Bij ophalen gegevens laten zien bij welke bronhouders er gegevens worden 
+Het niet beschikbaar zijn van de BasisRegistratie Personen (BRP) is vervelend, maar niet onoverkomelijk bij kortdurende verstoringen.
+gevraagd, ook hier helpdesk 
+Maatregelen: VWS‐kopie van BRP om een DDoS‐aanval het hoofd te kunnen bieden.
+Met RvIG is overeengekomen daIn de Corot er een noodscnaCheck Appenar worio wdt nadatordt ger deealiseer gegevensd om een ev zijn opengetuele ohaald vgetoonderbelasting v welkean de BRP het hoof gegevens bij  d te kunnen 
+bieden. Dit noodscenarwelkeio bestaa brot uit een bepernhouder afkomstigkte schaduwkopie v zijn.  an de BRP. De beperking bestaat er in dat alleen gegevenselementen die van 
+belang zijn voor het verstrekken van een Bewijsmiddel (voornamen, achternamen, geboortedatum) in deze schaduwkopie is opgenomen. Deze 
+Beperking/uitdaging:  
+zal alleen ingezet worden bij piekbelastingen waarbij de BRP overvraagd dreigt te worden door bevragingen geïnitieerd door de CoronaCheck 
+Status maatregel: Genomen 
+App.
+Impact na maatregelen: Laag 
+Beperking/uitdaging: Zal een korte verstoring met zich meebrengen bij inzet.
+Kans na maatregelen: Laag 
+Status maatregel: Genomen
+Risico na maatregelen: Zeer laag 
+Impact na maatregelen: Laag Kans na maatregelen: Laag
+ 
+Risico na maatregelen: Zeer laag
+#44.  BBRRPP  nniieett  bbeesscchhiikkbbaaaarr  
+Impact: Middelhoog 
+#45. TVS levert onjuist BSN in token
+Kans: Middelhoog  
+Impact: Hoog Kans: Hoog
+Risico: Middelhoog 
+Risico: Hoog
+Het niet beschikbaar zijn van de BasisRegistratie Personen (BRP) is vervelend, maar niet 
+TVS is de DigiD‐inlogvoorziening waarmee de identiteit van de betrokkene wordt geverifieerd (in de meeste gevallen). Tegelijkertijd levert deze 
+onoverkomelijk bij kortdurende verstoringen. 
+het BSN van de betrokkene in de vorm van een fiche (“token”) aan de CoronaCheck App. Als hier een onjuist BSN wordt geleverd zal er een de 
+Maatregelen: VWS‐kopie van BRP om een DDoS‐aanval het hoofd te kunnen bieden. 
+facto persoonsverwisseling plaats kunnen vinden, respectievelijk (minder kwalijk) zal iedere verdere bevraging van bronhouders mislukken 
+Met RvIG is overeengekomen dat er een noodscenario wordt gerealiseerd om een eventuele 
+omdat er een BSN van een niet bestaande persoon als sleutel wordt gehanteerd. De oorzaak van onjuiste gegevens ligt dan weliswaar buiten de 
+overbelasting van de BRP het hoofd te kunnen bieden. Dit noodscenario bestaat uit een 
+invloedssfeer van VWS, een verwerking van VWS wordt hier wel onjuist door.
+beperkte schaduwkopie van de BRP. De beperking bestaat er in dat alleen  
+Maatregelen: Afspraken integriteit TVS, goede escalatieprocedures inregelen
+gegevenselementen die van belang zijn voor het verstrekken van een Bewijsmiddel 
+VWS is nog in gesprek met DICTU om dit te waarborgen.
+(voornamen, achternamen, geboortedatum) in deze schaduwkopie is opgenomen. Deze zal 
+Beperking/uitdaging: Hier is een afhankelijkheid van DICTU (BZK)
+alleen ingezet worden bij piekbelastingen waarbij de BRP overvraagd dreigt te worden door 
+Status maatregel: Voorgenomen
+Impact na maatregelen: Mbevragingeiddelhoogn geïnitieerd door de CoronaCheck App. 
+Beperking/uitdaging: Zal een korte verstoring met zich meebrengen bij inzet. 
+Status maatregel: Genomen 
+Impact na maatregelen: Laag 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Zeer laag 
+ 
+#45.  TTVVSS  lleevveerrtt  oonnjjuuiisstt  BBSSNN  iinn  ttookkeenn  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Hoog 
+TVS is de DigiD‐inlogvoorziening waarmee de identiteit van de betrokkene wordt geverifieerd 
+(in de meeste gevallen). Tegelijkertijd levert deze het BSN van de betrokkene in de vorm van 
+een fiche (“token”) aan de CoronaCheck App. Als hier een onjuist BSN wordt geleverd zal er 
+een de facto persoonsverwisseling plaats kunnen vinden, respectievelijk (minder kwalijk) zal 
+iedere verdere bevraging van bronhouders mislukken omdat er een BSN van een niet 
+bestaande persoon als sleutel wordt gehanteerd. De oorzaak van onjuiste gegevens ligt dan 
+weliswaar buiten de invloedssfeer van VWS, een verwerking van VWS wordt hier wel onjuist 
+door. 
+Maatregelen: Afspraken integriteit TVS, goede escalatieprocedures inregelen 
+VWS is nog in gesprek met DICTU om dit te waarborgen. 
+Beperking/uitdaging: Hier is een afhankelijkheid van DICTU (BZK) 
+Status maatregel: Voorgenomen 
+Impact na maatregelen: Middelhoog 
+63 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+
+respectievelijk het niet hebben van een bruikbaar Coronatoegangsbewijs en de daardoor verminderde sociale participatiemogelijkheden.
+Maatregelen: Best practices voor sleutelbeheer toepassen (JUSTID)
+VWS | Directie Informatiebeleid / CIO ‐ DPIA EU Digitaal Corona Certificaat & nationaal 
+Het sleutelbeheer is zijn geheel neergelegd bij een partij binnen de overheid die hier de meeste ervaring mee heeft. Dit is JUSTID die op basis 
+Coronatoegangsbewijs 
+van “best practices” dit uitvoert. De scheiding tussen JUSTID en de rest van de beheerorganisatie heeft hierbij een meerwaarde in termen van 
+compartimentalisatie (opnieuw “defence‐in‐depth”)
+Beperking/uitdaging:
+Status maatregel: Genomen
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+Risico na maatregelen: Laag
+respectievelijk het niet hebben van een bruikbaar Coronatoegangsbewijs en de daardoor 
+verminderde sociale participatiemogelijkheden. 
+#49. Specifieke sleutel voor bijzondere gevallen om een ping back
+Maatregelen: Best practices voor sleutelbeheer toepassen (JUSTID) 
+Impact: Hoog Kans: Hoog
+Risico: Hoog Het sleutelbeheer is zijn geheel neergelegd bij een partij binnen de overheid die hier de 
+Het European Trust Framewmeesortek sluit niet uit da ervaring mee het door gebruik veft. Dit is JUSTIDan bijz dondrie ope sleut basiselpar vanen bij het z "best practicetten ves"an de gek dit uitvoertwalific. eerDede elektr  onische 
+handtekening in het Bscheewijsmiddel het Biding tussenewijsmiddel t JUSTID en doch ve resolgbaar wt van de orbedt bij rheeroaadplegrganisaingen. Dit is niet eentie heeft hierbij eevnoudig t meere rwaealiserarde en en vin  ergt opzet, 
+maar is desalniettemin geen bij vtermen vanoor cbaaomt tpae vrtiermweaarntalolizsen katieans (op. Enen derieuw gelijke sur"defence‐vineillanc‐depe kth"an ger)  ekend worden tot een gebeurtenis met een 
+hoge impact op de betrokkene.
+Beperking/uitdaging:  
+Maatregelen: Gebruik OCSP verboden, op controleren (door volledige transparantie van EU gateway)
+Status maatregel: Genomen 
+Er vindt monitoring plaats op het intrekken van gekwalificeerde elektronische handtekeningen. Voor Nederlandse Bewijsmiddelen is dit 
+Impact na maatregelen: Hoog 
+afgedekt, ook door inzet van JUSTID.
+Kans na maatregelen: Laag 
+Beperking/uitdaging:
+Risico na maatregelen: Laag 
+Status maatregel: Genomen
+ 
+Impact na maatregelen: Hoog Kans na maatregelen: Laag
+#49.  SSppeecciiffiieekkee  sslleeuutteell  vvoooorr  bbiijjzzoonnddeerree  ggeevvaalllleenn  oomm  eeeenn  ppiinngg‐‐bbaacckk  
+Risico na maatregelen: Laag
+Impact: Hoog 
+Kans: Hoog  
+16.7 Uitlezen Bewijsmiddel
+Risico: Hoog 
+Het European Trust Framework sluit niet uit dat door gebruik van bijzondre  sleutelparen bij 
+#50. Niet door gebruiker geautoriseerde uitlezing
+het zetten van de gekwalificeerde elektronische handtekening in het Bewijsmiddel het 
+Impact: Hoog Kans: Hoog
+Bewijsmiddel toch volgbaar wordt bij raadplegingen. Dit is niet eenvoudig te realiseren en 
+Risico: Zeer hoog
+vergt opzet, maar is desalniettemin geen bij voorbaat te verwaarlozen kans. Een dergelijke 
+Leidt tot onrechtmatige inzage in gezondheidsgegevens van gebruiker.
+surveillance kan gerekend worden tot een gebeurtenis met een hoge impact op de 
+Maatregelen: Meeste gebruikers hebben hun smartphone beveiligd met een pincode en/of biometrische toegang.
+betrokkene. 
+Communicatie naar gebruikers toe dat ze de beveiligingsmiddelen van hun smartphone ook echt moeten gebruiken.
+Maatregelen: Gebruik OCSP verboden, op controleren (door volledige transparantie van EU 
+Beperking/uitdaging: Is in huidige situatie lastig te beheersen voor VWS. Een aanvullende DigiD‐login zou a) afdoen aan gebruiksvriendelijkheid 
+gateway) 
+en b) niet stroken met overweging 22 van de Verordening (geen ping‐back).
+Er vindt monitoring plaats op het intrekken van gekwalificeerde elektronische 
+Status maatregel: Voorgenomen
+handtekeningen. Voor Nederlandse Bewijsmiddelen is dit afgedekt, ook door inzet van JUSTID. 
+Beperking/uitdaging:  
+Status maatregel: Genomen 
+Impact na maatregelen: Hoog 
+Kans na maatregelen: Laag 
+Risico na maatregelen: Laag 
+ 
+ 
+ Uitlezen Bewijsmiddel 
+ 
+#50.  NNiieett  ddoooorr  ggeebbrruuiikkeerr  ggeeaauuttoorriisseeeerrddee  uuiittlleezziinngg  
+Impact: Hoog 
+Kans: Hoog  
+Risico: Zeer hoog 
+Leidt tot onrechtmatige inzage in gezondheidsgegevens van gebruiker. 
+Maatregelen: Meeste gebruikers hebben hun smartphone beveiligd met een pincode en/of 
+biometrische toegang. 
+Communicatie naar gebruikers toe dat ze de beveiligingsmiddelen van hun smartphone ook 
+echt moeten gebruiken. 
+Beperking/uitdaging: Is in huidige situatie lastig te beheersen voor VWS. Een aanvullende 
+DigiD‐login zou a) afdoen aan gebruiksvriendelijkheid en b) niet stroken met overweging 22 
+van de Verordening (geen ping‐back). 
+Status maatregel: Voorgenomen 
+65 | 66  Gegevensbeschermingseffectbeoordeling | DPIA 
+

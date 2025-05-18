@@ -1,0 +1,436 @@
+NOTA VAN TOELICHTING 
+ 
+Algemeen 
+ 
+1. Inleiding 
+ 
+Op 1 juli 2021 is in werking getreden de verordening (EU) 2021/953 van het Europees 
+Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie 
+en aanvaarding van interoperabele COVID-19-vaccinatie-, test- en herstelcertificaten 
+(digitaal EU-COVID-certificaat) teneinde het vrije verkeer tijdens de COVID-19-
+pandemie te faciliteren (PB L 211) (hierna: verordening of Vo). De verordening verplicht 
+de lidstaten of door de lidstaten aangewezen instanties tot het uitgeven van certificaten 
+betreffende vaccinatie tegen, negatieve test op en herstel van een infectie met het virus 
+SARS-CoV-2 (hierna: coronavirus). De certificaten worden volgens de verordening 
+automatisch of op verzoek verstrekt. Certificaten kunnen zowel digitaal als in papieren 
+vorm worden afgegeven. De verordening schrijft bovendien het opstellen en 
+onderhouden van een door de Europese Commissie en lidstaten gebouwd trusted 
+framework voor, een infrastructuur waarmee de authenticiteit van een certificaat kan 
+worden geverifieerd. Lidstaten moeten elkaars certificaten aanvaarden. De verordening 
+bevat juridische grondslagen voor het verwerken van de (medische) persoonsgegevens 
+die nodig zijn voor het uitgeven en verifiëren van de certificaten. De verordening kent 
+een werkingsduur van 12 maanden. Afhankelijk van de epidemiologische situatie met 
+betrekking tot de pandemie van covid-19, kan in Europees verband eventueel besloten 
+worden tot verlenging. 
+ 
+De verordening heeft rechtstreekse werking. Desalniettemin zijn enkele aanvullende 
+regels nodig ter uitvoering van de verordening. Zo biedt de verordening de ruimte om 
+instanties aan te wijzen voor de afgifte van certificaten (artikel 3, tweede lid, Vo). 
+Daarnaast gaat de verordening uit van decentrale gegevensbronnen, terwijl het in de 
+Nederlandse situatie efficiënter is gegevens te betrekken van een ander dan de 
+toediener van een vaccin voor een vaccinatiecertificaat (artikel 10, lid 7, Vo). Het 
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM) houdt namelijk een centrale 
+registratie van vaccinaties bij. Ook in Bonaire, Sint Eustatius of Saba worden namens de 
+Minister van Volksgezondheid, Welzijn en Sport (VWS) certificaten verstrekt (artikel 8, 
+vijfde lid, Vo). Voorts is het van belang bepaalde uitvoeringsmodaliteiten vast te leggen. 
+Geregeld dient te worden dat: 
+- certificaten in Nederland alleen op verzoek worden uitgegeven; 
+- voor de uitgifte bepaalde applicaties gebruikt worden; 
+- de Minister van VWS de certificaten digitaal ondertekent, betrokkene een certificaat 
+kan afdrukken en de zorgaanbieder die de test of vaccinatie heeft uitgevoerd en de 
+helpdesk bij het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg 
+(CIBG) van het Ministerie van VWS het desbetreffende certificaat op papier kan 
+verstrekken; 
+- gegevens behalve van de zorgaanbieder die de test of vaccinatie heeft uitgevoerd, 
+ook verkregen kunnen worden van het RIVM en de gemeentelijke 
+gezondheidsdienst (GGD); 
+- in bepaalde gevallen certificaten kunnen worden uitgegeven voor vaccinaties die in 
+een derde land zijn toegediend; 
+- de mogelijkheid een papieren certificaat in te lezen en om te zetten naar een 
+digitaal certificaat; 
+- persoonsgegevens verwerkt mogen worden bij de controle van een certificaat; 
+ 
+ 
+ 
+ 
+  Pagina 1 van 16 
+
+krijgt betrokkene tegelijk met het certificaat een coronatoegangsbewijs. Zo'n bewijs 
+biedt vanuit privacy enkele voordelen ten opzichte van een certificaat. Het laat 
+bijvoorbeeld alleen zien dat betrokkene beschikt over een geldig coronatoegangsbewijs, 
+zonder te tonen of betrokkene gevaccineerd, getest of hersteld is. Voor meer informatie 
+over coronatoegangsbewijzen wordt kortheidshalve verwezen naar de memorie van 
+toelichting bij de Tijdelijke wet coronatoegangsbewijzen (Kamerstukken II 2020/21, 35 
+807, nr. 3), en de toelichtingen bij de desbetreffende wijzigingsregelingen (Stcrt. 2021, 
+28498, 33032 en 36160). 
+ 
+Certificaten worden uitsluitend op verzoek van betrokkene uitgegeven en daaraan zijn 
+voor de ontvanger geen kosten verbonden. Zij kunnen op drie manieren verkregen 
+worden. Digitale certificaten worden beschikbaar gesteld in een applicatie. Dat is 
+verreweg de meest gebruikte methode. Certificaten op papier kan men zelf afdrukken 
+dan wel verkrijgen bij de zorgaanbieder. Een vaccinatiecertificaat op papier wordt 
+verstrekt door de zorgaanbieder die één of beide vaccins heeft toegediend. Een 
+testcertificaat op basis van een negatieve testuitslag wordt op papier verstrekt door de 
+zorgaanbieder die de test heeft uitgevoerd; een herstelcertificaat op basis van een 
+positieve testuitslag wordt op papier eveneens verstrekt door de zorgaanbieder, veelal 
+de GGD, die de test heeft uitgevoerd. Daarnaast kunnen vaccinatie- en 
+herstelcertificaten op papier worden verkregen van de helpdesk bij het CIBG, tegelijk 
+met coronatoegangsbewijzen op papier. Alle digitale en papieren certificaten worden 
+aangemaakt met applicaties die door de Minister van VWS beschikbaar zijn gesteld. Voor 
+betrokkenen zijn dit mobiele applicaties voor smartphones die draaien op Android of iOS 
+en webapplicaties die draaien op de meest gangbare internetbrowsers; voor 
+zorgaanbieders en helpdesk zijn er portalapplicaties die eveneens draaien op de meest 
+gangbare internetbrowers. Alle certificaten worden voorzien van een digitale 
+handtekening van de Minister van VWS. 
+ 
+Met ingang van 17 juli 2021 is aan de mobiele applicatie CoronaCheck een functie 
+toegevoegd waarmee een certificaat op papier kan worden ingelezen, waarna deze wordt 
+omgezet in een digitaal certificaat. Dat kan eenvoudig door de QR-code in te lezen. 
+Degenen die niet volgens de gebruikelijke route een digitaal certificaat konden 
+verkrijgen, kunnen zo'n certificaat alsnog aanmaken. Tegelijk wordt een elektronisch 
+coronatoegangsbewijs gegenereerd. 
+ 
+De bron van de gegevens die ingevolge de verordening opgenomen dienen te worden in 
+de certificaten, ligt bij de zorgaanbieder die het vaccin heeft toegediend of de test heeft 
+uitgevoerd. 
+ 
+Het RIVM beschikt over het COVID-vaccinatie Informatie- en Monitoringsysteem (CIMS). 
+Dit systeem is opgezet om informatie te vergaren ten behoeve van de 
+infectieziektebestrijding; ook kunnen gevaccineerde personen zo nodig geïnformeerd 
+worden over bijwerkingen van vaccins. Verreweg de meeste gevaccineerde personen 
+geven toestemming om de vaccinatiegegevens op te nemen in CIMS. Dan verstrekt de 
+zorgaanbieder die het vaccin heeft toegediend, de gegevens aan het RIVM. Deze 
+gegevens kunnen op basis van deze regeling ook worden gebruikt om op verzoek van 
+betrokkene een vaccinatiecertificaat uit te geven. Wanneer de gegevens niet in CIMS 
+staan, worden ze verkregen van de toediener van het vaccin. De toedieners van vaccins 
+zijn onder meer de GGD'en, de ziekenhuizen en de huisartsen. Op dit moment is er 
+alleen een directe koppeling met de systemen van de GGD'en. Daar worden de 
+vaccinatiegegevens geautomatiseerd gezocht en opgehaald. Ziekenhuizen en huisartsen 
+kunnen via de portalapplicatie een vaccinatiebewijs maken voor mensen die geen 
+  Pagina 3 van 16 
+
+infectie met het coronavirus. Met het oog op het bevorderen van het vrij verkeer van 
+personen voorziet de verordening in afgifte, verificatie en aanvaarding van 
+interoperabele vaccinatie-, test- en herstelcertificaten. Hiermee is het doel van de 
+gegevensverwerking voor certificaten afgebakend. De ingevolge de verordening in de 
+certificaten op te nemen persoonsgegevens zijn tot het minimum beperkt. Tevens wordt 
+een trusted framework ingericht dat met de bijbehorende specificaties borgt dat voldaan 
+wordt aan de eisen van de AVG, onder meer wat betreft de juistheid en beveiliging van 
+persoonsgegevens. De introductie van certificaten levert een aanzienlijke beperking op 
+van de mogelijkheden om fraude te plegen met allerhande bewijzen van vaccinatie 
+tegen, test op of herstel van een infectie met het coronavirus. De wijze waarop de 
+uitgifte, verificatie en aanvaarding van certificaten vorm is gegeven, brengt het risico op 
+fraude nog verder terug. 
+ 
+Bij het proces tot verstrekking van certificaten worden behalve de ingevolge de 
+verordening in een certificaat op te nemen (medische) persoonsgegevens ook 
+persoonsgegevens verwerkt die nodig zijn om het daarvoor noodzakelijke 
+gegevensverkeer in goede banen te leiden. Een belangrijk voorbeeld daarvan is het 
+gebruik van het burgerservicenummer om te waarborgen dat de gegevens betrekking 
+hebben op de juiste persoon. Zorgaanbieders en overheidsorganen zoals GGD'en, het 
+RIVM en de Minister van VWS zijn reeds bevoegd en zelfs gehouden om het 
+burgerservicenummer te gebruiken op grond van artikel 10 e.v. van de Wet algemene 
+bepalingen burgerservicenummer en artikel 4 van de Wet aanvullende bepalingen 
+verwerking persoonsgegevens in de zorg. Bij het gegevensverkeer worden daarnaast 
+gegevens gebruikt zoals een IP-adres of unieke inlogcodes. De onderhavige regeling 
+biedt daarvoor de juridische grondslag. 
+ 
+Er worden geen regels gesteld aan de aansluiting van zorgaanbieders, de GGD'en en het 
+RIVM op de applicaties voor de afgifte van certificaten of het gebruik van de applicaties 
+voor het tonen en lezen van een certificaat. Het ontwerp van de applicaties en de 
+privaatrechtelijke aansluit- en gebruiksvoorwaarden voorzien in waarborgen tegen 
+verlies of onrechtmatige verwerking voor een verantwoorde inzet van 
+coronatoegangsbewijzen, ook vanuit het oogpunt van privacy. Dit is derhalve dezelfde 
+benadering als is gehanteerd bij coronatoegangsbewijzen. 
+ 
+Voor het uitgeven, tonen en lezen van certificaten moet door de Minister van VWS 
+beschikbaar gestelde software worden gebruikt. Dat zijn CoronaCheck en de 
+portalapplicatie voor het maken van digitale certificaten, de webapplicatie en de 
+portalapplicatie voor het maken van een papieren certificaat en CoronaCheck Scanner 
+voor het lezen van een digitaal of papieren certificaat. Teneinde de persoonsgegevens 
+voor certificaten beschikbaar te kunnen maken, treft de Minister van VWS verder de 
+benodigde technische voorzieningen om zorgaanbieders, GGD'en en het RIVM in staat te 
+stellen hun automatiseringssystemen voor dit doel aan te sluiten op CoronaCheck, de 
+webapplicatie en de portalapplicatie. Bij het aanbieden van deze software worden 
+gebruiks- en aansluitvoorwaarden gesteld, waarbij het vooral om veiligheid en 
+betrouwbaarheid van de gegevens en het gegevensverkeer gaat. Elk certificaat is ook 
+weer met het oog op de veiligheid en betrouwbaarheid voorzien van een digitale 
+handtekening van de Minister van VWS. 
+ 
+Door dit samenstel van software, voorwaarden en handtekeningen heeft de Minister van 
+VWS direct controle over de condities voor het uitgeven, verifiëren en aanvaarden van 
+certificaten. De voorwaarden worden door de Minister van VWS opgesteld. Wanneer deze 
+niet worden geaccepteerd of nagekomen, kan de software niet in werking worden 
+  Pagina 5 van 16 
+
+passend beschermingsniveau van persoonsgegevens is gewaarborgd, is doorgifte van 
+persoonsgegevens naar de BES-eilanden alleen toegestaan als er passende waarborgen 
+zijn en betrokkenen over afdwingbare rechten en doeltreffende rechtsmiddelen 
+beschikken (artikel 46 AVG). De doorgifte van persoonsgegevens aan de BES kan op 
+deze bepaling worden gebaseerd omdat is voorzien is passende waarborgen, 
+afdwingbare rechten en doeltreffende rechtsmiddelen. Ook ten aanzien van de openbare 
+lichamen Bonaire, Sint Eustatius en Saba geldt de opdracht van artikel 10 van de 
+Grondwet om bij wet regels te stellen ter bescherming van de persoonlijke levenssfeer in 
+verband met het vastleggen en verstrekken van persoonsgegevens. De Wbp-BES geeft 
+uitvoering aan deze grondwettelijke opdracht. De CBP-BES heeft als onafhankelijke 
+toezichthouder de taak om toe te zien op de verwerking van persoonsgegevens 
+overeenkomstig deze wet. Bovendien geldt in de openbare lichamen Bonaire, Sint 
+Eustatius en Saba ook het Burgerlijk Wetboek BES, dat in Boek 7, Titel 7, Afdeling 5, 
+regelt dat zorgaanbieders een medisch dossier van hun cliënten hebben aan te houden; 
+die afdeling bevat onder meer bepalingen ter bescherming van de privacy van cliënten. 
+In aanvulling daarop is van belang dat de grondslag voor en de condities waaronder de 
+gegevensverwerking ten behoeve van certificaten plaatsvindt, worden geboden door de 
+verordening en de regeling zelf. Daarnaast is sprake van het hierboven in de paragraaf 
+3, Bescherming persoonsgegevens, beschreven samenstel van software, voorwaarden en 
+handtekeningen waardoor heeft de Minister van VWS direct controle over de condities 
+voor het uitgeven, verifiëren en aanvaarden van certificaten. De gegevensuitwisseling 
+met de BES hoeft daarom niet aan verdere vereisten te voldoen. 
+ 
+5. Financiële gevolgen 
+ 
+De verordening bepaalt dat certificaten kosteloos worden verstrekt (artikel 3, vierde lid, 
+Vo). In geval van herhaaldelijk verlies kan wel een passende vergoeding in rekening 
+worden gebracht. Van deze mogelijkheid wordt geen gebruik gemaakt. Aldus wordt ook 
+voorkomen dat bijgehouden dient te worden of en zo ja, hoe vaak aan iemand een 
+certificaat is verstrekt. 
+ 
+GGD’en, het RIVM en zorgaanbieders zullen uitvoeringskosten maken voor de afgifte van 
+certificaten. De kosten voor de aansluiting van hun automatiseringssystemen op de 
+applicaties voor het genereren van certificaten zullen eenmalig zijn. GGD'en krijgen deze 
+kosten vergoed via de meerkostenregeling, net als hun kosten voor eventuele uitgifte 
+van het certificaat. Voor zorgaanbieders die worden gecontracteerd voor het uitvoeren 
+van testen, maakt de vergoeding deel uit van de overeenkomst. 
+ 
+6. Regeldruk 
+ 
+Het effect van deze regeling op de regeldruk is minimaal. De toediener van de vaccinatie 
+is al verplicht de vaccinatie te registreren; ook de uitvoerders van testen waarop een 
+test- of herstelcertificaat kan worden gestoeld, hebben een medisch dossier aan te 
+houden. Wanneer een zorgaanbieder rechtstreeks door betrokkene benaderd wordt om 
+een certificaat te genereren door de gegevens in te voeren in een portalapplicatie die 
+door de Minister van VWS wordt ontwikkeld, ontstaan wel enige administratieve lasten. 
+Dit zal naar verwachting vooral beperkt zijn tot personen die in het geheel niet 
+beschikken over ICT-middelen of ook geen beroep kunnen doen op hun omgeving om 
+met behulp van de webapplicatie een certificaat op papier af te drukken. Daarnaast kan 
+het gaan om mensen zonder burgerservicenummer of waarvan de gegevens omtrent 
+vaccinatie, test of herstel niet of niet volledig zijn opgenomen in het systeem van de 
+zorgaanbieder. Het is ook mogelijk dat de gegevens zijn opgenomen in het systeem van 
+  Pagina 7 van 16 
+
+desbetreffende regelgeving is bepaald. Daarbij dient de verordening in acht genomen te 
+worden. Zo dienen certificaten zowel digitaal, als op papier geaccepteerd te worden en is 
+het verboden om de persoonsgegevens daarna te bewaren (artikel 10, derde lid, Vo). 
+Daarnaast is ook voor de verificatie en aanvaarding van certificaten van belang dat de 
+AP ten algemene de toezichthouder is wat betreft de verwerking van persoonsgegevens. 
+ 
+8. Voorlichting en ondersteuning 
+ 
+Over de uitvoering van de verordening wordt omvangrijke voorlichting gegeven. Deze 
+voorlichting bestaat uit een publiciteitscampagne en informatievoorziening via het 
+internet. Verder kunnen burgers met hun vragen terecht bij ‘24/7 BZ Informatiepunt’ 
+van het Ministerie van Buitenlandse Zaken, in het bijzonder waar het reizen betreft. Dit 
+informatiepunt is te bereiken met het telefoonnummer +31 247 247 247. Daarnaast is 
+er een ‘Publieksinformatienummer coronavirus’ waar iedereen terecht kan met vragen 
+over het coronavirus, met inbegrip van coronatoegangsbewijzen. Het nummer daarvan is 
+0800 1351 (vanuit het buitenland +312 0205 1351). Indien nodig, kunnen het 
+informatiepunt en het publieksinformatienummer betrokkene doorverbinden naar de 
+helpdesk van het CIBG dat speciaal is ingericht voor het verstrekken van certificaten op 
+papier. 
+Wanneer er via het informatiepunt, het publieksinformatienummer of de helpdesk geen 
+oplossing geboden kan worden voor problemen bij het verschaffen van certificaten, kan 
+de burger zich wenden tot zijn zorgaanbieder. Deze kan met behulp van de 
+portalapplicatie een certificaat op papier aanmaken voor zijn cliënt. Desgewenst kan een 
+certificaat op papier met de mobiele applicatie CoronaCheck worden omgezet naar een 
+digitaal certificaat door de QR-code in te lezen. Dat de burger zich in dergelijke gevallen 
+uiteindelijk tot zijn zorgaanbieder moet wenden, vloeit voort uit het decentrale karakter 
+van het zorgstelsel in Nederland. Om dit zoveel mogelijk te voorkomen, is de inzet er op 
+gericht de gegevens die bij de zorgaanbieders berusten langs digitale weg te ontsluiten 
+zodat de burger met de mobiele applicatie CoronaCheck en de webapplicatie 
+coronacheck.nl op eenvoudige wijze kan beschikken over de gewenste certificaten. 
+ 
+9. Rechtsbescherming 
+ 
+De afgifte van een certificaat is niet aan te merken als een besluit in de zin van de 
+Algemene wet bestuursrecht (Awb). Een certificaat is immers niet meer dan een 
+bewijsstuk van een feitelijke medische situatie, namelijk een toegediende vaccinatie 
+tegen of uitgevoerde test op infectie met het coronavirus, zoals genoemd in de 
+verordening. De uitgifte door de Minister van VWS is niet gericht op enig rechtsgevolg. 
+Ook de verordening verbindt geen juridische consequenties aan het al dan niet bezitten 
+van een certificaat. Tegen de uitgifte van een certificaat staat derhalve geen 
+bestuursrechtelijke rechtsbescherming open. 
+ 
+Civielrechtelijke rechtsbescherming kan wel aan de orde zijn. Ten eerste wanneer 
+zorgaanbieders, het RIVM, GGD'en of de Minister van VWS tekortschieten in de 
+vervulling van hun taken voor de uitgifte, verificatie en aanvaarding van certificaten. Een 
+vordering uit onrechtmatige daad behoort dan tot de mogelijkheden. 
+ 
+Ten tweede bij de applicaties voor het genereren en lezen van een certificaat 
+(CoronaCheck, webapplicatie coronacheck.nl, portalapplicatie en CoronaCheck Scanner). 
+Bij de installatie van deze applicaties worden voor akkoord voorwaarden gepresenteerd. 
+Het gaat hier bijvoorbeeld om de voorwaarde om de meest recente versie van de 
+applicatie te laten functioneren op een recent besturingssysteem. Zonder akkoord zijn de 
+  Pagina 9 van 16 
+
+(artikel 6ba, vijfde en zesde lid, Wpg). Dit is zo bepaald, omdat de verordening geldt 
+voor een periode van één jaar (artikel 17 Vo) en eventueel verlengd kan worden (artikel 
+16, tweede lid, laatste zin, Vo). Tevens is rekening gehouden met de mogelijkheid dat de 
+verordening eerder vervalt, in welk geval ook dit besluit kan komen te vervallen 
+(Kamerstukken II 2020/21, 35853, nr. 11). 
+ 
+Artikelsgewijs 
+ 
+Artikel 1 
+ 
+Ten behoeve van de leesbaarheid van het besluit zijn een aantal begripsbepalingen 
+opgenomen, vaak ontleend aan de verordening. De applicatie voor het genereren van 
+een certificaat heeft thans diverse verschijningsvormen (CoronaCheck, webapplicatie 
+coronacheck.nl en portalapplicatie). De mobiele applicatie waarmee tevens het digitale 
+certificaat getoond kan worden, CoronaCheck, is ook geschikt voor de Nederlandse 
+o
+coronatoegangsbewijzen als bedoeld in artikel 58re, eerste lid, onder a, sub 1 , Wpg. 
+ 
+Artikel 2 
+ 
+Dit besluit geldt ook voor de openbare lichamen Bonaire, Sint Eustatius en Saba. 
+Weliswaar kan de helpdesk van het CIBG geen certificaten op papier verstrekken aan 
+inwoners van de BES-eilanden, maar zij kunnen wel contact opnemen met ‘24/7 BZ 
+Informatiepunt’ of het ‘Publieksinformatienummer coronavirus’ als zij vragen hebben 
+over DCC’s. Verder zijn – waar nodig – bepalingen toegesneden op toepassing in 
+Bonaire, Sint Eustatius en Saba. 
+ 
+Artikel 3 
+ 
+De verordening laat open of vaccinatie- en testcertificaten automatisch worden verstrekt 
+of op verzoek- (artikelen 5, eerste lid, en 6, eerste lid, Vo). In artikel 3 is bepaald dat 
+deze certificaten alleen op verzoek worden verstrekt. Voor herstelcertificaten is dat al in 
+de verordening zelf bepaald (artikel 7, eerste lid, Vo). Vanwege de samenhang en 
+gelijkenis worden op een verzoek om een nationaal coronatoegangsbewijs of een DCC 
+beide verstrekt. Dat wordt onder meer gedaan omdat met een Nederlands DCC geen 
+toegang kan worden verkregen tot activiteiten of voorzieningen waarvoor een nationaal 
+coronatoegangsbewijs is voorgeschreven. 
+ 
+Aan een verzoek zal binnen een redelijke termijn voldaan worden. De lengte van deze 
+termijn hangt af van de vorm en het type certificaat. Een digitaal certificaat is eerder 
+beschikbaar dan wanneer een certificaat op papier per post wordt verzonden. Deze 
+laatste methode is minder geschikt voor een testcertificaat vanwege de kortere periode 
+waarin een negatieve testuitslag relevant is. 
+ 
+Artikel 4 
+ 
+De verordening bepaalt dat de lidstaat of een aangewezen instantie het certificaat 
+verstrekt (artikel 3, tweede lid, Vo). Certificaten worden voorzien van een digitale 
+handtekening van de Minister van VWS. Certificaten kunnen alleen worden verstrekt met 
+software van de Minister van VWS: de applicatie CoronaCheck die draait op een 
+smartphone van betrokkene en waarmee een digitaal certificaat kan worden verzocht en 
+ontvangen, de webapplicatie coronacheck.nl die betrokkene kan gebruiken in een 
+browser en waarmee een certificaat kan worden afgedrukt of de speciale portalapplicatie 
+  Pagina 11 van 16 
+
+In Bonaire, Sint Eustatius en Saba hebben de afdelingen Publieke gezondheid van de 
+openbare lichamen het vaccinatieprogramma uitgevoerd. Zij beschikken over de 
+vaccinatiegegevens en kunnen deze gegevens leveren voor de vaccinatiecertificaten. 
+Vooralsnog zal dat echter niet langs digitale weg geschieden. Op de BES-eilanden zullen 
+certificaten op papier worden verstrekt op grond van artikel 8, eerste lid, van dit besluit. 
+ 
+Artikel 7 
+ 
+Betrokkene vraagt via CoronaCheck of coronacheck.nl zijn gegevens over een positieve 
+testuitslag op bij de GGD of een andere zorgaanbieder die de positieve test heeft 
+afgenomen. Indien de zorgaanbieder is aangesloten op deze applicaties en de voor een 
+herstelcertificaat benodigde gegevens beschikbaar zijn, worden deze geautomatiseerd 
+verstrekt, voorzien van een digitale handtekening. Vervolgens kan betrokkene met de 
+applicatie een digitaal herstelcertificaat genereren. 
+ 
+Artikel 8 
+ 
+Een certificaat op papier wordt verstrekt door de zorgaanbieder of de helpdesk van het 
+CIBG. Wanneer betrokkene om een certificaat vraagt, zal eerst de identiteit 
+gecontroleerd worden. Zorgaanbieders hebben de identiteit van de betrokkene al eerder 
+vastgesteld. Dit is verplicht volgens de Wet aanvullende bepalingen verwerking 
+persoonsgegevens in de zorg. Bij een telefonisch verzoek om een certificaat zal de 
+zorgaanbieder of de helpdesk ter controle vragen naar identificerende 
+persoonsgegevens, zoals het burgerservicenummer en de geboortedatum. Daarna wordt 
+met een speciale portalapplicatie een certificaat gegenereerd dat vervolgens wordt 
+afgedrukt en aan betrokkene wordt overhandigd of toegestuurd. Dit is voor de helpdesk 
+van het CIBG alleen mogelijk als de benodigde gegevens bij de zorgaanbieder kunnen 
+worden ontsloten met behulp van de portalapplicatie. Van de helpdesk kunnen alleen 
+certificaten per post worden ontvangen, zodat deze faciliteit niet geboden wordt voor 
+testcertificaten vanwege de relatief korte periode waarin een negatieve testuitslag 
+relevant is. 
+ 
+In Bonaire, Sint Eustatius en Saba kan een vaccinatiecertificaat op papier worden 
+verkregen van de afdeling Publieke gezondheid van het desbetreffende openbare 
+lichaam. De helpdesk van het CIBG is daar niet beschikbaar. 
+ 
+Artikel 9 
+ 
+De verordening biedt de mogelijkheid om vaccinatiecertificaten uit te geven op basis van 
+vaccinatiebewijzen uit derde landen (artikel 8, eerste lid, Vo). Daarvoor kan betrokkene 
+met zijn vaccinatiegegevens naar een vestiging van de GGD gaan waar ook 
+reisvaccinaties worden toegediend. De GGD kan de benodigde gegevens met een 
+portalapplicatie invoeren, waarna betrokkene een certificaat op papier kan ontvangen. 
+Uiteraard dient ook de identiteit van betrokkene te worden vastgesteld en dat de 
+vaccinatiegegevens op hem betrekking hebben. Verder worden aan het bewijs van 
+vaccinatie taaleisen en echtheidskenmerken gesteld. Deze faciliteit wordt alleen geboden 
+als betrokkene in Nederland, Bonaire, Sint Eustatius of Saba woont of als betrokkene in 
+een derde land woont en de Nederlandse nationaliteit heeft. Voorbeelden van personen 
+die in deze categorieën vallen zijn derdelanders die naar Nederland emigreren, expats 
+die hier tijdelijk wonen, exchange studenten die zich hier tijdelijk vestigen en Nederlands 
+personeel van een ambassade in een derde land.  
+Verder moet het gaan om een vaccin als bedoeld in de verordening waarvoor bij 
+  Pagina 13 van 16 
+
+Een concreet voorbeeld van de toepassing van dit artikel is het lezen van een certificaat 
+met CoronaCheck Scanner om toegang te mogen verlenen tot activiteiten of 
+voorzieningen waar een nationaal coronatoegangsbewijs is voorgeschreven. In dergelijke 
+gevallen dient vanwege het vrij verkeer van personen zoals verankerd in artikel 21 
+VWEU ook een Europees certificaat geaccepteerd te worden, mits daarmee wordt 
+voldaan aan de voorwaarden voor toegang. 
+ 
+Artikel 12 
+ 
+Dit artikel biedt de grondslag voor verwerking van persoonsgegevens die nodig zijn voor 
+het noodzakelijke gegevensverkeer. Wanneer een verzoek om een vaccinatiecertificaat 
+wordt gedaan met de applicatie CoronaCheck of de webapplicatie coronacheck.nl, gaat 
+de Minister van VWS eerst na waar de vaccinatiegegevens van betrokkene berusten. Om 
+te waarborgen dat deze gegevens betrekking hebben op degene die op basis daarvan 
+een certificaat wenst te genereren, wordt bij het verwerken van het verzoek aan de 
+Minister van VWS behalve de naam en geboortedatum van betrokkene ook zijn 
+burgerservicenummer gebruikt. Deze bevoegdheid bestaat reeds op grond van de Wet 
+algemene bepalingen burgerservicenummer (Wabb). Het verzoek wordt gedaan door in 
+te loggen met DigiD. Bij het doen van het verzoek om de vaccinatiegegevens en het 
+genereren van het daarop te baseren certificaat, is het IP-adres zichtbaar van het toestel 
+of het systeem dat de gevaccineerde persoon gebruikt. Indien de vaccinatiegegevens 
+reeds zijn opgenomen in CIMS, kunnen de gegevens rechtstreeks uit dat systeem 
+worden opgehaald. Anders dient de bron van de vaccinatiegegevens te worden gezocht. 
+De toediener van het vaccin beschikt immers over de gegevens die nodig zijn voor het 
+vaccinatiecertificaat. Dit zijn onder meer GGD'en, ziekenhuizen en huisartsen. Daartoe 
+worden genoemde gegevens van de verzoeker om een vaccinatiecertificaat op zo'n 
+manier gepseudonimiseerd dat alleen degene die de vaccinatie heeft toegediend, de 
+sleutel heeft om deze te lezen en aan de Minister van VWS kenbaar te maken dat de 
+bron van de vaccinatiegegevens gevonden is. De vindplaats van de vaccinatiegegevens 
+wordt teruggekoppeld naar de (web)applicatie, die vervolgens de vaccinatiegegevens 
+ophaalt bij het RIVM, bij de toediener van het vaccin of – indien betrokkene door 
+verschillende zorgaanbieders is gevaccineerd – bij de toedieners van de vaccins. Daarbij 
+plaatsen zij een digitale handtekening ter beveiliging en waarmerking van de gegevens. 
+Vooralsnog zijn alleen de GGD'en aangesloten op de applicatie CoronaCheck en de 
+webapplicatie. Ook wordt in de systemen van de GGD'en gezocht naar gegevens over 
+een eerdere infectie met het coronavirus op basis waarvan kan worden vastgesteld dat 
+de vaccinatie volledig is na toediening van één vaccin in plaats van twee. 
+ 
+Vervolgens zet de gevaccineerde persoon de gegevens over zijn vaccinatie met 
+CoronaCheck om in een digitaal vaccinatiecertificaat. De digitale handtekening onder de 
+vaccinatiegegevens van de toediener van de vaccins wordt vervangen door een digitale 
+handtekening van de Minister van VWS. Dit wordt gedaan door een ICT-dienstverlener in 
+opdracht van de Minister van VWS. Ook wanneer het vaccinatiecertificaat wordt gemaakt 
+met gegevens van het RIVM, wordt het voorzien van een digitale handtekening van de 
+Minister van VWS. Voor een papieren vaccinatiecertificaat geldt hetzelfde, zij het dat de 
+gevaccineerde persoon daarvoor de door de Minister van VWS beschikbaar gestelde 
+webapplicatie gebruikt in plaats van CoronaCheck. 
+ 
+Voor testcertificaten zijn de gegevens over de negatieve testuitslag afkomstig van de 
+uitvoerder van de test. De testuitslag wordt verstrekt wanneer de geteste persoon 
+daarom vraagt. Om te verifiëren dat het de geteste persoon is die de uitslag opvraagt, 
+krijgt deze na de afname van de test een unieke, persoonsgebonden code mee waarmee 
+  Pagina 15 van 16 
+
