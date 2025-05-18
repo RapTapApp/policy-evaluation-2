@@ -9460,3 +9460,206 @@ Exception calling "GetTextFromPage" with "2" argument(s): "Unexpected color spac
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\03\14 ]> samenvattend-auditrapport-2013-ministerie-van-financien-en-nationale-schuld.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\03\21 ]> doorlichting-van-het-functioneren-van-de-coordinatie-van-het-rijksbestuur-in-caribisch-nederland.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 47; BatchedItems: 100]...[0m
+[main b71de6e4] Added batch #47 of policy-docs (total: 100
+ 101 files changed, 200103 insertions(+)
+ create mode 100644 policy-documents/Archive/rapporten/2012/10/01/vws-verzekerdenmonitor-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/10/09-evaluatie-van-het-centrum-tot-bevordering-van-de-import-uit-ontwikkelingslanden-cbi-1990-1996/iob-hulp-door-handel.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/10/23/nota-van-antwoord-naar-aanleiding-van-de-terinzagelegging-van-de-ontwerp-mariene-strategie-3C2657A5/lp-i-m-0000002646.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/10/30/beantwoording-schriftelijke-kamervragen-over-ontwerpbegroting-2013-vws.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/10/31/samen-verder-bouwen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/11/15/verslag-33-400-v-schriftelijke-inbreng-definitief/lp-v-j-0000002038.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/11/27/herziene-meerjarenbegroting-2013-2017-nederlandse-publieke-omroep.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/12/18/tweede-evaluatie-wet-toetsing-levensbeeindiging-op-verzoek-en-hulp-bij-zelfdoding.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/12/19/nota-naar-aanleiding-van-het-verslag-33-309/lp-v-j-0000002305.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/12/31/kwalitatief-onderzoek-naar-effect-informatiecampagne-over-verkiezingen-tweede-kamer-12-september-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2012/12/31/kwantitatief-onderzoek-naar-effect-informatiecampagne-over-verkiezingen-tweede-kamer-12-september-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/01/rapport-national-integrity-system-assessment-curacao-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/18/halfjaarlijkse-rapportage-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/21/evaluatie-caraibisch-nederland-openbare-lichamen-over-verkiezingen-tweede-kamer-12-september-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/21/reactie-advies-kiesraad-over-verkiezingen-leden-tweede-kamer-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/01/22/the-total-economic-value-of-nature-on-bonaire/13007212-bijlage6.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/12/ist-web-inspectiebericht/lp-v-j-0000002581.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/19/jaarrapportage-integratie-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/27/mensenhandel-in-en-uit-beeld/lp-v-j-0000002713.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/28/onderwijs-werkt.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/01/ibo-bekostiging-funderend-onderwijs-bij-dalende-leerlingaantallen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/01/the-netherlands-and-the-european-development-fund-principles-and-practices.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/05/het-rijksvaccinatieprogramma-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/13-in-nederland/rapport-georganiseerde-criminaliteit.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/13/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit/dreigingsbeeld.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/14/georganiseerde-criminaliteit-in-nederland/lp-v-j-0000002827.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/14/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit/lp-v-j-0000002826.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/27/bijlage-rapport-raad-voor-de-rechtshandhaving/lp-v-j-0000002937.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/31/bijlagen-bij-evaluatieonderzoek-gezondheidszorg-caribisch-nederland-na-de-transitie-oktober-2010.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/31/evaluatieonderzoek-gezondheidszorg-caribisch-nederland-na-de-transitie-oktober-2010.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/02/de-nederlandse-maritieme-cluster.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/10/rapport-werkprogramma-2013-inspectie-venj/lp-v-j-0000003050.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/10/voortgangsrapportage-emancipatiebeleid-2012/489899.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/12/zienswijzen-op-het-voornemen-structuurvisie-windenergie-op-land-en-het-opstellen-van-milieueffectrapport.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/15/jaaroverzicht-koninklijk-huis-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/24/natuurbeleidsplan-caribisch-nederland-2013-2017/natuurbeleidsplan-caribisch-nederland-2013-2017-1.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/27/rapport-nationaal-handboek-crisisbesluitvorming/lp-v-j-0000003156.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/jaarrapportage-bedrijfsvoering-rijk-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-kind-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-kind-op-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-kind-op-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-samenvatting-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-samenvatting-bonaire-saba-statia.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-samenvatting-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/01/unicef-rapport-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/18/ibo-dienst-justitiele-inrichtingen/lp-v-j-0000003304.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/23/meerjarenplan-2013-2017-ilt.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/29/jaarverslag-2012-inspectie-leefomgeving-en-transport.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/31/aiv-advies-criminaliteit-coruptie-en-instabiliteit-bijlage.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/05/31/aiv-advies-criminaliteit-coruptie-en-instabiliteit.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/07/bijlage-1-lijst-over-jaarverslag-venj-2012/lp-v-j-0000003438.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/11/jaaroverzicht-2012-financial-intelligence-unit-nederland/lp-v-j-0000003466.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/17/rapport-evaluatie-flexibele-pool-koninklijke-marechaussee.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/18/rapport-jeugdreclassering-op-bonaire-sint-eustatius-en-saba/lp-v-j-0000003495.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/21/bestuurlijke-samenvatting-onderzoek-deregulering-en-taakverlichting-cn.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/21/onderzoek-deregulering-en-taakverlichting-cn.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/06/21/veilige-wereld-veilig-nederland-internationale-veiligheidsstrategie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/07/03-internationale-migratie-en-ontwikkeling-2012/voortgangsrapportage.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/07/06/rapport-jaarbericht-2012-inspectie-veiligheid-en-justitie/lp-v-j-0000003722.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/07/09/visie-landelijk-toezicht-op-de-jeugdhulp.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/07/12/visie-landelijk-toezicht-op-de-jeugdhulp.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/07/29/aanvullende-informatie-van-het-koninkrijk-der-nederlanden-voor-het-comite-voor-de-uitbanning-van-discriminatie--45092118.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/08/01/op-zoek-naar-nieuwe-verhoudingen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/08/30/scorecard-inter-american-development-bank-idb/scorecard-idb-2013-def-versie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/08/30/scorecard-unaids/scorecard-unaids-2013-def-versie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/08/30/scorecard-unicef/scorecard-unicef2013-def-versie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/17/beschrijving-van-werkzaamheden-en-taakuitoefening-in-de-jaren-2007-2011.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/17/referentieraming-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/18/het-opsporingsproces-door-de-recherche-op-bonaire-sint-eustatius-en-saba/lp-v-j-0000004062.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/23/regionale-toetsingscommissies-euthanasie-jaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/27/kinderrechtenmonitor-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/09/27/reactie-op-aanbevelingen-kinderrechtenmonitor-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/10/23/memorie-van-antwoord-wijziging-van-de-rijkswet-op-het-nederlanderschap/lp-v-j-0000004282.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/11/12/bijlage-bij-beantwoording-schriftelijke-vragen-begroting-veiligheid-en-justitie-2014/lp-v-j-0000004447.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/11/19/verzekerdenmonitor-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/11/25/beleidskader-schorsing-en-vernietiging-bes.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/11/25/evaluatie-van-de-uitvoering-van-het-verdrag-inzake-de-forward-operating-locations-op-curacao-en-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/01/samen-verder-bouwen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/01/trendrapport-caribisch-gebied-2013.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/02/rapport-evaluatie-wet-op-de-inlichtingen-en-veiligheidsdiensten-2002.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/02/rapport-evaluatie-wiv-2002/b-20546-webeindversie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/06/jaarrapportage-2012-van-de-wet-afbreking-zwangerschap.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/17/corporate-governance-water-en-energiebedrijf-bonaire-n-v.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2013/12/18/eindrapport-commissie-onderzoek-elektronisch-stemmen-in-het-stemlokaal/eindrapport-commissie-onderzoek-elektronisch-stemmen-in-het-stemlokaal-web.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/01/01/derde-voortgangsrapportage-rijksvertegenwoordiger-voor-de-openbare-lichamen-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/01/13/overzicht-internationale-natuurrapportages.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/01/17/rapport-veiligheidsbeeld-bes-eilanden-2013/lp-v-j-0000004842.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/01/30/halfjaarlijkse-rapportage-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/02/07/bijlage-2-eindrapport-ex-post-beleidsevaluatie-duurzaam-inkopen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/02/11/stichting-reclassering-caribisch-nederland-srcn/lp-v-j-0000004989.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/02/22/rapport-werkprogramma-2014-inspectie-veiligheid-en-justitie/lp-v-j-0000005068.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/01/kwaiteit-van-de-jeugdzorg-in-carbisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/01/onderwijsverbetering-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/07/eu-arborichtlijnen/integraal-verslag-implementatie-eu-arborichtlijnen-2007-2012-2eindversie-2-definitief.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/12/rapport-commissie-kleine-evaluatie-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/14/samenvattend-auditrapport-2013-koninkrijksrelaties-iv.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/14/samenvattend-auditrapport-2013-ministerie-van-financien-en-nationale-schuld.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/21/doorlichting-van-het-functioneren-van-de-coordinatie-van-het-rijksbestuur-in-caribisch-nederland.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\03\28 ]> rapportage-quick-scan-sap-migratieprojecten-dm1-orderbesturing-en-logistiek.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\03\31 ]> bijlage-2-nota-van-antwoord.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\01\rijksnatuurvisie-2014 ]> 14135118-bijlage3-3.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\02 ]> teeb-voor-gebieden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\04\justitiele-inrichting-caribisch-nederland-bonaire ]> lp-v-j-0000005380.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\14 ]> eindrapport-doorontwikkelde-business-case-inbesteden-schoonmaak.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\16 ]> de-staat-van-het-onderwijs-onderwijsverslag-2012-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\18\convention-on-biological-diversity-fifth-national-report-of-the-kingdom-of-the-netherlands ]> mvez-report-biological-diversity-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\22\onderwijs-werkt ]> eindrapport-onderwijs-werkt-2013-regioplan.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\24\mensenrechtenrapportage-2013 ]> b65-623935-a4-mensenrechten-highres.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\25 ]> beleidsnota-drinkwater-schoon-drinkwater-voor-nu-en-later.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\04\25 ]> iob-op-zoek-naar-focus-en-effectiviteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\09 ]> tussentijdse-evaluatie-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\13 ]> jaarbericht-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\14\mensenhandel-in-en-uit-beeld-ii-2014 ]> lp-v-j-0000005552.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\15 ]> doorlichting-integriteit-sbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\19 ]> de-aanpak-van-huiselijk-geweld-op-de-bes-eilanden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\21\jaarrapportage-bedrijfsvoering-rijk-2013 ]> jaarrapportage-bedrijfsvoering-rijk-2013-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\22\financiele-verantwoording-2013-politie ]> lp-v-j-0000005624.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\23 ]> antilliaanse-nederlanders-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\23 ]> eindadvies-bekostiging-en-financial-governance-cn-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\23 ]> marokkaanse-nederlanders-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\26 ]> rapportage-burgerbrieven-vws-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\05\28 ]> advies-van-de-werkgroep-zorg-caribisch-nederland-aan-de-minister-van-vws.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\02 ]> jaarbeeld-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\12 ]> haalbaarheidsonderzoek-instructietaal-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\19 ]> language-of-instruction-in-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\24 ]> toekomstperspectief-destinatie-holland-2025.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\25 ]> jaarverslag-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\25 ]> meerjarenplan-2014-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\06\27 ]> voortgangsrapportage-internationale-migratie-en-ontwikkeling-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\07\04\bes-wetgeving-in-voorbereiding-rijksbreed ]> voorgenomen-en-aanhangige-wetsvoorstellen-bes-wetgeving-voor-caribisch-nederland-overzicht-juli-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\07\07\verslag-workshops-internationaal-ondernemen ]> verslag-workshops-intenationaal-ondernemen-def-v0-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\07\11 ]> verklaring-van-maastricht-inzake-transparantie-als-drijvende-kracht-achter-milieudemocratie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\08\14 ]> eerste-halfjaarrapportage-bes-eilanden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\01 ]> vaccinatiegraad-rijksvaccinatieprogramma-nederland-verslagjaar-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\16\referentieraming-2014 ]> referentieraming2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\19 ]> reactie-op-advies-kiesraad.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\19 ]> zorgbalans-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\25\financiele-verantwoording-van-stichting-nationaal-comite-inhuldiging ]> financieel-verslag-comite-inhuldiging.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\26 ]> rapport-integrity-inquiry-into-the-functioning-of-the-government-of-sint-maarten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\09\30 ]> evaluatie-college-voor-examens-2009-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\01 ]> mediamonitor-2013-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\01 ]> nationaal-crisisplan-stralingsincidenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\01\memorie-van-toelichting-zoals-voorgelegd-aan-rvs-inzake-het-voorkomen-en-bestrijden-van-ge-AA1F94BA ]> lp-v-j-0000006488.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\06 ]> rapport-kwaliteitsonderzoek-bij-new-challenges-foundation-instelling-voor-sociale-kanstrajecten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\06 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-bethel-methodist-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\06 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-lynch-plantation-sda-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\06 ]> rapport-specifiek-onderzoek-naar-de-ontwikkeling-van-het-bestuurlijk-handelen-bij-de-gwendoline-van-putten-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\07 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-golden-rock-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\07 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-governor-de-graaff-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\07 ]> verzekerdenmonitor-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\09 ]> rapport-kwaliteitsonderzoek-bij-saba-reach-foundation-instelling-voor-sociale-kanstrajecten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\10 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-sacred-heart-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\10 ]> rapport-kwaliteitsonderzoek-voortgezet-onderwijs-bij-saba-comprehensive-school-afdelingen-pro-vmbo-mbo-en-havo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\13 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-het-kolegio-san-bernardo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\13 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-kolegio-kristu-bon-wardador.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\14 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-kolegio-san-luis-bertran.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\15 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-de-watapanaschool.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\15 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-kolegio-reina-beatrix.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\15\tk-bijlage-aanbiedingsbrief-van-ambassadeur-aan-de-commissaris-voor-de-mensenrechten ]> lp-v-j-0000006593.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\16 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-basisschool-de-pelikaan.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\16 ]> rapport-kwaliteitsonderzoek-primair-onderwijs-bij-kolegio-papa-cornes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\23\tk-bijlage-politiecellen-bonaire-st-eustatius-en-saba ]> lp-v-j-0000006646.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\10\24 ]> eindevaluatie-amfo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\03\bijlage-bij-tussenrapportage-nationaal-actieplan-mensenrechten-en-kabinetsreactie-op-de-ja-75947E00 ]> bijlage-bij-tussenrapportage-nationaal-actieplan-mensenrechten-en-kabinetsreactie-op-de-jaarrapportage-2013-van-4814CAD6.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\03\tussenrapportage-nationaal-actieplan-mensenrechten-en-kabinetsreactie-op-de-jaarrapportage-9B1B9CBC ]> tussenrapportage-nationaal-actieplan-mensenrechten-en-kabinetsreactie-op-de-jaarrapportage-mensenrechten-in-ned-3F06CC66.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\05\tk-bijlage-criminaliteit-en-rechtshandhaving-2013 ]> lp-v-j-0000006759.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\13\tk-bijlage-1-advies-rvskon ]> lp-v-j-0000006848.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\13\tk-bijlage-3-verzoek-voorlichting-rvskon ]> lp-v-j-0000006850.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\13\tk-bijlage-5-evaluatieopdracht ]> lp-v-j-0000006852.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\19 ]> eindrapport-gemeentelijk-armoede-en-schuldenbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\20 ]> plan-van-aanpak-kinderrechten-eerste-aanzet-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\20 ]> plan-van-aanpak-kinderrechten-eerste-aanzet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\21 ]> jaarrapport-integratie-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\11\25 ]> wetenschapsvisie-2025-keuzes-voor-de-toekomst.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\01 ]> jaarrapportage-2013-van-de-wet-afbreking-zwangerschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\01 ]> kostenverschillen-in-de-jeugdzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\01 ]> nederlands-op-zijn-best.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\01\maritieme-monitor-2014 ]> maritieme-monitor-2014-nederland-maritiem-land.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\04\klanten-over-de-online-communicatie-van-agentschap-bpr ]> 1648-agentschap-bpr-onderzoek-online-communicatie-eindrapportage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\13\tk-bijlage-nationaal-investeren-in-lokaal-veiligheidsbeleid ]> lp-v-j-0000007132.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\15 ]> beleidsdoorlichting-artikel-3-begroting-szw-arbeidsongeschiktheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\15 ]> beleidsdoorlichting-kwaliteit-gemeentelijke-basisadministratie-basisregistratie-personen-2012-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2014\12\19\bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toe-9FEF5210 ]> bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toelichting-op-betrokken-5BC54DEF.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\09 ]> bijlage-jaarplan-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\09 ]> bijlage-jaarplan-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\13\tk-bijlage-werkprogramma-inspectie-veiligheid-en-justitie-2015 ]> lp-v-j-0000007301.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\16\de-nederlandse-maritieme-strategie-2015-2025 ]> 150604-maritieme-strategie-lr-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\23 ]> 14e-uitvoeringsrapportage-sdkk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\29 ]> halfjaarlijks-overzicht-wetgeving-bes-eilanden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\01\30 ]> specifiek-onderzoek-naar-het-bestuurlijk-handelen-op-de-scholengemeenschap-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\05\nulmeting-organisatie-rampenbestrijding-bonaire ]> lp-v-j-0000007477.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\05\nulmeting-organisatie-rampenbestrijding-saba ]> lp-v-j-0000007478.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\05\nulmeting-organisatie-rampenbestrijding-sint-eustatius ]> lp-v-j-0000007476.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\07\tk-de-strafrechtkenten-bonaire-st-eustatius-en-saba-nader-bekeken ]> lp-v-j-0000007494.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\07\tk-review-onderzoek-aangifteproces ]> lp-v-j-0000007495.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\24 ]> omvang-en-verdeling-van-de-geestelijke-verzorging-in-de-krijgsmacht-vanaf-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\28 ]> bijlagen-onderzoek-onderhoud-bes-fonds-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2015\02\28 ]> onderzoeksrapport-onderhoud-bes-fonds-2015.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 48; BatchedItems: 100]...[0m
