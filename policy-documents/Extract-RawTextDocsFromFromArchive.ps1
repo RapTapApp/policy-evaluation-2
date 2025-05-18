@@ -149,7 +149,7 @@ function Get-TargetInfoFromSourceFile {
         $Dir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
         $Dir_RelPath = [System.IO.Path]::GetRelativePath($RootPath, $Dir_AbsPath)
 
-        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.raw.txt'
+        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.simple.txt'
         $TargetPath = Join-Path $Dir_AbsPath -ChildPath $Target_Name
 
         [PSCustomObject] @{
@@ -174,15 +174,16 @@ function Export-RawTextFromSourceFile {
     )
 
     begin {
-        function Export-RawText($Source_PdfReader, $TargetPath) {
+        function Export-RawText([iTextSharp.text.pdf.PdfReader] $Source_PdfReader, [string] $TargetPath) {
 
             $Target_TextWriter = [System.IO.File]::CreateText($TargetPath)
             try {
+                $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.SimpleTextExtractionStrategy]::new()
 
                 $PageMax = $Source_PdfReader.NumberOfPages
                 for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
 
-                    $PageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr)
+                    $PageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr, $PdfTextExtractionStrategy)
 
                     $Target_TextWriter.WriteLine($PageText)
                     $Target_TextWriter.WriteLine()
@@ -231,6 +232,8 @@ try {
     $BatchProc = Initialize-BatchProcess -Size 100 -OnProcess {
 
         param([int] $BatchNr, [object[]] $BatchedItems)
+
+        throw 'stop'
 
         git add --all
         git commit -m "Added batch #$BatchNr of policy-docs (total: $($BatchedItems.Count)"
