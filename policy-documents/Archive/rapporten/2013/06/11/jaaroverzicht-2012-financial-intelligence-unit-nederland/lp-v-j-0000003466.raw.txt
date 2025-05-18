@@ -1,0 +1,1553 @@
+Jaaroverzicht 2012 
+Financial Intelligence Unit-Nederland 
+
+Inhoud  
+Voorwoord 7
+0 Managementsamenvatting 11
+1 Ontwikkelingen van de FIU-Nederland 15
+ 1.1  Wettelijke taken: ontvangen, analyseren en verspreiden 15
+ 1.2  Positionering van de FIU-Nederland binnen het politiebestel 16
+ 1.3  IT-ontwikkelingen 16
+  1.3.1  Doorontwikkeling GoAML 17
+  1.3.2  Rapportage en analyse-tool 17
+  1.3.3  ‘Red flag’-systematiek 17
+  1.3.4  Nieuw dossierformat 17
+ 1.4  Inventarisatie relevante aanvullende informatiesystemen 17
+ 1.5  Onderzoek meer zicht op gebruik FIU-informatie 17
+2 Samenwerking met melders en toezichthouders  21
+ 2.1  Melders 21
+  2.1.1  Voorlichting en communicatie 22
+  2.1.2  Douane 22
+  2.1.3  Werkgroep creditcards 22
+ 2.2  Toezichthouders 22
+3 Samenwerking met opsporing 26
+ 3.1  Relatiedag opsporing 26
+ 3.2  Bijdrage aan het Rapport Nationaal Dreigingsbeeld 2012 26
+ 3.3  Onderzoeken op initiatief van de FIU-Nederland 26
+ 3.4  Bijdragen aan onderzoeken en projecten 27
+  3.4.1  Project Niet-melders 27
+  3.4.2  Project The Wall 27
+  3.4.3  Opsporingsonderzoek mensenhandel 27
+ 3.5  Delen van intelligence 28
+  3.5.1  FIOD 28
+  3.5.2  Fiet FinEc 28
+  3.5.3  iCOV 29
+  3.5.4  Deelname fraude-trendwatchingproject 29
+  3.5.5  Matching met politiegegevens uit voorfase opsporingsonderzoek 29
+  3.5.6  Automatische matching subjectlijsten 29
+4 Financiering van terrorisme en proliferatie 33
+ 4.1  Financiering van terrorisme 33
+  4.1.1  Terrorismefinancieringsplatform met de NVB 33
+ 4.2  Proliferatiefinanciering 34
+5 Caribisch Nederland 37
+ 5.1  GoAML 37
+ 5.2  Relatiedagen WWFT-BES 37
+ 5.3  Bankenoverleg 37
+ 5.4  Trainingen 37
+ 5.5  Meldingen 37
+ 5.6  Ketenpartners en de investering in integrale samenwerking 38
+  5.6.1  Toezichthouders Caribisch Nederland 38
+Terug naar inhoudsopgave 3                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 5                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Voorwoord 
+Het jaar 2012 was een belangrijk en productief jaar voor de FIU-Nederland. De organisatie heeft 
+wederom een significante bijdrage kunnen leveren aan diverse succesvolle opsporingsonderzoeken, 
+door de levering van verdachte-transactie-informatie en vaak ook aanvullende analyses en relevante 
+inzichten. De transacties die in 2012 verdacht zijn verklaard vertegenwoordigen een waarde van 680 
+ 1
+miljoen euro / en wederom is gebleken dat de FIU-Nederland beschikt over waardevolle transactie-
+informatie over uiteenlopende criminaliteitsvormen. Sprekende voorbeelden van de bijdragen aan  
+de opsporing door de FIU-Nederland vindt u net als vorig jaar in het laatste hoofdstuk (casuïstiek). 
+Enkele opvallende zaken zijn aan de orde. Het totaal aantal gemelde transacties is toegenomen.  
+De banken, traditioneel de grootste melders, lijken echter voor het tweede opeenvolgende jaar minder 
+meldingen bij de FIU-Nederland te doen. Een lager percentage van deze meldingen is doorgemeld  
+aan de opsporing en het bedrag dat ermee gemoeid is, is sterk gedaald. Deze ontwikkeling wordt in 
+hoofdstuk 7.3.2.1 nader geduid en op dit moment samen met de banken en de toezichthouder verder 
+onderzocht. 
+In zijn algemeenheid is het aantal doormeldingen van verdachte transacties (VT’s) ten opzichte van  
+het voorgaande jaar nagenoeg gelijk gebleven. Om haar onderzoekscapaciteit optimaal te benutten 
+heeft de FIU-Nederland in 2012 bewust gekozen invulling te geven aan meer complexe analyses en 
+onderzoeken van haar data, teneinde beter bruikbare informatie en inlichtingen voor opsporings-
+partners te leveren. De ratio van deze keuze is erin gelegen dat ik meer waarde hecht aan het opleveren 
+van verdachte transacties die aansluiten bij door de opsporing gestelde prioriteiten of door de 
+opsporing gestelde vragen, dan aan het opleveren van veel VT’s. De keuze is gemaakt voor kwaliteit 
+boven kwantiteit. Dit betekent wel dat meldingen die doorgaans werden doorgemeld aan de hand  
+van automatische VROS-matches, qua aantallen sterk zijn afgenomen. 
+In het afgelopen jaar heeft de FIU-Nederland nog geen beschikking gehad over een rapportage en 
+analysetool (R&A-tool). De analyses die zij desalniettemin heeft uitgevoerd, waren daardoor in het 
+geheel arbeidsintensiever. Ook vergt de verbetering en doorontwikkeling van het bedrijfsprocessen-
+systeem GoAML capaciteit. Gezien de begrenzing aan haar formatie zal de FIU-Nederland in elk geval 
+keuzes moeten blijven maken ten aanzien van de wijze waarop zij haar data onderzoekt. De R&A-tool 
+die in de loop van 2013 opgeleverd moet worden zal een aantal bewerkingen efficiënter maken en de 
+FIU-onderzoekers beter in staat stellen om de meest relevante/risicovolle transacties te selecteren voor 
+verder onderzoek.
+De FIU-Nederland heeft naast de oplevering van mooie operationele resultaten belangrijke stappen 
+gezet om de samenwerking met diverse nationale en internationale netwerk- en ketenpartners verder 
+te verbeteren en uit te breiden. Deze samenwerking is van belang om voortdurend de kwaliteit en 
+effectiviteit van FIU-intelligence te verhogen. 
+1
+/
+680 miljoen euro is het totaal Ten aanzien van de organisatie zelf zijn er ook belangrijke ontwikkelingen geweest. Zo is de komst  
+bedrag van het aantal verdachte van de Nationale politie als aanleiding genomen om de governance en bestuurlijke positionering van 
+transacties (VT’s) dat in 2012 ter de FIU-Nederland binnen het politiebestel te vereenvoudigen en verbeteren, overeenkomstig de 
+beschikking is gesteld aan de aanbevelingen van de Financial Action Task Force (FATF). In overleg met de belangrijkste bestuurlijke 
+opsporing. Nader onderzoek partners zijn significante stappen gezet in dit traject. Het eindresultaat zal zijn dat de FIU-Nederland 
+kan uitwijzen welk deel hiervan vanaf 2013 als een duidelijk herkenbare, zelfstandige en onafhankelijke entiteit zal functioneren die 
+‘af te pakken’ is. beheersmatig binnen het bestel van de Nationale politie is ondergebracht.
+Terug naar inhoudsopgave 7                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 9                   FIU-Nederland  |  Jaaroverzicht 2012
+
+0 Managementsamenvatting
+In 2012 heeft de FIU-Nederland een aantal belangrijke ontwikkelingen doorgemaakt in zowel haar 
+primaire als secundaire processen. Zo is de invoering van de Nationale politie door FIU-Nederland 
+aangegrepen om de bestuurlijke positie van FIU-Nederland minder complex in te regelen en haar 
+onafhankelijkheid te versterken, overeenkomstig de aanbevelingen van het FATF-evaluatierapport  
+uit 2011. De FIU-Nederland zal in de nieuwe wettelijke situatie vanaf 2013 als een duidelijk herkenbare, 
+zelfstandige en onafhankelijke entiteit functioneren, die beheersmatig binnen het bestel van de 
+Nationale politie is ondergebracht.
+Net als voor eerdere jaren zijn voor 2012 de kengetallen geproduceerd. Het aantal ongebruikelijke 
+transacties (OT’s) is ten opzichte van 2011 gestegen met 25 procent. Deze stijging betreft grotendeels 
+money transfers. Het aantal meldende instellingen is afgelopen jaar wederom licht toegenomen, met 
+name in de vrije beroepsgroepen. Het aantal verdachte transacties (VT's) is licht gestegen en vertegen-
+ 2
+woordigt een waarde van ruim 680 miljoen euro /. De details betreffende de kengetallen staan 
+uitgebreid beschreven in hoofdstuk 7. De volgende opvallende zaken kunnen alvast worden uitgelicht: 
+	 •	 	F orse	afname	OT ’s	en	VT ’s	gemeld	door	Holland	Casino	als	gevolg	van	wijzigingen	in	het	
+meldbeleid;
+	 •	 	Sterke	daling	van	het	aantal	meldingen	(gelieerd	aan	stortingen	op	rekening	en	girale	
+overboekingen) afkomstig van banken; 
+	 •	 Risico	 ’s	ten	aanzien	van	subagenten	van	wisselinstellingen	manifesteren	zich	opnieuw	in	2012;
+	 •	 	Sterke	toename	van	het	aantal	meldingen	prepaidcards	door	toegenomen	gebruik	en	beter	inzicht	
+van de risico’s bij melders. Ruim de helft van de VT’s afkomstig van wisselinstellingen heeft 
+betrekking op deze prepaidcards;
+	 •	 	Sterke	stijging	van	het	aantal	doormeldingen	op	CJIB	en	BOOM	door	betere	samenwerking.
+De FIU-Nederland heeft afgelopen jaar ook weer nauw samengewerkt met de diverse opsporings- 
+autoriteiten. Met eigen onderzoek heeft de FIU-Nederland bijgedragen aan opsporingsonderzoeken  
+en projecten betreffende onder meer liquidaties, fraude, verdovende middelen en voortvluchtige 
+criminelen. Voor een opsporingsonderzoek naar mensenhandel is een netwerk met geldstromen naar 
+Hongarije inzichtelijk gemaakt. Deze informatie is gedeeld met opsporingspartners, FIU-Hongarije  
+en een aantal meldende instellingen zodat zij hun compliance regelingen hier op af kunnen stemmen.  
+Dit is een goed voorbeeld van een succesvolle ketenbenadering. 
+Binnen het project Niet-Melders heeft de FIU-Nederland meegewerkt aan het verbeteren van het 
+naleefgedrag van de regels van de Wwft. Verder zijn er verschillende stappen gezet om de FIU-
+informatie beter en breder te delen. De FIU-Nederland heeft tijdens de Relatiedag voor de opsporing  
+de bruikbaarheid van FIU-informatie verder onder de aandacht gebracht. Het team specialistische 
+expertise van de Nationale Recherche heeft samen met de FIU-Nederland het Nationale 
+Criminaliteitsbeeld Analyse (CBA) Witwassen 2012 (onderdeel van het Nationaal Dreigingsbeeld 2012) 
+opgesteld.
+2
+/
+680 miljoen euro is het totaal Ook in 2012 heeft de FIU-Nederland op operationeel niveau met FIU’s wereldwijd samengewerkt en 
+bedrag van het aantal verdachte informatie uitgewisseld. Op beleidsmatig terrein heeft de FIU-Nederland in 2012 geïnvesteerd in 
+transacties (VT’s) dat in 2012 ter internationale samenwerking, onder andere door actieve deelname aan de diverse internationale 
+beschikking is gesteld aan de samenwerkingsverbanden en gremia, te weten het EU FIU Platform, FIU.net, de Egmont Group en  
+opsporing. Nader onderzoek de FATF. De FIU-Nederland heeft met eigen onderzoek onder andere bijgedragen aan projecten van  
+kan uitwijzen welk deel hiervan de FATF over witwasrisico’s bij juridische beroepen en dergelijke risico’s binnen de Nederlandse 
+‘af te pakken’ is. diamanthandel. Er is apart samengewerkt in projecten met de FIU-Denemarken en de FIU-Zweden.  
+Terug naar inhoudsopgave 11                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 13                   FIU-Nederland  |  Jaaroverzicht 2012
+
+1  Ontwikkelingen van de FIU-Nederland
+Het financieel-economische criminaliteitsbeeld in Nederland, maar ook daar buiten, verandert 
+voortdurend. Door ‘new payment methods’ en andere technologische ontwikkelingen vinden 
+criminelen steeds nieuwe manieren voor oneigenlijk gebruik en misbruik van het Nederlandse 
+financiële stelsel. Hoewel deze ontwikkelingen door de multidisciplinaire, Rijks- en ketenbrede  
+aanpak van georganiseerde en financieel-economische criminaliteit zo veel mogelijk worden ingedamd, 
+blijft het voor de FIU-Nederland zaak om nieuwe ontwikkelingen nauwgezet te volgen. Dit om nieuwe 
+witwaspraktijken, andere criminele fenomenen en trends te kunnen identificeren, analyseren en 
+signaleren naar zowel meldende instanties als opsporingspartners, overeenkomstig haar wettelijke 
+ 3
+takenpakket . / 
+In 2012 heeft de FIU-Nederland een aantal belangrijke ontwikkelingen doorgemaakt in zowel haar 
+primaire als secundaire processen. Zo zijn voorbereidingen getroffen voor de nieuwe positionering van 
+de organisatie, is de GoAML-applicatie verder doorontwikkeld, zijn relevante aanvullende informatie-
+bronnen geïnventariseerd en is er onderzoek gedaan naar het verkrijgen van inzicht in het gebruik van 
+FIU-informatie. Deze ontwikkelingen worden in de secties hieronder kort uiteengezet. 
+1.1  Wettelijke taken: ontvangen, analyseren en verspreiden 
+Op grond van de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) verzamelt, 
+analyseert en bewerkt de FIU-Nederland meldingen van ongebruikelijke financiële transacties, om te 
+bepalen of deze gegevens van belang kunnen zijn voor het voorkomen en opsporen van misdrijven  
+(in het bijzonder witwassen en het financieren van terrorisme), ter bescherming van de integriteit van 
+het (Nederlandse) financiële stelsel. Wanneer de FIU-Nederland een relatie met misdaad kan duiden, 
+worden de ongebruikelijke transacties verdacht verklaard en ter beschikking gesteld van nationale en 
+internationale opsporingsdiensten en OOV-partners. 
+Als gevolg van haar wettelijke opdracht vervult de FIU-Nederland een unieke informatie- en signalerings-
+positie in het spectrum dat zich bezig houdt met de strijd tegen witwassen, financieren van terrorisme  
+en de financiële aanpak van criminaliteit in de brede zin. De FIU-Nederland bevindt zich op het snijvlak 
+tussen de publieke en private sector en deze positie stelt de FIU-Nederland in staat om ongebruikelijke 
+transactie-informatie te verzamelen en te duiden. Dit proces is grotendeels geautomatiseerd: de meldende 
+instellingen kunnen via een webformulier ongebruikelijke transacties (OT's) melden. Deze meldingen 
+worden direct in een digitale, beveiligde omgeving ondergebracht. Alle binnenkomende meldingen 
+ 4
+worden in beginsel periodiek ‘gematcht’ met het VROS-bestand / waardoor enige vorm van onderzoek 
+altijd plaats vindt. Deze matching resulteert in ‘hits’ die verder onderzocht dienen te worden alvorens 
+deze verdacht verklaard kunnen worden. OT’s kunnen verder op basis van screening naar aanleiding van 
+ 5
+LOvJ-verzoeken /, verzoeken van buitenlandse FIU’s, matches met overige gegevensbestanden (zoge-
+3
+/ noemde ‘zijbronnen’ zoals CJIB of BOOM subject lijsten) of eigen onderzoek verdacht worden verklaard.
+Zie artikel 13 van de Wwft. 
+ Vanuit haar wettelijke taken levert de FIU-Nederland haar partners, als resultaat van haar analyses 
+4
+/ onder andere de volgende soorten producten: 
+Verwijzingsindex Recherche •	 informatiebladen	 	(om	bijvoorbeeld	meldende	instellingen	te	informeren	over	wijzigingen	in	
+Onderzoeken en Subjecten relevante wetgeving);
+ 
+•	 onderzoeksdossiers	 	voor	opsporingspartners	(hierin	worden	VT ’s	in	relatie	tot	een	bepaald	 
+5
+/ subject of criminaliteitsvorm gegroepeerd);
+Het KLPD en andere opspo- •	 	preweegdocumenten	(hiermee	ondersteunt	de	FIU-Nederland	opsporingspartners	door	een	 
+ringspartners kunnen zelf voorstel voor een opsporingsonderzoek voor te bereiden);
+informatie bij de FIU-Nederland •	 	signaaldocumenten	(het	signaleren	van	opvallendheden	en	ontwikkelingen	op	het	gebied	van	
+vragen in het kader van lopende witwassen of financieren van terrorisme en het in kaart brengen van kansen en mogelijkheden  
+onderzoeken, middels een om deze ontwikkelingen of fenomenen te bestrijden waardoor de opsporing een gerichte keuze  
+zogenoemd LOvJ-verzoek. kan maken ten aanzien van haar inzet en middelen);
+Terug naar inhoudsopgave 15                   FIU-Nederland  |  Jaaroverzicht 2012
+
+1.3.1  Doorontwikkeling GoAML
+Twee nieuwe releases van de applicatie GoAML zijn in het voorjaar en najaar van 2012 in gebruik 
+genomen. Deze releases bevatten nieuwe en verbeterde functionaliteiten die de FIU beter in staat 
+stellen haar primaire proces uit te kunnen voeren. Ook is in 2012 een nieuw contract gesloten met het 
+UNODC (de ontwikkelaar van GoAML) met als doel extra functionaliteiten te ontwikkelen, specifiek 
+voor de FIU-Nederland. Deze functionaliteiten zullen in het voorjaar van 2013 worden opgeleverd.
+Een belangrijke mijlpaal voor GoAML in 2012 is de grote verbeterslag (release 3.4) die is gemaakt in het 
+GoAML-meldportaal ten behoeve van de meldplichtige instellingen. Het is nu mogelijk om via het 
+meldformulier ongebruikelijke transacties (OT’s) online te melden en dit heeft het gebruikersgemak 
+sterk verhoogd.
+1.3.2  Rapportage en analyse-tool
+Pas met ingang van 1 november 2012 zijn de benodigde middelen en capaciteit voor de implementatie 
+van de rapportage- en analyse (R&A) tool bij vtsPN veiliggesteld. Sindsdien vergde de implementatie 
+van de tool veel voorbereidend werk van FIU-analisten. Daadwerkelijke implementatie van de 
+analyseomgeving zal gefaseerd plaatsvinden in 2013.
+Als consequentie van het uitblijven van de R&A-tool konden verscheidene doelstellingen voor 2012 nog 
+niet worden gerealiseerd. Voorbeelden van deze doelstellingen zijn de creatie van een format voor een 
+ 7
+regionaal transactiebeeld en de implementatie van ‘red flags’ /. De betreffende doelstellingen worden 
+doorgeschoven naar 2013.
+1.3.3  ‘Red flag’-systematiek
+Mede naar aanleiding van het FATF-evaluatierapport zijn in 2012 voorbereidingen getroffen voor de 
+implementatie van een nieuwe red flag-systematiek. Red flags zijn omstandigheden die een indicatie 
+kunnen zijn voor witwassen, financiering van terrorisme of andere misdrijven en zij ondersteunen het 
+prioriteren van transacties voor onderzoek. Door de doorontwikkeling van GoAML en de vertraging  
+van de R&A-tool kon nog niet worden gestart met het automatiseren van het red flag-systeem.  
+Naar verwachting zal dit gebeuren in 2013.  
+1.3.4  Nieuw dossierformat
+In 2012 heeft de FIU-Nederland significante stappen gezet richting een nieuw dossierformat, dat beter 
+aansluit op de behoefte van de opsporing en tevens meer informatie kan bevatten die als basis kan 
+fungeren voor de ontwikkeling van eigen producten, zoals red flags en typologieën. 
+1.4   Inventarisatie relevante aanvullende informatiesystemen
+7
+/ In 2012 heeft een inventarisatie plaatsgevonden van aanvullende informatiebronnen die voor 
+FATF / OECD and IMF (25 FIU-Nederland van belang kunnen zijn om haar onderzoek en analyses verder te verbeteren. Uit de 
+February 2011), Mutual inventarisatie blijkt dat er onder meer een grote behoefte is om het handelsregister bij de KvK ook  
+Evaluation Report: Anti-Money op naam van een natuurlijk persoon te kunnen bevragen. Omdat de FIU-Nederland niet genoemd  
+Laundering and Combating the staat in de Handelsregisterwet is dit vooralsnog niet mogelijk. In 2013 wordt gekeken of en hoe een 
+Financing of Terrorism -  traject, met als doel een wetswijziging, kan worden gestart.
+The Netherlands,  
+http://www.fatf-gafi.org/
+media/fatf/documents/ 1.5   Onderzoek meer zicht op gebruik FIU-informatie
+reports/mer/MER%20 In 2012 heeft onderzoek plaatsgevonden naar de verschillende mogelijkheden om meer zicht te krijgen 
+Netherlands%20full.pdf op het gebruik van FIU-informatie, met name verdachte transacties (VT’s). VT’s worden sinds de 
+Terug naar inhoudsopgave 17                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 19                   FIU-Nederland  |  Jaaroverzicht 2012
+
+2 Samenwerking met melders en toezichthouders
+Door de Wwft aangemerkte instellingen zijn verplicht om een (voorgenomen) ongebruikelijke 
+transactie (OT) die (mogelijk) te maken heeft met witwassen en/of de financiering van terrorisme te 
+melden bij de FIU-Nederland. Voor de FIU-Nederland is het van groot belang dat er een goede 
+samenwerking is met de meldende instellingen. Afhankelijk van de kwaliteit van de meldingen,  
+kan de FIU-Nederland namelijk snel en effectief onderzoek doen naar eventuele betrokkenheid van 
+personen bij witwassen en financiering van terrorisme. Regelmatig vindt dan ook overleg plaats met 
+vertegenwoordigers van de meldende instellingen en de toezichthouders, om de kwaliteit van de 
+meldingen te verhogen en om de instellingen te informeren over kenmerken die tot herkenning van 
+risicovolle transacties kunnen leiden. In het afgelopen jaar heeft de FIU-Nederland hiervoor diverse 
+activiteiten ondernomen van voorlichting en communicatie tot directe contacten met bepaalde 
+meldergroepen en toezichthouders. 
+2.1  Melders
+2.1.1  Voorlichting en communicatie 
+Bijeenkomsten
+In 2012 hebben de relatiebeheerders van de FIU-Nederland periodiek overleg gehad met de betrokken 
+toezichthouders, individuele melders en de brancheverenigingen. Daarnaast hebben zij regelmatig 
+presentaties verzorgd op verschillende bijeenkomsten en seminars om het bewustzijn rondom de 
+meldplicht te vergroten en de kwaliteit van meldingen te verhogen. 
+Op 28 juni 2012 heeft de FIU-Nederland een bijeenkomst georganiseerd over de invulling van de 
+ 8
+‘all-crimes-approach’ / met vertegenwoordigers van banken, de NVB, verschillende toezichthouders, 
+de Ministeries van Veiligheid en Justitie en Financiën en medewerkers van de FIU-Nederland. Deze 
+benadering kwam naar voren bij de bespreking van het evaluatierapport over Nederland in de plenaire 
+bijeenkomst van de FATF in 2011. Het doel van de bijeenkomst was om inzicht te krijgen in de toepassing 
+van de ‘all crimes approach’ in de praktijk en om de mogelijkheden die de betrokken partijen zien te 
+inventariseren. Conclusie van de bijeenkomst was dat er voldoende ruimte is om te bewegen binnen  
+de kaders zoals geboden door de wetgever, maar dat er nog wel een vertaalslag naar de praktijk moet 
+plaatsvinden om de ‘all crimes approach’ effectief toe te passen. 
+In 2012 heeft de FIU-Nederland besloten een kleinschalig onderzoek te laten verrichten naar de 
+implementatie van de all crimes approach. Dit interne onderzoek zal in mei 2013 worden afgerond. 
+Daarnaast zal er in 2013 een vervolgbijeenkomst met netwerk- en ketenpartners volgen. 
+Doorontwikkeling website
+In 2012 is de website van de FIU-Nederland doorontwikkeld en verder geprofessionaliseerd. De site  
+is opnieuw ingericht. Er is voor gekozen om alle relevante informatie per meldergroep te rubriceren  
+en de website zo verder toegankelijker te maken voor melders. Tevens is in 2012 begonnen met een 
+wekelijkse publicatie van een nieuwe casus in de sectie Casuïstiek. Hiermee wordt inhoud gegeven aan 
+de feedbackbehoefte van de melders. Door geanonimiseerde cases aan te bieden, kan terugkoppeling 
+worden gegeven voordat een zaak in laatste instantie door de rechter is afgedaan. De meldende 
+8
+/ instellingen en partners van de FIU-Nederland worden via twitter berichten geïnformeerd over  
+In deze benadering van de nieuwe casussen en andere nieuwsberichten op de FIU-Nederland website. 
+meldplicht dient elke transactie 
+gemeld te worden waarvan het Informatiebladen
+vermoeden is dat deze verband Er zijn in 2012 drie verschillende informatiebladen geproduceerd. Zo werd er een informatieblad 
+houdt met, of afkomstig is van, specifiek voor de makelaarsbranche opgesteld, met een sector specifieke toelichting op de meldplicht. 
+enig misdrijf. De NVM, VBO Makelaar, VastgoedPro en de toezichthouder Belastingdienst Holland-Midden/Unit MOT, 
+Terug naar inhoudsopgave 21                   FIU-Nederland  |  Jaaroverzicht 2012
+
+•	 	De	FIU-Nederland	heeft	het	periodiek	overleg	met	de	AFM	over	de	meldgroepen	waar	deze	toezicht	 
+op houdt (beleggingsinstellingen, beleggingsondernemingen en assurantietussenpersonen) nieuw 
+leven ingeblazen. In 2013 krijgt dit overleg een structurele vorm. 
+•	 	Het	periodiek	overleg	en	de	samenwerking	met	het	BF T	is	in	2012	gecontinueerd	en	heeft	onder	
+andere betrekking op meldgedrag van de meldgroepen waar het BFT op toeziet.
+Het Algemeen Toezichthoudersoverleg onder voorzitterschap van het BFT heeft in 2012 vijf maal 
+plaatsgevonden. Naast de toezichthouders en de FIU-Nederland participeert sinds een jaar ook het 
+Ministerie van Financiën in dit overleg. In 2012 waren de aandachtspunten onder meer de wijzigingen  
+in de Wwft, gebruik van GoAML als meldportaal, de acties van het OM tegen niet-melden (zie sectie 3.4.1) 
+en de onderlinge samenwerking. 
+Terug naar inhoudsopgave 23                   FIU-Nederland  |  Jaaroverzicht 2012
+
+3
+
+Daarnaast zijn er op basis van een kennisrapport van de Nationale Recherche over de activiteiten van de 
+Italiaanse maffia in Nederland bepaalde typologieën gedestilleerd. Op basis daarvan konden netwerken 
+en onderliggende verbanden tussen transacties en personen, die te relateren waren aan leden en 
+ondernemingen met contacten binnen de Italiaanse maffia, gedetecteerd worden. De FIU-informatie is 
+inmiddels opgenomen in opsporingsonderzoeken en heeft tevens tot nieuwe invalshoeken geleid.  
+De FIU-typologieën zullen in 2013 vertaald worden naar nieuwe richtlijnen voor de meldplichtige 
+instellingen. 
+Analyses specifiek gericht op transacties, die te relateren waren aan uitgekeerde persoonsgebonden 
+budgetten, leidden tot meerdere dossiers. In één analyse werd zelfs een fraude met deze uitkeringen 
+van ruim één miljoen euro vastgesteld en overgedragen aan de opsporing wat leidde tot aanhouding 
+van de verdachte.
+3.4  Bijdragen aan onderzoeken en projecten
+3.4.1  Project Niet-melders
+Het project Niet-Melders is een gezamenlijk project van de FIOD, de Nationale Recherche, de  
+FIU-Nederland, het BFT en Belastingdienst Holland Midden/Unit MOT onder leiding van het OM 
+(Functioneel Pakket) gericht op het verbeteren van het naleefgedrag van de regels van de Wwft.  
+In 2012 zijn er tijdens twee actiedagen een aantal personen onderzocht, die werden verdacht van het 
+niet melden, onjuist melden of te laat melden van ongebruikelijke financiële transacties. Mede door de 
+door FIU-Nederland doorgemelde transacties kon aannemelijk worden gemaakt dat melders (mogelijk) 
+facilitair waren in witwassen. De eerste actiedag van 4 juli 2012 resulteerde in vijf strafrechtelijke 
+ 10
+onderzoeken /. De tweede actiedag, 21 november 2012, leverde acht strafrechtelijke onderzoeken op. 
+ 11
+In twee zaken werd na onderzoek vastgesteld, dat er geen sprake was van strafbare feiten /.
+3.4.2  Project The Wall
+In het project The Wall hebben, onder regie van het Landelijk Parket van het OM, meerdere overheids-
+instanties (waaronder de Inspectie SZW, Belastingdienst, Nationale Recherche, IND, Koninklijke 
+Marechaussee en de FIU-Nederland) tussen 2010 en 2012 hun krachten gebundeld om signalen van 
+Chinese mensenhandel en mensensmokkel te onderzoeken, om zo misstanden beter te kunnen 
+bestrijden. Aanleiding voor het project was een groeiend probleem van Chinese slachtoffers van 
+mensenhandel, Chinese illegale vreemdelingen en daaraan gerelateerde criminaliteit en misstanden  
+in Nederland. 
+10
+/ De FIU-Nederland heeft, als onderdeel van het projectteam, haar kennis en kunde op dit onderwerp 
+zie het volgende persbericht: ingebracht. Via operationele, tactische en strategische analyses, matches op subjecten en beantwoording 
+http://www.fiu-nederland.nl/ van LOvJ-verzoeken heeft FIU-Nederland bijgedragen aan een verbeterd inzicht in de onderzochte 
+content/zes-strafrechtelijke- criminele samenwerkingsverbanden. 
+onderzoeken-naar-niet-mel-
+den-ongebruikelijke- Belangrijk resultaat van het project was een grootschalige actie op 31 oktober 2012, waarbij in 
+transacties Amsterdam, Rotterdam en Den Haag diverse Chinese massagesalons gecontroleerd zijn op illegale 
+arbeid, illegale prostitutie, vreemdelingenwetgeving en de naleving van fiscale regels. De actielocaties 
+11
+/ waren mede op basis van FIU-informatie geselecteerd. Aan deze actie is in de media veel aandacht 
+zie het volgende persbericht: besteed.
+http://www.fiu-nederland.nl/
+content/acht-strafrechtelijke-
+onderzoeken-naar-niet-mel- 3.4.3  Opsporingsonderzoek mensenhandel
+den-ongebruikelijke- De FIU-Nederland heeft een opsporingsonderzoek naar mensenhandel en witwassen ondersteund, 
+transacties waarbij werd gefocust op een prostitutiegebied in Den Haag.
+Terug naar inhoudsopgave 27                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Het FIET levert preweegdocumenten en projectvoorstellen ten behoeve van diensten van het KLPD  
+als ook voor de zogenaamde combiteams, het samenwerkingsverband van de Nationale Recherche  
+en FIOD. Vanuit haar specifieke positie droeg de FIU-Nederland bij aan het voorbereiden van deze 
+preweegdocumenten en projectvoorstellen. Onafhankelijk van deze documenten werden standaard 
+alle FIET-onderzoeksdossiers getoetst aan het databestand van FIU-Nederland.
+In 2012 werden 22 dossiers met totaal 1446 VT’s aan het FIET FinEc overgedragen. Op hun verzoek 
+werden zes processen-verbaal ten behoeve van even zoveel onderzoeken opgemaakt. Acht clusters van 
+transacties werden ten behoeve van preweegdocumenten en/of projectvoorstellen in een informatie-
+rapportage aangeleverd. Een aantal preweegdocumenten heeft geleid tot onderzoeken, die echter 
+momenteel nog lopen en waarover uit onderzoeksbelang geen informatie vrijgegeven kan worden. 
+Daarnaast werden vier operationele analyses op dadergroepen gerelateerd aan een specifiek land in  
+het Caribisch gebied ter beschikking gesteld. Enkele andere dossiers waarin informatie van de 
+FIU-Nederland sturings- of bewijstechnisch werd opgenomen, hebben geleid tot de aanhouding van 
+twaalf verdachten en inbeslagneming van vijf miljoen euro. Deze dossiers hadden betrekking op 
+grootschalige verdovende middelensmokkel, witwassen en levensdelicten. 
+3.5.3  iCOV
+In 2012 is er gewerkt aan samenwerkingsafspraken inzake de match van het databestand van de  
+ 12
+Infobox Crimineel en Onverklaarbaar Vermogen (iCOV) / met VT-bestanden van de FIU-Nederland.  
+De FIU-Nederland heeft in 2012 aan de begeleidingscommissie van iCOV deelgenomen en een 
+structurele bijdrage geleverd aan de werkgroep inzake de juridische context. Naar verwachting zullen 
+de convenanten voor ICOV in 2013 worden geaccordeerd zodat vanaf dat moment een start kan worden 
+gemaakt met de daadwerkelijke samenwerking.
+3.5.4  Deelname fraude-trendwatchingproject
+In 2012 heeft de FIU-Nederland deelgenomen aan een fraude-trendwatchingproject geïnitieerd door  
+de FIOD. Bij het project zijn diverse opsporingsinstanties, toezichthouders en financiële instellingen 
+betrokken, die elkaar met digitale middelen op de hoogte houden van fraude en witwassignalen 
+binnen hun werkveld. 
+3.5.5  Matching met politiegegevens uit voorfase opsporingsonderzoek
+In 2012 is bij de verschillende afdelingen projectvoorbereiding van de regiokorpsen het opvragen van 
+FIU-informatie in de standaardprocedure opgenomen 
+In 2012 is een pilot uitgevoerd met de Dienst Nationale Recherche van het KLPD waarbij direct in  
+de voorfase van opsporingsonderzoeken de eerste onderzoeksgegevens werden gematcht met het 
+gegevensbestand van de FIU-Nederland. Daarnaast zijn er meerdere matches uitgevoerd waarbij  
+veel hits naar voren zijn gekomen, onder meer aan de hand van CJIB en BOOM subjectlijsten, en  
+de onderzoeksgegevens van onder andere het project zwarte markten en het project ‘The Wall’.  
+De werkwijze met betrekking tot het verdacht verklaren van transacties vereist een nauwkeurige  
+en arbeidsintensieve bewerking doordat alle ‘hits’ eerst geverifieerd moeten worden alvorens deze 
+verdacht kunnen worden verklaard. Deze werkwijze vereiste om capaciteitsredenen een keuze in 
+prioritering waardoor niet alle gematchte transacties (hits) verder onderzocht konden worden.
+12
+/ 3.5.6  Automatische matching subjectlijsten
+Voorheen ook aangeduid als In 2012 zijn de mogelijkheden uitgebreid om grote bestanden (zoals bijvoorbeeld de MRO en CIE 
+Crimineel Vermogen Infobox subjectindexen van de VROS-database) automatisch te matchen met de database van de FIU-Nederland. 
+(CV-Infobox). In 2012 is hier al verschillende keren gebruik van gemaakt, onder meer binnen het programma The Wall 
+Terug naar inhoudsopgave 29                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 31                   FIU-Nederland  |  Jaaroverzicht 2012
+
+4 Financiering van terrorisme en proliferatie
+Onderzoek naar terreurfinanciering vergt specifieke kennis van met name de netwerkpartners die een 
+rol spelen in de bestrijding van terrorisme. Binnen de FIU-Nederland opereert het Team Contraterrorisme 
+& proliferatiefinanciering (CT&PF), dat geldstromen ten behoeve van terrorisme onderzoekt.
+ 
+4.1  Financiering van terrorisme
+Het Team CT&PF van de FIU-Nederland heeft in 2012 een groot aantal (inter)nationale presentaties 
+verzorgd. Op internationaal niveau betroffen dit onder meer bijeenkomsten van de Egmont Group over 
+financiering van terrorisme, en de jaarlijkse themabijeenkomst van Europol over terrorisme. Binnen 
+Nederland zijn onder meer presentaties gegeven voor de NVB en het overleg van de gezamenlijke 
+creditcardmaatschappijen. 
+Daarnaast is het team, samen met partners in de veiligheidsketen, direct betrokken geweest bij 
+meerdere (inter)nationale contraterrorisme-onderzoeken en heeft het team analyses uitgevoerd op 
+lopende en afgesloten onderzoeken. Dit heeft in 2012 onder andere geleid tot het uitgeven van 37 
+signaaldocumenten voor opsporings- en inlichtingendiensten en de ontwikkeling van een nieuw 
+risicoprofiel voor geldstromen die mogelijk gerelateerd zijn aan terrorisme. Dit risicoprofiel is met 
+verschillende meldergroepen gedeeld.
+Via een strategische studie heeft de FIU-Nederland in 2012 meer zicht proberen te krijgen op geldstromen 
+die te relateren zijn aan geografische instabiele- en/of conflictgebieden, zoals het grensgebied 
+Afghanistan-Pakistan. Deze studie heeft geleid tot een vertrouwelijke interne rapportage. Inmiddels 
+zijn op basis van deze rapportage risicoprofielen gecommuniceerd naar melders. Deze zijn gedurende 
+2012 opgenomen in de complianceprogramma’s van de betreffende melders. Naar verwachting zullen 
+begin 2013 de eerste meldingen naar aanleiding van deze risicoprofielen ontvangen worden. 
+Daarnaast heeft het team in 2012 actief deelgenomen aan diverse nationale en internationale  
+samenwerkingsverbanden en -gremia. Op nationaal terrein waren dit de CT-infobox en het FEC.  
+Op internationaal gebied heeft het team geparticipeerd in projecten van de Working Group on 
+Typologies van de FATF (WGTYP) en de Operational Working Group (OpWG) van de Egmont Groep. 
+Binnen de Operational working group (OpWG) is de FIU-Nederland, samen met FINTRAC (Canada), 
+trekker van de projectgroep terrorismefinanciering. De FIU-Nederland vervult ook een expertise-  
+en adviesrol op het gebied van terrorismefinanciering richting de Nationaal Coördinator 
+Terrorismebestrijding en Veiligheid door onder andere deelname aan door de NCTV uitgeschreven 
+samenkomsten en eigenstandige advisering en consultering op terrorismefinancieringsgebied  
+(onder andere ten behoeve van het Nationaal Dreigingsbeeld). 
+4.1.1  Terrorismefinancieringsplatform met de NVB 
+In samenwerking met de NVB is in 2012 een terrorismefinancieringsplatform opgezet. Doel van het 
+platform is om de financiële instellingen beter te informeren over trends en ontwikkelingen betreffende 
+financiering van terrorisme. Daarnaast dient het platform voor terugkoppeling aan financiële 
+instellingen over het vervolg op hun meldingen op het gebied van financiering van terrorisme.  
+De financiële instellingen kunnen op hun beurt relevante fenomenen onder de aandacht brengen  
+bij de FIU-Nederland. Naar verwachting zullen financiële instellingen en de FIU-Nederland door  
+deze verbeterde informatiedeling eerder geldstromen gerelateerd aan terrorisme herkennen.
+Terug naar inhoudsopgave 33                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 35                   FIU-Nederland  |  Jaaroverzicht 2012
+
+5 Caribisch Nederland
+De FIU-Nederland wordt in Caribisch Nederland (CN) permanent vertegenwoordigd door een  
+administratief liaison. In 2012 heeft deze onder meer, met ondersteuning van FIU collega’s in Nederland, 
+CN-melders geadviseerd, onder andere bij het in gebruik nemen van het huidige GoAML-webformulier  
+en verder geïnvesteerd in samenwerking met de ketenpartners in CN. 
+5.1  GoAML 
+ 14
+De melders van Caribisch Nederland maakten sinds oktober 2010 / gebruik van de zogenaamde Meld 
+Formulier Applicatie (MFA) om te melden via GoAML. De melders in CN zijn tegelijkertijd met de 
+overige melders in september 2012 overgegaan naar het melden via het huidige GoAML Webformulier. 
+5.2   Relatiedagen WWFT-BES
+Het organiseren van relatiedagen voor de meldende instellingen levert een belangrijke bijdrage aan  
+de relatie met de meldende instellingen op de eilanden en heeft in 2012 geresulteerd in een aantal 
+bijzonder bruikbare meldingen. Hoewel wat de traditionele melders betreft de opkomst op de relatie-
+dagen doorgaans groot is, is de opkomst van de vrije beroepsgroepen zoals de makelaardij en de 
+advocatuur vooralsnog beperkt gebleven. Deze meldersgroepen zullen in 2013 meer aandacht krijgen. 
+Met het oog op de inwerkingtreding van de Wet ter voorkoming van Witwassen en de Financiering  
+van Terrorisme BES (WWFT-BES) zijn er op Bonaire relatiedagen georganiseerd ten behoeve van de 
+advocatuur, de makelaardij en de accountants- en administratiekantoren. De relatiedagen werden 
+naast de administratief liaison verzorgd door FIU-collega’s vanuit Nederland, waaronder het Hoofd 
+FIU-Nederland. De presentaties WWFT-BES voor meldplichtige instellingen op Saba en Sint Eustatius 
+zullen in 2013 volgen.
+5.3   Bankenoverleg
+In 2011 is er een kennismakingsoverleg georganiseerd door de administratief liaison CN met de 
+vereniging van banken op Bonaire. In 2012 is dit gevolgd door een tweede overleg met de vereniging. 
+Het streven is om dat in 2013 te intensiveren.
+5.4   Trainingen
+Bij meldplichtige instellingen blijkt een grote behoefte aan kennis om zo goed mogelijk compliance  
+te kunnen toepassen. In 2012 is hiervoor een training georganiseerd in het herkennen van fraude met 
+documenten, zoals paspoorten en andere identiteitsbewijzen.
+5.5  Meldingen
+14
+/ In 2012 heeft de FIU-Nederland 1.325 meldingen vanuit CN ontvangen, dit is een forse stijging in 
+10 Oktober 2010 was de vergelijking met 2011. Wat ook opvalt is dat de kwaliteit van de meldingen in de loop van de tijd beter  
+datum van de staatkundige is geworden. Met de uitgevoerde ongebruikelijke transacties (OT's) is in totaal meer dan 225 miljoen 
+veranderingen waardoor euro gemoeid. In vergelijking met 2011 is het aantal meldingen en de omvang van het totaalbedrag 
+meldplichtige instellingen  aanzienlijk toegenomen: in 2011 werden rond de 650 meldingen ontvangen, ter waarde van ongeveer 
+op Caribisch Nederland 56 miljoen euro. Waarschijnlijke (deel-)oorzaken voor de toename in 2012 zijn de inzet van de 
+verplicht zijn te melden  administratieve liaison in het Caribisch gebied, de gehouden relatiedagen en de verbetering van  
+bij FIU-Nederland. het meldsysteem.
+Terug naar inhoudsopgave 37                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Terug naar inhoudsopgave 39                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+6 Internationale samenwerking
+Door het vaak grensoverschrijdende karakter van praktijken van witwassen en financieren van 
+terrorisme, is internationale samenwerking voor de FIU-Nederland van groot belang. Ook in 2012  
+heeft de FIU-Nederland op operationeel niveau met FIU’s wereldwijd samengewerkt en informatie 
+uitgewisseld. Op beleidsmatig terrein heeft de FIU-Nederland in 2012 geïnvesteerd in internationale 
+samenwerking, onder andere door deelname aan de diverse internationale gremia.
+6.1  EU-samenwerking 
+6.1.1  FIU.net
+In 2012 heeft de ontwikkeling van FIU.NET een nieuwe boost gekregen met het ontstaan van de 
+3 3
+zogenaamde ma tch technologie. Ma tch staat voor “autonomous anonymous analysis” en maakt het 
+voor de 26 aangesloten EU FIU’s nog makkelijker om informatie met elkaar te delen. De mogelijkheid 
+bestaat nu om, anoniem en versleuteld, databases binnen Europa te matchen, zodat de Europese FIU’s 
+op het spoor kunnen komen van hits die zonder deze techniek mogelijk onzichtbaar zouden blijven. 
+FIU-Nederland heeft eind 2012 de eerste stappen genomen om deze functionaliteit daadwerkelijk te 
+kunnen gaan gebruiken. De techniek is op orde gebracht en de medewerkers zijn opgeleid. Dit alles 
+om begin 2013 daadwerkelijk te starten. 
+6.1.2  EU FIU Platform
+De FIU-Nederland neemt actief deel aan het EU FIU Platform, het informele overlegorgaan van FIU’s  
+uit de Europese Unie. In 2012 is in dit platform onder andere gewerkt aan een gezamenlijk advies aan 
+de Europese Commissie met betrekking tot de vierde Europese anti-witwasrichtlijn, waarvan het eerste 
+concept begin 2013 zal worden gepresenteerd.
+6.2  Egmont Group 
+In 2012 bestond de Egmont Group uit 131 leden (FIU’s). De FIU-Nederland neemt actief deel aan de 
+Egmont Group, met vertegenwoordigers in drie werkgroepen. 
+In de nieuwe FATF aanbevelingen wordt verwezen naar de noodzaak van het lidmaatschap van de 
+Egmont Group. Binnen de Egmont Group wordt gestreefd naar het garanderen van minimale eisen  
+die aan leden gesteld kunnen worden, om betrouwbare internationale informatie-uitwisseling  
+tussen FIU’s mogelijk te maken.
+6.3  FATF 
+De FIU-Nederland is vertegenwoordigd in de Nederlandse delegatie van de FATF die jaarlijks driemaal 
+bijeenkomt. Binnen de FATF zijn vier werkgroepen actief. De FIU-Nederland neemt actief deel aan de 
+werkgroep typologieën (WG TYP), onder andere door te participeren in projecten maar ook door het 
+leveren van relevante informatie.
+6.3.1  FATF-Project Legal Professions
+Medio juni 2012 is vanuit de FATF-werkgroep Typologieën een project gestart om de risico’s om 
+betrokken te worden bij witwassen beter inzichtelijk te maken voor de juridische beroepen, specifiek 
+de advocatuur en het notariaat. De Landelijk Officier van Justitie Witwassen is co-chair van deze 
+werkgroep en de FIU-Nederland heeft analyses ingebracht en een presentatie verzorgd tijdens de 
+Terug naar inhoudsopgave 41                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+aanpak noodzakelijk. Als via dit project in Colombia criminelen kunnen worden ontmoedigd hun 
+praktijken voort te zetten, zal dat kunnen leiden tot minder drugstransporten naar Nederland en 
+minder gerelateerde problematiek. 
+6.5  Operationele intelligence-uitwisseling internationaal 
+Naar aanleiding van de overgang naar GoAML is er voor gekozen om de registratie van binnenkomende 
+verzoeken van en uitgaande verzoeken naar buitenlandse FIU’s hierin op te nemen. Voorheen werden 
+twee aparte registraties bijgehouden voor de uitwisseling via Egmont Secure Web en FIU.NET, maar 
+vanaf 2012 is alles in GoAML geregistreerd. Hierdoor is er geen onderscheid meer tussen bevragingen 
+ 
+via ESW en FIU.NET.
+Tabel 1 Top 5 uitgaande verzoeken aan buitenlandse FIU’s 
+15
+/ Informatieverzoek van FIU-Nederland aan buitenlandse FIU’s Aantal verzoeken
+ 15
+In verband met de intensieve Zweden 40   /
+en constructieve samen- Duitsland 27
+werking van de FIU-Nederland  België 25
+met FIU Zweden ligt het aantal Verenigd Koninkrijk 18
+informatieverzoeken van de Spanje 17
+FIU-Nederland aan Zweden 
+hoger. Het totaal aantal uitgaande informatieverzoeken van FIU-Nederland aan buitenlandse FIU’s in 2012  
+ 16
+was 270. / 
+16
+/
+In verband het met de start van Tabel 2 Top 5 binnenkomende verzoeken van buitenlandse FIU’s
+het gebruik van GoAML per mei 
+2011, is het niet mogelijk om Informatieverzoek van FIU-Nederland aan buitenlandse FIU’s Aantal verzoeken
+ 17
+een vergelijking te maken België 303 /
+tussen deze cijfers en de cijfers Slowakije 95
+van 2011. Vanaf volgend jaar  Luxemburg 53
+is dat wel mogelijk. Verenigd Koninkrijk 51
+Duitsland 16
+17
+/
+Het aantal informatieverzoeken Het totaal aantal binnengekomen informatieverzoeken aan FIU-Nederland van buitenlandse FIU’s in 
+ 18
+afkomstig van de Belgische  2012 was 747. / 
+FIU (CTIF-CFI) is zo veel hoger 
+dan andere landen omdat in 
+België het beleid geldt dat  
+alle transacties/dossiers met 
+een internationaal karakter in  
+het/de betreffende land(en) 
+worden bevraagd. Deze 
+werkwijze zou echter voor  
+de FIU-Nederland te 
+arbeidsintensief zijn.
+18
+/
+In verband het met de start  
+van het gebruik van GoAML per 
+mei 2011, is het niet mogelijk 
+om een vergelijking te maken 
+tussen deze cijfers en de cijfers 
+van 2011. Vanaf volgend jaar is 
+dat wel mogelijk.
+Terug naar inhoudsopgave 43                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+7
+
+•  Het kan voorkomen dat percentages door afronding niet geheel optellen tot 100%.
+•  Bedragen in vreemde valuta zijn omgerekend naar euro op basis van de wisselkoersen  
+die door meldende instellingen zijn opgegeven in hun melding(en). 
+•  Bij de berekening van bedragen worden meldingen van voorgenomen transacties buiten  
+beschouwing gelaten.
+•  Tenzij anders aangegeven zijn alle aantallen in de kengetallen exact weergegeven.  
+Bedragen worden afgerond.
+7.1  Totaalcijfers 
+Deze paragraaf biedt een beeld van de ontwikkeling van de OT’s en VT’s in Nederland op hoofdlijnen. 
+Het beschrijft het verloop van het aantal OT’s en VT’s op basis van de sectoren waarbinnen zij 
+plaatsvinden. Ook wordt nader ingegaan op de regio’s waarbinnen de transacties worden uitgevoerd. 
+Opvallende ontwikkelingen worden uitgelicht. Een meer gedetailleerde omschrijving van de 
+ontwikkeling per sector is opgenomen in paragrafen 7.3 en 7.4.
+7.1.1  Ongebruikelijke transacties 
+Grafiek 1: Ongebruikelijke transacties in 2010-2012
+209.239
+250.000
+196.877 167.237
+200.000
+150.000
+100.000
+50.000
+0
+ 2010 2011 2012
+Niet-money transfers
+ 22.459 21.572 25.423
+Money transfers
+ 174.418 145.665 183.816
+Het totaal aantal geregistreerde meldingen komt in 2012 ruim boven de 200.000 uit. Deze stijging  
+ten opzichte van eerdere jaren houdt verband met een sterke stijging van het aantal subjectieve 
+meldingen. Het aantal objectieve meldingen blij ft in 2012 (66.712) ongeveer gelijk aan het aantal van 
+2011 (66.770). De stijging van het aantal subjectieve meldingen houdt verband met ontwikkelingen 
+binnen de money transfer-sector. Zo is bijvoorbeeld sprake van aanscherping van het meldbeleid op 
+advies van de toezichthouder. Dit leidde in 2012 tot meer money transfer-meldingen. Hierover is meer 
+te lezen in paragraaf 7.3.
+Het aantal meldingen van niet-money transfers neemt toe in 2012. Uit tabel 3 blijkt welke sectoren  
+20
+/ een bijdrage leveren aan deze stijging; het gaat met name om een toename van het aantal meldingen 
+Hoewel ‘payment service door de overheid, wisselinstellingen en handelaren. Overheidsmeldingen nemen toe onder invloed 
+provider’ een verzamelbegrip  van een stijging van het aantal passagiers dat aangieft doet van de invoer, uitvoer en doorvoer van 
+is in de zin van de Payment contanten ter waarde van €10.000 of meer. Bij de wisselinstellingen zien we met name het aantal 
+Service Directive (PSD) en de meldingen over prepaidcards toenemen en bij de handelaren is sprake van een stijging van het aantal 
+Wet Financieel Toezicht (Wft) ,  OT’s bij autohandelaren en edelmetalenhandel. Ook zijn er sectoren waar het aantal OT’s (sterk) daalt. 
+doelt de FIU-Nederland in dit Bijvoorbeeld binnen de casino-sector. In 2012 loopt het aantal casino-meldingen terug met 43%.
+hoofdstuk specifiek op 
+online-betaaldienstverleners In 2012 heeft de FIU-Nederland meldingen van een nieuwe groep melders ontvangen, de zogenoemde 
+  20
+met een eigen payment service provider /. Vanuit deze branche ontving de FIU-Nederland in 2012 1 melding.  
+derdengeldrekening. Op alle bovengenoemde ontwikkelingen wordt in de navolgende paragrafen verder ingegaan. 
+ 
+ 
+Terug naar inhoudsopgave 47                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+In de onderstaande tabel is het aantal instellingen weergegeven dat in de periode 2010 – 2012 één of 
+meerdere meldingen hee ft gedaan bij de FIU-Nederland. Het totale aantal meldende instellingen is licht 
+toegenomen in 2012 (+4%). Opvallend is de stijging van het aantal meldende edelmetalenhandelaren. 
+Ook zijn er sectoren vanuit waar het afgelopen jaar geen enkele melding is gedaan, zoals de kunstsector. 
+Zie paragraaf 7.4.3.
+Tabel 4: Aantal meldende Wwft-meldplichtige instellingen in 2010-2012
+Sector en type melder 2010 2011 2012
+Traditionele melders 61 60 68
+Bank 28 31 38
+Casino 1 1 1
+Creditcardmaatschappij 5 4 5
+Wisselinstelling 25 24 22
+Levensverzekeraar 2 0 2
+ 
+Overige traditionele melders 4 4 2
+Assurantie tussenpersoon 1 1 1
+Effectenbemiddelaar 1 1 0
+Financieringsmaatschappij 2 2 1
+ 
+Payment service provider 0 0 1
+Payment Service Provider 0 0 1
+ 
+Handelaren 651 572 555
+Antiekhandel 3 1 1
+Edelmetalenhandel 12 25 40
+Kunsthandel 3 1 0
+Overige handelaren 14 11 22
+Schepenhandel 24 22 21
+Voertuigenhandel 595 512 471
+ 
+Vrije beroepsgroepen 327 239 284
+Accountant 121 87 83
+Administratiekantoor 0 0 20
+Advocaat 17 7 10
+Bedrijfseconomisch adviseur 23 8 2
+Belastingadviseur 38 23 17
+Makelaar OG 6 6 23
+Notariaat 112 100 123
+Onafhankelijk juridisch adviseur 3 0 0
+Trustmaatschappij 7 8 6
+Eindtotaal 1.043 875 910
+Terug naar inhoudsopgave 49                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Figuur 1: Ongebruikelijke transacties per politieregio in 2010-2012 
+1
+2
+3
+10
+11
+4
+12
+25
+13
+14
+5
+16
+15
+9
+6
+7
+17
+18
+8
+21
+20
+19
+22
+23
+100.001 - 200.000
+50.001 - 100.000
+20.001 - 50.000
+10.501 - 20.000
+7.501 - 10.500
+24
+5.001 - 7.500
+2.501 - 5.000
+0 - 2.500
+Terug naar inhoudsopgave 51                   FIU-Nederland  |  Jaaroverzicht 2012 
+'10
+'11
+'10
+'12
+'11
+'12
+'10
+'10
+'11
+'10 '10
+'11
+'10 '12
+'12 '11 '11
+'11
+'12 '12
+'12
+'10
+'10
+'11
+'11
+'10
+'12
+'12
+'10 '11
+'11 '12
+'10
+'12
+'11
+'12
+'10
+'11
+'12
+'10
+'10
+'11
+'11
+'12 '10
+'12
+'11
+'10
+'10
+'12
+'11
+'11
+'12 '12
+'10
+'11
+'12
+'10
+'11
+'12
+'10
+'11
+'10
+'10
+'11 '12
+'11
+'12
+'12
+'10
+'11
+'12
+'10
+'11
+'12
+
+Het aantal transacties dat de FIU-Nederland jaarlijks verdacht verklaart, hangt niet alleen samen met  
+de mate waarin transacties deze status ‘toekomt’, maar ook van de inspanningen die de FIU-Nederland 
+en de diverse handhavingspartners (kunnen) leveren. Zo speelt de mate waarin politiebestanden 
+waarmee de FIU-Nederland matches uitvoert, gevuld worden door opsporingsdiensten (onder andere 
+het VROS-bestand), een belangrijke rol. Ook het aantal LOvJ-verzoeken dat de FIU-Nederland ontvangt,  
+is bepalend voor het aantal verdachtverklaringen. Daarnaast is de kwaliteit van meldingen belangrijk 
+om het eventuele verdachte karakter van een transactie te kunnen vaststellen. Ten slotte speelt de 
+beschikbare onderzoekscapaciteit van de FIU-Nederland een zeer belangrijke rol bij het aantal 
+verdachtverklaringen. Een transactie kan in potentie wel verdacht zijn, maar als de FIU-Nederland  
+geen capaciteit heeft om deze aan een onderzoek te onderwerpen, krijgt het deze status niet toegekend. 
+Het staat voor de FIU-Nederland vast dat een grotere onderzoekscapaciteit zou leiden tot een groter 
+aantal VT’s. 
+Voor haar eigen onderzoek selecteert en prioriteert de FIU-Nederland onder andere op basis van 
+verschillende red flag queries relevante transacties en subjecten. Deze red flags queries zijn voortdurend 
+in ontwikkeling. Deze queries zullen in de toekomst deel gaan uitmaken van een geautomatiseerd  
+red flag-systeem. Zie ook paragraaf 1.3.3 .
+7.1.4  Doormeldredenen verdachte transacties
+Tabel 5: Doormeldreden verdachte transacties in 2010-2012
+2010 2011 2012
+Doormeldreden Aantal Aandeel in totaal Aantal Aandeel in totaal Aantal Aandeel in totaal
+VROS 15.505 51% 11.541 50% 9.485 40%
+Eigen onderzoek 9.498 31% 8.224 35% 7.852 33%
+LOvJ 5.338 18% 3.375 15% 5.204 22%
+CJIB en BOOM 17 0% 84 0% 1.293 5%
+Totaal 30.358 100% 23.224 100% 23.834 100%
+22
+/ Ondanks de daling van het aantal VROS-doormeldingen, neemt het aantal VT’s enigszins toe in 2012.  
+Zo is in 2012 de keuze gemaakt De toename is gerelateerd aan een stijging van het aantal doormeldingen op grond van LOvJ-verzoeken 
+om binnenkomende OT’s en de match met CJIB- en BOOM-bestanden. Het aantal BOOM-doormeldingen stijgt van 2 in 2011 naar 
+alleen nog automatisch te 104 in 2012. Dit aantal stijgt fors, omdat het aantal subjecten dat BOOM heeft aangeleverd, is gestegen  
+matchen met de meest recente en omdat de kwaliteit van de aangeleverde data sterk verbeterd is. Het aantal doormeldingen naar 
+subjectgegevens uit lopende aanleiding van de match met CJIB-bestanden neemt toe van 82 in 2011 naar 1.189 in 2012. De stijging  
+onderzoeken (MRO-subject van het aantal CJIB-doormeldingen, is het resultaat van nieuwe afspraken tussen de FIU-Nederland en  
+lijsten). Hiermee richt de het CJIB, waarbij laatstgenoemde de FIU-Nederland heeft verzocht vaker te matchen met haar gegevens-
+FIU-Nederland haar capaciteit bestanden. In 2012 heeft de FIU-Nederland meerdere malen een bestand ontvangen van het CJIB en 
+op het aansluiten bij lopende hierop een match uitgevoerd. De daling van het aantal VROS-doormeldingen heeft niet zozeer te maken 
+onderzoeken. Hierdoor is  met het gebrek aan potentiële VT’s, maar met een gebrek aan capaciteit binnen de FIU-Nederland. 
+de kans dat het FIU- Hierdoor moet de FIU-Nederland scherpe keuzes maken en kan zij niet alle mogelijke matches uitvoeren 
+ 22
+onderzoeksdossiers door en uitwerken /. De prioriteit ligt voor de FIU-Nederland bij leveren van kwalitatieve onderzoeksdossiers 
+opsporingspartners wordt waarvan zeker is dat deze voorzien in een behoefte van een opsporingsinstantie zodat er meer kans is  
+opgepakt groter. dat deze daadwerkelijk wordt opgepakt. 
+Terug naar inhoudsopgave 53                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+7.1.6  Verdachte transacties per sector
+Tabel 7: Verdachte transacties per sector in 2010-2012
+Niet-money transfers
+2010 2011 2012
+Sector Aantal Aandeel in subtotaal Aantal Aandeel in subtotaal Aantal Aandeel in subtotaal
+23
+Banken / 3.169 64% 1.648 45% 788 30%
+Wisselinstellingen 409 8% 683 19% 731 28%
+Vrije beroepsbeoefenaars 500 10% 289 8% 384 15%
+Handelaren 418 8% 477 13% 250 10%
+Overheid 113 2% 86 2% 216 8%
+Casino’s 303 6% 354 10% 182 7%
+Creditcardmaatschappijen 71 1% 114 3% 23 1%
+Administratiekantoor 0 0% 0 0% 7 0%
+Levensverzekeraars 2 0% 0 0% 1 0%
+Payment Service Provider 0 0% 0 0% 1 0%
+Overige handelaren 2 0% 2 0% 0 0%
+Effectenbemiddelaars 1 0% 0 0% 0 0%
+Assurantietussenpersonen 0 0% 0 0% 0 0%
+Beleggingsinstellingen 0 0% 0 0% 0 0%
+Financieringsmaatschappijen 0 0% 0 0% 0 0%
+Subtotaal niet-money transfers 4.988 100% 3.653 100% 2.583 100%
+Money transfers
+2010 2011 2012
+Sector Aantal Aandeel in subtotaal Aantal Aandeel in subtotaal Aantal Aandeel in subtotaal
+Wisselinstellingen 18.807 74% 15.502 79% 19.023 90%
+Banken 6.563 26% 4.069 21% 2.228 10%
+Subtotaal money transfers 25.370 100% 19.571 100% 21.251 100%
+     
+Eindtotaal 30.358 23.224 23.834
+*Door afronding telt het totaal niet exact op tot 100%.
+Voor het tweede opeenvolgende jaar loopt het aantal verdachte bankmeldingen sterk terug (zie sectie 
+7.3.2.1 voor de duiding van deze ontwikkeling). Desondanks blijft de bankensector koploper wanneer 
+het gaat om verdachte niet-money transfer-transacties. Het aantal VT’s van wisselinstellingen stijgt 
+23
+/ daarentegen voor het tweede opeenvolgende jaar. Deze stijging heeft te maken met het gerichte 
+Bij de banken gaat het deels  onderzoek dat de FIU-Nederland uitvoert op de meldingen van het gebruik van prepaidcards, wat leidt 
+om samengestelde meldingen tot veel VT’s. Ook de VROS-match levert een groot aantal verdachte prepaidcardtransacties op. Het 
+in plaats van afzonderlijke aantal doormeldingen van handelarentransacties is sterk teruggelopen in 2012 (-48%), evenals het 
+verdachte transacties. Zie aantal doormeldingen van casino-transacties (-49%). Het aantal verdachte money transfer-meldingen 
+paragraaf 7.3.2.1 voor een blijft – ondanks de sterke toename van het aantal meldingen – ongeveer gelijk. Meer informatie over 
+verdere toelichting. deze ontwikkelingen is opgenomen in de daaraan toegewijde paragrafen verderop in dit hoofdstuk.
+Terug naar inhoudsopgave 55                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Tabel bij figuur 2
+Politieregio Nummer op kaart 2010 2011 2012
+Groningen 1 352 203 135
+Friesland 2 249 77 314
+Drenthe 3 75 34 35
+IJsselland 4 471 132 125
+Twente 5 243 170 120
+Noord- en Oost-Gelderland 6 100 121 37
+Gelderland-Midden 7 365 337 539
+Gelderland-Zuid 8 398 330 363
+Utrecht 9 1.125 1.047 1.131
+Noord-Holland-Noord 10 349 229 383
+Zaanstreek-Waterland 11 127 114 90
+Kennemerland 12 1.487 937 648
+Amsterdam-Amstelland 13 11.399 7.503 7.394
+Gooi en Vechtstreek 14 262 62 103
+Haaglanden 15 3.077 2.594 2.733
+Hollands Midden 16 247 220 198
+Rotterdam-Rijnmond 17 5.871 5.923 6.436
+Zuid-Holland-Zuid 18 150 86 62
+Zeeland 19 115 86 73
+Midden- en West-Brabant 20 968 730 818
+Brabant-Noord 21 387 195 185
+Brabant-Zuid-Oost 22 619 891 691
+Limburg-Noord 23 345 198 172
+Limburg-Zuid 24 662 321 534
+Flevoland 25 495 539 411
+* 99% van de VT’s kon op basis van de transactieplaats worden toegekend aan een regio. 1% van de transacties was vanwege een niet of 
+slecht aangeleverde plaatsnaam, niet te koppelen aan een regio.
+Een grote procentuele stijging tekent zich af ten aanzien van de regio Friesland. In 2012 is het aantal 
+VT’s ten aanzien van deze regio haast verviervoudigd. Deze forse toename is gerelateerd aan vijf 
+verschillende dossiers, die 22 tot 63 VT’s omvatten. Drie dossiers betreffen doormeldingen naar 
+aanleiding van een match met het VROS-register. Twee andere dossiers betreffen doormeldingen  
+naar aanleiding van LOvJ-verzoeken. De verzoeken zijn gedaan in het kader van een onderzoek naar 
+bijstandsfraude en heling. De stijging van het aantal doormeldingen van VT’s in Friesland, valt samen 
+met een relatief grote toename van het aantal LOvJ-verzoeken dat wordt ingediend vanuit deze regio, 
+dat stijgt van 12 in 2011 naar 19 in 2012. Hetzelfde geldt voor de regio Gelderland-Midden, vanuit waar 
+het aantal LOvJ-verzoeken stijgt van 11 naar 16. Een groter aantal LOvJ-verzoeken leidt niet per se tot 
+een groter aantal VT’s in een regio. Dit is zichtbaar bij de regio Utrecht, waar het aantal verzoeken  
+steeg van 36 in 2011 naar 64 in 2012 (+78%), maar het aantal VT’s stijgt met ‘slechts’ 8%. Hier kunnen 
+verschillende redenen voor zijn. Ten eerste leidt niet elk subject dat voorkomt in een LOvJ-verzoek tot 
+een hit met de FIU-database. Daarnaast is het mogelijk dat wel sprake is van een hit, maar dat het in 
+meerdere mate gaat over transacties die in andere regio’s zijn uitgevoerd, waardoor het geen of weinig 
+effect heeft op het aantal VT’s dat in een regio wordt uitgevoerd. Zie voor het aantal LOvJ-verzoeken 
+paragraaf 7.1.8.
+Terug naar inhoudsopgave 57                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+de regio Haaglanden, waar het aantal verzoeken weer is gestegen tot het niveau van 2010. Een sterke 
+daling van het aantal verzoeken is echter zichtbaar bij de regio IJsselland. Hetzelfde geldt voor de regio 
+Kennemerland, waar sprake is van een dalende trend. Vanuit deze regio wordt aangegeven dat deze 
+daling vermoedelijk te maken heeft met een interne reorganisatie. Ook is het aantal LOvJ-verzoeken 
+vanuit Amsterdam-Amstelland de laatste jaren afgenomen. De verklaring hiervoor is meerledig.  
+Ten eerste begeleidt de FIU-Nederland de regio minder intensief dan voorheen bij het opstellen van  
+de verzoeken. Dit heeft vermoedelijk geleid tot een afname van het aantal verzoeken. Daarnaast krijgt 
+de FIU-Nederland signalen, dat medewerkers van Amsterdam-Amstelland meer gebruik zijn gaan 
+maken van BlueView. Omdat in BlueView de VT-informatie direct toegankelijk is, hoeven zij dan  
+geen (of minder) LOvJ-verzoeken meer in te dienen. Ten slotte lijken zij ook sneller te opteren voor  
+een verzoek van uitlevering van stukken op grond van artikel 126nd Wetboek van Strafvordering bij 
+money transfer-instellingen, waardoor de opsporing de informatie rechtstreeks bij de bron verkrijgt. 
+Hierdoor ontvangt de FIU-Nederland dus minder verzoeken vanuit Amsterdam-Amstelland. 
+Het aantal verzoeken dat wordt ingediend vanuit het KLPD is sterk gestegen en is in 2012 weer terug op  
+het niveau van enkele jaren eerder. Vanuit het BOOM heeft de FIU-Nederland voor het eerst sinds jaren 
+LOvJ-verzoeken ontvangen.
+7.1.9  Bedragen verdachte transacties
+Het bedrag dat is gemoeid met de VT’s daalt in 2012 met ruim 73 miljoen euro. De daling wordt 
+veroorzaakt door de afname van het aantal verdachte bankmeldingen (-197,5 miljoen euro). Met 
+bankmeldingen zijn dikwijls grote bedragen gemoeid, dus een afname van het aantal VT’s in deze 
+sector heeft gevolgen voor het totaalbedrag. Bij andere sectoren is een stijging te zien van de bedragen, 
+zoals bij de verdachte overheidsmeldingen (+108,8 miljoen euro) en verdachte accountantmeldingen 
+(+53,7 miljoen euro). Het hoge bedrag bij de verdachte overheidsmeldingen wordt veroorzaakt door 
+één individuele transactie waar een groot bedrag mee is gemoeid. Het gaat om een melding van de 
+Belastingdienst, over omvangrijke geldstromen binnen een vennootschapsstructuur waarbij iemand 
+betrokken is die verdacht wordt van witwassen. Hetzelfde geldt voor de verdachte accountantmeldingen. 
+Wanneer een knip wordt gemaakt bij bedragen van 1 miljoen euro en hoger, is in 2012 0,4% van de VT’s 
+verantwoordelijk voor 75,7% van het totale bedrag van de VT’s. In 2011 is 0,6% van de VT’s verantwoordelijk 
+voor 69,7% van het totale bedrag van de VT’s. 
+Graefi k 3: Bedrag (in € ) gemoeid met verdachte uitgevoerde transacties in 2010-2012 
+1.200.000.000
+961.782.000
+1.000.000.000
+757.414.000 683.669.000
+800.000.000
+600.000.000
+400.000.000
+200.000.000
+0
+ 2010 2011 2012
+Niet-money transfers
+ 921.415.500 727.917.000 654.645.500
+Money transfers
+ 40.366.500 29.497.000 29.023.500
+7.2  Kengetallen money transfers
+In onderstaande paragrafen wordt nader ingegaan op de belangrijkste ontwikkelingen binnen de 
+money transfersector. Er zal onder andere worden ingegaan op het totaal aantal OT’s en VT’s binnen 
+deze sector, de bijbehorende bedragen, de verhoudingen tussen objectieve en subjectieve meldingen 
+en de belangrijkste geldstromen. 
+Terug naar inhoudsopgave 59                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Grafiek 4: Ongebruikelijke money transfers in 2010-2012
+183.816
+200.000
+174.418
+180.000
+145.629
+160.000
+140.000
+120.000
+100.000
+80.000
+60.000
+40.000
+20.000
+0
+ 2010 2011 2012
+Objectief
+ 57.558 56.795 54.078
+Subjectief
+ 116.860 88.834 129.738
+In 2012 zijn 21.251 money transfers verdacht verklaard, zo valt af te leiden uit grafiek 5.  
+Er is ten opzichte van 2011 sprake van een stijging van 9%.
+Grafiek 5: Verdachte money transfers in 2010-2012
+25.370
+30.000
+21.251
+25.000
+19.571
+20.000
+15.000
+10.000
+5.000
+0
+ 2010 2011 2012
+Objectief 8.260 5.880 5.350
+Subjectief 17.110 13.691 15.901
+7.2.2   Bedragen verdachte money transfers
+In tabel 9 zijn de totaalbedragen en de gemiddelde bedragen weergegeven, die zijn gemoeid met de 
+uitgevoerde, verdachte money transfers in de periode 2010-2012. Bedragen die gemoeid zijn met de 
+voorgenomen transacties blijven buiten beschouwing. Ondanks de toename van het aantal verdacht 
+verklaarde uitgevoerde money transfers is het totaalbedrag iets gedaald ten opzichte van 2011. Hiermee 
+komt ook het gemiddelde bedrag per transactie lager te liggen. Vanwege het grotere aandeel subjectieve 
+meldingen zijn er ook meer subjectieve money transfers doorgemeld (zie ook grafiek 5). De bedragen 
+hiervan liggen aanzienlijk lager dan bij de doorgemelde objectieve money transfers. Het overgrote deel 
+van de subjectieve meldingen ligt immers onder de meldgrens van 2000 Euro. Ter illustratie: bij de 
+subjectieve doorgemelde transacties gaat het om een gemiddeld bedrag van bijna 800 euro, bij de 
+objectieve doorgemelde transacties om ruim 3.000 euro per transactie. 
+Tabel 9: Totaalbedrag en gemiddeld bedrag uitgevoerde verdachte money transfers in 2010-2012
+2010 2011 2012
+Totaalbedrag (in € ) 40.366.500 29.497.000 29.023.500
+Aantal uitgevoerde money transfers 25.104 19.434 21.156
+Gemiddeld bedrag (in € ) 1.608 1.518 1.372
+Terug naar inhoudsopgave 61                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+transfer. Libië komt veelal naar voren bij interne analyses van wisselinstellingen in relatie tot risico-
+landen. Meer specifiek wordt regelmatig een patroon geconstateerd waarbij een begunstigde in 
+Nederland op dezelfde dag of binnen een korte tijdsperiode van opeenvolgende dagen meerdere 
+transacties ontvangt van meerdere opdrachtgevers die op het eerste oog geen relatie met elkaar 
+hebben. De FIU-Nederland heeft deze ontwikkeling geconstateerd, maar er nog geen verklaring voor 
+kunnen vinden. Het aandeel verdacht verklaarde inkomende transacties vanuit Libië is vooralsnog 
+laag. De VROS-match levert tot nu toe weinig tot geen resultaat. De FIU-Nederland verricht momenteel 
+verder onderzoek naar deze meldingen. 
+Tabel 11: Top-10 landen van ongebruikelijke uitgevoerde money transfers 2012
+Ongebruikelijk Aantal uitgevoerd Bedrag (in €)
+Vanuit Nederland 82% 81%
+Bestemming top-10 Turkije 15.078 50.875.500
+Marokko 10.811 30.228.000
+Dominicaanse Republiek 10.783 8.767.000
+China 8.886 24.723.000
+Suriname 8.829 8.567.500
+Ghana 5.889 4.473.000
+Colombia 5.384 5.688.000
+Filippijnen 4.790 5.182.000
+Nigeria 4.681 2.513.500
+Hongarije 4.550 1.303.500
+Naar Nederland 17% 18%
+Herkomst top-10 Turkije 2.198 5.291.000
+Verenigde Staten 2.027 2.031.500
+Zwitserland 1.917 1.956.500
+Groot Brittannië 1.790 2.517.500
+Frankrijk 1.776 3.043.500
+Duitsland 1.564 2.462.000
+Italië 1.402 1.175.500
+Spanje 1.319 2.030.500
+Libië 732 513.500
+Rusland 728 1.545.000
+De verdacht verklaarde money transfers in tabel 12 laten een nagenoeg gelijke procentuele verdeling 
+zien over de verschillende geldstromen. 81% van het aantal verdachte money transfer meldingen gaat 
+over transacties vanuit Nederland naar het buitenland, 16% betreft transacties vanuit het buitenland 
+naar Nederland en de resterende 3% zijn money transfers binnen Nederland. 
+De top-4 bestemmingslanden van verdachte money transfers is exact gelijk gebleven. Het aantal 
+verdacht verklaarde money transfers van Nederland naar Hongarije is bijna verdubbeld vanwege het 
+eerder genoemde opsporingsonderzoek naar mensenhandel en witwassen. Roemenië is weer terug in 
+de top-10 en qua aantallen vergelijkbaar met de aantallen VT’s uit 2010. De helft van de verdachte 
+money transfers richting Roemenië is verdacht verklaard op basis van eigen onderzoek. Zo is er onder 
+andere een groot dossier met ruim 200 transacties doorgemeld in relatie tot mensenhandel. Een ander 
+groot dossier (bijna 100 transacties) houdt verband met diefstal bij bedrijven (mobiel banditisme). 
+Ecuador is nieuw in de top-10. Ongeveer tweederde van de VT’s heeft de FIU-Nederland verdacht 
+verklaard op basis van haar eigen onderzoek. In totaal zijn bijna 40 dossiers opgemaakt waarvan het 
+grootste deel verband houdt met de handel in verdovende middelen.
+Terug naar inhoudsopgave 63                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Grafiek 6: Ongebruikelijke transacties niet-money transfers in 2010-2012
+25.423
+30.000
+22.459 21.610
+25.000
+20.000
+15.000
+10.000
+5.000
+0
+ 2010 2011 2012
+Het aandeel ongebruikelijke niet-money transfers dat wordt gemeld op basis van een objectieve 
+indicator, is in 2012 toegenomen: was de verhouding objectieve-subjectieve meldingen in 2010  
+nog 40%-60%, in 2011 steeg het aandeel objectieve meldingen naar 45% en in 2012 stijgt dit aandeel  
+naar 51%. Dit toegenomen aandeel kan grotendeels worden verklaard uit het toegenomen aantal 
+Douane- en handelarenmeldingen, welke voornamelijk objectief worden gemeld.
+In 2012 zijn 2.583 niet-money transfers verdacht verklaard (zie grafiek 7). In vergelijking met het  
+jaar ervoor is dit een afname van bijna 30%. Deze algehele daling van de VT’s hangt samen met de  
+vermindering van het aantal doormeldingen in de meldgroepen banken, casino’s en handelaren.  
+Vanaf paragraaf 7.3.2 wordt hier dieper op ingegaan.
+Grafiek 7: Verdachte transacties niet-money transfers 2010-2012
+6.000
+4.988
+5.000
+3.653
+4.000
+2.583
+3.000
+2.000
+1.000
+0
+ 2010 2011 2012
+Tabel 13 geeft weer op basis van welke doormeldredenen de meldingen (exclusief money transfers) 
+verdacht zijn verklaard. 
+Tabel 13: Doormeldredenen verdachte transacties niet-money transfers in 2010-2012
+2010 2011 2012
+Doormeldreden Aantal Aandeel in totaal Aantal Aandeel in totaal Aantal Aandeel in totaal
+VROS 2.910 58% 1.400 38% 983 38%
+eigen onderzoek 1.340 27% 1.436 39% 1.030 40%
+LOvJ 737 15% 814 22% 516 20%
+CJIB en BOOM 1 0% 3 0% 54 2%
+Totaal 4.988 100% 3.653 100% 2.583 100%
+* Door afronding telt het totaal niet exact op tot 100%
+Terug naar inhoudsopgave 65                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Het grote aantal meldingen in 2010 vormde een trendbreuk met de voorgaande jaren. Deze toename 
+werd veroorzaakt door het hoge aantal meldingen afkomstig van één grootmelder. In 2011 volgde er een 
+daling, doordat de drie grootbanken minder zijn gaan melden. Ook in 2012 heeft de FIU-Nederland, ten 
+opzichte van 2011, 26% minder meldingen (excl. money transfers) van bancaire instellingen ontvangen. 
+Uit analyse van de bankmeldingen blijkt dat deze opvallende daling voor een belangrijk deel toe  
+te schrijven is aan een grootmelder die in het verleden juist relatief veel meldingen deed bij de 
+FIU-Nederland. Deze grootmelder heeft in 2012, in ongeveer 40% van de gevallen, samengestelde 
+26
+26
+/ meldingen / gedaan. Een samengestelde melding kan uit een veelvoud van OT’s bestaan, waardoor  
+27
+Onder een samengestelde de FIU-Nederland geen goede tellingen op transactieniveau kan uitvoeren /. FIU-Nederland heeft 
+melding wordt verstaan dat  geconstateerd dat meerdere banken, mogelijk meer dan voorheen, hun meldingen op deze wijze 
+in het vrije tekstveld van de hebben gedaan, waardoor de tellingen van de FIU-Nederland over de jaren heen mogelijk minder  
+transactiebeschrijving van  goed te vergelijken zijn. Omdat dit echter niet in totaliteit deze sterke daling lijkt te verklaren, zal de 
+het meldformulier meerdere FIU-Nederland in 2013 in gesprek gaan met de banken en de toezichthouder om deze ontwikkelingen 
+transacties worden omschreven, nader te duiden en de samenwerking te versterken. Tijdens deze gesprekken zal ook specifiek aandacht 
+in plaats van dat deze worden geschonken aan het doen van samengestelde meldingen, zodat de complicaties die hiermee 
+transacties in afzonderlijke geassocieerd zijn (zie voetnoot 27) ondervangen kunnen worden.
+meldingen zijn vastgelegd en 
+gemeld aan de FIU-Nederland. Het aantal bankmelders is in de periode 2010-2012 iets toegenomen: in 2010 ontving de FIU-Nederland 
+meldingen van 26 banken, in 2011 waren dit er 28 en in 2012 steeg het aantal naar 35 melders. Het aandeel 
+27
+/ van de top 3-grootbanken blijft in deze periode vrijwel gelijk (ca. 88%). 
+Samengestelde meldingen 
+kunnen leiden tot de volgende Het soort transacties waarvan banken melding doen, staat weergegeven in tabel 14. 
+complicaties:  
+1)   het gemelde bedrag komt Tabel 14: Bankmeldingen per soort transactie in 2010-2012
+niet altijd overeen met het 
+totaalbedrag van de Soort transactie 2010 2011 2012
+afzonderlijke transacties Storting op rekening 4.778 3.926 2.964
+behorende bij deze melding; Girale overboeking 2.702 1.028 852
+2)  er kan essentiële informatie Opname van rekening 572 745 627
+ontbreken doordat er in het Overige wijze 341 254 199
+vrije tekstveld wordt Chartaal overig 236 414 83
+verwezen naar eerdere VV-aankoop door melder 101 54 57
+transacties die niet nader in Wisseltransactie 53 24 40
+de melding worden Geldautomaatstorting 11 24 0
+gespecificeerd; en Eindtotaal 8.794 6.469 4.822
+3)  de vrije tekstvelden van de 
+meldformulieren zijn lastig te 
+analyseren met behulp van Wat opvalt, is dat de meldingen van stortingen op rekening en girale overboekingen afnemen. De meeste 
+geautomatiseerde bankmeldingen hebben betrekking op contante transacties. De meest voorkomende contante transactie 
+analysetechnieken. Hierdoor betreft een storting op rekening. Van deze transactiesoort zijn in 2012 bijna 1.000 meldingen minder 
+ontstaat het risico dat ontvangen, wat neerkomt op een daling van ongeveer 25%. Ook het aantal girale overboekingen neemt 
+relevante transactie-infor- verder af in 2012. 
+matie niet in beeld komt 
+waardoor de OT’s behorende Het aantal verdacht verklaarde meldingen van banken is fors gedaald in 2012, met 52% ten opzichte van 
+tot deze samengestelde 2011 (zie grafiek 9). Ook is het bedrag dat ermee gemoeid is gedaald. Deze daling zal in de bovengenoemde 
+melding niet of minder besprekingen met de banksector worden meegenomen. Ook hier geldt echter dat het deels samengestelde 
+makkelijk verdacht kunnen meldingen van banken betreft in plaats van afzonderlijke transacties, waardoor er een vertekend beeld 
+worden verklaard. kan ontstaan. 
+Terug naar inhoudsopgave 67                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Het aantal niet-money transfers dat is gemeld door wisselinstellingen in de periode 2010-2012 wordt 
+getoond in grafiek 10. 
+Grafiek 10: Ongebruikelijke transacties wisselinstellingen niet-money transfers in 2010 - 2012
+5.155
+6.000
+5.000
+4.000
+2.915
+3.000
+1.758
+2.000
+1.000
+0
+ 2010 2011 2012
+In 2012 is het aantal meldingen opnieuw gestegen, van 2.915 in 2011 naar 5.155. Deze stijging van meer 
+dan 75% kan worden toegeschreven aan het toegenomen gebruik van prepaidcards. Deze prepaidcards 
+kunnen, eenmaal opgeladen, worden gebruikt voor betalingen in (web)winkels en voor opnamen bij 
+geldautomaten. De opgeladen kaarten kunnen ook eenvoudig verplaatst worden naar het buitenland, 
+alwaar het geld vervolgens wordt uitgegeven. Anders dan bij het in-, door- en uitvoeren van contanten, 
+29
+/ hoeft men bij het betreden of verlaten van de Europese Unie geen aangifte te doen bij de Douane van 
+In het Jaaroverzicht 2011 stond een opgeladen prepaidcard. De FIU-Nederland heeft in 2011 ongeveer 1.800 meldingen over prepaid-
+29
+aangegeven dat het aantal cards / ontvangen, waarmee 1,6 miljoen euro mee gemoeid was. Dit jaar steeg het aantal prepaidcard-
+meldingen dat gerelateerd  gerelateerde meldingen naar bijna 4.000. Deze hebben een gezamenlijke waarde van 3,1 miljoen euro.
+kon worden aan prepaidcards 
+ruim 900 betrof. Uit nadere Wat eveneens opvalt, is de afname van het aantal wisseltransacties. Werden er in 2010 nog 561 
+analyse blijkt dat een groot wisselingen gemeld, in 2011 betroffen dit er 293 en in 2012 waren dit er nog maar 82. De oorzaak van 
+aantal prepaidcard-meldingen deze afname wordt nader onderzocht.
+onder een onjuiste categorie 
+zijn gemeld, waardoor ze 96% van de meldingen van wisselinstellingen wordt gemeld onder de subjectieve indicator. Het aantal 
+aanvankelijk niet als zodanig wisselinstellingen dat melding doet van niet-money transfers neemt in de periode 2010-2012 enigszins 
+werden aangemerkt. Hierdoor toe, van 9 in 2010 naar 12 in 2012. 
+bleken in 2011 niet 900 
+meldingen te zijn ontvangen, Grafiek 11 toont het aantal VT’s van de wisselinstellingen (niet-money transfers) over de periode 
+maar bijna 1.800. 2010-2012. 
+Grafiek 11: Verdachte transacties wisselinstellingen niet-money transfers in 2010-2012
+731
+800
+683
+700
+600
+409
+500
+400
+300
+200
+100
+0
+ 2010 2011 2012
+Terug naar inhoudsopgave 69                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Het aantal VT’s van casinovestigingen is in 2012 fors afgenomen, zo blijkt uit grafiek 13. Het is bijna 
+gehalveerd ten opzichte van 2011. Deze forse afname kan worden verklaard uit het feit dat er in 2012 
+minder (subjectieve) meldingen zijn gedaan. Met name het aantal en het aandeel doormeldingen naar 
+aanleiding van de VROS-match is aanzienlijk gedaald; waren dit in 2011 194 VT’s (ca. 55% van het totaal), 
+in 2012 betroffen dit er nog maar 40 van de 182 VT’s (22%).
+Grafiek 13: Verdachte transacties casino’s in 2010 -2012
+354
+400
+303
+350
+300
+250
+182
+200
+150
+100
+50
+0
+ 2010 2011 2012
+7.3.2.4   Creditcardmaatschappijen
+Indien een klant een betaling doet van €15.000 of meer, of een dergelijk bedrag in contanten op zijn 
+creditcardrekening stort, dient een creditcardinstelling hier melding van te doen. Daarnaast kunnen 
+creditcardmaatschappijen ook subjectieve meldingen doen. Grafiek 14 toont het aantal meldingen  
+van creditcardinstellingen voor de periode 2010-2012. 
+Grafiek 14: Ongebruikelijke transacties creditcardmaatschappijen in 2010-2012
+1.444 1.474
+1.600
+1.316
+1.400
+1.200
+1.000
+800
+600
+400
+200
+0
+ 2010 2011 2012
+In 2012 is het aantal OT’s licht gestegen in vergelijking met het jaar daarvoor. Vrijwel alle meldingen 
+van creditcardmaatschappijen worden gedaan op basis van een objectieve indicator.
+De FIU-Nederland heeft in 2012 bijgedragen aan een paper gericht op de meldplicht van creditcard-
+maatschappijen en de witwasrisico’s bij creditcardbetalingen. In 2013 zal de discussie over de objectieve 
+en subjectieve meldplicht binnen deze meldgroep worden voortgezet en wordt het contact met de 
+branche geïntensiveerd.
+Terug naar inhoudsopgave 71                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+7.3.3   Handelaren
+Bij de meldgroep handelaren wordt er een onderscheid gemaakt tussen de handelaren in zaken van 
+30
+grote waarde (voertuigen, edelmetalen, vaartuigen, antiek en kunst) en de overige handelaren. /  
+De ongebruikelijke en verdachte handelarenmeldingen worden getoond in tabel 17.
+Tabel 17: Ongebruikelijke en verdachte transacties handelaarsector in 2010-2012
+2010 2011 2012
+Handelaren in Ongebruikelijk Verdacht Ongebruikelijk Verdacht Ongebruikelijk Verdacht
+Voertuigen 4.078 393 3.750 458 4.334 238
+Edelmetalen 32 12 99 10 798 8
+Vaartuigen 86 13 39 7 37 4
+Kunst- en antiekhandel 7 0 2 2 1 0
+subtotaal 4.203 418 3.890 477 5.170 250
+ 
+Overige Handelaren 34 2 67 2 58 0
+Totaal 4.237 420 3.957 479 5.228 250
+30
+/
+Voor zowel “handelaren in In 2012 is het aantal meldingen van handelaren met 32% gestegen. Dit komt doordat de voertuigen- 
+zaken van grote waarde” als handelaren en de edelmetaalhandelaren fors meer zijn gaan melden. Met name in deze laatste 
+“overige handelaren” geldt een categorie stijgt het aantal meldingen van 99 in 2011 naar 798 in 2012. Dit is waarschijnlijk het gevolg 
+subjectieve meldplicht, indien van intensiever toezicht van BHM op de edelmetaalhandelaren. Het aantal meldende edelmetaal- 
+de contante betaling bij verkoop handelaren is in twee jaar tijd gestegen van 12 melders in 2010 naar 40 melders in 2012. Een verklaring 
+EUR 15.000 meer bedraagt. voor het relatief lage aantal VT’s in de goudhandel kan zijn dat de diverse melders hun goud verkopen 
+aan professionele instanties (groothandel, smelterijen, etc.) die goed bekend staan. Omdat er contant 
+Alleen handelaren in zaken van wordt betaald in deze sector, vallen de transacties onder de meldplicht. Tot op heden zijn er geen 
+grote waarde hebben ook een redenen geweest om deze transacties veelvuldig verdacht te verklaren, mede omdat het grootste 
+objectieve meldplicht indien de gedeelte van deze transacties pas in het laatste kwartaal van 2012 zijn gemeld. 
+contante betaling bij verkoop 
+EUR 25.000 of meer bedraagt. Binnen de voertuigenhandel is sprake van een toename van het aantal melders. Het aantal meldingen  
+Het komt echter regelmatig van vaartuighandelaren is rond hetzelfde niveau gebleven als het jaar ervoor. De piek in 2010 werd 
+voor dat “overige handelaren” veroorzaakt door één melder van wie dat jaar 51 meldingen zijn ontvangen.
+transacties melden op basis  
+van het objectieve feit dat er 
+een contante verkoop van  
+EUR 15.000 of meer heeft 
+plaatsgevonden en er dus geen 
+sprake is van een vermoeden 
+van witwassen. Dit valt niet 
+onder de meldplicht.
+Bovendien is een onderneming 
+alleen een meldplichtige 
+instelling als er een verkoop van 
+goederen plaatsvindt. De 
+aankoop van goud en/of metaal 
+door een handelaar is dus niet 
+meldplichtig.
+Terug naar inhoudsopgave 73                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Over het algemeen neemt het aantal OT’s van vrije beroepsbeoefenaars na de afname van 2011 weer toe. 
+Ook het aantal vrije beroepsbeoefenaars dat melding doet bij de FIU-Nederland stijgt in 2012 (tabel 20).
+In 2010 werden er met name door accountants en belastingadviseurs veel meldingen gedaan die 
+samenhingen met (het aflopen van) de inkeerregeling. In de twee jaren daarna neemt het aantal 
+gemelde transacties én het aantal melders binnen deze beroepsgroepen aanzienlijk af. Van de 
+belastingadviseurs is het aantal meldingen in 2012 wel weer licht gestegen van 35 in 2011 naar 46.
+Van makelaars, notarissen en administratiekantoren zijn in 2012 fors meer meldingen ontvangen.  
+Het aantal meldingen van makelaars is gestegen van 23 in 2011 naar 39 OT’s in 2012. Opvallend is dat  
+er een groot aantal nieuwe melders is bijgekomen: in 2010 en 2011 maakten 6 makelaars melding van 
+OT’s, terwijl dit er in 2012 maar liefst 23 waren, waarvan 21 nieuwe melders. De FIU-Nederland is zeer 
+verheugd met deze ontwikkeling. De toezichtsbezoeken van de BHM; de voorlichtingsactiviteiten van 
+de FIU-Nederland en de inzet van de brancheverenigingen voor makelaars hebben kennelijk hun 
+vruchten afgeworpen. Daarbij heeft de FIU-Nederland samen met de toezichthouder en de branche-
+verenigingen een nieuw informatieblad met praktijkvoorbeelden en duidelijke witwasindicatoren  
+voor makelaars gepubliceerd, welke door de brancheverenigingen zijn verspreid onder al hun leden. 
+Het aantal notarismeldingen is toegenomen met ongeveer 23%. Deze toename is herleidbaar naar twee 
+notariskantoren die naar aanleiding van een bezoek van het BFT gezamenlijk 187 OT’s hebben gemeld 
+bij de FIU-Nederland. Hiervan heeft FIU-Nederland bijna de helft in 2012 kunnen doormelden naar de 
+opsporing. In 2012 hebben meer notarissen meldingen verricht dan in de jaren ervoor (zie tabel 20). 
+De FIU-Nederland organiseerde in 2010 een relatiedag voor de trustmaatschappijen en in 2011 is er een 
+nieuw informatieblad voor deze meldgroep uitgegeven. In 2012 zijn er nieuwe melders bijgekomen. 
+Uit tabel 19 kan worden afgeleid dat het aantal meldingen van trustmaatschappijen is toegenomen van 
+26 naar 38 meldingen. Een groot deel van de meldingen is echter afkomstig van dezelfde melder en 
+heeft betrekking op dezelfde subjecten. 
+Door wijzigingen in de Wtt (Wet toezicht trustkantoren) valt het enkel domicilie verlenen in combinatie 
+met receptiewerkzaamheden niet langer onder deze wet. Dit kan zorgen voor een verplaatsingseffect, 
+waarbij mogelijk een beroep wordt gedaan op de dienstverlening van andere meldplichtige instellingen 
+onder de Wwft, zoals administratiekantoren, belastingadviseurs en bedrijfsverzamelgebouwen.  
+Deze laatste meldgroep kan domicilie verlenen aan (buitenlandse) personen, rechtspersonen of 
+vennootschappen door een (post)adres ter beschikking te stellen. De administratiekantoren en 
+belastingadviseurs kunnen bijvoorbeeld opdracht krijgen om namens deze (buitenlandse) personen, 
+rechtspersonen of vennootschappen betalingen te verrichten, (buitenlandse) vennootschappen op te 
+richten of aangifte van vennootschapsbelasting te doen. Het is van belang dat administratiekantoren 
+en belastingadviseurs zich ervan bewust zijn dat ze benaderd kunnen worden voor het verlenen van 
+deze diensten.
+In 2012 heeft de FIU-Nederland 71 meldingen ontvangen van twintig verschillende administratiekantoren. 
+Dit is een aanzienlijke toename ten opzichte van voorgaande jaren. De meldingen van de administratie-
+kantoren hebben veelal betrekking op hetzelfde subject.
+De FIU-Nederland analyseert alle ontvangen transacties van vrije beroepsbeoefenaren, na de standaard 
+matching met politiedata, ook als deze matching geen hit oplevert. In 2012 zijn 391 transacties verdacht 
+verklaard (zie tabel 19). Dit betreft een stijging van 35% ten opzichte van 2011. Het aandeel van notaris- 
+en accountantsmeldingen binnen de VT’s is het grootst, maar dit is niet verwonderlijk aangezien dit de 
+grootste meldgroepen zijn. Het bedrag dat gemoeid is met uitgevoerde VT’s is in 2012 toegenomen van 
+150 miljoen euro naar ruim 155 miljoen euro, zo blijkt uit tabel 21. Voorgenomen transacties worden 
+hierbij buiten beschouwing gelaten, omdat deze uiteindelijk niet feitelijk hebben plaatsgevonden. 
+Meldingen van voorgenomen transacties kunnen daarentegen voor de FIU-Nederland relevante 
+informatie leveren over de intenties van een subject en daarmee de ongebruikelijkheid van de transactie. 
+Terug naar inhoudsopgave 75                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Tabel 22: Ongebruikelijke en verdachte transacties overheidssector in 2010-2012
+2010 2011 2012
+Sector Ongebruikelijk Verdacht Ongebruikelijk Verdacht Ongebruikelijk Verdacht
+Douane – Aangifte liquide middelen 3.127 58 4.105 55 6.278 171
+Douane – Overig 154 32 157 17 431 29
+Belastingdienst / FIOD 37 23 25 14 58 16
+Eindtotaal 3.319 113 4.287 86 6.767 216
+Wat opvalt is de aanzienlijke toename bij alle meldsectoren (tabel 22). Zo neemt het absolute aantal 
+aangiften van liquide middelen (Verordening 1889/2005) toe met bijna 53%. Deze toename wordt 
+grotendeels veroorzaakt doordat er meer aangiften van in-, uit- en doorvoer worden gedaan bij zeehavens. 
+Werden er hier in 2011 nog zo’n 765 meldingen van ontvangen, in 2012 betroffen dit er 1.920. Ook het 
+aantal aangiften bij luchthavens is toegenomen met ruim 30%. Deze toename hangt vermoedelijk samen 
+met de toegenomen bekendheid van reizigers met de aangifteplicht.
+Het aantal VT’s is ook toegenomen in 2012 naar 216. De voornaamste doormeldreden van Douanemeldingen 
+betreft de VROS-match. Tevens zijn er veel transacties doorgemeld naar aanleiding van een LOvJ-verzoek.
+De meldingen van contante uitvoer zijn het sterkst toegenomen in 2012, zo blijkt uit tabel 23. Dit hangt 
+samen met toegenomen aangiften bij zeehavens. Deze aangiften hebben in 80% van de gevallen betrekking 
+op de uitvoer van contant geld.
+Tabel 23: Vervoer van contanten in 2010-2012
+Soort melding 2010 2011 2012
+Contante uitvoer Nederland 806 1.149 2.801
+Contante doorvoer Nederland 931 1.130 1.096
+Contante invoer Nederland 1.390 1.826 2.381
+Totaal 3.127 4.105 6.278
+De Douane geeft aan dat zij niet bekend is met witwasrisico’s bij de maritieme aangiften, uitgevoerd door 
+vooral rederijen en scheepsagenten, en er daarom een minimale controle inspanning wordt verricht.  
+Voor het in kaart brengen van de herkomst- en bestemmingslanden worden om die reden alleen de 
+aangifteformulieren ingediend bij luchthavens meegenomen. In tabel 24, 25 en 26 wordt een top 5 gegeven 
+van de respectievelijk de herkomstlanden van de in- en doorvoer van contanten en de bestemmingslanden 
+van contante uitvoer via luchthavens. 
+Tabel 24: Top 5 herkomstlanden bij invoer contanten naar Nederland via luchthavens in 2012
+Rang Herkomst Aantal Totaalbedrag in € Gemiddeld bedrag in €
+1 Nigeria 386 45.484.000 117.835
+2 Ghana 234 8.530.000 36.453
+3 Egypte 213 7.353.000 34.522
+4 Georgië 155 2.632.000 16.979
+5 Libië 153 6.352.000 41.516
+Terug naar inhoudsopgave 77                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+Terug naar inhoudsopgave 79                   FIU-Nederland  |  Jaaroverzicht 2012 
+
+8 Casuïstiek
+Hongaars-Nederlands succes bij aanpak fraude bij internetbankieren I
+Op een vrijdagmiddag in juni 2012 werd de FIU-Nederland door de Hongaarse FIU geïnformeerd over 
+een verdachte girale overboeking afkomstig van een Nederlandse bankrekening. Het Hongaarse 
+meldpunt vond de binnenkomende transactie dermate verdacht, dat zij van haar bevoegdheid gebruik 
+maakte om het saldo van de rekening in kwestie te bevriezen. Het meldpunt kon het bedrag, ruim 
+13.000 euro, tot maandag op de Hongaarse Bank bevroren houden en verzocht de FIU-Nederland om 
+nader onderzoek in te stellen.
+De FIU-Nederland stelde vast dat er in Groningen aangifte van fraude bij internetbankieren was 
+gedaan. Terwijl de rekeninghouder drie dagen eerder aan het internetbankieren was, slaagden 
+fraudeurs er in om een inlogcode te bemachtigen. Ogenschijnlijk trad er een korte storing op waarna 
+korte tijd later bleek dat er meer dan 13.000 euro van de rekening was afgeboekt ten gunste van een 
+buitenlandse bankrekening.
+De FIU-Nederland en de FIU van Hongarije begeleidden de procedure, die de bevoegde autoriteiten  
+van beide landen af dienden te handelen waarna op zondagmiddag op verzoek van de Nederlandse 
+justitiële autoriteiten het bevroren geld formeel in beslag werd genomen. Door het snelle optreden 
+van alle betrokkenen kon voorkomen worden dat het bedrag in handen van de fraudeurs zou vallen.
+Hongaars-Nederlands succes bij aanpak fraude bij internetbankieren II
+Op 6 december 2012 werd een bedrag van 50.000 euro giraal op een zakelijke bankrekening bij een 
+bank in Hongarije bijgeschreven. De volgende ochtend nam een gemachtigde van de rekening bij de 
+bank 23.000 euro in contanten op. De Hongaarse bank vertrouwde het niet helemaal en informeerde 
+de FIU van Hongarije.
+De FIU-Hongarije bevroor hierop het saldo van de bankrekening en vroeg, na een eerste eigen 
+onderzoek, de FIU-Nederland om met spoed de overboeking vanuit Nederland te onderzoeken. 
+Dezelfde dag nog stelde de FIU-Nederland vast dat het om phishing ging, waarvan een bedrijf in  
+Gouda slachtoffer was geworden.
+De FIU-Nederland nam hierop contact op met politie Hollands-Midden om een snel justitieel gevolg  
+te realiseren. De volgende ochtend zou om 08.00 uur de termijn van bevriezing door de FIU van 
+Hongarije eindigen waardoor de fraudeurs in staat zouden zijn het saldo weg te sluizen. Nog diezelfde 
+dag zorgde het OM, ondersteund door de financieel-economische recherche van politie Hollands-
+Midden, er voor dat de Hongaarse justitiële autoriteiten een rechtshulp met de vraag tot formele 
+inbeslagneming ontving. In Hongarije kon dit daarom ook op tijd gebeuren, waardoor 27.000 euro 
+buiten bereik van de fraudeurs werd gebracht.
+Notaris doorziet poging tot fraude en doet melding voorgenomen transactie 
+In 2012 ontving een notaris een ongewoon verzoek om een akte te laten passeren. De akte had 
+betrekking op de aankoop van een beleggingspand ter waarde van enige miljoenen euro’s. De 
+makelaar van de kopende partij overlegde een koopovereenkomst met het verzoek aan de notaris  
+de levering te verzorgen. Zowel kopende als verkopende partij waren niet eerder cliënt bij het notaris-
+kantoor geweest. 
+De notaris vond de situatie dermate vreemd dat hij de makelaar om aanvullende informatie vroeg.  
+De makelaar gaf hierop aan dat de keuze op de notaris was gevallen, omdat hij noch met de koper noch 
+met de verkoper eerder van doen had gehad. De notaris was niet tevreden met de uitleg en vroeg om  
+Terug naar inhoudsopgave 81                   FIU-Nederland  |  Jaaroverzicht 2012
+
+De FIU-Nederland droeg met deze informatie bij aan het bewijs betreffende de omvang van het aantal 
+financiële handelingen van de verdachten en leverde inzicht in de relaties met een netwerk van 
+zakkenrollers van dezelfde nationaliteit.
+Fraude met donaties aan een charitatieve instelling
+Elk jaar organiseerde een stichting een groot evenement om fondsen te werven. Het doel van dit 
+evenement was om onderzoek naar behandelmethoden van ernstig zieke kinderen te bekostigen.  
+Al jaren was dit grote evenement een enorm succes en elk jaar werden vele miljoenen euro’s 
+bijeengebracht.
+Een bestuurder van de stichting fraudeerde echter twee jaar lang, waardoor hij bijna 650.000 euro naar 
+zichzelf kon laten overboeken. In de constructie die hij opgezet had, gebruikte hij valse facturen voor niet 
+geleverde diensten en gemanipuleerde bankafschriften waardoor hij zijn verduistering administratief af 
+kon dekken. 
+De externe accountant van de stichting achterhaalde echter de onregelmatigheden en legde de fraude 
+bloot. De stichting stelde de bestuurder onmiddellijk op non-actief en deed aangifte. Tegelijkertijd 
+meldde de externe accountant de frauduleuze transacties aan de FIU-Nederland. De transacties werden 
+in kaart gebracht, verdacht verklaard en ter beschikking gesteld aan het rechercheteam. Het strafdossier 
+ligt inmiddels bij justitie.
+Faillissementsfraude I
+Een winkelier had al een aantal jaar moeite om zijn zaak draaiende te houden, maar kon uiteindelijk 
+een faillissement niet voorkomen. Leveranciers, de belastingdienst en andere schuldeisers kregen nul 
+op rekest. 
+Ogenschijnlijk leken de man en zijn echtgenote volledig bankroet, totdat jaren later een aantal OT’s  
+bij de FIU-Nederland werden gemeld. Kennelijk had de man vermogen in contanten buiten bereik van 
+schuldeisers en fiscus gehouden, want drie jaar na het zakelijke debacle stortte hij plotseling voor  
+meer dan honderdduizend euro op een bankrekening. De opmerkelijke verhouding van stortingen  
+met de voorgeschiedenis van de gefailleerde werd door FIU-Nederland onderzocht, waarna het dossier 
+verdacht werd verklaard. Er is een onderzoek naar de man gestart.
+Faillissementsfraude II
+Een onderneming bankierde al lange tijd bij een Nederlandse bancaire instelling. De bankmutaties 
+waren vrijwel geheel giraal totdat op een bepaald moment ruim 20.000 euro aan contant geld werd 
+opgenomen. 
+Dit was atypisch voor het bedrijf en voor de branche waarin zij actief was. Tijdens de boekencontrole 
+werd de cashopname dan ook door de externe accountant opgemerkt waarna verduidelijkende vragen 
+werden gesteld. De opname bleek desgevraagd in de administratie verantwoord te zijn als aankoop van 
+een bepaald aantal smartphones voor medewerkers van het betreffende bedrijf. Volgens de directeur 
+van de onderneming had hij de bestelling geplaatst en kon hij deze smartphones van de nieuwste 
+generatie geleverd krijgen. De leverancier van de telefoons stelde daarbij wel als voorwaarde dat de 
+factuur contant zou worden voldaan. En zo geschiedde. 
+Na analyse van de in de administratie opgenomen factuur bleek een aantal essentiële gegevens te 
+ontbreken. Zo ontbrak het BTW nummer en de Kamer van Koophandel registratie van de leverancier. 
+Dit was voldoende aanleiding voor de accountant om haar bevindingen aan de FIU-Nederland te 
+melden. Bij onderzoek bleek dat de leverende partij veertien dagen na de verkoop van de smartphones 
+failliet was verklaard. De leverancier wist dus op het moment van de verkoop dat hij op korte termijn 
+failliet zou gaan. Gezien deze bevindingen was het aannemelijk dat de factuur buiten de reguliere 
+boekhouding was gehouden en dat de contante betaling niet in de financiële administratie was 
+Terug naar inhoudsopgave 83                   FIU-Nederland  |  Jaaroverzicht 2012
+
+Beide betrokkenen werden verhoord over het aangetroffen geld, hun financiële handelingen en hun 
+inkomsten uit de hennepteelt. De verklaringen klopten niet met de bevindingen van de financieel 
+rechercheurs. Dat gold ook voor een aan de FIU-Nederland gemelde contante aankoop van een auto. 
+Het financiële onderzoek zal binnenkort afgesloten worden en de aankoop van de auto wordt als 
+onderdeel van de onderbouwing voor de berekening van het crimineel verkregen vermogen opgevoerd. 
+Een vaststaand feit, dat de ontneming van het in beslag genomen vermogen vereenvoudigt.
+Terug naar inhoudsopgave 85                   FIU-Nederland  |  Jaaroverzicht 2012
+
+OM     Openbaar Ministerie
+OOV    Openbare Orde en Veiligheid
+OpWG   Operational Working Groep van de Egmont Groep
+OT    Ongebruikelijke transactie
+RIEC    Regionaal Informatie en Expertise Centrum
+SZW    Inspectie van het Ministerie van Sociale Zaken en Werkgelegenheid
+TFTP   Terrorist finance tracking programme
+TRACK   Toezicht Rechtspersonen, Analyse, Controle en Kennisgeving
+UNODC  United Nations Office on Drugs and Crime
+VBO Makelaar brancheorganisatie voor makelaars en taxateurs in onroerend goed
+VIC     Vastgoed Intelligence Centre
+VKC    Vastgoed Kennis Centrum
+VROS   Verwijzingsindex Recherche Onderzoeken en Subjecten
+VT     Verdachte transactie
+VtsPN   Voorziening tot Samenwerking Politie Nederland
+Wft    Wet op het financieel toezicht
+Wwft    Wet ter voorkoming van witwassen en financieren van terrorisme
+Terug naar inhoudsopgave 87                   FIU-Nederland  |  Jaaroverzicht 2012
+
+
+

@@ -1,0 +1,1767 @@
+ 
+ 
+IVM Institute for Environmental Studies 
+7 
+The total economic value of nature on Bonaire 
+Exploring the future with an ecological-economic simulation model 
+ 
+ 
+Jorge Amrit Cado van der Lely 
+Pieter van Beukering 
+Lidia Muresan 
+Dario Zambrano Cortes 
+Esther Wolfs 
+Stijn Schep 
+ 
+ 
+ 
+  
+Report R12-XX 
+02 January 2013 
+ 
+ 
+ 
+
+ 
+ 
+IVM Institute for Environmental Studies 
+ 
+ 
+
+ The total economic value of nature on Bonaire  
+   
+ 
+    
+Contents 
+Summary 5	  
+List of abbreviations 6	  
+Acknowledgements 7	  
+1	   Introduction 8	  
+2	   Background 10	  
+2.1	   Economy and demography 10	  
+2.2	   Nature and ecosystems 11	  
+2.3	   Threats and impacts 12	  
+3	   General Approach and Methodology 15	  
+3.1	   Valuation of ecosystem services 15	  
+3.2	   Simulation model 15	  
+3.3	   Conceptual framework 16	  
+3.4	   Ecosystem services and economic benefits 17	  
+3.5	   Economic valuation 19	  
+3.6	   Intervention methods 20	  
+3.7	   Boundaries and limitations 20	  
+4	   The Model 22	  
+4.1	   Marine Environment Module 22	  
+4.2	   Terrestrial Environment Module 25	  
+4.3	   Environmental economic module 27	  
+5	   Results 32	  
+5.1	   Baseline scenario 32	  
+5.2	   Scenario 1 – Restoration 38	  
+5.3	   Scenario 2 – Conservation 41	  
+5.4	   Scenario 3 – Sewage treatment plant 46	  
+6	   Conclusions & Recommendations 51	  
+6.1	   Validity of the model and lessons to be learned 51	  
+6.2	   Total Economic Value versus Total Financial Value 51	  
+6.3	   Costs and benefits of environmental measures 51	  
+6.4	   Stakeholder engagement 52	  
+References 53	  
+Annex A	   Nutrients and eutrophication 58	  
+Annex B	   Sedimentation 62	  
+Annex C	   Physical anthropogenic damage 65	  
+Annex D	   Overfishing 69	  
+ 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 5 
+   
+ 
+    
+Summary 
+Healthy ecosystems such as coral reefs and mangroves are critical to Bonairean society. In the 
+last decades, various local and global developments have resulted in serious threats to these 
+fragile ecosystems of Bonaire, thereby jeopardizing the foundations of the island’s economy. 
+Therefore, it is crucial to understand how nature contributes to Bonaire’s economy and its 
+wellbeing in order to make well-founded decisions when managing the economy and nature of 
+this beautiful tropical island. This research aims to determine the economic value of the main 
+ecosystem services that are provided by the natural resources of Bonaire and their overall 
+importance to society. The challenge of this project is to deliver sound scientific insights that will 
+guide decision-making regarding the protection of Bonaire’s ecosystems and the management of 
+the island’s economy. 
+By assigning economic values to the main ecosystem services of Bonaire, this research draws 
+attention to the economic benefits of biodiversity and highlights the growing costs of biodiversity 
+loss and ecosystem degradation. The study addresses the most relevant ecosystems and 
+ecosystem services for Bonaire and applies a range of economic valuation and evaluation tools. 
+By surveying over 1,500 persons, including tourists, fishermen, local residents, and citizens of 
+the Netherlands, this study estimated the willingness of individuals to pay for the protection of 
+Bonairean nature, as well as mechanisms (e.g. user fees) through which such payments would be 
+transferred. Furthermore, a scenario analysis is conducted to inform decision makers about the 
+most effective strategies to protect the ecosystems of Bonaire. This study intensively involved 
+stakeholders from the start to finish, which facilitated data collection while simultaneously 
+building capacity in applying the concept of ecosystem services among the target audience. 
+In total, more than 10 different ecosystem services have been valued in monetary terms. The total 
+economic value (TEV) of the ecosystem services provided by the marine and terrestrial 
+ecosystems of Bonaire is $105 million per year. This TEV and its underlying components can be 
+used to build a strategy for effective conservation measures on Bonaire. After extensively 
+analyzing different scenarios for future ecosystem services values one result becomes very clear: 
+an ounce of prevention is worth a pound of cure. In other words, it is more efficient to prevent 
+extensive environmental damage than trying to revitalize the environment while there are still 
+threats at hand. With the current threats unmanaged, the TEV of Bonairean nature will decrease 
+from $105 million today to around $60 million in ten years time and to less than $40 million in 
+30 years. The project is well documented and provides several extensive online reports, five 
+easily accessible policy briefs and a beautiful film documentary that translates the scientific 
+results into real life situations on Bonaire. 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 7 
+   
+ 
+    
+Acknowledgements 
+This study would not have been possible without the support of numerous people and 
+organisations on Bonaire. First of all, we want to thank ministry of Economic Affairs, 
+Agriculture and Innovation Caribbean Netherlands, especially Hayo Haanstra, Astrid Hilgers, 
+Ruth Schipper-Tops and Pieter van Baren for making this research possible in the first place and 
+special thanks to Paul Hoetjes, for facilitating the study and for helping us overcome hurdles that 
+we encountered during the course of the study. Additionally, we would like to thank the 
+Directorate of Spatial Planning and Development, Unit Nature and Environment, especially 
+Frank van Slobbe for his valuable input, and special thanks to Boudewijn ‘Bous’ Scholts Carbo 
+TTC Inc for validating our report.  Other people that helped us are Kris Kats, Jozef van Brussel 
+and Jan Jaap van Almenkerk from ministry of Infrastructure & Environment the Netherlands. A 
+special thanks to Danilo Christiaan, Irida, Sue, Stephanie, Carine, Alan and Mikey from 
+Mangazina di Rei. A thanks to our artist who draw the beautiful pictures for the Choice 
+experiments, Mechtild Thode and a thanks for the support  of her husband Glenn Thode when he 
+was the island governor of Bonaire. For the information from the tourism industry a special 
+thanks to all businesses that have participated in the business survey and a special thanks to 
+Joanny Trinidad and Marjolijn van Kooten TCB and Lara Chirino, Irene Dingjan BONHATA, 
+Martien van der Valk Bonaire Hospitality Group and Bonaire Chamber of Commerce, to Tante 
+Vita and Papi Cecilia, Bas Noij Bonaire Explorer Association, Bart Snelders CURO. And a very 
+special thanks to Corine Gerharts and Jan Baten Bonaire Tours & Vacations and their team for 
+their incredible support together with Yvonne and Chris Schultheiss Bonaire Destination Services 
+and their team for helping out to collect many cruise passengers data. Also a special thanks to all 
+the guides of Sue Felix Archie tours Bonaire. And a thank you to Augusto Montbrun and Paul 
+Coolen Buddy Dive resort to show us the coral nursery.  
+A thank you to all the people who have supported in collecting data, especially Jan Kloos and 
+Rob Sint Jago Island Territory harbour and Hans Voerman Outdoor Bonaire, and Elly Albers 
+Mangrove Center. And a thank you to all the fishermen who took the time to talk to us, especially 
+Silvio Domacasse, Jason Muller and Pancho Cicilia 
+Furthermore special thanks for the support by Erik Meester, Dolfi Debrot and Diana Slijkerman 
+IMARES for answering all kinds of ecological questions during our research and delivering us 
+data. And thanks for accommodating our students and supporting our meetings by Rita Peachey 
+at CIEE Research Station.  
+We would also like to express our gratitude towards all the interviewers who made this study 
+possible. Thanks to Anna Maira Vaseur, Harrold Vasseur, Timothy Vaseur, Jarelys Cecilia, Janin 
+Martes, Vernon Kromhout. 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 9 
+   
+ 
+    
+Nature indicator Netherlands Mainland Caribbean Netherlands 
+2
+ 12,685 km (is 30% of total 
+2
+ 49.4 km (15.7 % of total area) 
+Area of terrestrial nature parks 
+area) 
+2
+ 75 km (0.3% of total area) 
+2
+ 2,330 km (is 4% of total 
+2
+With Sababank = 2,754 km  (11% of 
+Area of marine nature parks 
+area)*** 
+total area) 
+Number of animal species* 27,000  2,831**** 
+ 85**** of which 25 in Caribbean 
+ 14** 
+Number of endemic animal species 
+Netherlands 
+ 3,900  1,259**** 
+Number of plant species* 
+ 0  7****  
+Number of endemic plant species 
+Sources: Dutch Caribbean Nature Alliance, 2012; Staatsbosbeheer, 2012; WUR, 2012. 
+* Note however not all species are known and new species are still being discovered. 
+**  www.natuurinformatie.nl names 2 species of sponges and 10 ciliary worms and one mouse subspecie and a 
+butterfly. 
+***  3 protected areas in the North Sea are in the Exclusive Economic Zone; Vlakte van Raan (17,521 ha), 
+2
+Voordelta (92,367 ha) and North Sea Coastal Zone (123,134 ha). Total area Dutch North Sea is 57,000 km . 
+****  Number of species in Dutch Caribbean (including Aruba, Curacao and St Maarten). 
+ 
+2
+This report is structured as follows. Chapter 2 provides important background information about 
+the island of Bonaire, including the current ecosystem services found there, a more detailed 
+explanation of the current threats on coral reefs as well as the boundaries and limitations of this 
+study. Chapter 3 describe the overall context and approach for building the dynamic simulation 
+model of coral reefs ecosystem along with their ecological and economic benefits. Chapter 4 
+presents a detailed construction of the model and each sub-module. The results obtained for the 
+baseline scenario and the three other scenarios are presented in Chapter 5. The conclusions and 
+the recommendations are drawn in Chapter 6. 
+                                                        
+2
+  Please note that some of the estimated effects may deviate from the values reported in the individual 
+research reports of this overall study on the value of nature of Bonaire. These differences are explained 
+by the technical limitations of the model structure as well as the difficulty in coordinating the 
+completion of the individual studies and the modelling activities which took place at the same time. 
+Overall, these differences do not fundamentally affect the outcome of the model simulations.  
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 11 
+   
+ 
+    
+ 
+Figure 2.2 – Contribution of different sectors to Bonaire's GDP in 2008  
+Source: CBS, 2010 
+Visitors are attracted by the unique combination of terrestrial and marine ecosystems and the 
+variety of activities they can enjoy on the island, such as diving, snorkelling, kayaking, 
+windsurfing, sailing, bird watching, etc (Info Bonaire, 2012). As a result of the high number of 
+visitors, the construction sector almost doubled and there are plans to further increase the number 
+of houses and accommodation (Bonaire Department of Physical Planning, 2010).  
+2.2 Nature and ecosystems 
+The climate of Bonaire is arid tropical, fairly constant throughout the year with low rainfall 
+(about 463.3 mm/year registered) and high temperatures during the year, varying between 26.6˚C 
+and 28.4˚C (MSNA&A, 2008). This climate allows the existence of large and diverse 
+ecosystems, both off and on land. On land Bonaire is characterized by dry forests and off land 
+coral reef ecosystems predominate. Of the world’s coral reefs, 8% are located in the Caribbean 
+2
+Sea and occupy a surface of 26,000 km . On Bonaire the total area covered by corals is 
+2
+approximately 27 km . Seventy different species of hard corals can be found in the Caribbean, 65 
+of which were identified in Bonaire (IUCN, 2011; Alevizon, 2009). Compared to the rest of the 
+Caribbean the coral cover of Bonaire is relatively well preserved and represents one of the 
+healthiest coral reefs in the Caribbean.  
+Bonaire also has a substantial terrestrial ecosystem, which mainly consists out of dry forest. Just 
+like the coral reefs so have these dry forests experienced excessive stress. A long history of 
+grazing, felling and clearance for cultivation have already destroyed approximately 66% of the 
+dry forest in Latin America (Quesada et al 2009). Bonaire is no exception. Trees were felled (in 
+particular Haematoxylon brasiletto, Zanthoxylum ﬂavum and Guaiacum ofﬁcinale) throughout 
+th
+Bonaire in the 17 century and large grazers such as goats, sheep, donkeys, cattle and horses 
+th
+were introduced and left to roam. Later in the 20 century, extensive deforestation for the 
+cultivation of Aloe and the urban expansion for tourist facilities was completed (De Freitas et al 
+2005). Today, estimations are that around 30,000 goats are roaming free on the island, most of 
+the traditional gardens, Kunukus, a traditional farming system are abandoned, agrarian industry is 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 13 
+   
+ 
+    
+Over fishing 
+Fishing techniques, like the use of explosives and overfishing of specific species, contribute to a 
+decline of coral reef over the world (NOAA, 2008). One third of the reefs around Bonaire and 
+Curacao are threatened by overfishing (WRI.com). Little information is available about what the 
+effects of over fishing might have on species diversity. Nowadays, fishing practices focus on 
+smaller predators such as groupers and herbivores like parrotfish (Burkepile & Hay, 2008). Due 
+to the lack of herbivorous fish, algae have the possibility to grow unhindered hereby contributing 
+even further to the stress corals experience. This makes corals even more vulnerable to diseases 
+and death (ICRI; Debrot & Bugter, 2010). High levels of fishing can reduced genetic variation 
+(due to specific species being overfished), alter ecological balance on the reef and change trophic 
+interactions (McGinley & McClary, 2010; WRI.com). However, since 2004 two FPAs were 
+established at the request of BNMP. These two areas represent 4 km of a no-take zone (The 
+Nature Conservancy, 2012).  
+Physical destruction 
+The tourism sector represents a threat to the marine ecosystems of Bonaire. Due to the activities 
+performed by tourists, such as diving and snorkeling, approximately 2.7% coral reefs are 
+damaged every year (De Meyer, 1998). These activities have a direct impact on corals as a result 
+of their direct contact or illegal anchoring (WRI.com). Since 1994 tourist’s number increased 
+from 57,000 to approximately 70,000 (TCB, 2010). However, the physical destruction of coral 
+reef remained stable. This is a result of the educational and awareness programs on coral fragility 
+(De Meyer, 1998).   
+Sedimentation 
+Sedimentation is mainly caused by the dredging associated with construction of different types of 
+buildings and development of infrastructure. As an impact, the sediments released in water can 
+affect the food web by killing the corals and other organisms essential for fish. Sediments also 
+reduce the photosynthetic activity and light availability, and in high amounts they can even bury 
+the reefs (Roger, 1990; Wieggers, 2011). The issue of sedimentation began with the expansion of 
+tourists since 1994 (De Meyer, 1998; Harty, 2011). More tourists triggered a higher coastal and 
+marine development which caused high levels of sediments being released into the water. 
+Furthermore, deforestation and overall decline in terrestrial ecosystem has attenuated the capacity 
+of the forest to prevent sediment run off.  
+Nutrients 
+Coral reef systems are characterized by oligotrophic conditions. It is in these conditions that 
+corals have a competitive advantage. However, superfluous amounts of Nitrogen (N) and 
+phosphorous (P) of anthropogenic origin, result in eutrophic coastal waters. Such conditions are 
+favourable for algae and allow them to out-compete coral for space (Wieggers, 2011). The 
+sewage water of Bonaire is collected in septic tanks and leaches into the sea through groundwater 
+without being treated properly. In their paper, Kekem et al (2006) mentioned the main reason for 
+coral reef decline to be the inflow of partly untreated surface and subsurface water. The faeces of 
+free roaming live stock (e.g. goats and donkeys) also represent a source of nutrients (Kekem et 
+al., 2006). Since Bonaire never had a sewage treatment plant it has become an important source 
+of stress for corals. Especially now as the number of tourists increased and the concentration of 
+nutrients entering coastal waters with it. A study done by Dailer et al. (2012) for Hawaii analyzed 
+the effect of N and P on diverse species of algae, using different concentrations of nutrients. The 
+outcome of this study revealed that the growth rate of algae increases with the percentage of 
+wastewater affluent added.  
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 15 
+   
+ 
+    
+3 General Approach and Methodology 
+3.1 Valuation of ecosystem services 
+Nature provides a wide range of benefits to people. For millennia, human beings have benefitted 
+from some processes intrinsic to the functioning of ecosystems worldwide. These ecosystems 
+generate a range of goods and services that support human well-being and generate economic 
+benefits, collectively termed ecosystem services. The Millennium Ecosystem Assessment (MA 
+2005) introduced the concept of ecosystem services on the global agenda, recognizing four 
+categories of services: supporting (e.g. nutrient cycling, soil formation and primary production), 
+provisioning (e.g. food, freshwater, wood and fibre and fuel), regulating (e.g. climate regulation, 
+flood and disease regulation and water purification), and cultural (aesthetic, spiritual, educational 
+and recreational). Globally, about 30 million people depend entirely on coral reefs for their 
+livelihood (NOAA, 2011). 
+Despite the fact that many people benefit from the ecosystem services, individuals or groups 
+usually have insufficient incentives to maintain the natural capital, compromising ecosystems for 
+continued provisioning of benefits (TEEB, 2010). Usually the flow of services and goods from 
+nature to humans is undervalued by governments, businesses and the public and is only 
+considered once they have been lost. Changes in ecosystems and the services they provide have 
+impact on human welfare and wellbeing. These changes, be they intentional or accidental, affect 
+provisioning, regulating, habitat and cultural services. By analysing how these changes affect the 
+values of ecosystem services thus provide information on how to manage the environment. 
+Furthermore it provides a means to communicate the value of ecosystem services in a 
+comprehensive, objective and logical manner to all relevant stakeholders. 
+In order to help policy makers make comprehensive decisions concerning the management of 
+ecosystem services, a series of steps must be taken.  
+1. The ecosystem services within the study area must be defined. What are economical and 
+ecological benefits and goods delivered and provided by the ecosystem?  
+2. The relationship between the ecosystem services and the ecosystem must be defined. Which 
+aspect of the ecosystem delivers the goods and services? This relationship provides insight 
+into which ecological/biological parameters are of importance for the provision of the 
+ecosystem services and goods. For example, in order for the fishers to prolong their practice 
+they need to be able to catch fish. Thus the service would be defined as “fish” and the 
+ecological parameter associated with this service would be “fish biomass” or “fish stock”.  
+3. Define the factors that influence the capacity of the ecosystem to provide the service or 
+good. Returning to the previous example, “fish stock” is influenced by factors such as: 
+fishing rate and other anthropogenic stressors (pollution, destruction of habitat etc), 
+predation, availability of food, growth rate fish and reproduction rate fish.  
+4. Identify different interventions, each of which should elicit and highlight a different aspect, 
+hereby juxtaposing the status quo, ecological orientated interventions and economical 
+orientated interventions. Choosing a set of different interventions will provide insight in how 
+they influence the ecosystem and thus, the ecosystem services and goods.  
+3.2 Simulation model 
+The functioning of ecosystems, its delivery of services and the final contribution to welfare is 
+complex. To effectively evaluate the complex interface between ecological and economic 
+processes, simulation modelling can play a useful role representing the main ecological functions 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 17 
+   
+ 
+    
+potential intervention measures and estimates their influence on ecological conditions and its 
+subsequent impact on the economic value of nature. This value is compared to the TEV of the 
+baseline scenario. Step 6 compares the costs and benefits of each management option and 
+calculates the net present value (NPV) the management interventions.  
+Step	  1:	  Ecological	  
+Ecosystems	  &	  
+description
+Ecosystem	  Functions
+Marine	  &	  
+Terrestrial	  
+effects
+Ecosystem	  services	  to:
+Step	  2:	  Economic	  
+valuation
+Tourism,	  Real	  estate,	  Culture,	  Fisheries,	  Non-­‐use,	  etc.
+Step	  4:	  Simulate	  
+Total	  Economic	  
+effects	  of	  	  baseline	  
+Value &	  intervention
+Endogenous	  
+Step	  3:	  Threats	  
+&	  exogenous	  
+analysis
+threats
+Step	  5:	  Define	  
+Management	  
+intervention
+intervention
+Benefits	  of	   Costs	  of	  
+intervention intervention
+Step	  6:	  Evaluate	  
+Net	  present	  
+effectiveness	  of	  
+value
+intervention
+ 
+Figure 3.1 General Framework of the dynamic simulation model 
+3.4 Ecosystem services and economic benefits 
+Ecosystems generate a range of goods and services, known as benefits for Bonaire's society. As 
+mentioned in Cesar et al (2002), goods provided by an ecosystem can be seen as renewable and 
+non-renewable. Renewable goods can be lumber, fish or seaweed, and non-renewable goods are 
+represented by sand and corals extracted and used as building materials. Coral reefs, for example, 
+also provide a range of services such as: physical structure services for coastal protection (CP), 
+biotic services within and between ecosystems for maintaining the habitat, bio-geo-chemical 
+services for nitrogen fixation and CO control, information services for climate and pollution 
+2
+control and social and cultural services for tourism, recreation and cultural values (Cesar et al, 
+2002). According to MEA (2005), the benefits of coral reefs for people are divided in different 
+categories as represented in Table 3.1. 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 19 
+   
+ 
+    
+Total	  Economic	  
+Value	  (TEV)
+Use	   Non-­‐use	  
+Values Values
+Direct	  Use	   Indirect	  Use	   Option	   Bequest	   Use	  
+Values Values Values Values Values
+Example: Example: Example: Example: Example:
+-­‐Timber,	   -­‐coastal	   -­‐Genetic	   -­‐Avoided	   -­‐Existence	  of	  
+fisheries,	   protection,	   materials	  for	   damage	  climate	   endangered	  and	  
+aquarium	  trade, aesthetic	  beauty	   pharmaceutical	   change	  for	  future	   nearly	  extinct	  
+ornaments for	  real	  estate purposes generations species
+ 
+Figure 3.2 The TEV of an ecosystem 
+3.5 Economic valuation 
+To determine the TEV of nature both primary and secondary data are collected. As part of this 
+study, these ecosystem services are measured through a range of valuation techniques (see Table 
+3.2). Market price represents the value at which a certain good or service is bought and sold in 
+commercial markets (van Beukering et al, 2007b). Contingent valuation method estimate the 
+value of an ecosystem service using surveys and asking people about their WTP for a specific 
+service (van Beukering et al, 2007b). Hedonic pricing approximates the economic value of 
+environmental services that affects market price, especially the housing price (van Beukering et 
+al, 2007b). Houses at risk method estimates value of ecosystem services based on the costs of 
+avoiding damages as a result of lost service (van Beukering et al, 2007b). The services analysed 
+in this report are explained in detail in the next Chapter.  
+Table 3.2 Techniques used to valuate goods and services provided by coral reefs 
+Goods and Services Valuation Technique 
+Tourism & recreation Market price & Choice experiment 
+Non-use values Contingent valuation method & Choice experiment 
+Fisheries Market price & Choice experiment 
+Amenity Hedonic pricing 
+Coastal protection Avoided damage cost 
+Agriculture & livestock Market pricing 
+Medicinal & pharmaceutical Market pricing 
+Carbon sequestration Market pricing 
+Research value Net factor income approach 
+Art value Net factor income approach 
+ 
+The TEV is calculated by summing up all the aforementioned values represented in Table 3.2. On 
+a global scale the net benefits of coral reefs were determined to be around $30 billion per year 
+(Cesar, Burke and Pet-Soede, 2003). The largest share of this is attributed to tourism and 
+recreation with $10 billion, followed by coastal protection with $9 billion. For Guam, the TEV of 
+coral reef was determined to be $127.3M per year, with 75% contributing the tourism sector (van 
+Beukering et al, 2007a). The TEV of Hawaii coral reefs per year was determined as well by 
+Cesar et al (2002). This was calculated to be $364M and the NPV equals $9.722M at 3% 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 21 
+   
+ 
+    
+Regarding the data used, not everything is easily available making it difficult to have detailed and 
+complete information necessary to operate the ecological-economic simulation model. Since 
+reliable and long-term ecological data of the island is scarce, providing a well founded baseline 
+has proven to be difficult. Moreover, due to different groups which analyzed these ecosystems 
+over time, some of the data are available only for specific locations of the island and for specific 
+moments in history. To overcome this problem it was necessary at times to extrapolate data.  
+In some cases, data was unavailable because accessibility was denied. This is often the case when 
+a report is published by the private sector or by specific government departments. Governments 
+are not always willing to share their data. As a result, proxy data from other studies was used. 
+This data was acquired from studies with similar ecosystems on other islands, such as Hawaii, 
+USVI or Guam.  
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 23 
+   
+ 
+    
+There is a direct competition between corals and algae for the same space (Vermeij et al, 2010; 
+McClanahan-1995; Edwards et al, 2010). After years of research, evidence was gathered to prove 
+that corals are affected by algae as a result of algal release of organic carbon that increases the 
+local activity of microbes (Barott et al, 2011). Algae abundance threatens the existence of coral 
+reefs due to their capacity to overgrow or block corals space, hampering their growth and 
+expansion. According to Box & Mumby (2007), macro-algae and turf algae cause hypoxia on 
+coral tissues, reduce coral fecundity and inhibit larval settlement.  
+Fish Stock and Fish Diversity 
+Fish biomass and fish diversity are important parameters for Bonaire's inhabitants as they 
+represent a source of food and income. In the model a distinction is made between herbivore and 
+predator fish species. A study conducted by IUCN (2011) in different locations in Bonaire 
+2
+discovered the average biomass for herbivore fish to be 7,319 g/100m , while for predators this 
+2
+was 5,290 g/100m . The total biomass of fish was calculated to be 3,404 tonnes, which is the sum 
+of predator and herbivore species extrapolated over the entire BNMP.  
+The increase in fish stock is influenced by their reproduction rate. Myers et al (1999) calculated 
+the maximum reproduction rate of different fish species to vary between 1 and 7. Because 
+Bonaire has approximately 450 fish species, the maximum reproduction rate was considered to 
+be 0.35. The maximum carrying capacity for the fish stock was calculated to be equal with 5,600 
+tonnes, by taking into account the maximum amount of fish found by IUCN (2011) in diverse 
+locations of Bonaire. 
+An assumption was made for the maximum increase in fish diversity. As no data were found 
+about this subject it was assumed that if no external factors are present the rate of expansion in 
+the number of species is 0.04% per year. However, like the other indicators the fish stock is also 
+threatened by diverse factors, such as overfishing and the presence of lionfish (Dew, 2001). 
+Herbivore fish are a threat to algae cover due to their diet formed by algae and sea grass. In one 
+of their studies, Newman et al (2006) and Edwards et al (2010) demonstrated that there is a 
+negative and linear relation between herbivorous fish biomass and algae biomass. Mumby et al 
+(2006) revealed that parrotfish can graze a maximum of 30% of the seabed in 6 months, meaning 
+a maximum of 60% of algae being grazed in one year. As the herbivore fish present in the water 
+of Bonaire are not just parrotfish, the maximum algae decrease at the carrying capacity for 
+herbivore fish was established to be 50%. 
+Nutrients 
+Groundwater represents the source of nutrients loaded into the sea. The major causes of nutrient 
+enrichment in Bonaire are improper land use such as uncontrolled coastal development and the 
+lack of a sewage treatment plant (Slijkerman et al, 2011). Untreated sewage consists of high 
+amounts of nitrogen and phosphorus, important nutrients which contribute to sea water 
+6
+eutrophication , coral reefs degradation and a decrease in coral species (Kekem et al, 2006). The 
+average concentration of inorganic nitrogen (NH4+NO3 + NO2) in Bonaire waters was measured 
+by Slijkerman et al (2011) to have a value of 1.51±1.36µM. In their study about economic 
+valuation of Hawaiian reefs, Cesar et al (2002) revealed the following equations for calculating 
+the total decrease of coral cover and coral diversity due to the concentration of nutrients loaded. 
+!".!∗!"#$%&'#(   !"
+(1) !"#$%  !"#$%  !"#$"%&"  !"#  !"  !"#$%&'#(= 
+!"
+!".!∗!"#$%&'#(   !"
+(2) !"#$%  !"#$%&"'(  !"#$"%&"  !"#  !"  !"#$%&'#(= 
+!"
+                                                        
+6
+  Eutrophication represents the process by which a high concentration of nutrients is loaded in water and 
+produce excessive growth of algae. Once the algae decompose they occupy the surface of the water 
+depleting the oxygen and causing death to other organisms such as corals and fish (Art, 1993).   
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 25 
+   
+ 
+    
+An important relation in this model is the balance between corals, algae and uncovered substrate 
+(e.g. rubble and sand). Together these three components comprise the surface area of the coastal 
+waters of Bonaire, i.e. 2,700 ha (Holmes & Johnstone, 2010). A decline in coral cover gives the 
+opportunity for algae to expand their surface. All the above mentioned parameters are collected 
+and transformed into one indicator which reflects the general state of the coral reef ecosystem. To 
+calculate the state of the coral reef ecosystem, a common indicator with values between 0 (fully 
+degraded ecosystem) and 1 (pristine ecosystem) was built following the next three steps:  
+• First, for every indicator the rate of their presence was calculated by dividing their present 
+amount (t or %) to their maximum possible amount.  
+• Second, according to their importance, each indicator was assigned with different scores, 
+as follows: coral cover-0.3, coral biodiversity-0.3, fish stock-0.15, fish biodiversity-0.15, 
+and algae cover-0.1. The scores were taken from Cesar et al (2002), and are based on 
+expert opinions. 
+• Finally, in order to calculate the state of the reef, each score was multiplied with their 
+corresponding existence rate and the results were summed up. The total sum was divided 
+by the sum of the scores, which in this case is equal with 1, obtaining the value of coral 
+reef quality. Once the state of the reef is defined, the next step is to calculate the total 
+economic value of the coral reef which is in part influenced by the reef's quality. 
+4.2 Terrestrial Environment Module 
+Little is known about the tropical dry forest (TDF) ecology on Bonaire. Studies of abandoned 
+lands have shown that the tropical dry forest regenerates fast, reaching a maximum of basal area 
+2
+of 25m per ha and the maximum of 25 species per plot between 30 and 40 years (Figure 4.1). 
+Coppicing from stumps and roots remaining after disturbance is considered as the primary 
+regeneration mechanism of disturbed tropical dry sites (Quesada et al 2009). Seed dispersal by 
+wind is important for regeneration. The pioneer species within abandoned lands are wind 
+dispersers plants like the Yellow Poui and Kapok, that function as nursery trees for other species 
+accelerating the transition to primary forest (Aide et al 2000).  
+Plant-animal interactions in the tropical dry forest are extremely important for conserving the 
+plants, animals and genetic diversity of the forest. It is estimated that 54–80% of the tropical dry 
+forest plant species rely on animal vectors for its pollination, such as bats and the hummingbirds 
+(Machado and Lopes, 2004). This interaction is crucial for the cacti Kadushi, Agave, Kalbas and 
+Kapok which are important diets of the aforementioned animals. Seed dispersal by birds and bats 
+is also important. Animal dispersed species in the dry forest are estimated between 43%-64% of 
+the plant species within the forest (Quesada et al 2009). Changes in animal communities during 
+succession undoubtedly affect seeds arriving to areas undergoing succession and ultimately the 
+emerging succession of the forest, making seed dispersal important for plants such as the 
+medicinal tree Wayaká and the Cactus Kadushi. Absence of such interactions may trigger a 
+cascading effect, affecting plant density and reducing pollination (Traveset and Richardson 2006, 
+Anderson et al 2011). 
+The ecological module aims to reflect the mentioned ecological characteristics of the tropical dry 
+forest including a fast regeneration, early maturity, and facilitated regeneration by seed dispersal 
+and pollination by bats and birds. For the terrestrial environment there are 3 ecological indicators 
+taken into account, i.e. Animal occurrence, Plant diversity and Plant Cover. These are explained 
+in the following. 
+Mature & Degraded Forests 
+According to De Freitas et al (2005) little remains of the original mature forest on Bonaire 
+because the extremely degraded state and the unknown composition of the flora before colonial 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 27 
+   
+ 
+    
+attraction after disturbance. For example, recovery from visitor impacts, might be relatively quick 
+for tracks in some forest compared to the more sustained and permanent alterations of visitor 
+impacts in low energy cave ecosystems (Cigna, 1993). 
+Animal Occurrence 
+A function was included that represents the amount of animals occurring on the island. This was 
+done in order to account for the negative effect of tourism and other potential disturbances on the 
+abundance of birds. Occurrence is an independent parameter that refers how often a bird is 
+sighted regardless the species. Unfortunately the lack of ornithological surveys leave to raw 
+assumptions the number of individuals per species of birds or bats found on a period of time. A 
+linear relationship is assumed with a maximum of 80 species. If tourism numbers exceed 650,000 
+a minimum of 1 is reached. At the current amount of tourists, the amount of species is 80. In 
+order to represent the threat of grazing on the plant richness a function is included that when 
+grazing is bigger than Bonaire’s carrying capacity the plant richness drops substantially.  
+Terrestrial Indicator 
+The sub-indicators ‘plant richness’, ‘animal occurrence’ and ‘animal richness’ jointly constitute 
+the terrestrial indicator. The indicator summarizes the quality of the terrestrial environment of 
+Bonaire and indirectly also affects the visitation of tourists to Bonaire. The indicator ranges from 
+0 (highly degraded) to 1(very good state). All three components of the “Terrestrial State 
+Indicator” are normalized in order to sum all of them (i.e. for each of the functions the minimum 
+is converted to 0 and the maximum to 1). To show how different environmental attributes 
+influence the environmental quality and hence the “Terrestrial State Indicator” in different ways, 
+a weight was applied to each normalized value. 
+4.3 Environmental economic module 
+Economic module consist of tourism, non-use, biodiversity, fisheries, amenity and coastal 
+protection sub-modules. These main sectors of the economic sub-model are explained in the 
+following.  
+Tourism and recreation 
+Tourists are the major contributors to the total recreational value of coral reefs, followed in a 
+small part by locals. Tourism industry represents the main pillar of economic development of 
+Bonaire (Groenenboom & Krul, 2009). There are three types of tourists: stay-over tourists (SOT) 
+and cruise tourists (CT) and yacht tourists. All three types contribute to the recreational value of 
+coral reefs. SOTs arrive by planes or yachts and spend a few days on the island, and CT arrive by 
+cruise boat and spend just a few hours on the island. SOT tourists generate direct revenues by 
+paying the fee for recreational activities such as diving and snorkeling, and indirect revenues 
+through hotel and food costs. CT only produce direct revenues through expenses they have on 
+diverse activities and souvenirs they buy. Moreover, locals contribute as well to the TEV of coral 
+reef by providing direct revenues through recreational activities they undertake such as 
+snorkeling and diving. However, tourism has not only positive sides. It represents also a threat 
+though waste disposal and physical destruction of corals while diving. For more information on 
+the international tourism value of nature on Bonaire, read Schep et al. (2012a). The local 
+recreational values are estimated in Lacle et al. (2012). 
+In the last 10 years the number of tourists has increased considerably. In 2011, the number of 
+SOT is 74,342 and CT are 229,228 (CTO, 2011). Through the expenses on the island they 
+contribute to the economy of Bonaire. SOTs bring revenues to the island as a result of their direct 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 29 
+   
+ 
+    
+Fishing activities are defined by their purpose: commercial fishing, subsistence fishing, aquarium 
+fishing, and recreational fishing. For the Bonaire case study, only commercial and recreational 
+fishing are incorporated in the analysis because there is hardly any information about subsistence 
+and aquarium fishing. To calculate the fishery related values of coral reefs of Bonaire the 
+following steps were followed. First, the total revenues from fish sales are calculated. The fishing 
+rate on Bonaire was established to be 1.8% of the total stock (Schep et al, 2012a). This number 
+represents the fishing rate on reef related fish. Fish are sold at an average price of 6.95 USD per 
+kg. Although only about 70% of the fish caught are sold, all fish caught are ascribed to the 
+fisheries value. This is because the remaining 30% of the fish caught are consumed by the 
+fishermen and therefore also add to the welfare of Bonaire citizens. Second, the cost for fishing 
+was calculated by multiplying the average cost for boat maintenance with the total number of 
+boats (18 small boats and 12 larger boats). Third, the profit of fishermen was calculated by 
+extracting the costs from the total revenues. Finally, the entire value is ascribed to the corals as 
+all fishing takes place within the reef habitat. 
+Amenity value 
+The presence of houses on the coast near coral reefs is a factor that contributes to the value of the 
+house. A beautiful view with healthy coral reefs increases the price of the house with a certain 
+percentage. On the opposite, damaged corals will decrease house price, as the amount of algae is 
+going to increase and with their disintegration will trigger a bad smelling and unpleasant view. 
+As a result, the value added to the average house price as a result of coral reefs existence 
+represents the value placed on their existence and it is called the amenity value (Bervoets et al, 
+2010). For more information on this amenity ecosystem services of nature for the real estate 
+industry of Bonaire, read Van Beukering and Wolfs (2012). 
+The amenity value is calculated on the basis of the number of houses sold and the nature-related 
+value of houses, which is partly are influenced by the state of the marine and terrestrial 
+environment. The average price of a house and the average number of houses sold influenced by 
+the world GDP, were defined by analyzing their values in the last 8 years and establishing the 
+following relations between them. The influence of reefs' quality on the price of a house was 
+defined by Cesar et al (2002) who mention that a presence of coral cover between 10 to 50% 
+change the house price with 1.3% following a S shape. As mentioned in Cesar et al (2002), from 
+the total value of houses sold, around 1.5% is considered to be the amenity value of coral reefs. 
+Coastal protection 
+Coral reefs provide coastal protection and as a result they have the capacity to dissipate wave 
+energy and protect the shoreline against storms, hurricanes and erosion. Healthy coral reefs 
+prevent damage to the infrastructure and houses developed on coast during extreme events. Due 
+to their structure, corals act as wave breakers mitigating the impact of waves and protecting the 
+properties placed on the coast. Coral reefs protect the shoreline within 2,000m and represent 29% 
+of the Caribbean coastline (van Beukering et al, 2007b).  
+To value this function it is necessary to know how the absence of coral reefs will influence the 
+value of houses and infrastructure and the necessary costs to prevent shoreline damage, by 
+constructing wave breakers or providing coastal nourishment. In this simulation model the 
+coastal protection value of coral reefs is calculated through assessing the damage cost avoided to 
+the properties close to the coast in case of no coral existence. For more information on the coastal 
+protection value of coral reefs of Bonaire, check Van Zanten et al. (2012). 
+Livestock and Agricultural Value 
+The terrestrial value of nature on Bonaire is partly determined by the benefits that the agricultural 
+sector gains from the presence of abundant vegetation. The structure of the livestock and 
+agricultural module is pretty straightforward. The annual value of livestock is the sum of the 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 31 
+   
+ 
+    
+this study, we aim to value the climate regulation potential of Bonaire. This desk study has made 
+a rough attempt to estimate the carbon sequestration value of the main ecosystems of Bonaire on 
+the basis of actual carbon market prices. For more information on carbon sequestering ecosystem 
+services of nature of Bonaire, read Van Beukering and Wolfs (2012). 
+Art value  
+Artists are inspired by their surroundings. Such is also the case on Bonaire, where the natural 
+scenery of the island stimulates artists to use components of nature in their work. Clearly, nature 
+plays a crucial role in the production process of art on Bonaire. The demand for art consists of the 
+thousands and thousands of tourists visiting the island, who are keen to bring home a piece of art 
+to remember the beauty of the island upon their return. Moreover, the beautiful photographs and 
+books produced on Bonaire are distributed to clients across the world. Given the explicit demand 
+and supply of art on Bonaire and its strong dependence on nature, the art sector on Bonaire plays 
+an important role in the overall economy and provides an additional reason to manage nature well 
+on the island. For more information on this art value of nature of Bonaire, read Van Beukering 
+and Wolfs (2012). 
+ 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 33 
+   
+ 
+    
+4000	   460	  
+3500	   450	  
+3000	   440	  
+2500	   430	  
+2000	   420	  
+1500	   410	  
+1000	   400	  
+500	   390	  
+0	   380	  
+2010	   2020	   2030	   2040	   2050	   2010	   2020	   2030	   2040	   2050	  
+Year	   Year	  
+  
+Figure 5.1 Fish stock (t) and fish diversity variation in time for the baseline scenario 
+As of 2012, the benthic cover is dominated by algae with 42.6% coverage, followed by corals, 
+28.6% (IUCN, 2011). If all values and their interaction will suffer no change in the following 30 
+years, the benthic cover will experience a drastic decline, as shown in Figure 5.2. The algae cover 
+will constantly expand and remain constant at around 62%. After 10 years, all of the coral present 
+will have declined to a minimum of 5%. This minimum represents the cover of corals in the deep 
+reefs (20-40m). At these depths corals are less influenced by the harmful disturbances such as 
+pollutants or physical destruction. By the year 2023, 5% of benthic cover is occupied by corals. 
+The reason for such a rapid decline is in part due to a decline of herbivorous fish. Such fish are 
+important in keeping algae populations from over growing fringing corals. Also ambient nutrient 
+concentrations in the water provide excellent conditions for algae to flourish. This means that 
+algae have a competitive advantage when competing for space with corals. The algae have no 
+grazers preventing them from overgrowing the algae, and the high nutrient concentrations in the 
+water elevate growth rates. The result, coastal waters that are almost completely devoid of coral 
+cover.  
+100%	  
+90%	  
+80%	  
+70%	  
+60%	  
+Sand	  and	  Dead	  Coral	  (%)	  
+50%	  
+40%	  
+Algae	  Cover	  (%)	  
+30%	  
+Coral	  Cover	  (%)	  
+20%	  
+10%	  
+0%	  
+0	   5	   10	   15	   20	   25	   30	  
+Year	  
+ 
+Figure 5.2 Variation in benthic cover for the baseline scenario 
+ 
+ 
+IVM Institute for Environmental Studies 
+%	  	  Cover	  
+Fish	  Abundance	  (tons)	  
+Number	  of	  Fish	  Species	  
+
+The total economic value of nature on Bonaire 35 
+   
+ 
+    
+300000	  
+250000	  
+200000	  
+Stay	  Over	  
+Tourists	  	  
+150000	  
+Cruise	  Tourists	  	  
+100000	  
+50000	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Year	  
+ 
+Figure 5.4 Change in the number of tourists for the baseline scenario 
+The biodiversity value is determined by summing the research, medicinal and bio-prospecting 
+value. Figure 5.5 illustrates the variation of these values over the studied time period. There are 
+different factors that contribute to the variation in the biodiversity value. First, due to a decrease 
+in coral cover and mature forest, the chances of finding medicinal plants declines. However, 
+since the population size of Bonaire is expected to increase so will the number of people 
+benefiting from the biodiversity services. Therefore, the medicinal value of the forests increases 
+as the population increases. This value is calculated by the amount of money is saved by not 
+visiting a doctor and instead using medicinal plants found in the forest.  
+2,40	  
+2,35	  
+2,30	  
+2,25	  
+2,20	  
+2,15	  
+2,10	  
+2,05	  
+2,00	  
+2010	   2015	   2020	   2025	   2030	   2035	   2040	   2045	  
+Years	  
+ 
+Figure 5.5 Change of the Biodiversity Value for the baseline scenario 
+The existence of a high diversity of flora and fauna in both marine and terrestrial ecosystems also 
+generates economic benefits by means of non use values. The aesthetic values of the ecosystems 
+are part of non use benefits people obtain through spiritual enrichment, cognitive development, 
+reflection and aesthetic experiences. Many people find beauty or aesthetic value in various 
+aspects of ecosystems, as reflected in the support for parks, scenic drives, and the selection of 
+housing locations and enjoyment of scenery. The WTP of Dutch households to preserve nature 
+declines as the state of the reef and forest declines. In a report by van Beukering et al (2012) the 
+willingness to pay for the preservation of Bonaire’s nature is presented. During the next 30 years 
+as a result of coral reef and forest degradation it is assumed that the WTP of Dutch citizens to 
+improve Bonaires nature quality will decrease. After 30 years the WTP of Dutch households will 
+have decreased from $61 million to $26 million per year (Figure 5.6). The WTP for locals 
+decreases as this value also depends on the state of the reef and forest. 
+ 
+IVM Institute for Environmental Studies 
+Tourists	  (#)	  
+USD	  (in	  millions)	  
+
+The total economic value of nature on Bonaire 37 
+   
+ 
+    
+presence of corals. With a once in every 30 years hurricane frequency and a damage of 16.6% to 
+the total house value, the coastal protection value of coral reefs will decline from $2.93 million to 
+$2.85 million in 30 years. The reason for this decrease is the decline in the general state of the 
+reef. Since the overall capacity for corals in Bonaire to mitigate damage on coastal infrastructure 
+and housing small, the coastal protection value declines very little. Furthermore, it is also the 
+dead coral that buffer incoming waves and thus help mitigate damage to coastal infrastructure.  
+5.1.3 Total economic value  
+In order to define the TEV of Bonaire’s coral reef, the final step is to sum all the benefits which 
+were determined in the previous steps. Figure 5.8 show the decline of the TEV, from 105 million 
+USD to 37 million USD in 30 years. The TEV eventually levels out at the 37 million marker, as 
+this is where the reef and forest state reach their collective minima. Figure 5.9 shows the 
+composition of the TEV of nature of Bonaire. The non-use value contributes the most (63%) 
+followed by the tourism and recreational value (265).  
+120	  
+100	  
+80	  
+60	  
+40	  
+20	  
+0	  
+2010	   2015	   2020	   2025	   2030	   2035	   2040	   2045	  
+Years	  
+ 
+Figure 5.8 The Total Economic Value of the Bonaire’s ecosystem services 
+1%	   1%	  
+0,27%	  
+RecreaFonal	  Value	  
+5%	  
+Biodiversity	  
+26%	  
+Non	  Use	  	  
+Amenity	  
+4%	  
+Coastal	  ProtecFon	  
+63%	  
+Livestock	  &	  Agriculture	  
+Fisheries	  
+ 
+Figure 5.9 The share of each value contributing to the TEV in the baseline scenario 
+All the aforementioned values are presented without taking a discount rate into account. Figure 
+5.10 depicts the net present values of Bonaire’s nature at different discount rates, ranging from 
+0% to 15%. The NPV varies between $1.7 billion and $626 million over a 30-year period. 
+IVM Institute for Environmental Studies 
+USD	  (in	  millions)	  
+
+The total economic value of nature on Bonaire 39 
+   
+ 
+    
+100%	  
+90%	  
+80%	  
+70%	  
+60%	  
+Sand	  and	  Dead	  Coral	  (%)	  
+50%	  
+40%	  
+Algae	  Cover	  (%)	  
+30%	  
+Coral	  Cover	  (%)	  
+20%	  
+10%	  
+0%	  
+0	   5	   10	   15	   20	   25	   30	  
+Year	  
+ 
+Figure 5.11 Variation in Benthic cover for the restoration scenario 
+After 30 years the fish abundance for the interventions resulted in a fish stock of 1,571 tonnes, 
+this is 150 tons more than in the baseline scenario. The artificial reefs provide some extra habitat, 
+and a place where fish can avoid predation. Despite these efforts however fish abundance 
+declines because lionfish still predominate throughout coastal waters. This results in a decline of 
+fish abundance. The same can be said about fish biodiversity. 
+The most distinct difference between the two scenarios is in the level of forest cover (see Figure 
+5.12). Active reforestation is causing the mature forests to decline at a slower rate when 
+compared to the baseline scenario. Despite the intervention, after 20 years, mature forest cover 
+will be completely absent on the island. Free roaming livestock are the main reason for this 
+decline.  
+6000	  
+5000	  
+4000	  
+Baseline	  
+3000	  
+RestoraFon	  
+2000	  
+1000	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Year	  
+ 
+Figure 5.12  Comparison in forest cover for the baseline and restoration scenario  
+As shown in Figure 5.13, the interventions that were proposed in the restoration scenario have 
+little effect. The indicator follows the same trend as in the baseline scenario. The marine indicator 
+follows the same trend as in the baseline scenario. The interventions had a marginal influence on 
+the qualitative state of the reef. Similarly, the terrestrial indicator follows the same trend, except 
+that its value is slightly higher. This is because from the onset, in the model it was presumed that 
+more land use was allocated to mature forest cover. In total 4,000 ha that was previously used for 
+agriculture is now presumed to be used for natural forest growth. This means that the value of the 
+forest indicator has a higher value, but follows the same trend as in the baseline scenario. Despite 
+IVM Institute for Environmental Studies 
+	  %	  Cover	  
+Amount	  of	  Forest	  (hectare)	  
+
+The total economic value of nature on Bonaire 41 
+   
+ 
+    
+The sum of all the different values in this scenario reflects the same trend as seen in the baseline 
+scenario. It starts off at 105 million USD and drops to a value of $38 million (Figure 5.15). 
+Despite investments in the restoration, the net benefits are barely visible. This is because the 
+restoration efforts were inept at reversing the declining quality of the environment.  
+120	  
+100	  
+80	  
+60	  
+RestoraFon	  
+40	  
+20	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Years	  
+ 
+Figure 5.15 Variation in the TEV for the restoration scenario over time 
+When a closer look is taken at the intervention costs and the economic benefits, it becomes 
+apparent that what at first glance appears like an investment with a very low yield, actually 
+resulted in some profit. The costs of the interventions amount to $140,000 annually for the first 
+two years. After the initial investments, the maintenance costs of the artificial reefs, continuous 
+reforestation efforts and the coral nursery program sum up to an annual costs of $98,000. The net 
+benefits were calculated for the restoration scenario with respect to the baseline scenario. The net 
+benefits represent the sum of TEV over a 30 year period for different discount rates. In order to 
+obtain the cost benefit ratio, the net benefits were then divided by the intervention costs (Figure 
+5.16). Overall, the benefits exceed the costs. Only at a discount rate of 15% do the costs exceed 
+the benefits. The interventions that were simulated in this scenario are profitable. This can mainly 
+be ascribed to a non-use value worth $7 million more and the tourism and recreational value 
+worth $2 million more than in the baseline scenario.  
+4	  
+3	  
+2	  
+1	  
+0	  
+0%	   1%	   2%	   3%	   4%	   5%	   6%	   7%	   8%	   9%	  10%	  11%	  12%	  13%	  14%	  
+-­‐1	  
+Discount	  Rate	  
+-­‐2	  
+ 
+Figure 5.16 The cost benefit ratio for the restoration scenario. 
+5.3 Scenario 2 – Conservation 
+The environment of Bonaire is highly threatened by the presence of lionfish and free roaming 
+livestock. This Conservation Scenario aims at solving this problem of invasive species by. 
+1) Controlling livestock on the island: In this conservation scenario it is assumed that of the 
+30,000 goats that still roam free in the baseline scenario, only 1,000 still do after 30 years. 
+The remaining livestock is fenced and do not have the opportunity to forage on young flora. 
+IVM Institute for Environmental Studies 
+USD	  (in	  millions)	  
+Beneﬁt	  cost	  raGo	  
+
+The total economic value of nature on Bonaire 43 
+   
+ 
+    
+100%	  
+90%	  
+80%	  
+70%	  
+60%	  
+Sand	  and	  Dead	  Coral	  (%)	  
+50%	  
+40%	  
+Algae	  Cover	  (%)	  
+30%	  
+Coral	  Cover	  (%)	  
+20%	  
+10%	  
+0%	  
+0	   5	   10	   15	   20	   25	   30	  
+Year	  
+ 
+Figure 5.18 Variation in benthic cover for the conservation scenario 
+The effects of fencing the free roaming livestock are most apparent when looking at the forest 
+cover (Figure 5.19). The results of the simulation show that in this scenario, the amount of 
+mature forest cover reaches high numbers. Goat removal was implemented in stages in the 
+model, hence there first is a small decline forest cover as free roaming livestock still predominate 
+throughout the island. However, after 4 years goat numbers decrease to such a level that forests 
+have the chance to mature. From 2017 and onwards, the mature forest cover keeps on increasing. 
+After 30 years mature forest cover amounts to 7,500 hectare.  
+8000	  
+7000	  
+6000	  
+5000	  
+Baseline	  
+4000	  
+3000	  
+ConservaFon	  
+2000	  
+1000	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Year	  
+ 
+Figure 5.19 Amount of mature forest cover for the baseline and conservation scenario 
+Removing free roaming livestock not only affects the terrestrial environment but also the marine 
+environment. An increase in more mature forest cover causes a decrease in sediment runoff. This 
+means that the overall stress experienced by the corals decrease. This is visible in Figure 5.20. 
+Coral diversity still decreases, yet at a slower rate compared to the baseline scenario.  
+IVM Institute for Environmental Studies 
+	  %	  Cover	  
+Amount	  of	  Forest	  (hectare)	  
+
+The total economic value of nature on Bonaire 45 
+   
+ 
+    
+40	  
+35	  
+30	  
+25	  
+20	  
+Baseline	  
+15	  
+ConservaFon	  
+10	  
+5	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Years	  
+ 
+Figure 5.22 Comparison of the recreational value for the baseline and conservation scenario 
+The value of fisheries depends on the amount of fish caught for commercial and recreational 
+fisheries. Since fish populations have grown in numbers, the catch per unit effort increases. This 
+is reflected in the fact that the fisheries value increases substantially. After a period of 30 years, 
+the value of fisheries levels out at $1.8 million.  
+Since the coral cover is increasing and the amount of mature forest is expanding the chances of 
+encountering medicinal plants or extracting substances that can be of medicinal use, the 
+biodiversity value increases. The model simulates that after 30 years the value in the conservation 
+scenario will be $2.47 million.  
+Another value that differs substantially from the baseline scenario is the non-use value. The WTP 
+of Dutch and Bonairean depends on the qualitative state of the environment. In the baseline 
+scenario the Non-use value drops by more than $30 million. In the conservation scenario, 
+however, the value stabilises at $44 million (see Figure 5.23). 
+70	  
+60	  
+50	  
+40	   Baseline	  
+30	  
+ConservaFon	  
+20	  
+10	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Years	  
+ 
+Figure 5.23 Comparison of the Non-Use value for the baseline and conservation scenario 
+The interventions in the conservation scenario have a substantial positive influence on the 
+different ecosystem services. As a result the TEV increases compared to the baseline scenario: 
+the TEV decreases just as in the baseline scenario, however in the conservation scenario the trend 
+diverges. After 30 years the value reaches $70 million, compared to a TEV of $38 million after 
+30 years in the baseline scenario (Figure 5.15). As a result higher NPV is also emerging (Figure 
+5.24). The difference between the scenarios decreases as the discount rate increase, but there 
+remains to be a pronounced difference.  
+IVM Institute for Environmental Studies 
+USD	  (in	  millions)	  
+USD	  (in	  millions)	  
+
+The total economic value of nature on Bonaire 47 
+   
+ 
+    
+100%	  
+90%	  
+80%	  
+70%	  
+60%	  
+Sand	  and	  Dead	  Coral	  (%)	  
+50%	  
+40%	  
+Algae	  Cover	  (%)	  
+30%	  
+Coral	  Cover	  (%)	  
+20%	  
+10%	  
+0%	  
+0	   5	   10	   15	   20	   25	   30	  
+Year	  
+ 
+Figure 5.25 Variation in the benthic cover for the sewage treatment scenario 
+The other ecological parameters indicate little to no improvement in the model. Fish diversity and 
+abundance follows the same trend as in the baseline scenario. The terrestrial parameters are also 
+not affected. No negative effects by nutrient loading on the terrestrial ecosystem are assumed.  
+Despite the fact that the implementation of a sewage treatment plant only seems to affect coral 
+and algae cover, the marine indicator reaches its highest level of 0.59 (left side of Figure 5.26). 
+The main reason is that the coral cover is one of the parameters that has the heaviest weight in 
+determining the marine indicator.  
+The terrestrial indicator actually reaches a lower level than in the baseline scenario (right side of 
+Figure 5.26). The reason for this is twofold. First, there is nothing done to improve the qualitative 
+state of the reef, and second the amount of pressure exerted by tourists increases as the tourists 
+increase (see next section). 
+0,80	  
+0,30	  
+0,70	  
+0,25	  
+0,60	  
+0,20	  
+0,50	  
+0,40	  
+0,15	  
+0,30	  
+0,10	  
+0,20	  
+0,05	  
+0,10	  
+0,00	  
+0,00	  
+2010	   2020	   2030	   2040	   2050	  
+2010	   2020	   2030	   2040	   2050	  
+Year	  
+ Year	  
+ 
+ 
+Figure 5.26 Comparison of the Marine Indicator (left) and the Terrestrial Indicator (right) for 
+the baseline and sewage scenario 
+5.4.2 Economic model 
+Because the quality of the reef is increasing and most tourists that visit the island come for the 
+aesthetic value of the coral reefs, there is an expansion in tourists visiting annually. Once again, it 
+is the cruise tourists that increase substantially, from 230,000 to 550,000 in the 30 year period 
+(see Figure 5.27). Such an increase in the cruise tourists has a negative influence on the visitation 
+IVM Institute for Environmental Studies 
+State	  of	  the	  Reef	  Indicator	  
+	  %	  Cover	  
+State	  of	  the	  Forest	  Indicator	  
+
+The total economic value of nature on Bonaire 49 
+   
+ 
+    
+70	  
+60	  
+50	  
+40	  
+Baseline	  
+30	  
+Sewage	  
+20	  
+10	  
+0	  
+2010	   2015	   2020	   2025	   2030	   2035	   2040	   2045	  
+Years	  
+ 
+Figure 5.29 Comparison of the non-use value between the baseline and sewage scenario 
+Other values that contribute also increase are the amenity and the biodiversity value. All caused 
+by an increase in coral cover. The biodiversity value of the corals increases with 7 million USD. 
+After 30 years, the amenity value has increased by $70,000 when compared to the baseline 
+scenario.  
+The creation of the sewage treatment plant is the most expensive intervention proposed within 
+this report. However, it has also proven to be the scenario with the highest TEV. After the 30 
+year simulation period the TEV reaches a value of $71 million (Figure 5.30). The sewage 
+treatment plant resulted in a TEV that is two million higher than the conservation scenario and 
+over $33 million more than the baseline scenario.  
+ 
+120	  
+100	  
+80	  
+60	   Baseline	  
+Sewage	  
+40	  
+20	  
+0	  
+2010	   2020	   2030	   2040	   2050	  
+Years	  
+ 
+Figure 5.30 Comparison of the TEV between the baseline and sewage scenario 
+The allocation of the different benefits is similar to the ones in the other scenarios: the non-use 
+and the tourism and recreational value contribute the most to the TEV. The net present value is 
+the highest at each discount rate compared to all other scenarios. At the lowest discount rate the 
+NPV is $2,450 million and at the highest discount rate the NPV is $680 million (Figure 5.31). 
+Despite having the highest TEV, the cost benefit ratio is not as good as in the conservation 
+scenario. With a discount rate of 0% the highest ratio value is 7.45 and at a discount rate as high 
+as 15% the benefit cost ratio still exceeds 1 (sees Figure 5.32). This proves that the investment in 
+the sewage treatment plant pays off, even at high discount rates.   
+IVM Institute for Environmental Studies 
+USD	  (in	  millions)	  
+USD	  (in	  millions)	  
+
+The total economic value of nature on Bonaire 51 
+   
+ 
+    
+6 Conclusions & Recommendations  
+The analysis of the wide range of ecosystem services provided by the natural environment of 
+Bonaire generates many opportunities for decision makers to improve economic and 
+environmental policies on the island. To deliver information to decision makers the first step is to 
+calculate the Total Economic Value (TEV) and to grasp the role of nature in the Bonairean 
+economy. Next, an extended cost-benefit analysis of alternative future scenarios provides an 
+objective means of deciding which interventions in the economy and environment generate the 
+highest yield. Such an integral approach is intended to ensure the betterment of Bonaire’s 
+environment while at the same time warranting sustainable economic development.  
+6.1 Validity of the model and lessons to be learned 
+The mutual relationship between ecological and economic processes of coral reef ecosystems is 
+strong. Therefore, a multidisciplinary approach is essential in tackling the multiple threats that 
+currently face the fragile ecosystems of Bonaire. The ecological economic simulation model is 
+nothing but a first attempt to provide a platform for ecologists and economists to exchange 
+knowledge on the degradation and management of the nature of Bonaire. Some will consider the 
+simplifications that have been made in building the model and in conducting the management 
+scenarios unacceptable. Indeed, we acknowledge that this is the weaker aspect of the approach 
+followed. Yet, although the model simulations are far from accurate and sometimes lack the 
+desired level of comprehension, they do provide a representation of the current state of the 
+scientific knowledge available in the literature. Moreover, unlike most mono-disciplinary studies, 
+the simulation model contains the main elements required to oversee the full picture of nature 
+reef management on Bonaire and thereby enables scientist and managers to evaluate ecological 
+and economic impacts effectively. Finally, the model does provide insights into the economic 
+importance of nature for Bonaire and also sheds light on the effectiveness of various potential 
+management interventions, although these lessons are surrounded by great uncertainty. Some of 
+the main lessons of the study are summarised below. 
+6.2 Total Economic Value versus Total Financial Value  
+By summing up the worth of the range of valued ecosystem services, the TEV of the natural 
+environment of Bonaire is estimated to be more than $105 million annually. To get an idea of the 
+importance of nature for Bonaire, it is useful to compare the TEV of nature to the Gross 
+Domestic Product (GDP). The GDP of the Bonaire economy was around $224 million in 2008, 
+which means that welfare derived either directly or indirectly from ecosystems is almost half of 
+Bonaire’s economy. Compared to other island-based studies, this shows that the economy of 
+Bonaire has an extremely high dependence on their natural environment. Although the TEV of 
+nature on Bonaire is very large, this aggregated value is composed of numerous latent welfare-
+related values that are not necessarily translated into actual monetary flows. For example, the 
+value by Dutch mainland citizens is a genuine economic value, yet, at the same time, this 
+ecosystem service is predominantly a non-financial value (i.e. its value is not [fully] transferred 
+in money terms to the financial economy of Bonaire). Of the TEV of $105 million, only one-third 
+of this amount (i.e. $37 million) is truly traceable in the financial accounts of the economy of 
+Bonaire. The majority of this financial value is captured by the tourism sector. 
+6.3 Costs and benefits of environmental measures  
+Through the use of simulation models, scenario development, and cost-benefit analysis the 
+efficiency of various interventions is determined. Out of the extensive analysis of the ecosystem 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 53 
+   
+ 
+    
+References 
+Van Zanten, B., Van Beukering, P. and Wolfs E. (2012) on the coastal protection value of coral 
+reefs of Bonaire. Report number R12-XX, Institute for Environmental Studies VU 
+University Amsterdam, the Netherlands, December 2012 
+Schep S, Brander L, Van Beukering P, Wolfs E (2012a). The touristic value of nature on Bonaire. 
+A multiple valuation techniques approach. Report number R12-XX, Institute for 
+Environmental Studies VU University Amsterdam, the Netherlands, December 2012 
+Schep S, Johnson AE, Van Beukering P, Wolfs E. (2012b). The fishery value of coral reefs in 
+Bonaire. Applying various valuation techniques. Report number R12-XX, Institute for 
+Environmental Studies VU University Amsterdam, the Netherlands, December 2012 
+Lacle F, Wolfs E, Van Beukering P, Brander L. (2012). Recreational and cultural value of 
+Bonaire s nature to its inhabitants. Report number R12-XX, Institute for Environmental 
+Studies VU University Amsterdam, the Netherlands, December 2012 
+Van Beukering P, Botzen W, Wolfs E. (2012). The non-use value of nature ion the Netherlands 
+and the Caribbean Netherlands. Applying and comparing contingent valuation and choice 
+modelling approaches. Report number R12-XX, Institute for Environmental Studies VU 
+University Amsterdam, the Netherlands, December 2012 
+Van Beukering P. and Wolfs E. (2012). Essays on economic values of nature of Bonaire. A desk 
+study. Report number R12-XX, Institute for Environmental Studies VU University 
+Amsterdam, the Netherlands, December 2012 
+Albins, M. A. (2011). Effects of the Invasive Pacific Red Lionfish Pterois volitans on Native 
+Atlantic Coral-reef Fish Communities. PhD Thesis, Oregon State University, Department of 
+Zoology, 224 pp. 
+Albins, M. A. & Hixon, M. A. (2011). Worst case scenario: potential long-term effects of 
+invasive predatory lionfish (Pterois volitans) on Atlantic and Caribbean coral-reef 
+communities. Environmental Biology of Fishes. doi:10.1007/s10641-011-9795-1 
+Alevizon, W. (2009). Caribbean Coral Reefs: Types, Characteristics, Marine Life. Retrieved from 
+http://www.coral-reef-info.com/caribbean-coral-reefs.html. Accessed. June 13, 2012 
+Annual Statistics Report. (2009). Bonaire Tourism. Bonaire Report 2008. Tourism Corporation 
+Bonaire, Dutch Caribbean, 35 pp.  
+Arias-González, J. E., Nuñez-Lara, E., González-Salas, C., & Galzin, R. (2004). Trophic models 
+for investigation of fishing effect on coral reef ecosystems. Ecological Modelling, 172(2-4), 
+197-212. doi:10.1016/j.ecolmodel.2003.09.007 
+st
+Art, H. W. (1993). Eutrophication - A dictionary of ecology and environmental science (1 
+edition). New York. Henry Holt and Company, 196 pp. 
+Bak, M., Nieuwland, G., & Meesters, E. H. (2009). Coral Growth Rates Revisited After 31 
+Years: What is Causing Lower Extension Rates in Acropora Palmata?. Buletin of Marine 
+Science, 84(3), 287-294. 
+Bak, R. P. M., Nieuwland, G., & Meesters, E. H. (2005). Coral reef crisis in deep and shallow 
+reefs: 30 years of constancy and change in reefs of Curacao and Bonaire. Coral Reefs, 24(3), 
+475-479. doi:10.1007/s00338-005-0009-1 
+Baker, A. C., Glynn, P. W., & Riegl, B. (2008). Climate change and coral reef bleaching: An 
+ecological assessment of long-term impacts, recovery trends and future outlook. Estuarine, 
+Coastal and Shelf Science, 80(4), 435-471. Elsevier Ltd. doi:10.1016/j.ecss.2008.09.003 
+Barott, K. L., Rodriguez-Mueller, B., Youle, M., Marhaver, K. L., Vermeij, M. J. a, Smith, J. E., 
+& Rohwer, F. L. (2012). Microbial to reef scale interactions between the reef-building coral 
+Montastraea annularis and benthic algae. Proceedings. Biological sciences / The Royal 
+Society, 279(1733), 1655-1664. doi:10.1098/rspb.2011.2155 
+Blackwood, J. C., Hastings, A., & Mumby, P. J. (2011). A model-based approach to determine 
+the long-term effects of multiple interacting stressors on coral reefs. Ecological 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 55 
+   
+ 
+    
+De Meyer K. (1998). Bonaire, Netherlands Antilles. Coastal region and small island. Papers 3. 
+Debrot, A. O., & Bugter, R. (2010). Climate change effects on the biodiversity of the BES 
+islands.Altera Report 2081, Wageningen. 40 pp. 
+Dew, I. M. (2001). Theoretical model of a new fishery under a simple quota management system. 
+Ecological Modelling, 143(1-2), 59-70. doi:10.1016/S0304-3800(01)00356-8 
+Edwards, H. J., Elliott, I. A., Eakin, C. M., Irikawa, A., Madin, J. S., Mcfield, M., Morgan, J. A., 
+van Woesik R., & Mumby P.J. (2011). How much time can herbivore protection buy for 
+coral reefs under realistic regimes of hurricanes and coral bleaching? Global Change 
+Biology, 17(6), 2033-2048. doi:10.1111/j.1365-2486.2010.02366.x 
+Evans, G.R. (1997). Economic Models - Chapter 1. Retrieved July 17, 2012 from 
+http://www2.hmc.edu/~evans/chap1.pdf 
+Gardner, T. A, Côté, I. M., Gill, J. A, Grant, A., & Watkinson, A. R. (2003). Long-term region-
+wide declines in Caribbean corals. Science (New York, N.Y.), 301(5635), 958-60. 
+doi:10.1126/science.1086050 
+Groenenboom, W. and K. R. (2009). Document Bonaire (p. 23). Leveroij BV. Retrieved June 13, 
+2012 from http://books.google.nl/books?id=abvJGRo_EuoC&hl=nl&source=gbs_navlinks_s 
+Hal, C.A.S. & Day, J.W.(1990). Ecosytem Modeling in Theory and Practice: An Introduction 
+with Case Histories. University Press of Colorado. pp. 7–8. ISBN 0-87081-216-5. 
+Harty, M. (2011). Christmas tree worms (Spirobranchus giganteus) as a potential bioindicator 
+species of sedimentation stress in coral reef environments of Bonaire, Dutch Caribbean. 
+PhysisJournal of marine science. vol.IX, 31 pp. 
+Hoegh-Guldberg, O. (1999). Climate change, coral bleaching and the future of the world’s coral 
+reefs. Marine and Freshwater Research, 50, 839-66. 
+Hoegh-Guldberg, O., Mumby, P. J., Hooten, a J., Steneck, R. S., Greenfield, P., Gomez, E., 
+Harvell, C. D., et al. (2007). Coral reefs under rapid climate change and ocean acidification. 
+Science (New York, N.Y.), 318(5857), 1737-42. doi:10.1126/science.1152509 
+Holmes, G., & Johnstone, R. W. (2010). Modelling coral reef ecosystems with limited 
+observational data. Ecological Modelling, 221(8), 1173-1183. Elsevier B.V. 
+doi:10.1016/j.ecolmodel.2010.01.010 
+ICRI (International Coral Reef Initiative). (n.d.). Status of and threat to coral reefs. Retrieved 
+June 16, 2012 from http://www.icriforum.org/about-coral-reefs/status-and-threat-coral-reefs 
+InfoBonaire. (2012). Activities on Bonaire. Retrieved June 17, 2012 from 
+http://www.infobonaire.com/activities.html 
+IUCN. (2011). Coral Reef Resilience Assessment of the Bonaire National Marine Park , 
+Netherlands Antilles. Gland, Switzerland. 51 pp. 
+Lacle, F. A. (2012). Recreational and cultural value of Bonaire’ s nature to its inhabitants. 
+Research project Msc. Faculty of Earth and Life Sciences, Vrije University Amsterdam. 86 
+pp.  
+McClary, M. & (2010). The Encyclopedia of Earth - Threats to coral reefs. Retrieved June 10, 
+2012 from http://www.eoearth.org/article/Threats_to_coral_reefs?topic=49513#gen9 
+McClanahan, T. R. (1995). A coral reef ecosystem-fisheries model: impacts of fishing intensity 
+and catch selection on reef structure and processes. Ecological Modelling, 80(1), 1-19. 
+doi:10.1016/0304-3800(94)00042-G 
+Meindertsma, J. D. (n.a.). Cost Benefit Analysis III: Environmental Perspective - Key Concept. 
+Learning resource for ICRA. Retrieved July 10, 2012,from http://www.icra-
+edu.org/objects/anglolearn/Cost_Benefit_Analysis_3-Key_Concepts(new).pdf 
+Millennium Ecosystem Assessment. (2005). Ecosystems and Human Well-being: Synthesis. 
+Island Press, Washington, DC. 
+Millspaugh, J. J., & Thompson F. R. (2009). General Principles for Developing Landscape 
+Models for Wildlife Conservation. Models for planning wildlife conservation in large 
+landscapes. Academic Press. p. 1. ISBN 978-0-12-373631-4. 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 57 
+   
+ 
+    
+System, I. (2012). Stella - Systems Thinking for Education and Research. Retrieved April 15, 
+2012 from http://www.iseesystems.com/softwares/Education/StellaSoftware.aspx 
+Systems Management College. (2001). Systems Engineering Fundamentals. Supplementary Text 
+Prepared By The Defense Acquisition University Press Fort Belvoir, Virginia 22060-5565. 
+170 pp 
+Tanner, J. E. (1995). Competition between scleractinian corals and macroalgae: An experimental 
+investigation of coral growth, survival and reproduction. Journal of Experimental Marine 
+Biology and Ecology, 190(2), 151-168. doi:10.1016/0022-0981(95)00027-O 
+The Nature Conservancy. (2012). Bonaire. Coral reefs-A reef resilience toolkit module. 
+Retrieved July 17, 2012 from http://www.reefresilience.org/Toolkit_Coral/C8_Bonaire.html 
+Thur, S. M. (2010). User fees as sustainable financing mechanisms for marine protected areas: 
+An application to the Bonaire National Marine Park. Marine Policy, 34(1), 63-69. Elsevier. 
+doi:10.1016/j.marpol.2009.04.008 
+van Beukering, P., Haider, W., Longland, M., Cesar, H., Sablan, J., Shjegstad, S., Beardmore, B., 
+et al. (2007a). The economic value of Guam’s coral reefs. Technical Report nb.116. 
+University of Guam Maryne Laboratory. 130 pp 
+Van Beukering, P., Brander, L., Tompkins, E. and McKenzie, E., (2007b), Valuing the 
+Environment in Small Islands - An Environmental Economics Toolkit, ISBN 978 1 86107 
+5949 
+van Beukering, P., Brander, L., van Zanten, B., Verbrugge, E., & Lems, K. (2011). The 
+Economic Value of the Coral Reef Ecosystems of the United States Virgin Islands.IVM 
+Report, R-11/06, VU University Amsterdam. 160 pp. 
+van Kekem, A. J., Roest, C. W. J., & and van der Salm, C. (2006). Critical review of the 
+proposed irrigation and effluent standards for Bonaire. Alterra Report nb.1289. 
+Wageningen. 129 pp. 
+Vermeij, M. J. a, van Moorselaar, I., Engelhard, S., Hörnlein, C., Vonk, S. M., & Visser, P. M. 
+(2010). The effects of nutrient enrichment and herbivore abundance on the ability of turf 
+algae to overgrow coral in the Caribbean. PloS one, 5(12), e14312. 
+doi:10.1371/journal.pone.0014312 
+Vermeij, M. J. A. (2012). The current state of Curacao’s coral reefs.Report for Carmabi 
+Foundation/University of Amsterdam. 34 pp. 
+Watzold, F., Drechsler, M., Armstrong,C. W., Artner, S.F., Grimm,V., Huth,A., Perrings, C., 
+Possingham,H.G., Shogren,J. F.,  Skonhoft,A., Verboom-Vasiljev ,J. & Wissel, C.(2006). 
+Ecological-Economic Modeling for Biodiversity. Conservation Biology Volume 20, No. 4, 
+1034–1041 
+Management: Potential, Pitfalls, and Prospects 
+West Bay Website. (2012). West Bay Harbour. Retrieved July 17, 2012, from 
+http://www.westbay.co.uk/harbour/ 
+Wieggers, M. W. (2007). Impact of Increased Nutrient Input on Coral Reefs on Bonaire and 
+Curacao. Utrecht University. Report University Utrecht. 66 pp. 
+Wolfs, E. (2010). What ’ s Bonaire Nature worth?.Project proposal. 48 pp. 
+World Bank. (2012). GDP growth (annual %). Retrieved June 18, 2012, from 
+http://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG/countries?display=graph 
+WRI (World Resources Institute). (n.d.). Reefs at Risk in the Caribbean.Retrieved May 25, 2012 
+from http://www.wri.org/publication/content/7918 
+ 
+ 
+ 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 59 
+   
+ 
+    
+discharge of secondary treated sewage from the resort on Hayman Island. On Green Island 
+sewage from septic systems is subject to primary treatment before discharge. They attribute the 
+increase in seagrass beds to nutrient enrichment from sewage discharge. At John Brewer Reef 
+Floating Hotel (removed in 1989) treated sewage was transported and discharged 5 km off the 
+reef and the only effluent discharged was brine from the desalination plant. Overall, coral cover 
+increased in the vicinity of the hotel and the authors conclude that there was no detrimental 
+impact of its placement or operations. They suggest that the impact of sewage discharges on coral 
+communities is mostly dependent on the level and quality of treatment.  
+There are some field studies in which nutrients were experimentally enhanced. In 72 ammonium 
+and phosphate were added to a patch reef at One Tree Island (GBR). Nutrient addition increased 
+primary production (photosynthesis) (Kinsey and Domm 1974) and reduction of calcification . 
+The experiments were repeated in a broad scale set up with multiple patches with different 
+nutrient additions and measurements of a wide range of variable in 1993-1996 in the ENCORE 
+project. Hoegh-Guldberg et al. (1997) studied the impact of nutrient enrichment in the Great 
+Barrier Reef as part of the ENCORE project (Enrichment of Nutrients on Coral Reefs 
+Experiment). Nitrogen and phosphorus (10 mM NH4 and 2 mM PO4 were added to experimental 
+corals on micro-atolls. Although the results of the experiment were not conclusive, it is suggested 
+that increased levels of phosphorus have a negative effect on coral growth. Strong seasonal 
+variation in calcification rates appears to have masked the impact in the experiment. The final 
+conclusions of ENCORE sum up to: increased coral mortality, decreased coral growth, increased 
+calcification but lower skeletal density (weak structure) and reduced settlement of larvae (Koop, 
+et al. 2001).  
+Simmons and Associates (1994), in their study of the impact of tourism on the marine 
+environment of the Caribbean, note that “….the impact of liquid waste from yachts has been 
+poorly studied in the Caribbean region. While it is very likely to have an effect on water quality 
+in lagoons and semi-enclosed bays, its impact is probably small or negligible in open bays with 
+adequate flushing.” Talge (1992) also touches on the issue of nutrient enrichment by diver 
+activities and boat effluents. She raises the question: “…. But are the amounts significant and do 
+they remain over and around the reef long enough to fertilize reef communities?” These 
+questions have remained unanswered to date.  
+An interesting quote from the abstracts of the 10th International Coral Reef Symposium in Bali 
+of which the proceedings will hopefully come out shortly: Bucher, D.J. “Ammonium reduced the 
+ability of corals to repair lesions, a result which has implications for the recovery of polluted 
+reefs following physical damage.” 
+The hampering of natural restoration through reproduction is of utmost importance: “The point 
+is, while levels of stress may be sub-lethal to adult coral colonies, they may be sufficient to cause 
+reproductive and recruitment failure on nearby and distant reefs (Richmond 1993). Reefs may 
+still hang in there, but where is a future without new generations? 
+Nutrients can either lead to reduced coral cover by direct harmful effects or by stimulating algae 
+which then outgrow and out-compete corals. Well known cases of coral-algal phase shifts are 
+Kaneohe Bay in Hawaii (Smith, et al. 1981) and Jamaica (Hughes 1994). For simplicities sake 
+the mechanism of influence is by-passed and a direct relation between nutrients and coral cover is 
+sought, because the problem with algal overgrowth is hugely complex, uncertain (“Competitive 
+outcomes did not support the argument that algae are more successful competitors in more 
+eutrophic conditions” (McCook 2001)) and difficult to quantify (McCook 1999, McCook 2001, 
+McCook, et al. 2001). Field data have been chosen from Barbados (Tomascik and Sander 1985, 
+Tomascik and Sander 1987, Wittenberg and Hunte 1992), Brazil (Costa, et al. 2000), Curaçao 
+(Gast 1992, Gast 1998, Gast, et al. 1998, Gast, et al. 1999), Kaneohe Bay (Smith, et al. 1981, 
+Hunter and Evans 1995) and Reunion (Naim 1993), which are used to distil relationships 
+between nutrients and coral cover and the number of coral species. Figure A.1 includes the data 
+of all these studies and shows that there is a general trend of higher concentrations causing lower 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 61 
+   
+ 
+    
+Equations:  
+• % coral cover = 32 – 15*DIN (mM) 
+• % coral cover = 31 – 30*NH4 (mM) 
+• % coral cover = 19 – 13*NO3 (mM) 
+• # coral species = 33 – 11*DIN (mM) 
+• # coral species = 31 – 22*NH4 (mM) 
+• # coral species = 33 – 22*NO3 (mM) 
+Remarks:  
+• Regressions of # coral species Barbados and Curaçao data 
+• For coral cover the data from Curaçao have been separated from the rest of the data set, 
+because the show a far higher coral cover with comparable nutrient concentrations (the cause 
+could be different local circumstances or a difference in methods with which the data were 
+obtained).  
+• Although it is ridiculous to draw a line through two points, this has only been done to show 
+that the slopes of the lines are comparable and that the patterns at Curaçao are comparable to 
+those of all other sites combined regardless of the higher cover.  
+• Correlation coefficients are included in the excel sheet. However, as the measuring error of 
+nutrients is negligible compared to the uncertainties in establishing coral cover and because 
+there is an a priory accepted effect of the X variable on the Y variable, regression is assumed 
+to be justified. 
+The final choice in for modelling nutrient pollution is to concentrate on DIN rather than either 
+nitrate or ammonium, because: (1) Ammonium is rapidly converted via nitrite to nitrate by 
+nitrifying bacteria in the reef water column and sediments; (2) The conversion of urea to 
+ammonium to nitrite to nitrate also takes place in the sewage system. As these processes are 
+oxygen dependent, mainly ammonium enhanced with direct discharge of untreated sewage, but 
+an unknown mixture of ammonium and nitrate is brought into the water column with the outflow 
+of a sewage treatment plant; and (3) Groundwater seepage always and mainly leads to enhanced 
+nitrate concentrations, because the long residence times give ample opportunity for the 
+conversion. 
+Hence the use of DIN includes bacterial conversion effects and covers both sewage discharge and 
+groundwater seepage. As the slopes differ with a stronger effect of ammonium, one of the other 
+figures could be applied accordingly in areas where the main eutrophication cause is known.  
+The number of scleractinian corals also decreases with eutrophication. DIN is chosen again, 
+because it shows the strongest relation (Figure A.3) and to be consistent with the coral cover 
+equation. 
+30
+25
+20
+15
+y = -10.779x + 32.897
+10
+2
+R = 0.634
+5
+0
+0.00 0.50 1.00 1.50 2.00
+DIN (microM)
+ 
+Figure A.3 Decreasing number of stony coral species with increasing DIN concentration. Data 
+from Curaçao and Barbados (see earlier references). 
+IVM Institute for Environmental Studies 
+number of coral species
+
+The total economic value of nature on Bonaire 63 
+   
+ 
+    
+• Decreased calcification. 
+• Decreased net productivity of corals. 
+• Slower rates of reef accretion. 
+Marszalek (1981) monitored the impact of a large-scale dredging operation for beach 
+replenishment in Miami, Florida. He distinguished three types of impact: mechanical damage, 
+sediment loading and increased turbidity. A substantial percentage of coral colonies showed signs 
+of stress such as partial bleaching, polyp swelling and excessive mucus secretion. He suggests 
+that sustained increased turbidity was more detrimental than short-term sediment loading.  
+During a 9 months dredging operation in 1987 in Thailand reefs subject to the resulting 
+sedimentation showed significant decreases of coral cover and coral diversity (Brown 1990). 
+However, these reefs were recovered in 1988 to pre-dredging levels.  
+Work by Hubbard et al. (1987) in St. John, US Virgin Islands, demonstrates a gradual decrease in 
+growth by 10-20% over the past 100 to 200 years. Their data suggest that this decline may be due 
+to increased sedimentation following the cultivation period of the island. 
+Van’t Hof (1983) describes the effects of dredging and excavation (to construct a canal system 
+and waterfront home sites in a limestone cliff) on the fringing reef in Bonaire. Dredging resulted 
+in sediment loading of almost 100 times the background level and a decrease in percent live coral 
+cover adjacent to the dredge site. The largest change in percent live coral cover was observed on 
+the lower reef slope (35m depth, dominated by Agaricia lamarcki) from 73% cover pre-dredging 
+to 32% post-dredging. 
+Hodgson (1990) determined that sedimentation inhibited settlement of coral larvae on artificial 
+substrate in a common Indo-Pacific coral species, thus potentially affecting coral recruitment 
+under natural circumstances.  
+Extensive studies on effects of sedimentation in combination with eutrophication are those done 
+at Barbados by Tomascik & Sander. They measured both suspended particulate matter (SPM), 
+which is an indication of particles in the water column, and total downward flux of SPM (DF-
+SPM), which shows how many of those particles sink down on corals on the bottom. 
+Comparisons of the sampling stations show that these two variables do not always follow the 
+same trend: a large amount of particles in the water column does not necessarily lead to high 
+downward sedimentation. The significance of difference between the 2 variables lies in the 
+mechanism of damage: the former reduces light available to corals and thus photosynthesis, 
+while the latter leads to smothering, which corals have to remove. The end result is in so far the 
+same that the coral has less energy available and is weakened. Rather surprisingly, there was a 
+significant negative relation between SPM and coral cover, but not between DF-SPM and coral 
+cover. However, this last correlation did become significant when only the summer data were 
+used. Apparently, the physical circumstances (current, waves) determine whether sediment rains 
+down or stays suspended in the water column. The studies mentioned above show reductions of 
+coral growth rates, cover, coral species, diversity, numbers of larvae, settlement, and changes in 
+coral community composition.  
+Another Caribbean island where extensive studies have been done on anthropogenic effects is 
+Curaçao. Aspects of corals and coral reef ecology have been compared between influenced sites 
+directly in front of Willemstad and non-affected sites upcurrent. Increased sedimentation has 
+been measured by Meesters (Meesters, et al. 1992). This sedimentation caused a reduced capacity 
+to heal artificial lesions (Gast 1992, Meesters, et al. 1992). Comparison of the coral reef 
+community (chain line transect method, the coral species or substrate type under each chain was 
+scored) at the impacted and control sites showed a reduction of coral cover from circa 60% to 
+35%, a reduction of the number of coral species from 20 to 13 (9 m depth) and reduction of the 
+coral diversity index (Shannon-Weaver) from 2.33 to 1.65 (Gast 1992). The whole coral 
+community had been changed quite drastically. The control reefs showed a high variety in 
+species and growth forms of virtually only stony corals. But reefs in front of Willemstad are 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 65 
+   
+ 
+    
+Annex C Physical anthropogenic damage 
+Several authors have researched and documented snorkeler and diver damage. It is often difficult 
+to distinguish such damage from natural damage or other forms of human-induced damage (for 
+example, see Rogers et al., 1988). This points to the need to design research methods that will 
+target a specific issue and eliminate compounding factors. Hawkins and Roberts (1993b) and 
+Scura and Van’t Hof (1993) have applied such methods by comparing heavily dived and little 
+dived areas and by looking at gradients of impact along a line of decreasing recreational activity. 
+Rogers et al. (1988a, 1988b) monitored coral breakage at two reefs in the Virgin Islands National 
+Park and Biosphere Reserve (VINP), as well as individual Elkhorn coral colonies (Acropora 
+palmata). They attributed broken coral branches to careless snorkelers, boat strikes and swells. 
+They noticed divers and snorkelers bumping into corals or standing on them, and overturning 
+corals to reach lobster. Even in the absence of major storms or other stresses, only 10 of 50 
+tagged Elkhorn coral colonies remained undisturbed over a 7-month period of observation. 
+Rogers et al. (1988a) report that at Trunk Bay in VINP, where a snorkeling trail was established 
+in the early sixties –receiving 170,000 visitors annually by 1986- “.... the trail has deteriorated 
+substantially as a result of people standing on corals, breaking coral branches while snorkeling, 
+and removing organisms as souvenirs.” 
+Tilmant (1987) and Tilmant and Schmahl (1981) studied the impact of recreational activities on 
+buoyed reefs in Biscayne National Park, Florida. Each buoyed reef received three or more times 
+as much use as its control. The most frequent recreational activities were snorkeling and spear 
+fishing. The mean frequency of damaged coral encounters ranged from 35 to 140 per 30-minute 
+count. Although significant differences in damage between buoyed reefs and controls did occur 
+at some sample points, such differences did not follow a consistent pattern that could be readily 
+attributed to human use. Incidence of damage to soft corals was much higher than that to hard 
+corals. They recognized that, since the level of recreational use on the reefs studied was relatively 
+low (no more than 1,500 people per reef per year), the impacts may be more severe at higher 
+levels of use.  
+Talge (1991) studied the behavior of snorkelers and SCUBA divers in the Looe Key National 
+Marine Sanctuary, Florida, in terms of the number of interactions between divers and coral. The 
+interactions she observed were: 
+• Hand on the coral to steady or help gain control 
+• Kicking or brushing with the fins 
+• Standing on corals 
+• Grabbing corals (especially soft corals) to pull themselves through the water 
+• Rubbing against coral with any part of the body 
+• Sitting coral with the SCUBA tank or other pieces of equipment 
+• Creating sediment clouds 
+The most frequent interactions were “finning” and “push-off”. The average number of 
+interactions per diver is ten per dive. Snorkelers had significantly less interactions than SCUBA 
+divers, divers without gloves had fewer interactions than divers with gloves, and females had 
+fewer interactions than males. Over two-thirds of the interactions were with hard corals. This 
+contrasts with the findings of Tilmant and Schmahl (1981) and may well be due to the selection 
+of the study sites, one being comparatively richer in soft corals than the other. Coral breakage 
+included only 0.6% of all incidents. This author also expressed concern with increase in nitrogen 
+concentration of the water by divers urinating over the reef. This concern has not been 
+substantiated by further research.  
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 67 
+   
+ 
+    
+rock and rubble was significantly higher, while percentage of live coral cover and number of hard 
+coral colonies were lower. Coral colonies were also smaller in trampled areas compared with 
+control areas. In summary, heavy trampling by divers appears to alter the coral population 
+structure of the reef flat. Although the Western Atlantic reefs do not have extensive reef flats as 
+occur in Indo-Pacific reefs, some Caribbean islands have experienced or continue to experience 
+the effect of divers and snorkelers treading on coral. Buccoo Reef in Tobago is probably the most 
+infamous example of the destruction caused by reef walking (see Rogers et al., 1988b). Where 
+shore diving is practiced, divers and snorkelers will also have some impact on shallow reef areas 
+by trampling.  
+Hawkins and Roberts (1992a, 1992b, 1993a, 1993b, 1994) compared heavily dived and un-dived 
+areas in Egypt and found significant differences in levels of damage. Numbers of broken hard 
+coral colonies, live loose coral fragments, reattached fragments, abraded colonies, and part-dead 
+colonies were higher in dived areas. They concluded that divers cause significant damage to 
+benthic communities on the fore-reef slope. Their findings suggest that damage accumulates 
+rapidly when a new site is opened up for diving, with impact stabilizing after a certain level of 
+use had been reached. The three study sites received between 5,000 and 13,000 dives per year. 
+Hawkins and Roberts (1994) suggest that dive sites at Sharm-el-Sheik in Egypt can accommodate 
+10,000 to 15,000 dives per year without serious degradation. 
+Epstein et al. (1999) compared populations of the hard coral Stylophora pistillata at a site that had 
+been closed to the public for six years with two nearby sites, open to the public, in Eilat, Northern 
+Red Sea. The main results of the study indicate that: (1) live coral cover was three times lower at 
+the open sites than at the closed site; (2) there were significantly more small colonies (recruits) at 
+the open sites and significantly less large-size colonies; (3) the average number of broken 
+colonies was three times higher at the open sites. They interpret the lower breakage level in the 
+closed site as a sign of the effectiveness of the closure, but they also conclude that a no-use 
+policy is not sufficient for protecting small reef areas.  
+Jameson et al. (1999) developed a Coral Damage Index (CDI) to assess the extent and severity of 
+physical damage to coral. Sites are characterized as “hot spots” if in any transect the percent of 
+broken coral colonies is 4% or more, or if the percent cover by coral rubble is 3% or more. In a 
+study of four diving sites off Hurghada and Safaga, Egypt, in the Red Sea, 40% of the transects 
+surveyed qualified as “hot spots”. The relatively large number of hot spots in shallow water 
+suggests that most of the damage was caused by anchors dragging across the reef. They conclude 
+that the diving carrying capacity of the sites is being exceeded by large amounts.  
+Muthiga and McClanahan (1997) compared the impact of visitor use (diving and snorkeling) in 
+heavily used sites and less frequented sites. They found no significant differences in coral cover 
+or bare rock and rubble between sites, nor differences in coral species composition and diversity. 
+However, there was significantly more damage to coral in the high-use sites, as evidenced by the 
+number of broken, abraded, and broken and reattached coral colonies. Greater damage as 
+observed in shallow than deep areas, which may indicate that snorkelers have more impact than 
+SCUBA divers. Differences between the results of this study and those in the Red Sea may be 
+explained to a large extent by the much higher visitation levels in the Red Sea. 
+Davis at al. (1995) observed diver interactions in the Julian Rocks Aquatic Reserve in Eastern 
+Australia. Thirty divers were observed for about 30 minutes each. The number of diver contacts 
+ranged from 2 to 121 (average 35 contacts per dive). More than 50% were contacts made with 
+fins. Only 7.2% of contacts resulted in noticeable level of damage. The majority of damaging 
+contacts were with hard corals, with lesser damage inflicted on sponges and turf algae. More 
+experienced divers (those with more than 100 logged dives) made significantly less uncontrolled 
+contacts than less experienced divers.  
+Harriott et al. (1997) conducted a similar study of diver contacts at four other locations in Eastern 
+Australia (Heron Island and Lady Elliott Island in the Southern Great Barrier Reef, and Gneering 
+Shoals and Solitary Islands in sub-tropical Eastern Australia). There was a large range in the total 
+IVM Institute for Environmental Studies 
+
+The total economic value of nature on Bonaire 69 
+   
+ 
+    
+Annex D Overfishing 
+This Appendix describes the economic and ecological consequences of overfishing and looks 
+briefly at marine reserves as a way of coping with fishing pressure. Overfishing is different from 
+the other threats described here, in that it does not have the same type of direct destructive 
+impacts. Modest forms of non-destructive overfishing will, in fact, have very little impact on 
+corals. Extreme forms of non-destructive overfishing could, on the other hand, alter the 
+ecosystem balance, ultimately leading to a reef dominance by sea urchins or macro-algae and 
+resulting in a dramatic drop in fishery yields and reduced coral biomass and productivity 
+(McClanahan, 1995). 
+An interesting example of overfishing of invertebrates is given by a case of mother-of-pearls 
+(Trochus spp.) in a village in Central Maluku (Indonesia) (Figure D.4). A traditional management 
+scheme, referred to as sasi, was in place with three year harvesting cycles. At some stage, annual 
+harvesting was allowed, leading to severe overfishing of the resource. In the time of the 3-year 
+closed season, the average yield was around 3400 kg (over 1100 kg per year). In the time of 
+annual collection since 1987, the average annual yield of just over 400 kg.  
+ 
+4,500
+4,000
+Three	  Year	  Cycle
+3,500
+3,000
+2,500
+One	  Year	  C ycle
+2,000
+1,500
+1,000
+500
+0
+69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+ 
+Year
+Figure D.4 Yield of Trochus Shells in Noloth (Central Maluku, Indonesia) in 1969-1992 
+(source: data gathered from village head at Noloth, Maluku, as presented in Cesar et 
+al. 1997). 
+Costs and benefits of overfishing in Indonesia are presented in Cesar (1996). He compares 
+fisheries benefits in case of open access (OA) versus maximum sustainable yield (MSY) levels. 
+He used data from Southeast Asia and the Pacific partly based on Munro & Williams (1985) and 
+Alcala & Ross (1990). The latter describes an interesting case where protective fishery 
+management was discontinued and where fishery yields dropped very quickly after resource 
+access was re-opened. This is the same experience as in Hawaii where fisheries were re-opened 
+after World War II with trophy catches during the first year. A comparison of fish standing stock 
+in the Main Hawaiian Islands (heavily fished) versus the Northwest Hawaiian Islands (no fishing) 
+also shows a dramatic difference (Friedlander & DeMartini, 2002). Cesar (1996) comes with an 
+estimate in terms of net present benefit (10% discount rate; 25 year time horizon) of US$ 109,900 
+of the MSY and US$ 38.5 thousand in the case of OA for Indonesia. 
+Marine reserves: There is a growing body of literature suggesting that the establishment of 
+marine reserves can be a sound management option in the light of overfishing. See for instance, 
+Alcala (1988), White (1989), Alcala & Russ (1990), Polunin & Roberts (1993), Roberts (1995), 
+Russ (1989, 1994). For a recent overview, see Rodwell & Roberts (2000). For instance, Alcala 
+(1988) presents estimates of the island of Sumilon, where fish yields of 14-24 mt/km2/year have 
+been reported before the sanctuary and where these catches increased to 36 mt/km2/year when 
+the marine reserve was in place. Fish yields fell back to about 20 mt/km2/year when island 
+IVM Institute for Environmental Studies 
+kg. of Trochus
+

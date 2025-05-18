@@ -9051,3 +9051,209 @@ Exception calling ".ctor" with "1" argument(s): "Rebuild failed: trailer not fou
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2006\08\31\rapport-commissie-borghouts ]> rapport-commissie-borghouts-1.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2006\10\31\samenwerkingsprogramma-s-aruba ]> meerjarenprogrammaaruba2006-2009.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 45; BatchedItems: 100]...[0m
+[main 36766be0] Added batch #45 of policy-docs (total: 100
+ 101 files changed, 140671 insertions(+)
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/03/gespreksverslag-lessons-learned-corona-in-het-koninkrijk/lessons-learned-covid-in-caribisch-gebied-13042021.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/16/nota-naar-aanleiding-van-het-verslag.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/22/concept-nota-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/23/nader-rapport-inzake-het-advies-vd-rvst-van-10-nov-2021-over-de-geldende-covidmaatregelen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/11/26/nsob-feitenreconstructie-2e-tijdvak.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/03/nota-nav-verslag-tijdelijke-wet-differentiatie-coronatoegangsbewijzen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/03/nota-nav-verslag-tijdelijke-wet-uitbreiding-inzet-coronatoegangsbewijzen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/16/deel-1-bijlagen-beleidsrijke-begroting-klimaat-2021/1-Documenten-Wob-verzoek-Beleidsrijke-begroting-klimaat-1-40.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/16/deel-3-bijlagen-beleidsrijke-begroting-klimaat-2021/23-Documenten-Wob-verzoek-Beleidsrijke-begroting-klimaat-481-505.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/20/stand-van-zaken-moties-en-toezeggingen-kerstreces-2021.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/10/budgettaire-bijlage-coalitieakkoord-2021-2025/budgettaire-bijlage-coalitieakkoord-15-december-2021.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/10/coalitieakkoord-omzien-naar-elkaar-vooruitkijken-naar-de-toekomst/coalitieakkoord-2021-2025.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/18/regeringsverklaring-kabinet-rutte-iv/regeringsverklaring-kabinet-rutte-4.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/27/overdrachtsdossier-dgm/DGM.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/27/overdrachtsdossier-dgpenv/DGPenV.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/01/27/overdrachtsdossier-sg-cluster/SG-cluster.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/02/15/concept-amvb-inclusief-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/02/15/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-de-tijdelijke-regeling-maatregelen-covid-19-bonaire-d-1BCA144A.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/02/25/zjcn-1025034-b-bestuursakkoord-aanpak-huiselijk-geweld-en-kindermishandeling-cn-2021-2024-zonder-handtekeningen-1.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/04/08/overzicht-vervallen-bepalingen-twm-bij-eerdere-verlengingen-en-voorgenomen-inhoud-6e-verlenging-twm.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/04/12/concept-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/04/22/isb6-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/04/27/def-bnc-fiche-3-verordening-visumdigitalisering.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/04/28/transponeringstabellen-wvo-2020/transponeringstabel-wvo-bes-naar-wvo-2020.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/05/04/concept-nota-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/05/17/planningsoverzicht-tweede-kamerstukken-2022/planningsoverzicht-vaste-commissie-voor-binnenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/07/beantwoording-van-de-kamervragen-voorgangsbrief-verbetering-financieel-beheer.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/07/beantwoording-van-de-vragen-bij-het-jaarverslag-2021-vws.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/08/inventarisatie-beleidsinzet-vws-op-kanker.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-3e-deelbesluit-financien-op-wob-verzoek-over-webmodule-deel-2/Bijlage4-3e-deelbesluit-financien-wob-verzoek-webmodule.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-deelbesluit-1-op-wob-verzoek-over-toeslagenaffaire-en-bespreking-in-ministe-19A35267/Bijlage4-deelbesluit-1-wob-toeslagenaffaire-en-bespreking-in-ministerraden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-deelbesluit-1-op-wob-verzoek-over-toeslagenaffaire-en-bespreking-in-ministe-19A35267/Bijlage5-deelbesluit-1-wob-toeslagenaffaire-en-bespreking-in-ministerraden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-deelbesluit-1-op-wob-verzoek-over-toeslagenaffaire-en-bespreking-in-ministe-A7364E82/Bijlage1-deelbesluit-1-wob-toeslagenaffaire-en-bespreking-in-ministerraden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-deelbesluit-1-op-wob-verzoek-over-toeslagenaffaire-en-bespreking-in-ministe-A7364E82/Bijlage3-deelbesluit-1-wob-toeslagenaffaire-en-bespreking-in-ministerraden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/15/rappelabele-toezeggingen-ek-binnenlandse-zaken-en-koninkrijksrelaties-minister-van-binnenlandse-zaken-en-konink-FEA16CA4.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/24/conclusiedocument-vierlandenoverleg.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/24/def-bnc-fiche-3-mededeling-internationale-oceaangovernance.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/29/projectenoverzicht-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/29/wjz-1032296-b-voorlichting-raad-van-state-over-de-facultatieve-protocollen-inzake-het-vn-verdrag-handicap-het-v-0A4559D8.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/01/memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/01/overzicht-financien-en-actieplan-en-eerste-uitvoeringsagenda-saba-package-20.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/01/toezeggingen-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/04/nsob-2022-het-einde-voorbij-werken-in-een-wijkend-perspectief.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/04/wjz-1032018-c-concept-nota-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/15/advies-raad-van-state-wetsvoorstel-met-een-stem-meer-keus.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/07/15/bijlage-2-knl-voluntary-national-review.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/08/30/schriftelijk-overleg-informele-rbz-gymnich-30-en-31-augustus-2022.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/01/masterplan-basisvaardigheden/22-419-ocw-masterplan-basisvaardigheden-pdfa.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/06/documenten-b588-b1224-bij-besluiten-defensie-wob-verzoeken-evacuaties-afghanistan/woo-evacuatie-afghanistan-documenten-b-5.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/07/evaluatie-schema-rijksvaccinatieprogramma-rvp.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/14/beslisnota-bij-kamerbrief-visie-volksgezondheid-welzijn-en-sport-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/14/bijlage-1-nationaal-actieplan-bedrijfsleven-en-mensenrechten-nap-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/28/overzicht-rijksuitgaven-caribisch-nederland-2021-2027-per-begrotingsartikel/overzicht-rijksuitgaven-caribisch-nederland-departementen.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/29/beleidsagenda-per-domein.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/09/29/toelichtende-nota-inzake-europese-overeenkomst-tot-bescherming-van-kleine-huisdieren.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/10/21/bijlage-1-bij-kamerbrief-inzake-het-parlementair-kwartaaloverzicht-ontwerpverdragen-met-peildatum-1-oktober-2022.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/10/21/bijlage-2-bij-kamerbrief-inzake-het-parlementair-kwartaaloverzicht-ontwerpverdragen-met-peildatum-1-oktober-2022.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/10/26/afbakeningsdocument-deel-1.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/01/feitelijke-vragenlijst-vaststelling-van-de-begrotingsstaten-buitenlandse-zaken-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/18/moties-en-toezeggingen-bewegen-en-gezondheid.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/21/najaarsnota-2022.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/23/bijlage-1-financien-szw-aanpak-geldzorgen-armoede-en-schulden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/24/documenten-74-241-bij-besluit-wob-verzoek-over-wolf/woo-wolf-documenten-5.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/11/25/handreiking-voor-de-gebiedsprogrammas-nationaal-programma-landelijk-gebied/Handreiking_voor_de_gebiedsprogrammas_NPLG_versie_feb_2024.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/07/beantwoording-list-of-issues-vn-verdrag-handicap.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/13/bijlagen-bij-stuurgroep-aanpak-discriminatie-en-racisme/gelakte-stukken.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/16/overzicht-beleidsmatige-mutaties-na-tweede-suppletoire-begroting-2022-van-het-ministerie-vws.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/23/beleidskader-mondiaal-multilateralisme.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2022/12/23/bijlagen-bij-kamerbrief-over-toezending-documenten-met-betrekking-tot-de-denktank-desinformatie-51-101.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/01/bijlage-1-overzicht-ontwerp-verdragen-per-1-januari-2023-vergeleken-met-de-lijst-van-1-oktober-2022.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/01/bijlage-2-overzicht-van-ontwerp-verdragen-peildatum-1-januari-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/18/planningsoverzicht-2023-bzk/planningsoverzicht-vaste-commissie-voor-binnenlandse-zaken-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/20/planningsoverzicht-voor-vaste-commissie-digitale-zaken-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/01/25/overzicht-planning-vws.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/02/06/bestuurlijke-afspraken-brede-regeling-combinatiefuncties-2023-2026.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/02/06/documenten-39-68-bij-deelbesluit-2-op-woo-verzoek-over-correspondentie-tussen-staat-der--B783CF06/woo-urgenda-deelbesluit-2-deel-16.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/04/05/bijlage-2-bij-kamerbrief-in-voorbereiding-zijnde-verdragen-peildatum-1-april-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/04/05/pa-lijst-ii-42ste-rapportage-peildatum-1-januari-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/04/05/pa-lijst-iii-42ste-rapportage-peildatum-1-januari-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/04/11/planning-visiebrief-tijdspaden.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/05/11/bevindingen-verwerkingsregister-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/05/17/overzicht-bijzondere-uitkeringen-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2023/06/09/organisatie-identificatienummers-jenv/organisatie-identificatienummers-jenv-juni-2023.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2024/02/09/handleiding-en-samenwerkingsovereenkomst-miek/samenwerkingsovereenkomst-miek.raw.txt
+ create mode 100644 policy-documents/Archive/publicaties/2025/01/20/staat-van-de-volkshuisvesting-2024/Staat_van-de_Volkshuisvesting_2024.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/1999/06/29/ldp-iii-vredesoperaties/ldp3-vredesoperaties.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2002/07/23/rapport-effectiviteit-en-coherentie-van-ontwikkelingssamenwerking/2002-01-effectiviteit-en-coherentie-ontwikkelingssamenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2002/09/01/iob-cultuur-en-ontwikkeling-1981-2001-evaluatie-van-een-beleidsthema.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2003/05/01/iob-resultaten-van-internationale-schuldverlichting-1990-1999.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2003/07/01/iob-behartiging-van-de-buitenlandse-belangen-van-de-nederlandse-antillen-en-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2003/07/01/vn-top-over-duurzame-ontwikkeling/milieu3178.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2004/10/01/evaluatie-vredesfonds-2001-2003.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2005/09/01/defensie-doctrine-nl.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2005/10/14/cultuurbeleid-in-nederland/cultuurbeleid-nota6-cultuurbeleid.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2005/12/31/evaluatie-prins-claus-fonds-2001-2005.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2006/06/01/iob-evaluatie-van-het-nederlandse-mensenrechtenbeleid-in-de-externe-betrekkingen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2006/06/16/nationaal-veiligheidsplan-aruba-2008-2012/nationaalveiligheidsplanaruba2008-2012.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2006/07/01/millenniumontwikkelingsdoel-8-voortgangsrapport-2006.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2006/08/31/rapport-commissie-borghouts/rapport-commissie-borghouts-1.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2006/10/31/samenwerkingsprogramma-s-aruba/meerjarenprogrammaaruba2006-2009.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\04\01-marien-kennis-en-informatiesysteem-voor-een-duurzaam ]> op-weg-naar-een-knmi-voor-de-noordzee-haalbaarheidsstudie-een-geintegreerd.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\06\01 ]> iob-nederlandse-ontwikkelingssamenwerking-en-de-millennium-ontwikkelingsdoelen-project-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\06\01\iob-nederlandse-ontwikkelingssamenwerking-en-de-mdg-s ]> iob-nederlandse-ontwikkelingssamenwerking-en-de-millennium-ontwikkelingsdoelen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\09\11\netwerken-in-de-schaduw-van-hierarchie-rapport-over-het-gebruik-van-e-mail-binnen-de-overh-1D8F78C7 ]> netwerkenindeschaduwvanhierarchie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\09\25\nb-crisisbeheersing-september-2007 ]> nbcrisisbeheersingseptember2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\10\08\wodc-rapport-georganiseerde-criminaliteit-en-rechtshandhaving-op-st-maarten ]> st-maarten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\10\09\wodc-rapport-georganiseerde-criminaliteit-en-de-rechtshandhaving-op-st-maarten ]> wodcr-rapport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\11\21\onderzoeken-met-tot-doel-de-vergroting-van-de-kennis-over-good-governance ]> eindrapportage-checks-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\11\21\onderzoeken-met-tot-doel-de-vergroting-van-de-kennis-over-good-governance ]> oostindie-sutton-small-scale-and-quality-of-governance.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2007\11\21\onderzoeken-met-tot-doel-de-vergroting-van-de-kennis-over-good-governance ]> rapport-goed-bestuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\01\01\beleidsdoorlichting-seksuele-en-reproductieve-gezondheid-en-rechten-en-hiv-aids-2004-2006 ]> iob-beleidsdoorlichting-seksuele-en-reproductieve-gezondheid-en-rechten-en-hiv-aids-2004-2006.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\02\01\iob-het-nederlandse-afrikabeleid-1998-2006-evaluatie-van-de-bilaterale-samenwerking ]> iob-rapport-308-pag.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\02\13\evaluatie-samenwerkingsprogramma-bestuurlijke-ontwikkeling-nederlandse-10-antillen-2002-2006 ]> evaluatiesamenwerkingsprogrammabestuurlijkeontwikkeling2002-2006-eindrapportdeel1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\03\17\van-marge-naar-mainstream ]> 81238-38020-mediabeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\04\18\rapport-uitgenodigede-vluchtelingen-beleid-en-de-maatschappelijke-positie-in-nationaal-en--7C341D98 ]> uitgenodigde-vluchtelingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\06\01 ]> iob-congresbundel-afrika-ter-discussie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\06\20\eindrapportage-onderzoek-economische-en-juridische-implicaties-upg-status ]> eindrapportjuridischonderzoekimplicatiesupg-statusvooreilandgebiedennederlandseantillenenaruba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\09\12\jaarrapportage-wapenexportbeleid-2007 ]> jaarrapport-2007-8099776-rev2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2008\10\01-evaluatie-van-het-nederlandse-beleid-voor-stedelijke-armoedebestrijding ]> iob-meer-dan-een-dak.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\01\29 ]> evaluatie-van-de-dgis-coherentie-eenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\02\16\handboek-crisisbesluitvorming ]> handboek-crisisbesluitvorming-ez-28-04.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\04\01 ]> millennium-ontwikkelingsdoel-1-verminderen-van-armoede-en-honger.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\04\01 ]> millennium-ontwikkelingsdoel-2-alle-jongens-en-meisjes-naar-school.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\04\01 ]> millennium-ontwikkelingsdoel-3-stimuleren-van-gelijkheid-tussen-mannen-en-vrouwen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\04\01 ]> millennium-ontwikkelingsdoel-7-het-waarborgen-van-een-duurzame-leefomgeving.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\04\01\millennium-ontwikkelingsdoelen-4-5-en-6-de-gezondheidsmillenniumdoelen ]> millennium-ontwikkelingsdoelen-45-en-6-de-gezondheidsmillenniumdoelen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\06\19 ]> staat-van-de-europese-unie-2003.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\06\19\commissie-van-advies-advies-nr-14-falende-staten-maart-2005 ]> cavv-aiv-advies-nr-14-falende-staten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\06\19ropese-unie-2006-2007 ]> staat-van-de-eu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\06\23\trimbos-instituut-evaluatie-van-het-nederlandse-drugsbeleid ]> evaluatie-van-het-nederlandse-drugsbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\07\02\geen-deuren-maar-daden-nieuwe-accenten-in-het-nederlands-drugsbeleid ]> 13560-bw-drugsbeleid-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\07\02-wodc-evaluatie-van-het-nederlandse-drugsbeleid ]> trimbos.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\09\15\rapport-geen-deuren-maar-daden-nieuwe-accenten-in-het-nederlands-drugsbeleid ]> 13560-bw-drugsbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2009\12\22\voortgangsrapportage-commissaris-voor-de-bes-eilanden ]> 091207voortgangsrapportagehalverwege21.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\01\12\rapport-commissie-davids ]> rapport-commissie-irak.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\04\15 ]> mensenrechtenrapportage-2009.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\04\20\aan-de-slag-met-sterke-vrouwen-in-het-koninkrijk ]> aandeslagmetsterkevrouweninhetkoninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\04\20\onderzoek-vrouwen-van-de-nederlandse-antillen-en-aruba ]> vrouwen-van-de-na-enaruba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\04\20\samenvatting-aan-de-slag-met-sterke-vrouwen-in-het-koninkrijk ]> samenvatting-aandeslagmetsterkevrouweninhetkoninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\06\02\beleidsnotitie-internationale-migratie-en-ontwikkeling-2008 ]> 269dpvam-bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\09\02\voortgangsrapportage-bes-eilanden-nog-tien-weken ]> bijlage-1-voortangsrapportage-bes-nog-tien-weken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\09\21\staat-van-de-europese-unie-2010-2011-bijlage ]> svdu-2011-bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\10\14\introductiedossier-ministerie-van-buitenlandse-zaken ]> introductiedossier-ministerie-van-buitenlandse-zaken-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\11\29 ]> toolbox-diversiteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2010\11\30\nulmeting-abortus-provocatus-bes-eilanden ]> rapport-nulmeting-abortus-provocatus-bes-eilanden-1-1-wendele-van-der-wiele.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\01\18\advies-piraterij-ter-zee-een-herijking-van-publieke-en-private-verantwoordelijkheden ]> 1wra-bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\04\15 ]> rapportage-vreemdelingenketen-juli-december-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\05\31 ]> 8e-halfjaarsrapportage-belastingdienst.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\06\01\rapport-wonen-wijken-interventies ]> rapport-wonen-wijken-en-interventies.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\07\05\halfjaarrapportage-cft-voor-de-openbare-lichamen-bonaire-sint-eustatius-en-saba ]> halfjaarrapportage-2010-2011-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\09\13 ]> bijl-4-financiering-voor-ondernemers.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\09\26\rapport-de-staat-van-bestuur-van-aruba ]> 110830-ob297-definitief-rapport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\10\25 ]> bijlage-4b-evaluatierapport-voorlichtingscampagne-onder-kiesgerechtigden-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\10\26 ]> bijlage-3b-advies-kiesraad-naar-aanleiding-van-verkiezingen-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\10\26 ]> peer-review-report.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\10\26\bijlage-2-evaluatie-eilandsraadsverkiezingen-2-maart-2011 ]> bijlage-2-evaluatie-eilandsraadsverkiezinaen-2-maart-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\10\27\bijlage-bij-rapport-commissie-integriteitszorg-defensie ]> bijlage-rapport-commissie-integriteitszorg-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2011\11\25 ]> bijlage-2-aangenomen-moties-over-afgelopen-parlementaire-jaar.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\01\08\inspectiejaarplan-2012 ]> lp-v-j-0000000313.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\01\16 ]> advies-taskforce-groene-groei.pdf[0m
+[33;1mWARNING: [93m[1m ! Failed exporting raw-text from file: [37m[22m[3m[ rapporten\2012\01\16 ]> advies-taskforce-groene-groei.raw.txt[0m
+Exception calling "GetTextFromPage" with "2" argument(s): "Unexpected color space /R11"[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\02\17 ]> aiv-rapport-europese-defensiesamenwerking-soevereiniteit-en-handelingsvermogen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\02\20\bijlagen-referentiekader-caribisch-nederland ]> referentiekader-caribisch-nederland-met-bijlagen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\01 ]> de-waarborgfunctie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\01 ]> halfjaarrapportage-college-financieel-toezicht-voor-de-openbare-lichamen-bonaire-sint-eustatius-en-saba-april-2-03107735.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\06 ]> rapport-groene-groei-investeren-in-biodiversiteit-en-natuurlijke-hulpbronnen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\13 ]> samenvatting-structuurvisie-infrastructuur-en-ruimte.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\13\structuurvisie-infrastructuur-en-ruimte ]> structuurvisie-infrastructuur-en-ruimte-4.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\16 ]> meerjarig-strategisch-plan-mjsp-2012-2015-midden-amerika-programma-map.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\16 ]> voortgangsrapportage-veilige-publieke-taak-juni-december-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\19 ]> voortgangsrapportage-februari-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\27\rapport-verkenning-van-de-implementatie-van-het-verdrag-van-malta-op-de-eilanden-van-carib-EEACD1C7 ]> rapport-verkenning-van-de-implementatie-van-het-verdrag-van-malta-op-de-eilanden-van-caribisch-nederland-bonair-9AA3AF2B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\03\30 ]> evaluatie-wet-medezeggenschap-op-scholen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\01 ]> evaluatie-van-het-intellectuele-eigendomsbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\02 ]> verantwoord-over-de-drempel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\05\inspectiejaarbericht-2011 ]> lp-v-j-0000000835.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\10 ]> marinierskazerne-zeeland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\11\memorie-van-toelichting ]> lp-v-j-0000000877.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\11\memorie-van-toelichting-zoals-voorgelegd-aan-rvs ]> lp-v-j-0000000879.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\11\raad-van-state ]> lp-v-j-0000000880.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\24 ]> jaarbericht-2011-van-inspectie-jeugdzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\26 ]> jaaroverzicht-koninklijk-huis-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\04\26 ]> tussenrapportage-aanbevelingen-comite-voor-de-uitbanning-van-discriminatie-van-vrouwen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\01 ]> rapport-grote-en-risicovolle-projecten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\08 ]> upr-rapportage-nederlandse-vertaling.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\14\jaarverslag-2011-inspectie-verkeer-en-waterstaat-en-vrom-inspectie ]> lp-i-m-0000002059.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\14\meerjarenplan-2012-2016-inspectie-leefomgeving-en-transport ]> lp-i-m-0000002060.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\16 ]> rapport-het-nieuwe-peil.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\16 ]> teeb-rapport-groen-gezond-en-productief.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\05\21\jaarrapport-ai ]> jaarverslag-2011-inspectie-szw.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\06\21\teeb-voor-het-nederlandse-bedrijfsleven ]> teeb-biodiversity-bedrijfsleven-web.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\06\22 ]> armoede-in-caribisch-nederland-een-verkenning.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\06\27\bijlagen-inrichtingsplan-nationale-politie ]> lp-v-j-0000001259.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\07\01 ]> symposium-10-jaar-dualisering.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\07\04 ]> vierde-periodieke-rapportage-van-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\07\10\concept-bijlagen-inrichtingsplan-nationale-politie ]> lp-v-j-0000001366.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\08\01 ]> antilliaanse-nederlanders-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\08\01 ]> marokkaanse-nederlanders-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\08\08 ]> halfjaarrapportage-college-financieel-toezicht-bonaire-sint-eustatius-en-saba-januari-juni-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\09\01 ]> begrotingssteun-resultaten-onder-voorwaarden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\09\12 ]> advies-raad-van-state-over-leerlingvolgsysteem-en-diagnostische-tussentijdse-toets-vo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2012\09\18 ]> referentieraming-2012.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 46; BatchedItems: 100]...[0m
