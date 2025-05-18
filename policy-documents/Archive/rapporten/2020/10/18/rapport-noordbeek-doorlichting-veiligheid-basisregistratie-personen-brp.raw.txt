@@ -1,0 +1,595 @@
+ 
+Rijndijk 235 
+2394 CD Hazerswoude 
+Tel. (071) 3416911 
+Email noordbeek@noordbeek.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
+Directoraat-generaal Overheidsorganisatie (DGOO) 
+Directie Informatiesamenleving en Overheid (I&O) 
+ 
+ 
+ 
+Rapport van Bevindingen aangaande een 
+Doorlichting digitale veiligheid 
+Basisregistratie Personen (BRP) 
+ 
+ 
+Definitieve versie: 1.00 
+ 
+ 
+Opdrachtgever Ministerie BZK, DGOO, I&O, Afd. Identiteit  
+Auteur R. Paans Noordbeek 
+ S.D. Kubacki  
+ J. Winkel 
+Rapportnummer KPNBRP9-1 
+Classificatie Openbaar 
+Status Definitief 
+Datum 18 oktober 2019 
+Bestandsnaam Rapport Noordbeek Doorlichting Veiligheid BRP - Openbaar 
+  
+KvK nummer Rijnland 33265070 
+BTW nummer NL8203.45.180.B01 
+ 
+1 van 25 
+
+Ministerie BZK, DGOO, I&O 
+Rapport over Doorlichting digitale veiligheid 
+Basisregistratie Personen (BRP) 
+Inhoud 
+1. Inleiding ................................................................................................................................. 4 
+1.1. De achtergrond van de opdracht .................................................................................... 4 
+1.2. De aard en het doel van de opdracht ............................................................................. 4 
+1.3. Het doel ......................................................................................................................... 5 
+1.4. De doelgroep voor het rapport ....................................................................................... 5 
+1.5. Scope ............................................................................................................................. 5 
+1.6. Beperkingen .................................................................................................................. 6 
+2. Conclusie en adviezen ........................................................................................................... 7 
+2.1. Conclusie over de waarde van en risico’s voor de BRP-gegevens ................................ 7 
+2.1.1. Inhoud van de BRP en verantwoordelijkheden ....................................................... 7 
+2.1.2. Waarde van de BRP-gegevens ................................................................................ 7 
+2.1.3. De uitgevoerde risicoanalyses voor de BRP ........................................................... 7 
+2.1.4. Risicoinschatting voor de BRP-gegevens ............................................................... 8 
+2.1.5. Ineffectiviteit van het huidige stelsel van maatregelen ........................................... 9 
+2.2. Conclusie over de ineffectiviteit van het versleutelen van GBA-V ............................ 10 
+2.2.1. Risico’s liggen vooral buiten de centrale database GBA-V .................................. 10 
+2.2.2. Technische aspecten van het versleutelen van GBA-V ........................................ 11 
+2.2.3. Randvoorwaarde: toegankelijkheid voor rechtmatige gebruikers ......................... 11 
+2.3. Adviezen ...................................................................................................................... 12 
+2.4. Bevindingen ................................................................................................................ 13 
+3. Overzicht van de adviezen ................................................................................................. 18 
+3.1. Kosten van de geadviseerde maatregelen .................................................................... 20 
+3.1.1. Strategisch / tactisch aanpak vanuit een meer centrale rolinvulling ..................... 20 
+3.1.2. Centraal te treffen technische maatregelen ........................................................... 21 
+3.1.3. Decentraal te treffen maatregelen na een centrale opdracht.................................. 22 
+4. Opdrachtverantwoording .................................................................................................. 23 
+4.1. De onderzoeksvraag .................................................................................................... 23 
+4.2. De onderzoeksaanpak .................................................................................................. 23 
+4.3. Het onderzoeksteam .................................................................................................... 24 
+4.4. Ondertekening ............................................................................................................. 24 
+Bijlage A Lijst van afkortingen ..................................................................................................... 25 
+3 van 25 
+
+Ministerie BZK, DGOO, I&O 
+Rapport over Doorlichting digitale veiligheid 
+Basisregistratie Personen (BRP) 
+1.3. Het doel 
+Het doel van de opdracht is een overzicht verkrijgen van de risico’s voor de BRP, met bijge-
+voegd een inschatting van hoe hoog de dreiging wordt geschat. Bij elk risico is een overzicht van 
+bijpassende maatregelen gegeven, inclusief een kosten-batenanalyse. 
+Een gewenst bijproduct is een geprioriteerde lijst met actoren die een potentieel risico voor de 
+BRP vormen en wat de te verwachten modus operandi is. 
+1.4. De doelgroep voor het rapport 
+De eindgebruikers van de opgeleverde producten zijn de Rijksdienst voor Identiteitsgegevens 
+(RvIG) en het ministerie van BZK. 
+1.5. Scope 
+Het onderzoek is gericht op de digitale processen en hoe ongeautoriseerde toegang tot de data 
+kan worden voorkomen. De BRP is een groot systeem, met diverse centrale en decentrale voor-
+zieningen. Niet al deze componenten kunnen bij het onderzoek worden doorgelicht. Wel zijn de 
+kaders en afspraken die zijn gemaakt met gemeenten en afnemers doorgelicht. 
+Het onderzoek betreft de situatie op 30 april 2019. 
+De volgende objecten van onderzoek zijn onderkend: 
+ GBA-netwerk met het X.400 ‘simple Protocol data’ (sPd)-protocol; 
+ GBA-Verstrekkingen (GBA-V); 
+ Registratie Niet-Ingezetenen (RNI); 
+ Terugmeldvoorziening (TMV); 
+ Verstrekkingsvoorziening Daft (voor synchroniteit); 
+ De inhoud van de centrale (persoons)gegevens. 
+De opdrachtgever heeft bepaald welke componenten buiten de scope vallen van dit onderzoek. 
+Dit zijn onder andere: 
+ Beheervoorziening BSN (BV-BSN); 
+ Gemeentelijke afnemers en leveranciers, met hun lokale GBA-databases; 
+ Niet gemeentelijke afnemers, met hun verrijkte persoonsgegevens; 
+ IND als afnemer en leverancier, met het systeem Indigo voor het behandelen van verblijfs-
+aanvragen en naturalisaties; 
+ Het Caribisch gebied met de PIVA-GBA-Koppeling (PGK), PIVA-Verstrekkingen (PIVA-
+V) en de zes PIVA-databases in Caribisch Nederland, Aruba, Curaçao en Sint Maarten. 
+Voor de uitvoering van de werkzaamheden en rapportage volgt Noordbeek de Code of Ethics en 
+richtlijnen van de beroepsorganisatie voor IT-auditors, de Nederlandse Orde van Register EDP 
+Auditors (NOREA). 
+5 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+2. Conclusie en adviezen 
+2.1. Conclusie over de waarde van en risico’s voor de BRP-gegevens 
+De BRP is benoemd als een basisregistratie, maar is vanuit technisch oogpunt geen entiteit. Het 
+is een verzameling van honderden zelfstandige systemen, ieder met hun eigen gegevensverzame-
+lingen. Deze systemen zijn ingericht en worden beheerd door vele organisaties, die ieder hun ei-
+gen beheers- en beveiligingsmaatregelen hebben getroffen. 
+2.1.1. Inhoud van de BRP en verantwoordelijkheden 
+Het centrale gedeelte van BRP wordt beheerd door de Rijksdienst voor Identiteitsgegevens 
+(RvIG). De decentrale leveranciers van de persoonsgegevens zijn de gemeenten via hun Ge-
+meentelijke Basis Administratie (GBA) systemen. Bij iedere gemeente is het college van burge-
+meester en wethouders de verwerkingsverantwoordelijke, conform de AVG. In het centrale ge-
+deelte wordt alleen een kopie bijgehouden van een deel van de lokale gemeentelijke GBA-gege-
+vens, namelijk in het systeem GBA-Verstrekkingen (GBA-V). De kopie in GBA-V omvat de 
+persoonslijst per ingezetene (PL), dat een beperkt uittreksel is van de bij de gemeente beschik-
+bare persoonsgegevens, en de verwijsgegevens. Tevens zijn het GBA-netwerk en de Registratie 
+Niet Ingezetenen (RNI) centraal ingericht. 
+Een gemeente is naast leverancier van persoonsgegevens tevens afnemer van GBA-V, evenals de 
+Immigratie en Naturalisatie Dienst (IND). Daarnaast zijn er honderden afnemers van GBA-V in 
+het kader van belastingen, toeslagen, sociale zekerheid, gezondheidszorg, kinderbescherming, 
+pensioenen, verzekeringen, openbare orde en veiligheid etc. Al deze afnemers ontvangen gese-
+lecteerde persoonsgegevens vanuit GBA-V en verrijken die in hun eigen systemen, gericht op 
+hun zakelijke doeleinden. Iedere afnemende organisatie is een zelfstandige verwerkingsverant-
+woordelijke voor hun verrijkte persoonsgegevens, conform de AVG. 
+2.1.2. Waarde van de BRP-gegevens 
+De persoonsgegevens in de BRP hebben een substantiële waarde voor niet-statelijke en statelijke 
+dreigende actoren, onder andere in het kader van identiteitsfraude, onrechtmatig verkrijgen van 
+adressen, ongewenste buitenlandse inmenging in diaspora, aantasting van democratische proces-
+sen en instituten, benadeling van bepaalde groepen van minderheden etc. 
+Tevens kunnen niet-statelijke en statelijke dreigende actoren mogelijkheden zoeken om per-
+soonsgegevens in de BRP te kunnen muteren, onder andere in het kader van het verschaffen van 
+een nieuwe identiteit aan terugkerende terroristen, mensenhandel, mensensmokkel, fraude met 
+sociale zekerheid (onder andere via adresfraude), intimidatie in diaspora etc. 
+2.1.3. De uitgevoerde risicoanalyses voor de BRP 
+Binnen dit onderzoek is een aantal risico’s voor de BRP in kaart gebracht, met een inschatting 
+van de ernst van de dreiging. Op basis van publiekelijk toegankelijke literatuur zijn dreigingssce-
+nario’s uitgewerkt, gericht op de vertrouwelijkheid, de integriteit en de beschikbaarheid van de 
+persoonsgegevens in de BRP. 
+7 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+Wij schatten het risico voor de integriteit van de persoonsgegevens in GBA-V in als hoog, aan-
+gezien een onrechtmatige mutatie in GBA-V rechtstreeks wordt doorgekopieerd naar de rele-
+vante afnemers. 
+Wij schatten het risico voor de beschikbaarheid van GBA-V en de aangesloten systemen als 
+hoog in het geval van een aanval met ransomware of wiperware. Het is mogelijk dat de proces-
+sen rondom burgerzaken dan langdurig verstoord kunnen raken. 
+2.1.5. Ineffectiviteit van het huidige stelsel van maatregelen 
+Het gehele stelsel van maatregelen voor informatiebeveiliging en privacybescherming is histo-
+risch gegroeid, gedistribueerd over vele honderden verwerkingsverantwoordelijken en niet inge-
+richt om in afdoende mate weerstand te bieden tegen de actuele dreigingen in 2019. Zwakke 
+punten bij gemeenten en afnemers zijn over het algemeen een te brede ontsluiting van gegevens 
+en functionaliteiten, historisch gegroeide informatiestromen waarbinnen verschillende soorten 
+gegevens worden vermengd, ineffectief autorisatiebeheer voor gebruikers en lokale beheerders, 
+onvoldoende vastlegging en toezicht, uitbesteding met beperkte privacy-waarborgen en onvol-
+doende aansturing voor informatiebeveiliging en privacybescherming. 
+ 
+Op dit moment is het gehele stelsel van maatregelen voor informatiebeveiliging en privacybe-
+scherming niet in staat om de persoonsgegevens van de BRP adequaat te beschermen tegen 
+ontvreemding of onrechtmatige mutatie. 
+ 
+ 
+De kern van het beveiligingsprobleem ligt in de opzet en structuur van de BRP, zoals die is voor-
+geschreven in de Wet BRP. Hierbij is ieder college van burgemeester en wethouders een zelf-
+standig beheerder en leverancier van persoonsgegevens, en alle afnemers kunnen zelfstandig 
+over hun deel van de persoonsgegevens beschikken. In deze opzet is niemand daadwerkelijk 
+eindverantwoordelijk voor het geheel aan persoonsgegevens, niemand kent de specifieke risico’s 
+voor de vele informatiestromen en niemand heeft de bevoegdheid om adequate maatregelen tref-
+fen voor een integrale beveiliging. Hiermee wordt niet gezegd dat gemeenten en afnemers on-
+zorgvuldig zijn, aangezien er lokaal veel belangrijke maatregelen wel zijn gerealiseerd, maar een 
+ketting is zo sterk als haar zwakste schakel. 
+  
+9 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+2.2.2. Technische aspecten van het versleutelen van GBA-V 
+Versleutelen van persoonsgegevens in en rondom de BRP kan op verschillende manieren. 
+Als eerste mogelijkheid kan men de GBA-V database zelf versleutelen, waarbij de gegevens 
+worden ontsleuteld alvorens die naar de afnemers worden gestuurd. Dit beschermt tegen diefstal 
+van de fysieke schijf of tegen het illegaal kopiëren van de centrale database GBA-V. Maar het 
+beschermt niet tegen alle vormen van opvragingen door de aangesloten instanties en beschermt 
+ook niet tegen frauduleuze mutaties die door dreigende actoren via gemeenten worden aangele-
+verd. 
+Momenteel is het netwerk tussen GBA-V en de afnemers al versleuteld, waarbij aan de zijde van 
+de ontvanger wordt ontsleuteld. Dit beveiligingsproces is centraal ingericht met certificaten. De 
+ontvanger krijgt het bericht in leesbare tekst. 
+Als tweede mogelijkheid zou men het centrale systeem en netwerk zo kunnen inrichten dat de 
+afnemers versleutelde persoonsgegevens ontvangen en de gemeenten de persoonsgegevens ver-
+sleuteld moeten aanbieden. Dit heeft als nadeel dat alle aangesloten partijen moeten beschikken 
+over het versleutelalgoritme en passende sleutels. Gezien het grote aantal instanties, die niet alle-
+maal gedegen zijn beveiligd, heeft dit als nadeel dat het algoritme en de sleutel in handen kunnen 
+komen van dreigende actoren. Tevens geldt het nadeel dat alle andere persoonsgegevens binnen 
+de instantie, die waardevoller zijn voor een dreigende actor, nog steeds in leesbare tekst lokaal 
+aanwezig zijn. 
+Als derde mogelijkheid zou men alle aangesloten instanties kunnen verplichten alle lokale per-
+soonsgegevens op een afdoende wijze te versleutelen. Dit is echter per instantie een kostbare 
+operatie, aangezien die gegevens worden gebruikt in lokale databases, systemen en informatie-
+stromen, en op velerlei wijze lokaal worden opgslagen. Daarnaast mist RvIG de bevoegdheid zo 
+een drastische maatregele op te leggen aan de instanties. 
+2.2.3. Randvoorwaarde: toegankelijkheid voor rechtmatige gebruikers 
+Een belangrijke randvoorwaarde is dat de vele duizenden medewerkers binnen de werkprocessen 
+van de aangesloten instanties moeten werken met de persoonsgegevens. Dit houdt in dat zij de 
+gegevens ongehinderd moeten kunnen raadplegen en muteren, conform hun bevoegdheden. 
+Binnen de huidige opzet is het vanuit het GBA-V niet mogelijk om vast te stellen welke transac-
+tie en verzoeken vanaf de verschillende partners en aangesloten instanties rechtmatig zijn. Het is 
+onmogelijk voor de GBA-V om te zien of een verzoek wellicht wordt gedaan door een ongauto-
+riseerd persoon die toegang heeft tot credentials van geautoriseerde medewerkers. 
+Het GBA-V is genoodzaakt er op te vertrouwen dat alles wat de aangesloten partijen doen recht-
+matig is. Het GBA-V steunt hierbij op de kwaliteit van het access-management van alle aange-
+sloten partijen. Aangezien vele gebruikers uitgebreide leesrechten hebben, kan een kwaadwil-
+lende via een aangesloten partij proberen toegang te verkrijgen tot de gegevens in het GBA-V. 
+11 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+2.4. Bevindingen 
+Wij hebben waargenomen dat de geïnterviewde medewerkers competent en betrokken zijn in het 
+kader van een zorgvuldige beheersing van de IT, maar dat de BRP op het vlak van aantoonbaar-
+heid van de getroffen maatregelen nog enkele onvolkomenheden kent. 
+De door ons gesignaleerde aandachtspunten zijn: 
+ 
+1. Gefragmenteerde IT-organisatie en Control 
+RvIG is de verwerkingsverantwoordelijke voor de centrale voorzieningen zoals het GBA-
+netwerk, GBA-V, RNI etc. De inrichting en het beheer van de infrastructuur is uitbesteed 
+aan de Dienst ICT Uitvoering (DICTU), onderdeel van het ministerie EZK. Het college van 
+burgemeester en wethouders van een gemeente is de verwerkingsverantwoordelijke voor hun 
+gemeentelijk GBA-systeem. De leiding van een afnemende organisatie is de verwerkings-
+verantwoordelijke voor hun afnemerssysteem. 
+Wij constateren dat diverse verantwoordelijkheden en functies zijn voorgeschreven en be-
+legd, maar dat centrale aansturing en centraal toezicht ontbreekt door de gedistribueerde op-
+zet van de BRP. Als de inrichting of beveiliging bij een van de vele betrokken partijen niet 
+op orde is, faalt in feite het gehele stelsel van maatregelen voor informatiebeveiliging en pri-
+vacybescherming. Een ketting is zo sterk als haar zwakste schakel. 
+Wij adviseren bij de toekomstige ontwikkelingen van het BRP te overwegen af te stappen 
+van de gedistribueerde structuur en over te gaan naar een centrale opslag van de persoonsge-
+gevens die authentiek dienen te zijn. 
+ 
+2. Geen actuele risicobeheersing 
+Volgens de documentatie van de BRP moeten de beveiligingsmaatregelen binnen de ver-
+schillende onderdelen van het GBA-systeem met elkaar in evenwicht zijn. De generieke 
+(in)effectiviteit van beveiligingsmaatregelen binnen Nederland wordt beschreven in diverse 
+stukken, zoals in de recente brief van 18 april 2019 van NCTV aan de Tweede Kamer, ‘Te-
+gengaan statelijke dreigingen, kenmerk 2573867’. 
+Wij constateren dat momenteel het inzicht in de risico’s van statelijke actoren groeit, maar 
+dat dit inzicht niet is gebruikt voor het verder verbeteren van de beveiligingsmaatregelen 
+voor de BRP. Het concept van het GBA-netwerk stamt uit de tachtiger jaren van de vorige 
+eeuw. Later zijn in beperkte mate beveiligingsmaatregelen zoals certificaten toegevoegd, 
+maar het probleem van gedistribueerde gegevens onder de verantwoordelijkheid van vele 
+partijen is nimmer integraal opgepakt. 
+Het risico is dat het historisch ontwikkelde stelsel van beveiligingsmaatregelen voor BRP 
+niet adequaat is voor de meer recente vormen van dreigingen. Er is geen mechanisme be-
+schikbaar om de nieuwste informatiepositie over dreigingen te vertalen in aanvullende be-
+veiligingsmaatregelen. 
+Wij adviseren een versterking van de centrale organisatie bij RvIG met cybersecurity-mede-
+werkers die een actuele informatiepositie bijhouden met betrekking tot cyberdreigingen ge-
+richt op de BRP. Daarbij valt te overwegen een Security Operating Center (SOC) in te scha-
+kelen, bijvoorbeeld bij DICTU, gericht op monitoring, technische kwetsbaarhedenanalyses 
+(vulnerability scans), het uitvaardigen van richtlijnen voor actuele dreigingen etc. 
+ 
+13 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+worden geprotocolleerd. 
+Wij constateren dat niet is opgelegd dat de te herleiden verstrekkingen worden geprotocol-
+leerd. Hierdoor is het niet mogelijk achteraf vast te stellen dat de verstrekkingen en mutaties 
+terecht als ‘te herleiden’ zijn gemarkeerd en alleen door bevoegde functionarissen zijn geïni-
+tieerd. 
+Wij constateren dat niet is opgelegd dat alle niet te herleiden verstrekkingen worden gepro-
+tocolleerd. 
+Wij constateren dat forensisch onderzoek naar illegale pogingen tot toegang of mutatie kan 
+falen door de incomplete protocollering van de niet te herleiden verstrekkingen. Tevens is 
+het nu niet mogelijk in het kader van periodieke monitoring steekproeven uit te voeren om 
+de compliance met wet- en regelgeving te verifiëren. Door de incomplete vastlegging is er 
+geen volledig inzicht in deze vorm van verstrekkingen. 
+Het risico is dat een kwaadwillende die persoonsgegevens opvraagt of muteert, kennis heeft 
+van de wijze van protocollering, en zorgt dat malafide activiteiten binnen de categorieën val-
+len die niet worden geprotocolleerd. 
+Wij adviseren alle te herleiden en niet te herleiden verstrekkingen te protocolleren in de ge-
+meentelijke GBA-systemen en de afnemerssystemen, zodat het mogelijk is achteraf hun 
+rechtmatigheid te verifiëren. Bovendien geeft dit de mogelijkheid tot actieve monitoring via 
+steekproeven en data analytics. 
+ 
+6. Onvoldoende grip op autorisaties voor toegang van beheerders en gebruikers 
+RvIG stelt geen eisen aan het autorisatiebeheer bij de gemeente of de afnemer. 
+Wij constateren dat door het ontbreken van eisen aan het autorisatiebeheer en de afwezigheid 
+van gerichte monitoring en audits, niet kan worden vertrouwd op de integriteit van het auto-
+risatiebeheer bij de aangesloten organisaties. 
+Het risico is dat misbruik van een enkele account van een beheerder of gebruiker leidt tot 
+een inbreuk op de vertrouwelijkheid en mogelijk op de integriteit van de persoonsgegevens 
+in de BRP, door de gedistribueerde opbouw van de systemen en gegevensverzamelingen. 
+Wij adviseren het centraal opleggen van strikte eisen voor autorisatiebeheer en wachtwoord-
+beleid voor beheerders en gebruikers bij de aangesloten systemen, aangevuld met monitoring 
+en gerichte audits. 
+ 
+7. Minimale wachtwoordlengte is te kort 
+Het aangesloten systeem bij de afnemer, de gemeente of RNI krijgt toegang tot de GBA-
+mailbox server en GBA-V middels een naam en wachtwoord-combinatie. De functioneel be-
+heerder bij de afnemer, de gemeente of RNI kan het wachtwoord wijzigen. Volgens het LO 
+GBA dient een nieuw wachtwoord een lengte te hebben van minimaal 6 en maximaal 8 te-
+kens. 
+Wij constateren dat de minimale wachtwoordlengte 6 tekens niet in compliance is met de 
+Baseline Informatiebeveiliging Rijksdienst (BIR/TNK) norm 11.5.3, lid 1. Deze norm ver-
+eist voldoende sterke wachtwoorden. Momenteel is een wachtwoordlengte van minimaal 8 
+tekens gebruikelijk. 
+Wij adviseren de minimale wachtwoordlengte voor de GBA-mailbox server en GBA-V te 
+verlengen van de huidige 6 tekens naar 8 tekens, om zo het raden en kraken van wachtwoor-
+den moeilijker te maken voor een kwaadwillende. 
+ 
+15 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+Wij constateren dat door het ontbreken van centrale richtlijnen over het decentrale gebruik 
+van testgegevens een reële kans bestaat dat sommige aangesloten organisaties handelen in 
+strijd met de BIR/TNK norm 12.4.2 en AVG Art. 5, door te testen met productiegegevens. 
+Het risico is dat persoonsgegevens uitlekken via de test- en acceptatieomgeving, bijvoor-
+beeld naar ondersteunende medewerkers van leveranciers of inhuurkrachten. 
+Wij adviseren de afnemers te wijzen op de noodzaak om productiegegevens te anonimiseren 
+alvorens die als testgegevens te gebruiken in een acceptatieomgeving. Als compenserende 
+maatregel is het mogelijk dat de gemeente of afnemersorganisatie specifiek beleid opstelt 
+voor testen met productiegegevens, als zij daarbij een proces en toezicht inregelen om te vol-
+doen aan de AVG. Een en ander is ter beoordeling van de lokale Functionaris voor de Gege-
+vensbescherming (FG). 
+Wij adviseren een steekproef uit te laten voeren bij een aantal aselect gekozen afnemers op 
+testen met persoonsgegevens uit de BRP, om het risico van uitlekken van persoonsgegevens 
+via de test- en acceptatieomgevingen voor lokale systemen te kwantificeren. 
+ 
+11. Onvoldoende robuustheid tegen aanval met ransomware of wiperware 
+Aanvallen op de overheid via sabotage zijn niet denkbeeldig. Sinds 2013 zijn minstens 170 
+Amerikaanse steden en overheidsdiensten getroffen door ransomware. De zorgen betreffen 
+niet alleen besmetting met ransomware, waarna gegevens kunnen worden ontsleuteld na het 
+betalen van losgeld, maar tevens besmetting met sabotagesoftware. De NCTV beschrijft het 
+voorbeeld van de NotPetya sabotagesoftware. Dit bleek wiperware (software die gegevens 
+wist), waarbij het onmogelijk was om de gegijzelde bestanden daadwerkelijk terug te krij-
+gen. 
+De meest gevaarlijke variant van wiperware nestelt zich in de systemen, zoekt uit hoe back-
+ups worden gemaakt en versleutelt op een bepaald moment zowel de gegevensverzamelin-
+gen als de recente back-ups. Hierdoor is een klassieke vorm van herstel niet direct meer mo-
+gelijk. 
+Wij constateren dat Nederland niet is voorbereid op een dergelijke aanval op de BRP, onder 
+andere door de gedistribueerde opzet en verantwoordelijkheden binnen de BRP. 
+Het risico is dat na een succesvolle aanval met ransomware en wiperware de processen 
+rondom burgerzaken bij de getroffen afnemers volledig worden verstoord. Indien systemen 
+opnieuw moeten worden geïnstalleerd, verouderde niet getroffen back-ups moeten worden 
+geladen, alle vanaf dat back-up-moment aangebrachte mutaties opnieuw handmatig moeten 
+worden aangebracht en hersynchronisatie via GBA-V nodig is, kan de verstoringstijd oplo-
+pen tot maanden. 
+Wij adviseren centraal richtlijnen op te stellen en uit te dragen voor het mitigeren van het ri-
+sico van een besmetting van centrale en decentrale systemen met ransomware of wiperware, 
+en zorg te dragen dat mitigerende maatregelen worden gerealiseerd bij de aangesloten par-
+tijen. 
+ 
+Wij adviseren het ministerie BZK verbeteracties te initiëren, die wij hebben samengevat en ge-
+prioriteerd in het Hoofdstuk ‘Overzicht van de adviezen’ hieronder. 
+  
+17 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+Nr. Advies Prioriteit 
+7 Incomplete protocollering Middellange 
+Wij adviseren alle te herleiden en niet te herleiden verstrekkingen te protocolle- termijn 
+ren in de gemeentelijke GBA-systemen en de afnemerssystemen, zodat het moge-
+lijk is achteraf hun rechtmatigheid te verifiëren. Bovendien geeft dit de mogelijk-
+heid tot actieve monitoring via steekproeven en data analytics. 
+8 Onvoldoende grip op autorisaties voor toegang van beheerders en gebrui- Middellange 
+kers termijn 
+Wij adviseren het centraal opleggen van strikte eisen voor autorisatiebeheer en 
+wachtwoordbeleid voor beheerders en gebruikers bij de aangesloten systemen, 
+aangevuld met monitoring en gerichte audits. 
+9 Minimale wachtwoordlengte is te kort Middellange 
+Wij adviseren de minimale wachtwoordlengte voor de GBA-mailbox server en termijn 
+GBA-V te verlengen van de huidige 6 tekens naar 8 tekens, om zo het raden en 
+kraken van wachtwoorden moeilijker te maken voor een kwaadwillende. 
+10 Onveilig beveiligingsprotocol SSL Middellange 
+Wij adviseren voor de beveiliging van het GBA-netwerk van het onveilige Secure termijn 
+Sockets Layer (SSL) protocol over te stappen naar het beter beveiligde Transport 
+Layer Security (TLS) 1.2-protocol, dat sinds augustus 2008 beschikbaar is op de 
+markt. Indien technisch mogelijk, verdient het zelfs de voorkeur direct over te 
+stappen naar de nieuwste versie TLS 1.3. 
+11 Incomplete logging en monitoring Middellange 
+Wij adviseren het inrichten van een afdoende mate van logging van de gebeurte- termijn 
+nissen binnen de lokale infrastructuur voor te schrijven voor de aangesloten ge-
+meenten, overheidsinstanties en de afnemers buiten de overheid. 
+12 Ontbreken van centrale aansturing en toezicht Lange termijn 
+Wij adviseren bij de toekomstige ontwikkelingen van het BRP te overwegen af te 
+stappen van de gedistribueerde structuur en over te gaan naar een centrale opslag 
+van de persoonsgegevens die authentiek dienen te zijn. 
+13 Onvoldoende robuustheid tegen aanval met ransomware of wiperware Lange termijn 
+Wij adviseren centraal richtlijnen op te stellen en uit te dragen voor het mitigeren 
+van het risico van een besmetting van centrale en decentrale systemen met 
+ransomware of wiperware, en zorg te dragen dat mitigerende maatregelen worden 
+gerealiseerd bij de aangesloten partijen. 
+ 
+  
+19 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+3.1.2. Centraal te treffen technische maatregelen 
+De centraal te treffen technische maatregelen betreffen de volgende adviezen: 
+ Minimale wachtwoordlengte is te kort 
+Het verlengen van de minimale wachtwoordlengte voor de GBA-mailbox server en GBA-V 
+van de huidige 6 tekens naar 8 tekens; 
+ Onveilig beveiligingsprotocol SSL 
+Het overstappen van het onveilige Secure Sockets Layer (SSL) protocol voor de beveiliging 
+van het GBA-netwerk naar het beter beveiligde Transport Layer Security (TLS) 1.2- of 1.3-
+protocol. 
+De aanpassing van de wachtwoordlengte is een technische wijziging in de wachtwoordmodule in 
+de centrale systemen, die moet worden uitgevoerd door de leverancier van de programmatuur. 
+Het invoeren vereist communicatie met alle aangesloten organisaties, aangezien de beheerders 
+van de aangesloten systemen met een wachtwoordlengte van 6 of 7 tekens hun wachtwoorden 
+moeten aanpassen. 
+Het overstappen van SSL naar TLS vereist een onderzoek naar de technische afhankelijkheden 
+en de realiseerbaarheid. Als de overstap mogelijk is, moet deze worden uitgevoerd door de leve-
+ranciers van het GBA-netwerk en de Public Key Infrastructure (PKI). 
+Deze kosten zijn in het kader van het huidige onderzoek niet te kwantificeren. Hiervoor dienen 
+offertes te worden opgevraagd bij de leveranciers. 
+  
+21 van 25 
+
+Ministerie BZK, DGOO, I&O 
+Rapport over Doorlichting digitale veiligheid 
+Basisregistratie Personen (BRP) 
+4. Opdrachtverantwoording
+Op 1 maart 2019 hebben wij van de Directie I&O van het ministerie BZK de opdracht gekregen
+om een doorlichting van de digitale veligheid BRP uit te voeren in het kader van de Kamerbrief
+‘Verhogen informatiebeveiliging’ van 16 oktober 2018.
+4.1. De onderzoeksvraag
+De werkzaamheden zijn gericht op het inventariseren van de risico’s en de maatregelen ter waar-
+borging van de vertrouwelijkheid en integriteit van de gegevens in de BRP. Het accent ligt hier-
+bij op de IT General Controls met betrekking tot toegang, wijzigingen en uitvoering ten aanzien
+van de applicatie GBA-V. De onderzoeksgebieden zijn in opzet en bestaan beoordeeld.
+Het onderzoek betreft de situatie op 30 april 2019.
+De conclusies en adviezen zijn in een rapport van bevindingen gepresenteerd aan de opdrachtge-
+ver.
+4.2. De onderzoeksaanpak
+Wij hebben deze opdracht voor overeengekomen werkzaamheden uitgevoerd en hierover gerap-
+porteerd conform de richtlijnen van de Nederlandse Orde van Register IT Auditors (NOREA).
+Fase 1 – Verkennend onderzoek voor scopebepaling en ontwikkelingen
+Op 12 maart 2019 zijn wij gestart met de Voorbereidingsfase, welke bestaat uit het opstellen van
+het werkprogramma en het uitvoeren van verkennende interviews. In april 2019 is documentatie
+verzameld via publiekelijk toegankelijke bronnen. De scope van het onderzoek is vastgesteld in
+overleg met de opdrachtgever.
+Fase 2 – Onderzoeksfase
+Wij hebben de deskresearch en diepgaande interviews uitgevoerd met specialisten en betrokke-
+nen in de periode van 22 maart tot en met 24 april 2019. De bevindingen zijn in concept getoetst
+in overleg met de opdrachtgever of met de betrokkenen.
+Er zijn gespreksverslagen gemaakt van de interviews en getoetst bij de geïnterviewden. Het dos-
+sier is zo opgezet dat de bevindingen traceerbaar zijn voor de opdrachtgever.
+Fase 3 – Analysefase en rapportage
+Aan de hand van de beschouwde documentatie en de uitgevoerde interviews zijn de onderzoeks-
+vragen beantwoord. De uitgevoerde stappen zijn:
+ Inventarisatie van de persoonsgegevens in opslag en transport;
+ Globale inventarisatie van de reeds binnen de scope getroffen maatregelen voor de borging
+van de informatiebeveiliging en privacybescherming, en de mitigatie van (cyber)dreigingen; 
+23 van 25 
+
+ 
+ 
+Ministerie BZK, DGOO, I&O 
+ 
+ 
+Rapport over Doorlichting digitale veiligheid 
+ 
+Basisregistratie Personen (BRP) 
+  
+ 
+ 
+Bijlage A Lijst van afkortingen 
+ 
+Afkorting Toelichting 
+AVG Algemene Verordening Gegevensbescherming 
+BIG / BIO Baseline Informatiebeveiliging Gemeenten / Overheid 
+BRP Basis Registratie Personen 
+BSN Burgerservicenummer 
+BV-BSN Beheervoorziening BSN 
+BZK Ministerie van Binnenlandse Zaken en Koninkrijkszaken 
+DIO Directie Informatiesamenleving en Overheid (DIO), Ministerie BZK 
+ENSIA Eenduidige Normatiek Single Information Audit 
+FG Functionaris voor de Gegevensbescherming 
+GBA Gemeentelijke basisadministratie persoonsgegevens 
+GBA-V GBA Verstrekkingsvoorziening 
+IBD Informatiebeveiligingsdienst 
+ICT Informatie en Communicatie Technologie 
+IND Immigratie- en Naturalisatiedienst, met haar informatiesysteem Indigo 
+LO GBA Logisch Ontwerp GBA 
+NCSC Nationaal Cyber Security Centrum 
+NCTV Nationale Coördinator Terrorismebestrijding en Veiligheid 
+PGK PIVA-GBA-Koppeling 
+PIVA Persoonsinformatievoorziening Nederlandse Antillen en Aruba 
+RNI Registratie Niet-Ingezetenen 
+RvIG Rijksdienst voor Identiteitsgegevens 
+SOC Security Operating Center 
+sPd-protocol simple Protocol data. Dit protocol is ontwikkeld voor GBA, en is geba-
+seerd op het P7-protocol voor X.400. 
+SSL Secure Sockets Layer 
+TLS Transport Layer Security 
+TMV Terugmeldvoorziening 
+ 
+25 van 25 
+

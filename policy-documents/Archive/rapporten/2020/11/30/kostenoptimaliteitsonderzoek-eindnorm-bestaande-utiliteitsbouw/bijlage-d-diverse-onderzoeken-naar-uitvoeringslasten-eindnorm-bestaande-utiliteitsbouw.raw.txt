@@ -1,0 +1,2293 @@
+ 
+ 
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+Onderzoek naar uitvoeringslasten bij 
+voorgestelde eindnorm 2050 
+ 
+Status  definitief 
+Versie  001 
+Rapport  B.2019.1007.21.R002 
+Datum  12 mei 2022 
+ 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+Inhoud 
+1. Inleiding 4 
+2. Uitgangspunten voorgestelde eindnorm 2050 5 
+2.1 Referentiegebouwen en eisen voorgestelde eindnorm 2050 5 
+2.2 Referentiesituaties eindnorm 2050 6 
+2.3 Maatregelpakketten eindnorm 2050 7 
+2.4 Financiële uitgangspunten eindnorm 2050 7 
+3. Bepaling kostenniveau benodigde meerinvesteringen voor eindnorm 10 
+4. Resultaten voor de voorraad gebouwen 16 
+4.1 Verdeling gebruiksfuncties en energetische referentiesituatie 16 
+4.2 Effect van sloop 19 
+4.3 Meerinvesteringen en energiebesparingen 20 
+4.4 Onzekerheden 22 
+5. Koppeling van de eindnorm aan de energielabelklasses 24 
+5.1 Energielabelklasses 24 
+5.2 Meerinvesteringen 24 
+5.3 Eenvoudige terugverdientijd 25 
+6. Overige vragen 27 
++++
+6.1 Zijn er bij kinderopvang voldoende opwekconcepten bij A 27 
+6.2 Is voor de eindnorm een hoger isolatieniveau dan ‘zeer goed’ nodig? 27 
+7. Beschouwing resultaten en conclusie 30 
+ 
+B2019100721R002_Bijlagenboek (separaat document) 
+ 
+ 
+ 
+3 
+ 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+2. Uitgangspunten voorgestelde eindnorm 2050 
+In dit onderzoek naar de meerinvesteringen en besparing op energiekosten is gebruikgemaakt 
+van de kostenoptimaliteitsstudie eindnorm 2050. In de rapportage met kenmerk 
+B.2019.1007.00.R002v3 van 30 november 2020 zijn alle uitgangspunten en resultaten van de 
+eindnormstudie gerapporteerd.  
+Voor het voorliggende onderzoek naar de meerinvesteringen is deze kostenoptimaliteitsstudie 
+gebruikt en zijn geen nieuwe uitgangspunten gehanteerd of berekeningen gemaakt. We hebben 
+een nadere analyse van de beschikbare gegevens uit de studie gedaan. In dit hoofdstuk zijn de 
+belangrijkste uitgangspunten van de kostenoptimaliteitsstudie samengevat en opgesomd, zodat het 
+kader van de bepaling van de meerinvesteringen helder is.  
+2.1 Referentiegebouwen en eisen voorgestelde eindnorm 2050 
+In de rapportage van de kostenoptimaliteitsstudie is ook de achtergrond van de selectie van de 
+referentiegebouwen opgenomen. De meeste gebruiksfuncties kennen drie referentiegebouwen 
+waarbij onderscheid is gemaakt in een klein, middel en groot gebouw.  
+tabel 1: kostenoptimale bandbreedte, voorstel numerieke waarde eindnorm en nieuwbouw eis 
+per gebruiksfunctie en grootte per referentiegebouw 
+Gebruiks- Kostenoptimale Voorstel  Nieuwbouw 
+Gebouw Gebruiksfunctie Grootteklasse oppervlak bandbreedte eindnorm numeriek eis      
+2 2 2 2
+[m ] [kWh/m ] [kWh/m ] [kWh/m ] 
+G10 kantoor   klein 
+298 
+G11 kantoor   middel 
+2.741 55-100 55 40 
+G12 kantoor   groot 
+9.456 
+G13 winkel klein 
+176 
+G14 winkel middel 60 
+1.284 55-90 60 
+G15 winkel groot 
+6.967 
+G16 sport klein 
+410 
+G17 sport middel 
+1.182 75-140 90 90 
+G18 sport groot 
+3.337 
+G19 onderwijs klein 
+919 
+G20 onderwijs middel 70 
+3.464 70-125 70 
+G21 onderwijs groot 
+8.625 
+G22 bijeenkomst klein 
+180 
+G23 bijeenkomst middel 
+712 75-95 75 60 
+G24 bijeenkomst groot 
+4.341 
+G25 kinder-opvang  klein 
+298 
+95-155 95 70 
+G26 kinder-opvang  middel 
+940 
+G27 zorg zonder bed  klein 
+325 
+G28 zorg zonder bed  middel 50 
+2.149 50-85 50 
+G29 zorg zonder bed  groot 
+8.077 
+G30 zorg met bed  klein 
+470 
+G31 zorg met bed  middel 
+3.353 160-240 160 130 
+G32 zorg met bed  groot 
+19.657 
+G33 cel klein 
+2.000 
+G34 cel middel 120 
+10.894 130-180 130 
+G35 cel groot 
+24.219 
+G36 logies-gebouw klein 
+581 
+G37 logies-gebouw middel 
+2.757 125-165 130 130 
+G38 logies-gebouw groot 
+9.295 
+G39 andere  
+80 60-75 60 40 
+logiesfunctie 
+ 
+  
+5 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+2.3 Maatregelpakketten eindnorm 2050 
+In de kostenoptimaliteitsstudie voor de bepaling van de eindnorm 2050 zijn verschillende 
+maatregelpakketten doorgerekend. Hierbij zijn verschillende uitgangspunten gehanteerd. 
+Voor de details van deze uitgangspunten verwijzen we naar de hiervoor genoemde rapportage van 
+de eindnorm. In deze rapportage zijn ook losse bouwkundige en installatietechnische maatregelen 
+genoemd. Met deze losse maatregelen alleen kan de eindnorm niet bereikt worden. Er is voor de 
+uitvoeringslasten daarom steeds gekeken naar maatregelpakketten. Maatregelen als zonneboiler, 
+douche-wtw en zonnepanelen die als losse maatregel zijn beoordeeld in de 
+kostenoptimaliteitsstudie zijn (ook) in deze studie niet in de maatregelpakketten opgenomen.  
+ 
+Onderstaand zijn de maatregelen die in de eindnorm studie zijn meegenomen in de 
+maatregelpakketten met een korte omschrijving opgesomd. Zo is inzichtelijk welke bouwkundige 
+maatregelen en installatietechnieken ten grondslag liggen aan de gepresenteerde 
+meerinvesteringen. 
+ 
+Bouwkundige maatregelen 
+2
+• Isolatie goed: Rc vloer/gevel/dak = 3.7/1.4/3.7 m K/W en HR++ beglazing 
+2
+• Isolatie zeer goed: Rc vloer/gevel/dak = 3.7/3.7/3.7 m K/W en HR++ beglazing 
+2
+• Isolatie nieuwbouw HR++: Rc vloer/gevel/dak = 3.7/4.7/6.3 m K/W en HR++ beglazing 
+2
+• Isolatie nieuwbouw triple: Rc vloer/gevel/dak = 3.7/4.7/6.3 m K/W en triple beglazing 
+2
+• Isolatie passief: Rc vloer/gevel/dak = 5.0/6.0/8.0 m K/W en triple beglazing 
+ 
+In de referentiesituatie ‘goed’ wordt voor de Rc van vloer, gevel en dak al uitgegaan van Rc=2,6 
+2
+m K/W. Voor deze referentiesituatie zijn de bovenstaande bouwkundige maatregelpakketten 
+‘Isolatie goed’ en ‘Isolatie zeer goed’ niet beschouwd, omdat de overgang qua Rc-waarde te gering 
+is. 
+ 
+Installatietechniek maatregelen 
+• Hr-ketel 
+• Warmtepomp op buitenlucht 
+2
+• Warmtepomp met bodemwisselaar (gebouwen < 3500 m ) 
+2
+• Warmtepomp met aquifer bron (gebouwen > 3500 m ) 
+• Biomassa ketel 
+• Externe warmtelevering min (primaire energiefactor f 0.67 en hernieuwbare factor 0) 
+;p;del
+• Externe warmtelevering max (primaire energiefactor f 0.4 en hernieuwbare factor 0.4) 
+;p;del
+• Ventilatiesysteem C4c, debietregeling CO gestuurd 
+2
+• Ventilatiesysteem D2 met 70% WTW 
+• Ventilatiesysteem D5a CO sturing met 70% WTW 
+2
+• Ledverlichting met aanwezigheidsdetectie 
+• Ledverlichting met daglicht- en aanwezigheidsdetectie 
+• Ledverlichting met veegschakeling (alleen winkels) 
+2.4 Financiële uitgangspunten eindnorm 2050 
+De financiële uitgangspunten bij de kostenoptimaliteitsstudie eindnorm 2050 zijn door Arcadis 
+bepaald. De investeringskosten voor deze studie zijn door Arcadis afgestemd met betrokken 
+marktpartijen. Het gaat hierbij om de investeringskosten en kostenkengetallen bij een natuurlijk 
+vervangmoment.  
+ 
+7 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+De energieprijs voor teruggeleverde elektriciteit is op basis van de basisprijs (prijs exclusief btw 
+en energiebelasting) voor elektriciteit per jaar. Er is sprake van saldering bij 
+elektriciteitsopwekking voor kleinverbruikers. Er wordt rekening gehouden met het afbouwpad van 
+de saldering volgens het besluit van maart 2020.  
+ 
+Bij de bepaling van de besparing op energiekosten is ook rekening gehouden met een mindering 
+van de kosten voor vastrecht van gas van € 200 per jaar. Voor de maatregelpakketten met externe 
+warmtelevering is rekening gehouden met de bijkomstigheid van vastrecht voor de warmtelevering 
+afhankelijk van de grootte van het gebouw.  
+9 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+ 
+figuur 1: meerinvesteringen winkelfunctie, weergave per grootteklasse 
+ 
+ 
+figuur 2: meerinvesteringen winkelfunctie, weergave per installatietechniek 
+ 
+  
+11 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+We zien dat we voor het laagste kostenniveau een onder- en een bovenwaarde kunnen bepalen. 
+Deze onder- en bovenwaarde wordt bepaald door verschillende opwektechnieken waarmee het 
+voorgestelde prestatieniveau van de eindnorm behaald kan worden. Voor het bepalen van de 
+onder- en de bovenwaarde van het laagste kostenniveau hanteren we de volgende uitgangspunten: 
+• Onderscheid maken in klein, middel en grote gebouwen. 
+• Het laagste kostenniveau, de bandbreedte tussen de onder- en bovenwaarde, wordt gebaseerd 
+op tenminste twee verschillende opwektechnieken.  
+• Doordat de buitenlucht warmtepomp een opwektechniek is die bij ieder gebouw gerealiseerd 
+kan worden, moet deze indien mogelijk worden meegenomen.  
+• Van een opwektechniek met een bepaalde referentiesituatie moet in de bandbreedte nog 
+eenzelfde punt liggen (dus bijvoorbeeld 2 rode plusjes).  
+• Als een enkel punt in de grafiek verder naar beneden dan wel boven in de grafiek ligt, wordt 
+deze waarde niet meegenomen, maar wordt uitgegaan van het midden tussen de twee onderste 
+grafiekpunten.  
+ 
+Daarnaast hebben we gezien dat de resultaten voor referentiesituatie ‘slecht’ en ‘matig’ voor 
+de verschillende gebruiksfuncties relatief dicht bij elkaar liggen en resulteren in vergelijkbare 
+onder- en bovenwaarden. Bij de beschouwing van de resultaten worden deze daarom 
+samengenomen. De referentiesituatie ‘goed’ wordt wel apart beschouwd.  
+ 
+Aan de hand van bovengenoemde uitgangspunten hebben we in figuur 4 het laagste kostenniveau 
+voor de referentiesituatie ‘goed’ in een oranje gebied en voor de referentiesituatie ‘slecht’ en 
+‘matig’ in een grijsgebied weergegeven. De plusjes in de grafiek geven de referentiesituatie ‘goed’ 
+weer. Aan de onderkant van de grafiek zien we een enkele uitschieter met externe warmtelevering 
+liggen. Daarom is de onderwaarde (de onderkant van het oranje gebied) gekozen tussen de laagste 
+I26 en I24 waarde. Vervolgens moeten in het laagste kostenniveau gebied, tenminste twee 
+opwektechnieken liggen, een buitenlucht warmtepomp en tenminste twee resultaten van de 
+technieken (dus 2 rode plusjes of 2 bruine plusjes).  
+ 
+In de figuur zien we dat de bovenkant van het laagste kostenniveau dan ligt op het tweede rode 
+plusje (buitenlucht warmtepomp). Een vergelijkbare bepaling is gedaan voor het grijze gebied voor 
+referentiesituatie ‘slecht’ en ‘matig’.  
+ 
+13 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+ 
+Bij de andere logiesfunctie zijn de pakketten met externe warmtelevering buiten beschouwing 
+gelaten. De warmtelevering bracht een toename in de energiekosten waarbij er geen sprake meer 
+was van energiebesparing en dus enige terugverdientijd. Enkel de pakketten met 
+buitenluchtwarmtepomp en bodemwarmtepomp zijn meegenomen in de analyse. Hierdoor heeft 
+2
+de andere logiesfunctie de hoogste meerinvestering per m gebruiksoppervlakte.  
+ 
+De maatregelen die zitten in de maatregelpakketten die tussen de onderwaarde en 
+bovenwaarde van het laagste kostenniveau liggen, zijn toegelicht in bijlage 2 in het 
+bijlageboek. 
+15 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+ 
+figuur 5: gemiddeld label per bouwjaarperiode afkomstig uit labeldatabase 1-1-2019, Bron: Menkveld et al, 
+2021: Ambitieniveau dienstenconvenant, TNO, Amsterdam 
+ 
+In figuur 5 zien we veel verschillende labels per bouwjaarperiode en per gebruiksfunctie. 
+Om te kunnen bepalen in welke bouwjaarperiodes de gebouwen onder de referentiesituatie 
+‘slecht’, ‘matig’ of ‘goed’ vallen, hebben we de referentiegebouwen uit de eindnormstudie 
+‘gelabeld’. We weten de primaire energiefactor (BENG 2) van deze gebouwen en kunnen ze 
+daarmee indelen in de juiste labelklasse.  
+Doordat van alle gebruiksfuncties er verschillende groottes gebouwen zijn (klein, middel en groot) 
+en verschillende energetische kwaliteiten (slecht, matig en goed), is er per gebruiksfunctie sprake 
+van negen verschillende labels. De verschillende grootteklasse van de gebouwen 
+vertegenwoordigen binnen de landelijke voorraad gebouwen ieder 1/3 van het gebruiksoppervlak. 
+Op basis hiervan is per referentiesituatie een gemiddeld label bepaald. 
+ 
+In tabel 4 zijn de verschillende labels per gebruiksfunctie voor de verschillende grootteklassen en 
+energetische kwaliteit opgenomen. Dit zijn dus de labels voor alle referentiegebouwen die in de 
+eindnormstudie zijn gehanteerd. De gemiddelde labelklasse per referentiesituatie, is opgenomen 
+in de laatste kolom van de tabel.  
+tabel 4: labelklasse indeling per referentiegebouw en energetische kwaliteit 
+Gebruiksfunctie Energetische referentiesituatie  Klein Middel Groot  Gemiddeld 
+ 
+Kantoor Slecht  G G G  G 
+ Matig  C C C  C 
+Goed A+ A++ A++  A+ 
+Winkel Slecht  E A B  C 
+Matig  D A++ A++  A+ 
+Goed A++ A+++ A+++  A+++ 
+Sport Slecht  G G G  G 
+Matig  G C B  D 
+Goed E A+ A+  B 
+Onderwijs Slecht  G G G  G 
+Matig  F A B  C 
+Goed C A+ A+  A 
+Bijeenkomst Slecht  G G G  G 
+Matig  G A A  C 
+Goed A+ A+ A++  A+ 
+Kinderopvang Slecht  G G   G 
+Matig  D B   C 
+Goed B A+   A 
+17 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+ 
+figuur 6: indeling referentiesituaties bij huidige labels en bouwjaarperiode 
+ 
+Op basis van de verdeling van de referentiesituaties over de verschillende bouwjaarperiodes met 
+de gebruiksoppervlakten uit de BAG komen we tot een verdeling volgens tabel 5. De situatie vanaf 
+2015 is hierbij al buiten beschouwing gelaten.  
+tabel 5: verdeling energetische referentiesituaties over verschillende gebruiksfuncties 
+situatie kantoor Bijeen kinder- onder zorg zorg winkel sport cel logies- andere 
+komst opvang wijs zonder met gebouw logies 
+bed bed 
+slecht 31% 46% 39% 53% 49% 75% 33% 28% 59% 65% 23% 
+matig 39% 27% 37% 23% 40% 9% 31% 36% 38% 27% 54% 
+goed 30% 27% 24% 24% 11% 16% 36% 35% 2% 8% 23% 
+ 
+Met bovenstaande verdeling hebben we een zo goed mogelijke benadering van de huidige markt 
+opgenomen, waarbij rekening wordt gehouden met de verschillen die er zijn tussen de 
+verschillende gebruiksfuncties. 
+4.2 Effect van sloop 
+In tabel 6 is aangegeven hoeveel sloop er in de periode 2011 tot 2019 jaarlijks gemiddeld heeft 
+plaats gevonden. Deze historische gegevens zijn gehanteerd als voorspelling voor het deel van de 
+voorraad dat in de periode 2020-2050 wordt gesloopt.  
+De gehanteerde voorraadgegevens vanuit BAG zijn afkomstig uit 2019. De gemiddelde hoeveelheid 
+sloop is voor de berekening van de totale meerinvesteringen voor de eindnorm gekoppeld aan een 
+periode van 30 jaar. De afname van de totale voorraad door sloop is alleen geprojecteerd op het 
+deel van de voorraad met een slechte en matige kwaliteit (verdeeld naar rato van voorkomen).  
+tabel 6: gemiddelde jaarlijkse sloop als aandeel van de totale voorraad  
+Gebruiksfunctie Jaarlijkse sloop * 
+Kantoor 0,4% 
+Winkel 0,4% 
+Sport 1,1% 
+Onderwijs 1,2% 
+Bijeenkomst 0,8% 
+Zorg 1,0% 
+Cel 0,6% 
+Logies 0,5% 
+* gemiddelde over periode 2011-2019; informatie M. Menkveld, TNO, 15 maart 2022. 
+19 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+zijn niet aan te rekenen voor de eindnorm maar worden nu wel meegenomen bij de totale 
+investeringskosten van de maatregelpakketten. 
+ 
+Het betreft de volgende maatregelen vanuit de erkende maatregel lijsten (EML): 
+• Spouwisolatie (voorraad met referentie slecht) 
+2
+• Dakisolatie Rc 3,7 m .K/W (voorraad met referentie slecht en matig) 
+• LED lichtbronnen/plafond verlichting (voorraad met referentie slecht en matig) 
+ 
+Naar verwachting valt toepassing van warmteterugwinning met een twin-coil systeem bij 
+balansventilatie ook onder de EML. Deze maatregel is voor de eindnorm meegenomen bij 
+middelgrote en grote gebouwen met balansventilatie bij referentie slecht. Voor de overige 
+situaties is er al sprake van warmteterugwinning of is er geen sprake van balansventilatie. 
+ 
+Voor kantoren is er een wettelijke verplichting voor energielabel C vanaf 1 januari 2023. Over het 
+algemeen is label C voor kantoren binnen bereik door de toepassing van spouw- en dakisolatie, het 
+gebruik van ledverlichting en de toepassing van warmteterugwinning op het ventilatiesysteem. 
+Deze maatregelen zijn hiervoor al benoemd vanuit de EML.  
+ 
+Voor de verschillende maatregelen is de maximale bijdrage aan de meerinvesteringen 
+weergegeven in tabel 7. Er is voor de losse maatregelen uitgegaan van de investeringskosten zoals 
+ook gebruikt voor de eindnorm op een natuurlijk moment. Voor het aantal vierkante meter 
+spouwisolatie en dakisolatie is uitgegaan van de gegevens van de gehanteerde referentiegebouwen 
+klein, middel en groot per gebruiksfunctie.  
+tabel 7: maximale bijdrage aan de meerinvesteringen voor specifieke maatregelen op basis van 
+de totale voorraad utiliteitsgebouwen rekening houdend met sloop  
+Referentiesituatie Gebruiksoppervlak Spouwisolatie Dakisolatie  Led- Warmteterugwinning 
+ Rc 3,7 m2K/W plafondverlichting twin-coil 
+2
+ [m ] [€ mld] [€ mld] [€ mld] [€ mld] 
+Slecht  64.765.000 0,7 0,9 3,2 0,4 
+Matig 53.000.000 Nvt 0,5 2,6 Nvt 
+Totaal  0,7 1,4 5,8 0,4 
+ 
+De te verwachten gemiddelde meerinvestering die al gedaan moet worden in de Nederlandse 
+gebouwvoorraad op basis van andere regelgeving dan de eindnorm is volgens tabel 9 voor de 
+verschillende maatregelen samen circa 8,3 miljard euro wanneer rekening wordt gehouden met de 
+effecten van sloop. 
+Bij bovenstaande resultaten moet wel een kanttekening gemaakt worden bij de gehanteerde 
+prijzen en bij het gebruiksoppervlak waarop de maatregel (nog niet) is gerealiseerd.  
+ 
+De prijzen van materialen zijn momenteel sterk aan veranderingen onderhevig. Dat geldt echter 
+voor alle investeringskosten die voor de eindnorm zijn gehanteerd. In die zin ontstaan er geen 
+verschillen. Bij ledverlichting is er de afgelopen jaren echter ook sprake van een verdere prijs- en 
+techniekontwikkeling. Momenteel zijn ledverlichtingsarmaturen bij vervanging op een natuurlijk 
+moment in veel gevallen goedkoper dan armaturen met tl-verlichting. Voor ledverlichting is er los 
+van andere regelgeving daardoor geen sprake van meerinvesteringen meer.  
+ 
+Bij het bepalen van de totale meerinvesteringen wordt gebruikt gemaakt van het totale 
+gebruiksoppervlak voor de gebouwen waarbij de maatregel nog niet is getroffen.  
+Door onzekerheden over het voorkomen van de bovenstaande maatregelen in de huidige voorraad 
+21 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+specifieke maatregelen. Op grond van het energielabel wordt voor deze studie verondersteld dat 
+bepaalde maatregelen zijn getroffen.  
+ 
+De onzekerheid over de mate van voorkomen van de maatregel warmteterugwinning met twin-coil 
+is nog groter. Hierbij is voor de bepaling van de relevante voorraad - waarbij deze maatregel nog 
+niet getroffen is - gebruik gemaakt van algemene kenmerken over verschillen in de voorraad bij 
+kleine, middelgrote en grote gebouwen en bij verschillende energetische kwaliteiten. Voor de 
+oorspronkelijke kostenoptimaliteitsstudie was het relevant om onderscheid te maken op basis van 
+de verschillende maatregelen die kunnen voorkomen. Een koppeling met de frequentie waarin 
+deze maatregelen voorkomen is echter niet goed te maken.  
+  
+23 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+kwaliteit slecht/matig en goed zijn weergegeven in bijlage 1. Er is geen onderscheid gemaakt 
+tussen de energetische kwaliteiten slecht en matig omdat de resultaten hiervan vergelijkbaar zijn. 
+Wanneer de grenswaarde van energielabelklasse A+++ of A++ hoger is dan de numerieke waarde is 
+met een cirkel aangegeven welke maatregelpakketten extra in beeld komen. Bij een lagere 
+grenswaarde van energielabelklasse A+++ of A++ ten opzichte van de numerieke waarde vallen er 
+maatregelpakketten buiten beeld (bijvoorbeeld bij sport). 
+ 
+Bij de meeste gebouwen leidt een eindnorm op basis van A+++ tot lagere (minimaal gemiddelde) 
+meerinvesteringen. Alleen bij sport, cel en bij logies is er bij A+++ ook sprake van een lagere BENG 
+2 grenswaarde dan bij de numerieke indicator (zie tabel 8). Bij een aantal referentiegebouwen is 
+er hierdoor bij A+++ sprake van hogere (minimaal gemiddelde) meerinvesteringen ten opzichte van 
+de numerieke waarde voor de eindnorm. Bij A++ zijn deze hogere meerinvesteringen er niet. 
+tabel 9: minimaal gemiddelde meerinvesteringen voor de totale Nederlandse voorraad 
+rekening houdend met sloop 
+Numeriek eindnorm A+++ Mix A+++/A++ 
+[€ mld] [€ mld] [€ mld] 
+36,9 34,7 34,3 
+ 
+In tabel 9 staan de (minimaal gemiddelde) meerinvesteringen voor de totale voorraad 
+utiliteitsgebouwen bij achtereenvolgens de eindnorm op basis van het voorstel voor de numerieke 
+waarde, energielabelklasse A+++ en een mix van energielabelklasse A+++ en A++.  
+De totaal benodigde (minimaal gemiddelde) meerinvesteringen voor de totale voorraad 
+utiliteitsgebouwen zijn bij A+++ circa twee miljard euro lager dan bij de numerieke waarde voor 
+de eindnorm. Bij de mix van A+++ en A++ zijn de (minimaal gemiddelde) meerinvesteringen nog 
+net iets lager. Het verschil tussen A+++ en de mix van A+++ en A++ is echter beperkt.  
+De hogere investeringskosten bij de verschillende gebouwen voor A+++ zijn niet terug te zien in de 
+lagere investeringskosten voor de totale voorraad. Het aandeel van sport, cel en logies in de totale 
+voorraad is beperkt. De investeringskosten zijn bij deze drie gebruiksfuncties samen met 0,2 
+miljard toegenomen. 
+ 
+Bij de bepaling van de meerinvesteringen voor de totale voorraad is gebruik gemaakt van 
+gebruiksoppervlakte gegevens uit BAG. In paragraaf 4.4 is een kanttekening gemaakt bij de exacte 
+omvang van de voorraad die direct bepalend is voor de absolute hoogte van de totale minimaal 
+gemiddelde meerinvesteringen. 
+5.3 Eenvoudige terugverdientijd  
+Op basis van de gemiddelde meerinvestering en de gemiddelde besparing op de energiekosten per 
+2 
+m per gebruiksfunctie kan voor de verschillende energetische referentiesituaties een eenvoudige 
+terugverdientijd bepaald worden (zie bijlagen 5 en 6).  
+In tabel 10 zijn de resultaten weergeven van de gemiddelde meerinvestering en besparing op de 
+energiekosten bij energielabelklasse A+++. In deze terugverdientijd zijn geen financieringskosten 
+of kosten voor onderhoud meegenomen.  
+  
+25 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+6. Overige vragen 
+Door het ministerie van BZK zijn er naar aanleiding van de concept resultaten twee vragen gesteld 
+die in dit hoofdstuk zijn beantwoord. 
++++
+6.1 Zijn er bij kinderopvang voldoende opwekconcepten bij A  
+Kort beantwoord: ja. 
+ 
+De overlap van het kostenoptimale niveau bij bijeenkomst met kinderopvang is bij labelklasse A+++ 
+2
+beperkt tot een kleine bandbreedte die loopt van 95 tot 110 kWh/m .  
+Doordat er bij de bepaling van de investeringskosten per gebruiksfunctie is gekeken naar de 
+2
+maatregelpakketten met een BENG 2 indicator tussen 0 kWh/m en de specifieke waarde voor de 
+eindnorm is dit niet van invloed op het aantal maatregelpakketten. Zowel bij het voorstel voor de 
+2
+numerieke waarde van de eindnorm van 95 kWh/m (+5%) als bij de hogere grenswaarde van 
+energielabelklasse A+++ zijn er voldoende maatregelpakketten.  
+Dit is ook te zien in de resultaten voor bijeenkomst kinderopvang in bijlage 3. In het geval van de 
+2
+hogere grenswaarde van 110 kWh/m komen er vooral maatregelpakketten met warmtelevering en 
+enkele maatregelpakketten met een buitenluchtwarmtepomp bij. Het aantal opwekconcepten 
+veranderd niet. 
+6.2 Is voor de eindnorm een hoger isolatieniveau dan ‘zeer goed’ nodig? 
+Kort beantwoord: nee. 
+ 
+Bij de uitwerking van de kostenoptimale niveaus van de eindnorm is voor de uitgangssituatie (de 
+referentie) gewerkt met drie vaste energetische kwaliteiten: slecht, matig en goed. 
+ 
+2
+• slecht: ongeïsoleerd Rc vloer/gevel/dak = 0.15/0.35/0.22 m K/W en dubbel glas; 
+2
+• matig: matig geïsoleerd Rc vloer/gevel/dak = 0.15/1.4/1.4 m K/W en dubbel glas; 
+2
+• goed: relatief goede isolatie Rc vloer/gevel/dak = 2.6/2.6/2.6 m K/W en HR++ beglazing. 
+ 
+Bij de doorrekening van de doelsituaties zijn verschillende isolatieniveaus in de berekeningen 
+meegenomen: 
+2
+• (B20/B50) goed: Rc vloer/gevel/dak = 3.7/1.4/3.7 m K/W en HR++ beglazing; 
+2
+• (B21/B51) zeer goed: Rc vloer/gevel/dak = 3.7/3.7/3.7 m K/W en HR++ beglazing; 
+2
+• (B22/B52) nieuwbouw HR++: Rc vloer/gevel/dak = 3.7/4.7/6.3 m K/W en HR++ beglazing; 
+2
+• (B23/B53) nieuwbouw triple: Rc vloer/gevel/dak = 3.7/4.7/6.3 m K/W en triple beglazing; 
+2
+• (B24/B54) passief: Rc vloer/gevel/dak = 5.0/6.0/8.0 m K/W en triple beglazing. 
+ 
+Grootte Energetische kwaliteit Bouwkundig kenmerk 
+referentie 
+Klein/middel Slecht/matig Goed/zeer goed/nieuwbouw HR++ 
+ Goed Nieuwbouw HR++/triple 
+Groot Slecht/matig Goed/zeer goed/nieuwbouw 
+ Goed Nieuwbouw HR++ 
+ 
+Voor alle doorgerekende maatregelpakketten geldt dat dat de berekende prestatie voor de 
+eindnorm wordt gerealiseerd met één van de bouwkundige doelsituaties. Bij alle 
+maatregelpakketten die zijn doorgerekend is bij de investeringskosten en energiebesparing dus 
+rekening gehouden met een bouwkundige verbetering. 
+27 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+Kantoor klein 
+ 
+ 
+ 
+In beide grafieken wordt bij de weergegeven punt (elk punt is een maatregelpakket) onderscheid 
+gemaakt naar de verschillende energetische kwaliteiten van de referentiesituatie: 
+• Driehoek: slecht 
+• Rondje: matig 
+• Plusje: goed 
+29 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+Meerinvesteringen en besparing op energiekosten 
+ 
+Resultaten voor de gehele voorraad 
+Voor de totale investeringskosten voor de gehele gebouwenvoorraad is uitgegaan van de gegevens 
+uit BAG en de labeldatabase. Hier is uitgegaan van vergelijkbare labels voor de gebouwen die nog 
+niet zijn opgenomen in de labeldatabase. Dit is een aanname die in de praktijk zeker kan afwijken. 
+Ook is geen rekening gehouden met wijzigingen in de voorraad door bijvoorbeeld transformatie. 
+Sloop en (vervangende) nieuwbouw is meegenomen op basis van historische gegevens over sloop.  
+ 
+Uiteindelijk hebben bovengenoemde uitgangspunten invloed op de totale meerinvesteringen die 
+gedaan moet worden voor het realiseren van de eindnorm bij de totale Nederlandse voorraad 
+utiliteitsgebouwen (waarvoor in de bouwregelgeving energieprestatie-eisen worden gesteld aan de 
+aanwezige gebruiksfuncties).  
+Er is nu berekend dat de benodigde (minimaal gemiddelde) meerinvesteringen voor de eindnorm 
+circa 35 miljard euro bedragen wanneer wordt uitgegaan van de grenswaarde voor energielabel 
+A+++. Wanneer voor een deel van de gebruiksfuncties rekening wordt gehouden met energielabel 
+A++ dan zijn de benodigde (minimaal gemiddelde) meerinvesteringen circa een half miljard euro 
+lager. 
+ 
+Op grond van andere regelgeving zijn er ook energetische verbeteringen nodig aan de voorraad 
+utiliteitsgebouwen. Ingeschat is dat de benodigde investeringskosten hiervoor circa 8 miljard euro 
+betreffen. De totaal benodigde (minimaal gemiddelde) meerinvesteringen voor energetische 
+verbeteringen aan de voorraad utiliteitsgebouwen door de eindnorm bedragen daardoor circa 27 
+miljard euro. 
+ 
+Bij de hiervoor genoemde bedragen is al rekening gehouden met de uitzondering van de gebouwen 
+2
+< 100 m en de gebouwen met een bouwjaar vanaf 2015. Overige uitzonderingsgronden zoals 
+monumenten zijn nog niet buiten de berekening van de totale meerinvesteringen gehouden.  
+Ook zijn eventuele subsidies niet in de beschouwing meegenomen.  
+ 
+Door de uitzonderingsgronden, door wijzigingen in en verbeterde inzichten over de huidige 
+voorraad en door prijsontwikkelingen kan de totale benodigde meerinvestering voor de eindnorm 
+een hoger of lager bedrag zijn. 
+ 
+ 
+ 
+ 
+ 
+ir. R.M.M. (René) van der Loos 
+DGMR Bouw B.V. 
+ 
+31 
+k:\doc\b\2019\100721\b2019100721r002 investeringskosten en energiebesparing en energielabel.docx 12-05-2022 
+
+ 
+ 
+ 
+  
+Meerinvesteringen en besparing op energiekosten  
+ 
+Colofon Inhoud 
+   
+ 
+Opdrachtgever  Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
+ 
+Postbus 20010 
+Bijlagen 
+2500 EA  DEN HAAG 
+Bijlage 1 Bepaling boven- en onderwaarde laagste kostenniveau per gebruiksfunctie bij 
+   
+voorgestelde eindnorm (Numerieke waarde/ energielabel A+++/A++) 
+Contactpersoon  mevrouw S. van de Wiel en de heer I. Buijnsters 
+Bijlage 2 Maatregelen in maatregelpakketten bij laagste kostenniveau (numerieke waarde 
+opdrachtgever stephanie.wiel@minbzk.nl 
+eindnorm) 
+ivo.buijnsters@minbzk.nl 
+Bijlage 3 Gemiddelde en totale meerinvestering, besparing op energiekosten en eenvoudige 
+   
+Project  BZK / eindnorm 2050 utiliteitsbouw 
+terugverdientijd per gebruiksfunctie (numerieke waarde eindnorm) 
+Betreft  Meerinvesteringen en besparing op energiekosten 
+Bijlage 4 Totale meerinvestering gemeentelijk vastgoed (op basis van numerieke waarde 
+Uw kenmerk  - 
+eindnorm) 
+   
+Bijlage 5 Gemiddelde en totale meerinvestering, besparing op energiekosten en eenvoudige 
+Rapport  B.2019.1007.21.R002 BIJLAGENBOEK 
+terugverdientijd per gebruiksfunctie (energielabel A+++) 
+Datum  12 mei 2022 
+Bijlage 6 Gemiddelde en totale meerinvestering, besparing op energiekosten en eenvoudige 
+Versie  001 
+terugverdientijd per gebruiksfunctie (mix van energielabel A+++ en A++) 
+Status  definitief 
+ 
+   
+Uitgevoerd door  DGMR Bouw B.V.  
+Van Pallandtstraat 9-11 
+6814 GM Arnhem 
+Postbus 153 
+6800 AD Arnhem 
+   
+Contactpersoon  ir. R.M.M. (René) van der Loos 
+088 346 76 16 
+rlo@dgmr.nl 
+   
+Auteur  ing. P. (Paulien) Guijt 
+088 346 76 21 
+pgu@dgmr.nl 
+   
+Projectadviseur  ir. R.M.M. (René) van der Loos 
+088 346 76 16 
+rlo@dgmr.nl 
+   
+2e lezer/secr.  RLO|SMI 
+ 
+
+Kantoor
+2 2 2
+Kantoor klein_ numerieke waarde eindnorm (55 kWh/m ) +5% Kantoor middel_ numerieke waarde eindnorm (55 kWh/m ) +5% Kantoor groot_ numerieke waarde eindnorm (55 kWh/m ) +5%
++++ 2 +++ 2 +++ 2
+Kantoor klein_gebaseerd op A (80 kWh/m ) Kantoor middel_gebaseerd op A (80 kWh/m ) Kantoor groot_gebaseerd op A (80 kWh/m )
+
+Sport
+2 2 2
+Sport klein_numerieke waarde eindnorm (90 kWh/m ) +5% Sport middel_numerieke waarde eindnorm (90 kWh/m ) +5% Sport groot_numerieke waarde eindnorm (90 kWh/m ) +5%
+Er blijven geen concepten over
++++ 2 +++ 2
+Sport middel_gebaseerd op A (70 kWh/m ) Sport groot_gebaseerd op A (70 kWh/m )
+++ 2 ++ 2 ++ 2
+Sport klein_gebaseerd op A (105 kWh/m ) Sport middel_gebaseerd op A (105 kWh/m ) Sport groot_gebaseerd op A (105 kWh/m )
+
+Bijeenkomstfunctie
+2 2 2
+Bijeenkomst klein_ numerieke waarde eindnorm (75 kWh/m ) + 5% Bijeenkomst middel_ numerieke waarde eindnorm (75 kWh/m ) + 5% Bijeenkomst groot_ numerieke waarde eindnorm (75 kWh/m ) + 5%
++++ 2 +++ 2 +++ 2
+Bijeenkomst klein_ gebaseerd op A (100 kWh/m ) Bijeenkomst middel_ gebaseerd op A (100 kWh/m ) Bijeenkomst groot_ gebaseerd op A (100 kWh/m )
+
+Gezondheid zonder bed
+2 2 2
+Zorg zonder bed klein_numerieke waarde eindnorm (50 kWh/m ) +5% Zorg zonder bed middel_numerieke waarde eindnorm (50 kWh/m ) +5% Zorg zonder bed groot_numerieke waarde eindnorm (50 kWh/m ) +5%
++++ 2 +++ 2 +++ 2
+Zorg zonder bed klein _gebaseerd op A (90 kWh/m ) Zorg zonder bed middel _gebaseerd op A (90 kWh/m ) Zorg zonder bed groot_gebaseerd op A (90 kWh/m )
+
+Cel
+2 2 2
+Cel klein_numerieke waarde eindnorm (130 kWh/m ) +5% Cel middel_numerieke waarde eindnorm (130 kWh/m ) +5% Cel groot_numerieke waarde eindnorm (130 kWh/m ) +5%
++++ 2 +++ 2 +++ 2
+Cel klein_gebaseerd op A (120 kWh/m ) Cel middel _gebaseerd op A (120 kWh/m ) Cel groot _gebaseerd op A (120 kWh/m )
+++ 2 ++ 2 ++ 2
+Cel klein_gebaseerd op A (180 kWh/m ) Cel middel _gebaseerd op A (180 kWh/m ) Cel groot _gebaseerd op A (180 kWh/m )
+
+Logies overig
+2
+Logies overig_numerieke waarde eindnorm (60 kWh/m ) +5%
++++ 2
+Logies overig_gebaseerd op A (50 kWh/m )
+++ 2
+Logies overig_gebaseerd op A (75 kWh/m )
+
+Kantoorfunctie
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G10B20S11I21Z10D10V20L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B20S11I21Z10D10V20L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B20S11I21Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B20S11I21Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B20S11I22Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B20S11I22Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B20S11I24Z10D10V20L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B20S11I24Z10D10V20L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B20S11I24Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B20S11I24Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B20S11I26Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B20S11I26Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B21S11I21Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B21S11I24Z10D10V20L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B21S11I24Z10D10V20L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B21S11I24Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B21S11I24Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B21S11I26Z10D10V20L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B21S11I26Z10D10V20L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B21S11I26Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B21S11I26Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+klein G10B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I26Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B22S11I26Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I26Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I26Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G10B22S11I21Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I26Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B22S11I26Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B22S11I26Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B22S11I26Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B23S11I25Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B23S11I25Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G10B23S11I26Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G10B23S11I26Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G10B23S11I26Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G10B23S11I26Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G11B20S12I21Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B20S12I21Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B20S12I22Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B20S12I22Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B20S12I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B20S12I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B21S12I21Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B21S12I21Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B21S12I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B21S12I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B21S12I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B21S12I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+middel
+G11B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G11B22S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B22S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B22S12I22Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B22S12I22Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G11B23S12I25Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G11B23S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+slecht/matig G12B50S10I21Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B50S10I21Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B50S10I23Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B50S10I23Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B50S10I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B50S10I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B50S10I26Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B50S10I26Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B51S10I21Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B51S10I21Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B51S10I23Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B51S10I23Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B51S10I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B51S10I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B51S10I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+groot
+G12B51S10I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G12B52S10I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G12B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G12B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+
+Sportfunctie
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G16B20S10I54Z10D10V20L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B20S10I54Z10D10V20L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B20S10I54Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B20S10I54Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G16B21S10I54Z10D10V20L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B21S10I54Z10D10V20L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B21S10I54Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B21S10I54Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G16B22S10I54Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B22S10I54Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B22S10I54Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B22S10I54Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+klein
+G16B23S10I54Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B23S10I54Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B23S10I54Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B23S10I54Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G16B22S10I54Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B22S10I54Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B22S10I54Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B22S10I54Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G16B23S10I54Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G16B23S10I54Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G16B23S10I54Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G16B23S10I54Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G17B50S10I51Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B50S10I51Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B50S10I52Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B50S10I52Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B50S10I54Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B50S10I54Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B50S10I56Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B50S10I56Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B51S10I51Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B51S10I51Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B51S10I54Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B51S10I54Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B51S10I56Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B51S10I56Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+middel
+G17B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G17B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I52Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I52Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B53S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B53S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B53S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B53S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G17B53S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G17B53S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G18B50S10I51Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B50S10I51Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B50S10I52Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B50S10I52Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B50S10I54Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B50S10I54Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B50S10I55Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B50S10I55Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B50S10I56Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B50S10I56Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B51S10I51Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B51S10I51Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B51S10I54Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B51S10I54Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B51S10I55Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B51S10I55Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B51S10I56Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B51S10I56Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+groot
+G18B52S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G18B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I52Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I52Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B53S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B53S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B53S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B53S10I55Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B53S10I55Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B53S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G18B53S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G18B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+
+Bijeenkomstfunctie
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G22B20S11I22Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B20S11I22Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B20S11I24Z10D10V20L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B20S11I24Z10D10V20L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B20S11I24Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B20S11I24Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B21S11I22Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B21S11I22Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B21S11I24Z10D10V20L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B21S11I24Z10D10V20L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B21S11I24Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B21S11I24Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B23S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I26Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I26Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I21Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B24S11I24Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B24S11I24Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I24Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B24S11I24Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I26Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B24S11I26Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+klein G22B24S11I26Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B24S11I26Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G22B22S11I22Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B22S11I22Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B22S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B22S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I21Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B23S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I26Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B23S11I26Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I24Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B24S11I24Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I24Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B24S11I24Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I26Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G22B24S11I26Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G22B24S11I26Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G22B24S11I26Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G22B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G23B20S12I22Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B20S12I22Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B20S12I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B20S12I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B21S12I21Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B21S12I21Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B21S12I22Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B21S12I22Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B21S12I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B21S12I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B21S12I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B21S12I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+middel
+G23B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B23S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B23S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G23B22S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I22Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I22Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B23S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B23S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B23S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B23S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B23S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G23B23S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G23B23S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G24B50S10I21Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B50S10I21Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B50S10I23Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B50S10I23Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B50S10I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B50S10I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B50S10I26Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B50S10I26Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B51S10I23Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B51S10I23Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B51S10I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B51S10I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B51S10I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B51S10I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+groot
+G24B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G24B52S10I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B53S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B53S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B53S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B53S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B53S10I25Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B53S10I25Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B53S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G24B53S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G24B53S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+
+Zorgfunctie zonder bed
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G27B20S11I24Z10D10V20L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B20S11I24Z10D10V20L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B20S11I24Z10D10V21L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B20S11I24Z10D10V21L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B21S11I22Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B21S11I22Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B21S11I24Z10D10V20L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B21S11I24Z10D10V20L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B21S11I24Z10D10V21L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B21S11I24Z10D10V21L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B22S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B22S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B23S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I21Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B24S11I21Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I24Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B24S11I24Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I24Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+klein
+G27B24S11I24Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I26Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B24S11I26Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G27B22S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B22S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B22S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B22S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B22S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B22S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I22Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B23S11I22Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I24Z10D10V20L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B23S11I24Z10D10V20L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I24Z10D10V21L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B23S11I24Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I21Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B24S11I24Z10D10V20L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met aanwezigheidsdetectie
+G27B24S11I24Z10D10V20L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie C4c, debietregeling CO2 gestuurd Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I24Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B24S11I24Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Biomassa ketel Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B24S11I26Z10D10V21L20P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met aanwezigheidsdetectie
+G27B24S11I26Z10D10V21L21P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I21Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G27B23S11I22Z10D10V21L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G28B20S12I21Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B20S12I21Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B20S12I22Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B20S12I22Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B20S12I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B20S12I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B20S12I26Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B20S12I26Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B21S12I21Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B21S12I21Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B21S12I22Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B21S12I22Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B21S12I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B21S12I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B21S12I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B21S12I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+middel
+G28B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G28B22S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I22Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I22Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B22S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B22S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B23S12I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B23S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B23S12I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B23S12I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B23S12I25Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B23S12I25Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B23S12I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G28B23S12I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G28B23S12I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G29B50S10I21Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B50S10I21Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B50S10I23Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B50S10I23Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B50S10I24Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B50S10I24Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B50S10I26Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B50S10I26Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B51S10I21Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B51S10I21Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B51S10I23Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B51S10I23Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B51S10I24Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B51S10I24Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B51S10I26Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B51S10I26Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+groot
+G29B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G29B52S10I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I21Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B52S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B52S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B53S10I21Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B53S10I23Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B53S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B53S10I24Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B53S10I24Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B53S10I25Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B53S10I25Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering min Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B53S10I26Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G29B53S10I26Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G29B53S10I23Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+
+Celfunctie
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G33B50S10I51Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B50S10I51Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B50S10I52Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B50S10I52Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B50S10I54Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B50S10I54Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B50S10I56Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B50S10I56Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B51S10I51Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B51S10I51Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B51S10I52Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B51S10I52Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B51S10I54Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B51S10I54Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B51S10I56Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B51S10I56Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I52Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+klein
+G33B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G33B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I52Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I52Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B53S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B53S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B53S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B53S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G33B53S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G33B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G34B50S10I51Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B50S10I51Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B50S10I53Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B50S10I53Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B50S10I54Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B50S10I54Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B50S10I56Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B50S10I56Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B51S10I51Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B51S10I51Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B51S10I53Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B51S10I53Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B51S10I54Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B51S10I54Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B51S10I56Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B51S10I56Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+middel
+G34B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I53Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G34B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I53Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G34B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G34B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+slecht/matig G35B50S10I51Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B50S10I51Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B50S10I53Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B50S10I53Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B50S10I54Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B50S10I54Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B50S10I56Z10D10V22L20P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B50S10I56Z10D10V22L21P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B51S10I51Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B51S10I51Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B51S10I53Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B51S10I53Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B51S10I54Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B51S10I54Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B51S10I56Z10D10V22L20P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B51S10I56Z10D10V22L21P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B52S10I53Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+groot
+G35B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+goed G35B52S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B52S10I53Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B52S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B52S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B52S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I51Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I53Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B53S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I54Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B53S10I54Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Biomassa ketel Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I56Z10D10V22L20P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met aanwezigheidsdetectie
+G35B53S10I56Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I51Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp op buitenlucht Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+G35B53S10I53Z10D10V22L21P10 nieuwbouw (3.7/4.7/6.3) en triple glas Warmtepomp met aquifer bron (gebouwen > 3500 m2) Ventilatie D5a CO2 sturing met 70% WTW Led met daglicht-en aanwezigheidsdetectie
+
+Logiesfunctie (andere)
+Grootteklasse Energetische kwaliteit Maatregelpakketcode Bouwkundig kenmerk Opwektechniek Ventilatie kenmerk Verlichtingskenmerk
+referentie eindnormstudie
+slecht/matig G39B20S10I81Z10D10V21L99P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW
+G39B20S10I82Z10D10V21L99P10 goed (3.7/1.4/3.7) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW
+G39B20S10I86Z10D10V21L99P10 goed (3.7/1.4/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+G39B21S10I81Z10D10V21L99P10 zeer goed (3.7/3.7/3.7) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW
+G39B21S10I86Z10D10V20L99P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+G39B21S10I86Z10D10V21L99P10 zeer goed (3.7/3.7/3.7) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+G39B22S10I86Z10D10V20L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+G39B22S10I86Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+G39B23S10I86Z10D10V20L99P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+klein G39B23S10I86Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+G39B24S10I86Z10D10V20L99P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+G39B24S10I86Z10D10V21L99P10 passief (5.0/6.0/8.0) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+goed G39B22S10I81Z10D10V20L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie C4c, debietregeling CO2 gestuurd
+G39B22S10I81Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp op buitenlucht Ventilatie D2 met 70% WTW
+G39B22S10I82Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Warmtepomp met bodemwisselaar (gebouwen < 3500 m2) Ventilatie D2 met 70% WTW
+G39B22S10I86Z10D10V20L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+G39B22S10I86Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en HR++ glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+G39B23S10I86Z10D10V20L99P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie C4c, debietregeling CO2 gestuurd
+G39B23S10I86Z10D10V21L99P10 nieuwbouw (3.7/4.7/6.3) en triple glas Externe warmtelevering max Ventilatie D2 met 70% WTW
+
+Kantoor Winkel
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis +5% KOS niveau norm Nieuw-bouw eis +5%
+40 60
+Eisen 55-100 55 57,75 Eisen 55-90 60 63
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 298 2741 9456 Oppervlakte 176 1248 6967
+Meerinvesteringen (€/m2) onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 165 230 110 200 120 220 slecht 225 300 220 290 135 205
+matig 165 230 110 200 120 220 matig 225 300 220 290 135 205
+goed 120 195 110 195 110 255 goed 200 255 190 270 125 230
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 14,4 21,3 16,4 19,6 15,3 18,7 slecht 21,5 25,9 11,4 13,6 15,4 16,7
+matig 6,4 13,2 7,7 10,9 7,5 10,9 matig 17,9 22,4 5,7 8,1 5,4 6,8
+goed -0,1 7,1 2,5 5,2 2,4 5,1 goed 2,7 6,4 1,6 3,9 1,9 3,2
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 198 € 155 € 170 slecht € 263 € 255 € 170
+matig € 198 € 155 € 170 matig € 263 € 255 € 170
+goed € 158 € 153 € 183 goed € 228 € 230 € 178
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 18 € 18 € 17 slecht € 24 € 12 € 16
+matig € 10 € 9 € 9 matig € 20 € 7 € 6
+goed € 4 € 4 € 4 goed € 5 € 3 € 3
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 12 9 10 slecht 12 21 11
+matig 21 17 19 matig 14 38 28
+goed 45 40 49 goed 51 84 70
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 19.835.397 slecht 15.852.994
+€ 174 € 18 10 € 3,5 miljard € 229 € 17 13 € 3,6 miljard
+matig 24.586.777 € 174 € 9 18 € 4,3 miljard matig 14.699.935 € 229 € 11 21 € 3,4 miljard
+goed 19.030.254 goed 17.092.021
+€ 164 € 4 44 € 3,1 miljard € 212 € 3 64 € 3,6 miljard
+totaal 63.452.428 € 171 € 10,9 miljard totaal 47.644.950 € 223 € 10,6 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 16.435.463 € 174 € 18 10 € 2,9 miljard slecht 12.886.411 € 229 € 17 13 € 3,0 miljard
+matig 20.372.420 matig 11.949.125
+€ 174 € 9 18 € 3,5 miljard € 229 € 11 21 € 2,7 miljard
+goed 19.030.254 € 164 € 4 44 € 3,1 miljard goed 17.092.021 € 212 € 3 64 € 3,6 miljard
+totaal 55.838.136 € 171 totaal 41.927.556 € 222
+€ 9,5 miljard € 9,3 miljard
+
+Bijeenkomst Kinderopvang
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis +5% KOS niveau norm Nieuw-bouw eis +5%
+60 70
+Eisen 75-95 75 78,75 Eisen 95-155 95 99,75
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 180 712 4341 Oppervlakte 298 940 0
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 140 220 260 380 145 250 slecht 200 350 140 275
+matig 140 220 260 380 145 250 matig 200 350 140 275
+goed 125 225 225 370 140 300 goed 190 320 170 280
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 18,7 29,0 20,9 24,7 19,1 23,2 slecht 29,7 35,9 22,0 26,6
+matig 19,3 23,5 7,3 11,1 6,4 10,5 matig 12,8 18,7 8,3 12,7
+goed -1,8 9,1 3,4 6,3 2,9 6,2 goed 6,1 12,7 4,0 7,8
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel
+slecht € 180 € 320 € 198 slecht € 275 € 208
+matig € 180 € 320 € 198 matig € 275 € 208
+goed € 175 € 298 € 220 goed € 255 € 225
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 24 € 23 € 21 slecht € 33 € 24
+matig € 21 € 9 € 8 matig € 16 € 11
+goed € 4 € 5 € 5 goed € 9 € 6
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 8 15 10 slecht 9 9
+matig 9 35 24 matig 18 20
+goed 48 62 49 goed 28 39
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 14.042.423 slecht 651.506
+€ 233 € 23 10 € 3,3 miljard € 241 € 29 8 € 0,2 miljard
+matig 8.138.060 € 233 € 13 18 € 1,9 miljard matig 616.483 € 241 € 13 18 € 0,1 miljard
+goed 8.091.221 goed 404.636
+€ 231 € 4 53 € 1,9 miljard € 240 € 8 31 € 0,1 miljard
+totaal 30.271.704 € 232 € 7,0 miljard totaal 1.672.625 € 241 € 0,4 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 9.442.833 € 233 € 23 10 € 2,2 miljard slecht 445.247 € 241 € 29 8 € 0,1 miljard
+matig 5.472.442 matig 421.312
+€ 233 € 13 18 € 1,3 miljard € 241 € 13 18 € 0,1 miljard
+goed 8.091.221 € 231 € 4 53 € 1,9 miljard goed 404.636 € 240 € 8 31 € 0,1 miljard
+totaal 23.006.495 € 232 totaal 1.271.195 € 241
+€ 5,3 miljard € 0,3 miljard
+
+Cel Logiesgebouw
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis +5% KOS niveau norm Nieuw-bouw eis +5%
+120 130
+Eisen 130-180 130 136,5 Eisen 125-165 130 136,5
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 2000 10894 24219 Oppervlakte 581 2757 9295
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 170 270 120 220 105 190 slecht 95 205 120 180 70 135
+matig 170 270 120 220 105 190 matig 95 205 120 180 70 135
+goed 150 290 120 255 105 245 goed 110 195 90 255 70 160
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 21,1 27,2 8,1 11,8 4,6 8,2 slecht 18,7 22,8 15,1 21,1 13,7 17,5
+matig 8,0 14,1 2,1 5,7 0,2 3,8 matig 8,2 12,3 6,2 12,2 5,4 9,2
+goed 3,9 9,3 -0,7 2,7 -1,9 1,4 goed 2,7 6,1 2,6 8,3 2,2 5,5
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 220 € 170 € 148 slecht € 150 € 150 € 103
+matig € 220 € 170 € 148 matig € 150 € 150 € 103
+goed € 220 € 188 € 175 goed € 153 € 173 € 115
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 24 € 10 € 6 slecht € 21 € 18 € 16
+matig € 11 € 4 € 2 matig € 10 € 9 € 7
+goed € 7 € 1 € 0 goed € 4 € 5 € 4
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 10 18 23 slecht 8 9 7
+matig 20 44 73 matig 15 17 15
+goed 34 184 nvt goed 35 32 30
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 591.358 slecht 8.388.095
+€ 179 € 13 13 € 0,1 miljard € 134 € 18 7 € 1,1 miljard
+matig 384.084 € 179 € 6 32 € 0,1 miljard matig 3.450.174 € 134 € 9 15 € 0,5 miljard
+goed 23.672 goed 1.044.670
+€ 194 € 2 79 € 0,0 miljard € 147 € 5 32 € 0,2 miljard
+totaal 999.114 € 180 € 0,2 miljard totaal 12.882.938 € 135 € 1,7 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 482.330 € 179 € 13 13 € 0,1 miljard slecht 7.018.849 € 134 € 18 7 € 0,9 miljard
+matig 313.271 matig 2.886.978
+€ 179 € 6 32 € 0,1 miljard € 134 € 9 15 € 0,4 miljard
+goed 23.672 € 194 € 2 79 € 0,0 miljard goed 1.044.670 € 147 € 5 32 € 0,2 miljard
+totaal 819.273 € 180 totaal 10.950.498 € 135
+€ 0,1 miljard € 1,5 miljard
+
+ 
+ 
+ 
+  
+Meerinvesteringen en besparing op energiekosten  
+ 
+Bijlage 4 
+ 
+Titel Totale meerinvestering gemeentelijk vastgoed (op basis van 
+numerieke waarde eindnorm) 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+  
+Meerinvesteringen en besparing op energiekosten  
+ 
+Bijlage 5 
+ 
+Titel Gemiddelde en totale meerinvestering, besparing op energiekosten 
+en eenvoudige terugverdientijd per gebruiksfunctie (energielabel 
+A+++) 
+ 
+ 
+ 
+ 
+
+Sport Onderwijs
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A+++ +5% KOS niveau norm Nieuw-bouw eis A+++ +5%
+90 70 70
+Eisen 75-140 90 94,5 Eisen 70-125 70 100 73,5
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 410 1182 3337 Oppervlakte 919 3464 8625
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 205 290 280 375 160 300 slecht 200 340 80 240 120 285
+matig 205 290 280 375 160 300 matig 200 340 80 240 120 285
+goed 195 300 225 310 175 250 goed 200 340 110 245 120 330
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 16,5 17,4 14,9 17,8 13,9 16,7 slecht 31,0 37,4 25,1 28,8 20,8 25,2
+matig 5,5 6,4 4,5 7,6 3,6 6,5 matig 12,8 18,6 8,1 11,7 7,9 12,3
+goed 3,1 3,2 2,3 4,9 1,9 4,3 goed 7,7 14,6 4,4 7,5 3,8 7,6
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 248 € 328 € 230 slecht € 270 € 160 € 203
+matig € 248 € 328 € 230 matig € 270 € 160 € 203
+goed € 248 € 268 € 213 goed € 270 € 178 € 225
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 17 € 16 € 15 slecht € 34 € 27 € 23
+matig € 6 € 6 € 5 matig € 16 € 10 € 10
+goed € 3 € 4 € 3 goed € 11 € 6 € 6
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 15 21 15 slecht 8 6 9
+matig 42 54 46 matig 18 17 21
+goed 79 74 69 goed 25 31 40
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 2.842.847 slecht 17.075.536
+€ 268 € 16 17 € 0,8 miljard € 211 € 28 8 € 3,6 miljard
+matig 3.657.572 € 268 € 6 47 € 1,0 miljard matig 7.413.985 € 211 € 12 18 € 1,6 miljard
+goed 3.566.557 goed 7.648.265
+€ 243 € 3 74 € 0,9 miljard € 224 € 8 30 € 1,7 miljard
+totaal 10.066.976 € 259 € 2,6 miljard totaal 32.137.787 € 214 € 6,9 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 1.389.983 € 268 € 16 17 € 0,4 miljard slecht 9.008.528 € 211 € 28 8 € 1,9 miljard
+matig 1.788.335 matig 3.911.391
+€ 268 € 6 47 € 0,5 miljard € 211 € 12 18 € 0,8 miljard
+goed 3.566.557 € 243 € 3 74 € 0,9 miljard goed 7.648.265 € 224 € 8 30 € 1,7 miljard
+totaal 6.744.874 € 255 totaal 20.568.183 € 216
+€ 1,7 miljard € 4,4 miljard
+* voor sport klein blijven er geen concepten over bij A+++. Dus voorstel eindnorm aangehouden.
+
+Zorgzonderbed Zorgmetbed
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A+++ +5% KOS niveau norm Nieuw-bouw eis A+++ +5%
+50 130
+Eisen 50-85 50 90 52,5 Eisen 160-240 160 180 168
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 325 2149 8077 Oppervlakte 470 3353 19657
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 210 330 140 250 130 290 slecht 255 355 200 320 100 220
+matig 210 330 140 250 130 290 matig 255 355 200 320 100 220
+goed 190 300 140 280 130 370 goed 250 345 210 350 100 300
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 14,2 23,9 16,1 18,5 14,2 17,2 slecht 38,9 47,9 41,4 49,4 15,0 20,2
+matig 3,0 13,0 5,8 8,2 5,7 8,6 matig 13,5 21,0 12,3 18,5 3,7 8,9
+goed -1,0 8,0 2,5 4,6 2,4 4,7 goed 7,5 15,5 7,0 14,5 -0,1 4,8
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 270 € 195 € 210 slecht € 305 € 260 € 160
+matig € 270 € 195 € 210 matig € 305 € 260 € 160
+goed € 245 € 210 € 250 goed € 298 € 280 € 200
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 19 € 17 € 16 slecht € 43 € 45 € 18
+matig € 8 € 7 € 7 matig € 17 € 15 € 6
+goed € 4 € 4 € 4 goed € 11 € 11 € 2
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 15 12 14 slecht 8 6 10
+matig 34 28 30 matig 18 17 26
+goed 70 60 71 goed 26 27 87
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 10.215.850 slecht 1.197.528
+€ 225 € 17 13 € 2,3 miljard € 242 € 35 7 € 0,3 miljard
+matig 8.329.892 € 225 € 7 31 € 1,9 miljard matig 146.518 € 242 € 13 19 € 0,0 miljard
+goed 2.314.025 goed 252.526
+€ 235 € 4 66 € 0,5 miljard € 259 € 8 32 € 0,1 miljard
+totaal 20.859.767 € 226 € 4,7 miljard totaal 1.596.571 € 244 € 0,4 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 6.768.693 € 225 € 17 13 € 1,5 miljard slecht 770.770 € 242 € 35 7 € 0,2 miljard
+matig 5.519.118 matig 94.304
+€ 225 € 7 31 € 1,2 miljard € 242 € 13 19 € 0,0 miljard
+goed 2.314.025 € 235 € 4 66 € 0,5 miljard goed 252.526 € 259 € 8 32 € 0,1 miljard
+totaal 14.601.837 € 227 totaal 1.117.600 € 246
+€ 3,3 miljard € 0,3 miljard
+
+Anderelogies
+Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A+++ +5%
+40
+Eisen 60-75 60 50 63
+Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 80 0 0
+Meerinvesteringen onderwaarde bovenwaarde
+slecht 280 400
+matig 280 400
+goed 230 360
+Besparing energiekosten (€/m2)
+slecht -16,7 9,6
+matig -22,3 3,7
+goed -23,2 2,8
+Meerinvestering gemiddeld(€/m2) gem. voor klein
+slecht € 340
+matig € 340
+goed € 295
+Besparing energiekosten gemiddeld(€/m2)
+slecht -€ 4
+matig -€ 9
+goed -€ 10
+Eenvoudige tvt (jaren)
+slecht nvt
+matig nvt
+goed nvt
+Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt 
+Totaal meer-
+2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 146.777
+€ 340 -€ 4 nvt € 0,0 miljard
+matig 340.348 € 340 -€ 9 nvt € 0,1 miljard
+goed 141.438
+€ 295 -€ 10 nvt € 0,0 miljard
+totaal 628.563 € 330 € 0,2 miljard
+Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt 
+2 2 2
+(m ) (€/m ) (€/m ) (jaren)
+met sloop * 
+slecht 118.368 € 340 -€ 4 nvt € 0,0 miljard
+matig 274.473
+€ 340 -€ 9 nvt € 0,1 miljard
+goed 141.438 € 295 -€ 10 nvt € 0,0 miljard
+totaal 534.278 € 328
+€ 0,2 miljard
+* bij de bepaling van de energiekosten zijn de pakketten met warmtelevering buiten beschouwing gelaten. Deze zijn zo hoog dat ze geen 
+besparing maar een kostenverhoging opleveren. De andere logiesfunctie valt qua energietarieven in de categorie woningbouw. 
+
+Kantoor Winkel
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A+++ +5% KOS niveau norm Nieuw-bouw eis A+++ +5%
+40 80 60 120
+Eisen 55-100 55 57,75 Eisen 55-90 60 63
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 298 2741 9456 Oppervlakte 176 1248 6967
+Meerinvesteringen (€/m2) onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 130 230 110 200 120 220 slecht 175 275 200 290 135 205
+matig 130 230 110 200 120 220 matig 175 275 200 290 135 205
+goed 120 195 110 195 90 255 goed 160 240 175 270 125 230
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 14,2 21,3 16,4 19,6 15,3 18,7 slecht 14,3 24,8 11,2 13,6 15,4 16,7
+matig 6,4 13,2 7,7 10,9 7,5 10,9 matig 10,7 21,2 5,5 8,1 5,4 6,8
+goed -0,1 7,1 2,5 5,2 2,4 5,1 goed -4,7 5,3 1,5 3,9 1,9 3,2
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 180 € 155 € 170 slecht € 225 € 245 € 170
+matig € 180 € 155 € 170 matig € 225 € 245 € 170
+goed € 158 € 153 € 173 goed € 200 € 223 € 178
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 18 € 18 € 17 slecht € 20 € 12 € 16
+matig € 10 € 9 € 9 matig € 16 € 7 € 6
+goed € 4 € 4 € 4 goed € 0 € 3 € 3
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 11 9 10 slecht 12 20 11
+matig 19 17 19 matig 15 37 28
+goed 45 40 47 goed 671 84 70
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 19.835.397 slecht 15.852.994
+€ 168 € 18 10 € 3,3 miljard € 213 € 16 13 € 3,4 miljard
+matig 24.586.777 € 168 € 9 18 € 4,1 miljard matig 14.699.935 € 213 € 10 22 € 3,1 miljard
+goed 19.030.254 goed 17.092.021
+€ 161 € 4 43 € 3,1 miljard € 200 € 2 109 € 3,4 miljard
+totaal 63.452.428 € 166 € 10,5 miljard totaal 47.644.950 € 209 € 9,9 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 16.435.463 € 168 € 18 10 € 2,8 miljard slecht 12.886.411 € 213 € 16 13 € 2,7 miljard
+matig 20.372.420 matig 11.949.125
+€ 168 € 9 18 € 3,4 miljard € 213 € 10 22 € 2,5 miljard
+goed 19.030.254 € 161 € 4 43 € 3,1 miljard goed 17.092.021 € 200 € 2 109 € 3,4 miljard
+totaal 55.838.136 € 166 totaal 41.927.556 € 208
+€ 9,3 miljard € 8,7 miljard
+
+Bijeenkomst Kinderopvang
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A+++ +5% KOS niveau norm Nieuw-bouw eis A++ +5%
+60 70
+Eisen 75-95 75 100 78,75 Eisen 95-155 95 162 99,75
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 180 712 4341 Oppervlakte 298 940 0
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 60 210 225 360 115 250 slecht 200 350 125 275
+matig 60 210 225 360 115 250 matig 200 350 125 275
+goed 75 200 200 370 120 300 goed 170 320 125 280
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 17,6 28,2 20,9 24,3 19,1 23,2 slecht 29,7 35,9 21,8 26,6
+matig 12,1 22,9 7,3 10,7 6,4 10,5 matig 12,8 18,7 8,1 12,7
+goed -1,9 8,5 3,4 6,3 2,9 6,2 goed 5,7 12,7 4,0 7,8
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel
+slecht € 135 € 293 € 183 slecht € 275 € 200
+matig € 135 € 293 € 183 matig € 275 € 200
+goed € 138 € 285 € 210 goed € 245 € 203
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 23 € 23 € 21 slecht € 33 € 24
+matig € 17 € 9 € 8 matig € 16 € 10
+goed € 3 € 5 € 5 goed € 9 € 6
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 6 13 9 slecht 9 9
+matig 8 33 22 matig 18 20
+goed 42 59 47 goed 27 35
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 14.042.423 slecht 651.506
+€ 203 € 22 9 € 2,9 miljard € 238 € 28 8 € 0,2 miljard
+matig 8.138.060 € 203 € 12 17 € 1,7 miljard matig 616.483 € 238 € 13 18 € 0,1 miljard
+goed 8.091.221 goed 404.636
+€ 211 € 4 50 € 1,7 miljard € 224 € 8 30 € 0,1 miljard
+totaal 30.271.704 € 205 € 6,2 miljard totaal 1.672.625 € 234 € 0,4 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 9.442.833 € 203 € 22 9 € 1,9 miljard slecht 445.247 € 238 € 28 8 € 0,1 miljard
+matig 5.472.442 matig 421.312
+€ 203 € 12 17 € 1,1 miljard € 238 € 13 18 € 0,1 miljard
+goed 8.091.221 € 211 € 4 50 € 1,7 miljard goed 404.636 € 224 € 8 30 € 0,1 miljard
+totaal 23.006.495 € 206 totaal 1.271.195 € 233
+€ 4,7 miljard € 0,3 miljard
+
+Cel Logiesgebouw
+Voorstel Eind- Voorstel Eind-
+KOS niveau norm Nieuw-bouw eis A++ +5% KOS niveau norm Nieuw-bouw eis A++ +5%
+120 130
+Eisen 130-180 130 180 136,5 Eisen 125-165 130 150 136,5
+Klein (m2) Middel (m2) Groot (m2) Klein (m2) Middel (m2) Groot (m2)
+Oppervlakte 2000 10894 24219 Oppervlakte 581 2757 9295
+Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde Meerinvesteringen onderwaarde bovenwaarde onderwaarde bovenwaarde onderwaarde bovenwaarde
+slecht 135 270 100 220 100 190 slecht 95 205 120 180 70 135
+matig 135 270 100 220 100 190 matig 95 205 120 180 70 135
+goed 135 290 110 255 110 245 goed 110 195 90 255 70 160
+Besparing energiekosten (€/m2) Besparing energiekosten (€/m2)
+slecht 21,1 27,2 8,1 11,8 4,6 8,8 slecht 18,7 22,8 15,1 21,1 13,7 17,5
+matig 8,0 14,1 2,1 5,7 0,2 4,4 matig 8,2 12,3 6,2 12,2 5,4 9,2
+goed 3,9 9,3 -0,7 2,7 -1,9 1,7 goed 2,7 6,1 2,6 8,3 2,2 5,5
+Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot Meerinvestering gemiddeld(€/m2) gem. voor klein gem. voor middel gem. voor groot
+slecht € 203 € 160 € 145 slecht € 150 € 150 € 103
+matig € 203 € 160 € 145 matig € 150 € 150 € 103
+goed € 213 € 183 € 178 goed € 153 € 173 € 115
+Besparing energiekosten gemiddeld(€/m2) Besparing energiekosten gemiddeld(€/m2)
+slecht € 24 € 10 € 7 slecht € 21 € 18 € 16
+matig € 11 € 4 € 2 matig € 10 € 9 € 7
+goed € 7 € 1 € 0 goed € 4 € 5 € 4
+Eenvoudige tvt (jaren) Eenvoudige tvt (jaren)
+slecht 9 17 22 slecht 8 9 7
+matig 19 42 63 matig 15 17 15
+goed 33 179 -1532 goed 35 32 30
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Gem. tvt 
+Totaal meer- Totaal meer-
+2 2 2 2 2 2
+zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€) zonder sloop (m ) (€/m ) (€/m ) (jaren) investering (€)
+slecht 591.358 slecht 8.388.095
+€ 169 € 14 12 € 0,1 miljard € 134 € 18 7 € 1,1 miljard
+matig 384.084 € 169 € 6 29 € 0,1 miljard matig 3.450.174 € 134 € 9 15 € 0,5 miljard
+goed 23.672 goed 1.044.670
+€ 191 € 3 76 € 0,0 miljard € 147 € 5 32 € 0,2 miljard
+totaal 999.114 € 170 € 0,2 miljard totaal 12.882.938 € 135 € 1,7 miljard
+Gebruiks- Gemiddelde Gem. besparing Gebruiks- Gemiddelde Gem. besparing 
+oppervlakte  BAG meerinvestering energiekosten oppervlakte  BAG meerinvestering energiekosten 
+Gem. tvt Totaal meer- Gem. tvt Totaal meer-
+2 2 2 2 2 2
+(m ) (€/m ) (€/m ) (jaren) (m ) (€/m ) (€/m ) (jaren)
+met sloop investering (€) met sloop investering (€)
+slecht 482.330 € 169 € 14 12 € 0,1 miljard slecht 7.018.849 € 134 € 18 7 € 0,9 miljard
+matig 313.271 matig 2.886.978
+€ 169 € 6 29 € 0,1 miljard € 134 € 9 15 € 0,4 miljard
+goed 23.672 € 191 € 3 76 € 0,0 miljard goed 1.044.670 € 147 € 5 32 € 0,2 miljard
+totaal 819.273 € 170 totaal 10.950.498 € 135
+€ 0,1 miljard € 1,5 miljard
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum 30 maart 2022 
+Project 
+Voorraadgegevens gemeentelijk vastgoed BZK 
+Betreft Toelichting dataset 
+Aan 
+Stephanie van de Wiel 
+Referentie 20220330/400/LD/SDC 
+ 
+01 INLEIDING 
+De directie Bouwen en Energie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (hierna: BZK) heeft in 
+het kader van de Eindnorm bestaande utiliteitsbouw behoefte aan een nader onderzoek naar de uitvoeringslasten die 
+gepaard gaan met het voldoen aan de voorgestelde eindnorm, specifiek voor gemeenten. Dit onderzoek wordt 
+uitgevoerd door onderzoeksbureau DGMR. Zij willen zich daarbij baseren op de voorraadgegevens voor gemeentelijk 
+vastgoed. BZK heeft Republiq gevraagd om een overzicht op te stellen van de huidige voorraad van het gemeentelijk 
+vastgoed aangevuld met alle onderwijsgebouwen in het funderend onderwijs (primair, speciaal en voortgezet 
+onderwijs). De voorraad moet uitgesplitst worden naar gebruiksfunctie conform het bouwbesluit, naar energetische 
+uitgangssituatie (goed / matig / slecht) en grootte (klein / middelgroot / groot). In deze memo lichten we toe hoe het 
+overzicht van de huidige voorraad tot stand is gekomen en welke definities zijn gehanteerd. 
+02 TOTSTANDKOMING 
+Het resultaat van de inventarisatie is een dataset die bestaat uit 20.524 unieke objecten (circa 29,5 miljoen m²). Een 
+object is gedefinieerd als een uniek verblijfsobject conform de Basisregistratie Adressen en Gebouwen (BAG). In één 
+pand kunnen meerdere verblijfsobjecten gevestigd zijn, en in sommige gevallen is een verblijfsobject in meerdere 
+panden gevestigd. De combinatie verblijfsobject-identificatie en pand-identificatie is altijd uniek. Ook is per 
+verblijfsobject de oppervlakte bekend. In het geval van één object in meerdere panden, is de oppervlakte in gelijke 
+mate over de panden verdeeld.  
+ 
+De dataset is tot stand gekomen door de volgende stappen te doorlopen: 
+1. Brondata inventariseren 
+2. Filteren 
+3. Categoriseren 
+Hieronder lichten we de verschillende stappen nader toe. 
+ 
+ Brondata inventariseren 
+Voor de inventarisatie van de huidige voorraad baseren we ons op een aantal verschillende bronnen. Voor de 
+informatie over de gebouwen maken we gebruik van de data uit de Basisregistratie Adressen en Gebouwen (BAG). 
+We hanteren daarbij de volgende uitgangspunten: 
+‒ Panden zonder verblijfsobject worden niet meegenomen (denk hierbij aan trafohuisjes en bushaltes). 
+‒ Als we het hebben over ‘oppervlakte’ dan bedoelen we hiermee de oppervlakte conform de BAG. Dit betreft het 
+gebruiksoppervlak (GO). In de praktijk blijkt, bij niet-woningen, het gebruiksoppervlak uit de BAG niet altijd 
+1 
+ 
+
+ 
+ 
+ 
+ 
+ 
+immers objecten met een bouwjaar na 1900 die aangemerkt zijn als monument. Het tegenovergestelde komt 
+uiteraard ook voor. Uit de analyse komt naar voren dat op totaalniveau deze gevallen tegen elkaar wegvallen.  
+ 
+Na de filtering van de rijksmonumenten en objecten met een bouwjaar < 1900 blijven er 20.943 objecten over (circa 
+30 miljoen m²). 
+ 
+ Categoriseren 
+De objecten categoriseren we naar: 
+‒ Bouwbesluitfunctie 
+‒ Energetische kwaliteit 
+‒ Grootte 
+Hieronder lichten we toe hoe de categorisering tot stand is gekomen. 
+ 
+ Bouwbesluitfunctie 
+De categorisering naar bouwbesluitfunctie is gebaseerd op het gebruiksdoel conform de BAG. Daarbij gelden een 
+aantal uitzonderingen:  
+‒ De functie ‘kinderopvang’ komt niet voor in de BAG, daarvoor wordt gekeken naar locaties die voorkomen in de 
+brondata van het Landelijk Register Kinderopvang (LRK, peildatum 25 januari 2022). Hierbij worden alleen 
+kinderdagverblijven en locaties voor buitenschoolse opvang geselecteerd. Gastouderbureaus worden buiten 
+beschouwing gelaten.  
+‒ De functies ‘zorg met bed’ en ‘zorg zonder bed’ komen niet voor in de BAG. De BAG onderkent alleen het 
+gebruiksdoel ‘gezondheidszorgfunctie’. Op basis van objectkenmerken is niet te zeggen of dit zorg zonder bed 
+of zorg met bed betreft. Alle objecten met een oppervlakte boven 1.000 m² zijn handmatig nagelopen om te 
+bepalen tot welke categorie (‘zorg met bed’ of ‘zorg zonder bed’) deze horen. Voor objecten met een 
+oppervlakte kleiner dan 1.000 m² is aangenomen dat deze behoren tot de categorie ‘zorg zonder bed’.  
+‒ Voor objecten met meer dan 1 gebruiksdoel wordt het object en de oppervlakte van het object verdeeld. Voor 
+veel voorkomende combinaties (bijvoorbeeld ‘onderwijs’ en ‘sport’) is een handmatige verdeling gemaakt. Deze 
+handmatige verdeling is gebaseerd op veelvoorkomende situatie (‘onderwijs’ en ‘sport’ samen is vaak een 
+basisschool met een sportzaal). In bijlage 1 is een overzicht opgenomen van de verdeelsleutels die zijn 
+gehanteerd. Voor combinaties waarvoor geen handmatige verdeling is toegekend wordt het object en de 
+oppervlakte van het object gelijk verdeeld over de functies (bij 2 functies 50/50, bij 3 functies ieder 1/3, et cetera). 
+ 
+Er zijn 868 objecten met het gebruiksdoel ‘overige gebruiksfunctie’. Met behulp van een algoritme wordt aan deze 
+objecten alsnog één van de categorieën toegewezen. Voor 419 objecten komt uit het algoritme naar voren dat het 
+waarschijnlijk een woning betreft, deze worden buiten beschouwing gelaten.  
+ 
+ Grootteklasse 
+De objecten worden onverdeeld in grootteklassen: klein, middel of groot. DGMR heeft op basis van 
+referentiegebouwen een klasse-indeling gemaakt. Deze indeling hebben we als basis gehanteerd en op onderdelen 
+aangepast. In onderstaande tabel is de verdeling naar grootteklasse per functie opgenomen.  
+  
+  3 
+
+ 
+ 
+ 
+ 
+ 
+Wanneer het energielabel bekend is hanteren we de volgende uitgangspunten voor de indeling naar energetische 
+klasse: 
+‒ Energielabel E, F of G => Slecht 
+‒ Energielabel D, C, of B => Matig 
+‒ Energielabel A of beter => Goed 
+ 
+Wanneer het energielabel niet bekend is gebruiken het bouwjaar voor de indeling naar energetische klasse. Daarbij 
+hanteren we de volgende uitgangspunten: 
+‒ Bouwjaar voor 1975 => Slecht 
+‒ Bouwjaar vanaf 1975 tot 1992 => Matig 
+‒ Bouwjaar vanaf 1992 => Goed 
+03 RESULTAAT 
+Het resultaat van de hierboven beschreven stappen is een inventarisatie van aantal objecten en oppervlakte naar 
+categorie, grootteklasse en energetische klasse. In onderstaande tabellen is dit resultaat weergegeven (naar 
+oppervlakte en naar objecten). 
+  
+  5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Functie Groote Slecht Matig Goed Totaal 
+Bijeenkomst Klein 1.031 927 912 2.870 
+ 
+Middel 527 481 530 1.538 
+Groot 115 124 173 412 
+Kantoor Klein 581 367 637 1.585 
+ 
+Middel 57 120 134 311 
+Groot 27 43 81 151 
+Kinderopvang Klein 212 178 210 600 
+ 
+Middel 126 118 170 414 
+Groot 129 124 187 440 
+Logies Klein 14 16 11 41 
+ 
+Middel 0 2 3 5 
+Groot 1 0 0 1 
+Onderwijs Klein 2.408 1.876 1.730 6.014 
+Middel 466 307 667 1.440 
+Groot 195 159 212 566 
+Sport Klein 784 752 651 2.187 
+Middel 150 246 230 626 
+Groot 72 136 149 357 
+Winkel Klein 207 136 230 573 
+Middel 36 31 54 121 
+Groot 2 3 3 8 
+Zorg met bed Klein 1 0 6 7 
+Middel 2 0 2 4 
+Groot 1 1 1 3 
+Zorg zonder Klein 74 57 96 227 
+bed 
+Middel 3 6 10 19 
+Groot 1 0 1 2 
+Cel Klein 0 1 1 2 
+Middel 0 0 0 0 
+Groot 0 0 0 0 
+Totaal Klein 5.312 4.310 4.484 14.106 
+Middel 1.367 1.311 1.800 4.478 
+Groot 543 590 807 1.940 
+Totaal 7.222 6.211 7.091 20.524 
+Tabel 4: verdeling voorraad op basis van objecten 
+ 
+ 
+ 
+ 
+ 
+ 
+  7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum 12 juli 2022 
+Project 
+BZK – Inventarisatie Rijksvastgoed 
+Betreft Toelichting dataset 
+Aan 
+Stephanie van de Wiel 
+Referentie 20220707/438/LD/SdC 
+ 
+01 INLEIDING 
+De directie Bouwen en Energie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (hierna: BZK) heeft in 
+het kader van de Eindnorm bestaande utiliteitsbouw behoefte aan een nader onderzoek naar de uitvoeringslasten die 
+gepaard gaan met het voldoen aan de voorgestelde eindnorm, specifiek voor het rijksvastgoed. Dit onderzoek wordt 
+uitgevoerd door onderzoeksbureau DGMR. Zij willen zich daarbij baseren op de voorraadgegevens van het 
+rijksvastgoed. BZK heeft Republiq gevraagd om een overzicht op te stellen van de huidige voorraad van het 
+rijksvastgoed. De voorraad moet uitgesplitst worden naar gebruiksfunctie conform het bouwbesluit, naar energetische 
+uitgangssituatie (goed / matig / slecht) en grootte (klein / middelgroot / groot). In deze memo lichten we toe hoe het 
+overzicht van de huidige voorraad tot stand is gekomen en welke definities zijn gehanteerd. 
+ 
+02 SCOPE 
+De scope van dit onderzoek beperkt zich tot gebouwen in eigendom van het Rijk. Het Rijksvastgoed betreft vele 
+honderden gebouwen. In overleg met het Rijksvastgoedbedrijf is ervoor gekozen om dit onderzoek te richten op de 
+grotere clusters. Daarmee wordt naar verwachting zo ’n 80% van het vastgoed gedekt. De scope beperkt zich tot de 
+volgende clusters:  
+‒ DGOO / Rijkskantoren 
+￭ Kantoren 
+‒ DJI / V&J 
+￭ Cellengebouwen 
+￭ Kantoren 
+￭ Sportfunctie 
+‒ Defensie 
+￭ Kantoren 
+￭ Bijeenkomstfunctie (KEK gebouwen etc.) > overige bijeenkomstfunctie (geen kinderdagverblijf) 
+￭ Logiesfunctie (legeringsgebouwen) > logies in een logiesgebouw 
+￭ Sportfunctie (sporthallen) 
+￭ Gezondheidszorgfunctie zonder bedgebied 
+￭ Gezondheidszorgfunctie met bedgebied (medische klinieken etc.) 
+￭ Onderwijsfunctie (lesgebouwen) 
+‒ Raad voor de Rechtspraak 
+￭ Kantoren 
+￭ Bijeenkomstfunctie 
+1 
+ 
+
+ 
+ 
+ 
+ 
+ 
+2. Nieuwegracht 63, Utrecht 
+3. Vrouwe Justitiaplein 1, Utrecht 
+4. Noorderdijkweg 51, Wieringerwerf. 
+Ook deze gebouwen worden uit de dataset gefilterd. Het resultaat na deze stap is een dataset met 979 gebouwen. 
+ 
+Vervolgens worden alle gebouwen met een industriefunctie gefilterd. In eerste instantie gebeurt dit op basis van de 
+bouwwerkfunctie (zoals opgenomen in de dataset van het Rijksvastgoedbedrijf). Gebouwen met de volgende 
+bouwwerkfuncties zijn aangewezen als industriële gebouwen: 
+‒ Parkeergarage 
+‒ Stalling rijwielen 
+‒ Stalling voertuigen 
+‒ Transformatorgebouw 
+‒ Noodstroomgebouw 
+‒ Werkplaats algemeen 
+‒ Magazijn algemeen 
+‒ Laboratorium 
+In totaal zijn dit 152 gebouwen. Daarna wordt een koppeling met de BAG gemaakt. Gebouwen met gebruiksdoel 
+‘industriefunctie’ worden handmatig gecontroleerd. Wanneer het gebouw daadwerkelijk een industriefunctie heeft 
+wordt het buiten beschouwing gelaten. Dit betreft 8 gebouwen. Wanneer het gebouw conform BAG een 
+industriefunctie heeft, maar werkelijk een andere gebruiksfunctie heeft, blijft deze behouden. Na deze stap resteren er 
+819 gebouwen in de dataset.  
+  
+Ook woningen vallen buiten scope van dit onderzoek. Ten eerste betreft dit alle gebouwen met een van 
+onderstaande bouwwerkfuncties (zoals opgenomen in de dataset van het Rijksvastgoedbedrijf): 
+‒ Woning 
+‒ Boerderij 
+‒ Kaderlegering 
+Dit zijn 211 gebouwen. Daarnaast blijkt na koppeling met de BAG dat gebouwen met als bouwwerkfunctie 
+‘Bedrijfsruimte’ (zoals opgenomen in de dataset van het Rijksvastgoedbedrijf) vaak ook een woonfunctie hebben 
+conform de BAG. Uit een steekproef komt naar voren dat gebouwen met bouwwerkfunctie ‘Bedrijfsruimte’ en waarvan 
+geen werkoppervlakte is aangeleverd én administratieve oppervlakte 1 m² is, in praktijk worden gebruikt als woning. 
+Ook deze 90 gebouwen worden buiten beschouwing van dit onderzoek gelaten. Daarnaast zijn er nog 5 gebouwen 
+met een woonfunctie conform BAG die zoals opgenomen in dataset van het Rijksvastgoedbedrijf als bouwwerkfunctie 
+‘Overig gebouw algemeen’ hebben. In totaal worden in deze stap 306 gebouwen gefilterd. Na deze stap resteren er 
+513 gebouwen in de dataset.  
+ 
+Vervolgens worden alle gebouwen met een bouwjaar vanaf 2015 uit de dataset gefilterd. Het bouwjaar is afkomstig uit 
+data van de BAG. Er zijn 5 gebouwen met een bouwjaar vanaf 2015. Na filtering zijn er nog 508 gebouwen over.  
+ 
+Gebouwen met een gebruiksoppervlakte kleiner dan 100 m² zijn niet relevant voor dit onderzoek. Als oppervlakte van 
+de gebouwen hanteren we in eerste instantie de waarde opgenomen in kolom ‘Werk. BVO RF’ (zoals opgenomen in 
+de dataset van het Rijksvastgoedbedrijf). Voor 390 gebouwen is deze waarde gevuld. Wanneer de waarde in deze 
+kolom ontbreekt of gelijk is aan 0 hanteren we de waarde in kolom ‘Adm. BVO Oracle’ (voor 31 gebouwen is deze 
+waarde gevuld en groter dan 1 m²) . Wanneer ook deze waarde ontbreekt of gelijk is aan 0 of 1 dan hanteren we de 
+  3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Functie Grootteklasse Van Tot 
+Kantoor Klein 0 1.555 
+Middel 1.556 5.159 
+Groot 5.160 - 
+Onderwijs Klein 0 1.920 
+Middel 1.921 5.664 
+Groot 5.665 - 
+Bijeenkomst Klein 0 415 
+Middel 416 1.507 
+Groot 1.508 - 
+Cel Klein 0 3.280 
+Middel 3.281 9.628 
+Groot 9.629 - 
+Tabel 2: grootteklasse naar functie 
+ Energetische uitganssituatie 
+Voor de categorisering naar energetische uitgangssituatie maken we gebruik van data van EP-online. Daarin zijn de 
+energielabels op adresniveau opgenomen, deze gegevens koppelen we aan de gebouwen uit de inventarisatie. Van 
+circa een vijfde van de objecten is het energielabel bekend: 
+‒ 55 gebouwen energielabel beschikbaar 
+‒ 253 gebouwen geen energielabel beschikbaar 
+ 
+De objecten worden ingedeeld in een kwaliteitsklasse (slecht, matig, goed). Dit wordt in eerste instantie gedaan op 
+basis van het energielabel. Wanneer er geen energielabel bekend is maken we gebruik van het bouwjaar van het 
+object. 
+ 
+Wanneer het energielabel bekend is hanteren we de volgende uitgangspunten voor de indeling naar energetische 
+klasse: 
+‒ Energielabel E, F of G => Slecht 
+‒ Energielabel D, C, of B => Matig 
+‒ Energielabel A of beter => Goed 
+ 
+Wanneer het energielabel niet bekend is gebruiken het bouwjaar voor de indeling naar energetische klasse. Daarbij 
+hanteren we de volgende uitgangspunten: 
+‒ Bouwjaar voor 1975 => Slecht 
+‒ Bouwjaar vanaf 1975 tot 1992 => Matig 
+‒ Bouwjaar vanaf 1992 => Goed 
+ 
+ Koppelen van uitvoeringslasten 
+DGMR heeft per functie een inschatting gemaakt van de uitvoeringslasten per m². Dit betreft de gemiddelde 
+meerinvestering per m² die nodig is voor de verschillende gebruiksfuncties om aan de voorgestelde eindnorm te 
+voldoen. In onderstaande tabel is de verdeling naar functie, grootteklasse en energetische referentiesituatie 
+opgenomen.  
+ 
+  5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Functie Groote Slecht Matig Goed Totaal 
+Bijeenkomst Klein 2 1 1 4 
+ Middel 4 0 2 6 
+Groot 4 1 1 6 
+Kantoor Klein 14 16 16 46 
+ Middel 10 8 14 32 
+Groot 23 22 50 95 
+Onderwijs Klein 1 0 1 2 
+Middel 1 0 0 1 
+Groot 0 0 0 0 
+Cel Klein 15 21 32 68 
+Middel 8 6 11 25 
+Groot 3 5 15 23 
+Totaal Klein 32 38 50 120 
+Middel 23 14 27 64 
+Groot 30 28 66 124 
+Totaal 85 80 143 308 
+Tabel 5: verdeling voorraad op basis van aantal gebouwen 
+Functie Grootte Slecht Matig Goed Totaal 
+Bijeenkomst Klein 61 33 15 109 
+ 
+Middel 1.141 0 381 1.522 
+Groot 3.343 14.588 978 18.909 
+Kantoor Klein 1.366 1.920 2.160 5.446 
+ 
+Middel 4.725 3.662 6.682 15.069 
+Groot 65.253 96.122 206.810 368.185 
+Onderwijs Klein 383 0 68 451 
+Middel 542 0 0 542 
+Groot 0 0 0 0 
+Cel Klein 2.408 7.226 9.263 18.897 
+Middel 7.939 5.638 9.607 23.184 
+Groot 6.356 11.684 46.273 64.313 
+Totaal Klein 4.218 9.179 11.506 24.903 
+Middel 14.347 9.300 16.670 40.317 
+Groot 74.952 122.394 254.061 451.407 
+Totaal 93.517 140.873 282.237 516.627 
+Tabel 6: uitvoeringslasten (x € 1.000) 
+  
+  7 
+

@@ -1,0 +1,2026 @@
+ 
+ 
+Functionaris voor Gegevensbescherming 
+ 
+ 
+Onderzoek naleving 
+Algemene verordening 
+ 
+gegevensbescherming  
+Experimenteeromgeving 
+Land Information 
+Manoeuvre Centre (LIMC) 
+ 
+  
+Datum 31-3-2021 
+Status Definitief 
+Nummer BS2021004839 
+ 
+ 
+ 
+. 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Voorwoord 
+De Functionaris voor Gegevensbescherming (FG) fungeert als de wettelijke interne 
+toezichthouder op de naleving van de geldende wet- en regelgeving ter bescherming 
+van persoonsgegevens.  
+ 
+Naar aanleiding van mediaberichten over vermeende onregelmatigheden bij het 
+verzamelen en analyseren van informatie rond de COVID-19 crisis door het Land 
+Information Manoeuvre Centre (LIMC) van de Koninklijke Landmacht heb ik een 
+onderzoek geïnitieerd naar de naleving van de Algemene verordening 
+gegevensbescherming (Avg).  
+ 
+Voor de uitvoering van het onderzoek is een onderzoeksteam geformeerd met de 
+volgende personen:  
+- mr. O.L. Stenhuis-Kok, Functionaris Gegevensbescherming Avg 
+- mr. K.M.M. Weijers, Functionaris Gegevensbescherming Wpg 
+- drs. R.J.H. Laats, Avg coördinator defensiebrede verwerkingen 
+- drs. ing. R.L. Guit, advies en ondersteuning 
+- functionaris Beveiligingsautoriteit 
+ 
+Ondanks de COVID-19 maatregelen waaronder dit onderzoek heeft plaatsgevonden 
+vind ik het belangrijk te benadrukken, dat de gesprekken met de medewerkers en 
+leidinggevenden werkzaam bij de Koninklijke Landmacht - en het LIMC in het 
+bijzonder - in een open atmosfeer hebben plaatsgevonden. Ik dank hen voor de 
+constructieve medewerking.   
+Tijdens het onderzoek heeft het onderzoeksteam advies en ondersteuning 
+ontvangen van medewerkers van de Inspectie Veiligheid Defensie, de afdeling 
+Trends Onderzoek en Statistiek en de Autoriteit Persoonsgegevens. 
+Tot slot een woord van dank aan de leden van het onderzoeksteam en de overige 
+kritische meelezers van deze rapportage. 
+ 
+ 
+De Functionaris voor Gegevensbescherming Avg Defensie,  
+Olga Stenhuis-Kok 
+ 
+ 
+Pagina 3 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+4 Conclusies en aanbevelingen—58 
+Bijlage I: Aankondiging toezichtbezoek LIMC—62 
+Bijlage II: Enquêtevragen—66 
+Bijlage III: Organogram Defensie, Koninklijke Landmacht, OOCL—71 
+Bijlage IV: Analyseresultaten rapportages LIMC—73 
+Bijlage V: Verdieping toetsingskader—76 
+Verwerkingsverantwoordelijke—76 
+Verwerker—76 
+Gepseudonimiseerde en geanonimiseerde gegevens—77 
+Hergebruik persoonsgegevens gepubliceerd op internet—77 
+Bijzondere en strafrechtelijke gegevens—78 
+Ras of etnische afkomst—78 
+Gegevens over gezondheid—79 
+Politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen—79 
+Strafrechtelijke gegevens—80 
+Bijlage VI: Reactie op niet overgenomen punten ‘hoor/wederhoor’—82 
+Bijlage VII: Geraadpleegde documenten—84 
+ 
+ 
+ 
+Pagina 5 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+4. Vast te stellen of en zo ja welke personen onder het gezag of in opdracht van 
+het ministerie van Defensie in het kader van door de experimenteeromgeving 
+LIMC uitgevoerde activiteiten persoonsgegevens hebben verwerkt of waar 
+persoonsgegevens aan zijn verstrekt en op welke wijze de logging, autorisatie 
+en toegang tot geautomatiseerde systemen en gegevensbronnen was ingericht. 
+En tevens vast te stellen of het ministerie van Defensie in het kader van door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten aan personen of 
+instanties buiten het ministerie van Defensie persoonsgegevens heeft verstrekt 
+en zo ja, met welk doel dat is gebeurd. 
+ 
+5. Diende het ministerie van Defensie in het kader van door de 
+experimenteeromgeving LIMC uitgevoerde verwerkingsactiviteiten een melding 
+op te nemen in het Avg verwerkingenregister Defensie en zo ja, is deze melding 
+gedaan? 
+ 
+6. Was vooraf voor het ministerie van Defensie met het oog op de door de 
+experimenteeromgeving LIMC uit te voeren activiteiten het uitvoeren van een 
+gegevensbeschermingseffectbeoordeling (DPIA) op het effect van de beoogde 
+verwerkingsactiviteiten op de bescherming van persoonsgegevens zoals bedoeld 
+in artikel 35 Avg vereist en zo ja, is er een DPIA uitgevoerd? 
+ 
+7. Welke technische en organisatorische maatregelen zijn door het ministerie van 
+Defensie getroffen ter beveiliging van de in het kader van de door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten verwerkte 
+(persoons)gegevens, zoals bedoeld in artikel 32 Avg en zoals uitgewerkt in 
+Defensie beveiligingsbeleid (DBB)? 
+Onderzoekaanpak  
+Op 18 november 2020 is aan de Commandant Landstrijdkrachten, in zijn rol als Avg 
+Beheerder, meegedeeld dat er aan het LIMC in ’t Harde toezichtbezoeken worden 
+afgelegd. Hierbij zijn verkennende gesprekken gevoerd met diverse bij het LIMC 
+betrokken medewerkers en leidinggevenden. Het beeld dat uit de eerste 
+oriëntatiefase naar voren kwam toonde aan dat persoonsgegevens zijn verwerkt 
+maar dat de activiteiten hier niet op waren gericht.  
+Na de toezichtbezoeken is een onderzoeksteam geformeerd en een plan van aanpak 
+opgesteld. Naast de toezichtbezoeken op locatie is een documentenanalyse 
+uitgevoerd, is een enquête onder (oud) medewerkers van het LIMC uitgevoerd en 
+zijn interviews gehouden.  
+Afbakening 
+Het onderzoek richt zich op door het LIMC uitgevoerde activiteiten in de periode 
+vanaf de oprichting op 23 maart 2020 tot en met 27 november 2020. Op 27 
+november heeft de minister van Defensie besloten de activiteiten van het LIMC voor 
+wat het verzamelen en analyseren van informatie betreft stil te zetten.   
+Het onderzoek richt zich op de vraag of de activiteiten die door het LIMC in deze 
+periode zijn uitgevoerd in overeenstemming waren met de (U)Avg en Regeling Avg 
+Defensie. In het bijzonder gaat het om de vraag of in strijd hiermee 
+persoonsgegevens zijn verwerkt. Een persoonsgegeven is elke informatie over een 
+geïdentificeerde of identificeerbare natuurlijke persoon. De FG formuleert daarover 
+conclusies en, indien de bevindingen daartoe aanleiding geven, aanbevelingen. Het 
+ 
+ 
+Pagina 7 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+4. Het LIMC was en is geen organieke eenheid binnen het CLAS. Medewerkers zijn 
+dan ook niet geplaatst bij het LIMC maar voor korte of langere tijd vanuit 
+bestaande eenheden of organisaties gevraagd of aangewezen om activiteiten te 
+verrichten. 
+ 
+De logging, autorisatie en toegang tot systemen en gegevensbronnen is bij het 
+LIMC ingericht conform de stringente normen van het Defensiebeveiligingsbeleid 
+(DBB). 
+ 
+Informatieproducten van het LIMC zijn zowel binnen als buiten Defensie 
+verspreid. De verzendlijst bevat maximaal 94 geadresseerden, waarvan 
+ongeveer de ene helft e-mailadressen binnen het ministerie van Defensie en 
+andere helft overheidsinstanties buiten Defensie. Er was geen grondslag of taak 
+voor de nationale inzet van het LIMC ten behoeve van civiele autoriteiten. Er 
+was geen grondslag om producten van het LIMC die persoonsgegevens bevatten 
+te verstrekken aan personen of instanties binnen of buiten het ministerie van 
+Defensie.  
+ 
+5. Omdat persoonsgegevens werden verwerkt was een melding van deze 
+activiteiten in het Avg verwerkingenregister Defensie noodzakelijk. Deze melding 
+is niet gedaan. 
+ 
+6. De Avg-regelgeving schrijft voor dat ook bij een beleidsinitiatief, zoals het 
+concept Information Manoeuvre, voorafgaand aan de verwerking een DPIA 
+vereist is. Dit is niet gebeurd. 
+ 
+7. De normen van het DBB zijn nageleefd voor wat betreft organisatorische 
+maatregelen als geheimhoudingsverklaring, beveiligingsbriefing en screening. 
+Op het gebied van technische maatregelen is vastgesteld dat bij throughput en 
+output gebruik is gemaakt van geaccrediteerde informatiesystemen waarmee 
+ruimschoots is voldaan aan de norm. Voor input is vastgesteld dat naast 
+geaccrediteerde informatiesystemen gebruikgemaakt van een privé laptop met 
+beveiligingsmaatregelen die niet aantoonbaar voldoen aan de norm. 
+Eindconclusie 
+Het LIMC heeft COVID-19 gerelateerde maatschappelijke ontwikkelingen als 
+“fenomeen’’ in kaart gebracht om militaire en civiele besluitvorming te voeden met 
+inzicht en handelingsperspectief. Het LIMC had niet de intentie om (grootschalig) 
+persoonsgegevens te verwerken, maar is hierin niet volledig geslaagd. 
+Persoonsgegevens kwamen mee als ‘’bijvangst’’. 
+Voor deze verwerking bestond geen wettelijke grondslag en is niet voldaan aan de 
+verantwoordingsplicht waardoor de Avg onvoldoende is nageleefd.  
+ 
+ 
+Pagina 9 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+6. Versterk en professionaliseer de Avg organisatie 
+Versterk en professionaliseer de Avg organisatie en schenk daarbij in het 
+bijzonder aandacht aan de Avg coördinatiefunctie en aan de samenwerking 
+met de juridische en operationele lijn. Voorzie in een risicogerichte invulling 
+van de Avg-organisatie door bij eenheden zoals OOCL/JISTARC fysiek een 
+Avg-coördinator onder te brengen. Geef in samenspraak met de FG invulling 
+1
+aan de functie van een Chief Privacy Officer (CPO) en positioneer deze 
+binnen de BS/DBE. 
+ 
+ 
+                                                
+1
+ Naar analogie van de motie van het lid Verhoeven c.s. over een chief privacy officer bij 
+uitvoeringsorganisaties. Kamerstukken II 2020/21, 27529 nr. 239 
+ 
+ 
+ 
+ 
+ 
+Pagina 11 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Op verzoek van de Tweede Kamer heeft de minister van Defensie op 27 november 
+4
+2020 in een brief medegedeeld dat de FG Defensie een onafhankelijk onderzoek 
+heeft ingesteld en dat in afwachting van de uitkomsten hiervan is besloten om de 
+activiteiten van het LIMC voor wat betreft het verzamelen en analyseren van 
+informatie stil te zetten. In de brief heeft de minister ook een eerste schriftelijke 
+reactie op de activiteiten van het LIMC gegeven. 
+1.3 Doelstelling 
+ 
+Doelstelling van dit onderzoek is vaststellen in hoeverre de Avg, andere 
+Unierechtelijke of lidstaatrechtelijke gegevensbeschermingsbepalingen en het beleid 
+met betrekking tot de bescherming van persoonsgegevens zijn nageleefd binnen het 
+ministerie van Defensie in het kader van de door het LIMC uitgevoerde activiteiten. 
+De FG rapporteert hierover aan de verwerkingsverantwoordelijke en de Avg-
+beheerder en treedt op als contactpunt voor de AP als externe toezichthouder.  
+1.4 Onderzoeksvragen 
+ 
+Centrale onderzoeksvraag  
+Heeft het ministerie van Defensie in het kader van de door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten gehandeld in 
+overeenstemming met de Avg, de Uitvoeringswet Avg (UAvg) en de Regeling Avg 
+Defensie? 
+Deelvragen 
+Om antwoord te kunnen geven op de centrale onderzoeksvraag zijn de volgende 
+deelvragen opgesteld:  
+1) Zijn er binnen het ministerie van Defensie in het kader van de door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten persoonsgegevens 
+verwerkt zoals bedoeld in de artikelen 2, 4 lid 1 en lid 2 Avg? Is het 
+verwerken van informatie uit openbaar toegankelijk bronnen in 
+overeenstemming met de Avg beoordeeld, gekwalificeerd en ingericht? 
+2) Zijn er binnen het ministerie van Defensie in het kader van door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten bijzondere 
+categorieën van persoonsgegevens verwerkt zoals bedoeld in artikel 9 Avg? 
+Bijvoorbeeld gegevens betreffende de gezondheid en gegevens betreffende 
+politieke, religieuze of levensbeschouwelijke overtuiging? 
+3) Indien er binnen het ministerie van Defensie in het kader van door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten verwerkingen van 
+persoonsgegevens hebben plaatsgevonden, met welk welbepaald en 
+omschreven doel hebben de minister van Defensie en de Commandant 
+Landstrijdkrachten deze persoonsgegevens verwerkt en konden de 
+verwerkingen op een rechtmatige grondslag zoals omschreven in de 
+artikelen 6 en 9 Avg worden gebaseerd? 
+4) Vast te stellen of en zo ja welke personen onder het gezag of in opdracht 
+van het ministerie van Defensie in het kader van door de 
+experimenteeromgeving LIMC uitgevoerde activiteiten persoonsgegevens 
+                                                
+4
+ Kamerstukken II 2020/21, 32761, nr. 175. Verwerking en bescherming persoonsgegevens.  
+ 
+ 
+Pagina 13 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+de minister van Defensie besloten de activiteiten van het LIMC voor wat het 
+verzamelen en analyseren van informatie betreft stil te zetten.   
+Het onderzoek richt zich op de vraag of de activiteiten die door LIMC in deze periode 
+zijn uitgevoerd in overeenstemming waren met de (U)Avg en Regeling Avg Defensie. 
+De FG formuleert daarover conclusies en, indien de bevindingen daartoe aanleiding 
+geven, aanbevelingen. Het onderzoek richt zich niet op de bredere ontwikkelingen 
+op het gebied van informatie gestuurd optreden binnen de krijgsmacht, bij andere 
+defensieonderdelen of CD&E (concept development & experimentation) projecten 
+buiten het LIMC. 
+1.7 Rapportopbouw 
+ 
+In hoofdstuk twee is het toetsingskader beschreven op basis waarvan de 
+bevindingen in hoofdstuk drie zijn beoordeeld. Het toetsingskader bestaat naast 
+privaat- en publiekrechtelijke kaders, zoals de Avg en hierop gebaseerde 
+regelgeving, uit defensiekaders zoals de Regeling Avg Defensie en het DBB. Het 
+rapport wordt afgesloten met hoofdstuk vier waarin de conclusies en aanbevelingen 
+staan verwoord.  
+ 
+ 
+Pagina 15 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+inachtneming van de beschikbare technologie op het tijdstip van verwerking maar 
+ook de technologische ontwikkelingen in de nabije toekomst (denk aan de 
+toenemende rekenkracht van computers en het groeiende aantal beschikbare 
+9
+hulpmiddelen). 
+De Avg is niet van toepassing op gegevens die zodanig anoniem zijn (gemaakt) dat 
+de persoon waarop ze betrekking hebben niet (meer) zonder onredelijke inspanning 
+identificeerbaar is. In dat geval is er, met andere woorden, geen sprake van 
+verwerking van persoonsgegevens meer. Het anonimiseren op zichzelf is overigens 
+al een verwerking van persoonsgegevens. 
+2.1.2 (Geautomatiseerde en/of handmatige) verwerking 
+ 
+Een verwerking is iedere bewerking of geheel van bewerkingen met betrekking tot 
+persoonsgegevens. Dit betreft een ruim begrip. Als voorbeelden noemt artikel 4, 
+tweede lid, Avg onder meer het verzamelen, opslaan, bijwerken, raadplegen en 
+10
+doorzenden van persoonsgegevens. Ook het enkel opzoeken en/of analyseren van 
+data, betreft een verwerking in de zin van de Avg. 
+Daarnaast is van belang, voor de materiële toepasselijkheid van de Avg, of de 
+11
+verwerking, waaronder dus het raadplegen, van persoonsgegevens (gedeeltelijke) 
+geautomatiseerd (lees: met behulp van computers of soortgelijke digitale 
+12
+middelen) plaatsvindt, danwel een handmatige verwerking van persoonsgegevens 
+13
+die in een bestand zijn opgenomen of die bestemd zijn om daarin te worden 
+14
+opgenomen, betreft. Alleen in dat geval is de Avg (en de Uavg) van toepassing. 
+15
+Zie overweging 27 van de considerans van de voormalige Richtlijn 95/46/EG die 
+dezelfde bepaling kende: “Overwegende dat de bescherming van personen zowel op 
+automatische als op niet-automatische verwerking van toepassing is; dat de 
+reikwijdte van deze bescherming in feite niet afhankelijk mag zijn van de gebruikte 
+technieken, omdat zulks ernstig gevaar voor ontduiking zou opleveren; dat 
+niettemin wat de niet-automatische verwerking betreft alleen bestanden en geen 
+ 16
+ongestructureerde dossiers onder de richtlijn vallen (…)”.  
+                                                
+9
+ Overweging 26 van de considerans van de Avg. 
+10
+ Zie voor de volledige opsomming artikel 4, onder 2, Avg: ‘“verwerking: een bewerking of een geheel van 
+bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet 
+uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, 
+bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, 
+verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of 
+vernietigen van gegevens.’  
+11
+ Er is sprake van een ‘gedeeltelijke geautomatiseerde verwerking’ als bij een onderdeel van de verwerking 
+niet alleen gebruik gemaakt wordt van computers, smartphones, tablets, servers, databases et cetera, maar 
+ook gebruik gemaakt wordt van andere middelen. 
+12
+ Zie Afdeling Bestuursrechtspraak van de Raad van State (“ABRvS”) 31 december 2014, 
+ECLI:NL:RVS:2014:4753, rov. 6.2. 
+13
+ Zie artikel 4, onder 6, Avg: “„bestand”: elk gestructureerd geheel van persoonsgegevens die volgens 
+bepaalde criteria toegankelijk zijn, ongeacht of dit geheel gecentraliseerd of gedecentraliseerd is dan wel op 
+functionele of geografische gronden is verspreid.” 
+14
+ Zie artikel 2, eerste lid, Avg.  
+15
+ Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de 
+bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende 
+het vrije verkeer van die gegevens. 
+16
+Zie in dat verband tevens ABRvS 16 juli 2014, ECLI:NL:RVS:2014:2594, rov. 5.5:  
+“Gezien het vorenstaande volgt uit de bewoordingen van artikel 2, eerste lid, van de Wbp en artikel 3, eerste 
+lid, van de Privacyrichtlijn, gelezen in samenhang met de overwegingen van de considerans bij die richtlijn, dat 
+ 
+ 
+Pagina 17 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Juridische onderbouwing 
+De gedetailleerde juridische onderbouwing is als volgt: 
+- Uitgezonderd van het materiële toepassingsgebied van de Avg, zijn, op grond 
+van artikel 2, tweede lid, onder a en b, Avg, de verwerking van 
+persoonsgegevens in het kader van activiteiten die buiten de werkingssfeer van 
+het Unierecht vallen; en door de lidstaten bij de uitvoering van activiteiten die 
+binnen de werkingssfeer van titel V, hoofdstuk 2, Verdrag betreffende de 
+Europese Unie (“VEU”) vallen.  
+- Tevens uitgezonderd is, de verwerking van persoonsgegevens door de bevoegde 
+autoriteiten, waaronder de Koninklijke Marechaussee, met het oog op de 
+voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten 
+of de tenuitvoerlegging van straffen, met inbegrip van de bescherming tegen en 
+de voorkoming van gevaren voor de openbare veiligheid (zie in dat verband 
+17
+artikel 2, tweede lid, onder d, Avg).   
+- De Nederlandse wetgever heeft in artikel 3 UAvg een nadere uitwerking gegeven 
+aan de reikwijdte van deze uitzonderingen uit artikel 2, tweede lid, Avg. Deze 
+nadere uitwerking van de reikwijdte van de uitzondering uit artikel 2, tweede lid, 
+Avg, is door de Nederlandse wetgever aangebracht om tegemoet te komen aan 
+de regelingsopdracht van artikel 10, tweede en derde lid, van de Grondwet. Zie 
+Kamerstukken II 2017/18, 34 851, nr. 3, p. 9 en 13-14:  
+ 
+“[D]e nationale wetgever [dient,] [niet alleen bij] het invullen van de 
+grondwettelijke opdracht via Europese regels[, maar ook in diverse andere 
+opzichten] het Nederlandse constitutionele perspectief [te behartigen]. De 
+regering wijst erop dat gegevensbescherming een belangrijke rol speelt op de 
+gebieden die geheel of gedeeltelijk aan het Unierecht zijn onttrokken. Te denken 
+valt met name aan de verwerking van persoonsgegevens met het oog op de 
+nationale veiligheid door inlichtingen- en veiligheidsdiensten [en door 
+18
+Defensie. ] De wetgever kan op dat terrein nog in belangrijke mate zelfstandig 
+invulling geven aan de regelingsopdracht van artikel 10, tweede en derde lid, 
+van de Grondwet.” (tekst tussen blokhaken toegevoegd) 
+ 
+Zie ook Kamerstukken II 1997/98, 25 892, nr. 3, p. 13 en 14: 
+ 
+“In artikel 3, tweede lid, onder eerste streepje, van de richtlijn is bepaald dat, 
+ook in dat geval echter verwerkingen die betrekking hebben op de openbare 
+veiligheid, defensie, de veiligheid van de Staat – waaronder de economie van de 
+Staat, wanneer deze verwerkingen in verband staan met vraagstukken van 
+staatsveiligheid – en de activiteiten van de Staat op strafrechtelijk gebied, niet 
+onder het bereik van de richtlijn vallen. […] Deze beperking hangt samen met 
+de grondslag van de richtlijn, te wetende harmonisatie met het oog op de 
+totstandkoming van de interne markt. De Lidstaten blijven vrij de regelgeving 
+voor het overige naar eigen inzicht in te richten, zij het binnen de grenzen van 
+het Verdrag inzake gegevensbescherming voor zover zij dit hebben bekrachtigd. 
+Het wetsvoorstel behelst de keuze af te zien van het onderscheid of een vorm 
+                                                
+17
+ Zie artikel 1, onder a, Wet politiegegevens jo. artikel 4 Politiewet 2012. 
+18
+ Daarbij opgemerkt dat er in de Uitvoeringswet voor is gekozen om gegevensverwerking door de krijgsmacht 
+onder de werkingssfeer van deze wet te brengen en de verordening van overeenkomstige toepassing te 
+verklaren, met dien verstande dat de minister van Defensie in bepaalde gevallen hiervan kan afwijken. 
+ 
+ 
+Pagina 19 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Er moet evenwel een mogelijkheid zijn om af te wijken, omdat bij inzet in 
+internationale militaire operaties niet altijd kan worden gevergd dat alle 
+bepalingen onverkort worden toegepast. De omstandigheden waarin de 
+krijgsmacht soms moet functioneren, laten dat niet altijd toe. Hierom is het 
+wenselijk om de Minister van Defensie de bevoegdheid te geven om hierop een 
+uitzondering te maken als er sprake is van daadwerkelijke operationele inzet van 
+de krijgsmacht.” (tekst tussen blokhaken toegevoegd) Vgl. ook Nota van 
+Toelichting bij de Regeling Gegevensbescherming Militaire Operaties (Stb. 2018, 
+28293). 
+- Daarnaast bestaat er voor Defensie een uitzondering, uit hoofde van artikel 
+20
+3, derde lid, onder a en b, UAvg , indien de Wet op de inlichtingen- en 
+veiligheidsdiensten 2017 van toepassing is op de verwerking van 
+persoonsgegevens. 
+2.1.5 Uitzonderingen (U)Avg: persoonlijke, huishoudelijke & journalistieke doeleinden 
+ 
+De uitzonderingen voor persoonlijke, huishoudelijke en journalistieke doeleinden zijn 
+op de verwerking bij het LIMC niet van toepassing. 
+De gedetailleerde juridische onderbouwing is als volgt: 
+- Uitzondering (op de toepasselijkheid van de Avg en de UAvg) uit artikel 2, 
+tweede lid, onder c, Avg inzake de verwerkingen van persoonsgegevens door 
+een natuurlijke persoon bij de uitoefening van een zuiver persoonlijke of 
+21
+huishoudelijke activiteit, is niet relevant voor het gebruik door het LIMC. Dit 
+omdat het bij het LIMC niet gaat om verwerkingen door een natuurlijk persoon, 
+maar door ambtenaren van de krijgsmacht die handelen onder gezag en 
+verantwoordelijkheid van de Minister van Defensie. De verwerking heeft dus niet 
+een louter persoonlijk of huishoudelijk karakter, maar houdt verband met een 
+22
+beroepsactiviteit. 
+- De uitzondering inzake de vrijheid van meningsuiting, zoals voortvloeit uit 
+23
+artikel 85 Avg jo. artikel 43 UAvg, is hier niet relevant. Deze uitzondering geldt 
+24
+immers uitsluitend voor gegevensverwerkingen voor journalistieke, artistieke 
+of literaire doeleinden en niet voor de onderhavige verwerkingen door de 
+overheid. Dit omdat er geen sprake is van journalistiek, zijnde een verwerking 
+die als enig doel heeft de bekendmaking aan het publiek van informatie, 
+meningen of ideeën, noch van artistieke of literaire doeleinden die worden 
+nagestreefd.  
+                                                
+20
+ Zie in dat verband ook artikel 2, tweede lid, onder a, Avg. 
+21
+ Zie artikel 2, tweede lid, onder c, Avg. Deze uitzondering dient volgens de Autoriteit Persoonsgegevens maar 
+ook het Hof van Justitie van de Europese Unie (“HvJ EU”), zoals onder meer blijkt uit het arrest van 11 
+december 2014 van het HvJ EU (ECLI:EU:C:2014:2428, C-212/13, (Reynes)), strikt te worden uitgelegd. Zie 
+de website van de Autoriteit Persoonsgegevens (raadpleegbaar via: 
+https://www.autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post/persoonsgegevens-
+op-internet#wat-is-de-uitzondering-voor-persoonlijk-of-huishoudelijk-gebruik-6433).  
+22
+ Zie in dat verband overweging 18 van de considerans van de Avg. 
+23
+ Zie ook overweging 153 bij de considerans van de Avg.  
+24
+ In dit verband zijn de volgende uitspraken van belang: HvJ EU van 16 december 2008, ECLI:EU:C:2008:727 
+(Satamedia), par. 57 e.v.; EHRM 27 juni 2017, ECLI:CE:ECHR:2017:0627JUD000093113, nr. 931/13 
+(Satamedia); HvJ EU, 14 februari 2019, ECLI:EU:C:2019:122, nr. C-345/17 (Buidvids). Zie verder ook de 
+recente uitspraak Rechtbank Midden-Nederland 23 november 2020, ECLI:NL:RBMNE:2020:5111 (VoetbalTv). 
+ 
+ 
+Pagina 21 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+worden bewerkt, bewaard en gebruikt. Vereist is dus een voldoende precieze 
+wettelijke grondslag. Dat betekent dat bijvoorbeeld de algemene taakstelling van 
+een overheidsdienst niet in alle gevallen kan dienen als rechtsgrond voor 
+17
+gegevensverwerking. ”  
+De verwerkingen van persoonsgegevens door de overheid binnen het LIMC dienen 
+zodoende, zoals volgt uit artikel 8 tweede lid EVRM, voldoende duidelijk voort te 
+vloeien uit een naar behoren bekend gemaakt en voldoende precies wettelijk 
+voorschrift. 
+2.2.1 De publieke taken van de krijgsmacht 
+ 
+De publieke taken van de krijgsmacht kunnen, zoals voortvloeit uit artikel 97, eerste 
+lid, Grondwet, liggen in de volgende doelen: de verdediging van het Koninkrijk en de 
+bondgenootschappelijke verdediging; de handhaving en de bevordering van de 
+internationale rechtsorde; en de bescherming van belangen van het Koninkrijk. 
+27
+In de Defensienota uit 2018, worden deze taken op de volgende wijze uitgewerkt: 
+ 
+“1 Bescherming van het eigen en bondgenootschappelijke grondgebied, inclusief het 
+Caribisch deel van het Koninkrijk.  
+2 Bescherming en bevordering van de internationale rechtsorde en stabiliteit.  
+3 Ondersteuning van civiele autoriteiten bij rechtshandhaving, rampenbestrijding en 
+humanitaire hulp, zowel nationaal als internationaal.” 
+ 
+Deze taken worden, zoals blijkt uit artikel 97, tweede lid, Grondwet, door de 
+regering toebedeeld. De regering bepaalt of, en zo ja hoe, de krijgsmacht voor deze 
+28 
+doelen uiteindelijk wordt ingezet. Uit artikel 97 Grondwet vloeit als zodanig, geen - 
+zelfstandig werkende - taak of bevoegdheid voor de krijgsmacht voor nationale 
+29
+inzet, voort .  
+Inzet van de krijgsmacht voor nationale taken is alleen mogelijk voor zover deze 
+taken zijn vastgelegd in wet- en regelgeving; in geval van structurele ondersteuning 
+van civiel gezag, zijn vastgelegd in convenanten of arrangementen; of op basis van 
+30
+bijstand of Militaire Steunverlening in het Openbaar Belang (“MSOB”) . 
+Voor zover structurele taken van de krijgsmacht zijn vastgelegd in wet- en 
+regelgeving, vloeit uit die wet- en regelgeving voort in hoeverre een verwerking van 
+persoonsgegevens in dat kader mogelijk is. 
+Een voorbeeld van een structurele taak zijn de (politie)taken, zoals vastgelegd in 
+artikel 4 Politiewet 2012, van de Koninklijke Marechaussee en de taak van de 
+krijgsmacht die is belegd in de Rijkswet geweldgebruik bewakers militaire objecten. 
+Deze wet geeft de krijgsmacht bepaalde geweldsbevoegdheden in de uitoefening 
+van de wettelijke bewakings- en beveiligingstaak. 
+                                                
+27
+ Raadpleegbaar via https://www.defensie.nl/downloads/beleidsnota-s/2018/03/26/defensienota-2018.  
+28
+ Zie Kamerstukken II 1997/98, 25 367 (R 1593), nr. 3, p. 3.  
+29
+ Zie artikel 97, tweede lid, Grondwet. Daaruit blijkt dat de regering het oppergezag heeft over de krijgsmacht. 
+Met andere woorden, de (wettelijk) vastgelegde bevoegdheid om de krijgsmacht in te zetten. Zie daarover P. 
+A. L., Ducheine en G. L. C. van den Bosch, ‘Staatsrecht en krijgsmacht’, in: M. D. Fink (editor), Inleiding militair 
+recht. Den Haag: Nederlandse Defensie Academie 2014 (derde druk), p. 11-28. Kamerstukken II 1997/98, 25 
+367 (R 1593), nr. 3, p. 3. 
+30
+ Zie de Regeling inzake militaire steunverlening in het openbaar belang. 
+ 
+ 
+Pagina 23 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+- Het bestaan van passende waarborgen, zoals pseudonimisering. 
+ 
+Van belang is verder het “vermoeden van verenigbaarheid” als bedoeld in artikel 5, 
+eerste lid, onder b, van de Avg. Op grond daarvan wordt een verdere verwerking 
+31
+met het oog op wetenschappelijk onderzoek niet als onverenigbaar beschouwd. 
+Indien sprake is van een verenigbare verdere verwerking, dan is bij een interne 
+verdere verwerking (door dezelfde verwerkingsverantwoordelijke) geen afzonderlijke 
+wettelijke grondslag als bedoeld in artikel 6, eerste lid, Avg vereist. Bij een externe 
+verdere verwerking (door een andere verwerkingsverantwoordelijke) dient de 
+verwerkingsverantwoordelijke over een afzonderlijke wettelijke grondslag als 
+bedoeld in artikel 6, eerste lid, Avg te beschikken. Zie Kamerstukken II 2018/19, 34 
+32
+851, nr. 3, p. 38 . 
+2.4 Noodzakelijkheid  
+ 
+Uit het noodzakelijkheidsbeginsel van artikel 5, eerste lid, aanhef en onder c, Avg, 
+ook wel aangeduid als ‘het beginsel van dataminimalisatie’, volgt dat de privacy 
+inbreuk die gepaard gaat met verwerkingen van het LIMC noodzakelijk moet zijn 
+voor het doel waarvoor het LIMC wordt ingezet (‘proportionaliteit’). 
+Daarnaast mag de verwerkingsverantwoordelijke slechts overgaan tot het verwerken 
+van (strafrechtelijke of bijzondere) persoonsgegevens indien het onderzoeksdoel 
+niet met minder vergaande maatregelen kan worden bereikt (‘subsidiariteit’).  
+Het noodzakelijkheidsbeginsel heeft tot slot ook gevolgen voor de toegang tot, de 
+omvang en de aard van de persoonsgegevens die ten behoeve van het LIMC door de 
+verwerkingsverantwoordelijke mogen worden verwerkt. De persoonsgegevens 
+dienen toereikend en ter zake dienend te zijn en moeten beperkt blijven tot het 
+strikt noodzakelijke. Kort en goed houdt dit in dat de verwerkingsverantwoordelijke 
+enkel ‘need to know’-informatie mag verwerken, in plaats van ‘nice to know’-
+informatie. 
+Het noodzakelijkheidsbeginsel zal ook technisch en organisatorisch door ontwerp en 
+standaardinstellingen binnen het LIMC moeten worden geborgd, zodat kan worden 
+voldaan aan de beginselen van privacy by design and default uit artikel 25 Avg. In 
+hoeverre en op welke manier de verwerkingsverantwoordelijke uitvoering dient te 
+geven aan deze beginselen, vormt de uitkomst van een afweging van verschillende 
+33
+factoren.  
+De verplichting uit artikel 25 Avg is het best te begrijpen als een zorgplicht van de 
+verwerkingsverantwoordelijke om een zo beperkt mogelijke inbreuk op de 
+34
+persoonlijke levenssfeer te maken bij de verwerking van persoonsgegevens.  
+                                                
+31
+ Zie ook EDPB, ‘Richtsnoeren 3/2020 inzake de verwerking van gezondheidsgegevens voor 
+wetenschappelijk onderzoek in het kader van de COVID-19-uitbraak’, 21 april 2020 (raadpleegbaar via, 
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202003_healthdatascientificresearchcovid
+19_nl.pdf).  
+32
+ Deze opmerking in de memorie van toelichting is toegevoegd naar aanleiding van het wetgevingsadvies van 
+de Afdeling advisering van de Raad van State (Kamerstukken II 2017/18, 34 851, nr. 4, p. 36-38). 
+33
+ Die factoren zijn (onder meer) de stand van de techniek, de uitvoeringskosten, de aard, de omvang, de 
+context en het doel van de verwerking en de risico's (waarschijnlijkheid en ernst) voor de rechten en vrijheden 
+van de betrokkenen. Zie voor een concretisering hiervan de overwegingen 75 en 76 van de considerans van 
+de Avg.  
+34
+ Deze zorgplicht zal in verschillende contexten geconcretiseerd moeten worden, maar verschillende 
+elementen worden al expliciet in overweging 78 van de considerans van de Avg genoemd.  
+ 
+ 
+Pagina 25 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ingedeeld in vier categorieën Te Beschermen Belang (TBB, met TBB 1 als strengst te 
+beveiligen categorie).  
+Bijzondere informatie, rubricering departementaal vertrouwelijk, merking 
+personeelsvertrouwelijk. 
+Informatie die is voorzien van een rubricering wordt Bijzondere Informatie (BI) 
+genoemd. Ook BI valt, afhankelijk van de hoogte van de rubricering, in een TBB-
+categorie. Een gerubriceerd document is altijd een TBB, maar een TBB is niet altijd 
+gerubriceerd. Een voorbeeld van een rubricering is DEPARTEMENTAAL 
+VERTROUWELIJK. Kennisname door niet-gerechtigden van de BI kan nadeel 
+toebrengen aan het belang van een of meer ministeries.  
+Naast rubriceringen kent Defensie merkingen zoals PERSONEELSVERTROUWELIJK.  
+2.6.2 Normen LIMC 
+ 
+Bij het LIMC zijn de normen en maatregelen van TBB niveau 4 als norm gehanteerd. 
+Dit is gebruikelijk voor DEPARTEMENTAAL VERTROUWELIJK gerubriceerde bijzondere 
+informatie of PERSONEELSVERTROUWELIJK gemerkte informatie. Overigens is de 
+merking PERSONEELSVERTROUWELIJK geen synoniem voor persoonsgegevens. Niet 
+alle persoonsgegevens vallen onder deze definitie van de merking bij Defensie.    
+Onderstaande normen en maatregelen zijn het meest relevant in relatie tot de 
+“veilige verwerking” van persoonsgegevens. Daarnaast zijn enkele 
+beveiligingsnormen geselecteerd waar, binnen het LIMC, specifiek naar is gekeken 
+zoals fysiek Te Beschermen Belangen en informatiedragers. Daarbij is het need-to-
+know en need-to-be principe te allen tijde van toepassing. Als het DBB wordt 
+nageleefd wordt voldaan aan het doel van artikel 32 Avg. 
+2.6.3 Norm: organisatorische maatregelen 
+ 
+Geheimhoudingsverklaring 
+Iedere medewerker (ongeacht het dienstverband) ondertekent een verklaring 
+omtrent de bekendheid met de geheimhoudingsplicht. Deze verklaring is verplicht en 
+eenmalig, en blijft geldig ook na het beëindigen van het dienstverband.  
+Beveiligingsbriefing 
+Binnen Defensie zijn verschillende procedures en activiteiten met als doel het 
+beveiligingsbewust maken en houden van medewerkers. Dit onderwerp staat binnen 
+Defensie hoog op de agenda en kent verschillende uitwerkingen bijvoorbeeld: 
+- initiële, periodieke en jaarlijkse beveiligingsbriefings; 
+- beveiligingsbewustwording als onderdeel van interne cursussen / 
+opleidingstrajecten; 
+- digitaal rijbewijs; 
+- beveiligingsbewustzijnprogramma en -workshops; 
+- een jaarlijks terugkerend programma “de week van beveiliging & privacy”.  
+ 
+Screening 
+Elke arbeidsplaats binnen Defensie wordt op basis van een risicoanalyse vastgesteld 
+als niet-vertrouwensfunctie of als vertrouwensfunctie (niveau C, B of A). 
+Vertrouwensfuncties zijn functies die de mogelijkheid bieden de nationale veiligheid 
+te schaden. Medewerkers moeten in geval van plaatsing op een niet-
+vertrouwensfunctie, beschikken over een geldige Verklaring Omtrent Gedrag (VGG) 
+of indien geplaatst op een vertrouwensfunctie, beschikken over een geldige 
+ 
+ 
+Pagina 27 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+DPIA geïnitieerd bij de ontwikkeling van beleid en regelgeving waaruit verwerkingen 
+van persoonsgegevens voortvloeien (artikel 3, lid 1 onder b Regeling Avg Defensie). 
+Deze DPIA dient conform het model DPIA Rijksdienst te worden uitgevoerd (artikel 
+3, lid 2 Regeling Avg Defensie). 
+Bij verwerkingen en het ontwikkelen van beleid en regelgeving waaruit verwerkingen 
+van persoonsgegevens voortvloeien dient een DPIA te worden uitgevoerd.  
+2.7.3 Verwerkersovereenkomst 
+ 
+Voor de toepassing van de Avg is van belang wie of wat wordt aangemerkt als 
+verwerkingsverantwoordelijke(n), en op wie als zodanig de regels van de Avg van 
+toepassing zijn. De verwerkingsverantwoordelijke bepaalt het doel en de middelen 
+van de verwerking van persoonsgegevens en heeft daardoor verantwoordelijkheid 
+voor de rechtmatigheid van de verwerking.  
+De verantwoordelijkheid voor de naleving van de voorgaande eisen en de overige 
+verplichtingen uit de Avg kan eveneens liggen bij gezamenlijke 
+verwerkingsverantwoordelijken. In dat geval dienen de verantwoordelijken 
+gezamenlijk afspraken te maken over de naleving daarvan (artikel 26 Avg). 
+Daarnaast dient vastgesteld te worden of de verwerkingsverantwoordelijke voor het 
+LIMC gebruik maakt van een verwerker. In dat geval dient de 
+verwerkingsverantwoordelijke – door middel van (onder meer) een 
+verwerkersovereenkomst – te borgen dat de verwerker de vereisten van de Avg 
+strikt naleeft. 
+  
+ 
+ 
+Pagina 29 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+De verwerking van de bovengenoemde strafrechtelijke gegevens en bijzondere 
+persoonsgegevens is verboden, tenzij hiervoor een algemene of specifieke 
+43
+doorbrekingsgrond bestaat in de (U) Avg of een bijzondere wet.  
+Hieruit volgt dat bijzondere en strafrechtelijke persoonsgegevens door het LIMC 
+slechts mogen worden verwerkt indien daarvoor een doorbrekingsgrond voorhanden 
+is. Daarbij dient te worden opgemerkt dat een dergelijke doorbrekingsgrond de 
+verwerkingsverantwoordelijke niet ontslaat van de plicht om een grondslag te 
+hebben, als bedoeld in artikel 6 van de Avg. 
+2.8.1 Doorbrekingsgrond: kennelijk openbaar gemaakt door betrokkene 
+ 
+Een relevante doorbrekingsgrond voor de verwerking van bijzondere 
+persoonsgegevens en strafrechtelijke persoonsgegevens (en persoonsgegevens van 
+strafrechtelijke aard) bij het gebruik door het LIMC, is dat de verwerking betrekking 
+heeft op persoonsgegevens die kennelijk door de betrokkene openbaar zijn gemaakt 
+(zie artikel 9, tweede lid, onder e, Avg en artikel 32, onder c, UAvg). 
+44
+De wetgever wijst - bij de toelichting op de soortgelijke bepaling in de Wbp - op 
+dat voor de vraag of een dergelijk persoonsgegeven kennelijk openbaar is gemaakt, 
+de intentie van betrokkene van belang kan zijn. 
+Deze intentie kan worden afgeleid uit het handelen of het gedrag van de betrokkene 
+zelf, waaronder de wijze waarop de betrokkene de informatie openbaar heeft 
+gemaakt.  
+Zo is geen sprake van uitdrukkelijke openbaarmaking als een betrokkene 
+persoonsgegevens openbaar maakt via een afgeschermd (social media) profiel. Zie 
+45
+de toelichting in Kamerstukken II 1997/98, 25 892, nr. 3, p. 123:  
+ 
+“Er geldt een ontheffing voor de verwerking van gevoelige gegevens indien de 
+gegevens door de betrokkene openbaar zijn gemaakt. Evenals bij onderdeel a ligt de 
+rechtvaardigingsgrond voor de ontheffing besloten in het handelen of het gedrag 
+van de betrokkene zélf. Anders dan bij onderdeel a is er echter geen sprake van op 
+de gegevensverwerking gerichte toestemming, maar van een spontane gedraging 
+van de betrokkene en waar niet door enig andere persoon met het oog op een 
+eventuele gegevensverwerking om is gevraagd. Dat de gegevens openbaar zijn, 
+moet derhalve volgen uit gedrag van de betrokkene waaruit de intentie om 
+openbaar te maken uitdrukkelijk blijkt. Het laatste blijkt onder meer uit het feit – de 
+Registratiekamer heeft hier terecht op gewezen – dat de richtlijn bepaalt dat de 
+gegevens «duidelijk» door de betrokkene openbaar moeten zijn gemaakt. Dit is 
+bijvoorbeeld duidelijk het geval in de situatie waarin een persoon die verkiesbaar is 
+voor de volksvertegenwoordiging, zich met bepaalde politieke opvattingen in de 
+publiciteit profileert. Het betreft hier een gegeven omtrent politieke gezindheid dat 
+                                                
+begrip politieke overtuiging duidt op een gemeenschappelijke opvatting omtrent de bestuurlijke en sociale 
+inrichting van de samenleving. Deze opvatting dient te kunnen worden afgeleid uit een bepaald handelen of 
+nalaten van een persoon (zie: CGB 4 februari 1997, 1997-15, overweging 4.5; CGB 9 juli 2002, 2002-84, 
+overweging 5.5; CGB 18 januari 2005, 2005-3, overweging 5.10 en CGB 21 april 2006, 2006-76, overweging 
+3.5).” (onderstreping toegevoegd) 
+43
+ De algemene doorbrekingsgronden staan beschreven voor bijzondere persoonsgegevens in artikel 9, 
+tweede lid, Avg en in artikelen 22 tot en met 30 UAvg. Voor strafrechtelijke persoonsgegevens staan deze in 
+artikel 31 tot en met 33 UAvg. 
+44
+ Zie Kamerstukken II 1997/98, 25 892, nr. 3, p. 123. 
+45
+ Zie ook Kamerstukken II 1997/98, 25 892, nr. 6, p. 42. 
+ 
+ 
+Pagina 31 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+2.8.2 Doorbrekingsgrond: noodzakelijk voor wetenschappelijk onderzoek/statistische 
+doeleinden 
+ 
+Een andere relevante doorbrekingsgrond is dat de verwerking noodzakelijk is met 
+het oog op wetenschappelijk onderzoek of statistische doeleinden overeenkomstig 
+48
+artikel 89, eerste lid, Avg op grond van Unierecht of lidstatelijk recht (artikel 9, 
+49,50
+tweede lid, onder j, Avg en artikel 32, onder f, UAvg) . Om daarvan gebruik te 
+kunnen maken dient er wel sprake te zijn van onderzoek dat kwalificeert als 
+wetenschap of statistisch onderzoek. De (voorganger en de) EDPB wijst erop dat het 
+“wetenschappelijk onderzoek” niet verder kan worden opgerekt dan de gebruikelijke 
+betekenis en vat het begrip in deze context op “als een onderzoeksproject dat 
+opgezet wordt in overeenstemming met de relevante methodologische en ethische 
+51
+normen van de sector, en conform goede praktijken.” 
+ 
+ 
+                                                
+48
+ Zie artikel 89, eerste lid, Avg: ‘De verwerking met het oog op archivering in het algemeen belang, 
+wetenschappelijk of historisch onderzoek of statistische doeleinden is onderworpen aan passende waarborgen 
+in overeenstemming met deze verordening voor de rechten en vrijheden van de betrokkene. Die waarborgen 
+zorgen ervoor dat er technische en organisatorische maatregelen zijn getroffen om de inachtneming van het 
+beginsel van minimale gegevensverwerking te garanderen. Deze maatregelen kunnen pseudonimisering 
+omvatten, mits aldus die doeleinden in kwestie kunnen worden verwezenlijkt. Wanneer die doeleinden kunnen 
+worden verwezenlijkt door verdere verwerking die de identificatie van betrokkenen niet of niet langer toelaat, 
+moeten zij aldus worden verwezenlijkt.’ 
+49
+ jo. artikel 24 UAvg. 
+50
+ Volgens overweging 159 van de considerans van de Avg “moet de verwerking van persoonsgegevens met 
+het oog op wetenschappelijk onderzoek ruim worden opgevat en bijvoorbeeld technologische ontwikkeling en 
+demonstratie, fundamenteel onderzoek, toegepast onderzoek en uit particuliere middelen gefinancierd 
+onderzoek omvatten. Bovendien dient de doelstelling van de Unie uit hoofde van artikel 179, lid 1, VWEU, te 
+weten de totstandbrenging van een Europese onderzoeksruimte, in acht te worden genomen. 
+Wetenschappelijke onderzoeksdoeleinden omvatten ook studies op het gebied van de volksgezondheid die in 
+het algemeen belang worden gedaan.” 
+51
+ Zie ook EDPB, ‘Richtsnoeren 3/2020 inzake de verwerking van gezondheidsgegevens voor 
+wetenschappelijk onderzoek in het kader van de COVID-19-uitbraak’, 21 april 2020 (raadpleegbaar via: 
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202003_healthdatascientificresearchcovid
+19_nl.pdf) en Zie de Artikel 29-Werkgroep, ‘Richtsnoeren inzake toestemming overeenkomstig Verordening 
+2016/679’, WP259 versie 01, 17/NL, blz. 27 (bekrachtigd door de EDPB) (raadpleegbaar via: 
+https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=623051). 
+ 
+ 
+Pagina 33 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+op ons zou doen om op korte termijn militaire bijstand en steun te verlenen ter 
+ondersteuning van civiele autoriteiten betrokken bij de crisisbestrijding. 
+De behoefte aan een zo volledig mogelijk omgevingsbeeld gold ook voor de civiele 
+instanties. Zo bleek al vanaf het begin van de crisis toen het ministerie van BZK aan 
+alle betrokken overheidsorganisaties vroeg om informatie te delen. 
+Oogmerk minister-president 
+De overheid is onder aanvoering van de minister-president de COVID-19 pandemie 
+gaan bestrijden. Al direct was duidelijk dat met 50% van de informatie wel 100% 
+van de besluiten genomen moest worden. De minister-president gaf dan ook zonder 
+omhaal van woorden aan (bij herhaling): “alleen samen krijgen we corona er 
+onder”.’’ 
+3.1.1 Crisisstructuur operationeel/tactisch Nederland 
+ 
+De gezamenlijke coördinatie en aanpak op operationeel-tactisch niveau is 
+vormgegeven via de werkwijze Landelijk Operationeel Coördinatiecentrum-Nationaal 
+(LOCC-N) / Landelijk Operationeel Team-Corona (LOT-C). Het gaat hier om een 
+multidisciplinair samenwerkingsverband tussen alle hulpverleningsdiensten, 
+55
+Defensie, bevolkingszorg, veiligheidsregio’s en ministeries.  
+ 
+Grafische weergave van de crisisstructuur COVID-19: 
+ 
+56
+Figuur 1: Crisisstructuur COVID-19 
+ 
+De nationale crisisstructuur is ingericht tot en met 1 juli 2020. In de zomer is de 
+Ministeriële Commissie COVID-19 (MCC-19) ingericht om integraal over het beleid 
+                                                
+55
+ Kamerstukken II 2019/20, 30821/25295, nr. 107. 
+56
+ Kamerstukken II 2019/20, 30821/25295, nr. 107. 
+ 
+ 
+Pagina 35 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+‘We specialiseren ons in het opbouwen en behouden van een gezaghebbende 
+informatiepositie. 
+Dit is de basis voor een sterke focus op informatiegestuurd optreden (IGO), dat 
+minder gericht is op afbakeningen in tijd en locatie. 
+Daarmee kunnen we relevante en betrouwbare informatie snel vergaren, 
+verwerken, analyseren en daar uiteindelijk snel en beslissend mee handelen en 
+mee vechten, van strategisch niveau tot het niveau van de individuele militair in 
+het veld. 
+We vergroten en versnellen, met de juiste informatie, onze 
+handelingsperspectieven voor inzet. Alleen op die manier kunnen we mogelijke 
+tegenstanders bijhouden en met meer maatwerk reageren. De 
+informatieomgeving is van groeiend belang en is een terrein waarop zogeheten 
+hybride dreigingen goed gedijen. Denk daarbij bijvoorbeeld aan maatschappij 
+ontwrichtende cyberaanvallen en desinformatiecampagnes. We gaan ervan uit dat 
+we multidomein en geïntegreerd moeten optreden, veelal in een hybride context. 
+Met onze partners buiten Defensie gaan we meer conceptuele aandacht besteden 
+aan de rol en taak van Defensie in dit grijze gebied van ‘strategische competitie’ 
+tussen vrede en oorlog.’ 
+ 
+Vastgesteld is dat op dit moment nog geen DPIA is opgesteld voor IGO.  
+ 
+60
+Wat is Informatiegestuurd Optreden? 
+De Koninklijke Landmacht definieert Informatiegestuurd Optreden (IGO) als: ‘alle 
+relevante data en informatie kunnen verwerven, verwerken en verspreiden teneinde 
+insight, foresight en understanding te creëren en tijdig op elk niveau en in elke 
+situatie militaire besluitvorming en militair optreden in drie dimensies (cognitief, 
+virtueel en fysiek) te kunnen realiseren’. Het gaat hierbij nadrukkelijk om zowel de 
+dagelijkse bedrijfsvoering als de operationele omgeving. 
+Toegespitst op militaire inzet in de informatieomgeving noemt de Koninklijke 
+Landmacht dit ‘Information Manoeuvre’. Net zoals ground- en air manoeuvre, heeft 
+Information Manoeuvre tot doel een voordeel of gunstige positie ten opzichte van 
+opponenten te bereiken. Dit gebeurt door de cognitieve, virtuele en fysieke dimensie 
+te exploiteren, integraal te begrijpen, daarop besluitvorming te baseren en 
+vervolgens met activiteiten (offensieve en defensieve) effecten te realiseren. Het 
+doel van Information Manoeuvre is het beïnvloeden van wil, gedrag en/of perceptie 
+van opponenten en andere relevante actoren met alle vormen van slagkracht. 
+3.2 Opdracht LIMC 
+ 
+61
+Op 19 maart 2020, heeft Commandant Landstrijdkrachten een Operatieorder 
+(OPORD 2020-710 (COVID-19)) uitgegeven. In een aantal (aanvullende) orders 
+                                                
+60
+ Visie informatiegestuurd optreden voor de Landmacht, Manoeuvreren in de informatieomgeving, november 
+2020.  
+61
+ Operation order (OPORD) A directive, usually formal, issued by a commander to subordinate commanders 
+for the purpose of effecting the coordinated execution of an operation, Joint Doctrine Publicatie 5 
+Commandovoering. 
+ 
+ 
+Pagina 37 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+64
+Operational Capablility) volgt later. In bijlage III is een organogram van Defensie, 
+de Koninklijke Landmacht en het OOCL opgenomen. 
+In FRAGO 004 bij operatiebevel 2020-039 van C-OOCL is de taak van het LIMC als 
+volgt verwoord: 
+(…) 
+Algemeen 
+Het Land Information Manoeuvre Centre (LIMC) genereert in een experimentele 
+vorm Situational Awareness (SA) en Situational Understanding (SU) voor het 
+CLAS en civiele overheden over de COVID-19 crisis. Hierdoor worden militaire en 
+civiele besluitvormingsprocessen gevoed met inzicht en waar mogelijk 
+handelingsperspectief. Door het inrichten van het LIMC draagt het OOCL op een 
+slimme manier bij aan het continueren van de essentiële processen binnen de 
+Nederlandse samenleving en Defensie in tijden van crisis. 
+Dit past in de dóórontwikkeling naar een Informatie Gestuurde Krijgsmacht, om 
+met behulp van nieuwe technologieën en beter gebruik van informatie, het 
+militaire optreden te verbeteren. Hierdoor kunnen ook nieuwe bedreigingen het 
+hoofd geboden worden. Met het LIMC kan de Koninklijke Landmacht ervaring 
+opdoen met het samenbrengen van information manoeuvre capaciteiten die 
+insight, foresight en doorlopend handelingsperspectief bieden in drie dimensies 
+(cognitief, virtueel, fysiek). 
+(…) 
+3.3 Organisatie LIMC 
+ 
+Het LIMC was en is geen organieke eenheid binnen het CLAS. Medewerkers zijn dan 
+ook niet geplaatst bij het LIMC maar voor korte of langere tijd vanuit bestaande 
+eenheden of organisaties gevraagd of aangewezen om activiteiten te verrichten. De 
+meeste medewerkers zijn militairen (beroeps en reservisten), ook zijn enkele 
+burgermedewerkers en niet-werknemers (zoals stagiaires en medewerkers van 
+partnerorganisaties) bij het LIMC ingezet. De kern van het LIMC is gevormd met 
+65
+medewerkers van het JISTARC op de Luitenant-kolonel Tonnetkazerne in ‘t Harde. 
+De lijst met (voormalig) medewerkers van het LIMC is verstrekt door de acting chef-
+staf van het LIMC en bevat de namen van 151 personen. De groepsgrootte varieert 
+in omvang door de tijd heen. Sommige personen hebben kort gewerkt voor het LIMC 
+en anderen enkele maanden, soms op roulatiebasis. De meeste medewerkers zijn 
+tijdelijk deels vrijgemaakt van hun organieke werkzaamheden en hadden daarnaast 
+nog hun organieke functie met bijbehorende taken en opdrachten.   
+In de enquête is uitgevraagd hoelang medewerkers werkzaamheden tussen maart 
+en november 2020 hebben verricht voor het LIMC. De resultaten van de 106 
+respondenten zijn als volgt: 
+ 
+                                                
+64
+ OPERATIEBEVEL NO. 2020-025 (COVID-19) en FRAGO 001 BIJ OPERATIEBEVEL NR 2020-025 
+(COVID-19), 20 maart 2020 
+65
+ Joint Intelligence, Surveillance, Target Acquisition & Reconnaissance Commando is een 
+inlichtingeneenheid. Het commando verzamelt, analyseert en verspreidt inlichtingen in een inzetgebied. 
+Daarmee helpt de eenheid met name commandanten ter plekke bij het plannen van operaties en andere 
+besluitneming. 
+ 
+ 
+Pagina 39 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+o.a. de gestelde kaders. Ook werd er door een medewerker naar de processen 
+gekeken om vast te kunnen stellen wat er op termijn nodig was, in het kader van 
+learning by doing (advisory). 
+In de enquête is uitgevraagd waar medewerkers werkzaamheden hebben 
+uitgevoerd. De resultaten zijn als volgt:  
+Waar binnen het LIMC heeft u werkzaamheden uitgevoerd?  
+Telling 
+(meerdere keuzes mogelijk) 
+Integrale analyse cell (team 1 Covid ontwikkeling) Ja 34 
+Integrale analyse cell (team 2 Desinformatie) Ja 23 
+Collection & Engagement Ja 18 
+Design & Development Ja 10 
+Data OPS Ja 9 
+CMD Ja 4 
+Plans & Effects Ja 8 
+CD&E Ja 7 
+Wil ik niet zeggen Ja 2 
+Anders   86 
+Tabel 2: Capaciteit per cell 
+3.4.1 Methodiek analyseteams 
+ 
+In de teams is gebruik gemaakt van een methodiek. Deze methodiek bestaat uit vier 
+stappen: 
+1. Data mining & cleaning 
+2. Datascience exploration & modeling 
+3. Datavisualisatie 
+4. Verstrekken van informatie  
+De vier stappen worden hieronder toegelicht.  
+Stap 1: Data mining & cleaning 
+Allereerst wordt de opdracht geanalyseerd en zo nodig de onderzoeksvraag 
+geherformuleerd. Hierbij is gebruik gemaakt van zogenaamde “narratieven’’. Een 
+narratief is een gestructureerd verhaal over fenomenen of maatschappelijke 
+ontwikkeling, bij het LIMC COVID-19 gerelateerd.  
+Een apart team ook wel cell genoemd hield zich bezig met analyseren en het visueel 
+weergeven van de gegevens. Vanaf eind mei 2020 is het team gesplitst in twee 
+teams van circa 5-6 personen.  
+Het eerste “team zorg’’ heeft zich gericht op de zorg zoals beddencapaciteit en de 
+verwachte IC opnamen. Hierbij maakt het LIMC gebruik van tien door het LOT-C 
+onderkende factoren van invloed. Visueel ziet dit er als volgt uit: 
+ 
+ 
+Pagina 41 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Het tweede team heeft zich gericht op desinformatie gerelateerd aan COVID-19. Het 
+tweede team is ook aangeduid als “team desinformatie’’. Dit team heeft narratieven 
+of thema’s onderzocht met als hoofdvraag: in hoeverre beïnvloedt des- en 
+70
+misinformatie in relatie tot COVID-19 de Nederlandse samenleving? Voorbeelden 
+van de narratieven in dit team zijn: 
+Naam narratief Omschrijving 
+5G  Volgens dit narratief zouden mensen door 
+5G straling vatbaarder zijn voor COVID-19 
+doordat het immuunsysteem aangetast zou 
+worden, of zelfs dat 5G-zenders het virus 
+verspreiden.  
+Anti-vaccinatie Het anti-vaccinatie narratief beweert dat het 
+coronavirus in laboratoria is gecreëerd en 
+doelmatig losgelaten zou zijn, onder meer 
+om microchips in te brengen om de 
+wereldbevolking te controleren. Tevens zou 
+dit virus ontworpen zijn om veel winst te 
+maken met de verkoop van verplichte 
+vaccins. 
+Rusland versus EU  Het narratief gaat over het actief 
+verspreiden van desinformatie door aan 
+Rusland gelieerde partijen met als doel om 
+maatschappelijke verdeeldheid te creëren 
+binnen de EU. In het narratief wordt 
+Nederland zelf niet direct als doelwit gezien, 
+maar kunnen Nederlandse belangen in het 
+buitenland wel geschaad worden door 
+desinformatie. Ook kan de eenheid binnen 
+de EU op den duur in gevaar komen. 
+Virus  Het narratief gaat over de invloed van 
+pseudowetenschappelijk onderzoek op de 
+publieke opinie over de getroffen 
+maatregelen tegen COVID-19. Onderzoeken 
+van traditionele onderzoeksinstituten 
+worden betwist door actiegroepen die zich 
+baseren op (eigen) pseudowetenschappelijk 
+onderzoek naar het virus. Het narratief 
+omvat alle mis/desinformatie die gebruikt 
+wordt als verzet tegen het huidige COVID-
+19 beleid. 
+Tabel 3: Narratieven 
+Bij de narratieven is gewerkt met een mate van waarschijnlijkheid in relatie tot de 
+gegeven duiding, conclusies of assessments. Hierbij is gebruik gemaakt van 
+onderstaande tabel waarin de mate van waarschijnlijkheid is toegelicht. 
+ 
+                                                
+70
+ Weekly update desinformatie, 21 juli 2020. 
+ 
+ 
+Pagina 43 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Nr.  Organisatie bron Data/Info  Type  Frequentie  
+1 KMAR CTER Today PDF Onregelmatig 
+2 NCTV Wekelijks PDF Wekelijks 
+maatschappelijk 
+beeld 
+(Dashboard)COVID-
+19 
+3 MIN VWS Dashboard SITE Dagelijks 
+4 CZSK DUB COMNLCARIB PPT Dagelijks 
+N2 
+5 EU Daily Covid MAIL Dagelijks 
+Headlines EU 
+6 Defensie/DCO Dagelijks MAIL Dagelijks 
+Nieuwsupdate 
+7 CLAS Dagelijks CUB TOC PDF Dagelijks  
+8 EU IPCR enquête + PDF Onregelmatig 
+ISAA rapportage 
+9 Instituut Fysieke Landelijk PDF / JPEG Wekelijks 
+Veiligheid operationele 
+COVID_19 monitor 
+10 Nationale Politie Corona Crime PDF Tweewekelijks 
+Change Monitor 
+11 CLAS Assessment WORD Wekelijks 
+indicatoren economie 
+12 CLAS Dagelijks Zip ZIP Dagelijks 
+13 KMAR Landelijk PDF Wekelijks 
+operationeel beeld 
+COVID-19 
+14 KMAR Overzicht PDF Wekelijks 
+grenspassages 
+(AMIGO BORAS) 
+15 CLAS Wekelijkse WORD / Wekelijks 
+voorspelling Corona PNG / PPT 
+patiënten op IC + 
+Appreciatie 
+16 EU CoronaVirusOutbreak PDF Dagelijks 
+Europe EEAS 
+17 RIVM COVID- PDF Wekelijks 
+19_WebSite_rapport 
+(Epidemiologische 
+situatie) 
+18 Instituut Fysieke Ale relevante PDF Dagelijks 
+Veiligheid rapporten in de 
+verschillende 
+domeinen  
+21 CLAS Duiding vanuit WORD Wekelijks 
+standpunt viroloog 
+22 Defensie/DCO Rapporten ivm PDF Onregelmatig 
+burgerlijke 
+gehoorzaamheid en 
+naleving 
+23 CLAS Grafieke EXCEL Wekelijks 
+berichtgeving 
+(Factoren en 
+narratieven) 
+ 
+ 
+Pagina 45 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+Tijdens interviews is aangegeven dat andere bijzondere persoonsgegevens niet zijn 
+verwerkt. Ook de enquête uitkomsten bevestigen dit. 
+Wel is vastgesteld dat het LIMC in het laatste kwartaal 2020 heeft verkend of 
+strafrechtelijke gegevens (zoals boetes en handhaving coronamaatregelen) 
+beschikbaar zouden zijn. 
+ 
+OSINT, (sociale) media- en sentimentanalyse 
+Het overzicht databronnen (tabel 5) bevat ook een wekelijkse OSINT (Open Source 
+Intelligence) rapportage. OSINT is het verzamelen van data en informatie uit open 
+en publiek beschikbare bronnen. Een OSINT rapportage bevat een overzicht en 
+analyse van bepaalde informatie uit voor een ieder toegankelijke bronnen. Deze 
+gegevens worden verzameld, geanalyseerd en op een begrijpelijke manier 
+gerapporteerd of gepubliceerd. Voor het analyseren van dergelijke informatie, is 
+gebruik gemaakt van tools waaronder Coosto. 
+In mei en juni zijn de technische mogelijkheden van de tools waaronder Meltwater 
+en Coosto en de juridische- en Avg aspecten met betrekking tot sentimentanalyses 
+verkend. In de zomer van 2020 is door één medewerker op een privé laptop gestart 
+met de sentimentanalyse, woordenwolk en een activiteitendiagram. Hierbij is 
+gebruik gemaakt van de tools Coosto en Meltwater met door Defensie verstrekte 
+licenties. Door de medewerker is aangegeven dat voornamelijk gebruik gemaakt is 
+van Coosto. Meltwater is na een korte verkenning niet verder gebruikt. 
+Coosto 
+Coosto is een bedrijf dat gespecialiseerd is in het scrapen van sociale 
+73
+mediaberichten van het internet. Uit een verkennend onderzoek van het CBS  blijkt 
+in 2019 dat Coosto in de praktijk vooral berichten van Twitter (tweets en retweets) 
+en in mindere mate Facebook, LinkedIn, Instagram, Pinterest, blogs en nieuws 
+betrekt.  
+ 
+74
+Citaten privacyverklaring Coosto : 
+‘(…)Coosto verzamelt data om openbare bronnen voor gebruikers doorzoekbaar te 
+maken. 
+Gebruikers bepalen zelf hoe en waarvoor ze de Coosto-software gebruiken. Ze 
+zijn daarbij wel gebonden aan Coosto’s gebruikersvoorwaarden.  
+Zo kunnen zij de webcare-module gebruiken om vragen over hun product of 
+dienst op social media te zoeken en deze te beantwoorden. Met social media 
+management & analyse kunnen bedrijven en organisaties bijvoorbeeld over een 
+langere termijn meten wat de effectiviteit is van hun marketingcampagnes of 
+trends in de markt detecteren om hierop in te kunnen spelen en hun merk te 
+versterken. Coosto wordt ook gebruikt voor statistische toepassingen door onder 
+andere onderwijs- en wetenschapsinstellingen, non-profitorganisaties, gemeenten 
+en studenten. Coosto’s publishingdienst helpt bedrijven bij het managen van hun 
+marketingcampagnes. Ze kunnen plannen wanneer informatie naar buiten wordt 
+gebracht en de reacties daarop meten. 
+                                                
+73
+ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiWnJKZn93uAhWI-
+6QKHd_jATsQFjACegQIAxAC&url=https%3A%2F%2Fwww.cbs.nl%2F-
+%2Fmedia%2F_pdf%2F2019%2F16%2Fgebruik-van-sociale-media.pdf&usg=AOvVaw2t-
+YUGtIQZLsaR68MExkFI. 
+74
+ https://www.coosto.com/nl/privacyverklaring, 9 maart 2020. 
+ 
+ 
+Pagina 47 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+Figuur 5: Facebookaccount 
+ 
+ 
+Figuur 6: Getoonde instellingen Coosto  
+Het door de medewerker opgeleverde product bestaat uit drie elementen: 
+- Een sentimentanalyse. Dit betreft een kwantitatief overzicht met media-artikelen 
+(alleen open bronnen) over een bepaald onderwerp. In de analyse wordt er 
+onderscheid gemaakt tussen negatief, positief en neutraal sentiment. Een 
+voorbeeld uit de praktijk betreft het onderwerp PCR Test. Hierbij is gebruik 
+gemaakt van de volgende zoekcriteria: PCR Test : (pcrtest | pcr-test | pcr) 
+((kort geding) | betrouwb*).  
+ 
+ 
+ 
+Pagina 49 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+77
+Figuur 9: Voorbeeld woordenwolk  
+- Een activiteitendiagram waarmee visueel de media-aandacht voor een 
+onderwerp kan worden weergegeven. 
+De conceptrapportage is daarna aangeboden aan de contactpersoon bij 
+JISTARC/109OSINT die voor verdere verspreiding in de analysecell ook nog een 
+check uitvoerde op afwezigheid van persoonsgegevens. 
+In de praktijk bleek de sentimentanalyse voor het LIMC niet bruikbaar. De informatie 
+bleek achteraf te beperkt om betrouwbare tellingen weer te geven.  
+Stap 3: Datavisualisatie 
+Het LIMC heeft de narratieven visueel en tekstueel toegelicht in de producten zoals 
+de Weekly’s. 
+Prominente publieke functies/Publieke figuren 
+In de producten zijn namen en functies van personen die een prominente publieke 
+78
+functie vervullen zoals ministers en staatshoofden niet gelakt. Dit geldt ook voor 
+namen en functies van publieke figuren. Het betreft personen die politieke of 
+maatschappelijke verantwoordelijkheid dragen, (andere) bekende Nederlanders, en 
+anderen die zich in het publieke debat mengden. 
+Namen en functies in bronvermeldingen 
+De bronvermelding verwijst naar de oorspronkelijke, openbaar toegankelijke 
+documenten of teksten. Behalve namen en functies van personen gaat dit ook om 
+informatie betreffende de sociale en maatschappelijke context. Bijvoorbeeld een 
+naam van een natuurlijke persoon wordt volgens een krantenartikel in verband 
+gebracht met bepaalde feiten, beweringen of meningen over het COVID-19 virus. 
+Na de start van het LIMC is voor de gehanteerde werkwijze expliciet aandacht 
+besteed aan het voorkomen van verwerking van persoonsgegevens. 
+Daarnaast is bij twijfel, in een latere fase, met regelmaat contact opgenomen met 
+juristen en Avg deskundigen. Op basis van verkregen advies hebben medewerkers 
+van het LIMC ten onrechte aangenomen dat verwerken van persoonsgegevens van 
+                                                
+77
+ Media & Webcarerapport nummer 12, november 2020. 
+78
+ Uitwerking van artikel 2 van het Uitvoeringsbesluit Wwft 2018, witwassen. Het is een lijst van prominente 
+publieke functies in de definitie van politiek prominente personen (Politically Exposed Persons, PEP) in 
+Nederland. 
+ 
+ 
+Pagina 51 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+In welke mate hebben deze persoonsgegevens betrekking? 
+Telling Column N % 
+(Onder een “publiek figuur” wordt verstaan: alle nooit 12 27,9% 
+personen die politieke of maatschappelijke 
+soms 5 11,6% 
+verantwoordelijkheid dragen, bekende 
+Nederlanders, en anderen die zich in het 
+noch soms, noch vaak 3 7,0% 
+publieke debat mengen)           
+vaak 5 11,6% 
+heel vaak 17 39,5% 
+weet ik niet/wil ik niet 1 2,3% 
+zeggen 
+Tabel 8: Publiek figuur 
+ 
+Hoe vaak kwam u in aanraking met artikelen waarin een naam vermeld 
+staat? 
+Telling Column N % 
+  nooit 6 14,0% 
+soms 9 20,9% 
+noch soms, noch vaak 6 14,0% 
+vaak 15 34,9% 
+heel vaak 6 14,0% 
+weet ik niet/wil ik niet 1 2,3% 
+zeggen 
+Tabel 9: Hoe vaak in aanraking met persoonsgegevens 
+Stap 4: Verstrekken van informatie 
+Drie perioden 
+Onderscheid wordt gemaakt in drie perioden: 
+- In de periode maart-mei 2020, zijn dagelijks zorggerelateerde rapportages 
+verstrekt.  
+- In de periode mei-augustus 2020, is het analyseteam gesplist. Team 1: 
+maatschappelijke ontwikkelingen/gevolgen COVID-19. Team 2: desinformatie in 
+relatie tot COVID-19. Wekelijks zijn rapportages verspreid aan een ruime 
+doelgroep. Zo heeft het LIMC informatieproducten geleverd aan onder andere: 
+Nationale Politie, ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 
+Nationaal Coördinator Terreurbestrijding en Veiligheid (NCTV), Landelijk 
+Operationeel Team Corona (LOT-C), Landelijk Operationeel Coördinatiecentrum 
+(LOCC), Actiecentrum Koninklijke Landmacht (ACKL) Territoriaal 
+Operatiecentrum (TOC) en Directeur Operaties (DOPS). De verzendlijst bestond 
+maximaal uit 94 geadresseerden, waarvan ongeveer de helft e-mailadressen 
+binnen het ministerie van Defensie en de helft overheidsinstanties buiten 
+Defensie waren.  
+- In de periode september–november 2020 is de verspreiding van LIMC 
+rapportages beperkt tot afnemers intern Defensie. Hiertoe is op 27 augustus 
+ 
+ 
+Pagina 53 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+3.5 Organisatorische en technische maatregelen 
+3.5.1 Organisatorische maatregelen  
+ 
+Het LIMC bestaat uit meerdere groepen die verschillende processtappen binnen het 
+primaire proces van het LIMC uitvoerden om via deelproducten te komen tot 
+eindproducten.  
+Geheimhoudingsverklaring 
+Alle medewerkers van Defensie hebben een verklaring omtrent de bekendheid met 
+de geheimhoudingsplicht ondertekend bij aanstelling of andere relatie met Defensie. 
+Dit is verplicht en eenmalig. De medewerkers van het LIMC hebben een separate 
+geheimhoudingsverklaring ondertekend. Dit is een aanvullende organisatorische 
+maatregel. 
+Beveiligingsbriefing 
+Medewerkers van Defensie zijn op verschillende manieren op de hoogte gebracht 
+van beveiliging & privacy. Daar waar organisatieonderdelen hiertoe specifieke 
+activiteiten ontplooien zoals een jaarlijkse briefing en rouleer procedures geldt dat 
+deze aanvullend zijn.  
+Bij het LIMC is gaandeweg een briefing ontwikkeld waarin aandacht wordt besteed 
+aan beveiliging en de Avg. Deze briefing is, naast de standaard briefings binnen 
+Defensie, gegeven aan het merendeel van de medewerkers die voor of bij het LIMC 
+hebben gewerkt.  
+Screening 
+Alle militairen en veel burgermedewerkers bij Defensie vervullen een 
+vertrouwensfunctie. Zij hebben voor hun aanstelling een veiligheidsonderzoek gehad 
+en beschikken over een Verklaring van Geen Bezwaar (VGB). Alle medewerkers die 
+betrokken zijn bij het LIMC beschikken over minimaal een Verklaring Omtrent 
+Gedrag (VoG) maar in de meeste gevallen over een Verklaring van Geen Bezwaar op 
+minimaal het niveau staatsgeheim CONFIDENTIEEL. Dit niveau overstijgt het niveau 
+van gemerkte informatie. Het onderzoeksteam heeft een gerichte steekproef 
+gehouden naar het beschikken over een juiste VoG of VGB. In alle gecontroleerde 
+gevallen was dit juist; daarmee blijkt deze organisatorische maatregel effectief. 
+De normen van het DBB met betrekking tot organisatorische maatregelen, zijn 
+nageleefd. 
+3.5.2 Technische maatregelen 
+ 
+Om te bepalen of wordt voldaan aan de technische norm maakt het onderzoeksteam 
+gebruik van het Input, Throughput en Output model. Daarbij staat bij Input het 
+verzamelen van informatie centraal, bij Throughput het analyseren en verwerken en 
+bij Output het eindproduct.  
+Tijdens het onderzoek is vastgesteld dat persoonsgegevens, zij het als bijvangst, 
+worden verwerkt in alle onderdelen van dit model. Per processtap is onderzocht of 
+gebruik wordt gemaakt van geaccrediteerde informatiesystemen. De resultaten zijn 
+in onderstaande tabel weergegeven: 
+ 
+ 
+ 
+ 
+Pagina 55 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Tenslotte geldt naast alle technische maatregelen die zijn getroffen binnen systemen 
+ook dat deze systemen, met uitzondering van de privé laptop, zijn gehuisvest op 
+defensieobjecten en daarbinnen in gesloten omgevingen. Deze gesloten omgevingen 
+zijn voorzien van toegangsbeheersing en indringer-detectiesystemen. 
+ 
+De normen van het DBB met betrekking tot technische maatregelen zijn 
+nageleefd met uitzondering van het gebruik van een privé laptop hier is de norm 
+niet aantoonbaar nageleefd. 
+ 
+ 
+Pagina 57 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+4. Het LIMC was en is geen organieke eenheid binnen het CLAS. Medewerkers zijn 
+dan ook niet geplaatst bij het LIMC maar voor korte of langere tijd vanuit 
+bestaande eenheden of organisaties gevraagd of aangewezen om activiteiten te 
+verrichten. 
+ 
+De logging, autorisatie en toegang tot systemen en gegevensbronnen is bij het 
+LIMC ingericht conform de stringente normen van het Defensiebeveiligingsbeleid 
+(DBB). 
+ 
+Informatieproducten van het LIMC zijn zowel binnen als buiten Defensie 
+verspreid. De verzendlijst bevat maximaal 94 geadresseerden, waarvan 
+ongeveer de ene helft e-mailadressen binnen het ministerie van Defensie en 
+andere helft overheidsinstanties buiten Defensie. Er was geen grondslag of taak 
+voor de nationale inzet van het LIMC ten behoeve van civiele autoriteiten. Er 
+was geen grondslag om producten van het LIMC die persoonsgegevens bevatten 
+te verstrekken aan personen of instanties binnen of buiten het ministerie van 
+Defensie.  
+ 
+5. Omdat persoonsgegevens werden verwerkt was een melding van deze 
+activiteiten in het Avg verwerkingenregister Defensie noodzakelijk. Deze melding 
+is niet gedaan. 
+ 
+6. De Avg-regelgeving schrijft voor dat ook bij een beleidsinitiatief, zoals het 
+concept Information Manoeuvre, voorafgaand aan de verwerking een DPIA 
+vereist is. Dit is niet gebeurd. 
+ 
+7. De normen van het DBB zijn nageleefd voor wat betreft organisatorische 
+maatregelen als geheimhoudingsverklaring, beveiligingsbriefing en screening. 
+Op het gebied van technische maatregelen is vastgesteld dat bij throughput en 
+output gebruik is gemaakt van geaccrediteerde informatiesystemen waarmee 
+ruimschoots is voldaan aan de norm. Voor input is vastgesteld dat naast 
+geaccrediteerde informatiesystemen gebruikgemaakt van een privé laptop met 
+beveiligingsmaatregelen die niet aantoonbaar voldoen aan de norm. 
+ 
+Eindconclusie 
+Het LIMC heeft COVID-19 gerelateerde maatschappelijke ontwikkelingen als 
+“fenomeen’’ in kaart gebracht om militaire en civiele besluitvorming te voeden met 
+inzicht en handelingsperspectief. Het LIMC had niet de intentie om (grootschalig) 
+persoonsgegevens te verwerken, maar is hierin niet volledig geslaagd. 
+Persoonsgegevens kwamen mee als ‘’bijvangst’’. 
+Voor deze verwerking bestond geen wettelijke grondslag en is niet voldaan aan de 
+verantwoordingsplicht waardoor de Avg onvoldoende is nageleefd.  
+ 
+ 
+Pagina 59 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+6. Versterk en professionaliseer de Avg organisatie 
+Versterk en professionaliseer de Avg organisatie en schenk daarbij in het 
+bijzonder aandacht aan de Avg coördinatiefunctie en aan de samenwerking met 
+de juridische en operationele lijn. Voorzie in een risicogerichte invulling van de 
+Avg-organisatie door bij eenheden zoals OOCL/JISTARC fysiek een Avg-
+coördinator onder te brengen. Geef in samenspraak met de FG invulling aan de 
+79
+functie van een Chief Privacy Officer (CPO) en positioneer deze binnen de 
+BS/DBE. 
+ 
+ 
+ 
+                                                
+79
+ Naar analogie van de motie van het lid Verhoeven c.s. over een chief privacy officer bij 
+uitvoeringsorganisaties. Kamerstukken II 2020/21, 27529 nr. 239 
+ 
+ 
+ 
+ 
+ 
+Pagina 61 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+ 
+ 
+Pagina 63 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+ 
+ 
+ 
+ 
+Pagina 65 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Werd er tijdens deze briefings 
+⃝  ⃝ ⃝  ⃝
+gesproken over de grondslag van 
+het optreden in het civiele en 
+digitale domein? 
+ 
+Had u de beschikking over 
+ ⃝ ⃝ ⃝ ⃝ 
+documenten over de Avg?  
+ 
+Had u de beschikking over een 
+ ⃝ ⃝ ⃝ ⃝ 
+taakomschrijving? 
+ 
+ 
+ nooit soms noch vaak heel wil ik 
+soms, vaak niet 
+noch zeggen 
+vaak 
+Heeft u kennis genomen ⃝ ⃝ ⃝ ⃝  ⃝ ⃝
+van de informatiebeveiliging 
+zoals deze is vastgelegd in 
+het Defensie 
+beveiligingsbeleid (DBB)? 
+ 
+Werd er overlegd over uw 
+⃝  ⃝ ⃝  ⃝ ⃝ ⃝ 
+taken en de uitvoering van 
+deze taken? 
+ 
+ 
+Onder een "persoonsgegeven" wordt verstaan: alle informatie over een 
+geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent, dat informatie 
+ofwel direct over iemand gaat ofwel naar deze persoon te herleiden is (artikel 4 
+onder 1 Avg). 
+ 
+ 
+5. Hoe vaak bent u voor uw werkzaamheden voor het LIMC in 
+aanraking gekomen met persoonsgegevens? 
+a. nooit   naar vraag 12  
+b. soms 
+c. noch soms, noch vaak 
+d. vaak  
+e. heel vaak 
+f. wil ik niet zeggen 
+ 
+Onder een “publiek figuur” wordt verstaan: alle personen die politieke of 
+maatschappelijke verantwoordelijkheid dragen, bekende Nederlanders, en anderen 
+die zich in het publieke debat mengen. 
+ 
+ 
+ 
+Pagina 67 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Bijzondere persoonsgegevens: 
+a. religieuze of levensbeschouwelijke overtuigingen 
+b. ras/etnische afkomst (denk ook aan pasfoto) 
+c. politieke opvattingen 
+d. gezondheid 
+e. seksueel gedrag/gerichtheid 
+f.  lidmaatschap van een vakbond (denk ook aan contributie) 
+g. strafrechtelijke veroordelingen en strafbare feiten 
+h. genetische gegevens (bijv. DNA) 
+i.  biometrische gegevens (bijv. vingerafdruk) 
+j.  burgerservicenummer (BSN) 
+k. anders, namelijk … 
+ 
+Strafrechtelijke gegevens: 
+- Het betreft veroordelingen en verdenkingen van strafbare feiten. 
+- weet ik niet / wil ik niet zeggen 
+  open tekstvak  
+ 
+8. Heeft u naast de bedrijfspagina’s/groepen op Facebook ook andere 
+pagina’s op Facebook of andere sociale media geraadpleegd? 
+ja/nee/wil ik niet zeggen  
+ 
+Zo ja, welke waren dit? 
+a. Twitter 
+b. Instagram 
+c. Whatsapp 
+e. LinkedIn 
+f. Persoonlijke Facebook 
+g. Messenger 
+h. anders, namelijk … 
+ 
+9. Op welke manier kwam u in aanraking met persoonsgegevens en 
+waartoe gebruikte u de deze gegevens? (meerdere antwoorden 
+mogelijk) 
+a. raadplegen 
+b. opvragen 
+c. verzamelen 
+d. opslaan 
+e. ordenen / structureren 
+f. analyseren en verwerken 
+g. bestanden samenvoegen 
+h. anonimiseren 
+i. verwijderen/wissen 
+j. verstrekken  
+k. doorzending/verspreiding intern defensie 
+l. doorzending/verspreiding extern defensie 
+m. wil ik niet zeggen 
+ 
+  
+ 
+ 
+Pagina 69 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Bijlage III: Organogram Defensie, Koninklijke Landmacht, 
+OOCL 
+ 
+80
+Figuur 12: Schematische weergave hoofdstructuur Defensie 
+                                                
+80
+ Besturen bij Defensie, 9 februari 2021. 
+ 
+ 
+Pagina 71 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Bijlage IV: Analyseresultaten rapportages LIMC  
+De ontvangen output-rapportages van het LIMC die zijn verspreid in de periode 23 
+maart 2020 tot en met 27 november 2020 zijn geanalyseerd op de verwerking van 
+persoonsgegevens. De analyse was gericht op vermelding (de verwerking) van 
+(bijzondere) persoonsgegevens.  
+Conclusie  
+Op basis van aangetroffen persoonsgegevens in de output-rapportages is er geen 
+aanwijzing dat er sprake is geweest van een grootschalige en gerichte verwerking 
+van (bijzondere) persoonsgegevens. Uit rapportanalyse blijkt dat namen en functies, 
+van met name publieke personen, voorkomen. Deze zijn afkomstig uit openbare 
+nieuwsbronnen en bronvermeldingen. De gebruikte persoonsgegevens zijn 
+voornamelijk verbonden aan een bepaald narratief, zoals ‘Virusnarratief’ of 
+‘Vaccinatienarratief’. Aan deze narratieven zijn bepaalde personen (namen/functies) 
+verbonden, die door het LIMC genoemd zijn in de rapportages. Daarbij ging het om 
+de ontwikkeling van het narratief. 
+De rapportages van het LIMC laten in de periode van maart/mei tot en met 
+november 2020 een ontwikkeling zien. Van dagelijkse rapporten over de statistische 
+ontwikkelingen rondom COVID-19 en de ontwikkelingen rond bepaalde ‘narratieven’ 
+in de media, naar het produceren van wekelijkse rapportages over de statistische 
+ontwikkelingen van de COVID-19 pandemie en narratieven over desinformatie 
+rondom COVID-19, welke speelden in de samenleving en in de media. 
+Beide typen rapportages zijn onderzocht op de verwerking van persoonsgegevens. 
+Onderzochte rapportages op persoonsgegevens 
+In totaal heeft het onderzoeksteam 80 rapportages geanalyseerd op de verwerking 
+van (bijzondere) persoonsgegevens.  
+In 34 rapportages zijn persoonsgegevens verwerkt. Deze informatie is deels direct 
+herleidbaar tot een natuurlijk persoon op basis van een persoonsnaam en deels 
+indirect herleidbaar bijvoorbeeld op basis van functieaanduiding.  
+De bronvermeldingen betreft persoonsgegevens die in oorspronkelijke, openbaar 
+toegankelijke documenten of teksten, zijn gebruikt, waarnaar het LIMC een 
+verwijzing (vermelding) doet. Behalve de namen of functies van de personen gaat 
+dit ook om informatie betreffende de sociale en maatschappelijke context. 
+Bijvoorbeeld een naam van een natuurlijke persoon wordt volgens een 
+krantenartikel in verband gebracht met bepaalde feiten, beweringen of meningen 
+over het COVID-19 virus. 
+In onderstaande tabel staat vermeld in hoeveel rapporten persoonsgegevens van 
+een betrokkene voorkomen en of een naam/functie in de inhoud of in de 
+bronvermelding voorkomt. 
+ 
+ 
+ 
+ 
+ 
+ 
+Pagina 73 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+Betrokkenen Aantal rapporten In inhoud van rapport  In bronvermelding van 
+waarin betrokkene rapport 
+voorkomt 
+betrokkene 41 1 Ja   
+betrokkene 42 1   Ja 
+betrokkene 43 1   Ja 
+betrokkene 44 1   Ja 
+betrokkene 45 1   Ja 
+betrokkene 46 1 Ja   
+betrokkene 47 1 Ja   
+betrokkene 48 1   Ja 
+betrokkene 49 1   Ja 
+betrokkene 50 1   Ja 
+Tabel 11: Detailanalyse rapporten 
+ 
+ 
+ 
+ 
+Pagina 75 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+voor zover het gaat om het doel van de verwerking en de wezenlijke aspecten van 
+86
+de middelen voor de verwerking.  
+Gepseudonimiseerde en geanonimiseerde gegevens 
+ 
+De Artikel 29-Werkgroep (inmiddels opgegaan in: de European Data Protection 
+Board (“EDPB”)) – waarin de Europese privacytoezichthouders zijn verenigd – geeft 
+in haar richtlijnen en adviezen aan dat pas gesproken kan worden van ‘anonieme 
+gegevens’ indien iedere mogelijkheid tot identificatie van de betrokkene 
+87
+onherroepelijk is uitgesloten. Daarbij neemt de Artikel 29-Werkgroep tot 
+uitgangspunt dat herleidbaarheid, koppelbaarheid en deduceerbaarheid onmogelijk 
+88
+moet zijn. Onvoldoende in dat verband is het wissen van namen of het vervangen 
+van dergelijke gegevens met willekeurige andere gegevens.    
+ 
+Zelfs de geavanceerde versleuteling en/of hashing van persoonsgegevens is in dat 
+kader, volgens de Europese privacytoezichthouders veelal onvoldoende en dient te 
+worden gezien als een manier om persoonsgegevens te pseudonimiseren, zoals 
+89
+bedoeld in artikel 4, onder 5, Avg en geldt dus als een beveiligingsmaatregel. 
+Reden daarvoor is volgens de Artikel 29-Werkgroep dat – anders dan bij 
+anonimisering, waarbij elke mogelijkheid tot identificatie onomkeerbaar wordt 
+uitgesloten – bij pseudonimisering de kans op identificatie blijft bestaan. De inzet 
+van pseudonimisering heeft enkel tot gevolg dat de koppelbaarheid van een dataset 
+aan de oorspronkelijke dataset wordt beperkt. Degene die versleuteling en/of 
+hashing heeft toegepast, houdt echter de beschikking over de encryptiesleutel en/of 
+de oorspronkelijke gegevens. Gepseudonimiseerde persoonsgegevens vallen 
+90
+daarmee onverkort onder de reikwijdte van de Avg. 
+Hergebruik persoonsgegevens gepubliceerd op internet 
+ 
+Het voorgaande is ook van betekenis voor het hergebruik van persoonsgegevens die 
+zijn gepubliceerd op het internet. Deze gegevens zijn immers voor bepaalde 
+doeleinden openbaar gemaakt en kunnen niet zomaar worden hergebruikt.  
+91
+Zo overweegt de Autoriteit Persoonsgegevens het volgende op haar website over 
+hergebruik van op het internet gepubliceerde gegevens: 
+“Veel mensen gebruiken gegevens van andere websites voor een eigen publicatie op 
+internet. Bijvoorbeeld foto’s waar mensen herkenbaar op staan of adressen. Dat 
+deze gegevens al op internet staan, betekent echter niet dat iemand ze zomaar 
+                                                
+86
+ Zie Artikel 29-Werkgroep, ‘Advies 1/2010 over de begrippen “voor de verwerking verantwoordelijke” en  
+ “verwerker”’, 16 februari 2010, p. 29.  
+87
+ In deze groep waren (tot en met 25 mei 2018) de Europese privacytoezichthouders verenigd. De groep 
+bracht onder meer adviezen uit over de interpretatie van begrippen in de Privacyrichtlijn (Richtlijn 95/46/EG) 
+en de Wbp. De opinies van deze groep waren en zijn nog steeds zeer gezaghebbend. Sinds 25 mei 2018 heeft 
+de EDPB de taken van de Artikel 29-Werkgroep overgenomen. De eerdere adviezen van de Artikel 29-
+Werkgroep zijn door de EDPB bekrachtigd.  
+88
+ Zie Artikel 29-Werkgroep, ‘Advies 5/2014 over anonimiseringstechnieken’, WP 216, p. 24. 
+89
+ Zie Artikel 29-Werkgroep, ‘Advies 5/2014 over anonimiseringstechnieken’, WP 216, p. 1. Zie ook artikel 32, 
+eerste lid, aanhef en onder a, Avg.  
+90
+ Zie verder overweging 26 en 28 van de considerans van de Avg. 
+91
+ Zie: https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post/persoonsgegevens-
+op-internet.  
+ 
+ 
+Pagina 77 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+ 
+“Uit Nederlandse rechtspraak volgt dat in het kader van nationaliteit ook belang 
+toekomt aan de overige verwerkte persoonsgegevens. Indien nationaliteit wordt 
+verwerkt in combinatie met bijvoorbeeld geboorteland, geboorteplaats, herkomst 
+en/of pasfoto wordt in rechtspraak aangenomen dat er wel sprake is van gegevens 
+98
+waaruit het ras of de etnische afkomst blijkt. Aanvullend kan de context van de 
+verwerking er in bepaalde gevallen toe leiden dat nationaliteit op zichzelf toch 
+aangemerkt kan worden als bijzonder persoonsgegeven. De AP beschouwt 
+nationaliteit als bijzonder persoonsgegeven wanneer de verwerking tot doel heeft 
+om onderscheid te maken naar ras of etnische afkomst, of indien het voor de 
+verwerkingsverantwoordelijke redelijkerwijs voorzienbaar is dat de verwerking tot 
+het maken van onderscheid naar ras of etnische afkomst zal leiden.” 
+ 
+De Autoriteit Persoonsgegevens verwijst in dat verband naar Kamerstukken II 
+1997/98, 25 892, nr. 3, p. 106:  
+“Indien een school bij voorbeeld met het oog op de identificatie van de leerlingen 
+van hen allen de geboorteplaats in de administratie opneemt, vloeit uit deze 
+verwerking, indien het gaat om de geboorteplaats in het buitenland, niet 
+rechtstreeks een gevoelig gegeven voort. De verwerking heeft niet plaats gevonden 
+met het doel om de mogelijk andere etnische herkomst van de leerlingen te 
+registreren. Dit laat de mogelijkheid open dat dergelijke gegevens, mogelijk door 
+vergelijking met andere gegevens, alsnog worden gebruikt om gegevens omtrent 
+ras te herleiden.” 
+Gegevens over gezondheid 
+ 
+In het kader van de beoordeling van de activiteiten binnen het LIMC komt vooral 
+betekenis toe aan de bijzondere categorie gezondheid, levensovertuiging en 
+99
+politieke gezindheid. Het begrip gezondheidsgegevens wordt ruim uitgelegd. Zo 
+kan volgens de EDPB informatie wegens het gebruik ervan in een specifieke context, 
+waaronder bijvoorbeeld een recente reis of verblijf in een door COVID-19 getroffen 
+regio die bij het stellen van een diagnosis is verwerkt door een zorgverlener, of 
+informatie uit een op zelfcontrole gebaseerde vragenlijst, waarbij betrokkenen 
+vragen over hun gezondheid beantwoorden, reeds kwalificeren als gegevens over 
+100
+gezondheid. 
+Politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen 
+ 
+De begrippen levensovertuiging en politieke gezindheid, dienen uitgelegd te worden 
+overeenkomstig artikel 1 Grondwet en de Algemene wet gelijke behandeling. Het 
+begrip politieke gezindheid duidt op een gemeenschappelijke opvatting omtrent de 
+bestuurlijke en sociale inrichting van de samenleving en het begrip 
+                                                
+https://www.autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/onderzoek_belastingdienst_kinderop
+vangtoeslag.pdf), p. 35 en 36. 
+98
+ Zie bijvoorbeeld HR 13 juni 2000, ECLI:NL:HR:2000:AA6191. 
+99
+ Zie bijvoorbeeld HvJ EU van 6 november 2003, ECLI:EU:C:2003:596, C-101/01 (Lindqvist), par. 50. 
+100
+ Zie EDPB, ‘Richtsnoeren 3/2020 inzake de verwerking van gezondheidsgegevens voor wetenschappelijk 
+onderzoek in het kader van de COVID-19-uitbraak’, 21 april 2020 (raadpleegbaar via: 
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202003_healthdatascientificresearchcovid
+19_nl.pdf), p. 5. 
+ 
+ 
+Pagina 79 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+betrekking op de verwerking van persoonsgegevens gericht op de vaststelling van 
+106
+mogelijk strafbaar gedrag, bij voorbeeld door het volgen van trends.” 
+Uit de rechtspraak kan verder worden opgemaakt wat onder deze strafrechtelijke 
+gegevens moeten worden verstaan. Het moet gaan om: 
+“zodanige concrete feiten en omstandigheden dat zij een als strafbaar feit te 
+kwalificeren bewezenverklaring […] kunnen dragen en […] of de vastgestelde 
+gedragingen een zwaardere verdenking dan een redelijk vermoeden van schuld 
+[oplevert], in die zin dat de te verwerken strafrechtelijke persoonsgegevens[, dient] 
+in voldoende mate moeten vaststaan.” (tekst tussen blokhaken toegevoegd) 
+107
+Vgl. Hoge Raad 29 mei 2009, ECLI:NL:HR:2009:BH4720, rov. 4.4. 
+Onder verwijzing naar voornoemde parlementaire geschiedenis en rechtspraak komt 
+108
+de rechtbank Amsterdam in haar uitspraak van 22 maart 2018 tot de 
+gevolgtrekking dat er niet snel mag worden aangenomen dat verwerkte gegevens 
+strafrechtelijke persoonsgegevens (en persoonsgegevens van strafrechtelijke aard) 
+zijn. Een beschuldiging is volgens de rechtbank Amsterdam onvoldoende, er moet 
+sprake zijn ‘concrete, voldoende zwaarwegende aanwijzingen’ van strafbaar gedrag. 
+Zie Rechtbank Amsterdam 22 maart 2018, ECLI:NL:2018:3357, rov. 4.4-4.5: 
+“Niet voldoende is dat de betrokkene wordt beschuldigd van strafbaar gedrag. De 
+wetsgeschiedenis en jurisprudentie [..] bieden voldoende aanwijzingen dat het moet 
+gaan om bewezen feiten, of gegronde verdenkingen, dus verdenkingen die zijn 
+onderbouwd met concrete, voldoende zwaarwegende aanwijzingen dat een bepaald 
+persoon zich aan strafbaar gedrag heeft schuldig gemaakt.” 
+Het is niet helemaal duidelijk wat er moet worden volstaan onder de in artikel 10 V 
+en artikel 1 UAvg ook nog genoemde ‘daarmee verband houdende 
+veiligheidsmaatregelen’ (in het Engels ‘related security measures’). Aannemelijk is 
+echter dat het hier gaat om maatregelen die door een strafrechter, of ten minste in 
+het kader van een strafrechtelijke veroordeling, worden opgelegd, zoals een TBS-
+maatregel. 
+ 
+                                                
+106
+ Zie Kamerstukken II 1997/98, 25 892, nr. 3, p. 102 en 118. 
+107
+ Zie meer recent Gerechtshof Arnhem-Leeuwarden 28 maart 2020, ECLI:NL:GHARL:2020:3374, rov. 5.26 
+en 5.27. 
+108
+ Rechtbank Amsterdam 22 maart 2018, ECLI:NL:2018:3357. 
+ 
+ 
+Pagina 81 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+- D/201-140  Gemerkte informatie kan bij kennisname door niet-gerechtigden 
+leiden tot schade aan de belangen van een natuurlijke- of rechtspersoon.  
+- D/201-260  Gerubriceerde en/of gemerkte magnetische harde schijven en Solid 
+State Drives (SSD) die voor hergebruik of afstoting zijn bestemd, moeten 
+worden geschoond door toepassing van het gecertificeerde wisprogramma 
+Blanco Data Cleaner waarbij in de “Modellenatlas” de actuele versie is genoemd. 
+De juiste wijze van gebruik is beschreven in inzetadviezen  
+- D/201-430  Gerubriceerde en/of gemerkte informatie wordt na gebruik in een 
+daartoe aangewezen medium opgeborgen. 
+- D/201-460  Het opslaan of verwerken van gerubriceerde en/of gemerkte 
+informatie mag alleen op geaccrediteerde informatiesystemen. 
+- D/201-470  Het opslaan of verwerken van gerubriceerde en/of gemerkte 
+informatie op een harddisk van een laptop geschiedt te allen tijde met 
+gebruikmaking van een door Defensie goedgekeurd vercijferproduct per 
+rubriceringsniveau. De op deze manieren vercijferde informatie kan alleen dan 
+als ONGERUBRICEERD worden behandeld.  
+Alleen ongerubriceerde EN ongemerkte informatie mag op een privé ICT middel 
+worden opgeslagen, mits aan de volgende norm wordt voldaan. 
+- Norm  
+D/201-420  Nationaal ongerubriceerde en ongemerkte informatie mag eventueel 
+op privé IT-middelen worden opgeslagen en verwerkt als aan de volgende eisen 
+wordt voldaan:  
+o de privé IT-middelen dienen aan minimale beveiligingseisen te voldoen, 
+zoals toegangswachtwoord, actuele virusscanner en firewall;  
+o kennisname door niet gerechtigden dient te worden voorkomen;  
+o alleen een door Defensie goedgekeurde USB-stick mag worden gebruikt; 
+Na gebruik dient de betreffende informatie zo spoedig mogelijk van het privé ICT-
+middel te worden verwijderd. 
+ 
+ 
+ 
+Pagina 83 van 85 
+ 
+ 
+
+ 
+ 
+Definitief | Onderzoeksrapport | 31-3-2021 
+- Ministerie van Defensie (2020, 3 november). 20200311_DV_STAFCLAS-
+DTenO_Operatieorder-2020-710. Utrecht: Staf Clas/Directie Training en 
+Operaties  
+- Ministerie van Defensie (2020, 8 juni). CD-E voortgangsverslag LIMC 200608. ’t 
+Harde: LIMC. Experimenten LIMC: Thema’s, Activiteiten en Experimenten om 
+Relevant en Dominant te zijn in het Informatiedomein 
+- Ministerie van Defensie (2020, april). FRAGO 004 (LAND INFORMATION 
+MANOEUVRE CENTRED BI3 OPERATIEBEVEL NR 2020-039 (RESILIENCE CQVID-
+191. Apeldoorn: C-OOCL. Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, februari). OPERATIEBEVEL NR 2020-25 (COVID-
+19). Apeldoorn. C-OOCL. Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, juni). FRAGO 011 (VOORTZETTING LIMC) BIJ 
+OPERATIEBEVEL NR 2020-039 (RESILIENCE COVID-19). Apeldoorn: C-OOCL. 
+Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, maart). FRAGO 001 BIJ OPERATIEBEVEL NR 
+2020-025 (COVID-19). Apeldoorn: C-OOCL. Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, maart). OPERATIEBEVEL NO. 2020-001 (COVID-
+19) 
+’t Harde: C-JISTARC. Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, mei). FRAGO 009 (VULLING LIMC) BIJ 
+OPERATIEBEVEL NR 2020-039 (RESILIENCE COVID-19). Apeldoorn: C-OOCL. 
+Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2020, november). 20201123-DV-LIMC_ 
+mediaenwebcarerapportage_aanpak opdrachten: Media & Webcare RAPPORT 
+001. LIMC. Departementaal Vertrouwelijk 
+- Ministerie van Defensie (2021, 21 januari). 20210121 Commandanten 
+appreciatie LIMC. Utrecht: Staf Clas/Kabinet 
+- Ministerie van Defensie (2021, 4 februari). Juridische appreciatie activiteiten 
+LIMC. Den Haag: DJZ. BS2021002327 
+- Ministerie van Justitie en Veiligheid (2018, april). Big Data verantwoord 
+voorwaarts!. Den Haag: Directie Informatisering & Inkoop 
+- NRC Handelsblad, (2020, 16, 17, 23 november, 4 december), diverse artikelen   
+- Programma aanpak cybercrime (2012, 19 november). Web Voyager en wet- en 
+regelgeving. Deelproject wet- en regelgeving 
+- Volkskrant, (2020, 17, 18 november), diverse artikelen 
+- Wetenschappelijke Raad voor Regeringsbeleid (2016, 14 april). WRR-rapportage 
+nr. 95: Big Data in een vrije en veilige samenleving. Den Haag 
+ 
+ 
+ 
+Pagina 85 van 85 
+ 
+ 
+
