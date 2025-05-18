@@ -10272,3 +10272,206 @@ Exception calling "GetTextFromPage" with "2" argument(s): "Unexpected color spac
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\01\onderzoekskader-2017-voor-het-toezicht-op-het-middelbaar-beroepsonderwijs ]> Onderzoekskadermboenmbobesjuli2018staatscourant.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\04 ]> rivm-rapport-bewust-omgaan-met-veiligheid-doelen-en-effect-maten-in-het-risico-en-veiligheidsbeleid.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 51; BatchedItems: 100]...[0m
+[main 8d50df8d] Added batch #51 of policy-docs (total: 100
+ 101 files changed, 153475 insertions(+)
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/12/stand-van-zaken-acties-en-activiteiten-rijksoverheid-eind-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/17/jaarrapportage-bedrijfsvoering-rijk-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/18/haalbaarheid-van-stemprinter-en-stemmenteller.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/19/als-je-het-ons-vraagt.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/19/kinderrechtenmonitor-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/19/reactie-op-rapporten-van-kinderombudsman.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/23/tk-bijlage-fiu-jaaroverzicht-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/24/beleidsdoorlichting-artikel-4.2-vws.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/26/dekkingsgraadoverzicht-pensioenfonds-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/01/evaluatie-wet-kinderombudsman.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/01/selectie-en-plaatsing-bij-numerusfixusopleidingen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/06/regeldrukscan-schiphol.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/07/rapportage-waarnemingsmissie-ovse-over-de-tweede-kamerverkiezing-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/07/rivm-centrum-infectieziekte-bestrijding-strategie-2016-2021.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/07/tk-bijlage-antwoorden-schriftelijke-kamervragen-verantwoording-venj-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/09/mededeling-vernieuwde-impuls-voor-het-afrika-eu-partnerschap.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/14/tk-bijlage-jaarbericht-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/06/20/beleidsdoorlichting-artikel-2.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/03/tk-bijlage-raad-voor-de-rechtshandhaving.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/06/ilt-brede-risicoanalyse-ibra.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/06/rapport-uitvoeringstoets-uitbreiding-neonatale-hielprikscreening.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/17093628-bijlage-2.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/17093628-bijlage-3.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/bijlage-1-17093628.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/onderzoek-naar-prijzen-in-caribisch-nederland-deel-i.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/onderzoek-naar-prijzen-in-caribisch-nederland-deel-ii.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/07/13/onderzoek-naar-prijzen-in-caribisch-nederland-deel-iii.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/18/de-kwaliteit-van-de-uitvoering-van-de-civiele-taken-door-de-voogdijraad-caribisch-nederland-op-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/18/de-kwaliteit-van-de-zorg-door-jeugdzorg-en-gezinsvoogdij-caribisch-nederland-hertoets-op-bonaire-en-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/19/personeelsrapportage-eerste-helft-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/19/uitvoeringstoets-overige-fiscale-maatregelen-2018/Bijlage OFM 2018 - Uitvoeringstoetsen.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/20/materieel-projectenoverzicht-defensie-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/20/tk-bijlage-verkenning-doelrealisatie-communicatiemiddelen-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/09/27/vaccinatie-tegen-rotavirus.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/10/02/bijlage-3-eindrapport-onderzoek-handboek-beveiliging-belastingdienst.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/10/02/halfjaarrapportage-college-financieel-toezicht-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/10/09/tk-bijlage-cahier-2017-12-criminaliteit-en-rechtshandhaving-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/10/10/analyse-economische-en-budgettaire-effecten-van-de-financiele-bijlage-van-het-regeerakkoord/cpb-analyse-economische-en-budgettaire-effecten-regeerakkoord.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/01/addendum-bij-rapport-van-de-commissie-van-advies-en-bijstand-igr-samenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/01/beleidsdoorlichting-artikel-1-begroting-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/01/beleidsdoorlichting-artikel-1-van-het-begrotingshoofdstuk-iv-koninkrijksrelaties-de-waarborgfunctie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/01/de-financiele-staat-van-het-onderwijs-2016.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/16/tk-bijlage-1-evaluatie-politiewet-2012-doorontwikkelen-en-verbeteren.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/21/vws-verzekerdenmonitor-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/28/staat-van-de-natuur-van-caribisch-nederland-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/11/28/tk-bijlage-schietincident-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/04/tk-bijlage-raad-voor-de-rechtshandhaving-mbt-rapport-vreemdelingenbeleid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/05/tk-nota-naar-aanleiding-van-het-verslag-wetsvoorstel-risicovluchten.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/08/tk-memorie-van-toelichting-uitvoeringswet-algemene-verordening-gegevensbescherming-051217-aanpassing.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/12/evaluatie-door-college-vijf-jaar-college-voor-de-rechten-van-de-mens.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2017/12/22/decisio-beleidsdoorlichting-artikel-17-luchtvaart.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/01/02/beleidsdoorlichting-nationale-veiligheid.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/01/17/gezond-vertrouwen-jaarrapportage-2016-van-de-wet-afbreking-zwangerschap/jaarrapportage-2016-van-de-wet-afbreking-zwangerschap.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/01/18/bijlage-1-aanbevelingen-actal.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/01/24/tk-bijlage-jaarplanning-jenv-2018.raw.txt
+ create mode 100644 "policy-documents/Archive/rapporten/2018/02/05/bijlagen-bij-het-rapport-\342\200\230nabijheid-of-distantie-een-wereld-van-verschil\342\200\231.raw.txt"
+ create mode 100644 "policy-documents/Archive/rapporten/2018/02/05/rapport-\342\200\230nabijheid-of-distantie-een-wereld-van-verschil\342\200\231.raw.txt"
+ create mode 100644 policy-documents/Archive/rapporten/2018/02/09/tk-bijlage-rapport-buitengewoon-agenten-van-politie-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/02/13/tk-bijlage-nota-nav-uitvoeringswet-algemene-verordening-gegevensbescherming.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/02/22/bijlage-met-tijdlijn-bij-kamerbrief-meerjarenagenda-slachtofferbeleid-2018-2021/tk-bijlage-tijdslijn-meerjarenagenda.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/02/22/rapport-werkprogramma-maritieme-strategie-en-zeehavens.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/02/22/tk-bijlage-tijdslijn-meerjarenagenda.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/07/doorstroom-van-praktijkonderwijs-naar-mbo.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/07/tk-bijlage-monitor-jeugdcriminaliteit-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/26/defensienota-2018-investeren-in-onze-mensen-slagkracht-en-zichtbaarheid.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/27/verbeterde-defensienota-2018-investeren-in-onze-mensen-slagkracht-en-zichtbaarheid.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/29/tk-bijlage-gezamenlijke-koninkrijksreactie-evaluatie-justitiele-rijkswetten.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/01/jaarbeeld-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/04/uitvoeren-met-ambitie-uitvoeringsprogramma-2018-2019-nationale-klimaatadaptatiestrategie-nas.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/09/tk-bijlage-jaarbericht-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/10/tk-memorie-van-toelichting-identificatie-houders-aandelen-aan-toonder.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/10/tk-memorie-van-toelichting-rvs-identificatie-houders-aandelen-aan-toonder-versie-rvs.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/16/tk-bijlage-beleidsdoorlichting-nationale-veiligheid-en-terrorismebestrijding.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/16/tk-mvt-aanpassingswet-avg-versie-rvs.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/16/tk-mvt-aanpassingswet-avg.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/20/tk-bijlage-inrichting-van-de-repressieve-brandweerzorg.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/04/25/bijlage-2-seo-2018-monitor-netwerkkwaliteit-en-staatgaranties.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/01/jaarrapportage-bedrijfsvoering-rijk-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/01/tweede-nederlandse-sdg-rapportage-nederland-ontwikkelt-duurzaam.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/01/tweede-nederlandse-sdg-rapportage-nederland-ontwikkelt-duurzaam/rapportage.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/02/personeelsrapportage-defensie-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/17/onderzoeksverantwoording-onderzoek-aard-en-omvang-ouderenmishandeling.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/17/rapportage-burgerbrieven-vws-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/22/tk-bijlage-aanbieding-jaaroverzicht-fiu-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/23/ek-bijlage-1-overzicht-rappelabele-toezeggingen-justitie-en-veiligheid-maart-2018.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/28/mensenrechtenrapportage-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/05/30/tk-bijlage-lijst-van-vragen-vaststelling-van-de-begrotingsstaten-en-koninkrijksrelaties-en-het-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/18/tk-advies-gemeenschappelijk-hof-van-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/18/tk-advies-nader-p-g.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/18/tk-advies-rvs-wetsvoorstel-bob-in-bes.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/18/tk-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/18/tk-rvs-memorie-van-toelichting-bob-bes-rvs.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/25/tk-bijlage-antwoorden-op-schriftelijke-kamervragen-inzake-eerste-suppletoire-begroting-2018-van-justitie-en-veiligheid.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/25/vaccinatiegraad-en-jaarverslag-rijksvaccinatieprogramma-nederland-2017.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/27/tk-bijlage-onderzoek-naar-het-systeem-van-de-rampenbestrijding-op-de-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/29/eindrapport-sociaal-minimum-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/06/29/nationaal-sportakkoord-sport-verenigt-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/01/onderzoekskader-2017-voor-het-toezicht-op-het-middelbaar-beroepsonderwijs/Onderzoekskadermboenmbobesjuli2018staatscourant.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/01/onderzoekskader-2017-voor-het-toezicht-op-het-voortgezet-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/04/rivm-rapport-bewust-omgaan-met-veiligheid-doelen-en-effect-maten-in-het-risico-en-veiligheidsbeleid.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\04 ]> zbo-evaluatie-eindrapport-evaluatie-college-rechten-van-de-mens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\10 ]> verslag-bezoek-minister-president-en-minister-voor-buitenlandse-handel-en-ontwikkelingssamenwerking-aan-vs-op-2-759D9E9F.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\12 ]> initiele-rapportage-over-de-implementatie-door-nederland-van-het-vn-verdrag-inzake-de-rechten-van-personen-met--A07117C5.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\13 ]> hallfjaarrapportage-college-financieel-toezicht-bonaire-sint-eustatius-en-saba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\13 ]> richtlijn-eu-emergency-travel-document.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\17 ]> tk-bijlage-evaluatie-wet-wederzijdse-erkenning-en-tenuitvoerlegging-vrijheidsbenemende-en-voorwaardelijke-sancties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\07\18 ]> tk-georganiseerde-criminaliteit-en-ict.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\08\28 ]> tk-bijlage-kustwacht.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\08\28 ]> tk-slachtofferhulp-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\01 ]> rapportage-over-het-de-uitvoering-van-het-verdrag-van-istanbul-voorkomen-en-bestrijden-van-geweld-tegen-vrouwen-E33867A5.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\03 ]> bijlage-1-deel-1-voetnoten-20-tot-en-met-105b.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\13 ]> advies-raad-van-state-wet-schadefonds-geweldsmidrijven.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\13 ]> mvt-nader-rapport-wijziging-van-de-wet-schadefonds-geweldsmisdrijven.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\13 ]> rvs-wetsvoorstel-met-mvt-wijziging-wet-schadefonds-geweldsmisdrijven.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\13 ]> wetsvoorstel-nader-rapport-wijziging-wet-schadefonds-geweldsmisdrijven.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\18 ]> bijlage-2-ilt-brede-risicoanalyse.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\18 ]> materieelprojectenoverzicht-defensie-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\21 ]> conclusies-tweede-bestuurlijk-overleg-van-22-juni-2018-te-curacao-betreffende-de-samenwerking-op-het-gebied-van-207FCCF9.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\09\26 ]> tk-bijlage-nota-naar-v-verslag-inzake-wet-omzetting-aandelen-aan-toonder.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\10\05 ]> ek-bijlage-onderzoek-raad-voor-de-rechtshandhaving-inzake-slachtofferhulp-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\10\05 ]> ek-bijlage-slachtofferhulp-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\10\15 ]> tk-bijlage-criminaliteit-en-handhaving.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\10\24 ]> infographic-besteding-aanvullende-middelen-regeerakkoord-rutte-iii.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\10\29 ]> tk-bijlage-werkprogramma-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\11\14 ]> bestuursakkoord-bonaire-2018-20120.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\11\14\bestuursakkoord-bonaire-2018-2022 ]> bestuursakkoord-bonaire-2018-20120.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\11\21 ]> evaluatie-subsidieregeling-kansen-voor-alle-kinderen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\11\23 ]> tk-basispolitiezorg-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\03 ]> 4e-voortgangsrapportage-natuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\03 ]> de-financiele-staat-van-het-onderwijs-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\06 ]> tk-concept-mvt-bij-voorstel-van-rijkswet-tot-wijziging-van-de-rijkswet-ovv-03122018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\06 ]> tk-mvt-rijkswet-onderzoeksraad-voor-veiligheid-voor-rvst.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\07 ]> bijlage-kamerbrief-inzake-consulaire-beleidsnota-de-staat-van-het-consulaire-eerste-editie-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\10 ]> ek-bijlage-rapport-wodc.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\11 ]> halfjaarrapportage-januari---juni-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\11\evaluatie-wet-van-wijziging-sbb ]> Eindrapport_Berenschot_Evaluatie_Wet_van_Wijziging_SBB.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\20 ]> tk-bijlage-jaarplanning-jenv-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\21 ]> bijlage-2-kabinetsreactie-bij-beleidsdoorlichting-artikel-22-omgevingsveiligheid-en-milieurisico-s.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\21 ]> bijlage-iii-bij-ctivd-rapport-nr.-60---totstandkoming-van-de-wegingsnotities.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2018\12\21 ]> rapport-beleidsdoorlichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\01\02 ]> jaarrapportage-wet-afbreking-zwangerschap-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\01\14 ]> planningsoverzicht-van-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\01\17 ]> tk-nota-naar-aanleiding-van-het-verslag-schadefonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\01\31 ]> tk-bijlage-eerste-inventarisatie-jaarwisselingeszaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\06 ]> eindrapportage-brexit-impact-analyse-en-mogelijke-maatregelen-voor-de-nederlandse-luchtvaart.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\11 ]> buitenlandtoelage-en-maatwerkafspraken-de-toepassing-van-de-vu-bzk-bij-uitzending-naar-de-caribische-delen-van--FB17B399.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\12 ]> tk-bijlage-veiligheidsbeeld-bes-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\14 ]> werkprogramma-2019-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\28 ]> de-archiefwet-bes-verkenning-van-de-zorg-voor-overheidsinformatie-op-bonaire-sint-eustatius-en-saba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\02\28\grondwet-voor-het-koninkrijk-der-nederlanden-2018 ]> WEB_119406_Grondwet_Koninkrijk_NL.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\05 ]> connectiviteit-caribische-deel-van-het-koninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\06 ]> advisory-committee-on-the-framework-convention-for-the-protection-of-national-minorities.-engels.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\06 ]> derde-advies-over-nederland-over-kaderverdrag-bescherming-nationale-minderheden-fries.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\06 ]> derde-advies-over-nederland-over-kaderverdrag-bescherming-nationale-minderheden-nederlands.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\15\auditrapport-2018 ]> rapport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\03\26 ]> stand-van-zaken-van-de-toezeggingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\01 ]> rapport-staat-van-bestuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\02 ]> rapport-discriminatiecijfers-in-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\04 ]> rapport-fundamentele-rechten-in-het-koninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\04 ]> verslag-van-de-rijksministerraad-inzake-implementatie-van-verdragen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\10 ]> tk-bijlage-recht-doen-aan-genderidentiteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\12 ]> cultuur-dichtbij-dicht-bij-cultuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\16 ]> tk-bijlage-rapport-wodc-evaluatie-risicokaart.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\04\30 ]> startevaluatie-pilot-lerend-evalueren-vws-meerjarenprogramma-2018-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\01 ]> internationale-haaien-strategie-2019-ihs-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\01 ]> jaarrapportage-bedrijfsvoering-rijk-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\01 ]> monitor-sterk-techniekonderwijs-nulmeting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\01 ]> tk-bijlage-jaarbericht-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\01\jaarrapportage-bedrijfsvoering-rijk-2018 ]> WEB_123167_Jaarrapportage_Bedrijfsvoering_Rijk_INTERACTIEF.PDF[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\03 ]> eindrapport-beleidsdoorlichting-omvorming-13e-gemechaniseerde-brigade-tot-een-lichtere-gemotoriseerde-brigade.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\07 ]> jaarverslag-2018-inspectie-szw.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\15 ]> `nederland-china-een-nieuwe-balans'.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\15 ]> nederland-china-een-nieuwe-balans.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\15\nederland-china-een-nieuwe-balans ]> 190196-01-Beleidsnota-China-LR-3.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\05\20 ]> rapportage-burgerbrieven-vws-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\01 ]> rapport-ontwerp-nationale-omgevingsvisie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\03 ]> saba-package.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\05 ]> bijlage-1-jaarverslag-ministerie-infrastructuur-en-waterstaat-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\06 ]> ontwerp-nationale-omgevingsvisie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\06 ]> voortgangsrapportage-2019-onbeperkt-meedoen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\06\voortgangsrapportage-2019-onbeperkt-meedoen ]> Voortgangsrapportage_Onbeperkt_meedoen_2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\07 ]> een-jaar-vernieuwd-toezicht-voortgangsrapportage-2017-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\07 ]> tk-bijlage-nationale-strategie-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\07\tk-bijlage-nationale-strategie-2019 ]> Nationale-Veiligheid-Strategie-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\10 ]> rapport-samen-werken-samenwerken-waar-het-moet-zelfstandig-waar-het-kan.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\11 ]> bijlage-3b-nota-w-b-naar-mogelijke-verdringingseffecten-verbrede-sluis-kornwerderzand.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\12 ]> ek-bijlage-tk-actieplan-veiligheid-lhbti.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\14 ]> evaluatie-van-de-verkiezingen-van-provinciale-staten-waterschapsbesturen-eilandsraden-kiescolleges-en-europees-parlement.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\19 ]> vaccinatie-tegen-hpv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\20 ]> bijlage-2-ifv-containercalamiteit-in-het-noorden-de-aanpak-en-impact.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\24 ]> rapport-beleidsdoorlichting-omgevingsveiligheid-en-milieurisico-s.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\24 ]> vaccinatiegraad-en-jaarverslag-rijksvaccinatieprogramma-nederland-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\28 ]> nulmeting-kinderopvang-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\06\30 ]> bijlage-kamerbrief-inzake-handelsagenda-n-jaar-onderweg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\02 ]> overzicht-aanpak-onvolkomenheden-informatiebeveiliging.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\04 ]> tk-bijlage-overzicht-plaatsingen-ips-brief.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\15 ]> vaccinatie-tegen-gordelroos.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\23 ]> tk-bijlage-fiu-nederland-jaaroverzicht-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\24 ]> tk-bijlage-instellingsregeling-evaluatiecommissie-wvr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ rapporten\2019\07\31 ]> briefadvies-internationaal-klimaatbeleid.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 52; BatchedItems: 100]...[0m

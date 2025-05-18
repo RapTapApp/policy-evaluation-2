@@ -1,0 +1,557 @@
+NLR-CR-2020-237 | juni 2020 
+Inventarisatie van de aanwezigheid 
+van HEPA-filters in vliegtuigen op 
+Nederlandse luchthavens 
+OPDRACHTGEVER:  Ministerie van Infrastructuur en Waterstaat 
+NLR – Koninklijk Nederlands Lucht- en Ruimtevaartcentrum 
+
+MANAGEMENTSAMENVATTING 
+ONGERUBRICEERD 
+Resultaten en conclusies 
+Op basis van een analyse van alle vliegbewegingen in 2019 van en naar 
+Nederlandse luchthavens kan de conclusie worden getrokken dat de overgrote 
+meerderheid van de onderzochte vluchten is uitgevoerd met vliegtuigen voorzien 
+van HEPA-filters. Voor 0,9% van de vliegbewegingen kan op basis van deze 
+inventaris niet vanuit meerdere bronnen geconcludeerd worden of deze zijn 
+uitgevoerd met HEPA-filters aan boord. Het betreft hier vluchten uitgevoerd door 
+maatschappijen die geen uitingen hebben gedaan over het gebruik van HEPA-filters 
+en/of opereren met overwegend kleinere en oudere vliegtuigtypes die af-fabriek 
+niet zijn uitgerust met HEPA-filters, of waarvan binnen de gestelde tijd geen 
+informatie gevonden kon worden over het cabineluchtsysteem. Nader onderzoek 
+bij de fabrikant van de betreffende vliegtuigtypes en navraag bij de betreffende 
+luchtvaartmaatschappijen zijn nodig om vast te kunnen stellen of HEPA-filters 
+aanwezig zijn of niet. 
+Toepasbaarheid 
+Hoewel de inventaris een overwegend positief beeld laat zien van de aanwezigheid 
+van HEPA-filters, konden verschillende gerelateerde aspecten binnen de gestelde 
+tijd niet onderzocht worden. Zo is uitdrukkelijk niet onderzocht of de HEPA-filters 
+aan boord correct gebruikt en onderhouden worden, en of deze effectief zijn in het 
+voorkomen van virusverspreiding aan boord. 
+NLR 
+Anthony Fokkerweg 2 
+1059 CM  Amsterdam, The Netherlands 
+p ) +31 88 511 3113 
+e ) info@nlr.nl  i ) www.nlr.nl 
+
+NLR-CR-2020-237  |  juni 2020 
+Niets uit dit rapport mag worden vermenigvuldigd en/of openbaar gemaakt, op welke wijze dan ook, zonder 
+voorafgaande schriftelijke toestemming van de eigenaar. 
+OPDRACHTGEVER Ministerie van Infrastructuur en Waterstaat 
+CONTRACTNUMMER 31161398 
+EIGENAAR Ministerie van Infrastructuur en Waterstaat 
+NLR DIVISIE Aerospace Operations 
+VERSPREIDING Beperkt 
+RUBRICERING TITEL ONGERUBRICEERD 
+GOEDGEKEURD DOOR: 
+AUTEUR REVIEWER BEHERENDE AFDELING 
+R.J. Roosien J. Kos M.H. Nagelsmit
+DATUM 3 0 0 6 2 0 DATUM 3 0 0 6 2 0 DATUM 3 0 0 6 2 0 
+2 
+
+NLR-CR-2020-237  |  juni 2020 
+Inhoudsopgave 
+Afkortingen 5 
+1 Inleiding 6 
+1.1 Achtergrond 6 
+1.2 Vraagstelling 6 
+1.3 Disclaimer 6 
+2 Aanpak 8 
+2.1 Vluchtinformatie 8 
+2.2 Analyse op basis van het vliegtuigtype en bouwjaar 9 
+2.3 Analyse van uitingen van luchtvaartmaatschappijen 10 
+2.4 Inschatting van de aanwezigheid van HEPA-filters 10 
+3 Resultaten 13 
+3.1 Analyse op basis van vliegtuigtype en bouwjaar 13 
+3.1.1 Airbus 13 
+3.1.2 Boeing 13 
+3.1.3 Embraer 15 
+3.1.4 Overige fabrikanten 15 
+3.2 Aanwezigheid van HEPA-filters volgens luchtvaartmaatschappijen 15 
+3.3 Gecombineerde resultaten 15 
+3.3.1 Situatie op Amsterdam Airport Schiphol 16 
+3.3.2 Situatie in Caribisch Nederland 17 
+4 Conclusie 19 
+5 Referenties 21 
+Appendix A Aanwezigheid van HEPA-filters per toesteltype 22 
+Appendix A.1 Airbus 22 
+Appendix A.2 Boeing 23 
+Appendix A.3 Embraer 23 
+Appendix A.4 Overige fabrikanten 24 
+Appendix B Overzicht van gebruik van HEPA-filters bij luchtvaartmaatschappijen 25 
+Appendix B.1 HEPA-filters in gebruik 25 
+Appendix B.2 Gebruik van HEPA-filters onbekend 28 
+Appendix C Resultaten voor andere vliegvelden 29 
+Appendix C.1 Eindhoven Airport 29 
+Appendix C.2 Rotterdam The Hague Airport 29 
+Appendix C.3 Groningen Airport Eelde 30 
+Appendix C.4 Maastricht Aachen Airport 30 
+4 
+
+NLR-CR-2020-237  |  juni 2020 
+1 Inleiding 
+1.1 Achtergrond 
+De lucht in de cabine van de meeste moderne passagiersvliegtuigen bestaat uit een mengsel van verse buitenlucht en 
+gerecirculeerde lucht. Dit mengsel wordt continu ververst. Het deel van de lucht dat de cabine verlaat en 
+gerecirculeerd (hergebruikt) wordt, passeert eerst een luchtfilter om ziekteverwekkers en andere ongewenste deeltjes 
+te verwijderen. Wanneer luchtfilters aan bepaalde normen voldoen mogen deze HEPA-filters (High-Efficiency 
+Particulate Air filter) worden genoemd. HEPA-filters zijn een mogelijke barrière tegen de verspreiding van virussen aan 
+boord van vliegtuigen. Voor de definitie van een HEPA-filter wordt de Europese NEN-EN 1822 norm uit 2019 
+gehanteerd. Hieronder vallen luchtfilters die minimaal 85% van the most penetrating particle size (MPPS) 
+tegenhouden. In de praktijk gaat het dan om deeltjes van rond de 0,3 μm in diameter. De classificering geeft aan 
+hoeveel procent van de MPPS deeltjes wordt tegengehouden, dit loopt uiteen van > 85% (klasse E10) tot > 
+99,999995% (klasse U17). HEPA-filters in luchtvaartcabine recirculatiesystemen hebben doorgaans een classificering 
+1
+van >99,95% of beter . HEPA-filters zijn geen onderdeel van de certificatie eisen voor verkeersvliegtuigen (EASA, 
+2020). 
+Enkele oude vliegtuigtypes uit de jaren 70/80 die nog in gebruik zijn, recirculeren hun cabinelucht niet. Alle lucht die 
+de cabine binnenkomt, komt van buiten. Hiermee is een HEPA-filter niet van toepassing. Uit brandstofbesparing is er 
+van dit principe afgestapt. Voor het doel van deze inventaris worden deze types beschouwd als ware voorzien van 
+HEPA-filters. 
+1.2 Vraagstelling 
+In opdracht van het ministerie van Infrastructuur en Waterstaat (IenW) heeft Koninklijke NLR een inventarisatie 
+gedaan van de aanwezigheid van HEPA-filters in passagiersvliegtuigen op de Nederlandse luchthavens. De 
+inventarisatie is beperkt tot passagiersvliegtuigen met meer dan 19 zitplaatsen.  
+1.3 Disclaimer 
+Het is op dit moment nog niet volledig duidelijk hoe het virus dat COVID-19 veroorzaakt zich verspreidt. HEPA-filters 
+spelen mogelijk een belangrijke rol in het beperken of voorkomen van de verspreiding van het virus aan boord van 
+vliegtuigen. IenW heeft aan NLR gevraagd een inventarisatie te maken van de aanwezigheid van HEPA-filters in 
+vliegtuigen die passagiers van en naar Nederlandse luchthavens vervoeren.   
+1
+ minimale deeltjesverwijdering van 99,99% (gemeten met natrium vlam test volgens de Engelse Standaard BS.3928, sinds 1994 aangehouden door Airbus) of 99,97% 
+(gemeten volgens DOP test ASTM publicatie D 2986-95, sinds 1998 aangehouden door Boeing) voor deeltjes met een afmeting van 0,3 μm 
+6 
+
+NLR-CR-2020-237  |  juni 2020 
+2 Aanpak 
+Voor de inventarisatie is gebruik gemaakt van twee sporen: een analyse op basis van het vliegtuigtype en bouwjaar, 
+en een analyse van uitingen van luchtvaartmaatschappijen over de aanwezigheid van HEPA-filters in hun operatie. De 
+bevindingen uit beide sporen zijn geprojecteerd op actuele vluchtdata en leiden zo tot een inschatting van de 
+aanwezigheid van HEPA-filters bij de passagiersvliegtuigen met meer dan 19 stoelen die opereren op de Nederlandse 
+luchthavens.  
+De inventarisatie in dit onderzoek richt zich enkel op de aanwezigheid van HEPA-filters en niet op het gebruik (o.a. 
+onderhoud, tijdige vervanging en inspectie) of de effectiviteit van deze filters. Het onderzoek is verder beperkt tot 
+vluchten van en naar de grotere Nederlandse luchthavens: Amsterdam Airport Schiphol, Eindhoven Airport, 
+Rotterdam The Hague Airport, Groningen Airport Eelde en Maastricht Aachen Airport. Tevens is er een losstaande 
+analyse verricht voor Bonaire, Sint Eustatius en Saba (BES).  
+2.1 Vluchtinformatie 
+2
+De inventarisatie is gebaseerd op vluchtinformatie uit het eigen FANOMOS en vluchtinformatie van de regionale 
+vliegvelden die beschikbaar is gesteld aan NLR. De gegevens beslaan de periode van 1 januari tot en met 31 december 
+3
+2019. Het jaar 2020 is niet representatief door de grote daling van het aantal vliegbewegingen . Wel is rekening 
+4
+gehouden met luchtvaartmaatschappijen die in 2019 en 2020 failliet zijn gegaan of niet meer in Nederland actief zijn . 
+De vluchtgegevens van de regionale luchthavens zijn beperkt tot straalvliegtuigen, turbopropvliegtuigen met 
+startgewicht boven 5700 kg of minder indien opererend onder instrumentvliegvoorschriften, en propellervliegtuigen 
+met startgewicht boven 5.700 kg. Daarnaast zijn de operaties op Eindhoven Airport beperkt tot civiel verkeer.  
+Deze dataset is vervolgens teruggebracht tot die vluchten die binnen de afbakening van de inventarisatie vallen. 
+Figuur 1 toont de toegepaste filters en het effect daarvan op het totaalaantal vliegtuigbewegingen in de dataset. 
+Basis 590.969 
+Exclusief gespecialiseerde vrachtmaatschappijen 
+Exclusief overheid (politie, kustwacht, regeringstoestel, militair) 
+Beperkt tot maatschappijen in actieve operatie 
+Beperkt tot toesteltypes binnen onderzoeksafbakening 534.119 
+Figuur 1: Op de dataset met vluchtinformatie toegepaste filters 
+De uiteindelijke dataset bestaat uit 534.119 vliegtuigbewegingen, of 90.4% van het totaal aantal bewegingen in de 
+basis-dataset. Ruim 88% daarvan betreft bewegingen op Schiphol.  
+2
+ FANOMOS: Airport Noise and Flight Track Monitoring data, https://www.nlr.org/capabilities/airport-noise-and-flight-track-monitoring/  
+3
+ In het tweede kwartaal van 2020 is de luchtvaartactiviteit in Europa met meer dan 90% (!) afgenomen ten opzichte van een jaar eerder (EUROCONTROL, 2020). 
+4
+ Maatschappijen waarvan de operatie inmiddels is gestaakt zijn Flybe, DAT Danish Air Transport, Level Europe, Jet Airways, Atlasjet / Atlas Global en WOW Air. 
+8 
+
+NLR-CR-2020-237  |  juni 2020 
+Figuur 2: Beslisboom t.b.v. de combinatie van beschikbare toestelinformatie 
+2.3 Analyse van uitingen van luchtvaartmaatschappijen 
+Voor deze inventarisatie is literatuuronderzoek gedaan naar uitspraken van in de dataset voorkomende 
+luchtvaartmaatschappijen over het gebruik van HEPA-filters in toestellen van hun vloot. Daarbij is gebruik gemaakt 
+van de websites van deze maatschappijen, naast uitlatingen op sociale media of andere (pers)berichtgeving. Vanwege 
+beperkte uitvoeringstijd zijn geen andere bronnen geraadpleegd ter verificatie. De resultaten van deze analyse zijn 
+vergeleken met de resultaten van een inventarisatie die Schiphol op eigen initiatief is gestart onder de 
+luchtvaartmaatschappijen die opereren van de luchthaven. 
+Van 30 vluchten in 2019 is de operator in het geheel onbekend en van 446 vluchten kon de naam van de 
+luchtvaartmaatschappij niet binnen de gestelde tijd worden vastgesteld. Zodoende kan voor deze vluchten geen 
+uitsluitsel gegeven worden over de aanwezigheid van HEPA-filters op basis van de informatie van 
+luchtvaartmaatschappijen. 
+2.4 Inschatting van de aanwezigheid van HEPA-filters 
+De hierboven beschreven aanpak leidt tot een overzicht met de luchtvaartmaatschappij, vliegtuigtype, bouwjaar, het 
+aantal vliegbewegingen, inschatting op basis van type en bouwjaar en inschatting op basis van de 
+luchtvaartmaatschappij per vliegbeweging. Dit overzicht is geïllustreerd in Tabel 1. 
+10 
+
+NLR-CR-2020-237  |  juni 2020 
+Rij Y Totalen –informatie over gebruik HEPA door maatschappij niet gevonden 
+Rij Z Totalen – maatschappij gebruikt geen HEPA 
+12 
+
+NLR-CR-2020-237  |  juni 2020 
+HEPA-filters are available on all Boeing commercial aircraft with the exception of the MD80 and MD90 
+aircraft which have HEPA-type filters available” 
+HEPA-filters have been available since the late 1990’s for 737, 747, 757, 767 and 777 models. HEPA-filters are 
+basic since the inception of the 787 aircraft 
+Op basis van de door Boeing beschikbaar gestelde informatie wordt er in dit onderzoek vanuit gegaan dat alle Boeing-
+toestellen die sinds 2000 zijn geproduceerd, af-fabriek zijn uitgerust met een HEPA-filter en dat voor alle types, met 
+uitzondering van de 727-200 (10 vluchten), HEPA-filters beschikbaar zijn. 
+Boeing 737-300 
+In 2003 is vastgesteld dat een met SARS geïnfecteerde passagier het virus aan 22 andere passagiers heeft 
+overgedragen (Olsen, et al., 2003). Deze casus is recent ook in de Nederlandse media aangehaald (Sajet, 2020). 
+Zodoende is op verzoek van IenW extra aandacht besteed aan toestellen van dit type. 
+De geanalyseerde dataset bevat 2.255 vluchten die met een Boeing 737-300 zijn uitgevoerd. Eerder aangehaalde 
+bronnen laten zien dat HEPA-filters voor dit type worden aangeboden (PALL, 2020; Turkish Directorate General of Civil 
+Aviation, 2020) daar mee is de 737-300 (volgens Figuur 2) geclassificeerd als ‘HEPA-filters beschikbaar voor installatie 
+na levering’.  
+In deze subset zaten 50 individuele vliegtuigregistraties. Alle vliegtuigen met meer dan 3 vliegbewegingen zijn nader 
+onderzocht (Airfleets.net, 2020), hiermee is 1% van de vliegbewegingen uitgesloten van de analyse. 10 toestellen 
+verantwoordelijk voor 25% van de bewegingen zijn nog actief bij dezelfde luchtvaartmaatschappij, 5 toestellen 
+verantwoordelijk voor 5% van de bewegingen zijn inmiddels gewisseld van eigenaar, 7 toestellen verantwoordelijk 
+voor 31% van de bewegingen is in opslag. Meestal betekent dit dat een vliegtuig niet meer terugkeert in operatie. 16 
+toestellen verantwoordelijk voor 38% van de bewegingen staan momenteel geparkeerd. Hiervan is het onduidelijk of 
+deze zullen terugkeren in de operatie.  
+Bewegingen met 737-300, huidige 
+status 
+1% 
+Onbekend
+25% 
+38% 
+Actief
+Gewisseld van eigenaar
+5% 
+In opslag
+Geparkeerd
+31% 
+14 
+
+NLR-CR-2020-237  |  juni 2020 
+ruwweg 534.000 passagiersvluchten die in 2019 van en naar Nederlandse luchthavens (Schiphol, Rotterdam-Den 
+Haag, Maastricht, Eindhoven (civiel) en Eelde) hebben plaatsgevonden. 
+Tabel 4: Aandeel vluchten en beschikbare informatie over de aanwezigheid van HEPA-filters 
+Toestel af-fabriek 
+Geen of onbekende HEPA-filters 
+geleverd met HEPA-
+toepassing van HEPA- beschikbaar voor Totaal 
+filter (of heeft geen 
+filter op toestel installatie na levering 
+luchtrecirculatie) 
+Luchtvaartmaatschappij 
+0,2% 5,4% 91,6% 97,2% 
+gebruikt HEPA-filters 
+Gebruik HEPA-filters door 
+luchtvaartmaatschappij 0,5% 0,2% 2,1% 2,8% 
+onbekend 
+Luchtvaartmaatschappij 
+0% 0% 0% 0% 
+gebruikt geen HEPA-filters 
+Totaal 0,7% 5,6% 93,7% 100% 
+Tabel  4 leidt tot de volgende observaties: 
+• 0,5% van de vliegbewegingen zijn uitgevoerd door maatschappijen waarvan niet bekend is of deze HEPA-
+filters gebruiken. Deze zijn uitgevoerd met een vliegtuigtype waarvan niet met zekerheid gesteld kan worden
+dat deze zijn voorzien van HEPA-filters, hetzij af-fabriek, hetzij als retro-fit
+• 0,2% van de vliegbewegingen zijn uitgevoerd door maatschappijen waarvan niet bekend is of deze HEPA-
+filters gebruikt, echter zijn voor dit vliegtuigtype wel HEPA-filters beschikbaar als retro-fit
+• 0,2% van de vliegbewegingen zijn uitgevoerd door maatschappijen die aangeven HEPA-filters te gebruiken,
+maar waar voor het vliegtuigtype binnen de gestelde tijd geen informatie voor handen is om dat te
+bevestigen
+• De overige 99,1% van de onderzochte vliegbewegingen zijn uitgevoerd door een vliegtuig die af-fabriek is
+geleverd is met HEPA-filters of waarvoor HEPA-filters leverbaar zijn als retro-fit en de maatschappij aangeeft
+HEPA filters te gebruiken
+• Geen enkele luchtvaartmaatschappij stelt expliciet geen HEPA-filters te gebruiken.
+Resultaten specifiek voor Amsterdam Airport Schiphol en Caribisch Nederland worden in de volgende sub-secties 
+behandeld. Appendix C toont de resultaten voor de andere geanalyseerde vliegvelden. 
+3.3.1 Situatie op Amsterdam Airport Schiphol 
+Tabel 5 toont het aandeel vluchten en beschikbare informatie over de aanwezigheid van HEPA-filters voor vluchten 
+die van en naar Amsterdam Airport Schiphol zijn uitgevoerd in 2019. Dit betreft 470.126 geanalyseerde 
+10
+vliegtuigbewegingen . 
+10
+ De Traffic Review van 2019 toont 482.670 schedulded en non-scheduled passagiersvluchten (Schiphol, 2019). Het aantal geanalyseerde vliegtuigbewegingen is 
+voornamelijk lager omdat vluchten die uitgevoerd zijn door maatschappijen die hun operatie hebben gestaakt uit de dataset zijn verwijderd, als vermeldt in Sectie 2.1. 
+16 
+
+NLR-CR-2020-237  |  juni 2020 
+vluchten uitgevoerd met toestellen zonder HEPA-filter of met onbekende toepassing van HEPA-filters is 14 keer hoger 
+(0,7% voor Europees Nederland; 9,8% voor Caribisch Nederland). 
+Twee factoren vormen een verklaring voor deze verschillen. Allereerst zijn de productiejaren van de toestellen in de 
+dataset met vluchten in, van en naar Caribisch Nederland onbekend. Bij toestellen die niet gedurende hun hele 
+productieperiode van HEPA-filters zijn voorzien, is de toepassing van HEPA-filters als onbekend beschouwd. Daarnaast 
+worden er in Caribisch Nederland meer kleinere en oudere toestellen gebruikt, waarvoor binnen de gestelde tijd 
+minder informatie voorhanden was.  
+18 
+
+NLR-CR-2020-237  |  juni 2020 
+filter aan boord. Voor 11,0% van de vliegbewegingen kan op basis van deze inventarisatie niet geconcludeerd worden 
+of deze zijn uitgevoerd met HEPA-filters aan boord.  
+20 
+
+NLR-CR-2020-237  |  juni 2020 
+Appendix A Aanwezigheid van HEPA-filters per 
+toesteltype 
+De tabellen in deze appendix bieden informatie over de aanwezigheid van HEPA-filters in verschillende toesteltypes. 
+De informatie uit sectie 3.1 is daarin toegepast op alle toesteltypes die in de geanalyseerde dataset voorkomen.  
+Voor toestellen die voor het eerst in dienst zijn genomen (entry-into-service, EIS) ná het moment waarop een fabrikant 
+is gestart met het standaard uitrusten van toestellen met HEPA-filters is geconcludeerd dat deze toestellen altijd van 
+een HEPA-filter zijn voorzien.  
+Appendix A.1 Airbus 
+Tabel 7: Aanwezigheid van HEPA-filters in toestellen van Airbus in de geanalyseerde dataset 
+ICAO-code Toestelnaam EIS HEPA af-fabriek 
+A320 Airbus A320 28-03-1988 Sinds 1994; retrofit 
+A319 Airbus A319 08-05-1996 Ja 
+A321 Airbus A321 18-03-1994 Ja 
+A333 Airbus A330-300 17-01-1994 Ja 
+A332 Airbus A330-200 1998 Ja 
+A20N Airbus A320neo 25-01-2016 Ja 
+A359 Airbus A350-900 15-01-2015 Ja 
+A388 Airbus A380-800 28-10-2007 Ja 
+A21N Airbus A321neo > 2016 Ja 
+A318 Airbus A318 2003 Ja 
+A306 Airbus A300-600 Sinds 1994; retrofit 
+A35K Airbus A350-1000 24-02-2018 Ja 
+A343 Airbus A340-300 29-03-1993 Sinds 1994; retrofit 
+A310 Airbus A310 12-04-1983 Sinds 1994 
+A339 Airbus A330-900neo 15-12-2018 Ja 
+A346 Airbus A340-600 01-08-2002 Ja 
+A30B Airbus A300 Sinds 1994 
+A345 Airbus A340-500 15-09-2003 Ja 
+22 
+
+NLR-CR-2020-237  |  juni 2020 
+Appendix A.4 Overige fabrikanten 
+Tabel 10: Aanwezigheid van HEPA-filters in toestellen van overige fabrikanten in de geanalyseerde dataset 
+ICAO-code Toestelnaam HEPA af-fabriek 
+AT43 Aerospatiale/Alenia ATR 42-300 Onbekend 
+Onbekend 
+AT45 Aerospatiale/Alenia ATR 42-500 
+Onbekend 
+AT72 Aerospatiale/Alenia ATR 72 
+Onbekend 
+AT75 Aerospatiale/Alenia ATR 72-500 
+Onbekend 
+AT76 Aerospatiale/Alenia ATR 72-600 
+AN72 Antonov An-72 Onbekend 
+RJ1H Avro RJ100 Nee 
+RJ85 Avro RJ85 Nee 
+B461 BAe 146-100 Nee 
+B462 BAe 146-200 Nee 
+BCS1 Bombardier CS100 (later: Airbus A220-100) Ja 
+BCS3 Bombardier CS300 (later: Airbus A220-300) Ja 
+JS41 British Aerospace Jetstream 41 Nee 
+CRJX Canadair Regional Jet 1000 Ja 
+CRJ2 Canadair Regional Jet 200 Ja 
+CRJ7 Canadair Regional Jet 700 Ja 
+CRJ9 Canadair Regional Jet 900 Ja 
+DH8A De Havilland Canada DHC-8-100 Dash 8 / 8Q Ja 
+DH8B De Havilland Canada DHC-8-200 Dash 8 / 8Q Ja 
+DH8C De Havilland Canada DHC-8-300 Dash 8 Ja 
+DH8D De Havilland Canada DHC-8-400 Dash 8Q Ja 
+J328 Fairchild Dornier 328JET Ja 
+D328 Fairchild Dornier Do.328 Ja 
+F100 Fokker 100 Onbekend 
+F50 Fokker 50 Nee 
+F70 Fokker 70 Onbekend 
+MD11 McDonnell Douglas MD-11 Nee 
+13
+MD82 McDonnell Douglas MD-82 Geen cabineluchtrecirculatie 
+13
+MD83 McDonnell Douglas MD-83 Geen cabineluchtrecirculatie 
+SF34 Saab SF340A/B Onbekend; retrofit beschikbaar 
+SU95 Sukhoi Superjet 100-95 Onbekend 
+YK40 Yakovlev Yak-40 Nee 
+13
+ De Boeing 717, een doorontwikkeling van de McDonnell Douglas MD-80-serie, heeft géén cabineluchtrecirculatie (United States General Accounting Office, 2004). 
+Zodoende is aangenomen dat de McDonnell Douglas MD-80-serie hier ook niet van is voorzien. 
+24 
+
+NLR-CR-2020-237  |  juni 2020 
+ICAO-code Luchtvaartmaatschappij Bron 
+BTI Air Baltic https://www.airbaltic.com/en/health-measures 
+CAI Corendon Airlines https://images.corendon.nl/NL/HEPA%20filter%20.pdf 
+CAL China Airlines https://www.china-airlines.com/nl/nl/member/members-exclusive/member-news/20200326.html 
+CES China Eastern Airlines https://twitter.com/CEAirglobal/status/1271370024649801728 
+CFE BA CityFlyer https://www.britishairways.com/en-gb/information/the-ba-experience/welcome-on-board 
+CND Corendon Dutch Airlines https://images.corendon.nl/NL/HEPA%20filter%20.pdf 
+https://www.cathaypacific.com/cx/nl_NL/travel-information/travel-preparation/travel-advisories/novel-coronavirus-
+CPA Cathay Pacific 
+information-centre/precautionary-measures.html 
+CSN China Southern Airlines https://twitter.com/CSAIRGlobal/status/1227049614294913024 
+CTN Croatia Airlines https://m.croatiaairlines.com/Important-notice/Important-information-about-COVID-19/Current-travel-information/ 
+CXA Xiamen Airlines https://www.facebook.com/XiamenAirlines/posts/2567082116952891 
+CXI Corendon Airlines Europe https://images.corendon.nl/NL/HEPA%20filter%20.pdf 
+DAL Delta Air Lines https://www.delta.com/us/en/travel-update-center/ways-we-are-keeping-you-safe/6-ways-delta-supports-healthy-flying 
+https://www.dailymail.co.uk/travel/travel_news/article-8288431/Air-France-KLM-Lufthansa-make-face-masks-compulsory-
+DLH Lufthansa 
+passengers-amid-coronavirus-crisis.html 
+EIN Aer Lingus https://www.aerlingus.com/experience-aer-lingus/your-health-and-safety/#/tab-0-new-safety-measures 
+EJU easyJet Europe https://www.easyjet.com/nl/fly-with-confidence 
+ETD Etihad Airways https://www.etihad.com/en/fly-etihad/health-and-wellness 
+EVA EVA Air https://www.evaair.com/en-us/about-eva-air/news/travel-news/2020-01-22-evaair-wuhan-2019nCoV.html 
+EZS easyJet Switzerland https://www.easyjet.com/nl/fly-with-confidence 
+EZY easyJet https://www.easyjet.com/nl/fly-with-confidence 
+FHM FreeBird Airlines https://www.freebirdairlines.com/en/healthy-flying.asp 
+FHY FreeBird Airlines https://www.freebirdairlines.com/en/healthy-flying.asp 
+FIN Finnair https://www.finnair.com/en/bluewings/travel-experience/how-finnair-ensures-healthy-and-hygienic-travel-2051340 
+https://www.garuda-indonesia.com/sg/en/news-and-events/Garuda-Indonesia-Steps-Up-Disinfecting-of-Aircraft-Amid-
+GIA Garuda Indonesia 
+COVID-19-outbreak 
+HLX TUIfly https://www.tuifly.be/nl/vluchtinfo-corona-maatregelen 
+IBK Norwegian Air International (D8) https://www.norwegian.com/nl/flight-status/updates/ 
+IBS Iberia Express https://www.iberia.com/nl/nl/covid-19/measures-taken/ 
+ICE Icelandair https://www.icelandair.com/nl-nl/klantenservice/covid-19/safe-travels-shared-responsibility/ 
+JAF Jetairfly https://www.tuifly.be/nl/vluchtinfo-corona-maatregelen 
+https://www.koreanair.com/global/en/customer-
+KAL Korean Air support.html?sectionName=faqs&_charset_=UTF8&mode=query&q=%5BCOVID-
+19%5D%20I%20am%20concerned%20about%20the%20virus%20spreading%20inside%20the%20cabin.#faqs 
+26 
+
+NLR-CR-2020-237  |  juni 2020 
+Appendix B.2 Gebruik van HEPA-filters onbekend 
+Error! Reference source not found. toont een overzicht van de luchtvaartmaatschappijen waarvan het gebruik van HEPA-filters niet kon worden bepaald op basis van informatie 
+in het publieke domein en die deze vluchten uitvoerden met een type waar binnen de gestelde tijd niet aangetoond kon worden dat het toestel af-fabriek is geleverd met HEPA-
+filters. Voor deze maatschappijen is meer informatie nodig om de aanwezigheid van HEPA-filters vast te stellen. Het aantal vluchten per luchthaven is eveneens weergegeven. 
+Blijkens de gegevens in sectie 3.3 voerden deze luchtvaartmaatschappijen 0,7% van de in Europees Nederland geanalyseerde vluchten en 11,0% van de in Caribisch Nederland 
+geanalyseerde vluchten uit. 
+Voor 270 vliegtuigbewegingen kon de naam van verschillende luchtvaartmaatschappijen niet bij de ICAO-code gevonden worden. Hierdoor is het mogelijk dat Tabel 12 
+luchtvaartmaatschappijen bevat die in principe buiten de afbakening van het onderzoek vallen (zoals maatschappijen die alleen vracht vervoeren). Zoals aangegeven in sectie 2.1 
+ontbreekt de naam van de luchtvaartmaatschappij bij 476 vluchten (< 0.1% van het totaal). Het effect van eventuele tekortkomingen die hieruit voortvloeien is daarmee niet van 
+invloed op de conclusies van dit onderzoek. 
+Tabel 12: Overzicht van in de geanalyseerde dataset aanwezige luchtvaartmaatschappijen waarvan het gebruik van HEPA-filters niet kon worden bepaald en het bijbehorend 
+aantal geanalyseerde vluchten 
+Aantal vluchten 
+ICAO-code Luchtvaartmaatschappij Caribisch Nederland EHAM EHBK EHEH EHGG EHRD Totaal 
+onbekend 5 2 8 15 
+A21 16 16 
+A44 6 6 
+A47 18 18 
+A50 1 1 
+A60 2 2 
+A63 1 1 
+A73 2 2 
+A75 2 2 
+ 
+AAG Air Atlantique 2 2 
+ABP Aba Air 2 2 
+ABR Air Contractors 4 4 
+ADR Adria Airways 6 6 
+AEH Aviaexpress 19 6 4 29 
+AF1 1 1 
+28 
+
+NLR-CR-2020-237  |  juni 2020 
+Aantal vluchten 
+ICAO-code Luchtvaartmaatschappij Caribisch Nederland EHAM EHBK EHEH EHGG EHRD Totaal 
+INC Insel Air International 148 148 
+IRA Iran Air 15 15 
+J02 68 68 
+J06 10 10 
+J08 8 8 
+JF0 4 4 
+ 
+JNL JetNetherlands 20 8 6 34 
+JTG Jettime 2 2 
+KLJ 9 4 13 
+ 
+KRF United Kingdom Royal VIP Flights 1 1 
+KRP Carpatair 4 1 10 15 
+LAV AlbaStar 1 1 
+LDM LaudaMotion 4 4 
+LGL Luxair 1 1 
+LOG Logan Air 38 2 40 
+LZF Lease Fly 4 4 
+MGX Montenegro Airlines 1 1 
+MLT Maleth-Aero 2 2 
+MMD Air Alsie 10 2 10 22 44 
+MNB MNG Airlines 42 42 
+MSI Motor Sich 2 2 
+N11 2 2 
+N73 2 2 
+ 
+NWS NordWind Airlines 2 2 
+OAW Helvetic Airways 2 2 
+OTT 1 1 
+P4L 2 2 
+ 
+PEA Pan Europeenne Air Service 6 6 
+PVG Privilege Style L 2 4 6 
+RAV Reed Aviation 1 1 
+RCH Air Mobility Command 2 2 
+RJA Royal Jordanian 226 2 228 
+ROT Tarom 152 152 
+30 
+
+NLR-CR-2020-237  |  juni 2020 
+Appendix C Resultaten voor andere vliegvelden 
+Appendix C.1 Eindhoven Airport 
+Tabel 13: Aandeel vluchten en beschikbare informatie over de aanwezigheid van HEPA-filters voor Eindhoven Airport, 
+op basis van 38.958 vliegtuigbewegingen 
+Toestel af-fabriek 
+Geen of onbekende HEPA-filters 
+geleverd met HEPA-
+toepassing van HEPA- beschikbaar voor Totaal 
+filter (of heeft geen 
+filter op toestel installatie na levering 
+luchtrecirculatie) 
+Luchtvaartmaatschappij 
+0% 3,0% 95,8% 98,8% 
+gebruikt HEPA-filters 
+Gebruik HEPA-filters door 
+luchtvaartmaatschappij 0,1% 0% 1,1% 1,2% 
+onbekend 
+Luchtvaartmaatschappij 
+0% 0% 0% 
+gebruikt geen HEPA-filters 
+Totaal 0,1% 3,0% 96,9% 100% 
+Appendix C.2 Rotterdam The Hague Airport 
+Tabel 14: Aandeel vluchten en beschikbare informatie over de aanwezigheid van HEPA-filters voor Rotterdam The 
+Hague Airport, op basis van 16.840 vliegtuigbewegingen 
+Toestel af-fabriek 
+Geen of onbekende HEPA-filters 
+geleverd met HEPA-
+toepassing van HEPA- beschikbaar voor Totaal 
+filter (of heeft geen 
+filter op toestel installatie na levering 
+luchtrecirculatie) 
+Luchtvaartmaatschappij 
+0,1% 2,9% 95,0% 98,0% 
+gebruikt HEPA-filters 
+Gebruik HEPA-filters door 
+luchtvaartmaatschappij 0,7% 0,2% 1,1% 2,0% 
+onbekend 
+Luchtvaartmaatschappij 
+0% 0% 0% 0% 
+gebruikt geen HEPA-filters 
+Totaal 0,8% 3,1% 96,1% 100% 
+29 
+
+Koninklijk Nederlands Lucht- en 
+Ruimtevaartcentrum 
+Het NLR is een toonaangevend, mondiaal opererend 
+onderzoekscentrum voor de lucht- en ruimtevaart. Met zijn 
+multidisciplinaire expertise en ongeëvenaarde 
+onderzoeksfaciliteiten, levert NLR innovatieve, integrale oplossingen 
+voor complexe uitdagingen in de aerospace sector. 
+De werkzaamheden van het NLR beslaan het volledige 
+spectrum van Research Development Test & Evaluation 
+(RDT&E). Met zijn kennis en faciliteiten kunnen bedrijven 
+terecht bij het NLR voor validatie, verificatie, kwalificatie, 
+simulatie en evaluatie. Zo overbrugt het NLR de kloof tussen 
+onderzoek en toepassing in de praktijk. Het NLR werkt 
+zowel voor overheid als industrie in binnen- en buitenland.  
+Het NLR staat voor praktische en innovatieve oplossingen, 
+technische expertise en een lange termijn ontwerpvisie. 
+Hierdoor vindt NLR’s cutting edge technology zijn weg naar 
+succesvolle lucht- en ruimtevaartprogramma’s van OEM’s 
+zoals Airbus, Embraer en Pilatus. Het NLR draagt bij aan 
+(defensie)programma’s zoals ESA’s IXV re-entry voertuig, de 
+F-35, de Apache-helikopter en Europese programma’s als
+SESAR en Clean Sky 2.
+Opgericht in 1919 en met 600 betrokken medewerkers,
+realiseerde NLR in 2017 een omzet van 76 miljoen euro.
+81% hiervan is afkomstig uit contractonderzoek, het overige
+betreft een overheidsbijdrage.
+Voor meer informatie bezoek: www.nlr.nl 
+Postal address NLR Amsterdam NLR Marknesse 
+PO Box 90502 Anthony Fokkerweg 2 Voorsterweg 31 
+1006 BM  Amsterdam, The Netherlands 1059 CM  Amsterdam, The Netherlands 8316 PR  Marknesse, The Netherlands 
+e ) info@nlr.nl  i ) www.nlr.org p ) +31 88 511 3113 p ) +31 88 511 4444 
+NLR is a registered trade name of Stichting Nationaal Lucht- en Ruimtevaartlaboratorium, Chamber of Commerce No. 41150373. VAT No. NL002760551B01 
+
