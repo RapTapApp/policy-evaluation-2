@@ -114,7 +114,7 @@ try {
             }
     )
 
-    $StartAt = $SourceFiles.IndexOf('policy-documents\Archive\jaarverslagen\2016\05\18\volksgezondheid-welzijn-en-sport-2015\16.-xvi-volksgezondheid-welzijn-sport.raw.txt')
+    $StartAt = $SourceFiles.IndexOf('policy-documents\Archive\kamerstukken\2010\05\21\bijlage-evaluatie-fol-verdrag-kamerbrief-inzake-evaluatie-fol-verdrag\133-889dwhak-bijlage.raw.txt')
 
     $SourceFiles | Select-Object -Skip $StartAt | ForEach-Object {
         $BatchProc.ForEachItem($PSItem)
