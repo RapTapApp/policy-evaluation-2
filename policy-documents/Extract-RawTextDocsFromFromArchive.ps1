@@ -76,7 +76,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Error $($S + " ! Failed exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err") -ea Continue
+        Write-Warning $($S + " ! Failed exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
     }
 
 }
@@ -205,11 +205,12 @@ function Export-RawTextFromSourceFile {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
 
             try {
-                $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourcePath)
+                $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
 
                 Export-RawText $Source_PdfReader -TargetPath $TargetFile.Path
 
-                return $TargetFile
+                Write-Output $TargetFile
+
             } catch {
                 $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
 
