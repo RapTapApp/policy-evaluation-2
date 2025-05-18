@@ -100,3 +100,210 @@
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xviii-wonen-en-rijksdienst-rijksbegroting-2016.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2015\09\15\internetbijlagen-miljoenennota-2016 ]> miljoenennota-internetbijlagen.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 1; BatchedItems: 100]...[0m
+[main 172a8323] Added batch #1 of policy-docs (total: 100
+ 101 files changed, 326127 insertions(+)
+ create mode 100644 policy-documents/Archive/ambtsberichten/2002/12/05/congo-brazzaville-2002-12-05/cobra120502internet.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2003/10/03/guinee-2003-10-03/aabguinee9oktober2003-def.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2004/07/29/congo-brazzaville-2004-07-29/aab-congo-brazzaville-2004.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2005/02/28/eritrea-2005-02-28/aab-eritrea-2005r.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2006/03/29/eritrea-2009-03-29/aab-eritrea-2006-definitieve-versie.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2007/09/27/liberia-2007-09-27/aab-liberia-september-2007.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/01/24/eritrea-2008-01-24/aab-eritrea-24-01-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/09/04/colombia-2008-09-04/aab-colombia-04-09-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/09/30/eritrea-2008-09-30/aab-eritrea-200815dgn.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/10/03/liberia-2008-10-03/liberia-ambtsbericht-03-10-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/12/02/liberia-2006-05-06/aab-liberia-mei-2006.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2009/05/29/liberia-2009-05-29-fgm.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2009/07/20/eritrea-2009-07-20/aab-eritrea-definitieve-tekst-20-7-2009-nieuw.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2010/09/23/eritrea-2010-09-23/aab-eritrea-sept-2010-definitieve-versie.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2011/12/05/eritrea-2011-11-30.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2015/10/08/ambtsbericht-nigeria-2015-10-08.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2023/01/20/bijlage-1-tekst-en-toelichting-nieuwe-ambtseed.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024/algemeen-ambtsbericht-colombia-2024.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2006-memorie-van-toelichting-buitenlandse-zaken/begroting-memorie-van-toelichting2006.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2007-memorie-van-toelichting-buitenlandse-zaken/mvt2007toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2008-memorie-van-toelichting-buitenlandse-zaken-wetsvoorstel/res2006.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2009-buitenlandse-zaken-memorie-van-toelichting/memorievantoelichting2009.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/09/15/memorie-van-toelichting-2010-buitenlandse-zaken/mvt-2010.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/30-miljard-monitor.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/f-diergezondheidsfonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/h-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/iib-overige-hoge-colleges-van-staat-en-de-kabinetten-van-de-gouverneurs/2b-overige-hoge-colleges-van-staat-en-de-kabinetten-van-de-gouverneurs.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/internetbijlagen-miljoenennota-2013.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/iv-koninkrijksrelaties/4-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/ix-financien-en-nationale-schuld/9-financien-en-nationale-schuld.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/j-deltafonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/v-buitenlandse-zaken/5-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/vi-veiligheid-en-justitie/6-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/vii-binnenlandse-zaken-en-koninkrijksrelaties/7-binnenlandse-zaken-en-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/viii-onderwijs-cultuur-en-wetenschap/8-onderwijs-cultuur-en-wetenschap.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/x-defensie/10-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xii-infrastructuur-en-milieu/12-infrastructuur-en-milieu.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xiii-economische-zaken-landbouw-en-innovatie/13-economische-zaken-landbouw-en-innovatie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xv-sociale-zaken-en-werkgelegenheid/15-sociale-zaken-en-werkgelegenheid.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xvi-volksgezondheid-welzijn-en-sport/16-volksgezondheid-welzijn-en-sport.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/a-infrastructuurfonds-rijksbegroting-2014/a-infrastructuurfonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/b-gemeentefonds-rijksbegroting-2014/b-gemeentefonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/bzk-in-feiten-en-cijfers-2014/bzk-in-feiten-en-cijfers-2014-2.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/f-diergezondheidsfonds-rijksbegroting-2014/f-diergezondheidsfonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/h-bes-fonds-rijksbegroting-2014/h-bes-fonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/iib-overige-hoge-colleges-van-staat-en-kabinetten/iib-overige-hoge-colleges-van-staat-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/internetbijlagen-miljoenennota-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/iv-koninkrijksrelaties-rijksbegroting-2014/iv-koninkrijksrelaties-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/ix-financien-en-nationale-schuld-rijksbegroting-2014/ix-financien-en-nationale-schuld-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/j-deltafonds-rijksbegroting-2014/j-deltafonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/miljoenennota-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/v-buitenlandse-zaken-rijksbegroting-2014/v-buitenlandse-zaken-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/vi-veiligheid-en-justitie-rijksbegroting-2014/vi-veiligheid-en-justitie-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2014/vii-binnenlandse-zaken-en-koninkrijksrelaties-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2014/viii-onderwijs-cultuur-en-wetenschap-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/x-defensie-rijksbegroting-2014/x-defensie-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xii-infrastructuur-en-milieu-rijksbegroting-2014/xii-infrastructuur-en-milieu-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xiii-economische-zaken-rijksbegroting-2014/xiii-economische-zaken-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2014/xv-sociale-zaken-en-werkgelegenheid-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2014/xvi-volksgezondheid-welzijn-en-sport-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2014/xvii-buitenlandse-handel-en-ontwikkelingsamenwerking-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xviii-wonen-en-rijksdienst/xviii-wonen-en-rijksdienst-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/10/22/antwoorden-op-kamervragen-bij-ontwerpbegroting-vws-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-en-koninkrijksrelaties-rijksbegroting-2015/vii-binnenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/h-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/iv-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/ix-financien-en-nationale-schuld.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/j-deltafonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/v-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/vi-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/viii-onderwijs-cultuur-en-wetenschap.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/x-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xii-infrastructuur-en-milieu.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xiii-economische-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xv-sociale-zaken-en-werkgelegenheid.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xvi-volksgezondheid-welzijn-en-sport.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/hgis-nota-homogene-groep-internationale-samenwerking-rijksbegroting-2015/homogene-groep-internationale-samenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/internetbijlagen-bij-miljoenennota-2015/internetbijlagen-miljoenennota-2015.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/miljoenennota-2015.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/10/07/bijlage-1-antwoorden-op-vragen-hoofdstuk-xii.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/11/25/2e-suppletoire-begroting-2014-szw.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/internetbijlagen-miljoenennota-2016/miljoenennota-internetbijlagen.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/iv-koninkrijksrelaties-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/ix-financien-en-nationale-schuld-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/j-deltafonds-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/v-buitenlandse-zaken-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/vi-veiligheid-en-justitie-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/x-defensie-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xii-infrastructuur-en-milieu-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xiii-economische-zaken-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xviii-wonen-en-rijksdienst-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Extract-RawTextDocsFromFromArchive.out
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2015\09\15\miljoenennota-2016 ]> miljoenennota-2016-met-bijlagen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\04\22 ]> artikel-x-bedrijvenbeleid-innovatief-amp-duurzaam-ondernemen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\a-infrastructuurfonds-rijksbegroting-2017 ]> 19.-a-infrastructuurfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2017 ]> 2b.-iib-hoge-colleges-van-staat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\internetbijlagen-miljoenennota-2017 ]> 0.1-internetbijlagen-miljoenennota.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\iv-koninkrijksrelaties-rijksbegroting-2017 ]> 4.-iv-koninkrijksrelaties-en-bes-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\ix-financien-en-nationale-schuld-rijksbegroting-2017 ]> 9.-ix-financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\j-deltafonds-rijksbegroting-2017 ]> 22.-j-deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\materieel-projectenoverzicht-defensie ]> materieelprojectenoverzicht-defensie-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\miljoenennota-2017 ]> 0.-miljoenennota.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\v-buitenlandse-zaken-rijksbegroting-2017 ]> 5.-v-buitenlandse-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\vi-veiligheid-en-justitie-rijksbegroting-2017 ]> 6.-vi-veiligheid-en-justitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2017 ]> 7.-vii-binnenlandse-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2017 ]> 8.-viii-onderwijs-cultuur-en-wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\x-defensie-rijksbegroting-2017 ]> 10.-x-defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\xii-infrastructuur-en-milieu-rijksbegroting-2017 ]> 12.-xii-infrastructuur-en-milieu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\xiii-economische-zaken-rijksbegroting-2017 ]> 13.-xiii-economische-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2017 ]> 15.-xv-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2017 ]> 16.-xvi-volksgezondheid-welzijn-en-sport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\09\20\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2017 ]> 17.-xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2016\11\10 ]> beantwoording-schriftelijke-vragen-ez-begroting-onderdeel-landbouw-en-natuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19 ]> Miljoenennota-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19\bijlagen-miljoenennota-2018 ]> Miljoenennota-2018-bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19\iv-koninkrijksrelaties-rijksbegroting-2018 ]> IV-Koninkrijksrelaties-en-BES-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19\xiii-economische-zaken-rijksbegroting-2018 ]> XIII-Economische-Zaken-en-Diergezondheidsfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2018 ]> XVI-VWS.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-en-kabinetten-van-de-gouverneurs-rijksbegroting-2018 ]> IIB-Overige-Hoge-Colleges-van-Staat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-en-koninkrijksrelaties-rijksbegroting-2018 ]> VII-Binnenlandse-Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-en-nationale-schuld-rijksbegroting-2018 ]> IX-Financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-en-ontwikkelingssamenwerking-rijksbegroting-2018 ]> XVII-Buitenlandse-Handel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> A-Infrastructuurfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> J-Deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> V-Buitenlandse-Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> VI-Veiligheid-en-Justitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> VIII-Onderwijs-Cultuur-en-Wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> X-Defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> XII-Infrastructuur-en-Milieu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> XV-Sociale-Zaken-en-Werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\10\20 ]> bijlage-bij-beantwoording-kamervragen-begroting-ministerie-van-economische-zaken-begrotingsdeel-landbouw-en-natuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2017\12\14 ]> 17199594.bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\a-infrastructuurfonds-rijksbegroting-2019 ]> A_Infrastructuurfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\bijlagen-miljoenennota-2019 ]> Miljoenennota 2019 bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2019 ]> 2B_OverigeHogeColleges_van_Staat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\iv-koninkrijksrelaties-rijksbegroting-2019 ]> 4_Koninkrijksrelaties_en_H_BES-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\ix-financien-en-nationale-schuld-rijksbegroting-2019 ]> 9_Financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\j-deltafonds-rijksbegroting-2019 ]> J_Deltafonds 2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\v-buitenlandse-zaken-rijksbegroting-2019 ]> 5_Buitenlandse_Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\vi-justitie-en-veiligheid-rijksbegroting-2019 ]> 6_Justitie_en_Veiligheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2019 ]> 7_Binnenlandse_Zaken_en_Koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2019 ]> 8_Onderwijs_Cultuur_en_Wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\x-defensie-rijksbegroting-2019 ]> 10_Defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xii-infrastructuur-en-waterstaat-rijksbegroting-2019 ]> 12_Infrastructuur_en_Waterstaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xiii-economische-zaken-en-klimaat-rijksbegroting-2019 ]> 13_Economische_zaken_en_Klimaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2019 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2019 ]> 15_SocialeZaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2019 ]> 16_VWS.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\09\18\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2019 ]> 17_Buitenlandse_Handel_en_Ontwikkelingssamenwerking 2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2018\10\24 ]> feitelijke-vragen-begrotingsstaten-van-het-ministerie-van-infrastructuur-en-waterstaat-xii-voor-het-jaar-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\06\24 ]> 1e-suppletoire-begroting-h4-kr-2019-35210-iv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\a-infrastructuurfonds-rijksbegroting-2020 ]> A_Infrastructuurfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\bijlagen-miljoenennota-2020 ]> 01_Miljoenennota_bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2020 ]> 2B_OverigeHogeColleges_van_Staat_Kab_Gouverneurs_Kiesraad.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\iv-koninkrijksrelaties-rijksbegroting-2020 ]> 4_Koninkrijksrelaties_en_BES-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\ix-financien-en-nationale-schuld-rijksbegroting-2020 ]> 9_Financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\j-deltafonds-rijksbegroting-2020 ]> J_Deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\v-buitenlandse-zaken-rijksbegroting-2020 ]> 5_Buitenlandse_Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\vi-justitie-en-veiligheid-rijksbegroting-2020 ]> 6_Justitie_en_Veiligheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2020 ]> 7_Binnenlandse_Zaken_en_Koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2020 ]> 8_Onderwijs_Cultuur_en_Wetenschap_mvt.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\x-defensie-rijksbegroting-2020 ]> 10_Defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xii-infrastructuur-en-waterstaat-rijksbegroting-2020 ]> 12_Infrastructuur_en_Waterstaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xiii-economische-zaken-en-klimaat-rijksbegroting-2020 ]> 13_Economische_zaken_en_Klimaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2020 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.pdf[0m
+[33;1mWARNING: [93m[1m ! Failed exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2020 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.raw.txt[0m
+Exception calling ".ctor" with "1" argument(s): "The document has no page root (meaning: it's an invalid PDF)."[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2020 ]> 15_SocialeZaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2020 ]> 16_VWS.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2019\09\17\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2020 ]> 17_Buitenlandse_Handel_en_Ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\04\28 ]> dummybegroting-memorie-van-toelichting-van-de-begrotingstaat-van-het-mobiliteitsfonds-voor-het-jaar-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\a-infrastructuurfonds-rijksbegroting-2021 ]> A_Infrastructuurfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\bijlagen-miljoenennota-2021 ]> Bijlagen Miljoenennota 2021 met omslag.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\iv-koninkrijksrelaties-rijksbegroting-2021 ]> 4_Koninkrijksrelaties_en_BES-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\ix-financien-en-nationale-schuld-rijksbegroting-2021 ]> 9_Financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\j-deltafonds-rijksbegroting-2021 ]> J_Deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\k-defensiematerieelbegrotingsfonds ]> K_Defensiematerieelbegrotingsfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\miljoenennota-2021 ]> Miljoenennota 2021 met omslag.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\v-buitenlandse-zaken-rijksbegroting-2021 ]> 5_Buitenlandse_Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\vi-justitie-en-veiligheid-rijksbegroting-2021 ]> 6_Justitie_en_Veiligheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2021 ]> 7_Binnenlandse_Zaken_en_Koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2021 ]> 8_Onderwijs_Cultuur_en_Wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\x-defensie-rijksbegroting-2021 ]> 10_Defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xii-infrastructuur-en-waterstaat-rijksbegroting-2021 ]> 12_Infrastructuur_en_Waterstaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xiii-economische-zaken-en-klimaat-rijksbegroting-2021 ]> 13_Economische_Zaken_en_Klimaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2021 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xix-nationaal-groeifonds ]> 19_Nationaal_Groeifonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2021 ]> 15_Sociale_Zaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2021 ]> 16_VWS.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2020\09\15\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2021 ]> 17_Buitenlandse_Handel_en_Ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2021\09\21\a-mobiliteitsfonds-rijksbegroting-2022 ]> A Mobiliteitsfonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2021\09\21\begroting-nationale-politie-2022 ]> Begroting en beheerplan Politie 2022-2026.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2021\09\21\bijlagen-miljoenennota-2022 ]> 01 Miljoenennota bijlage.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2021\09\21\hgis-nota-homogene-groep-internationale-samenwerking-rijksbegroting-2022 ]> HGIS-nota 2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ begrotingen\2021\09\21\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2022 ]> 2B OverigeHogeColleges van Staat Kab Gouverneurs Kiesraad.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 2; BatchedItems: 100]...[0m
