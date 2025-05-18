@@ -209,7 +209,7 @@ function Export-RawTextFromSourceFile {
 
                 Export-RawText $Source_PdfReader -TargetPath $TargetFile.Path
 
-                return $TargetPath
+                return $TargetFile
             } catch {
                 $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
 

@@ -13363,3 +13363,5 @@ nothing to commit, working tree clean
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\18\1e-deelbesluiten-woo-verzoeken-excuses-slavernijverleden ]> woo-excuses-slavernijverleden-documenten.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\24\besluit-woo-verzoek-aanvragen-wet-meer-ruimte-voor-nieuwe-scholen ]> 2023-016-besluit.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 1; BatchedItems: 0]...[0m
+[main 43569f8f] Added batch #1 of policy-docs (total: 0
+ 2 files changed, 12178 insertions(+), 1 deletion(-)
