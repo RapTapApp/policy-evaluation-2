@@ -1728,3 +1728,206 @@ Exception calling ".ctor" with "1" argument(s): "The document has no page root (
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\14 ]> jaarverslag-2012-hoge-raad-van-adel.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\17\jaarverslag-igk-2012 ]> brief-mindef-bijlage-jaarverslag-igk-2012-tcm4-1003509.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 9; BatchedItems: 100]...[0m
+[main 62fee206] Added batch #9 of policy-docs (total: 100
+ 101 files changed, 198754 insertions(+)
+ create mode 100644 policy-documents/Archive/jaarplannen/2015/08/19/concept-jaarwerkplan-2016-rivm.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2015/09/01/jaarwerkplan-2016-doelen-en-activiteiten-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2016/04/21/jaarplan-kustwacht-caribisch-gebied-2016.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2016/12/22/jaarplan-2017-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2017/12/22/bijlage-meerjarenprogramma-cbs-2019-2023.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2018/02/13/jaarplan-2018-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2018/07/06/werkprogramma-maritieme-strategie-en-zeehavens-2018-2021.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2018/12/21/jaarplanning-lnv-2019-overzicht-van-onderzoeken.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2019/01/21/jaarplan-2019-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2019/06/03/saba-package-uitvoeringsagenda-januari-december-2019.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2019/06/07/ontwerp-jaarwerkplan-2020-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2019/12/16/planningsoverzicht-koninkrijksrelaties-2020.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2020/03/02/rappelabele-toezeggingen-eerste-kamer-minister-van-binnenlandse-zaken-en-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2020/03/05/gestructureerd-planningsoverzicht-biza-2020.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2020/12/11/jaarplan-2021-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2020/12/15/werkprogramma-inspectie-overheidsinformatie-en-erfgoed-2021-2022.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2021/05/19/jaarverslag-2020-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2021/11/12/rappelabele-toezeggingen-ek-binnenlandse-zaken-en-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2022/02/04/jaarplan-2022-kustwacht-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2022/12/15/bijlage-1-jaarplan-belastingdienst-2023.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2023/01/27/jaarplan-2023-kustwacht-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2023/09/07/inspectie-van-het-onderwijs-ontwerp-jaarwerkplan-2024.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/12/31/rijksjaarverslag-2015-buitenlandse-handel-en-ontwikkelingssamenwerking/2015.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/12/31/rijksjaarverslag-2016-buitenlandse-handel-en-ontwikkelingssamenwerking/2016.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2005/03/01/mivd-2004/mivdjaarverslag-2004.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2006/03/01/mivd-2005/mivdjaarverslag-2005.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2006/05/17/rijksjaarverslag-defensie-2005.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2007/04/27/mivd-2006/kamerbrief-jaarverslg-mivd06.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2007/06/01/rijksjaarverslag-defensie-2006.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2008/04/25/jaarverslag-mivd-2007/mivd-jaarverslag-2007.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2008/04/28/jaarverslag-igk-2007.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2008/05/21/rijksjaarverslag-defensie-2007/jaarverslag-2007.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/04/15/jaarverslag-mivd-2008.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/05/19/jaarverslag-inspecteur-generaal-der-krijgsmacht-2008/igk-jaarverslag-2008-1.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/06/19/jaarverslag-2006-buitenlandse-zaken/jaarverslag-bz-2006.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/06/19/jaarverslag-2008-buitenlandse-zaken/res2170.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/06/19/jaarverslag-2008-homogene-groep-internationale-samenwerking-hgis/hgis-jaarverslag-2008.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/07/10/jaarverslag-2007-buitenlandse-zaken/bzjaarverslag2007.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2010/04/20/aivd-voorwaartse-verdediging-is-nodig-voor-de-bescherming-van-nederland/jaarverslag2009.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2010/04/29/jaarverslag-mivd-2009.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2010/05/15/rijksjaarverslag-defensie-2008/kst128507-1.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2010/05/19/jaarverslag-igk-2009.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2010/05/20/rijksjaarverslag-defensie-2009/rijksjaarverslag-2009-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/04/15/aivd-jaarverslag-2010.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/04/29/militaire-inlichtingen-en-veiligheidsdienst/bijlage-jaarverslag-mivd-2010.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/05/11/jaarverslag-2010-college-voor-examens.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/05/18/beheerverslag-2010-belastingdienst-interactief.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/05/18/financieel-jaarverslag-van-het-rijk-fjr-2010/fjr-2010.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/05/26/dnb-verantwoording-2010.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/06/30/jaarverslag-2010-inspectie-verkeer-en-waterstaat.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/06/30/jaarverslag-2010-vrom-inspectie.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2011/09/05/jaarverslag-commissie-buitenslands-gediplomeerden-volksgezondheid-2010/meva-3075837b.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/03/20/de-ind-belicht-jaarverslag-2011-van-de-ind/jaarverslag-ind-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/04/16/sociaal-jaarverslag-ministerie-van-buitenlandse-zaken-2011/sociaal-jaarverslag-van-buitenlandse-zaken-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/04/17/jaarverslag-2011-college-voor-examens.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/04/17/jaarverslag-2011-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/04/19/jaarverslag-aivd-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/04/19/jaarverslag-mivd/jaarverslag2011-mivd.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/10/jaarrapportage-bedrijfsvoering-rijk-2011-rapportage-grote-en-risicovolle-ict-projecten.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/10/jaarrapportage-bedrijfsvoering-rijk-2011-tot-en-met-bijlage-4/jaarrapportage-bedrijfsvoering-rijk-140512.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/11/jaarverslag-2011-van-het-commissariaat-van-de-media.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/bijlage-kamerbrief-over-beheerverslag-belastingdienst-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/financieel-jaarverslag-van-het-rijk-fjr-2011/11-jv-financieel-jaarverslag-vh-rijk.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/h-bes-fonds/11-jv-h-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/iib-overige-hoge-colleges-van-staat-en-kabinetten/11-jv-2b-overige-hoge-colleges.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/iv-koninkrijksrelaties/11-jv-4-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/ixb-financien/11-jv-9b-financien.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/jaarverslag-2011-kustwacht-koninkrijk-der-nederlanden-in-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/kerncijfers-2007-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/v-buitenlandse-zaken/11-jv-5-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/vi-veiligheid-en-justitie/11-jv-6-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/vii-binnenlandse-zaken/11-jv-7-binnenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/viii-onderwijs-cultuur-en-wetenschap/11-jv-8-onderwijs-cultuur-en-wetenschap.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/x-defensie/11-jv-10-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/xii-infrastructuur-en-milieu/11-jv-12-infrastructuur-en-milieu.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/xiii-economische-zaken-landbouw-en-innovatie/11-jv-13-economische-zaken-landbouw-en-inn-p.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/xv-sociale-zaken-en-werkgelegenheid/11-jv-15-sociale-zaken-en-werkgelegenheid.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/xvi-volksgezondheid-welzijn-en-sport/11-jv-16-vws.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/03/04/jaarverslag-2012-college-voor-examens.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/03/22/jaarverslag-2012-centraal-bureau-voor-de-statistiek.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/04/15/sociaal-jaarverslag-2012/bz-sociaal-jaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/04/25/jaarverslag-2012-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/financieel-jaarverslag-van-het-rijk-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/h-bes-fonds/h-bes-fonds-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/iib-overige-hoge-colleges-van-staat-en-kabinetten/iib-overige-hoge-colleges-van-staat-en-kabinetten-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/internetbijlagen-financieel-jaarverslag-van-het-rijk-2012/internetbijlagen-fjr-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/iv-koninkrijksrelaties/iv-koninkrijksrelaties-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/ixb-financien/ixb-financien-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/ocw-kerncijfers-2008-2012/onderwijs-cultuur-en-wetenschap-kerncijfers-2008-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/v-buitenlandse-zaken/v-buitenlandse-zaken-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/vii-binnenlandse-zaken-en-koninkrijksrelaties/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/viii-onderwijs-cultuur-en-wetenschap/viii-onderwijs-cultuur-en-wetenschap-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/x-defensie/x-defensie-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/xii-infrastructuur-en-milieu/xii-infrastructuur-en-milieu-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/xiii-economische-zaken/xiii-economische-zaken-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/xv-sociale-zaken-en-werkgelegenheid/xv-sociale-zaken-en-werkgelegenheid-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/xvi-volksgezondheid-welzijn-en-sport/xvi-volksgezondheid-welzijn-en-sport-rijksjaarverslag-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/13/jaarrapportage-bedrijfsvoering-rijk-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/14/jaarverslag-2012-hoge-raad-van-adel.raw.txt
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/17/jaarverslag-igk-2012/brief-mindef-bijlage-jaarverslag-igk-2012-tcm4-1003509.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\06\06 ]> jaarverslag-commissariaat-voor-de-media-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\06\10 ]> jaarbericht-2012-inspectie-jeugdzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\01\13\jaaroverzicht-crisisbeheersing-ienm-2013 ]> beleidsplan-crisisbeheersing-ienm-2014-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\04\01 ]> jaarverslag-2013-college-voor-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\04\01 ]> jaarverslag-aivd-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\04\16 ]> jaarverslag-2013-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\04\17 ]> jaaroverzicht-koninklijk-huis-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\04\23 ]> jaarverslag-militaire-inlichtingen-en-veiligheidsdienst-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\02 ]> sociaal-jaarverslag-bz-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21 ]> hgis-jaarverslag-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21 ]> jaarverslag-igk-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\bes-fonds ]> h-bes-fonds-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\deltafonds ]> j-deltafonds-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\financieel-jaarverslag-van-het-rijk-2013 ]> financieel-jaarverslag-van-het-rijk-2013-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\internetbijlagen-bij-financieel-jaarverslag-van-het-rijk-2013 ]> internetbijlagen-bij-het-fjr-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\iv-koninkrijksrelaties ]> iv-koninkrijksrelaties-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\ix-financien-en-nationale-schuld ]> ix-financien-en-nationale-schuld-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\v-buitenlandse-zaken ]> v-ministerie-van-buitenlandse-zaken-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\vi-veiligheid-en-justitie ]> vi-ministerie-van-veiligheid-en-justitie-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\vii-binnenlandse-zaken-en-koninkrijksrelaties ]> vii-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties-en-van-wonen-en-rijksdienst-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\viii-onderwijs-cultuur-en-wetenschap ]> viii-ministerie-van-onderwijs-cultuur-en-wetenschap-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\x-defensie ]> x-ministerie-van-defensie-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\xii-infrastructuur-en-milieu ]> xii-ministerie-van-infrastructuur-en-milieu-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\xiii-economische-zaken ]> xiii-ministerie-van-economische-zaken-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\xv-sociale-zaken-en-werkgelegenheid ]> xv-ministerie-van-sociale-zaken-en-werkgelegenheid-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\21\xvi-volksgezondheid-welzijn-en-sport ]> xvi-ministerie-van-volksgezondheid-welzijn-en-sport-compleet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2014\05\22 ]> jaarverslag-2013-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\03\01 ]> jaarverslag-2014-college-voor-toetsen-en-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\03\19 ]> jaarverslag-ilt-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\03\27 ]> cbs-jaarverslag-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\04\01\jaarverslag-aivd-2014 ]> aivd-jaarverslag-2014-220415.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\04\09 ]> jaarverslag-2014-inspectie-militaire-gezondheidszorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\04\21 ]> jaarverslag-mivd-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\07 ]> jaarverslag-2014-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\bes-fonds ]> h-bes-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\binnenlandse-zaken-en-koninkrijksrelaties ]> 7-binnenlandse-zaken-en-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\buitenlandse-handel-en-ontwikkelingssamenwerking ]> 17-buitenlandse-handel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\buitenlandse-zaken ]> 5-buitenlandse-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\defensie ]> 10-defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\deltafonds ]> j-deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\economische-zaken ]> 13-economische-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\financieel-jaarverslag-van-het-rijk-2014 ]> 0-1-financieel-jaarverslag-van-het-rijk-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\financien-en-nationale-schuld ]> 9-financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\infrastructuur-en-milieu ]> 12-infrastructuur-en-milieu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\internetbijlagen-bij-financieel-jaarverslag-van-het-rijk-2014 ]> 0-2-internetbijlagen-bij-het-fjr-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\koninkrijksrelaties ]> 4-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\onderwijs-cultuur-en-wetenschap ]> 8-onderwijs-cultuur-en-wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs ]> 2b-hoge-colleges-van-staat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\sociale-zaken-en-werkgelegenheid ]> 15-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\veiligheid-en-justitie ]> 6-veiligheid-en-justitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\20\volksgezondheid-welzijn-en-sport ]> 16-volksgezondheid-welzijn-en-sport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\21 ]> jaarverslag-2014-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\05\21 ]> jaarverslag-homogene-groep-internationale-samenwerking-hgis-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\06\02 ]> staat-van-de-ether-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\09\11 ]> sociaal-jaarverslag-bz-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2015\10\15 ]> jaarverslag-beheer-staatsdeelnemingen-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\03\01 ]> jaarverslag-2015-college-voor-toetsen-en-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\03\23 ]> cbs-jaarverslag-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18 ]> evaluatie-nederlandse-bijdrage-aan-missies-en-operaties-in-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18 ]> jaarverslag-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18 ]> jaarverslag-homogene-groep-internationale-samenwerking-hgis.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\bes-fonds-2015 ]> H. BES-Fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\binnenlandse-zaken-en-koninkrijksrelaties-2015 ]> 7. VII Binnenlandse Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\buitenlandse-handel-en-ontwikkelingssamenwerking-2015 ]> 17. XVII Buitenlandse Handel en Ontw..pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\buitenlandse-zaken-2015 ]> 5. V Buitenlandse Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\defensie-2015 ]> 10.-x-defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\deltafonds-2015 ]> j.-deltafonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\economische-zaken-2015 ]> 13. XIII Economische Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\financieel-jaarverslag-rijk-2015 ]> financieel-jaarverslag-van-het-rijk-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\financien-en-nationale-schuld-2015 ]> 9.-ix-financien-en-nationale-schuld.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\infrastructuur-en-milieu-2015 ]> 12.-xii-infrastructuur-en-milieu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\koninkrijksrelaties-2015 ]> 4.-iv-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\onderwijs-cultuur-en-wetenschap-2015 ]> 8.-viii-onderwijs-cultuur-en-wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\sociale-zaken-en-werkgelegenheid-2015 ]> 15.-xv-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\veiligheid-en-justitie-2015 ]> 6.-vi-veiligheid-en-justitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18\volksgezondheid-welzijn-en-sport-2015 ]> 16.-xvi-volksgezondheid-welzijn-sport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\05\18-2015 ]> internetbijlagen-financieel-jaarverslag-rijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\06\01 ]> jaarverslag-2015-cbgv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2016\08\18 ]> jaarverslag-ilt.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\04\01 ]> jaarverslag-2016-commissariaat-voor-de-media.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\04\24 ]> jaarverslag-mivd-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\01 ]> jaarbeeld-2016-effectief-toezicht-voor-beter-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\08 ]> evaluatie-van-de-uitvoering-van-het-verdrag-inzake-de-forward-operating-locations-fol-op-curacao-en-aruba-in-de-2270A5EC.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\08 ]> evaluatie-van-de-uitvoering-van-het-verdrag-inzake-de-forward-operating-locations-fol-op-curacao-en-aruba-in-de-30781C59.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\15 ]> evaluatie-nederlandse-bijdrage-aan-missies-en-operaties-in-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17 ]> jaarverslag-2016-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17 ]> personeelsrapportage-defensie-over-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\bijlagen-financieel-jaarverslag-rijk-2016 ]> 0.1-bijlagen-bij-het-financieel-jaarverslag-van-het-rijk-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\binnenlandse-zaken-en-koninkrijksrelaties-2016 ]> 7. VII Jaarverslag Ministerie van Binnenlandse Zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\buitenlandse-handel-en-ontwikkelingssamenwerking-2016 ]> 17. XVII Jaarverslag Buitenlandse Handel en Ontwikkelingssamenwerking 2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\buitenlandse-zaken-2016 ]> 5. V Jaarverslag Ministerie van Buitenlandse Zaken 2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\defensie-2016 ]> 10.-x-jaarverslag-ministerie-van-defensie-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\deltafonds-2016 ]> 22.-j-jaarverslag-deltafonds-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\economische-zaken-2016 ]> 13. XIII Jaarverslag Ministerie van Economische Zaken en Diergezondheidsfonds 2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\financieel-jaarverslag-rijk-2016 ]> 0.-financieel-jaarverslag-van-het-rijk-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\financien-en-nationale-schuld-2016 ]> 9.-ix-jaarverslag-ministerie-van-financien-en-nationale-schuld-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\infrastructuur-en-milieu-2016 ]> 12.-xii-jaarverslag-ministerie-van-infrastructuur-en-milieu-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\koninkrijksrelaties-2016 ]> 4.-iv-jaarverslag-koninkrijksrelaties-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2017\05\17\nationale-politie-2016 ]> 23.-jaarverantwoording-politie-2016.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 10; BatchedItems: 100]...[0m
