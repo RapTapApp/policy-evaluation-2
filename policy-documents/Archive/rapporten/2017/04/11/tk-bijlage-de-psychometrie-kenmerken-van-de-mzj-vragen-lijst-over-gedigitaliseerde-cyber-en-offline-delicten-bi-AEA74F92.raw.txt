@@ -1,0 +1,1700 @@
+ 
+ 
+Cahier 2017-4 
+De psychometrische kenmerken van de MZJ-
+vragenlijst over gedigitaliseerde, cyber- en 
+offlinedelicten bij jongeren 
+Schaalconstructen, afnamemodi en omvangschattingen 
+ 
+ 
+ 
+ 
+ 
+ 
+M.G.C.J. Beerthuizen 
+N. Tollenaar 
+A.M. van der Laan 
+ 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 1 
+
+ 
+Inhoud 
+Managementsamenvatting — 5 
+1 Inleiding — 7 
+1.1 Doelstelling — 9 
+1.1.1 Psychometrische kenmerken — 9 
+1.1.2 Alternatieve afnamemodus — 9 
+1.1.3 Omvangschatting — 10 
+1.2 Onderzoeksvragen — 11 
+1.3 Leeswijzer — 12 
+2 Methode — 13 
+2.1 Afnamemodi — 13 
+2.1.1 CAPI/CASI — 13 
+2.1.2 CAWI — 13 
+2.2 Steekproef, veldwerk en respons — 13 
+2.2.1 Steekproef — 13 
+2.2.2 Veldwerk — 14 
+2.2.3 Respons — 14 
+2.2.4 Verdachten en HALT — 18 
+2.3 Vragenlijst zelfgerapporteerde delinquentie — 18 
+2.3.1 Cyber- en gedigitaliseerde delinquentie — 19 
+3 Psychometrische kenmerken gedigitaliseerde, cyber- en 
+offlinedelinquentie — 23 
+3.1 Schaalstructuren — 23 
+3.1.1 Verkennende factoranalyse — 24 
+3.1.2 Tussentijdse samenvatting — 29 
+3.1.3 Bevestigende factoranalyse — 30 
+3.1.4 Conclusie factoranalyses — 31 
+3.2 Sociale wenselijkheid — 32 
+3.2.1 Conclusie en discussie sociale wenselijkheid — 34 
+3.3 Internet en sociale media — 35 
+3.3.1 Conclusie internet en sociale media — 35 
+4 CAPI/CASI- versus CAWI-modus — 37 
+4.1 Verschillen in rapportage delinquentie — 37 
+4.2 Vergelijkbaarheid respondenten CAPI/CASI- en CAWI-modus — 39 
+4.2.1 Persoons- en achtergrondkenmerken — 39 
+4.2.2 Geregistreerde delinquente carrière kenmerken — 41 
+4.2.3 Responskenmerken — 41 
+4.3 Propensity score — 41 
+4.4 Prevalentie — 42 
+4.4.1 Itemniveau — 42 
+4.4.2 Schaalniveau — 44 
+4.4.3 Samenvatting prevalentie — 45 
+4.5 Frequentie — 45 
+4.5.1 Schaalniveau — 45 
+4.5.2 Samenvatting frequentie — 47 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 3 
+
+ 
+Managementsamenvatting 
+De Monitor Zelfgerapporteerde Jeugdcriminaliteit (MZJ) is een vijfjaarlijks onderzoek 
+waarin Nederlandse jongeren in de leeftijd van 10 tot 23 jaar bevraagd worden over 
+hun delictgedrag. Via zelfrapportage wordt daarmee aanvullende kennis verkregen 
+over trends in de jeugdcriminaliteit, naast trends die via politie- en justitiegegevens 
+bekend zijn. Tijdens de laatste meting zijn een aantal veranderingen doorgevoerd, 
+waar de belangrijkste van is de toevoeging van nieuwe gedigitaliseerde en cyber-
+delicten in de bevraging. In het huidig rapport worden de resultaten van een ver-
+diepingsonderzoek naar de MZJ gepresenteerd. De drie thema’s die aan bod komen 
+zijn: 
+1 De psychometrische kenmerken van de vragenlijst over gedigitaliseerde, cyber- 
+en offlinedelicten, welke de kern vormt van de MZJ. 
+2 De gevolgen van een overstap van een CAPI/CASI-afnamemodus (d.w.z., afname 
+waarbij een interviewer aanwezig is) naar een CAWI-modus (d.w.z., een internet-
+afname) voor de rapportage en monitoring van zelfgerapporteerd delinquent 
+gedrag. 
+3 De mogelijkheden om de MZJ te gebruiken om een omvangschatting te maken 
+van de door Nederlandse jeugdigen gepleegde gedigitaliseerde en cyberdelicten. 
+ 
+Betreffende het eerste thema suggereren de resultaten dat onder zelfgerapporteer-
+de jeugddelinquentie een enkele factorstructuur ligt – wat wil zeggen dat een overall 
+prevalentieschaal van delinquent gedrag statistisch gezien het ‘beste’ past (d.w.z., 
+het onderscheid maken tussen geen delinquent gedrag en ten minste één delict ten 
+minste éénmaal gepleegd in het voorgaande jaar, waarbij er geen clustering van 
+delicten optreedt). Een tweede schaalvorm, die meer complex is, maar nog steeds 
+statistisch adequaat, is het onderscheid maken tussen offline- en gedigitaliseerde 
+delicten samen enerzijds en cyberdelicten apart anderzijds. 
+ 
+Verder laten de resultaten zien dat de prevalentie, frequentie en de ernst van zelf-
+gerapporteerde delinquentie lager, minder frequent en minder ernstig is, wanneer 
+deze bevraagd worden via het internet zonder aanwezige interviewer, controlerend 
+voor mogelijke effecten van verschillen in de samenstelling van respondentgroepen. 
+Een overstap van een CAPI/CASI-afnamemodus naar een CAWI-modus zou dan ook 
+tot een trendbreuk leiden. 
+ 
+De MZJ wordt niet geschikt bevonden om de omvang te schatten van de door Ne-
+derlandse jeugdigen gepleegde gedigitaliseerde en cyberdelicten. Voornaamste 
+tekortkoming van de MZJ is dat een deel van de onlinedelicten dermate breed 
+geoperationaliseerd is, dat deze zowel bagatelfeiten als zeer ernstige misdrijven 
+omvat. Zodoende is het onduidelijk wat de omvangschatting nou precies weergeeft. 
+Daarnaast is het ook onduidelijk hoeveel delicten dit zijn, waar deze delicten ge-
+pleegd zijn en hoe deze aantallen zich verhouden door de tijd heen. 
+ 
+De conclusie is dat de MZJ een adequaat instrument is voor zijn oorspronkelijke 
+toepassing – een zelfrapportage instrument als aanvulling op registratiecijfers – 
+maar dat een overstap naar een andere modus niet zonder problemen zal gaan en 
+dat de huidige MZJ niet geschikt is als instrument voor omvangschattingen van 
+jeugdige cyber- en gedigitaliseerde delicten. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 5 
+
+ 
+1 Inleiding 
+Trends in criminaliteit worden op verschillende manieren gemonitord, bijvoorbeeld 
+door het bestuderen van door politie of justitie geregistreerde criminaliteit. Als on-
+derdeel van hun werkzaamheden houden de politie, het Openbaar Ministerie (OM) 
+en de zittende magistratuur (ZM) onder andere bij hoeveel verdachten er zijn aan-
+gehouden en hoeveel daders er worden vervolgd en veroordeeld. Door over de tijd 
+heen deze cijfers te volgen kan men zien of de criminaliteit stijgt, daalt of juist on-
+veranderd blijft. Een dergelijke methode wordt toegepast in Nederlands (en inter-
+nationaal) onderzoek naar diverse criminele thema’s (bijv., veelplegers en recidive; 
+Kalidien & De Heer-de Lange, 2015; Tollenaar, Beerthuizen & Van der Laan, 2016; 
+Wartna, Blom & Tollenaar, 2011). 
+ 
+Echter, het gebruik van officiële registratie is niet zonder beperkingen. Ten eerste, 
+geregistreerde criminaliteit betreft louter criminaliteit die door de politie wordt 
+gesignaleerd. Misdrijven waarvan geen aangifte worden gedaan, of slachtofferloze 
+delicten die niet worden waargenomen door politie, vallen buiten deze operationa-
+lisering. Ten tweede, niet iedereen die wordt aangehouden voor een misdrijf wordt 
+daarvoor ook vervolgd. Kortom, als men alleen maar toegang heeft tot de bronnen 
+van de politie, het OM of de ZM, dan valt het aandeel niet-ontdekte criminaliteit 
+buiten beeld en mogelijk zo ook niet-vervolgde criminaliteit. Verder betreft geregis-
+treerde criminaliteit over het algemeen meer ernstigere vormen van criminaliteit 
+(Farrington et al., 2003; Weijters, Van der Laan & Kessels, 2016) en kunnen ver-
+anderingen in registratieprotocollen en -praktijken trends in de geregistreerde cri-
+minaliteit vertekenen (Van Ham, Bervoets & Ferwerda, 2016). Ofwel, de geregis-
+treerde criminaliteit geeft geen volledig en mogelijk een vertekend beeld van de 
+werkelijke criminaliteit. 
+ 
+Specifieke criminaliteit die door bovenstaande redenen grotendeels onopgemerkt 
+blijft in registratiecijfers, zijn gedigitaliseerde en cybercriminaliteit (zie box 1 voor 
+een uiteenzetting van welke misdrijven wij onder deze terminologie verstaan). Een 
+reden hiervoor is dat gedigitaliseerde misdrijven niet allemaal een specifiek wets-
+artikel in het Wetboek van Strafrecht (Sr) hebben. Zo kan onlinebedreiging vervolgd 
+worden onder het meer algemene wetsartikel voor bedreiging (285 Sr), waarin geen 
+verwijzing naar een onlinecomponent staat. Verder is cybercriminaliteit moeilijk op 
+te sporen en te vervolgen, waardoor de kans op registratie in vervolgings- en ver-
+oordelingsbronnen minimaal is. Daarentegen zijn er bronnen die melden dat cyber-
+criminaliteit zeker wel voorkomt en in grotere getalen dan politie- en justitiële 
+registratie suggereren (bijv., Jardine, 2015). 
+ 
+Box 1 Gebruikte terminologie 
+Met betrekking tot cybercrime wordt vaak het onderscheid gemaakt tussen cyber-
+criminaliteit en gedigitaliseerde criminaliteit. Cybercriminaliteit wordt in wetenschap-
+pelijke literatuur ook wel beschreven als cybercrime in enge zin (Zebel et al., 2013) 
+of cyber-dependent criminaliteit (Holt & Bossler, 2016; McGuire & Dowling, 2013) 
+en heeft betrekking op criminaliteit waarbij ICT zowel doel als middel is. Onder 
+cybercriminaliteit worden delicten als hacken, het versturen van virussen en het 
+plegen van DDoS-aanvallen verstaan. Gedigitaliseerde criminaliteit wordt in de 
+wetenschappelijke literatuur ook wel cybercrime in ruime zin (Zebel et al., 2013)  
+of cyber-enabled criminaliteit genoemd (Holt & Bossler, 2016; McGuire & Dowling, 
+2013) en heeft betrekking op traditionele delicten waarbij gebruik wordt gemaakt 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 7 
+
+ 
+altijd zullen leiden tot strafrechtelijke opsporing en vervolging – daarom hanteren 
+wij in dit rapport vanaf dit punt de terminologie delinquentie voor deze gedragingen 
+(zie ook box 1). 
+1.1 Doelstelling 
+In dit rapport wordt dieper ingegaan op deze zelfrapportage, waarbij een drietal 
+kenmerken van de MZJ aan bod komen. 
+1.1.1 Psychometrische kenmerken 
+Ten eerste, hoewel de MZJ al meerdere jaren wordt gehanteerd om trends in jeugd-
+delinquentie te meten, zijn de psychometrische kenmerken van deze vragenlijst nog 
+1
+niet uitgebreid bestudeerd. Omdat in de meest recente MZJ nieuwe delicten zijn 
+toegevoegd betreffende gedigitaliseerde en cyberdelinquentie, is het wenselijk om 
+te kijken hoe deze nieuwe delicten zich verhouden ten opzichte van de traditioneel 
+bevraagde delicten. Namelijk, hoewel cyber-, gedigitaliseerde en offlinedelinquentie 
+van elkaar onderscheiden worden door politie en OM (MinVenJ, 2014), is deze 
+indeling nog niet empirisch getoetst (zie ook Rokven et al., 2017). 
+ 
+Het onderzoeken welke indeling goed ‘past’ op hoe jongeren over hun delictgedrag 
+rapporteren is van belang voor toekomstige monitorrapportage en wetenschappelijk 
+onderzoek betreffende jeugddelinquentie. Relevant is, bijvoorbeeld, te weten of en 
+hoe offline- en onlinedelicten samenhangen. Zo zijn er aanwijzingen dat offline- en 
+gedigitaliseerde bedreigingsdelicten vaak naast elkaar plaatsvinden (Van der Broek, 
+Van der Laan & Weijters, 2016). Het sterk samenhangen van delicten met éénzelfde 
+aard (bijv., bedreigen), maar welke via verschillende modi plaatsvinden, zou erop 
+wijzen dat het belangrijker is om delicten samen te nemen op basis van de aard van 
+deze gedragingen dan op basis van de (ICT-)middelen waarmee deze gedragingen 
+plaatsvinden (Grabosky, 2001). 
+ 
+Verder wordt gekeken of de gerapporteerde gedigitaliseerde en cyberdelinquentie 
+samengaat met regulier gebruik van onlinemedia. Indien jeugdigen structureel veel 
+cyberdelinquentie rapporteren, zonder toegang tot of kennis van internet te hebben, 
+dan doet dit af aan de convergente validiteit van de gerapporteerde onlinedelicten 
+(tenzij uitsluitend gebruikgemaakt zou worden van ‘cyber-crime-as-a-service’ bij 
+gebrek aan kennis; Manky, 2013). Daarnaast wordt ook naar sociale wenselijkheid 
+gekeken. 
+1.1.2 Alternatieve afnamemodus 
+Ten tweede wordt onderzocht of een alternatieve afnamemodus van de MZJ tot 
+eenzelfde resultaten betreffende zelfgerapporteerde jeugddelinquentie zou leiden.  
+Specifieker, er wordt onderzocht of een overstap van de tot nu toe gebruikte CAPI/ 
+CASI modus (d.w.z., computer-assisted personal/self interviewing) naar een CAWI 
+modus (d.w.z., computer-assisted web interviewing) zou leiden tot een trendbreuk. 
+                                                
+1
+ De MZJ is in zekere zin een ‘voortborduring’ op gevalideerde vragenlijsten die in de jaren tachtig ontwikkeld zijn 
+en daarnaast is in meer beperkte mate de schaalstructuur van de MZJ tijdens de eerste meting al wel bestudeerd 
+(Van der Laan & Blom, 2006a). Ook zijn sterke verbanden met risico- en beschermende factoren van delinquentie 
+gevonden (Van der Laan & Blom, 2006b). Deze verbanden met de risico- en beschermende factoren bieden een 
+eerste indicatie voor de validiteit van zelfrapportage van offlinedelinquent gedrag. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 9 
+
+ 
+Daarnaast melden slachtoffers cyberdelicten vaak ook niet bij politie of justitie (de 
+meldingsbereidheid is zelfs lager dan bij traditionele delicten; Domenie, Leukfeldt, 
+Van Wilsem, Jansen & Stol, 2012; Kloosterman, 2015), mede door schadeloosstel-
+ling van banken of creditcardmaatschappijen, waardoor ook op basis van geregis-
+treerd slachtofferschap een inschatting van de omvang moeilijk is. 
+Maar ook ‘harde’ indicaties van cyberdelinquentie, zoals ‘vulnerabilities’ in software, 
+‘malicious’ websites en aantallen botnets, zijn niet geheel toereikend (Jardine, 
+2015). Ondanks het vele werk dat wordt verzet om deze bronnen te produceren, 
+blijven zij een steekproef van al het ‘kwade’ internetverkeer – niemand heeft vol-
+ledig zicht op wat er allemaal op internet gebeurt (of kan dit behappen). Daarnaast 
+kan op basis van dergelijke data vaak geen onderscheid gemaakt worden naar leef-
+tijd van dader of slachtoffer. 
+ 
+Een andere bron die geraadpleegd zou kunnen worden om de omvang te schatten, 
+zijn de onlinedelinquenten zelf. Echter, via registerdata zal dit niet tot een volledig 
+beeld leiden, vanwege de lage aantallen jeugdigen die geregistreerd staan als 
+gedigitaliseerd of cyberdelinquent (Van der Laan & Goudriaan, 2016). Ook is deze 
+groep niet noodzakelijk een representatie van alle jeugdige onlinedelinquenten, 
+zowel qua persoonskenmerken als delinquente gedragingen. 
+ 
+Zelfrapportage biedt wel mogelijkheden. In de MZJ wordt namelijk naast het wel of 
+niet voorkomen van gedigitaliseerde en cyberdelicten ook gevraagd naar hoe vaak 
+men deze delicten gepleegd heeft. Door deze aantallen te wegen naar populatie-
+niveau zou wellicht een schatting gemaakt kunnen worden van het aantal gedigita-
+liseerde en cyberdelicten gepleegd door Nederlandse jeugdigen. In dit onderzoek 
+wordt gekeken of deze suggestie tot een betrouwbare en realistische schatting van 
+de omvang van gedigitaliseerde en cyberdelinquentie kan leiden. 
+ 
+Samenvattend, dit onderzoek betreft drie onderwerpen waarmee de waarde van de 
+MZJ voor de beschrijving van gedigitaliseerd, cyber- en offlinedelinquent gedrag bij 
+jeugdigen in Nederland verder onderzocht wordt.  
+1.2 Onderzoeksvragen 
+Ten eerste, de psychometrische kenmerken van de MZJ-vragenlijst, met onder-
+staande onderzoeksvragen: 
+1 Wat is de schaalstructuur van gedigitaliseerde en cyberdelinquentie gerappor-
+teerd door jeugdigen en hoe verhoudt deze zich met offlinedelinquentie? 
+2 Wat is de correlatie tussen sociale wenselijkheid en offline-, gedigitaliseerde en 
+cyberdelinquentie gerapporteerd door jeugdigen? 
+3 Wat is het verband tussen het gebruik van internet en sociale media en het rap-
+porteren van delicten die gebruiken maken van deze media? 
+ 
+Ten tweede wordt aandacht besteed aan de verschillen in zelfgerapporteerde delin-
+quentie door jeugdigen bij twee verschillende afnamemodi – CAPI/CASI en CAWI – 
+met onderstaande onderzoeksvraag: 
+4 Is de gemeten prevalentie, frequentie, ernst en schaalstructuur van offline-, 
+gedigitaliseerde en cyberdelinquentie gerapporteerd door jeugdigen voor de 
+CAPI/CASI- en CAWI-modus hetzelfde? En zo nee, waar komt dit door? 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 11 
+
+ 
+2 Methode 
+In dit hoofdstuk worden de afnamemodi en (verschillen in) bijbehorende respons-
+groepen beschreven evenals de vragenlijst naar zelfgerapporteerde delicten. Deze 
+omschrijvingen zijn van belang om de operationalisatie van jeugddelinquentie vol-
+gens de MZJ te doorgronden. Het huidig onderzoek betreft louter de 2015 meting 
+van de MZJ. Voor de complete documentatie over hoe de MZJ-2015 opgezet en 
+uitgevoerd is zie Engelen, Roels en De Heij (2015a, 2015b) en Van der Laan en 
+Beerthuizen (2016). Hieronder wordt de inhoud van deze rapporten in het kort 
+uiteengezet. 
+2.1 Afnamemodi 
+De reguliere afnamemodus van de MZJ is een computer-assisted personal/self inter-
+viewing modus (CAPI/CASI). In 2015 is bij wijze van experiment een parallelle en 
+alternatieve afname via een computer-assisted web interviewing modus uitgevoerd 
+(CAWI; zie Engelen et al., 2015b en paragraaf 2.2). 
+2.1.1 CAPI/CASI 
+De CAPI/CASI-modus is een gecombineerde afnamemodus van CAPI en CASI. Bij  
+de CAPI-modus wordt de vragenlijst afgenomen bij een respondent door een inter-
+viewer. Dat kan door voorlezen of laten meelezen. De antwoorden worden ingevuld 
+door de interviewer op een computer. Bij de CASI-modus krijgt de respondent het 
+beeldscherm voor ogen zonder dat de interviewer meekijkt. De respondent vult  
+dan zelf zijn antwoorden in. De CASI-modus wordt alleen toegepast binnen de MZJ 
+bij gevoelige vragen, zoals de vragen naar delictgedragingen, om zodoende open-
+heid te promoten door meer relatieve anonimiteit. De interviewer is wel aanwezig  
+– mocht de respondent er zelf niet uitkomen, dan kan deze assisteren. Zo wordt 
+uitval of onduidelijkheden over de vragen voorkomen. 
+2.1.2 CAWI 
+De alternatieve afnamemodus in dit onderzoek is CAWI, wat staat voor computer-
+assisted web interviewing. Net als bij CAPI/CASI worden de vragen en antwoorden 
+bij CAWI met behulp van een computer gepresenteerd en geregistreerd. Echter,  
+de vragenlijst wordt via internet afgenomen, zonder dat er een interviewer fysiek 
+aanwezig is bij de afname. Respondenten moeten dan ook hun eigen computer  
+of smartphone gebruiken en kunnen geen hulp vragen of krijgen van een fysiek 
+aanwezige interviewer. 
+2.2 Steekproef, veldwerk en respons 
+2.2.1 Steekproef 
+De steekproef van de MZJ 2015 betreft jongeren in de leeftijd van 10 tot 23 jaar. 
+Daartoe wordt een willekeurige gestratificeerde steekproef getrokken van alle jon-
+geren in deze leeftijdsgroep die ingeschreven staan in een Nederlandse gemeente 
+(met uitzondering van Caraïbisch Nederlandse eilanden en de Waddeneilanden). In 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 13 
+
+ 
+ouders), opleidingsniveau van de respondent, sociaal economische status van gezin 
+waarin de respondent zich bevond of van de respondent zelf, besteedbaar inkomen 
+en stedelijkheid van de woonplek. Hierbij wordt ook gecorrigeerd voor verschillen in 
+responswaarschijnlijkheid van verschillende respondent(groep)en.  
+In totaal bestaat de CAPI/CASI-responsgroep uit 3.188 respondenten en de CAWI-
+responsgroep uit 2.820 respondenten. De verdeling van de kenmerken in beide 
+groepen verschilt statistisch significant (zie tabel 2.1 voor de ongewogen groeps-
+kenmerken per leeftijdscategorie; zie bijlage 2, tabel b2.1 voor de groepskenmerken 
+van de steekproef niet uitgesplitst naar leeftijd). 
+Het aandeel 12- tot 18-jarigen ten opzichte van de 10- tot 12-jarigen en 18- tot 23-
+jarigen is bij de CAWI-responsgroep groter dan bij de CAPI/CASI-responsgroep. De 
+verdeling mannen en vrouwen is bij zowel CAPI/CASI als CAWI in de groepen 10- 
+tot 12-jarigen en 12- tot 18-jarigen ongeveer evenredig, maar bij CAWI-18- tot 23-
+jarigen ligt het aandeel mannen significant lager (42%) dan bij CAPI/CASI (50%). 
+Naar herkomst zijn er bij alle leeftijdsgroepen significante verschillen tussen beide 
+modi – het aandeel respondenten met een Nederlandse herkomst ligt bij CAWI 
+hoger, en het aandeel met een Marokkaanse of Antilliaanse afkomst ligt, afhankelijk 
+van de leeftijdsgroep, lager. Voor opleidingsniveau is er alleen bij 18- tot 23-jarigen 
+een verschil tussen de modi, waar CAWI-respondenten over het algemeen hoger 
+opgeleid zijn. Daarentegen zijn er geen verschillen in sociaal-economische status 
+tussen beide modi. Echter, naar (gezins)inkomen zijn er wel weer verschillen – het 
+(gezins)inkomen van 10- tot 12-jarigen en 12- tot 18-jarigen ligt bij CAWI hoger 
+dan bij CAPI/CASI. Afsluitend leven CAWI-10- tot 12-jarigen in minder stedelijke 
+gebieden dan hun CAPI/CASI-tegenhangers. 
+ 
+Samenvattend, ten opzichte van CAPI/CASI-responsgroep zijn er in de CAWI-res-
+ponsgroep relatief meer 12- tot 18-jarigen, minder jongvolwassen mannen, minder 
+jongeren van Marokkaanse/Antilliaanse herkomst en meer hoger opgeleide jong-
+volwassenen. Daarnaast is het huishoudelijk inkomen hoger en de stedelijkheid 
+lager in de CAWI-responsgroep. 
+  
+                                                                                                                             
+dan geldt dat buitenland als herkomstland. Indien beide ouders in het buitenland zijn geboren, dan geldt het 
+buitenland waar de moeder is geboren. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 15 
+
+ 
+b a
+ CAPI/CASI p CAWI Populatie 
+d
+SES (%)     
+10- tot 12-jarigen     
+Actief inkomen 72,9  77,5 87,3 
+Passief inkomen 24,3  19,6 10,7 
+Geen inkomen 2,3  1,8 1,8 
+Onbekend 0,5  1,1 0,1 
+12- tot 18-jarigen     
+Actief inkomen 73,2  76,0 87,8 
+Passief inkomen 24,0  20,3 10,7 
+Geen inkomen 2,1  2,4 1,2 
+Onbekend 0,7  1,3 0,3 
+18- tot 23-jarigen     
+Actief inkomen 72,4  73,4 73,7 
+Passief inkomen 24,6  23,7 23,9 
+Geen inkomen 2,1  1,8 1,8 
+Onbekend 0,9  1,1 0,7 
+Gestandaardiseerd inkomen (%)     
+10- tot 12-jarigen     
+e
+1 kwartiel 41,0 > 35,0 24,6 
+e
+2 kwartiel 25,2  22,2 28,7 
+e
+3 kwartiel 18,2 < 22,9 22,5 
+e
+4 kwartiel 13,8  17,9 23,0 
+Onbekend 1,8  2,0 1,1 
+12- tot 18-jarigen     
+e
+1 kwartiel 35,1 > 30,3 18,7 
+e
+2 kwartiel 23,8  24,7 22,0 
+e
+3 kwartiel 23,4  22,9 33,1 
+e
+4 kwartiel 16,0 < 19,3 25,7 
+Onbekend 1,7  2,7 0,5 
+18- tot 23-jarigen     
+e
+1 kwartiel 30,1  26,9 29,2 
+e
+2 kwartiel 18,0  15,7 17,7 
+e
+3 kwartiel 24,9  26,4 24,9 
+e
+4 kwartiel 25,5  29,4 27,0 
+Onbekend 1,6  1,6 1,3 
+e
+Stedelijkheid (M/SD)     
+10- tot 12-jarigen 3,8 (1,2) > 3,7 (1,2) 3,2 (1,3) 
+12- tot 18-jarigen 3,7 (1,2)  3,6 (1,3) 3,1 (1,3) 
+18- tot 23-jarigen 3,4 (1,3)  3,3 (1,3) 3,4 (1,3) 
+a
+ Alle (populatie)gegevens zijn gebaseerd op geleverde informatie door het CBS. 
+b
+ De kolom p geeft aan of de verdeling van categorieën per variabele tussen de modi statistisch verschilt en welke categorie 
+hierbij het meest bijdraagt en in welke richting (p<0,05; voor χ2-analyse Z>2). 
+c
+ De indeling laag, midden en hoog is bepaald volgens de SOI-indeling, ongeacht of er sprake is van primair, secundair of 
+tertiair onderwijs, of eerste of tweede fase en heeft betrekking op studiejaar 2013-2014. 
+d
+ Actief inkomen = werknemer, directeur, grootaandeelhouder, zelfstandige of overig actief; passief inkomen = diverse 
+uitkeringen of schoolgaand/studerend met inkomen; geen inkomen = schoolgaand/studerend zonder inkomen of overig 
+geen inkomen. 
+e
+ Stedelijkheid is een vijfpuntsschaal lopend van 1 = niet stedelijk tot 5 = zeer sterk stedelijk.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 17 
+
+ 
+deze gedragingen. Een deel van deze vragen betreft offlinedelinquentie en een deel 
+cyber- en gedigitaliseerde delinquentie. De offlinedelicten en een klein deel van de 
+cyber- en gedigitaliseerde delicten kwamen voort uit de eerdere metingen van de 
+MZJ en vinden daarnaast hun oorsprong in de literatuur (zie Van der Laan & Blom, 
+2006a).  
+Veel items zijn een specifieke variant van een meer ‘abstract’ delict. Zo wordt bij 
+vandalisme gevraagd naar het vernielen van specifieke objecten, zoals bushokjes, 
+woningen of het bekladden van bussen en trams. Ook weerspiegelen de items 
+verschillende mate van ernst; bij mishandeling varieert dit van slaan en schoppen 
+zonder verwonding, tot het verwonden van iemand met een wapen. Een voordeel 
+van meerdere items die specifieke varianten van een delict bevragen is dat de kans 
+vergroot wordt dat als iemand een delict gepleegd heeft ook daadwerkelijk aangeeft 
+dit gepleegd te hebben (Van der Laan & Blom, 2006). Daarnaast is het brede scala 
+aan delicten vooral gericht op minder ernstige misdrijven. Naar zeer ernstige delic-
+ten, zoals moord en doodslag, wordt niet gevraagd. Door deze focus op relatief 
+minder ernstige delinquentie kan de MZJ als een aanvulling op registerdata gezien 
+worden, waarin overwegend meer ernstige delicten voorkomen (Farrington et al., 
+2003; Weijters et al., 2016). 
+Aan respondenten is gevraagd of zij de diverse delicten ooit in hun leven hebben 
+gepleegd, en zo ja, hoe vaak zij deze delicten de afgelopen twaalf maanden hebben 
+gepleegd (dit kan ook nul keer zijn). In tabel 2.3 zijn alle vragen betreffende deze 
+42 delicten weergegeven op volgorde van aanbieding (exclusief de vijf ‘triviale’ 
+delicten), met daarbij de verkorte omschrijving die verder in dit onderzoek gehan-
+teerd zal worden. 
+2.3.1 Cyber- en gedigitaliseerde delinquentie 
+Nieuw in de MZJ-2015 is een uitbreiding van het aantal bevraagde delicten betref-
+fende cyber- en gedigitaliseerde delinquentie. Cyberdelinquentie betreft delinquentie 
+waarbij een ICT-component het doelwit van het delict is, terwijl gedigitaliseerde 
+delinquentie een ‘traditioneel’ delict betreft waarbij een ICT-component als hulpmid-
+del wordt gebruikt (bijv., je kan mensen op het schoolplein met de dood bedreigen, 
+maar je kan dit ook via de e-mail of WhatsApp doen). In voorgaande metingen 
+werden al vragen gesteld over het versturen van virussen, illegaal downloaden van 
+software, muziek en films en het bedreigen van anderen via SMS, e-mail of chatbox. 
+Daar zijn in 2015 acht items aan toegevoegd (zie tabel 2.3). 
+De items zijn deels gehaald uit bestaande literatuur, getest binnen de relevante 
+5
+leeftijdsgroep via focusgroups en in overleg met diverse experts samengesteld. De 
+delicten betreffende cyberdelinquentie zijn roze gearceerd in tabel 2.3 (vijf delicten) 
+en de gedigitaliseerde delicten lila (zes delicten). Daarnaast zijn in tabel 2.4 de 
+items uiteengezet en welke wetsartikelen uit het Wetboek van Strafrecht daarmee 
+6
+geaffilieerd zijn. 
+ 
+                                                
+5
+ De omvang van de vragen diende aangepast te worden in de oorspronkelijke vragenlijst, waardoor er maar een 
+beperkt aantal extra vragen opgenomen kon worden. Er is gekozen voor een brede variatie aan cyber- en 
+gedigitaliseerde delicten. Deze vragen zijn gebaseerd op de literatuur en opgesteld in overleg met experts op het 
+gebied van zelfrapportage en delinquent gedrag. Daarna zijn de vragen voorgelegd aan en besproken met 
+scholieren in het middelbaar onderwijs (MBO technische variant), waarbij onder meer werd nagegaan of de 
+vragen voldoende begrijpelijk waren en gevraagd werd naar aanpassingen/aanvullingen. Vervolgens zijn de 
+vragen opnieuw besproken met experts, waarbij ook meer algemene vragenlijst-deskundigen zijn geraadpleegd. 
+6
+ Door continue veranderingen in het juridisch veld rondom cyber- en gedigitaliseerde delinquentie zijn deze 
+wetsartikelen wellicht niet volledig en mogelijk onderhevig aan veranderingen. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 19 
+
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4   |  21 
+ 
+Delictvraag Verkorte omschrijving 
+27. Heb je ooit weleens iemand expres zo geslagen en/of geschopt dat die persoon daardoor gewond is geraakt? Bijvoorbeeld een blauw oog, een Mishandeling (met 
+bloedneus of ernstigere verwondingen. verwonding) 
+28. Heb je weleens een wapen bij je, met de bedoeling je zelf te beschermen of voor het geval je bij een gevecht betrokken raakt? Wapenbezit voor 
+zelfverdediging 
+29. Heb je weleens expres iemand met een wapen verwond? Bijvoorbeeld met een stuk hout, een schaar of een mes. Mishandeling (met wapen) 
+30. Heb je weleens geprobeerd seks te hebben met iemand die dat niet wilde? Seks afdwingen 
+31. Heb je weleens iets verkocht via internet, het geld gekregen van de koper, maar het artikel nooit opgestuurd? Artikel niet opsturen 
+32. Heb je weleens iets gekocht en ontvangen via internet, maar nooit betaald? Geld niet overmaken 
+33. Heb je weleens via internet of je telefoon seksueel getinte foto’s of filmpjes verspreid van iemand anders terwijl diegene nog geen 18 jaar was? Seksueel beeldmateriaal van 
+minderjarige verspreiden 
+34. Heb je weleens jezelf voorgedaan als iemand anders op internet? Voordoen als iemand anders 
+op internet 
+35. Heb je weleens ingelogd op een computer, e-mailaccount of sociale netwerksite van iemand anders zonder dat diegene hiervan wist? Hacken 
+36. Heb je weleens geprobeerd een website of een e-mailbox plat te leggen door enorme hoeveelheden informatie daarnaar toe te sturen? DDoS aanval uitvoeren 
+37. Heb je weleens iemand zijn wachtwoord veranderd zodat diegene niet meer kon inloggen? Wachtwoord veranderen 
+38. Heb je weleens op iemand anders z’n computer of profiel ingelogd en hier gegevens in veranderd of gewist zonder dat diegene daarvan wist? Hacken met manipulatie 
+39. Heb je weleens een auto bestuurd terwijl je te veel alcohol had gedronken? Onder te veel alcohol verstaan we 2 glazen of meer een uur voordat Rijden onder invloed 
+je ging rijden. 
+40. Heb je weleens opzettelijk verkeerde informatie gegeven aan de belastingdienst? Fraude (belasting) 
+41. Heb je weleens opzettelijk verkeerde informatie gegeven aan een uitkeringsinstantie, zoals het UWV, de Dienst Uitvoering Onderwijs (DUO) of Fraude (uitkering) 
+de Sociale Verzekeringsbank (SVB)? 
+42. Heb je weleens opzettelijk verkeerde informatie gegeven aan een verzekeringsmaatschappij, bijvoorbeeld over je reis- of inboedelverzekering? Fraude (verzekering) 
+Noot. Roze arcering = cyberdelinquentie, lila arcering = gedigitaliseerde delinquentie; geen arcering = offlinedelinquentie; delicten 39-42 zijn alleen aan 18-23-jarigen voorgelegd. 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 21 
+
+ 
+3 Psychometrische kenmerken gedigitaliseerde, 
+cyber- en offlinedelinquentie 
+In dit hoofdstuk worden de psychometrische kenmerken beschreven van de MZJ-
+vragenlijst betreffende gedigitaliseerde, cyber- en offlinedelinquentie. Aan bod 
+komen schaalstructuren, waarbij gekeken wordt hoe cyber- en gedigitaliseerde 
+delinquentie zich verhoudt tot meer traditionele offlinedelicten. Daarnaast worden 
+ook verbanden met sociale wenselijkheid en het gebruik van internet en sociale 
+media behandeld. De psychometrische kenmerken worden alleen geanalyseerd 
+binnen de CAPI/CASI-responsgroep, omdat deze modus de standaard is geweest 
+voor de MZJ tot nu toe. 
+3.1 Schaalstructuren 
+Een schaal is een bundeling van items die empirisch en/of theoretisch bij ‘elkaar 
+horen’. In het geval van de MZJ zal de schaalstructuur dus gaan over type delicten 
+die bij elkaar horen. Een belangrijke vraag die hierbij gesteld wordt is: welke delic-
+ten worden vaak samen door jongeren gerapporteerd? En worden sommige delicten 
+vaker met elkaar gerapporteerd dan samen andere delicten? 
+ 
+In de MZJ (maar ook in andere onderzoeken) worden delicten ingedeeld in diverse 
+categorieën. Deze zijn deels bepaald door thematiek (bijv., geweldsdelicten samen) 
+en deels door perspectieven vanuit onderzoek, beleid en praktijk (bijv., het onder-
+scheid tussen gedigitaliseerde en cyberdelinquentie). Echter, deze meer ‘theoreti-
+sche’ schaalbepalingen hoeven niet noodzakelijk overeen te komen met hoe delicten 
+in de realiteit samen worden gerapporteerd door daders zelf. Bijvoorbeeld, seks 
+afdwingen valt onder de noemer ‘geweld’ op thematische basis, maar dit betekent 
+niet dat iedereen die een willekeurig ander geweldsdelict rapporteert zich ook schul-
+dig maakt aan seksueel geweld. Dat gezegd hebbende, voor beleids- en andere 
+doeleinden kan een bepaalde theoretische opdeling natuurlijk waardevol zijn om, 
+bijvoorbeeld, onderscheid te maken tussen kwalitatief verschillende misdrijven. In 
+dit rapport zijn wij echter geïnteresseerd in het empirische construct delinquent 
+gedrag. 
+ 
+Een schaalscore kan diverse vormen aannemen. Het type schaal dat wij hier han-
+teren is een prevalentieschaal – indien een respondent op ten minste één delict 
+horend binnen de schaal aangeeft dit delict gepleegd te hebben, dan zal de gehele 
+schaal ‘geactiveerd’ worden. Met andere woorden, de operationalisatie van een pre-
+valentieschaal is: 0 = geen enkel delict gepleegd, 1 = ten minste één delict ten 
+minste éénmaal gepleegd. 
+Naast een prevalentieschaal zijn ook andere vormen mogelijk, zoals een frequentie-
+schaal (d.w.z., hoeveel delicten er zijn gepleegd, zie ook hoofdstuk 4) of een versa-
+tility schaal (d.w.z., hoeveel verschillende soorten delicten er zijn gepleegd). Boven-
+genoemde schalen behoren tot de ‘standaard’ die in veel crimineel carrière-onder-
+zoek gehanteerd wordt (Piquero, Farrington & Blumstein, 2003). De prevalentie-
+schaal is de traditionele vorm die in de MZJ gebruikt wordt en wij zullen ons dan ook 
+binnen dit hoofdstuk tot deze variant beperken. 
+Eerst wordt een verkennende factoranalyse gedaan om te kijken welke schaalstruc-
+tuur op basis van empirie het beste lijkt te ‘fitten’. Daarnaast wordt deze structuur 
+afgezet, indien hij verschilt van de huidige en in literatuur gehanteerde schaalstruc-
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 23 
+
+ 
+Tabel 3.1 Frequenties, proporties en ondergrens 95% BI van delict items 
+10- tot 23-jarigen 
+10- tot 12- 12- tot 18- 18- tot 23- 
+ jarigen jarigen jarigen 
+ n p n p n p 
+1 Virus versturen <5  15 0,01 7 0,01 
+2 Bedreigen via texting 20 0,03 111 0,08 56 0,05 
+3 Bedreigen via social media 19 0,02 129 0,09 54 0,05 
+4 Softdrugs verkopen <5  35 0,03 64 0,06 
+5 Partydrugs verkopen <5  <5  34 0,03 
+6 Harddrugs verkopen <5  7 0,01 10 0,01 
+7 Vandalisme (voertuig) 10 0,01 29 0,02 21 0,02 
+8 Vandalisme (woning) 8 0,01 32 0,02 13 0,01 
+9 Vandalisme (openbaar vervoer) <5  14 0,01 16 0,02 
+10 Vandalisme (overig) 19 0,02 67 0,05 67 0,06 
+11 Vandalisme (bekladden) 25 0,03 143 0,10 67 0,06 
+12 Prijsjes verwisselen in winkel 9 0,01 48 0,04 51 0,05 
+13 Diefstal (€ 10 of goedkoper) 17 0,02 91 0,07 45 0,04 
+14 Diefstal (duurder dan € 10) <5  16 0,01 11 0,01 
+15 Diefstal (school/werk) 28 0,04 98 0,07 114 0,11 
+16 Diefstal (fiets /scooter) <5  27 0,02 25 0,02 
+17 Diefstal (buitenkant van voertuig) <5  6 0,00 5 0,00 
+18 Heling (gekocht) <5  51 0,04 81 0,08 
+19 Heling (verkocht) <5  31 0,02 19 0,02 
+20 Diefstal (uit auto) <5  <5  <5  
+21 Diefstal (inbraak) <5  12 0,01 7 0,01 
+22 Bedreiging 25 0,03 121 0,09 56 0,05 
+23 Zakkenrollen <5  10 0,01 <5  
+24 Diefstal op straat met bedreiging <5  11 0,01 <5  
+25 Diefstal op straat met geweld <5  6 0,00 <5  
+26 Mishandeling (zonder verwonding) 78 0,10 235 0,17 110 0,11 
+27 Mishandeling (met verwonding) 29 0,04 109 0,08 72 0,07 
+28 Wapenbezit voor zelfverdediging <5  43 0,03 33 0,03 
+29 Mishandeling (met wapen) <5  11 0,01 <5  
+30 Seks afdwingen <5  <5  <5  
+31 Artikel niet opsturen <5  6 0,00 <5  
+32 Geld niet overmaken <5  10 0,01 12 0,01 
+33 Seksueel beeldmateriaal van minderjarige verspreiden <5  56 0,04 18 0,02 
+34 Voordoen als iemand anders op internet 30 0,04 127 0,09 81 0,08 
+35 Hacken 31 0,04 163 0,12 185 0,18 
+36 DDoS aanval uitvoeren <5  19 0,01 12 0,01 
+37 Wachtwoord veranderen 33 0,04 86 0,06 57 0,05 
+38 Hacken met manipulatie 10 0,01 42 0,03 50 0,05 
+39 Rijden onder invloed ― ― ― ― 129 0,12 
+40 Fraude (belastingdienst) ― ― ― ― 11 0,01 
+41 Fraude (uitkeringsinstantie) ― ― ― ― 6 0,01 
+42 Fraude (verzekering) ― ― ― ― 18 0,02 
+Noot. Items met een 95%-BI ondergrens van ≥ 0,01 zijn roze gearceerd; proporties zijn niet weergeven wanneer er minder 
+dan vijf absolute observaties zijn. 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 25 
+
+ 
+Tabel 3.2 Verkennende factoranalyse delicten 10- tot 12-jarigen 
+Delict Factoranalyse 
+ 1 
+Vandalisme (overig) 0,62 
+Bedreigen via texting 0,61 
+Bedreigen via social media 0,58 
+Bedreiging 0,56 
+Hacken 0,55 
+Diefstal (school/werk) 0,52 
+Vandalisme (bekladden) 0,51 
+Mishandeling (zonder verwonding) 0,48 
+Voordoen als iemand anders op internet 0,41 
+Mishandeling (met verwonding) 0,41 
+Wachtwoord veranderen 0,40 
+Diefstal (€ 10 of goedkoper) 0,31 
+Noot. Principale axis factoring; factor matrix; relatief sterk ladende items zijn cursief gedrukt (≥0,30). 
+ 
+Tabel 3.3 Verkennende factoranalyse delicten 12- tot 18-jarigen 
+Delict Factoranalyse 
+ 1 1a 
+Bedreigen via social media 0,63 0,62 
+Bedreiging 0,61 0,61 
+Bedreigen via texting 0,55 0,55 
+Mishandeling (met verwonding) 0,54 0,54 
+Vandalisme (overig) 0,52 0,52 
+Heling (verkocht) 0,51 0,52 
+Vandalisme (voertuig) 0,51 0,51 
+Mishandeling (zonder verwonding) 0,48 0,48 
+Vandalisme (woning) 0,48 0,48 
+Diefstal (school/werk) 0,46 0,45 
+Heling (gekocht) 0,44 0,44 
+Diefstal (fiets /scooter) 0,41 0,41 
+Wapenbezit voor zelfverdediging 0,40 0,41 
+Vandalisme (bekladden) 0,40 0,39 
+Diefstal (€ 10 of goedkoper) 0,38 0,38 
+Softdrugs verkopen 0,37 0,38 
+Seksueel beeldmateriaal van minderjarige verspreiden 0,37 0,37 
+Hacken 0,36 0,35 
+Wachtwoord veranderen 0,31 0,31 
+Hacken met manipulatie 0,30 0,30 
+Prijsjes verwisselen in winkel 0,30 0,31 
+Voordoen als iemand anders op internet 0,18 ― 
+Noot. Principale axis factoring; factor matrix; relatief sterk ladende items zijn cursief gedrukt (≥0,30). 
+ 
+ 
+Verkenning 18- tot 23-jarigen 
+In totaal zijn 22 delicten voor 18- tot 23-jarigen geschikt bevonden voor een factor-
+analyse omdat deze in voldoende mate voorkomen (zie tabel 3.1 waar deze items 
+roze zijn gearceerd). In tabel 3.4 zijn de resultaten van de verkennende factorana-
+lyse weergegeven. Net als bij de 10- tot 18-jarigen is er één factor geëxtraheerd op 
+basis van de scree-plot. Vijf van de items laden zwak (d.w.z., factorlading <0,30): 
+wapenbezit voor zelfverdediging, rijden onder invloed, voordoen als iemand anders 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 27 
+
+ 
+3.1.2 Tussentijdse samenvatting 
+De resultaten suggereren dat afzonderlijk voor alle drie de leeftijdsgroepen een 
+enkele factorstructuur ten grondslag ligt aan ligt aan zelfgerapporteerde delinquen-
+tie. Echter, omdat veel delicten dermate weinig voorkomen kunnen niet alle items 
+worden meegenomen in de analyses. Verder blijken niet alle items een factorlading 
+van voldoende sterkte te hebben, wat erop duidt dat ze eigenlijk niet of nauwelijks 
+bijdragen aan die factor. 
+Voor 10- tot 18-jarigen zijn er geen verschillen in prevalentie tussen de schalen met 
+en zonder zwak ladende items. Voor 18- tot 23-jarigen maakt dit wel uit – het weg-
+halen van zwakke items laat de prevalentie van zelfrapportage inzakken. Dit komt 
+voornamelijk door het wegvallen van de delicten ‘hacken’ en ‘rijden onder invloed’, 
+die beide een relatief hoge prevalentie hebben bij jongvolwassenen (respectievelijk 
+18% en 12%). Kortom, hoewel voor 10- tot 12-jarigen en 12- tot 18-jarigen de 
+inhoudelijk interpretatie op basis van de diverse schalen niet veel anders lijkt te 
+zijn, zou het gebruik van verschillende schalen voor de 18- tot 23-jarigen wel tot 
+andere conclusies kunnen leiden. 
+Of men dergelijke ‘zwakke’ items uit een schaal wil of kan verwijderen, hangt af v 
+an het doel waarvoor de schaal gebruikt dient te worden. Voor de monitoring kan 
+het behouden van de vergelijkbaarheid zwaarder wegen dan empirische ‘correct- 
+heid’ – door items te verwijderen (of juist toe te voegen), vervalt immers vergelijk-
+baarheid door de tijd heen. Voor meer wetenschappelijk verklarende toepassingen 
+kan het construct delinquent gedrag wellicht zuiverder (of ‘zuiniger’) worden geme-
+ten door ‘zwakke’ items niet mee te nemen, wanneer zou blijken dat de beperkte 
+invloed van deze ‘zwakke’ items universeel is en niet alleen in de huidige steekproef 
+voorkomt. 
+Bij 10- tot 12-jarigen zijn er geen zwak ladende items binnen de delicten die ge-
+schikt waren voor factoranalyse. Bij de 12- tot 18-jarigen (en ook bij 18- tot 23-
+jarigen) is dit er één: ‘zich voordoen als iemand anders op internet’. Het kan zijn  
+dat dit item zwak laadt, omdat deze niet erg concreet beschreven is en ook in niet-
+delinquente contexten opgevat kan worden. 
+Dat wil zeggen, hoewel dit item bedoeld is om delinquente identiteitsfraude te 
+representeren, kan men op internetfora of websites ook een andere nickname dan 
+de eigen aannemen. Deze gedragingen zijn niet noodzakelijk delinquent, wanneer 
+deze nickname uniek is en niet aan iemand anders toe behoort. Hierdoor zou dit 
+item empirisch niet in het construct delinquentie kunnen passen. Zie voor een ge-
+lijksoortige discussie Rokven en collega’s (2017). 
+Het aantal zwak ladende items bij 18- tot 23-jarigen ligt hoger. Naast het zich ‘voor-
+doen als iemand anders op internet’ waren dit ook de delicten ‘hacken’, ‘wapenbe-
+zit’, ‘rijden onder invloed’, ‘party drugs verkopen’ en ‘prijsjes verwisselen in een 
+winkel’. 
+Voor ‘rijden onder invloed’ kan de zwakke lading mogelijk komen doordat het delict 
+niet noodzakelijk intentioneel gepleegd is om anderen schade toe te brengen. Hoe-
+wel beschonken autorijden natuurlijk wel een delict is, zullen maar weinig mensen 
+bewust te veel drinken met de intentie om daarna auto te gaan rijden om anderen 
+in gevaar te brengen. Eenzelfde verklaring zou voor ‘wapenbezit’ kunnen gelden, 
+waar de bevraging zich specifiek richt op zelfverdediging en niet op intentionele 
+agressie richting anderen. 
+Voor het item ‘partydrugs verkopen’ zou een zwakke lading kunnen komen doordat 
+de in de vraag gebruikte terminologie niet meer representatief is voor de huidige 
+drugsscene, of dat andere verdovende middelen meer in de spotlight staan. Bij 
+‘prijsjes verwisselen in een winkel’ kan gelden dat men dit niet als een misdrijf ziet. 
+De jongere heeft immers betaald voor een product, maar minder dan bedoeld. De 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 29 
+
+ 
+dergelijke aanpassingen. Voor de drie-factorstructuur waren geen modifacties be-
+treffende intra-factorcorrelaties gesuggereerd op statistische gronden. 
+Over het algemeen zijn voor zowel de één, twee- als drie-factorstructuur bij 12-  
+tot 18-jarigen en 18- tot 23-jarigen de initiële fitwaarden onvoldoende (d.w.z., 
+2
+χ /df>2,5; TLI/CFI<0,90; RMSEA>0,08; zie tabel 3.6). Alleen de twee-factorstruc-
+tuur bij 18- tot 23-jarigen en de drie-factorstructuur bij beide leeftijdsgroepen laten 
+een afdoende RMSEA-waarde zien. Na het toelaten van intra-factorcorrelatie tus- 
+sen de delicten, zijn de RMSEA waarden bij alle analyses wel acceptabel (d.w.z., 
+2
+RMSEA<0,08). Echter blijven de χ /df waarden boven de 2,5 en de TLI/CFI waarden 
+onder de 0,90, wat een slechte fit suggereert. Maar, omdat de RMSEA waarden van 
+het initiële model lager dan 0,158 zijn, zijn de TLI/CFI waarden van opvolgende 
+modellen minder informatief (Kenny, 2015). 
+ 
+Over het algemeen suggereren de fit resultaten dat een onderscheid tussen cyber- 
+en andere delinquentie niet veel slechter of beter is dan een enkele factorstructuur. 
+Daarnaast is de correlatie tussen de twee factoren sterk (r is ongeveer 0,50 voor 
+beide leeftijdscategorieën, p<0,001), wat aangeeft dat deze factoren sterk met 
+elkaar samenhangen, ondanks de opgelegde dubbele factorstructuur. Een drie-
+factorstructuur lijkt initieel beter dan een één- of twee-factorstructuur, maar laat 
+statistisch weinig ruimte over voor verbetering. 
+ 
+Tabel 3.6 Bevestigende factoranalyses 12- tot 18-jarigen en 18- tot 23-
+jarigen (fit indices) 
+ 12- tot 18-jarigen 18- tot 23-jarigen 
+ 1-factor 2-factor 3-factor 1-factor 2-factor 3-factor 
+ Intra-factorcorrelatie Intra-factorcorrelatie 
+ zonder met zonder met zonder zonder met zonder met zonder 
+2
+χ 2609,78 1488,21 2274,75 1425,90 1706,65 1433,30 729,46 1448,62 767,09 1091,05 
+2
+χ /df 12,48 7,30 10,93 6,96 8,28 7,58 3,96 6,96 3,78 5,30 
+TLI 0,598 0,780 0,653 0,792 0,745 0,595 0,817 0,622 0,824 0,728 
+CFI 0,637 0,806 0,687 0,815 0,773 0,635 0,840 0,660 0,845 0,757 
+RMSEA 0,092 0,068 0,085 0,066 0,073 0,080 0,053 0,076 0,052 0,064 
+Noot. Alle factorladingen waren significant (p<0,001); het aantal toegelaten intra-factorcorrelaties tussen items is bij allen vijf, 
+met uitzondering bij de twee-factorstructuur van 12- tot 18-jarigen waar deze drie is (na drie toegevoegde correlaties waren 
+er geen volgende suggesties op basis van statistiek gegeven) en de drie-factorstructuur bij beide leeftijdsgroepen waar geen 
+intra-factorcorrelaties waren gesuggereerd. 
+ 
+3.1.4 Conclusie factoranalyses 
+De resultaten van de verkennende factoranalyse suggereert vooral dat een enkele 
+factor aan zelfgerapporteerde delinquentie onderhevig ligt, hoewel de bevestigende 
+factoranalyses het onderscheid tussen niet-cyber en cyberdelinquentie nog wel als 
+adequaat zien. Dit betekent dat, volgens de empirie, de ‘beste’ representatie van 
+zelfgerapporteerde delinquentie een overall benadering zou zijn – hebben jonge- 
+ren in het afgelopen jaar ten minste één van het gepresenteerde delict éénmaal ge-
+pleegd. Een overall score is in het heden en verleden een kerncijfer van de MZJ en 
+de empirie ondersteunt deze presentatiewijze dus. 
+ 
+Echter, voor het apart houden van cyberdelinquentie is ook wat te zeggen, mede 
+omdat cyberdelinquenten zich als persoon onderscheiden van offlinedelinquenten 
+(Rokven et al., 2017). Dit is in de laatste MZJ-meting ook het geval geweest. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 31 
+
+ 
+Tabel 3.7 Correlaties items en schalen met sociale wenselijkheid voor  
+10- tot 23-jarigen 
+10- tot 12- 12- tot 18- 18- tot 23- 
+ jarigen jarigen jarigen 
+ ρ 
+1 Virus versturen ― ― ― 
+2 Bedreigen via texting -0,18* -0,15* -0,12* 
+3 Bedreigen via social media -0,16* -0,19* -0,14* 
+4 Softdrugs verkopen ― -0,09* -0,07* 
+5 Partydrugs verkopen ― ― -0,07* 
+6 Harddrugs verkopen ― ― ― 
+7 Vandalisme (voertuig) ― -0,09* -0,08* 
+8 Vandalisme (woning) ― -0,10* ― 
+9 Vandalisme (openbaar vervoer) ― ― ― 
+10 Vandalisme (overig) -0,16* -0,15* -0,15* 
+11 Vandalisme (bekladden) -0,17* -0,17* -0,14* 
+12 Prijsjes verwisselen in winkel ― -0,10* -0,12* 
+13 Diefstal (€ 10 of goedkoper) 
+-0,13* -0,16* -0,11* 
+14 Diefstal (duurder dan € 10) ― ― ― 
+15 Diefstal (school/werk) -0,18* -0,24* -0,19* 
+16 Diefstal (fiets /scooter) ― -0,14* -0,08* 
+17 Diefstal (buitenkant van voertuig) ― ― ― 
+18 Heling (gekocht) ― -0,09* -0,14* 
+19 Heling (verkocht) ― -0,12* n.s. 
+20 Diefstal (uit auto) ― ― ― 
+21 Diefstal (inbraak) ― ― ― 
+22 Bedreiging -0,22* -0,19* -0,13* 
+23 Zakkenrollen ― ― ― 
+24 Diefstal op straat met bedreiging ― ― ― 
+25 Diefstal op straat met geweld ― ― ― 
+26 Mishandeling (zonder verwonding) -0,27* -0,24* -0,19* 
+27 Mishandeling (met verwonding) -0,14* -0,14* -0,10* 
+28 Wapenbezit voor zelfverdediging ― -0,09* -0,07* 
+29 Mishandeling (met wapen) ― ― ― 
+30 Seks afdwingen ― ― ― 
+31 Artikel niet opsturen ― ― ― 
+32 Geld niet overmaken ― ― ― 
+33 Seksueel beeldmateriaal van minderjarige verspreiden ― -0,16* ― 
+34 Voordoen als iemand anders op internet -0,19* -0,19* -0,10* 
+35 Hacken -0,20* -0,21* -0,17* 
+36 DDoS aanval uitvoeren ― ― ― 
+37 Wachtwoord veranderen -0,16* -0,14* n.s. 
+38 Hacken met manipulatie ― -0,10* -0,09* 
+39 Rijden onder invloed . . n.s. 
+40 Fraude (belastingdienst) . . ― 
+41 Fraude (uitkeringsinstantie) . . ― 
+42 Fraude (verzekering) . . ― 
+A F1 -0,34* -0,37* -0,30* 
+B. F1a . -0,35* -0,27* 
+Noot. Significantie is gecorrigeerd volgens Hochberg met aanpassingen. ― = delicten met te lage prevalentie voor analyse;  
+. = item/schaal niet beschikbaar voor deze leeftijdsgroep; * p<0,05; n.s. = niet significant. 
+ 
+In tabel 3.7 zijn de correlaties tussen sociale wenselijkheid en zelfrapportage op 
+item- en schaalniveau weergegeven voor de drie leeftijdsgroepen. Om kanskapitali-
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 33 
+
+ 
+en maatschappelijk gezien keurige gedragingen. Hoewel de gedachte is dat vrijwel 
+niemand zich altijd zo positief en netjes gedraagt of denkt, is dit niet per sé ge-
+dragsmatig of sociaal onmogelijk (zie ook Paulhus, 2002). Vanuit dat perspectief 
+kan de vragenlijst meer het ‘good boy’ of ‘bad girl’ niveau van participanten meten, 
+waardoor het misschien niet zo verwonderlijk is dat deze ‘sociale wenselijkheid’ 
+negatief correleert met delinquent gedrag. Immers, ‘keurige’ mensen plegen geen 
+(of in ieder geval minder) delicten. 
+Bovendien wordt nu voornamelijk één aspect van sociale wenselijkheid bekeken en 
+gemeten – impression management (zie Paulhus, 1984). Dergelijke items betreffen 
+meer overte gedragingen die maatschappelijk gewenst zijn, maar alsnog niet vaak 
+voorkomen. Daarnaast is self-deception ook een vorm van sociale wenselijkheid, 
+welke gemeten wordt met items die gedachten of eigenschappen betreft die iede-
+reen heeft, maar desondanks het zelfbeeld van iemand kunnen aantasten (bijv., ‘ik 
+vind het nooit vervelend om iets minder goed dan anderen te kunnen’). De gepre-
+senteerde resultaten hebben daarom ook voornamelijk betrekking op de relatie 
+tussen impression management en delictgedrag. Het uitbreiden van het construct 
+sociale wenselijkheid binnen de MZJ met meer self-deception zou de mogelijkheid 
+bieden om de associatie tussen zelfgerapporteerd delictgedrag en sociale wenselijk-
+heid breder te onderzoeken. 
+3.3 Internet en sociale media 
+In deze paragraaf bekijken we de consumptie van internet en sociale media door 
+zelfgerapporteerde cyber- en gedigitaliseerde delinquenten. Indien jongeren name-
+lijk rapporteren dat zij cyber- en gedigitaliseerde delicten plegen, maar daarnaast 
+geen of weinig gebruik van internet rapporteren of sociale media rapporteren, dan 
+doet dit af aan de validiteit van de gestelde delictvragen.  
+ 
+In tabel 3.9 is het gebruik van internet en sociale media uiteengezet voor de drie 
+leeftijdsgroepen en de bevraagde gedigitaliseerde en cyberdelicten (alleen de jonge-
+ren die ten minste één cyber- of gedigitaliseerd delict in het voorgaande jaar heb-
+ben gepleegd zijn meegenomen). 
+Ongeacht de leeftijd of het type delict rapporteren veel respondenten gebruik te 
+maken van internet en/of sociale media. Bij 12- tot 18-jarigen en 18- tot 23-jarigen 
+rapporteert meer dan 85% van de cyber- en gedigitaliseerde delinquenten deze 
+twee vormen van media dagelijks te gebruiken. Bij de 10- tot 12-jarige onlinedelin-
+quenten komt dagelijks gebruik minder vaak voor met tussen de 50-75%. Ook on-
+geacht de leeftijd of het type delict rapporteren weinig onlinedelinquente jongeren 
+minder dan één keer per week op deze media te zitten (welke inclusief de indicator 
+‘nooit’ is). Ofwel, de meeste cyber- en gedigitaliseerde delinquenten maken ten 
+minste wekelijks gebruik van internet of sociale media. 
+3.3.1 Conclusie internet en sociale media 
+Deze resultaten zijn in overeenstemming met andere onderzoeken naar het gebruik 
+van internet en sociale media onder jongeren (Wenneker, Van Troost & Wiegman, 
+2016) en indiceren een congruentie tussen het rapporteren van delicten op inter- 
+net of sociale media en het regulier gebruik van deze media. Met andere woorden, 
+verreweg de meeste zelfgerapporteerde cyber- en gedigitaliseerde delinquenten 
+lijken toegang te hebben tot de benodigde middelen om dergelijke delicten te ple-
+gen. Dit resultaat ondermijnt de validiteit van de cyber- en gedigitaliseerde delicten 
+tenminste niet. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 35 
+
+ 
+4 CAPI/CASI- versus CAWI-modus 
+In dit hoofdstuk worden de verschillen in zelfgerapporteerd delictgedrag bij de CAPI/ 
+CASI- en CAWI-modus onderzocht en geïnterpreteerd, voor zowel gedigitaliseerde, 
+cyber- als offlinedelinquentie. Eerst worden de verschillen in zelfgerapporteerd 
+delictgedrag en persoons- en achtergrondkenmerken van de CAPI/CASI- en CAWI-
+respondenten uiteen gezet. Daarna toetsen we statistisch de modusverschillen in 
+gerapporteerde prevalentie, frequentie en ernst van delinquent gedrag en bespre-
+ken we ook kort schaalstructuren. 
+4.1 Verschillen in rapportage delinquentie 
+In tabel 4.1 zijn de prevalenties voor de losse delicten en de totaal schalen weerge-
+geven uitgesplitst naar leeftijdscategorie en afnamemodus. Voor vrijwel alle delicten 
+en in alle drie de leeftijdsgroepen is de prevalentie lager in de CAWI-modus dan in 
+de CAPI/CASI-modus. Met andere woorden, er zijn modusverschillen in hoe respon-
+denten rapporteren over hun delictgedrag (in termen van prevalentie). 
+Dit suggereert dat een overstap van een CAPI/CASI- naar een CAWI-modus zou 
+leiden tot een lagere prevalentie van de gemonitorde en zelfgerapporteerde jeugd-
+delinquentie. Deze daling zou verklaard kunnen worden door de modus zelfs, maar 
+kan ook verklaard worden door verschillen in persoons- en achtergrondkenmerken 
+van de respondenten in beide modi. In de volgende paragrafen gaan wij in op dit 
+laatste. 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 37 
+
+ 
+4.2 Vergelijkbaarheid respondenten CAPI/CASI- en CAWI-modus  
+Om zuiver in te schatten wat de consequenties zijn van een overstap van een CAPI/ 
+CASI-modus naar een CAWI-modus betreffende de rapportage van delict-gedrag 
+moeten de kenmerken van de respondenten in beide modi vergelijkbaar zijn. Ver-
+schillen in deze kenmerken kunnen verantwoordelijk zijn voor het wel of niet vinden 
+van verschillen in zelfgerapporteerde delinquentie (zie tabel 4.1). Of beide groepen 
+van elkaar verschillen op statistische gronden is al besproken in hoofdstuk 2 (zie 
+ook tabel 4.2) – in dit hoofdstuk interpreteren we hoe deze resultaten zich verhou-
+den tot delinquent gedrag. 
+4.2.1 Persoons- en achtergrondkenmerken 
+Geslacht is een belangrijke voorspeller van delinquentie – mannen zijn veel meer 
+betrokken bij dergelijke praktijken dan vrouwen (zie bijv., Gottfredson & Hirschi, 
+1990). Deze oververtegenwoordiging zien wij in Nederland voor zowel de registra- 
+tie van jeugdige verdachten en veroordeelden als zelfrapportage (Van der Laan & 
+Goudriaan, 2016). Voor respondenten in de leeftijd 10 tot 18 jaar waren er geen 
+verschillen tussen beide modi in de percentages deelnemende mannen. Echter, voor 
+18 tot 23-jarigen lag het percentage mannen significant lager in de CAWI-respons-
+groep dan in de CAPI/CASI-responsgroep (41,6% versus 50,2%). Dit suggereert dat 
+12
+voor deze leeftijdsgroep het kenmerk geslacht een potentiële ‘confounder’ is van 
+de relatie tussen afnamemodus en delinquent gedrag. 
+ 
+Leeftijd is ook gerelateerd aan delinquentie – de participatie in dergelijk gedrag 
+neemt vanaf het twaalfde levensjaar toe tot het einde van de tienerjaren, waarna 
+delinquent gedrag afneemt (bijv., Farrington, 1986). Nu wordt in de MZJ ten dele 
+een verschil in leeftijd teniet gedaan door het opsplitsen van drie leeftijdscatego-
+rieën. Dat gezegd hebbende, binnen deze leeftijdsgroepen kunnen verschillen in 
+leeftijd nog steeds problematisch zijn. Als binnen één groep 12- tot 18-jarigen rela-
+tief meer oudere tieners zitten, of binnen de groep 18- tot 23-jarigen relatief meer 
+jongere jongvolwassenen, dan is de kans op rapportage van delinquent gedrag 
+groter dan wanneer de leeftijd meer evenredig verdeeld is. Maar, de gemiddelde 
+leeftijden van de CAPI/CASI- en CAWI-groepen, binnen de afzonderlijke leeftijds-
+categorieën, verschillen niet statistisch van elkaar. 
+ 
+Herkomst is een kenmerk dat in registerdata sterk gerelateerd is aan delinquent 
+gedrag. Zowel in Nederland als andere Westerse landen komen jeugdige (en vol-
+wassen) allochtone herkomstgroepen vaker voor als verdachte en veroordeelde in 
+justitiële systemen, dan op basis van hun aandeel in de populatie verwacht zou 
+worden (zie bijv., Van der Laan & Goudriaan, 2016 en Tollenaar et al., 2016). Bij 
+zelfrapportage is dit verschil minder evident (Van der Laan & Beerthuizen, 2016). 
+Deels valt dit te verklaren doordat etnische minderheden mogelijk minder open zijn 
+over hun delictgedrag (Weijters et al., 2016). En deels valt dit te verklaren doordat 
+de pakkans mogelijk groter is binnen deze groepen minderheden door een over-
+representatie van deze groepen binnen proactieve staandehoudingen door politie 
+(Landman & Kleijer-Kool, 2016). Daarnaast is de onderliggende structuur van psy-
+chosociale constructen niet noodzakelijk eenduidig voor diverse herkomstgroepen 
+(bijv., Van de Looij-Jansen, Goedhart, De Wilde & Treffers, 2010), waardoor ver-
+                                                
+12
+ Er is sprake van een ‘confounder’ wanneer een derde factor, die gerelateerd is aan zowel de onafhankelijke als de 
+uitkomstvariabele(n), het causale verband tussen deze twee variabelen (potentieel) verstoort. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 39 
+
+ 
+Tabel 4.2 Kort overzicht verschillen van CAPI/CASI- en CAWI-respon-
+denten 
+CAPI/CASI CAWI 
+10- tot 12-jarigen  
+Meer van Marokkaanse herkomst Meer van Nederlandse herkomst 
+Lager besteedbaar inkomen Hoger besteedbaar inkomen 
+Meer stedelijk Minder stedelijk 
+12- tot 18-jarigen  
+Meer van Marokkaanse herkomst Meer van Nederlandse herkomst 
+Lager besteedbaar inkomen Hoger besteedbaar inkomen 
+18- tot 23-jarigen  
+Meer mannen Meer vrouwen 
+Meer van Antilliaanse herkomst Meer van Nederlandse herkomst 
+Meer lager opgeleiden Meer hoger opgeleiden 
+ 
+4.2.2 Geregistreerde delinquente carrière kenmerken 
+Ook zijn er verschillen gevonden in welke mate CAPI/CASI- en CAWI-respondenten 
+voorkomen in justitiële systemen als verdachte of als iemand die een HALT-straf 
+heeft gekregen – CAWI-respondenten komen minder vaak voor als verdachte of 
+HALT-gestrafte. Deze resultaten versterken de stelling dat de CAWI- respondenten 
+gezien kunnen worden als de delinquent ‘lichtere’ groep. 
+4.2.3 Responskenmerken 
+Daarnaast is de volledige respons verschillend in beide modi – CAPI/CASI heeft een 
+respons van 60% en CAWI heeft een respons van 27%. Een afwijkende respons kan 
+ook van invloed zijn op gerapporteerde delinquentie. Personen met delinquentie 
+activiteiten zijn minder snel geneigd om mee te doen aan onderzoek naar dergelijke 
+gedrag (zie hoofdstuk 2; de nonrespons groepen bevat meer verdachten dan de res-
+ponsgroepen) en vallen sneller uit bij (longitudinaal) onderzoek naar delinquent ge-
+drag (bijv., Brame & Piquero, 2003). Omdat bij de CAPI/CASI-modus een intervie-
+wer aanwezig was om dergelijke uitval tegen te gaan (zie ook Coleman & Moynihan, 
+1996) is het plausibel dat een deel van de delinquente jongeren die normaliter in 
+een CAPI/CASI-modus “erbij gehouden konden worden” in de CAWI-modus uitvalt 
+vanwege een afwezige interviewer. Kortom, ook in dit opzicht is het aannemelijk dat 
+CAWI-respondenten een ‘lichtere’ groep zijn in termen van delinquentie dan CAPI/ 
+CASI-respondenten. 
+4.3 Propensity score 
+Omdat de respondenten uit beide modi op meerdere kenmerken van elkaar verschil-
+len, moet gecorrigeerd worden voor deze verschillen om het effect van de modus 
+beter te isoleren. Als wij dit niet zouden doen, dan zou het wel of niet vinden van 
+verschillen in zelfrapportage tussen beide modi niet toegekend kunnen worden aan 
+de verschillende modi. Vanwege de grote hoeveelheid covariaten die hierbij betrok-
+ken zijn (voor sommige kenmerken zijn meerdere dummyvariabelen noodzakelijk)  
+13
+is gekozen om deze te comprimeren in een propensity score. Zodoende kan sta-
+                                                
+13
+ Een propensity score is een individuele variabele waarvan de waarde tussen de 0 en de 1 ligt. Deze waarde 
+representeert de waarschijnlijkheid dat iemand op basis van diverse kenmerken hoort bij één van twee groe- 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 41 
+
+ 
+Tabel 4.3 Logistische regressie; voorspellen prevalentie van delicten aan  
+de hand van afnamemodus (gecorrigeerd voor achtergrondken-
+merken; niet weergegeven) 
+10- tot 12- 12- tot 18- 18- tot 23- 
+ jarigen jarigen jarigen 
+  Modus  
+ Odds Ratio 
+1 Virus versturen ― ― ― 
+2 Bedreigen via texting ― 0,232* 0,195* 
+3 Bedreigen via social media ― 0,542* 0,463* 
+4 Softdrugs verkopen ― 0,361* 0,541* 
+5 Partydrugs verkopen ― ― n.s. 
+6 Harddrugs verkopen ― ― ― 
+7 Vandalisme (voertuig) ― ― ― 
+8 Vandalisme (woning) ― 0,268* ― 
+9 Vandalisme (openbaar vervoer) ― ― ― 
+10 Vandalisme (overig) 0,380* 0,598* 0,465* 
+11 Vandalisme (bekladden) 0,436* 0,349* 0,181* 
+12 Prijsjes verwisselen in winkel ― 0,397* 0,446* 
+13 Diefstal (€ 10 of goedkoper) n.s. ― n.s. 
+14 Diefstal (duurder dan € 10 ) ― ― ― 
+15 Diefstal (school/werk) 0,311* 0,670* n.s. 
+16 Diefstal (fiets /scooter) ― ― n.s. 
+17 Diefstal (buitenkant van voertuig) ― ― ― 
+18 Heling (gekocht) ― 0,235* 0,429* 
+19 Heling (verkocht) ― 0,425* ― 
+20 Diefstal (uit auto) ― ― ― 
+21 Diefstal (inbraak) ― ― ― 
+22 Bedreiging 0,391* 0,356* 0,301* 
+23 Zakkenrollen ― ― ― 
+24 Diefstal op straat met bedreiging ― ― ― 
+25 Diefstal op straat met geweld ― ― ― 
+26 Mishandeling (zonder verwonding) 0,559* 0,571* 0,527* 
+27 Mishandeling (met verwonding) 0,256* 0,236* 0,284* 
+28 Wapenbezit voor zelfverdediging ― n.s. n.s. 
+29 Mishandeling (met wapen) ― ― ― 
+30 Seks afdwingen ― ― ― 
+31 Artikel niet opsturen ― ― ― 
+32 Geld niet overmaken ― ― ― 
+33 Seksueel beeldmateriaal van minderjarige verspreiden ― 0,468* ― 
+34 Voordoen als iemand anders op internet 0,395* 0,608* 0,579* 
+35 Hacken 0,219* 0,440* 0,353* 
+36 DDoS aanval uitvoeren ― ― ― 
+37 Wachtwoord veranderen 0,311* 0,419* 0,281* 
+38 Hacken met manipulatie ― 0,563* 0,521* 
+39 Rijden onder invloed ― ― 0,460* 
+40 Fraude (belastingdienst) ― ― ― 
+41 Fraude (uitkeringsinstantie) ― ― ― 
+42 Fraude (verzekering) ― ― ― 
+n 1.440 2.712 1.855 
+Noot. Afnamemodus is gescoord 0 = CAPI/CASI, 1 = CAWI; prevalentie is gescoord 0 = geen prevalentie, 1 = wel prevalentie; 
+statistieken voor propensity score die achtergrondkenmerken representeert zijn niet weergegeven; significantie is gecorrigeerd 
+volgens Hochberg met aanpassingen; * p<0,05; n.s. = niet significant; ― = delicten met te lage prevalentie voor analyse; de 
+n van de 18- tot 23-jarigen is één minder dan het totaal aantal jongvolwassenen, omdat voor één persoon geen propensity 
+score berekend kon worden vanwege ontbrekende informatie betreffende stedelijkheid. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 43 
+
+ 
+minder sterk voor jongeren met een Turkse herkomst. Bij 12- tot 17-jarigen is er 
+geen significante interactie. De richting van de resultaten zijn hetzelfde ongeacht 
+naar welke schaalvariant gekeken wordt (d.w.z., F1 of F1a). 
+ 
+Kortom, ook ongeacht de herkomstgroep en leeftijdscategorie rapporteren 12-  
+tot 23-jarige jongeren een lagere prevalentie van delictgedragingen in de CAWI-
+modus. Voor 10- en 12-jarigen is dit alleen het geval bij kinderen van Turkse af-
+komst. Bij 12- tot 18-jarigen is deze negatieve associatie voor iedereen even sterk 
+en bij 18- tot 23-jarigen is deze associatie juist minder sterk voor jongeren van 
+Turkse herkomst. 
+ 
+Tabel 4.5 Logistische regressie; voorspellen van prevalentie delicten op 
+schaalniveau aan de hand van afnamemodus en interactie af-
+namemodus en herkomst (gecorrigeerd voor achtergrondken-
+merken; niet weergegeven) 
+Modus Modus x Modus x Modus x Modus x Modus x Modus x 
+ MAR TUR SUR ANT WES NWE 
+ Odds Ratio 
+10-12-jarigen        
+F1 n.s. n.s. 0,172* n.s. n.s. n.s. n.s. 
+n 1.440       
+12-18-jarigen        
+F1 0,565* n.s. n.s. n.s. n.s. n.s. n.s. 
+F1a 0,551* n.s. n.s. n.s. n.s. n.s. n.s. 
+n 2.712       
+18-23-jarigen        
+F1 0,372* n.s. 3,099* n.s. n.s. n.s. n.s. 
+F1a 0,406* n.s. 4,132* n.s. n.s. n.s. n.s. 
+n 1.855       
+Noot. Afnamemodus is gescoord 0 = CAPI/CASI, 1 = CAWI; prevalentie is gescoord 0 = geen prevalentie, 1 = wel prevalentie; 
+statistieken voor herkomst en de propensity score die andere achtergrondkenmerken representeert zijn niet weergegeven; 
+MAR = Marokko; TUR = Turkije; SUR = Suriname; ANT = Antillen; WES = Overig Westers; NWE = Overig niet-Westers; signi-
+ficantie is gecorrigeerd volgens Hochberg met aanpassingen; * p<0,05; † p<0,10; n.s. = niet significant; de n van de 18- tot 
+23-jarigen is één minder dan het totaal aantal jongvolwassenen, omdat voor één persoon geen propensity score berekend kon 
+worden vanwege ontbrekende informatie betreffende stedelijkheid. 
+ 
+4.4.3 Samenvatting prevalentie 
+De prevalentie van delinquent gedrag is over het algemeen binnen de groep CAWI-
+respondenten lager dan binnen de groep CAPI/CASI-respondenten, controlerend 
+voor persoons- en achtergrondkenmerken. Dit is bij zowel de individuele delicten  
+als de totaalschalen te zien. 
+4.5 Frequentie 
+4.5.1 Schaalniveau 
+Om te kijken wat het effect van modus is op de zelfgerapporteerde frequentie van 
+delicten is gebruikgemaakt van lineaire regressie binnen de groep respondenten die 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 45 
+
+ 
+Tabel 4.7 Lineaire regressie; voorspellen van frequentie delicten op 
+schaalniveau aan de hand van afnamemodus en interactie af-
+namemodus en herkomst (gecorrigeerd voor achtergrondken-
+merken; niet weergegeven) 
+ Modus Modus x Modus x Modus x Modus x Modus x Modus x 
+ MAR TUR SUR ANT WES NWE 
+ β 
+10- tot 12-jarigen        
+F1 n.s. n.s. n.s. n.s. n.s. n.s. n.s. 
+n 241       
+12- tot 18-jarigen        
+F1 n.s. n.s. n.s. n.s. n.s. n.s. n.s. 
+n 968       
+F1a n.s. n.s. n.s. n.s. n.s. n.s. n.s. 
+n 908       
+18- tot 23-jarigen        
+F1 -0,12* n.s. n.s. n.s. n.s. n.s. n.s. 
+n 794       
+F1a -0,12* n.s. n.s. n.s. n.s. n.s. n.s. 
+n 564       
+Noot. Afnamemodus is gescoord 0 = CAPI/CASI, 1 = CAWI; statistieken voor herkomst en de propensity score die andere ach-
+tergrondkenmerken representeert zijn niet weergegeven; MAR = Marokko; TUR = Turkije; SUR = Suriname; ANT = Antillen; 
+WES = Overig westers; NWE = Overig niet-westers; significantie is gecorrigeerd volgens Hochberg met aanpassingen;  
+* p<0,05; † p<0,10; n.s. = niet significant. 
+ 
+4.5.2 Samenvatting frequentie 
+De frequentie van delinquent gedrag is over het algemeen lager binnen de groep 
+zelfgerapporteerde daders van de CAWI-modus dan van de CAPI/CASI-modus, con-
+trolerend voor persoons- en achtergrondkenmerken. Bij 10- tot 12-jarigen is dit 
+verschil tussen de CAPI/CASI- en CAWI-modus niet significant. 
+4.6 Ernst 
+4.6.1 Schaalniveau 
+Om te kijken wat het effect van modus is op de zelfgerapporteerde ernst van delic-
+ten is gebruikgemaakt van een gewogen ernst x frequentiemaat (zie Van der Laan & 
+Blom, 2006, pp. 279-281). In het kort, er wordt onderscheid gemaakt tussen ‘lich- 
+te’ en ‘zware’ delicten (zie tabel 4.8 en Van der Laan & Blom, 2006, voor de argu-
+mentatie wat een licht of zwaar delict is) voor welke frequenties met een ver-
+schillend gewicht worden gewogen (deze zijn zwaarder voor de ‘zware’ delicten,  
+zie tabel 4.9). Door deze gewogen frequenties per delict te sommeren, krijg je een 
+overall ernstmaat van delictgedrag. In plaats van de standaard werkwijze tot nu toe 
+is gekozen om alle oorspronkelijke delicten van de eerste MZJ-monitor – waarin 
+deze ernstmaat geïntroduceerd is – te includeren om zo de operationalisatie van de 
+ernstmaat onveranderd te laten. Deze ernstmaat is gerelateerd aan modus via een 
+lineaire regressie binnen de groep respondenten die ten minste één delict hebben 
+gepleegd van de lijst gepresenteerd in tabel 4.8. 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 47 
+
+ 
+4.6.2 Samenvatting ernst 
+De 10- tot 12-jarige en 12- tot 18-jarige zelfgerapporteerde daders van de CAWI-
+modus rapporteren iets minder ernstig delictgedrag dan de daders van de CAPI/ 
+CASI-modus, controlerend voor persoons- en achtergrondkenmerken. Bij 18- tot 
+23-jarigen is deze associatie alleen aanwezig voor jongvolwassenen van Antilliaanse 
+herkomst. 
+ 
+Tabel 4.10 Lineaire regressie; voorspellen van ernst delicten op schaal-
+niveau aan de hand van afnamemodus en interactie afname-
+modus en herkomst (gecorrigeerd voor achtergrondkenmerken; 
+niet weergegeven) 
+ Modus Modus x Modus x Modus x Modus x Modus x Modus x 
+ MAR TUR SUR ANT WES NWE 
+ β 
+10- tot 12-jarigen        
+Zonder herk. interact. -0,16*       
+Met herkomstinteractie n.s. n.s. n.s. n.s. n.s. n.s. n.s. 
+n 215       
+12- tot 18-jarigen        
+Zonder herk. interact. -0,09*       
+Met herkomstinteractie n.s. n.s. n.s. n.s. n.s. n.s. n.s. 
+n 792       
+18- tot 23-jarigen        
+Zonder herk. interact. n.s.       
+Met herkomstinteractie n.s. n.s. n.s. n.s. -0,12* n.s. n.s. 
+n 572       
+Noot. Afnamemodus is gescoord 0 = CAPI/CASI, 1 = CAWI; statistieken voor herkomst en de propensity score die andere ach-
+tergrondkenmerken representeert zijn niet weergegeven; MAR = Marokko; TUR = Turkije; SUR = Suriname; ANT = Antillen; 
+WES = Overig Westers; NWE = Overig niet-Westers; significantie is gecorrigeerd volgens Hochberg met aanpassingen;  
+* p<0,05; n.s. = niet significant. 
+4.7 Schaalstructuur 
+De schaalstructuur van de bevraagde delicten afgenomen via de CAPI/CASI-modus 
+vergelijken met de CAWI-modus is problematisch. Bij CAPI/CASI is er immers al 
+geconstateerd dat diverse delicten te weinig voorkomen om analyses mee te doen. 
+Bij de CAWI-modus zijn dit zelfs nog meer delicten (zie ook paragraaf 4.4). Zo komt 
+bij de groep 10- tot 12-jarigen slechts één delict voldoende voor om mee te nemen 
+in een factoranalyse (d.w.z., ‘mishandeling zonder verwonding’, zie bijlage 2, tabel 
+b2.2). Bij 12- tot 18-jarigen zijn er in totaal 15 items geschikt bij de CAWI-modus, 
+terwijl bij de CAPI/CASI-modus dit er nog 22 zijn, waar bij 18- tot 23-jarigen dit 
+respectievelijk 12 en 22 items zijn. Omdat de overlap in bruikbare delicten beperkt 
+is doen wij hier geen analyses op. Daarom trekken wij dan ook geen conclusies in 
+welke mate de schaalstructuren voortkomend uit exploratieve of bevestigende fac-
+toranalyses verschillen of overeenkomen tussen de CAPI/CASI- en CAWI-modus. 
+4.8 Conclusie 
+Op alle fronten betreffende zelfgerapporteerde delinquentie zijn er verschillen ge-
+vonden tussen de CAPI/CASI- en CAWI-modus. Er wordt minder (ernstig) delinquent 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 49 
+
+ 
+5 Omvangschatting cyber- en gedigitaliseerde 
+delinquentie 
+In dit hoofdstuk wordt besproken of de gerapporteerde frequenties (d.w.z. tellingen) 
+van cyber- en gedigitaliseerde delicten gebruikt kunnen worden om een schatting te 
+maken van de omvang in aantallen cyber- en gedigitaliseerde delicten gepleegd 
+door 10- tot 23-jarige Nederlanders. Deze toepassing is een doeleinde waarvoor de 
+MZJ niet in eerste instantie voor ontwikkeld is. Vooralsnog wordt de MZJ als onge-
+schikt bevonden voor dit doeleinde, vanwege diverse beperkingen die in dit hoofd-
+stuk worden besproken. 
+ 
+Box 2 Methodologie omvangschatting 
+Ondanks dat de MZJ niet geschikt wordt geacht om een betrouwbare omvangschat-
+ting te maken van jeugdige cyber- en gedigitaliseerde delinquentie, wordt in deze 
+box wel de methodologie uitgelegd die gebruikt kan worden voor het schatten van 
+deze omvang op basis van zelfrapportage. 
+ 
+Indien respondenten aangeven ooit een bepaald delict te hebben gepleegd, dan 
+wordt gevraagd hoe vaak zij dat delict in het voorgaande jaar hebben gepleegd. 
+Door deze frequenties te sommeren bepaal je de geobserveerde aantallen zelfgerap-
+porteerde delicten. Wanneer deze sommering gedeeld wordt door het aantal respon-
+denten, waarbij gecorrigeerd wordt voor eventuele verschillen in lengte van obser-
+vatie, dan krijg je het aantal incidenten per persoon per periode (deze zou door de 
+vraagstelling in de MZJ voor iedereen een periode van één jaar zijn). 
+Bijvoorbeeld, wanneer 1.000 respondenten gezamenlijk aangeven verantwoordelijk 
+te zijn voor 500 ‘hacks’ over een periode van één jaar, dan komt dat neer op 0,5 
+‘hacks’ per persoon per jaar. 
+ 
+Omdat bij de MZJ sprake is van aantallen delicten op basis van een steekproef, kan 
+het aantal voorgekomen delicten in de populatie afwijken. Om hiermee rekening te 
+houden moet het 95% betrouwbaarheidsinterval van de geobserveerde delicten 
+bepaald worden op basis van een Poisson- of aanverwante verdeling (deze zijn het 
+15
+meest geschikt voor dergelijke tellingen ). Dit leidt dan tot een geschatte onder- en 
+bovengrens van de aantallen delicten en kan men met 95% zekerheid zeggen dat 
+het werkelijke aantal delicten tussen deze twee waarden in ligt. 
+ 
+Voor de bovengenoemde 500 ‘hacks’ zou de onder- en bovengrens van het 95%-
+betrouwbaarheidsinterval op 457 en 546 liggen. Daarnaast kan gecorrigeerd worden 
+voor de vergrote kans op herhaald plegen na initiële pleging of de (on)gewilligheid 
+van respondenten om te rapporteren over hun delicten. 
+ 
+Wanneer men ook nog beschikt over populatiewegingsfactoren per individuele res-
+pondent, dan kan ook op populatieniveau het aantal delicten (per persoon per 
+periode) geschat worden. Deze laatste kan afwijken van de steekproef waarden, 
+omdat niet iedere respondent even zwaar gewogen wordt. 
+ 
+  
+                                                
+15
+  Normaliter wordt een normaal of t-verdeling gehanteerd bij het bepalen van de 95% betrouwbaarheidsinterval. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 51 
+
+ 
+gedrag. Dit kan de interpretatie van de ernst van de omvang beïnvloeden. Het kan 
+informatief zijn om voor ieder cyber- en gedigitaliseerd delict af te zetten tegen een 
+relevante indicator. Voor koop- en verkoopfraude op internet kan gedacht worden 
+aan totaalaantallen transacties via Marktplaats en voor het versturen van virussen 
+aan het aantal verstuurde e-mails. 
+Echter, zelfs met dergelijke cijfers om de incidenten tegen af te zetten, biedt de  
+MZJ momenteel slechts beperkt inzicht. De meest relevante informatie betreft ver-
+anderingen in de omvang door de tijd heen. Ofwel, vergelijkingen van het heden 
+met het verleden – een tweede meting met eenzelfde methodologie is hiervoor 
+noodzakelijk.  
+Daarnaast is het voor de relevante referentiecijfers betreffende niet-illegale online-
+gedragingen van belang dat de bronnen die hiervoor gebruikt worden consequent 
+beschikbaar zijn en niet (al te grote) definitiewijzigingen ondergaan, om zodoende 
+trendbreuken te voorkomen. Ook moet dergelijke informatie beschikbaar zijn in de 
+Nederlandse context – gegevens over globaal of internationaal Twittergebruik zijn, 
+bijvoorbeeld, mogelijk niet representatief voor de Nederlandse jeugd. 
+Een laatste probleem heeft te maken met de frequentie waarmee de MZJ wordt 
+afgenomen – eens per vijf jaar. Hierdoor worden inzichten in onlinedelinquentie ook 
+‘maar’ iedere vijf jaar vernieuwd. Gezien de continue en snelle evolutie van online-
+delinquentie loopt de MZJ risico om niet op tijd in te kunnen springen op dergelijke 
+veranderingen. Nieuw ontstane delicten kunnen dan niet bevraagd worden en kan 
+het ‘verdwijnen’ van delicten onterecht geïnterpreteerd worden als een afname van 
+de totale omvang van onlinedelinquentie. 
+5.1.3 Psychometrische problematiek 
+In de voorgaande hoofdstukken zijn een aantal psychometrische kenmerken van  
+de MZJ besproken. Het is duidelijk dat er in meer of mindere mate sprake is van 
+gevoeligheid voor sociaal-wenselijk antwoorden. Meer specifiek, de richting waarin 
+deze correlatie zich openbaart suggereert onderrapportage qua prevalentie. Deze 
+onderrapportage voert dan, natuurlijk, door in de schatting van de omvang van 
+cyber- en gedigitaliseerde delinquentie. Het is dus plausibel dat een omvangschat-
+ting op basis van de MZJ een onderschatting zou zijn (wanneer het construct sociale 
+wenselijkheid als valide voor de gehele steekproef wordt geacht). 
+5.1.4 Geografische problematiek 
+Een deel van onlinedelinquentie betreffende Nederlandse slachtoffers is niet door 
+Nederlandse daders gepleegd (bijv., Bernaards, Monsma & Zinn, 2012, p. 91-93). 
+Daarnaast maken Nederlandse onlinedelinquenten niet noodzakelijk Nederlandse 
+slachtoffers. Het is mogelijk dit internationale fenomeen voor onlinedelinquentie in 
+het algemeen ook van toepassing is op meer specifiek onlinejeugddelinquentie. Met 
+andere woorden, de huidige cijfers hebben niet noodzakelijk betrekking op online-
+jeugddelinquentie in Nederland, maar kunnen deels jeugddelinquentie in het buiten-
+land betreffen. Mede daarom is ook onduidelijk welk deel van de gerapporteerde 
+omvang ook daadwerkelijk in de meer directe verantwoordelijkheid van de Neder-
+landse politie en justitie valt. 
+5.2 Samenvatting 
+De MZJ is niet geschikt voor een schatting van de omvang van cyber- en gedigita-
+liseerde delinquentie gepleegd door Nederlandse jongeren, vanwege een aantal 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 53 
+
+ 
+6 Samenvatting en conclusie 
+In het huidig onderzoek wordt nader ingegaan op de Monitor Zelfgerapporteerde 
+Jeugdcriminaliteit (MZJ, meer specifiek de 2015 meting), waarbij diverse thema’s 
+aan bod komen. Ten eerste, de psychometrische kenmerken van de vragenlijst be-
+treffende zelfgerapporteerde delinquentie, waar in het bijzonder wordt stilgestaan 
+bij gedigitaliseerde en cyberdelinquentie. Ten tweede, verschillen in rapportage van 
+delinquent gedrag bij een CAPI/CASI- en CAWI-modus. En als laatste, kan de MZJ 
+gebruikt worden om de omvang van cyber- en gedigitaliseerde delinquentie ge-
+pleegd door Nederlandse jeugdigen in te schatten? Het huidig rapport is een aan-
+vulling op eerder onderzoek naar de MZJ, waarin de validiteit van het instrument  
+al positief werd beoordeeld als zijnde een zelfrapportage instrument betreffende de 
+prevalentie en frequentie van de Nederlandse jeugddelinquentie (Van der Laan & 
+Blom, 2006ab; Weijters et al., 2016). 
+Psychometrische kenmerken van de MZJ 
+De resultaten suggereren dat onder delinquentie, op basis van zelfrapportage van 
+jeugdigen, een enkele omvattende structuur ligt. Dit resultaat ondersteunt dan ook 
+dat een belangrijk kerncijfer van de MZJ een overall prevalentiecijfer is – het per-
+centage jongeren dat aangeeft ten minste één delict ten minste éénmaal gepleegd 
+te hebben in het voorgaande jaar. 
+Maar, de bevestigende factoranalyses suggereren ook dat het statistisch adequaat is 
+om een onderscheid te maken tussen meer traditionele offline- en meer moderne 
+gedigitaliseerde delinquentie enerzijds en cyberdelinquentie anderzijds. Mede gezien 
+dat er qua persoons- en achtergrondkenmerken verschillen zijn tussen traditionele 
+en cyberdelinquenten (Rokven et al., 2017), is hierin een onderscheid aanbrengen 
+ook denkbaar. In de meest recente MZJ wordt dit onderscheid al gehanteerd, maar 
+waar ook gedigitaliseerde delinquentie apart wordt gehouden. 
+ 
+Hoe de cijfers van de MZJ te gebruiken, is ook afhankelijk van voor welk doel dit is. 
+Zo kan het voor monitoring nog steeds belangrijk zijn om weinig voorkomende 
+delicten – die nu niet meegenomen worden in de empirische analyses – te blijven 
+bestuderen. Immers, dat een delict nu weinig voorkomt, betekent niet dat dit altijd 
+zo zal blijven. Daarentegen, voor wetenschappelijke doeleinden, zoals het verklaren 
+van jeugddelinquentie, zou men zich juist meer kunnen laten leiden door de empiri-
+sche resultaten. 
+ 
+Een invloed van sociale wenselijkheid op zelfrapportage is een universeel verschijn-
+sel dat zowel binnen als buiten de criminologie te vinden is (zie bijv., Van de Mortel, 
+2008, voor gezondheidswetenschappen) en zo ook bij de MZJ. Een maat van sociale 
+wenselijkheid is negatief geassocieerd met de rapportage van delinquent gedrag 
+binnen alle leeftijds- en herkomstgroepen – zowel voor losse delicten als de totaal 
+schalen. Dit suggereert dat het werkelijk voorkomen van delinquentie hoger ligt dan 
+gerapporteerd (ervan uitgaande dat het construct sociale wenselijkheid zoals ge-
+meten in de MZJ dat ook daadwerkelijk is en daarnaast valide is voor diverse sub-
+groepen binnen de respondenten).  
+Gezien de structurele aard van deze associatie, is het binnen de monitordoeleinden 
+van de MZJ afdoende om te beseffen dat deze resultaten beïnvloed kunnen zijn door 
+sociaal-wenselijke antwoordpatronen en lijkt het niet noodzakelijk hiervoor te con-
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 55 
+
+ 
+Voor de interpretatie van de omvang van illegale onlinegedragingen kan het be-
+langrijk zijn om deze af te zetten tegen niet-illegale onlinegedragingen. Want, een 
+stijging van onlinedelinquentie kan ook komen doordat steeds meer mensen (waar-
+onder delinquenten) gebruikmaken van internet en moderne media (zie bijv., Jar-
+dine, 2015). Voor de monitoring van de omvang van cyber- en gedigitaliseerde 
+jeugddelinquentie zou dergelijk vergelijkingsmateriaal structureel door de tijd heen 
+beschikbaar moeten zijn (en blijven) om de kans op een trendbreuk te minimali-
+seren. 
+ 
+Een andere tekortkoming is dat met de huidige meting niet bepaald kan worden  
+of het slachtoffer zich ook in Nederland bevindt – is er sprake van een Nederlands 
+delict of sprake van een internationaal delict? Daarnaast kan jeugdige cyberdelin-
+quentie met een buitenlandse dader, maar wel met een Nederlands slachtoffer, niet 
+meegenomen worden in een omvangschatting op basis van de MZJ. Ook is met een 
+enkele meting niks te zeggen over trends door de tijd heen, wat voor diverse 
+vraagstukken noodzakelijk is (zoals de verschuiving van offline- naar 
+onlinedelinquentie) en informatief is voor de ernst van de omvang. 
+ 
+Box 3 Verschillen in resultaten en verklaringen daarvoor betreffende 
+twee MZJ-onderzoeken naar onlinedelinquentie 
+Het WODC heeft twee onderzoeken parallel naast elkaar uitgevoerd, welke beide 
+gebruikmaken van de MZJ-2015 en het onderwerp cyber- en jeugddelinquentie 
+aansnijden. Het ene onderzoek betreft de psychometrische kenmerken van de MZJ-
+vragenlijst over (online)delinquentie (het huidige onderzoek) en het andere onder-
+zoek betreft de profielen van jeugdige daders van onlinedelinquentie (Rokven et al., 
+2017). Hoewel dezelfde bron gebruikt is in beide onderzoeken, zijn er verschillende 
+onderzoeksmethoden gebruikt, waardoor de resultaten iets van elkaar afwijken. 
+Beide onderzoeken hebben een benaderingswijze gekozen die het beste paste bij de 
+daarbij horende onderzoeksvragen. 
+ 
+Zo bekijken Beerthuizen en collega’s de factorstructuur voor drie leeftijdsgroepen 
+apart (d.w.z., 10- tot 12-jarigen, 12- tot 18-jarigen en 18- tot 23-jarigen), terwijl 
+Rokven en collega’s de leeftijdsgroepen 12- tot en met 17-jarigen en 18- tot en met 
+22-jarigen samen nemen en de 10- tot 12-jarigen excluderen. Daarnaast worden in 
+de factoranalyse van Beerthuizen en collega’s alle delicten los meegenomen, terwijl 
+in Rokven en collega’s de offlinedelicten thematisch geclusterd zijn in schaalscores 
+(d.w.z., geweld, vermogen, etc.) en de onlinedelicten wel allemaal los worden 
+meegenomen.  
+ 
+In het onderzoek van Beerthuizen en collega’s wordt aan de hand van verkennende 
+factor analyses één enkele factor gevonden die ten grondslag ligt aan zelfgerappor-
+teerde jeugddelinquentie. In de studie van Rokven en collega’s worden drie factoren 
+gevonden: offline, gedigitaliseerde en cyberdelicten. Een onderscheid tussen offline- 
+en gedigitaliseerde delicten samen en cyberdelicten apart wordt in Beerthuizen en 
+collega’s alleen gevonden wanneer deze twee factoren van te voren worden bepaald 
+via bevestigende factoranalyse. Een drie-factormodel was statistisch niet adequaat. 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 57 
+
+ 
+Executive summary 
+The Youth Delinquency Survey investigates self-reported offending behaviour of 12- 
+to 23-year old Dutchmen and -women. The survey is conducted every five years. As 
+such, additional information on trends in juvenile delinquency are obtained through 
+a measure of self-report, supplementing official registration of juvenile delinquency 
+by the police and the justice department. A number of changes were introduced in 
+the most recent publication of the monitor, with the most important change being 
+the introduction of additional cyber-enabled and cyber-dependent offenses. The 
+results of an in-depth study into the latest survey of the monitor are presented in 
+the current report. Three topics are discussed: 
+1 The psychometric properties of a self-report questionnaire concerning offline, 
+digital and cyber offenses – the ‘core’ component of the Youth Delinquency 
+Survey. 
+1 The consequences of a change in assessment mode from CAPI/CASI to CAWI 
+regarding the monitoring and self-report of juvenile offending behaviour. 
+2 The use of the Youth Delinquency Survey as a means to estimate the absolute 
+number of digital and cyber offenses committed by Dutch youths. 
+ 
+In regards to the first topic, the results suggest that a single factor underlies self-
+reported juvenile delinquency. In other words, operationalizing self-reported delin-
+quency as an overall prevalence scale (i.e., somebody has either committed no 
+offenses at all, or at least one offense once, with no distinct clustering of offenses) 
+is statistically the best approach. A second approach that differentiated between 
+offline and cyber-enabled offenses on the one hand, and cyber-dependent offenses 
+on the other hand, was also statistically adequate. 
+ 
+Moreover, lower prevalence and frequencies, as well as less severe offenses, were 
+observed when participants were interviewed through an internet questionnaire, 
+compared to the traditional assessment of CAPI/CASI, while controlling for differ-
+ences in sample characteristics. A change in assessment mode would therefore 
+result in retrospectively incomparable statistics. 
+ 
+The Youth Delinquency Survey is not considered an adequate means to estimate  
+the number of cyber-enabled and cyber-dependent offenses committed by Dutch 
+youths. This is mostly caused by the broad definition of certain online offenses, 
+which as a result include both minor offenses as well as very serious offenses and 
+everything in between. Hence, when a certain offense item is reported as having 
+been committed, it is unclear what sort of crime is specifically committed and how 
+serious the crime is. Moreover, it is also unclear how many offenses are exactly 
+committed, where the offenses are committed, and how these numbers change  
+over time.  
+ 
+Concluding, the Youth Delinquency Survey is an adequate instrument for its intend-
+ed purpose – a self-report measure of juvenile crime that supplements official regis-
+tration statistics. However, a change in assessment mode will result in comparison 
+issues over time, and the current monitor is not an adequate means for estimating 
+the absolute number of online offenses committed by Dutch youths.
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 59 
+
+ 
+Literatuur 
+Algemeen Dagblad (2014). Politie scant iedere dag 35.000 dreigtweets uit Neder-
+land. Geraadpleegd december 2016: www.ad.nl/binnenland/politie-scant-elke-
+dag-35-000-dreigtweets-uit-nederland~a99d1ed9/ 
+Apel, R., & Sweeten, G. (2010). Propensity score matching in criminology and 
+criminal justice. In D. Weidsburd & A.R. Piquero (red.), Handbook of quantitative 
+criminology (pp. 543-562). New York: Springer. 
+Bernaards, F.B., Monsma, E., & Zinn, P. (2012). High tech crime: Criminaliteits-
+beeldanalyse 2012. Driebergen: KLPD. 
+Brame, R., & Piquero, A.R. (2003). Selective attrition and the age-crime relation-
+ship. Journal of Quantitative Criminology, 19(2), 107-127. 
+Broek, T. C. van der, Laan, A. M. van der, & Weijters, G. (2016). Bedreigen via 
+internet. Verschillen in risicofactoren tussen jongeren die online en offline 
+bedreigen. Panopticon, 37, 90-105.  
+CBS (2014). ICT gebruik van personen naar persoonskenmerken. Geraadpleegd 
+augustus 2016: http://statline.cbs.nl/StatWeb/publication/?VW=T&DM= 
+SLNL&PA=71098NED&D1=0-14,33-34,41-47,55-59,65-84,114-133&D2=7-
+8&D3=a&HD=090817-1415&HDR=G1,G2&STB=T  
+Cohen, J. (1988). Statistical power for the behavioral sciences. New York: Rout-
+ledge. 
+Costello, A.B., & Osborne, J.W. (2005). Best practices in exploratory factor analysis: 
+Four recommendations for getting the most from your analysis. Pan-Pacific 
+Management Review, 12(2), 131-146. 
+Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting 
+the magnitudes of odds ratios in epidemiological studies. Communications in 
+statistics – simulation and computation, 39(4), 860-864. 
+Coleman, C., & Moynihan, J. (1996). Understanding crime data. Buckingham: Open 
+University Press. 
+Dijk, J. van (2010). The Network Society. Londen: Sage. 
+Domenie, M.M.L., Leukfeldt, R., Wilsem, J.A. van, Jansen, J., Stol, W. (2012). 
+Slachtofferschap in een gedigitaliseerde samenleving: Een onderzoek onder 
+burgers naar e-fraude, hacken en andere veelvoorkomende criminaliteit. Den 
+Haag: BJu. 
+Engelen, F., Roels, J., & De Heij, V. (2015a). Monitor Zelfgerapporteerde Jeugdcri-
+minaliteit: Onderzoeksdocumentatie. Den Haag: CBS. 
+Engelen, F., Roels, J., & De Heij, V. (2015b). Monitor Zelfgerapporteerde Jeugd-
+criminaliteit: Experiment 2015: Onderzoeksdocumentatie. Den Haag: CBS. 
+Etaher, N., & Weir, G.S. (2014). Understanding the threat of banking malware. In 
+Cyberforensics 2014 – International conference on cybercrime, security & digital 
+forensics, 23-24 juni 2014, University of Strathclyde, Glasgow, Schotland (pp. 73-
+80). Geraadpleegd augustus 2016: http://strathprints.strath.ac.uk/48856/1/8_ 
+etaher_weir.pdf. 
+Fan, W., & Yan, Z. (2010). Factors affecting response rates of the web survey: A 
+systematic review. Computers in Human Behavior, 26, 132-139. 
+Farrington, D.P. (1986). Age and crime. Crime and Justice, 7, 189-250.  
+Farrington, D.P., Jolliffe, D., Hawkins, J.D., Catalano, R.F., Hill, K.G., & Kosterman, 
+R. (2003). Comparing delinquency careers in court records and self-reports. 
+Criminology, 41(3), 933-958. 
+Gottfredson, M.R., & Hirschi, T. (1990). A general theory of crime. Stanford: Stan-
+ford University Press. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 61 
+
+ 
+Moffitt, T.E., Gabrielli, W.F., Mednick, S.A., & Schulsinger, F. (1981). Socioeconomic 
+status, IQ, and delinquency. Journal of Abnormal Psychology, 90(2), 152-156. 
+Mortel, T.F., van de (2008). Faking it: social desirability response bias in self-report 
+research. Australian Journal of Advanced Nursing, 25(1), 10-18. 
+Nas, C.N., Brugman, D., & Koops, W. (2008). Measuring self-serving cognitive dis-
+tortions with the ‘How I Think’ questionnaire. European Journal of Psychological 
+Assessment, 24(3), 181-189. 
+Nationaal Cyber Security Centrum (NCSC, 2016). Cybersecuritybeeld Nederland 
+CSBN 2016. Den Haag: NCSC. 
+Nederhof, A.J. (1985). Methods of coping with social desireability bias: A review. 
+European Journal of Social Psychology, 15, 263-280. 
+Paulhus, D.L. (1984). Two-component models of socially desirable responding. 
+Journal of Personality and Social Psychology, 43(3), 598-609. 
+Paulhus, D.L. (2002). Socially desirable responding: the evolution of a construct. In 
+H.I. Braun, D.N. Jackson, & D.E. Wiley (red.), The role of construct in psycho-
+logical and educational measurement. (pp. 49-69). Mahwah: Erlbaum. 
+Piquero, A.R., Farrington, D.P., & Blumstein, A. (2003). The criminal carreer para-
+digm. Crime and Justice, 30, 359-506. 
+Rokven, J.J., Weijters, G., & Van der Laan, A.M. (2017). Jeugddelinquentie in de 
+virtuele wereld: Een nieuw type daders of nieuwe mogelijkheden voor traditionele 
+daders? . Den Haag: WODC. Cahier 2017-2. 
+Rom, D.M. (2013). An improved Hochberg procedure for multiple tests of 
+significance. British Journal of Mathematical and Statistical Psychology, 66, 189-
+196. 
+Rosenbaum, P.R., & Rubin, D.B. (1983). The central role of the propensity score in 
+observational studies for causal effects. Biometrika, 70(1), 41-55. 
+Tollenaar, N., Beerthuizen, M.G.C.J., & Van der Laan, A.M. (2016). Monitor Veel-
+plegers 2016: Trends in de populatie zeer actieve veelplegers uit de periode 
+2003 tot en met 2014. Den Haag: WODC. Factsheet 2016-4. 
+Tollenaar, N., Van der Laan, A.M., & Beijersbergen, K.A. (2014). Korte- en lange-
+termijneffecten van de ISD-maatregel: Technisch rapport. Den Haag: WODC. 
+Cahier 2014-10. 
+Twittermania (2012). 5 miljoen Nederlandse tweets per dag. Geraadpleegd 
+november 2016: http://twittermania.nl/2012/03/5-miljoen-nederlandstalige-
+tweets-dag/ 
+Unisys Stealth Solution Team (2010). Zeus malfare: Threat banking industry. New 
+York: Unisys. 
+e
+Wartna, B.S.J., Blom, M., & Tollenaar, N. (2011). De WODC-Recidivemonitor (4 
+herziene versie). Den Haag: WODC. Memorandum 2011-3. 
+Weijters, G., Laan, A.M. van der, & Kessels, R. (2016). De overeenstemming tussen 
+zelfgerapporteerde jeugdcriminaliteit en bij de politie bekende verdachten. Den 
+Haag: WODC. Cahier 2016-3. 
+Wenneker, A.M., Troost, D.M.M. van, & Wiegman, P.R. (2016). Media: Tijd 2015. 
+Amsterdam/Den Haag: NLO/NOM/SKO/BRO/SCP. 
+Zebel, S., Vries, P. de, Giebels, E., Kuttschreuter, M., & Stol, W. (2013). Jeugdige 
+daders van cybercrime in Nederland: Een empirische verkenning. Enschede: 
+Universiteit Twente. 
+ 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 63 
+
+ 
+Bijlage 1 Samenstelling begeleidingscommissie 
+Voorzitter 
+prof. dr. H. Elffers  VU/NSCR 
+ 
+Leden 
+dr. R. Leukfeldt   NSCR 
+dr. I. Wissink    UvA 
+S. Essers      Ministerie van Veiligheid en Justitie 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 65 
+
+ 
+Bijlage 2 Additionele tabellen bij hoofdstuk 2 en 4 
+Tabel b.2.1 Kenmerken van respondenten CAPI/CASI- en CAWI-modus 
+a
+ CAPI/CASI p CAWI 
+Omvang (N en %)    
+10- tot 23-jarigen 3.188 (100%)  2.820 (100%) 
+Geslacht (% man)    
+10- tot 23-jarigen 49,4% > 46,7% 
+Leeftijd (M/SD)    
+10- tot 23-jarigen 15,2 (3,8) > 15,0 (3,7) 
+Herkomst (%)    
+10- tot 23-jarigen    
+Nederlands 36,9% < 41,7% 
+Marokkaans 12,2% > 9,5% 
+Turks 12,2%  10,6% 
+Surinaams 12,0%  10,7% 
+Antilliaans 12,0%  10,7% 
+Overig westers 6,4%  7,1% 
+Overig niet-westers 8,3%  9,0% 
+b
+Opleidingsniveau (%)    
+10- tot 23-jarigen    
+Primair of laag 42,7%  42,3% 
+Midden 18,5%  17,5% 
+Hoog 29,7% < 32,8% 
+Onbekend 9,1% > 7,4% 
+c
+SES (%)    
+10- tot 23-jarigen    
+Actief inkomen 72,9% < 75,6% 
+Passief inkomen 24,3% > 21,1% 
+Geen inkomen 2,1%  2,1% 
+Onbekend 0,7%  1,2% 
+Gestandaardiseerd inkomen (%)    
+10- tot 23-jarigen    
+e
+1 kwartiel 34,9% > 30,4% 
+e
+2 kwartiel 22,2%  21,5% 
+e
+3 kwartiel 22,6%  23,9% 
+e
+4 kwartiel 18,5% < 21,9% 
+Onbekend 1,7%  2,2% 
+d
+Stedelijkheid (M/SD)    
+10- tot 23-jarigen 3,6 (1,2) > 3,6 (1,3) 
+a
+ 
+De kolom p geeft aan of de verdeling van categorieën per variabele tussen de modi statistisch verschilt en welke categorie 
+2
+hierbij het meest bijdraagt en in welke richting (p<0,05; voor χ -analyse Z>2). 
+b
+ 
+De indeling laag, midden en hoog is bepaald volgens de SOI-indeling, ongeacht of er sprake is van primair, secundair of 
+tertiair onderwijs, of eerste of tweede fase en heeft betrekking op studiejaar 2013-2014. 
+c
+ Actief inkomen = werknemer, directeur, grootaandeelhouder, zelfstandige of overig actief; passief inkomen = diverse 
+uitkeringen of schoolgaand/studerend met inkomen; geen inkomen = schoolgaand/studerend zonder inkomen of overig 
+geen inkomen. 
+d
+ 
+Stedelijkheid is een vijfpuntsschaal lopend van 1 = niet stedelijk tot 5 = zeer sterk stedelijk. 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 67 
+
+ 
+Tabel b2.3 Logistische regressie propensity score CAPI/CASI versus CAWI 
+ 10- tot 12-jarigen 12- tot 18-jarigen 18- tot 23-jarigen 
+ Odds Ratio 
+Geslacht 1,186 0,878† 0,713* 
+Leeftijd 0,959 0,954 1,013 
+Herkomst    
+Nederlands ref. ref. ref. 
+Marokkaans 0,634* 0,701* 0,601† 
+Turks 0,694† 0,787† 0,646† 
+Surinaams 0,867 0,763* 0,574* 
+Antilliaans 0,757 0,752* 0,557* 
+Overig westers 0,929 1,037 0,650 
+Overig niet-westers 1,021 0,883 0,789 
+Opleidingsniveau    
+Laag ― ref. ref. 
+Midden ― 1,044 1,516† 
+Hoog ― 1,104 1,692* 
+Onbekend ― 0,931 1,330 
+Sociaal economische status    
+Actief ref. ref. ref. 
+Passief 0,921 0,945 1,078 
+Geen inkomen 0,919 1,002 1,209 
+Onbekend 2,662 1,245 2,017 
+Besteedbaar (gezins)inkomen    
+Eerste kwartiel ref. ref. ref. 
+Tweede kwartiel 0,932 1,138 1,030 
+Derde kwartiel 1,258 1,012 1,163 
+Vierde kwartiel 1,226 1,217 1,245 
+Onbekend 0,842 1,696 0,841 
+Stedelijkheid 0,955 0,990 1,002 
+Noot. CAPI/CASI = 0; CAWI = 1; * p<0,05; † p<0,10. 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2017-4 | 69 
+
