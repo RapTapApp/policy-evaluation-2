@@ -1525,3 +1525,206 @@ Exception calling ".ctor" with "1" argument(s): "The document has no page root (
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\12\18 ]> jaarplan-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2015\01\16 ]> jaarwerkprogramma-toezicht-jeugd-2015.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 8; BatchedItems: 100]...[0m
+[main 42873ef9] Added batch #8 of policy-docs (total: 100
+ 101 files changed, 71096 insertions(+)
+ create mode 100644 policy-documents/Archive/brochures/2011/03/10/de-koninklijke-marechaussee/web_Corporate_folder_KMar_2015_NED.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/03/10/de-marine-in-beeld/de-marine-in-beeld-maart2016.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/09/23/nota-werken-in-het-onderwijs/nota-werken-in-het-onderwijs-2012.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/09/28/de-basiskwaliteit-van-het-middelbaar-beroepsonderwijs-mbo-en-de-sociale-kanstrajecten-jongeren-skj-in-caribisch-B8AB271F.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/10/11/gearresteerd-in-het-buitenland/gearresteerd-in-het-buitenland-042015.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/11/09/offerteaanvraag-vierjarige-overeenkomst-productie-jaarlijks-examen-maatschappij-en-staatku-F67F1C53/offerteaanvraag-voor-vierjarige-overeenkomst-jaarlijks-een-examen-maatschappij-en-staatkundige-kennis-voor-de-n-275F5CFA.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2012/04/16/taalregelingen-voor-de-bes-eilanden-in-de-nederlandse-wet-en-regelgeving/talen-bes.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2012/04/20/kerngegevens-defensie/Proef9_20155079_Kerngegevens_INTERACTIEF.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2012/06/28/kerncijfers-2007-2011.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2013/03/22/informashon-pa-studiantenan-di-aruba-korsou-sint-maarten-i-hulanda-karibense-pa-inskripshon-den-gba/b-18049-informatieblad-studenten-gba-papiamentu.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2013/03/22/informatie-voor-studenten-uit-aruba-curacao-st-maarten-en-caribisch-nederland-voor-inschri-31441F1B/informatieblad-studenten-caribisch-gebied-nederlands.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2013/04/09/jaarwerk-programma-2013/j-3159813b.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2013/04/26/nationaal-handboek-crisisbesluitvorming/NationaalHandboekCrisisbesluitvorming.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2014/08/07/van-abdicatie-tot-zetelroof/2van-abdicatie-tot-zetelroof.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/03/03/visumvrijstelling-aan-bepaalde-categorieen-onderdanen.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-argentinie/gearresteerd-in-agentinie-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-belgie/gearresteerd-in-belgi-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-brazilie/gearresteerd-in-brazillie-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-colombia/gearresteerd-in-colombia-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-de-dominicaanse-republiek/gearresteerd-in-de-dom-republiek-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-de-verenigde-staten/gearresteerd-in-de-verenigde-staten-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-denemarken/gearresteerd-in-denemarken-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-duitsland/gearresteerd-in-duitsland-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-ecuador/gearresteerd-in-ecuador-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-frankrijk/gearresteerd-in-frankrijk-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-griekenland/gearresteerd-in-griekenland-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-het-verenigd-koninkrijk/gearresteerd-in-het-verenigd-koninkrijk-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-italie/gearresteerd-in-italie-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-japan/gearresteerd-in-japan-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-marokko/gearresteerd-in-marokko-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-noorwegen/gearresteerd-in-noorwegen-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-oostenrijk/gearresteerd-in-oostenrijk-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-panama/gearresteerd-in-panama-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-peru/gearresteerd-in-peru-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-portugal/gearresteerd-in-portugal-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-spanje/gearresteerd-in-spanje-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-suriname/gearresteerd-in-suriname-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-thailand/gearresteerd-in-thailand-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-turkije/gearresteerd-in-turkije-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-venezuela/gearresteerd-in-venezuela-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/gearresteerd-in-zweden/gearresteerd-in-zweden-hr.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/04/01/het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/06/05/het-koninkrijk-der-nederlanden-buitenlandse-zaken-zijn-koninkrijkszaken/the-kingdom-of-the-netherlands-het-koninkrijk-der-nederlanden-1-pager-nld.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2015/06/05/het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch/the-kingdom-of-the-netherlands-het-koninkrijk-der-nederlanden-4-pager-nld.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2016/03/11/de-10-grootste-mythen-over-het-ttip.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2021/03/25/factsheet-leerorkest-voor-alle-kinderen/factsheet-3-leerorkest.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-engels.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-nederlands.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-papiamento.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-papiamentu.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-engels.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-nederlands.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2022/12/15/studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6/studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-papiamentu.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/01/25/circulaire-provinciale-statenverkiezingen.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/06/16/aanpassen-vergoeding-gezagdragers-sint-eustatius-2011.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/06/16/aanpassing-vergoeding-gezagdragers-saba.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/06/16/aanpassing-vergoedingen-gezagdragers-bonaire-2011/aanpassen-vergoedingen-gezagdragers-bonaire-2011.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/12/01/decembercirculaire-2011/decembercirculaire2011.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/12/12/hoofdlijnen-nieuwe-brk-tussen-nederland-en-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/12/21/aanpassen-vergoeding-gezagdragers-saba.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/12/21/aanpassing-vergoeding-gezagdragers-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2011/12/22/aanpassen-vergoeding-gezagdragers-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2013/09/16/septembercirculaire-gemeentefonds-2013/septcirculaire-gemeentefonds-2013.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2014/05/30/meicirculaire-gemeentefonds-2014.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2014/09/16/septembercirculaire-gemeentefonds-2014/septembercirculaire-gemeentefonds-2014-def.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2015/06/01/meicirculaire-gemeentefonds-2015.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2016/05/31/meicirculaire-gemeentefonds-2016/meicirculaire-gemeentefonds-2016-versie-9-juni.raw.txt
+ create mode 100644 policy-documents/Archive/circulaires/2017/12/08/decembercirculaire-gemeentefonds-2017.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2012/07/20/dienstverleningsconvenant-inzake-de-uitvoering-van-en-het-toezicht-op-de-naleving-van-de-C6647C4F/atlas-12086129-v1-samengestelde-volledig-ondertekende-verie-dienstverleningsconvenant-inzet-ijkwezen-curacao-op-611664D1.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2012/09/28/convenant-curacao-nederland-heffing-invoerrechten-en-andere-indirecte-belastingen-tussen-E1A54CD8/scan-douane-convenant-nl-cur-26-sept-2012.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2018/06/26/nationaal-sportakkoord-sport-verenigt-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2019/05/14/caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2019/05/15/caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2019/05/15/intentieverklaring-in-het-kader-van-de-opleiding-tot-huisarts-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2019/06/11/caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-saba.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2019/06/27/convenant-volkshuisvesting-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2020/12/22/onderlinge-regeling-landspakket-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2021/09/30/bijlage-5-bibliotheekconvenant-2020-2023.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2022/06/16/bestuurlijke-werkafspraken-bonaire-2022-2023.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2022/07/01/afsprakenakkoord-sint-eustatius-2022-2023.raw.txt
+ create mode 100644 policy-documents/Archive/convenanten/2022/07/01/saba-package-20.raw.txt
+ create mode 100644 policy-documents/Archive/formulieren/2010/11/26/meldingenregister-visuminformatiesysteem-caribisch-gebied-koninkrijk-der-nederlanden-visana.raw.txt
+ create mode 100644 policy-documents/Archive/formulieren/2015/03/03/visumaanvraagformulier-koninkrijk-der-nederlanden-caribische-gebiedsdelen/Bijlage_01_-_Visumaanvraagformulier.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2010/11/26/herziene-begroting-2011-radio-nederland-wereldomroep/227741e.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/02/11/jaarplan-inspectie-jeugdzorg-2011.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/02/24/jaarplan-2011-kustwacht-in-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/06/14/concept-jaarwerkplan-2012-van-de-inspectie-van-het-onderwijs/concept-jaarwerkplan-oi-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/10/05/werkprogramma-gezondheidsraad-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/11/03/jaarwerkplan-2012-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2011/12/27/jaarplan-2012-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied/brief-mindef-bijlage-jaarplan-2012-kwcarib-tk1.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2012/01/19/igz-werkplan-2012.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2012/02/06/jaarwerkprogramma-2012-inspectie-jeugdzorg.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2012/09/13/jaarwerkplan-2013-van-de-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2013/09/02/jaarwerkplan-2014-van-de-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/01/14/beleidsplan-crisisbeheersing-2014-2017/beleidsplan-crisisbeheersing-ienm-2014-2017.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/01/16/jaarwerkprogramma-2014-inspectie-jeugdzorg.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/02/13/jaarplan-2014-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/09/01/jaarwerkplan-2015-inspectie-van-het-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2014/12/18/jaarplan-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/jaarplannen/2015/01/16/jaarwerkprogramma-toezicht-jeugd-2015.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2015\08\19 ]> concept-jaarwerkplan-2016-rivm.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2015\09\01 ]> jaarwerkplan-2016-doelen-en-activiteiten-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2016\04\21 ]> jaarplan-kustwacht-caribisch-gebied-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2016\12\22 ]> jaarplan-2017-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2017\12\22 ]> bijlage-meerjarenprogramma-cbs-2019-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2018\02\13 ]> jaarplan-2018-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2018\07\06 ]> werkprogramma-maritieme-strategie-en-zeehavens-2018-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2018\12\21 ]> jaarplanning-lnv-2019-overzicht-van-onderzoeken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2019\01\21 ]> jaarplan-2019-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2019\06\03 ]> saba-package-uitvoeringsagenda-januari-december-2019.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2019\06\07 ]> ontwerp-jaarwerkplan-2020-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2019\12\16 ]> planningsoverzicht-koninkrijksrelaties-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2020\03\02 ]> rappelabele-toezeggingen-eerste-kamer-minister-van-binnenlandse-zaken-en-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2020\03\05 ]> gestructureerd-planningsoverzicht-biza-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2020\12\11 ]> jaarplan-2021-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2020\12\15 ]> werkprogramma-inspectie-overheidsinformatie-en-erfgoed-2021-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2021\05\19 ]> jaarverslag-2020-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2021\11\12 ]> rappelabele-toezeggingen-ek-binnenlandse-zaken-en-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2022\02\04 ]> jaarplan-2022-kustwacht-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2022\12\15 ]> bijlage-1-jaarplan-belastingdienst-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2023\01\27 ]> jaarplan-2023-kustwacht-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2023\09\07 ]> inspectie-van-het-onderwijs-ontwerp-jaarwerkplan-2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\12\31\rijksjaarverslag-2015-buitenlandse-handel-en-ontwikkelingssamenwerking ]> 2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\12\31\rijksjaarverslag-2016-buitenlandse-handel-en-ontwikkelingssamenwerking ]> 2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2005\03\01\mivd-2004 ]> mivdjaarverslag-2004.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2006\03\01\mivd-2005 ]> mivdjaarverslag-2005.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2006\05\17 ]> rijksjaarverslag-defensie-2005.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2007\04\27\mivd-2006 ]> kamerbrief-jaarverslg-mivd06.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2007\06\01 ]> rijksjaarverslag-defensie-2006.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2008\04\25\jaarverslag-mivd-2007 ]> mivd-jaarverslag-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2008\04\28 ]> jaarverslag-igk-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2008\05\21\rijksjaarverslag-defensie-2007 ]> jaarverslag-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\04\15 ]> jaarverslag-mivd-2008.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\05\19\jaarverslag-inspecteur-generaal-der-krijgsmacht-2008 ]> igk-jaarverslag-2008-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\06\19\jaarverslag-2006-buitenlandse-zaken ]> jaarverslag-bz-2006.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\06\19\jaarverslag-2008-buitenlandse-zaken ]> res2170.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\06\19\jaarverslag-2008-homogene-groep-internationale-samenwerking-hgis ]> hgis-jaarverslag-2008.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2009\07\10\jaarverslag-2007-buitenlandse-zaken ]> bzjaarverslag2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2010\04\20\aivd-voorwaartse-verdediging-is-nodig-voor-de-bescherming-van-nederland ]> jaarverslag2009.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2010\04\29 ]> jaarverslag-mivd-2009.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2010\05\15\rijksjaarverslag-defensie-2008 ]> kst128507-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2010\05\19 ]> jaarverslag-igk-2009.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2010\05\20\rijksjaarverslag-defensie-2009 ]> rijksjaarverslag-2009-defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\04\15 ]> aivd-jaarverslag-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\04\29\militaire-inlichtingen-en-veiligheidsdienst ]> bijlage-jaarverslag-mivd-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\05\11 ]> jaarverslag-2010-college-voor-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\05\18 ]> beheerverslag-2010-belastingdienst-interactief.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\05\18\financieel-jaarverslag-van-het-rijk-fjr-2010 ]> fjr-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\05\26 ]> dnb-verantwoording-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\06\30 ]> jaarverslag-2010-inspectie-verkeer-en-waterstaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\06\30 ]> jaarverslag-2010-vrom-inspectie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2011\09\05\jaarverslag-commissie-buitenslands-gediplomeerden-volksgezondheid-2010 ]> meva-3075837b.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\03\20\de-ind-belicht-jaarverslag-2011-van-de-ind ]> jaarverslag-ind-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\04\16\sociaal-jaarverslag-ministerie-van-buitenlandse-zaken-2011 ]> sociaal-jaarverslag-van-buitenlandse-zaken-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\04\17 ]> jaarverslag-2011-college-voor-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\04\17 ]> jaarverslag-2011-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\04\19 ]> jaarverslag-aivd-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\04\19\jaarverslag-mivd ]> jaarverslag2011-mivd.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\10 ]> jaarrapportage-bedrijfsvoering-rijk-2011-rapportage-grote-en-risicovolle-ict-projecten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\10\jaarrapportage-bedrijfsvoering-rijk-2011-tot-en-met-bijlage-4 ]> jaarrapportage-bedrijfsvoering-rijk-140512.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\11 ]> jaarverslag-2011-van-het-commissariaat-van-de-media.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16 ]> bijlage-kamerbrief-over-beheerverslag-belastingdienst-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16 ]> jaarverslag-2011-kustwacht-koninkrijk-der-nederlanden-in-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16 ]> kerncijfers-2007-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\financieel-jaarverslag-van-het-rijk-fjr-2011 ]> 11-jv-financieel-jaarverslag-vh-rijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\h-bes-fonds ]> 11-jv-h-bes-fonds.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\iib-overige-hoge-colleges-van-staat-en-kabinetten ]> 11-jv-2b-overige-hoge-colleges.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\iv-koninkrijksrelaties ]> 11-jv-4-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\ixb-financien ]> 11-jv-9b-financien.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\v-buitenlandse-zaken ]> 11-jv-5-buitenlandse-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\vi-veiligheid-en-justitie ]> 11-jv-6-veiligheid-en-justitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\vii-binnenlandse-zaken ]> 11-jv-7-binnenlandse-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\viii-onderwijs-cultuur-en-wetenschap ]> 11-jv-8-onderwijs-cultuur-en-wetenschap.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\x-defensie ]> 11-jv-10-defensie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\xii-infrastructuur-en-milieu ]> 11-jv-12-infrastructuur-en-milieu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\xiii-economische-zaken-landbouw-en-innovatie ]> 11-jv-13-economische-zaken-landbouw-en-inn-p.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\xv-sociale-zaken-en-werkgelegenheid ]> 11-jv-15-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2012\05\16\xvi-volksgezondheid-welzijn-en-sport ]> 11-jv-16-vws.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\03\04 ]> jaarverslag-2012-college-voor-examens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\03\22 ]> jaarverslag-2012-centraal-bureau-voor-de-statistiek.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\04\15\sociaal-jaarverslag-2012 ]> bz-sociaal-jaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\04\25 ]> jaarverslag-2012-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08 ]> financieel-jaarverslag-van-het-rijk-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\h-bes-fonds ]> h-bes-fonds-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\iib-overige-hoge-colleges-van-staat-en-kabinetten ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\internetbijlagen-financieel-jaarverslag-van-het-rijk-2012 ]> internetbijlagen-fjr-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\iv-koninkrijksrelaties ]> iv-koninkrijksrelaties-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\ixb-financien ]> ixb-financien-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\ocw-kerncijfers-2008-2012 ]> onderwijs-cultuur-en-wetenschap-kerncijfers-2008-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\v-buitenlandse-zaken ]> v-buitenlandse-zaken-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\vii-binnenlandse-zaken-en-koninkrijksrelaties ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\viii-onderwijs-cultuur-en-wetenschap ]> viii-onderwijs-cultuur-en-wetenschap-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\x-defensie ]> x-defensie-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\xii-infrastructuur-en-milieu ]> xii-infrastructuur-en-milieu-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\xiii-economische-zaken ]> xiii-economische-zaken-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\xv-sociale-zaken-en-werkgelegenheid ]> xv-sociale-zaken-en-werkgelegenheid-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\08\xvi-volksgezondheid-welzijn-en-sport ]> xvi-volksgezondheid-welzijn-en-sport-rijksjaarverslag-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\13 ]> jaarrapportage-bedrijfsvoering-rijk-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\14 ]> jaarverslag-2012-hoge-raad-van-adel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarverslagen\2013\05\17\jaarverslag-igk-2012 ]> brief-mindef-bijlage-jaarverslag-igk-2012-tcm4-1003509.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 9; BatchedItems: 100]...[0m
