@@ -3161,3 +3161,206 @@ Exception calling "GetTextFromPage" with "2" argument(s): "Unexpected color spac
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\04 ]> kamerbrief-over-reis-minister-plasterk-van-19-tot-27-januari-2013.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\05 ]> aanbiedingsbrief-bij-overzicht-wetgeving-caribisch-nederland-ocw-januari-2013.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 16; BatchedItems: 100]...[0m
+[main ccd3acab] Added batch #16 of policy-docs (total: 100
+ 101 files changed, 61056 insertions(+)
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/05/25/voorjaarsnota-2012/2012-05-25-voorjaarsnota-2012-versie-tweede-kamer.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/05/29/kamerbrief-over-jaarverslagen-2011-van-de-afm-en-dnb.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/01/kamerbrief-over-voorgenomen-regelgeving-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/04/kamerbrief-met-verslag-bezoek-caribisch-nederland-16-tot-21-april-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/04/kamerbrief-over-afspraken-intensivering-natuur-uit-begrotingsakkoord.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-kamervragen-over-het-jaarverslag-van-het-ministerie-van-buitenlandse-zaken-over-2011.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-kamervragen-over-jaarverslag-en-slotwet-bes-fonds-2011.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-kamervragen-over-jaarverslag-en-slotwet-koninkrijksrelaties-2011-dl-1.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-kamervragen-over-jaarverslag-en-slotwet-koninkrijksrelaties-2011-dl-2.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/beantwoording-vragen-jaarverslag-el-i-2011-onderdeel-economie-innovatie.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/08/kabinetsstandpunt-referentiekader-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/11/kamerbrief-over-kabinetsstandpunt-koopkrachtonderzoek-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/13/antwoorden-op-kamervragen-jaarverslag-ministerie-szw.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/14/kamerbrief-over-waz-vergunning-fundashon-mariadal.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/18/kamerbrief-over-kustwacht-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/21/aanbiedingsbrief-teeb-rapport-voor-het-nederlandse-bedrijfsleven.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/22/kamerbrief-toezeggingen-algemeen-overleg-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/25/antwoorden-op-kamervragen-over-de-voorjaarsnota-2012/2012-06-25-antwoorden-op-kamervragen-voorjaarsnota-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/25/beantwoording-kamervragen-over-de-voorjaarsnota-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/25/bijlage-beantwoording-kamervragen-1e-suppletoire-begroting-vws-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/25/bijlage-concept-inrichtingsplan-nationale-politie/concept-bijlagen-inrichtingsplan-nationale-politie.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/26/kamerbrief-wetsvoorstel-strekkende-tot-het-opnemen-van-een-constitutionele-basis-voor-bes.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/26/nota-naar-aanleiding-van-het-verslag-wetsvoorstel-opnemen-van-een-constitutionele-basis-voor-bes.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/27/beantwoording-kamervragen-over-aanhoudende-problemen-postvoorziening-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/27/beantwoording-kamervragen-over-de-aanhoudende-ontevredenheid-op-de-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/27/bijlage-beantwoording-kamervragen-1e-suppletoire-begroting-ocw-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/28/kamerbrief-met-overzicht-verzoeken-van-de-vaste-commissie-voor-financien-van-de-tweede-kamer.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/06/28/kamerbrief-over-reis-naar-sint-maarten-saba-sint-eustatius-en-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/02/kamerbrief-over-antecedentenverklaring-eerste-aanvraag-verblijfsvergunning.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/05/aanbiedingsbrief-met-verslag-vn-conferentie-over-duurzame-ontwikkeling.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/05/kamerbrief-stand-van-zaken-biodiversiteitbeleid.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/06/beantwoording-kamervragen-belemmeringen-leraren-naar-caribisch-nederland-en-kwaliteit-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/06/kamerbrief-over-staatkundig-proces-nederlandse-antillen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/06/kamerbrief-toezegging-3-en-4-interparlementair-koninkrijksoverleg-en-problematiek-studieschulden-in-caribische-regio.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/06/nader-rapport-bij-variawet.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/09/beantwoording-kamervragen-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/09/uitstelbrief-over-mogelijke-rol-rijksdienst-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/10/kamerbrief-elfde-conferentie-van-partijen-van-de-conventie-van-ramsar.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/11/beantwoording-kamervragen-over-de-brief-van-own-your-own-home-te-saba.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/07/16/kamerbrief-over-zes-fiches-door-de-werkgroep-bnc.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/03/kamerbrief-over-resultaten-bijeenkomst-internationale-walvisvaartcommissie-iwc64.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/15/beantwoording-kamervragen-over-sturen-ezels-naar-haiti-door-bonaire/beantwoording-kamervragen-over-sturen-ezels-naar-haiti-door-bonaire-2.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/17/memorie-van-toelichting-bij-wet-natuurbescherming.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/29/kamerbrief-over-onderzoek-naar-onderwijs-in-het-engels-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/30/kamerbrief-over-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/31/aanbiedingsbrief-bij-overzicht-wetgeving-caribisch-nederland-ocw.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/31/aanbiedingsbrief-met-nieuwe-commissievoorstellen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/03/beantwoording-kamervragen-over-het-bericht-dat-nederlandse-schoolexamens-op-curacao-op-een-marineschip-afgenome-0E24DB22.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/04/beantwoording-kamervragen-over-nieuwe-belastingregels-saba-en-sint-eustatius/beantwoording-kamervragen-over-nieuwe-belastingregels-saba-en-sint-eustatius-2.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/06/nota-naar-aanleiding-van-het-verslag-wijziging-kieswet.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/07/beantwoording-kamervragen-over-dienstreizen-naar-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/11/beantwoording-kamervragen-over-kosten-dienstreizen-naar-saba-st-eustatius-en-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/13/kamerbrief-over-de-energieprijzen-in-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/19/beantwoording-kamervragen-over-veiligheid-op-school.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/20/beantwoording-kamervragen-over-malversaties-verkiezingsproces-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/20/kamerbrief-over-het-rapport-teeb-stad.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/21/kamerbrief-over-informatievoorziening-nieuwe-commissievoorstellen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/09/26/antwoorden-kamervragen-over-corruptieonderzoek-bonaire/lp-v-j-0000001726.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/01/beantwoording-kamervragen-van-de-leden-bosman-en-leegte-beiden-vvd-over-het-rioleringsp-E63E0619/lp-i-m-0000002551.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/01/kamerbrief-over-de-vws-verzekerdenmonitor-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/01/kamerbrief-over-legislatieve-terughoudendheid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/05/aanbiedingsbrief-derde-en-vierde-rapportage-voortgangscommissie-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/10/kamerbrief-over-voorgenomen-maatregelen-voor-caribisch-nederland-in-het-ofm-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/18/aanbiedingsbrief-verslag-van-een-schriftelijk-overleg-aangaande-de-kabinetsreactie-op-h-780C2DC8/aanbiedingsbrief-verslag-van-een-schriftelijk-overleg-aangaande-de-kabinetsreactie-op-het-koopkrachtonderzoek-u-076B79A6.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/18/beantwoording-kamervragen-over-ontwerpbegroting-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/18/memorie-van-antwoord-wetsvoorstel-exportbeperking-kinderbijslag.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/22/nota-nav-verslag-ofm-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/25/beantwoording-kamervragen-begrotingsbehandeling-h-iv.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/26/beantwoording-kamervragen-over-kinderrechten-op-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/10/29/nota-van-wijziging-wet-educatie-en-beroepsonderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/01/legislatieve-terughoudendheid-caribisch-nl/lp-i-m-0000002709.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/06/nota-naar-aanleiding-van-het-nader-verslag-bij-belastingplan-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/12/antwoorden-op-vragen-over-de-begroting-van-buitenlandse-zaken-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/14/beantwoording-kamervragen-over-begroting-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/19/aanbiedingsbrief-bij-rapport-samen-verder-bouwen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/23/wijzigingen-pakket-belastingplan-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/29/algemeen-overleg-armoede-en-schuldenbeleid-van-5-december-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/29/kamerbrief-over-rapport-minder-validen-beleid-op-bonaire-mivabo.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/05/antwoorden-op-kamervragen-over-de-begroting-2013-van-het-ministerie-van-szw.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/07/memorie-van-antwoord.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/12/schriftelijke-antwoorden-begrotingsbehandeling-szw-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/14/beantwoording-kamervragen-over-de-2e-suppletoire-begroting-van-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/14/lijst-van-vragen-en-antwoorden-van-de-begrotingsstaten-van-het-ministerie-van-infrastru-54F56BE0/lp-i-m-0000002882.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/17/kamerbrief-over-regulerend-kader-elektriciteitsvoorziening-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/19/beantwoording-kamervragen-begroting-ministerie-binnenlandse-zaken-en-koninkrijksrelaties-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/20/advies-raad-van-state-inzake-de-interbestuurlijke-verhoudingen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/20/kamerbiref-toezegging-uitkomst-overleg-gedeputeerden-landelijk-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/20/kamerbrief-over-zorgverzekering-bij-verhuizing-naar-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/21/beantwoording-kamervragen-postbezorging-op-de-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/12/21/kamerbrief-over-maatregelen-zorg-caribisch-nederland-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/08/kamerbrief-over-legislatieve-terughoudendheid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/17/uitkomst-bestuurlijk-overleg-met-provincies-en-besteding-200-mln/kamerbrief-over-de-uitkomst-bestuurlijk-overleg-met-provincies-en-besteding-200-miljoen-versie-22-1-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/18/nader-rapport-bij-voorstel-wet-kwaliteit-in-verscheidenheid-hoger-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/18/wetsvoorstel-kwaliteit-in-verscheidenheid-hoger-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/21/kamerbrief-bij-evaluatie-verkiezing-tweede-kamerleden-12-september-2012.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/21/kamerbrief-over-wijziging-zorgpakket-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/22/aanbieding-teeb-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/01/29/aanbiedingsbrief-aan-tweede-kamer-11e-halfjaarsrapportage.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/02/04/kamerbrief-over-reis-minister-plasterk-van-19-tot-27-januari-2013.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/02/05/aanbiedingsbrief-bij-overzicht-wetgeving-caribisch-nederland-ocw-januari-2013.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\06 ]> kamerbrief-nadere-informatie-integrale-aanpak-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\07 ]> voorstel-van-wet-omtrent-wetswijzigingen-voor-registratie-van-vrijstellingen-en-leerplicht.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\11 ]> kamerbrief-over-zorgaanspraken-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\13\beantwoording-kamervragen-brief-caribisch-nederlandse-vereniging-van-fysiotherapeuten-o-E6D1BF4F ]> beantwoording-kamervragen-brief-caribisch-nederlandse-vereniging-van-fysiotherapeuten-over-wijziging-ziektekost-9EC56B87.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\19 ]> aanbiedingsbrief-bij-besluit-inzake-het-verstrekken-van-een-vervangend-opleidingsdocument-bij-naams-en-geslacht-8B550FEE.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\25 ]> nader-rapport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\25 ]> wetsvoorstel-verzamelwet-szw-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\02\25 ]> wetsvoorstel-wet-subsidiering-landelijke-onderwijsondersteunende-activiteiten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\05 ]> kamerbrief-over-standpunt-op-advies-gezondheidsraad-rijksvaccinatieprogramma-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\07 ]> beantwoording-vragen-rapport-bezuinigen-op-uitvoeringsorganisaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\14 ]> overzicht-voorgenomen-regelgeving-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\18 ]> kamerbrief-over-stand-van-zaken-diverse-onderwerpen-koninkrijksrelaties-en-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\19 ]> kamerbrief-over-halfjaarlijkse-stand-van-zaken-toezeggingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\20 ]> beantwoording-vragen-van-de-leden-hachchi-en-van-veldhoven-beiden-d66-inzake-asbestsanering-in-de-scholen-van-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\20 ]> kamerbrief-over-fiscale-toezeggingen-en-moties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\27\antwoorden-kamervragen-over-drugssmokkel-via-de-antwerpse-haven ]> lp-v-j-0000002922.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\27\beleidsreactie-op-het-rapport-van-de-raad-voor-de-rechtshandhaving-over-hulp-aan-slacht-1D79E13F ]> lp-v-j-0000002936.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\03\28\memorie-van-toelichting-rond-wetsvoorstel-goedkeuring-handelsovereenkomst-eu-colombia-en-peru ]> 003711229-mvt-coria-versie-nov-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\02 ]> kamerbrief-toezeggingen-voortgezet-algemeen-overleg-armoede-en-schuldenbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\02 ]> nota-van-wijziging-van-wet-kwaliteit-in-verscheidenheid-hoger-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\03 ]> beantwoording-kamervragen-over-bericht-dat-marine-wederom-ingeroepen-moest-worden-om-watervoorziening-op-saba-te-redden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\03\voorstel-van-wijziging-wet-op-het-primair-onderwijs-de-wet-op-de-expertisecentra-en-de--70714213 ]> voorstel-van-wijzing-wet-op-het-primair-onderwijs-de-wet-op-de-expertisecentra-en-de-wet-primair-onderwijs-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\11 ]> kamerbrief-over-afsprakenlijst-van-interparlementair-koninkrijksoverleg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\12 ]> nota-n-a-v-het-verslag-wetsvoorstel-verzamelwet-szw-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\12 ]> nota-van-wijziging-wetsvoorstel-verzamelwet-szw-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\16 ]> beantwoording-kamervragen-over-het-bericht-dat-sint-maarten-haar-deel-van-de-rekening-voor-de-kustwacht-weigert-D248B51D.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\17 ]> beantwoording-kamervragen-over-verwaarlozing-ezels-op-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\18 ]> memorie-van-toelichting-bij-het-verdrag-met-duitsland-inzake-vermijden-dubbele-belasting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\19 ]> kamerbrief-met-overzicht-ontwerpregelgeving-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\24 ]> aanbiedingsbrief-natuurbeleidsplan-caribisch-nederland-2013-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\24 ]> kamerbrief-over-beantwoording-verslag-schriftelijk-overleg-van-commissie-vws-inzake-pakketmaatregelen-caribisch-B8AB271F.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\04\26 ]> overzicht-verdragen-in-voorbereiding-peildatum-31-december-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\01 ]> nader-rapport-inzake-de-interbestuurlijke-verhoudingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\07 ]> aanbiedingsbrief-bij-overzicht-wet-en-regelgeving-in-voorbereiding-of-aanhangig-gemaakt-inzake-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\08 ]> kamerbrief-over-voorgenomen-en-aanhangige-wet-en-regelgeving-met-betrekking-tot-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\10 ]> bijlage-bij-hoofdlijnenbrief-emancipatiebeleid-2013-2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\14 ]> memorie-van-antwoord-intrekkingswet-wet-overleg-minderheden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\14 ]> representativiteitstoets-lom.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\16 ]> beantwoording-kamervragen-inzake-bonaire-mariene-park.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\16 ]> beantwoording-kamervragen-over-beleidsnota-wat-de-wereld-verdient-een-nieuwe-agenda-voor-hulp-handel-en-investeringen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\22 ]> uitstelbrief-beanwoording-motie-heijnen-segers-inzake-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\23 ]> beantwoording-vragen-over-het-groot-project-ehs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\23 ]> fiscale-verzamelwet-2013-at.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\23 ]> fiscale-verzamelwet-2013-mvt.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\23 ]> kamerbrief-stand-van-zaken-kwaliteitsagenda-gba-en-modernisering-gemeentelijke-basisadministratie-personen-mgba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\24 ]> verticale-toelichting-voorjaarsnota-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\05\30 ]> kamerbrief-invulling-subsidietaakstelling-onderwijs-en-onderzoek.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\03 ]> beantwoording-kamervragen-over-het-rapport-van-cito-de-praktijk-van-de-eerste-en-tweede-correctie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\03 ]> voorstel-van-wet-bij-aanpassingswet-ocw-wetten-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> antwoorden-over-jaarverslag-2012-deel-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> antwoorden-over-jaarverslag-en-slotwet-koninkrijksrelaties-2012-deel-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> antwoorden-over-jaarverslag-en-slotwet-koninkrijksrelaties-2012-deel-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> beantwoording-kamervragen-over-djv-2012-en-slotwet-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> kamerbrief-over-verschillende-onderwerpen-van-het-caribisch-deel-van-het-koninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06 ]> lijst-van-vragen-en-antwoorden-lijst-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\06\antwoorden-op-vragen-over-het-rapport-van-de-algemene-rekenkamer-bij-het-jaarverslag-20-324E28CC ]> antwoorden-op-vragen-over-het-rapport-van-de-algemene-rekenkamer-bij-het-jaarverslag-2012-van-het-ministerie-va-C3B78281.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\07 ]> beantwoording-vragen-over-jaarverslag-2012-en-slotwet-2012-van-economische-zaken-onderdeel-landbouw-en-natuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\07 ]> kamerbrief-natuurbeleidsplan-caribisch-nederland-2013-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\11\cultuur-beweegt-de-betekenis-van-cultuur-in-een-veranderende-samenleving ]> cultuur-beweegt-de-betekenis-van-cultuur-in-een-veranderde-samenleving.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\13 ]> antwoorden-onderwerpen-ar-rapport.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\14 ]> beantwoording-kamervragen-verhoging-van-de-eu-uitgaven-aan-ontwikkelingshulp.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\14\rapportage-implementatie-stockholmprogramma-2010-2014 ]> lp-v-j-0000003486.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\17 ]> aanbiedingsbrief-bij-rapport-evaluatie-flexibele-pool-koninklijke-marechaussee.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\18 ]> kamerbrief-over-voortgang-zorg-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\18 ]> voorstel-van-wet-wijziging-van-de-wet-op-het-primair-onderwijs-de-wet-op-de-expertisecentra-en-de-wet-primair-o-C05C565C.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\18\aanbieding-jeugdreclassering-bes-eilanden ]> lp-v-j-0000003494.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\18\voorstel-van-wet-tot-wijziging-van-de-wet-op-het-voortgezet-onderwijs-de-wet-voortgezet-51C40D2F ]> voorstel-van-wet-tot-wijziging-van-de-wet-op-het-voortgezet-onderwijs-de-wet-voortgezet-onderwijs-bes-de-wet-co-DD4D02D3.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\19 ]> kamerbrief-beleidsreactie-unicef-rapport-kinderrechten-in-de-cariben.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\20 ]> kamerbrief-inzake-reactie-op-afsprakenlijst-interparlementair-koninkrijksoverleg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\21 ]> aanbiedingsbrief-iob-evaluatie-europees-ontwikkelingsbeleid-1998-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\22 ]> kamerbrief-over-uitvoeringsagenda-natuurlijk-kapitaal.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\24 ]> beantwoording-kamervragen-over-overname-energieproducent-ecopower-op-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\24 ]> beantwoording-schriftelijke-vragen-eerste-suppletoire-begroting-ez-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\25 ]> aanbiedingsbrief-met-nota-naar-aanleiding-van-het-verslag-omtrent-verzelfstandigde-besturen-in-het-primair-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\25 ]> kamerbrief-over-beleid-invasieve-exotische-muggen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\26 ]> beantwoording-kamervragen-1e-suppletoire-begroting-szw.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\06\28 ]> wetsvoorstel-wet-sociaal-leenstelsel-masterfase.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\01 ]> memorie-van-toelichting-bij-de-jeugdwet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\01 ]> overzicht-toezeggingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\02 ]> kamerbrief-bij-onderzoek-deregulering-en-taakverlichting-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\02 ]> nota-naar-aanleiding-van-verslag-fvw-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\03 ]> intensivering-armoede-en-schuldenbeleid.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\05 ]> beantwoording-kamervragen-over-verschillende-berichten-over-het-bestuur-op-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\10 ]> beantwoording-kamervragen-over-nederlandstalige-beleidsplannen-die-niet-vertaald-worden-voor-bonaire-st-eustati-E578F040.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\11\voorstel-voor-een-verordering-tot-vaststelling-van-regels-voor-de-bewaking-van-de-zeebu-3D5AFF5A ]> lp-v-j-0000003755.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\07\15 ]> voorlichting-raad-van-state-over-initiatiefnota-mooi-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\13 ]> kamerbrief-over-nationaal-programma-radioactief-afval.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\26 ]> kamerbrief-met-reactie-op-rapport-trafficking-in-persons.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\27 ]> beantwoording-kamervragen-over-berichten-jeugdreclassering-op-curacao.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\28 ]> nota-nav-verslag-wetsvoorstel-aanpassingswet-ocw-wetten-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\30 ]> beantwoording-kamervragen-over-beleidsbrief-respect-en-recht-voor-ieder-mens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\30 ]> kamerbrief-bij-rapport-op-zoek-naar-nieuwe-verhoudingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\08\30\wijziging-rijkswet-op-het-nederlanderschap ]> wetsvoorstel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\02 ]> jaarverslag-ilt-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\03 ]> voorstel-van-wet-over-intrekken-regeling-gratis-schoolboeken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\06 ]> nota-van-wijziging-van-wet-versterking-kwaliteitswaarborgen-hoger-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\09 ]> kamerbrief-met-kabinetsreactie-op-de-jaarrapportage-van-het-college-voor-de-rechten-van-de-mens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\11 ]> kamerbrief-over-de-verbeteringen-in-de-bedrijfsvoering-van-bzk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\13 ]> kamerbrief-over-rijkscoordinatie-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2013\09\18 ]> beantwoording-kamervragen-nationaal-programma-radioactief-afval.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 17; BatchedItems: 100]...[0m
