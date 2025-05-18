@@ -106,11 +106,6 @@ try {
 
 
 
-    Add-Type -Path "$PSScriptRoot\lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
-    Add-Type -Path "$PSScriptRoot\lib\iTextSharp\itextsharp.dll"
-
-
-
     $Logging.Info_StartedCommittingRawTexts()
     $SourceFiles = @(
         Get-ChildItem -Path "$PSScriptRoot\Archive" -Filter *.raw.txt -File -Recurse |
