@@ -143,12 +143,13 @@ function Get-SourceFileInfo {
         $Dir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
         $Dir_RelPath = [System.IO.Path]::GetRelativePath($RootPath, $Dir_AbsPath)
 
-        return [PSCustomObject] @{
-            Name       = $File_Name
-            Path       = $SourcePath
-            LoggedDir  = $Dir_RelPath
-            LoggedFile = Join-Path $Dir_RelPath -ChildPath $File_Name
-        }
+        Write-Output $(
+            [PSCustomObject] @{
+                Name       = $File_Name
+                Path       = $SourcePath
+                LoggedDir  = $Dir_RelPath
+                LoggedFile = Join-Path $Dir_RelPath -ChildPath $File_Name
+            })
     }
 }
 #endregion
@@ -165,34 +166,43 @@ function Join-RawTextData {
     process {
         $Logging.Info_JoiningRawTextFromFile($SourceFile)
 
-        try {
-            $SourceData = [PSCustomObject]@{
-                File = $SourceFile.LoggedFile
-                Type = ''
-                Year = [datetime]::Now.Year
-                Date = [datetime]::Now.Date
-                Tags = @()
-                Text = Get-Content $SourceFile.Path -Raw
+        $SourceData = [PSCustomObject]@{
+            File = $SourceFile.LoggedFile
+            Type = ''
+            Year = [datetime]::Now.Year
+            Date = [datetime]::Now.Date
+            Tags = @()
+            Text = Get-Content $SourceFile.Path -Raw
+        }
+
+        if ($SourceFile.LoggedDir -match '(?<TYPE>[^\\]*)\\(?<YEAR>[0-9]+)\\(?<MONTH>[0-9]+)\\(?<DAY>[0-9]+)(?<REST>.*)') {
+
+            $Parsed = @{
+                Type  = $Matches.TYPE
+
+                Year  = [int] $Matches.YEAR
+                Month = [int] $Matches.MONTH
+                Day   = [int] $Matches.DAY
+
+                Tags  = $Matches.TAGS
             }
 
-            if ($SourceFile.LoggedDir -match '(?<TYPE>.*?)\\(?<YEAR>.*?)\\(?<MONTH>.*?)\\(?<DAY>.*?)(\\(?<REST>.*))?') {
-                $SourceData.Type = $Matches.TYPE
-                $SourceData.Year = [int] $Matches.YEAR
-                $SourceData.Date = [datetime]::new($Matches.YEAR, $Matches.MONTH, $Matches.DAY)
-                $SourceData.Tags = @($Matches.TAGS -split '\\')
-            }
+            $SourceData.Type = $Parsed.Type
+            $SourceData.Year = $Parsed.Year
+            $SourceData.Date = [datetime]::new($Parsed.Year, $Parsed.Month, $Parsed.Day)
+            $SourceData.Tags = @($Parsed.Tags -split '\\')
+        }
 
-            return [PSCustomObject] @{
+        Write-Output $(
+            [PSCustomObject] @{
                 SourceFile = $SourceFile
                 SourceData = $SourceData
-            }
-
-        } catch {
-            $Logging.Warn_JoinRawTextFailed($SourceFile, $_)
-        }
+            })
     }
 }
 #endregion
+
+
 
 #region -- Declare: Select-SubSetBy --
 function Select-SubSetBy {
@@ -250,7 +260,7 @@ function Join-ToJsonDictionary {
     }
 
     end {
-        ConvertTo-Json $Target_Dict -Depth 20 -EscapeHandling Default |
+        ConvertTo-Json $Target_Dict -Depth 20 -EscapeHandling EscapeNonAscii -Compress |
             Set-Content -LiteralPath $TargetPath -Force
     }
 }
@@ -264,7 +274,7 @@ try {
 
     $Logging.Info_StartedJoiningRawTexts()
 
-    $AllSourceFilesWithData = @(
+    $AllSourceFiles = @(
         Get-ChildItem -Path "$PSScriptRoot\Archive" -Directory |
             Where-Object Name -In @(
                 'kamerstukken',
@@ -280,20 +290,27 @@ try {
                 $Year -ge 2015 -and $Year -lt 2024
             } |
             Get-ChildItem -Filter *.raw.txt -File -Recurse |
-            Get-SourceFileInfo |
-            Join-RawTextData
+            Get-SourceFileInfo
     )
 
-    $AllSourceFilesWithData |
+    $AllSourceFiles |
         Select-SubSetBy -Percentage 1 |
+        Join-RawTextData |
         Join-ToJsonDictionary -TargetPath "$PSScriptRoot\policy-docset-001.json"
 
-    $AllSourceFilesWithData |
+    $AllSourceFiles |
+        Select-SubSetBy -Percentage 5 |
+        Join-RawTextData |
+        Join-ToJsonDictionary -TargetPath "$PSScriptRoot\policy-docset-005.json"
+
+    $AllSourceFiles |
         Select-SubSetBy -Percentage 10 |
+        Join-RawTextData |
         Join-ToJsonDictionary -TargetPath "$PSScriptRoot\policy-docset-010.json"
 
-    $AllSourceFilesWithData |
+    $AllSourceFiles |
         Select-SubSetBy -Percentage 100 |
+        Join-RawTextData |
         Join-ToJsonDictionary -TargetPath "$PSScriptRoot\policy-docset-100.json"
 
 } finally {
