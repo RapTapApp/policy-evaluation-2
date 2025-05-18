@@ -1,0 +1,1540 @@
+Regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en 
+soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde 
+vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden 
+van trusts en soortgelijke juridische constructies) 
+ 
+ 
+MEMORIE VAN TOELICHTING 
+ 
+ALGEMEEN 
+ 
+§ 1. Inleiding 
+ 
+Dit wetsvoorstel strekt tot implementatie van de verplichting tot het bijhouden en centraal 
+registreren van informatie over de uiteindelijk belanghebbende (in het Engels ultimate beneficial 
+1 
+owner, afgekort UBO) van trusts en soortgelijke juridische constructies. De reikwijdte van dit 
+wetsvoorstel strekt zich uit tot trustees of de personen die in een soortgelijke juridische constructie 
+een vergelijkbare positie bekleden als trustees in een trust, in Nederland woonachtig of gevestigd 
+zijn, of, indien trustees buiten de Europese Unie woonachtig of gevestigd zijn, waarvan de trustees 
+namens de trust of soortgelijke juridische constructie in Nederland een zakelijke relatie aangaan of 
+onroerend goed verwerven. Deze verplichting vloeit voort uit de Europese vierde anti-
+2
+witwasrichtlijn , zoals gewijzigd door de Europese richtlijn (EU) 2018/843 tot wijziging van Richtlijn 
+(EU) 2015/849 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen 
+3 
+van geld of terrorismefinanciering (hierna: de wijzigingsrichtlijn), en wordt door middel van dit 
+wetsvoorstel geïmplementeerd in de (nieuwe) Implementatiewet registratie uiteindelijk 
+belanghebbenden van trusts en soortgelijke juridische constructies. Daarnaast worden de Wet ter 
+voorkoming van witwassen en financieren van terrorisme (Wwft) en de Wet op de economische 
+delicten (Wed) gewijzigd. Hiermee wordt onder meer een algemene verplichting vastgelegd om 
+bepaalde informatie over trusts en soortgelijke juridische constructies en de uiteindelijk 
+belanghebbenden daarvan in te winnen, bij te houden en te registreren, alsmede een bestraffing in 
+het geval van niet-nakoming van die verplichting. De implementatie van de verplichting tot het 
+houden van een centraal register met informatie over uiteindelijk belanghebbenden van trusts en 
+soortgelijke juridische constructies diende uiterlijk op 10 maart 2020 te zijn gerealiseerd. Een 
+transponeringstabel is opgenomen in paragraaf 10. 
+ 
+Waar in deze memorie van toelichting wordt gesproken over “de vierde anti-witwasrichtlijn” of “de 
+richtlijn” wordt daarmee bedoeld de vierde anti-witwasrichtlijn zoals die luidt na de inwerkingtreding 
+van de wijzigingsrichtlijn. Indien wordt gerefereerd aan de vierde anti-witwasrichtlijn zoals die gold 
+vóór de inwerkingtreding van de wijzigingsrichtlijn, wordt dat expliciet vermeld. Waar in deze 
+memorie van toelichting wordt gesproken over “trustee” wordt daaronder mede verstaan degene die 
+in een soortgelijke juridische constructie een vergelijkbare positie bekleedt als een trustee in een 
+trust. In paragraaf 3.3 wordt nader uiteengezet wat in het kader van dit wetsvoorstel verstaan dient 
+te worden onder een “trust”, een “trustee”, een “soortgelijke juridische constructie” en een 
+“uiteindelijk belanghebbende”. 
+ 
+De verplichting tot het houden van een register met informatie over uiteindelijk belanghebbenden 
+van trusts en soortgelijke juridische constructies was reeds opgenomen in de vierde anti-
+ 
+1
+ De richtlijn gebruikt de term “uiteindelijk begunstigde”. In de Wet ter voorkoming van witwassen en financieren van terrorisme is destijds 
+gekozen voor gebruik van de term “uiteindelijk belanghebbende”. Deze term zal dan ook in het onderhavige wetsvoorstel worden 
+gehanteerd. Een uiteindelijk belanghebbende betreft altijd een natuurlijk persoon. Een trust of soortgelijke juridische constructie kan één of 
+meerdere uiteindelijk belanghebbenden hebben. 
+2
+ Richtlijn (EU) 2015/849 van het Europees Parlement en de Raad van 20 mei 2015 inzake de voorkoming van het gebruik van het 
+financiële stelsel voor het witwassen van geld of terrorismefinanciering, tot wijziging van Verordening (EU) nr. 648/2012 van het Europees 
+Parlement en de Raad en tot intrekking van Richtlijn 2005/60/EG van het Europees Parlement en de Raad en Richtlijn 2006/70/EG van de 
+Commissie (PbEU 2015, L 141/73). 
+3
+ Richtlijn (EU) 2018/843 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn (EU) 2015/849 inzake de 
+voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, en tot wijziging van de 
+Richtlijnen 2009/138/EG en 2013/36/EU (PbEU 2018, L 156/43). 
+ 
+1 
+
+with a similar structure or function, countries should take similar measures to those required for 
+9
+trusts, with a view to achieving similar levels of transparency." 
+ 
+In vervolg op de FATF-aanbevelingen is ook de regelgeving op het niveau van de Europese Unie 
+aangepast. 
+ 
+§ 2.2 Vierde anti-witwasrichtlijn 
+ 
+§ 2.2.1 Inleiding 
+De vierde anti-witwasrichtlijn kent, in navolging van de FATF-aanbevelingen, twee regimes voor het 
+registreren van informatie over uiteindelijk belanghebbenden: een regime met betrekking tot de 
+uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten die in Nederland 
+zijn opgericht (artikel 30) en een regime met betrekking tot de uiteindelijk belanghebbenden van 
+trusts en soortgelijke juridische constructies (artikel 31). De implementatie van artikel 30 vindt 
+plaats via de Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en 
+10 
+andere juridische entiteiten, terwijl onderhavige wetsvoorstel uitsluitend ziet op de implementatie 
+van artikel 31. 
+ 
+§ 2.2.2 Doel van de richtlijn 
+De richtlijn strekt tot het voorkomen van het gebruik van het financiële stelsel voor het witwassen 
+van geld of voor terrorismefinanciering. Recente terroristische aanslagen hebben duidelijk gemaakt 
+dat de wijze waarop terroristische groeperingen hun operaties financieren en uitvoeren aan het 
+veranderen is. Daarnaast rijst uit publicaties over de Panama Papers een beeld van activiteiten die 
+uitsluitend zijn gericht op het verhullen van inkomsten en vermogens, om zodoende belasting te 
+ontduiken en geld en vermogen wit te wassen. Om gelijke tred te houden met nieuwe 
+ontwikkelingen zijn verdere maatregelen nodig om de transparantie van onder andere trusts en 
+soortgelijke juridische constructies te vergroten, teneinde het bestaande preventieve kader te 
+11 
+verbeteren en terrorismefinanciering en witwassen effectiever tegen te gaan. De integriteit van het 
+financiële stelsel van de Europese Unie is afhankelijk van deze transparantie. De richtlijn heeft niet 
+alleen tot doel het witwassen van geld op te sporen en te onderzoeken, maar ook witwassen te 
+12  
+voorkomen. Meer transparantie kan een krachtig afschrikkend effect hebben.
+ 
+§ 2.2.3 Artikel 31 van de vierde anti-witwasrichtlijn 
+Het eerste lid van artikel 31 van de vierde anti-witwasrichtlijn verplicht lidstaten de kernmerken te 
+identificeren van soortgelijke juridische constructies. Zie hierover nader paragraaf 3.3.2. 
+Artikel 31, eerste lid, van de vierde anti-witwasrichtlijn verplicht een lidstaat bovendien om te 
+zorgen dat trustees toereikende, accurate en actuele informatie inwinnen en bijhouden over de 
+uiteindelijk belanghebbenden van de trust of soortgelijke juridische constructie. Dit omvat de 
+identiteit van de oprichter(s), de trustee(s), de (eventuele) protector(s), de begunstigden of groep 
+van begunstigden, en van elke andere natuurlijke persoon die effectief zeggenschap uitoefent over 
+de trust of soortgelijke juridische constructie. 
+ 
+Ook schrijft het eerste lid voor dat lidstaten ervoor moeten zorgen dat inbreuken op artikel 31 
+onderworpen worden aan doeltreffende, evenredige en afschrikkende maatregelen of sancties. 
+ 
+13 14 
+Wanneer een trustee een zakelijke relatie aangaat of een bepaalde occasionele transactie 
+aangaat, dient deze aan de meldingsplichtige entiteit, bijvoorbeeld een bank, te melden dat hij of zij 
+ 
+9
+ International standards on combating money laundering and the financing of terrorism & proliferation; The FATF Recommendations, 
+Financial Action Task Force, updated June 2019, p. 91. 
+10
+ Kamerstukken I 2019/20, 35179, A. 
+11
+ Wijzigingsrichtlijn, overweging 2. 
+12
+ Wijzigingsrichtlijn, overweging 4. 
+13
+ De vierde anti-witwasrichtlijn definieert “zakelijke relatie” als volgt: een zakelijke, professionele of commerciële relatie die verband houdt 
+met de professionele activiteiten van een meldingsplichtige entiteit en waarvan op het tijdstip dat het contact wordt gelegd wordt 
+aangenomen dat zij enige tijd zal duren (artikel 3, dertiende lid, vierde anti-witwasrichtlijn). 
+14
+ Het gaat hier om occasionele transacties boven de in artikel 11, onder b, c en d, van de vierde anti-witwasrichtlijn vastgestelde drempels. 
+ 
+1 
+
+eis kunnen meldingsplichtige entiteiten voldoen met behulp van een op risico-gebaseerde aanpak. 
+Het voorgaande is bepaald in het zesde lid van artikel 31 van de vierde anti- witwasrichtlijn. 
+ 
+Het vierde lid bis bepaalt dat lidstaten ervoor kunnen kiezen de informatie in het centrale register 
+beschikbaar te stellen op voorwaarde dat de persoon die inzage wenst zich online registreert en een 
+vergoeding betaalt. Die vergoeding mag echter niet meer bedragen dan de administratieve kosten 
+voor het beschikbaar stellen van de informatie, met inbegrip van de kosten voor het bijhouden en 
+ontwikkelen van het register. 
+ 
+Het vijfde lid bepaalt dat lidstaten dienen te eisen dat de in het register bijgehouden informatie 
+toereikend, accuraat en actueel is, en dat zij daartoe moeten voorzien in mechanismen. Die 
+mechanismen houden onder ander in dat meldingsplichtige instellingen verplicht melding moeten 
+maken van iedere discrepantie die zij aantreffen tussen de informatie in het centrale nationale 
+register en de informatie over de uiteindelijke belanghebbende van een trust of soortgelijke 
+juridische constructie waarover zij beschikken. Indien nodig en voor zover dit hun taken niet onnodig 
+doorkruist, dienen ook bevoegde autoriteiten een dergelijke terugmelding te doen. Lidstaten dienen 
+ervoor te zorgen dat wanneer er sprake is van een dergelijke terugmelding er passende maatregelen 
+worden getroffen om de discrepanties tijdig te verhelpen en dat er zo nodig ondertussen een 
+specifieke vermelding in het centrale register wordt opgenomen. 
+ 
+Het zevende lid bepaalt dat de bevoegde autoriteiten en de financiële inlichtingen eenheid van een 
+lidstaat de informatie over de uiteindelijke belanghebbenden van trusts en soortgelijke juridische 
+constructies tijdig en kosteloos aan de bevoegde autoriteiten en financiële inlichtingen eenheden van 
+andere lidstaten moeten kunnen verstrekken. 
+ 
+Het zevende lid bis bepaalt dat de lidstaten in uitzonderlijke omstandigheden (vast te stellen in 
+nationaal recht) en per geval kunnen voorzien in een uitzondering op de toegang tot (alle of een deel 
+van) de informatie over een uiteindelijk belanghebbende. Deze uitzondering is aan de orde indien 
+toegang tot die informatie de uiteindelijk belanghebbende blootstelt aan een onevenredig risico, een 
+risico op fraude, ontvoering, chantage, afpersing, pesterijen, geweld of intimidatie dan wel indien de 
+uiteindelijk belanghebbende minderjarig of handelingsonbekwaam is. Lidstaten moeten ervoor 
+zorgen dat dergelijke uitzonderingen worden verleend na een gedetailleerde beoordeling van de 
+uitzonderlijke aard van de omstandigheden. Het recht op een bestuurlijke toetsing van het besluit 
+over de uitzondering en op een doeltreffende voorziening in rechte moet worden gegarandeerd. Een 
+lidstaat die uitzonderingen heeft verleend, dient jaarlijkse statistische gegevens te publiceren over 
+het aantal uitzonderingen dat is verleend en met welke redenen dat is gedaan, en over deze 
+gegevens aan de Europese Commissie verslag uit te brengen over die gegevens. De hier bedoelde 
+uitzonderingen kunnen niet worden ingeroepen wanneer bevoegde autoriteiten, de financiële 
+inlichtingen eenheid, kredietinstellingen, financiële instellingen en de in artikel 2, lid 1, punt 3, onder 
+b, van de richtlijn bedoelde meldingsplichtige entiteiten toegang wensen tot de informatie over een 
+uiteindelijk belanghebbende van een trust of soortgelijke juridische constructie. 
+ 
+Op grond van het negende lid van artikel 31 van de vierde anti-witwasrichtlijn moeten lidstaten hun 
+registers met informatie over uiteindelijk belanghebbenden van trusts en soortgelijke juridische 
+constructies aan elkaar koppelen via een bepaald Europees centraal platform dat op grond van 
+artikel 22 van deze richtlijn wordt ingesteld. De Europese Commissie zal in uitvoeringshandelingen 
+de technische specificaties en procedures bepalen voor die koppeling. 
+ 
+De richtlijn verplicht lidstaten er bovendien toe passende maatregelen te nemen om ervoor te 
+zorgen dat de registers enkel actuele informatie bevatten die betrekking heeft op de werkelijke 
+uiteindelijk belanghebbenden, en dat de toegang tot die informatie in overeenstemming is met de 
+regels inzake gegevensbescherming. 
+ 
+ 
+1 
+
+ii. de trustee(s); 
+iii. de (eventuele) protector(s); 
+iv. de begunstigden of, voor zover de afzonderlijke personen die de begunstigden zijn van de 
+juridische constructie of entiteiten nog niet zijn geïdentificeerd, de groep van personen in 
+wier belang de juridische constructie of entiteit hoofdzakelijk werd opgericht of werkzaam is; 
+alsmede 
+v. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere 
+middelen uiteindelijke zeggenschap uitoefent over de trust. 
+ 
+Waar het een soortgelijke juridische constructie betreft, worden de natuurlijke personen die in 
+gelijkwaardige of soortgelijke posities verkeren als de hierboven opgesomde personen, aangemerkt 
+18 
+als de uiteindelijk belanghebbenden van die soortgelijke juridische constructie.
+ 
+§ 2.2.5 Wijzigingen ten opzichte van het voormalige artikel 31 
+Zoals eerder al werd opgemerkt, is artikel 31 van de vierde anti-witwasrichtlijn door middel van de 
+wijzigingsrichtlijn aangepast. Eén van de belangrijkste wijzigingen die dit tot gevolg heeft gehad, is 
+dat de verplichting tot het registreren van uiteindelijk belanghebbenden zodanig is uitgebreid dat 
+deze ook geldt in lidstaten waarvan het rechtsstelsel geen trusts kent, en ook ten aanzien van 
+soortgelijke juridische constructies. Daarnaast maakt de wijzigingsrichtlijn de registers ook in ieder 
+geval toegankelijk voor ieder persoon die een legitiem belang kan aantonen alsmede ieder persoon 
+die een schriftelijk verzoek indient met betrekking tot de trust of soortgelijke juridische constructie 
+die een zeggenschapsdeelneming heeft in een andere dan de in artikel 30, eerste lid, van de vierde 
+anti- witwasrichtlijn bedoelde vennootschap of andere juridische entiteit, hetzij door rechtstreekse of 
+indirecte eigendom, met inbegrip van toonderaandelen, hetzij via andere middelen (zie ook de 
+hiervoor in paragraaf 2.2.3 genoemde categorieën c en d). Een andere belangrijke wijziging is dat 
+voor die twee toegevoegde groepen de naam, geboortemaand, geboortejaar, woonstaat en de 
+nationaliteit, alsmede de aard en omvang van het gehouden belang van een uiteindelijk 
+belanghebbende toegankelijk dienen te zijn. Ook voorziet de wijzigingsrichtlijn in de lidstaatoptie om 
+te voorzien in toegang tot aanvullende informatie aan de hand waarvan de uiteindelijk begunstigde 
+kan worden geïdentificeerd alsook de lidstaatoptie om ruimere toegang tot de in het register 
+bijgehouden informatie toe te staan. Daarnaast is toegevoegd de lidstaatoptie om de toegang tot het 
+register te verlenen op voorwaarde dat de raadpleger zich online registreert en een kostendekkende 
+vergoeding betaalt. 
+ 
+Belangrijke toevoegingen zijn ook de eerder beschreven verplichting om te voorzien in mechanismen 
+om te waarborgen dat de informatie in het register toereikend, accuraat en actueel is, waaronder de 
+verplichting voor meldingsplichtige entiteiten en bevoegde autoriteiten om melding te doen van 
+discrepanties tussen de informatie in het register en de informatie waarover zij uit andere hoofde 
+beschikken alsook de eerder beschreven mogelijkheid om in uitzonderlijke omstandigheden, in 
+individuele gevallen, te voorzien in afscherming van (een deel van) de informatie die in het register 
+is opgenomen over een uiteindelijk belanghebbende. Ook is met de wijzigingsrichtlijn voorzien in een 
+koppeling van de verschillende registers binnen de EU en een minimale en maximale periode waarin 
+de informatie over een uiteindelijk belanghebbende beschikbaar mag worden gesteld via het 
+register. 
+ 
+§ 2.2.6 Implementatietermijn 
+Artikel 67 van de vierde anti-witwasrichtlijn regelt de implementatietermijn. Met de wijzigingsrichtlijn 
+is de termijn voor de implementatie van artikel 31 gewijzigd. Dit artikel moet nu uiterlijk op 10 
+maart 2020 geïmplementeerd zijn. 
+ 
+§ 3. Inhoud wetsvoorstel 
+ 
+ 
+18
+ Artikel 3, zesde lid, onderdeel c, vierde anti-witwasrichtlijn. 
+ 
+1 
+
+maatschappij mogelijk, onder meer door de pers of maatschappelijke organisaties, en draagt bij aan 
+19 
+het behoud van het vertrouwen in de integriteit van zakelijke transacties en het financiële stelsel.
+ 
+Bovendien kan van het centraal aanleveren, registreren en openbaar maken van informatie over 
+uiteindelijk belanghebbenden een preventieve werking uitgaan. Het ontmoedigt natuurlijke personen 
+om misbruik te maken van trusts of soortgelijke juridische constructies. 
+ 
+§ 3.3 Definities 
+ 
+§ 3.3.1 Trust 
+De uit Angelsaksische rechtssystemen afkomstige trust is – kort samengevat - een juridische 
+constructie waarbij goederen worden toevertrouwd aan een beheerder (trustee) die deze 
+vermogensbestanddelen overeenkomstig een trustakte aanwendt voor één of meerdere 
+begunstigden. De trust kent vele verschillende verschijningsvormen en wordt voor verschillende 
+doeleinden gebruikt in de zakelijke sfeer, in familiaire sfeer alsook in culturele en charitatieve sferen. 
+Omdat trusts en soortgelijke juridische constructies voor de inwerkingtreding van dit wetsvoorstel 
+nog niet in Nederland worden geregistreerd, en niet als zodanig zijn gedefinieerd, is het nodig 
+definities van “trust” en “soortgelijke juridische constructie” te hebben. 
+ 
+Wat betreft trusts is in dit wetsvoorstel, net als in artikel 1, tweede lid, van de Wwft, aangesloten bij 
+de definitie uit het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van 
+20 
+trusts. Dit houdt in: een rechtsbetrekking die bij rechtshandeling onder levenden of terzake des 
+doods in het leven wordt geroepen door een persoon (de insteller) wanneer goederen onder de 
+macht van een trustee worden gebracht ten behoeve van een begunstigde of voor een bepaald doel. 
+Het verdrag noemt de volgende kenmerken van een trust: 
+a. de goederen van de trust vormen een afgescheiden vermogen en zijn geen deel van het 
+vermogen van de trustee; 
+b. de rechtstitel met betrekking tot de goederen van de trust staat ten name van de trustee of 
+ten name van een ander voor rekening van de trustee; 
+c. de trustee heeft de bevoegdheid en de plicht, terzake waarvan hij verantwoording schuldig 
+is, om in overeenstemming met de bepalingen van de trust en de bijzondere verplichtingen, 
+waaraan hij van rechtswege is onderworpen, de goederen van de trust te besturen en te 
+beheren of er over te beschikken. 
+Daarbij bepaalt het verdrag dat het niet noodzakelijkerwijs onverenigbaar is met het bestaan van 
+een trust dat de insteller zich bepaalde rechten en bevoegdheden heeft voorbehouden of dat de 
+trustee bepaalde rechten als begunstigde heeft. 
+ 
+§ 3.3.2 Soortgelijke juridische constructie 
+Dit wetsvoorstel bepaalt dat een soortgelijke juridische constructie wordt gelijkgesteld aan een trust. 
+Dit volgt uit het eerste lid van artikel 31 van de vierde anti-witwasrichtlijn waarin expliciet is 
+opgenomen dat ook soortgelijke juridische constructies onder het regime van artikel 31 vallen: “De 
+lidstaten zorgen ervoor dat het onderhavige artikel van toepassing is op trusts en andere soorten 
+juridische constructies, (…), wanneer die een soortgelijke structuur of functies als trusts hebben.” 
+Elke lidstaat heeft bepaald welke juridische constructies die door haar recht worden beheerst een 
+soortgelijke structuur of soortgelijke functie hebben als een trust. De Europese Commissie heeft een 
+21 
+geconsolideerde lijst van deze constructies gepubliceerd.
+ 
+In Nederland gaat het bij soortgelijke juridische constructies om bij overeenkomst of samenstel van 
+overeenkomsten tot stand gebrachte fondsen zonder rechtspersoonlijkheid, niet zijnde 
+ondernemingen als bedoeld in de Handelsregisterwet 2007, waarin de deelnemers vermogen 
+ 
+19
+ Wijzigingsrichtlijn, overweging 30. 
+20
+ Trb. 1985, 141. 
+21
+ PbEU 2019/C 434/13. 
+ 
+1 
+
+iii. de protector(s) van de trust, voor zover van toepassing; 
+iv. de begunstigden van de trust, of voor zover de afzonderlijke personen die de begunstigden 
+zijn van de trust niet kunnen worden bepaald, de groep van personen in wier belang de trust 
+hoofdzakelijk is opgericht of werkzaam is; en 
+v. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere 
+middelen uiteindelijke zeggenschap over de trust uitoefent. 
+ 
+Uit de woorden “in elk geval” in de aanhef van artikel 3, eerste lid, Uitvoeringsbesluit Wwft 2018 valt 
+op te maken dat ook natuurlijke personen die niet in deze categorieën vallen als de uiteindelijk 
+belanghebbenden van een trust kunnen worden aangemerkt. Het betreft een niet-limitatieve 
+opsomming van de mogelijke uiteindelijk belanghebbenden. Steeds zal moeten worden beoordeeld 
+of er ook andere personen zijn de als uiteindelijk belanghebbenden moeten worden aangemerkt. 
+ 
+Ten aanzien van categorie iv geldt dat het onder omstandigheden mogelijk is dat de individuele 
+begunstigden niet kunnen worden bepaald. In dat geval kan de groep van personen in wier belang 
+de trust is opgericht als uiteindelijk belanghebbende worden aangemerkt. Zo kan er bijvoorbeeld 
+sprake zijn van een dusdanig omvangrijke groep van begunstigden dat het identificeren van de 
+individuele begunstigden onmogelijk is. Ook is het mogelijk dat de individuele begunstigden nog niet 
+in beeld zijn omdat de begunstigden van een trust pas in de toekomst worden bepaald. In deze 
+gevallen is het van belang dat de groep van natuurlijke personen nauwkeurig, aan de hand van 
+specifieke kenmerken of naar categorie, wordt omschreven, zodat de individuele begunstigden bij 
+uitbetaling of op het moment waarop de begunstigden hun definitieve rechten uitoefenen, alsnog 
+23 
+kunnen worden achterhaald.
+Het is ook mogelijk dat de begunstigden wel voldoende bepaald zijn maar zij zelf nog niet op de 
+hoogte zijn van het feit dat zij begunstigden zijn. Ook in deze gevallen geldt dat als zij als 
+uiteindelijk belanghebbenden worden aangemerkt en geregistreerd moeten worden. 
+ 
+De uiteindelijk belanghebbenden van een soortgelijke juridische constructie moeten op een 
+vergelijkbare wijze worden vastgesteld als de uiteindelijk belanghebbenden van een trust (artikel 3, 
+vijfde lid, Uitvoeringsbesluit Wwft 2018). 
+ 
+In artikel 10a, eerste lid, van de Wwft is, in afwijking van de definitie in artikel 1, eerste lid, van de 
+Wwft het begrip “uiteindelijk belanghebbende” gedefinieerd als: de natuurlijke persoon die de 
+uiteindelijke eigenaar is van of zeggenschap heeft over een vennootschap of andere juridische 
+entiteit. Deze definitie is gebaseerd op de definitie van “uiteindelijk begunstigde” in artikel 3, zesde 
+lid, van de vierde anti-witwasrichtlijn, toegespitst op de Nederlandse situatie door inperking op twee 
+punten. Die inperking is bij de Implementatiewet registratie uiteindelijk belanghebbenden van 
+vennootschappen en andere juridische entiteiten aangebracht omdat de definitie in de richtlijn 
+elementen bevat die enkel relevant zijn voor de verplichtingen van meldingsplichtige instellingen, te 
+weten: het woord “cliënt” en de woorden “de natuurlijke persoon voor wiens rekening een transactie 
+wordt verricht”. De in artikel 10a, eerste lid, van de Wwft opgenomen definitie van “uiteindelijk 
+belanghebbende” is derhalve meer toegespitst op vennootschappen en andere juridische entiteiten. 
+Omdat paragraaf 2.4 met dit wetsvoorstel ook zal zien op uiteindelijke belanghebbenden van trusts 
+en soortgelijke juridische constructies, wordt de definitie van “uiteindelijke belanghebbende” in 
+artikel 10a, eerste lid, van de Wwft daartoe uitgebreid. 
+ 
+Ter bevordering van de uitvoerbaarheid is in artikel 10a van de Wwft ook voorzien in een 
+delegatiegrondslag, om in het Uitvoeringsbesluit Wwft 2018 nader te bepalen welke categorieën 
+natuurlijke personen in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende als 
+bedoeld in het eerste lid van artikel 10a van de Wwft. Met het oog op de uitvoerbaarheid van de 
+registratieplicht wordt bezien of dit beperkt kan worden voor gevallen waarin, naast afdoende 
+wettelijke toezicht, sprake is van buitengewoon grote aantallen uiteindelijk belanghebbenden. 
+ 
+23
+ Zie ook artikel 4, zesde lid, van de Wwft. 
+ 
+1 
+
+informatie in een centraal register. Die registratieplicht wordt opgenomen in artikel 11, eerste en 
+tweede lid, van de Implementatiewet registratie uiteindelijke belanghebbenden van trusts en 
+soortgelijke juridische constructies. Met het oog op het toereikend, accuraat en actueel houden van 
+de informatie die in het register wordt opgenomen en derhalve de bruikbaarheid van het register, 
+dient de trustee binnen een week na het plaatsvinden van het feit ten gevolgde waarvan de 
+registratieverplichting ontstond, aan die plicht te voldoen. 
+ 
+Op grond van artikel 3 van de Wwft dienen instellingen, die onder de werking van de Wwft vallen, 
+onderzoek te verrichten naar hun cliënten en naar de achtergrond en het doel van een beoogde 
+zakelijke relatie of transactie. Daarmee moeten die instellingen voorkomen dat hun dienstverlening 
+wordt gebruikt voor het witwassen van geld of voor het financieren van terrorisme, en moeten zij 
+transacties herkennen die in dat opzicht als ongebruikelijk moeten worden aangemerkt. In het kader 
+van dit cliëntenonderzoek is het van belang dat trustees toereikende, accurate en actuele informatie 
+betreffende de uiteindelijk belanghebbenden inwinnen en bijhouden. Hierdoor faciliteren zij Wwft-
+instellingen, die voor hen een transactie verrichten of met wie zij namens de trust of soortgelijke 
+juridische constructie een zakelijke relatie aangaan, om het cliëntenonderzoek op een risico-
+gebaseerde wijze uit te voeren. 
+ 
+Met betrekking tot de vraag wat onder “toereikende, accurate en actuele informatie over de 
+uiteindelijke belanghebbenden van een trust of soortgelijke juridische constructie” precies moet 
+worden verstaan, geeft de richtlijn aan dat hieronder moet worden begrepen informatie over de 
+identiteit van de oprichter(s), de trustee(s), de (eventuele) protector(s) en de begunstigde(n) van de 
+trust alsmede elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere 
+middelen uiteindelijke zeggenschap uitoefent over de trust. Dit betekent dat alle registratieplichtige 
+trustees de navolgende informatie over de trust of soortgelijke juridische constructie en de 
+uiteindelijk belanghebbenden daarvan moeten inwinnen, bijhouden (en derhalve ook voorhanden 
+moeten hebben) en registreren: 
+  de naam van en het type trust of soortgelijke juridische constructie; 
+  de datum waarop de trust of soortgelijke juridische constructie tot stand is gekomen 
+alsmede afschriften van documenten waaruit dit blijkt; 
+  de plaats waar de trust of soortgelijke juridische constructie tot stand is gekomen alsmede 
+afschriften van documenten waaruit dit blijkt; 
+  het doel waarvoor de trust of soortgelijke juridische constructie tot stand is gebracht 
+alsmede afschriften van documenten waaruit dit blijkt; 
+  de naam, de geboortemaand, het geboortejaar, de woonstaat en de nationaliteit van iedere 
+uiteindelijk belanghebbende alsmede afschriften van documenten op grond waarvan deze 
+gegevens zijn geverifieerd; 
+  het e-mailadres van de uiteindelijke belanghebbende; 
+  de aard en omvang van het door iedere uiteindelijk belanghebbende gehouden economische 
+belang alsmede afschriften van documenten waaruit dit blijkt; en 
+  het burgerservicenummer (BSN) van iedere uiteindelijk belanghebbende alsook afschriften 
+van documenten op grond waarvan dit is geverifieerd; 
+  het fiscaal identificatienummer van iedere uiteindelijk belanghebbende alsook afschriften van 
+documenten op grond waarvan dit is geverifieerd; 
+  de geboortedag, de geboorteplaats, het geboorteland en het woonadres van iedere 
+uiteindelijk belanghebbende alsook afschriften van documenten op grond waarvan deze 
+gegevens zijn geverifieerd. 
+ 
+De vierde verplichting wordt opgenomen in de Wwft. Wanneer een trustee in die hoedanigheid een 
+zakelijke relatie aangaat, een incidentele transactie verricht van meer dan € 15.000,- (of twee of 
+meer transacties waartussen een verband bestaat met een gezamenlijk waarde van meer dan € 
+ 
+1 
+
+registratie en betaling van een vergoeding. In dit wetsvoorstel wordt van deze lidstaatopties 
+gebruikgemaakt, zodat er een register ontstaat dat – in lijn met het register met informatie over 
+uiteindelijk belanghebbenden van juridische entiteiten – na online registratie en betaling van een 
+kostendekkende vergoeding voor eenieder toegankelijk is doch een afschermingsregime kent voor 
+uitzonderlijke gevallen en aanvullende informatie bevat die alleen toegankelijk is voor de 
+Nederlandse Financiële inlichtingen eenheid (FIU-Nederland) en de hierna in paragraaf 3.5.4 
+opgesomde bevoegde autoriteiten. 
+ 
+§ 3.5.2 Openbaarheid 
+Voorgesteld wordt om het register openbaar te maken, zodat ieder lid van de bevolking daartoe 
+toegang heeft. Daarmee volgt dit register het register met informatie over uiteindelijk 
+belanghebbenden van juridische entiteiten. Ook dat register, dat op grond van artikel 30 van de 
+vierde anti-witwasrichtlijn tot stand is gebracht, is openbaar. Aanvankelijk was openbaarheid van het 
+artikel 30–register ook een lidstaatoptie, maar met de komst van de wijzigingsrichtlijn werd dit 
+verplicht. 
+ 
+In het geval van het register voor uiteindelijk belanghebbenden van trusts en soortgelijke juridische 
+constructies is openbaarheid een lidstaatoptie gebleven. Zoals reeds aangekondigd in het plan van 
+28 
+aanpak witwassen, wordt van deze lidstaatoptie gebruikgemaakt. Voor gebruikmaking van deze 
+lidstaatoptie bestaat een aantal redenen. Allereerst zorgt het ervoor dat het voor eenieder kenbaar is 
+wie er achter een bepaalde juridische constructie schuilgaan zodat derden beter geïnformeerd 
+kunnen besluiten of zij zaken willen doen met de bijbehorende trust of soortgelijke juridische 
+constructie. Het wordt criminelen aldus moeilijker gemaakt zich achter juridische constructies te 
+verschuilen om crimineel verkregen vermogen wit te wassen of terrorisme te financieren. Ook maakt 
+openbaarheid van het register onderzoek van informatie door de maatschappij mogelijk, onder 
+andere door de pers of maatschappelijke organisaties, en draagt het bij aan het vertrouwen in de 
+integriteit van het financiële stelsel. Daarnaast sluit gebruikmaking van deze lidstaatoptie aan bij de 
+wijze waarop het register voor informatie over uiteindelijk belanghebbenden van vennootschappen 
+en andere juridische entiteiten is opgezet. Zoals al eerder is aangegeven in deze memorie van 
+toelichting, is zoveel als mogelijk aangesloten bij dat register. Indien gekozen zou zijn voor een niet-
+openbaar register dan zou voor toegang tot het register bij elk verzoek tot toegang beoordeeld 
+moeten worden of en zo ja tot welke van de in paragraaf 2.2.3 opgesomde categorieën de verzoeker 
+behoort. Bovendien dient het register reeds toegankelijk te zijn voor een zeer grote groep waaronder 
+de vele verschillende Wwft-instellingen. 
+Tegenover de openbaarheid van het trustregister staan verschillende maatregelen die de privacy van 
+de uiteindelijk belanghebbenden beschermen. Zo wordt gebruikgemaakt van de lidstaatoptie die het 
+mogelijk maakt om bepaalde informatie over een uiteindelijk belanghebbende af te schermen zodat 
+die informatie niet voor eenieder raadpleegbaar is via het register (zie paragraaf 3.5.3). Voor 
+toegang tot het register zijn bovendien registratie en betaling van een vergoeding vereist (zie 
+paragraaf 3.5.5). Ook wordt uiteindelijk belanghebbenden de mogelijkheid geboden om via de 
+beheerder van het register – de Kamer van Koophandel – inzicht te verkrijgen in het aantal keren 
+dat over hen informatie uit het register is verkregen. 
+Door de openbaarheid van het register wordt voor eenieder kenbaar: 
+  de naam van en het type trust of soortgelijke juridische constructie; 
+  op welke datum de trust of soortgelijke juridische constructie tot stand is gekomen; 
+  in welke plaats de trust of soortgelijke juridische constructie tot stand is gekomen; 
+  wat het doel is waarvoor de trust of soortgelijke juridische constructie tot stand is gebracht; 
+  de naam, de geboortemaand, het geboortejaar, de woonstaat en de nationaliteit van iedere 
+uiteindelijk belanghebbende van de trust of soortgelijke juridische constructie; en 
+  de aard en omvang van het door iedere uiteindelijk belanghebbende gehouden economische 
+belang. 
+ 
+ 
+28
+ Kamerstukken II 2018/19 31 477, nrs. 41 en50. 
+ 
+1 
+
+ 
+Overeenkomstig artikel 31, lid 7 bis, tweede en derde alinea, van de richtlijn geldt de afscherming 
+niet voor bevoegde autoriteiten, de financiële inlichtingen eenheid, financiële ondernemingen en 
+notarissen. Voor hen blijven de afgeschermde gegevens in te zien. Via een systeem van autorisaties 
+zal deze toegang worden bewerkstelligd. 
+ 
+Bij algemene maatregel van bestuur zal worden bepaald dat de informatie over uiteindelijk 
+belanghebbenden gedurende tien jaar nadat de gronden voor de registratie van bedoelde informatie 
+hebben opgehouden te bestaan, toegankelijk blijft via het register. Gelet op het doel van de richtlijn 
+is het, in het bijzonder voor de bevoegde autoriteiten en de FIU-Nederland, van belang dat de 
+historische gegevens betreffende een uiteindelijk belanghebbende gedurende een zo lang mogelijke 
+periode voorhanden zijn. Onderzoeken naar witwassen, de daaraan ten grondslag liggende delicten, 
+en het financieren van terrorisme zien op gebeurtenissen in het verleden. Historische informatie over 
+uiteindelijk belanghebbenden kan daarbij een belangrijke rol spelen. 
+ 
+§ 3.5.4 Aanvullende informatie voor FIU-Nederland en bevoegde autoriteiten 
+Zoals al uit paragraaf 2.2.3 bleek, dienen ook de financiële inlichtingen eenheden en bevoegde 
+autoriteiten van een lidstaat toegang te hebben tot de informatie over de uiteindelijke 
+belanghebbenden van trusts en soortgelijke juridische constructies. Voor deze specifieke categorieën 
+bepaalt de richtlijn in artikel 31, derde lid bovendien dat zij daartoe tijdig toegang moeten hebben. 
+Ook is in dit artikellid de lidstaatoptie opgenomen op grond waarvan lidstaten kunnen voorzien in 
+toegang tot aanvullende informatie aan de hand waarvan uiteindelijk belanghebbenden kunnen 
+worden geïdentificeerd (ten minste geboortedatum of de contactgegevens) en in ruimere toegang tot 
+de in het register opgenomen informatie. 
+ 
+Naast de hierboven in paragraaf 3.5.2 opgesomde openbare informatie wordt ook bepaalde 
+aanvullende informatie in het register opgenomen. Rekening houdend met de privacy van 
+uiteindelijk belanghebbenden, de proportionaliteit en noodzaak, is die aanvullende informatie echter 
+niet voor eenieder toegankelijk doch enkel voor de bevoegde autoriteiten en de FIU-Nederland. De 
+aanvullende informatie betreft: 
+  het BSN van iedere uiteindelijk belanghebbende alsook afschriften van documenten op grond 
+waarvan dit is geverifieerd; 
+  het fiscaal identificatienummer van iedere uiteindelijk belanghebbende alsook afschriften van 
+documenten op grond waarvan dit is geverifieerd; 
+  de geboortedag, de geboorteplaats, het geboorteland en het woonadres van iedere 
+uiteindelijk belanghebbende alsook afschriften van documenten op grond waarvan dit is 
+geverifieerd; 
+  het e-mailadres van iedere uiteindelijk belanghebbende; 
+  afschriften van documenten waaruit de datum, de plaats en het doel van totstandkoming van 
+de trust of soortgelijke juridische constructie blijken; 
+  afschriften van documenten op grond waarvan de naam, geboortemaand, geboortejaar, 
+woonstaat en nationaliteit van iedere uiteindelijk belanghebbenden zijn geverifieerd; en 
+  afschriften van documenten waaruit de aard en de omvang van het door iedere uiteindelijk 
+belanghebbenden gehouden economische belang in een trust of soortgelijke juridische 
+constructie blijken. 
+ 
+De FIU-Nederland en de bevoegde autoriteiten zullen dus niet alleen toegang hebben tot de 
+openbare informatie maar ook tot de bovenstaande aanvullende informatie over uiteindelijk 
+belanghebbenden van trusts en soortgelijke juridische constructies. Deze aanvullende gegevens 
+worden aan de bevoegde autoriteiten en de FIU-Nederland ter beschikking gesteld omdat deze 
+gegevens noodzakelijk zijn voor hun werkzaamheden in het kader van opsporing en vervolging van 
+strafbare feiten en het houden van toezicht, alsmede op grond van de eisen die de vierde anti-
+witwasrichtlijn aan bevoegde autoriteiten en de FIU-Nederland stelt. Op hen rust in dat verband een 
+ 
+1 
+
+handelsregister waarin informatie is opgenomen over uiteindelijk belanghebbenden van 
+vennootschappen en andere juridische entiteiten. De belangrijkste reden om een kostendekkende 
+vergoeding voor het afnemen van informatie te vragen, in tegenstelling tot bekostiging uit algemene 
+middelen, is dat het gaat om concreet identificeerbare afnemers waarbij toepassing van het 
+profijtbeginsel aan de orde is. De kosten zullen bestaan uit de administratieve kosten van het 
+verstrekken van de gegevens, met inbegrip van de kosten voor het bijhouden en ontwikkelen van 
+het register. 
+ 
+Voorts is hierbij voorzien dat raadplegers gehouden zullen zijn zich te registeren alvorens zij het 
+register kunnen raadplegen. Hiermee wordt eveneens aangesloten bij bestaande praktijk van andere 
+registers, zoals het handelsregister waarin onder meer informatie over uiteindelijk belanghebbenden 
+van vennootschappen en andere juridische entiteiten is opgenomen. 
+ 
+De vergoeding en registratie zullen nader uitgewerkt worden in een algemene maatregel van 
+bestuur. 
+ 
+§3.6 Meewerkverplichting uiteindelijk belanghebbenden 
+ 
+Omdat trustees voor het inwinnen en bijhouden van de informatie over de uiteindelijk 
+belanghebbenden van een trust of soortgelijke juridische constructie veelal afhankelijk zijn van 
+diezelfde uiteindelijk belanghebbenden, wordt in artikel 10b, vierde lid, van de Wwft een 
+meewerkverplichting voor de uiteindelijke belanghebbenden opgenomen. Deze meewerkverplichting 
+houdt in dat de uiteindelijk belanghebbenden verplicht zijn de trustee alle informatie te verschaffen 
+die de trustee nodig heeft om te voldoen aan zijn verplichting tot het inwinnen en bijhouden van 
+informatie over uiteindelijk belanghebbenden zodat die informatie toereikend, accuraat en actueel is. 
+De meewerkverplichting dient er toe bij te dragen aan de kwaliteit van het register. Overtreding van 
+deze verplichting wordt dan ook strafbaar gesteld in de Wet op de economische delicten (Wed). 
+ 
+§ 3.7 Terugmeldplicht bevoegde autoriteiten 
+ 
+Op grond van het vijfde lid van artikel 31 van de vierde anti-witwasrichtlijn moet de informatie die in 
+het register wordt bijgehouden toereikend, accuraat en actueel zijn en dient daartoe te worden 
+voorzien in mechanismen. Tot die mechanismen hoort onder andere de verplichting voor bevoegde 
+autoriteiten om – indien nodig en voor zover dit hun taken niet onnodig doorkruist – melding te 
+maken van iedere discrepantie die zij aantreffen tussen de informatie over uiteindelijke 
+belanghebbenden van trusts en soortgelijke juridische constructies die in het register is opgenomen 
+en informatie over uiteindelijk belanghebbenden waarover zij zelf beschikken. Voorgesteld wordt 
+deze terugmeldplicht voor bevoegde autoriteiten op te nemen in dit wetsvoorstel. De terugmeldplicht 
+houdt in dat bevoegde autoriteiten onder omstandigheden verplicht zijn om bij de Kamer van 
+Koophandel melding te doen van iedere discrepantie die zij aantreffen tussen de informatie over 
+uiteindelijk belanghebbenden in het register en de informatie over uiteindelijk belanghebbenden 
+waarover zij beschikken. Mocht blijken dat de informatie in het register niet (langer) toereikend, 
+accuraat en actueel is, dan dient de trustee deze informatie te wijzigen. 
+ 
+Bevoegde autoriteiten moeten een terugmelding doen indien nodig en voor zover dit hun taken niet 
+onnodig doorkruist. Onder “indien nodig” wordt verstaan “indien passend”. Dit is meer in lijn met de 
+originele Engelse tekst van dit onderdeel (“if appropriate”). De informatie in het register dient 
+immers accuraat, toereikend en actueel te zijn. Elke gemelde discrepantie draagt daaraan bij. Het 
+terugmelden van een geconstateerde discrepantie dient dan ook te allen tijde te geschieden, op een 
+moment dat een dergelijke terugmelding passend is en de taken van de betreffende bevoegde 
+autoriteit niet onnodig worden doorkruist. Bevoegde autoriteiten dienen dan ook, indien zij bij 
+gebruik van de aan hen verstrekte informatie over een uiteindelijk belanghebbende ontdekken dat 
+de in het register opgenomen informatie afwijkt van de informatie die zij voorhanden hebben, 
+ 
+1 
+
+gestelde risico-gebaseerde cliëntenonderzoek eigenstandig onderzoek doen en meer informatie over 
+uiteindelijk belanghebbenden verzamelen en bewaren dan de informatie die zij uit het register 
+kunnen halen. 
+ 
+Overigens schrijft artikel 14, eerste lid, van de vierde anti-witwasrichtlijn voor dat Wwft-instellingen 
+bij het aangaan van een nieuwe zakelijke relatie met een trust of een soortgelijke juridische 
+constructie een bewijs van registratie of een uittreksel uit het register moeten verzamelen. Trustees 
+worden op grond van artikel 3, derde lid, van de Wwft verplicht om, wanneer zij in de hoedanigheid 
+30 
+van trustee een zakelijke relatie aangaan of een bepaalde incidentele transactie aangaan, aan de 
+Wwft-instelling te melden dat zij ten behoeve van een trust of soortgelijke juridische constructie 
+optreden en daarbij informatie over die trust of soortgelijke juridische constructie en de uiteindelijk 
+belanghebbenden daarvan aan de Wwft-instelling te verstrekken. In aansluiting daarop dienen Wwft-
+instellingen dan ook bij het aangaan van een nieuwe zakelijke relatie met een trust of soortgelijke 
+juridische constructie te beschikken over een bewijs van inschrijving in het register bedoeld in artikel 
+4 van dit wetsvoorstel dan wel in een ander register als bedoeld in artikel 31 van de vierde anti-
+witwasrichtlijn dat in een andere lidstaat van de Europese Unie wordt bijgehouden. Dit laatste wordt 
+met dit wetsvoorstel vastgelegd in artikel 4, zevende lid, van de Wwft. 
+ 
+§ 4. Rechtsbescherming 
+ 
+Met onderhavig implementatiewetsvoorstel worden trustees verplicht informatie over uiteindelijk 
+belanghebbenden van een trust of een soortgelijke juridische constructie te registreren. 
+ 
+Tegen een op grond van dit wetsvoorstel genomen besluit tot afscherming of registratie op grond 
+van artikel 10, eerste lid respectievelijk artikel 11, derde lid staan voor belanghebbenden bezwaar 
+en beroep open conform de Algemene wet bestuursrecht (Awb). Deze besluiten worden namens de 
+Minister van Financiën genomen door de Kamer van Koophandel. Daartoe is voorzien in 
+mandaatverlenging welke in paragraaf 7 nader aan de orde komt. 
+ 
+§ 5. Handhaving 
+ 
+De richtlijn verplicht lidstaten om inbreuken op artikel 31 van de richtlijn te onderwerpen aan 
+doeltreffende, evenredige en afschrikkende maatregelen of sancties. In het kader van het 
+onderhavige wetsvoorstel wordt voor de verplichting tot het registreren van informatie over 
+uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies een duaal 
+sanctiestelsel voorgesteld. Overtredingen kunnen zodoende met zowel strafrechtelijke als 
+bestuursrechtelijke sancties worden gehandhaafd. Hiermee wordt invulling gegeven aan de 
+richtlijnverplichting tot doeltreffende, evenredige en afschrikkende maatregelen. 
+ 
+Als een economisch delict in de zin van de Wet op de economische delicten (Wed) wordt aangemerkt 
+overtreding van de in artikel 11, eerste en tweede lid, van de Implementatiewet registratie 
+uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies opgenomen 
+verplichting voor trustees om de informatie, bedoeld in artikel 5 van de Implementatiewet registratie 
+uiteindelijke belanghebbenden van trusts en soortgelijke juridische constructies, over een trust of 
+soortgelijke juridische constructie en de uiteindelijk belanghebbenden daarvan tijdig te registreren in 
+het register. Op grond van artikel 1, onderdeel 4° juncto artikel 2, vierde lid, van de Wed wordt dit 
+economisch delict aangemerkt als een overtreding, die op grond van artikel 6, eerste lid, onderdeel 
+5°, van de Wed bestraft wordt met hechtenis van ten hoogste zes maanden, een taakstraf of 
+geldboete van de vierde categorie. 
+ 
+Ten behoeve van de strafrechtelijke handhaving wordt daarnaast ook overtreding van de volgende 
+verplichtingen uit dit wetsvoorstel als economisch delict opgenomen in de Wed: 
+ 
+30
+ Het gaat hier om incidentele transacties boven de in artikel 11, onder b, c en d, van de vierde anti-witwasrichtlijn vastgestelde drempels. 
+ 
+1 
+
+Aan de keuze voor een duaal sanctiestelsel liggen tevens effectiviteits- en efficiencyoverwegingen 
+ten grondslag. Het OM en de strafrechtketen worden in een duaal sanctiestelsel niet belast met 
+handhaving en afdoening van alle geconstateerde overtredingen. Op basis van informatie van de 
+Belastingdienst en DNB is de schatting dat straks over maximaal 15.000 trusts en soortgelijke 
+constructies en hun uiteindelijk belanghebbenden door de trustee informatie ter registratie moeten 
+worden doorgegeven aan de Kamer van Koophandel. Hoewel lastig is in te schatten hoeveel trusts 
+en soortgelijke juridische constructies dit niet zullen doen, is duidelijk dat handhaving ervan een 
+zekere werklast met zich brengt. Een duaal sanctiestelsel verdeelt deze werklast. De meeste 
+normovertredingen zullen naar verwachting bestuursrechtelijk kunnen worden afgedaan. 
+ 
+Bij het inrichten van het duale sanctiestelsel zal op een consistente en coherente wijze afstemming 
+worden gezocht tussen de bestuursrechtelijke en strafrechtelijke actoren. Daarbij zullen eveneens de 
+standaard boetehoogtes op elkaar worden afgestemd. 
+ 
+Het wetsvoorstel voorziet in de mogelijkheid voor de Minister van Financiën tot het opleggen van een 
+last onder dwangsom en een bestuurlijke boete. Namens de Minister van Financiën wordt dit 
+uitgevoerd door het BEH. Genoemde bestuursrechtelijk handhavingsopties doen zich op grond van 
+artikelen 23 en 24 voor bij overtreding van: 
+a. de in artikel 11, eerste en tweede lid, opgenomen verplichting om bepaalde informatie over 
+trusts of soortgelijke juridische constructies en de uiteindelijk belanghebbenden daarvan 
+tijdig te registreren; en 
+b. de in artikel 12 opgenomen verplichting er zorg voor te dragen dat de in het register 
+opgenomen informatie toereikend, actueel en accuraat is. 
+ 
+Een last onder dwangsom heeft een herstellend karakter en is erop gericht om trustees die de 
+informatie over uiteindelijk belanghebbenden niet hebben aangeleverd, te dwingen deze informatie 
+alsnog aan te leveren ter registratie in het register. Een bestuurlijke boete heeft, net als een 
+strafrechtelijke boete, een punitief karakter. Een last onder dwangsom kan, als herstelsanctie, in 
+combinatie met een punitieve sanctie (bestuurlijke of strafrechtelijke boete) worden opgelegd. Er 
+kunnen echter geen twee punitieve sancties voor dezelfde overtreding worden opgelegd; het 
+opleggen van een bestuurlijke boete gaat niet samen met het opleggen van een strafrechtelijke 
+boete. 
+ 
+§ 6. Bescherming persoonsgegevens 
+ 
+§ 6.1 Verwerking persoonsgegevens 
+ 
+Bij het onderhavige wetsvoorstel is sprake van het registreren van persoonsgegevens. Gezien de 
+aard van dit wetsvoorstel is in de fase van beleidsontwikkeling een 
+gegevensbeschermingseffectbeoordeling (GEB) (Privacy Impact Assessment, PIA) uitgevoerd. Met 
+behulp hiervan is de noodzaak van gegevensverwerking bekeken en zijn op gestructureerde wijze de 
+implicaties van het wetsvoorstel op gegevensbescherming in kaart gebracht. Hierbij is in het 
+bijzonder aandacht besteed aan de beginselen van gegevensminimalisering en doelbinding, het 
+vereiste van een goede beveiliging en de rechten van de betrokkenen. De in de GEB gemaakte 
+belangenafweging is in het onderstaande verwerkt. 
+ 
+§ 6.2 Gekozen openbaarheid 
+ 
+Zoals eerder in deze memorie van toelichting is aangegeven, biedt de vierde anti-witwasrichtlijn in 
+artikel 31 lidstaten de mogelijkheid het register openbaar toegankelijk te maken, en wordt 
+voorgesteld van deze optie gebruik te maken. Zie hierover nader paragraaf 3.5.2. Daarnaast geeft 
+de vierde anti-witwasrichtlijn EU-lidstaten de mogelijkheid om aanvullende gegevens betreffende 
+een uiteindelijk belanghebbende te registreren. In het onderhavige wetsvoorstel wordt ook van deze 
+ 
+1 
+
+verbetering, aanvulling, verwijdering of afscherming van gegevens is geregeld: het recht op inzage 
+(artikel 15 van de Algemene verordening gegevensbescherming (Avg)), het recht op rectificatie 
+(artikel 16 Avg), het recht op beperking van de verwerking (artikel 18 Avg) en de 
+kennisgevingsplicht inzake rectificatie, wissing van persoonsgegevens of beperking van de 
+verwerking (artikel 19 Avg). Het centrale register wordt een bij wet ingesteld openbaar register. 
+ 
+Het recht van bezwaar, als bedoeld in artikel 21 van de Avg, is eveneens niet van toepassing op het 
+centrale register (artikel 47, tweede lid, Uavg). Het recht op vergetelheid van artikel 17 Avg is op 
+grond van het derde lid, sub b, van dat artikel niet van toepassing op het centrale register. 
+ 
+§ 6.5 Advies Autoriteit Persoonsgegevens 
+ 
+De voorontwerpen van het wetsvoorstel en de memorie van toelichting zijn conform artikel 36, 
+vierde lid, van de Avg voor advies voorgelegd aan de Autoriteit Persoonsgegevens (AP). De AP heeft 
+31
+op 26 mei 2020 advies uitgebracht. Deze paragaaf behandelt dat advies en de wijze waarop 
+daarmee rekening is gehouden. 
+ 
+In haar advies heeft de AP op drie punten opmerkingen gemaakt. Twee punten zien op artikel 8 op 
+grond waarvan degene die inzage wenst in het register zich online dient te registreren, waarbij de 
+beheerder van het register het BSN van de verzoeker kan bewaren en de FIU-Nederland en de 
+bevoegde autoriteiten de bewaarde persoonsgegevens op verzoek kunnen inzien. De AP wijst er 
+allereerst op dat gebruik van het BSN beperkt is toegestaan, en adviseert om te concretiseren in 
+welke gevallen het verwerken van het BSN verplicht is en de noodzaak van die verwerking te 
+onderbouwen. Daarnaast adviseert de AP om het doel en de noodzaak van de inzage door de FIU-
+Nederland en de bevoegde autoriteiten te onderbouwen. Tenslotte wijst de AP erop dat de bevoegde 
+autoriteiten die op grond van artikel 7, tweede lid, bij algemene maatregel van bestuur zullen 
+worden aangewezen ook de ISZW-DO, de NVWA-IOD en de ILT/IOD omvatten. De AP adviseert om 
+de aanwijzing van die drie bijzondere opsporingsdiensten ofwel te schrappen ofwel deugdelijk te 
+onderbouwen in de nota van toelichting van de nog op te stellen algemene maatregel van bestuur. 
+ 
+De richtlijn eist dat de informatie die in het register is opgenomen over uiteindelijk belanghebbenden 
+van trusts en soortgelijke juridische constructies, tijdig en onbeperkt toegankelijk is voor de FIU en 
+32
+de bevoegde autoriteiten. Dit is geregeld via artikel 7 van het implementatiewetsvoorstel. In artikel 
+7, tweede lid is bepaald dat bij algemene maatregel van bestuur de bevoegde autoriteiten worden 
+aangewezen die toegang krijgen tot de volledige gegevens van de uiteindelijk belanghebbenden 
+(zowel de openbare gegevens als de niet-openbare, aanvullende gegevens). Dat zullen zijn: 
+  de Wwft-toezichthouders voor zover zij hun taken op grond van die wet uitvoeren: DNB, de 
+AFM, de Minister van Financiën (het Bureau Toezicht Wwft), de Ksa, het BFT en de dekens; 
+  de handhavende instantie: het BEH; 
+  instanties die (mede) deel uitmaken van het FEC: de Belastingdienst, de FIOD, de Politie en 
+het OM; 
+  bijzondere opsporingsautoriteiten: de ISZW- DO, de NVWA-IOD en de ILT/IOD; en 
+  overige instanties die de opdracht hebben het witwassen van geld, daarmee verband 
+houdende basisdelicten en terrorismefinanciering te onderzoeken of te vervolgen en 
+criminele activa op te sporen en in beslag te nemen of te bevriezen en te confisqueren: de 
+Dienst Justis, het Bureau Bibob, de MIVD, de KMar en de Rijksrecherche. 
+ 
+Op grond van artikel 31, vierde lid, van de richtlijn dienen bevoegde autoriteiten publieke 
+autoriteiten te zijn waaraan taken zijn toegewezen op het gebied van bestrijding van witwassen en 
+ 
+31
+ Het advies van de AP is te raadplegen via: 
+https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/advies_implementatiewet_registratie_ubo_trusts.pdf  
+32
+ Zie artikel 31, derde en vierde lid, van de richtlijn. Uit het zevende lid volgt bovendien dat de bevoegde autoriteiten en de FIU-Nederland 
+in staat moeten worden gesteld om de informatie tijdig en kosteloos te verstrekken aan bevoegde autoriteiten en FIUs van andere 
+lidstaten. 
+ 
+1 
+
+verantwoordelijkheid voor de kwaliteit van de in het register opgenomen informatie berust op grond 
+van artikel 12 bij de trustee. De gegevens kunnen niet worden geverifieerd zoals dit bij authentieke 
+gegevens wel het geval is. 
+ 
+De Kamer van Koophandel krijgt geen nieuwe taken van openbaar gezag. Besluiten tot registratie en 
+tot afscherming worden door de minister van Financiën genomen. De Kamer van koophandel heeft 
+de wettelijke taak tot het technisch beheer van het register. Voor de praktische uitvoering en snelle 
+verwerking van opgaven voert de Kamer van Koophandel daarnaast een aantal taken uit namens de 
+Minister van Financiën. De Minister van Financiën beslist op grond van artikel 10, eerste lid, en 11, 
+derde lid, van dit wetsvoorstel op verzoeken tot afscherming respectievelijk registratie. Deze 
+bevoegdheid wordt door middel van de in artikel 25 opgenomen mandaatverlening aan de Kamer 
+van Koophandel gemandateerd. Dit houdt in dat de Kamer van Koophandel namens die minister 
+beslist op dergelijke verzoeken en ook de eventuele verdere bestuursrechtelijke afhandeling van 
+deze besluiten verricht. Daarbij maakt de Kamer van Koophandel gebruik van een 
+bezwaaradviescommissie. De taken die de Minister van Financiën mandateert aan de Kamer van 
+Koophandel betreffen taken die nauw verbonden zijn aan de beheerstaken waarmee de Kamer van 
+Koophandel op grond van deze wet belast wordt. Door deze taken in mandaat bij de Kamer van 
+Koophandel te beleggen, kunnen uiteindelijk belanghebbenden zich ook voor rechtsbescherming in 
+praktische zin wenden tot de beheerder. 
+Daar het register enkel langs elektronische weg toegankelijk is, wordt in de uitvoering ook enkel 
+gebruikgemaakt van elektronisch verkeer. Daaraan liggen niet alleen ten grondslag 
+doelmatigheidsredenen aan de kant van de beheerder van het register maar ook aan de kant van 
+trustees. Het is goed mogelijk dat trustees te maken hebben met uiteindelijk belanghebbenden die 
+in het buitenland wonen, en in sommige gevallen treden zij in meerdere juridische constructies op 
+als (veelal professionele) trustees. Van trustees mag derhalve verwacht worden dat zij in staat zijn 
+hun opgaven langs elektronische weg te verrichten. Daarnaast kunnen uiteindelijk belanghebbenden 
+die in het buitenland wonen langs elektronische weg sneller geïnformeerd worden over inschrijving in 
+het register. Dat enkel gebruik wordt gemaakt van elektronisch verkeer houdt onder meer in dat 
+opgaven, verzoeken, besluiten, kennisgevingen en andere berichten via (het systeem achter) het 
+register digitaal, zoals per e-mail, worden verzonden. 
+ 
+Daarnaast is het wetsvoorstel van invloed op de handhaving. In mindere mate kan ook sprake zijn 
+van handhavingseffecten bij de Wwft-toezichthouders. Aan de Wwft-instellingen onder hun toezicht 
+zal immers onder ander een verplichting tot terugmelden worden opgelegd. Toezien op het in 
+voldoende mate invulling geven aan die verplichting, zal onderdeel zijn van het toezicht door deze 
+toezichthouders. 
+ 
+§ 8. Regeldrukkosten en financiële gevolgen 
+ 
+In deze paragraaf komen de financiële gevolgen van dit wetsvoorstel alsmede de regeldrukkosten 
+aan de orde. 
+ 
+§ 8.1 Regeldrukkosten 
+ 
+34 
+In deze paragraaf komen de regeldrukkosten aan de orde. Onder regeldrukkosten worden verstaan 
+alle investeringen en inspanningen (uitgedrukt in euro’s) die burgers, bedrijven of professionals 
+moeten doen of verrichten om te voldoen aan verplichtingen uit regelgeving afkomstig van de 
+rijksoverheid. Het gaat hierbij om kosten die voortvloeien uit informatieverplichtingen en 
+inhoudelijke verplichtingen, waaronder toezicht gerelateerde verplichtingen op basis van 
+regelgeving. Deze kosten worden hier verdeeld in eenmalige en structurele kosten. 
+ 
+ 
+34
+ Zie ook Handboek Meting Regeldrukkosten, Den Haag 2017 (https://www.atr-regeldruk.nl/wathoe/meten-is-weten/). 
+ 
+1 
+
+dat een eenmaal geregistreerd gegeven naderhand gewijzigd moet worden, bijvoorbeeld omdat een 
+uiteindelijk belanghebbende verhuisd is of als gevolg van een terugmelding. De hoogte van die 
+kosten is moeilijk te schatten omdat deze mede afhankelijk zullen zijn van de aard van de wijziging 
+of terugmelding. De inschatting is dat een trustee gemiddeld een half uur nodig heeft voor de 
+afhandeling van een terugmelding; voor het aanpassen van een gegeven zal minder tijd nodig zijn. 
+Uitgaande van een half uur zullen de additionele eenmalige kosten uitkomen op € 23,50 indien de 
+trustee een deskundige inschakelt. Zodoende komen de totale eenmalige kosten uit op gemiddeld € 
+302,50.  
+ 
+Voor gevallen waarin de nakoming van de verplichtingen die dit wetsvoorstel aan trustees oplegt 
+door burgers wordt verzorgd, wordt in onderstaande berekening uitgegaan van een 
+standaarduurtarief van € 15,-. De schatting is dat registratie door een burger gemiddeld ruim een 
+uur per trust of soortgelijke juridische constructie in beslag neemt, inclusief: 
+- Kennisnamekosten; 
+- Eventueel verkrijgen van deskundig advies; 
+- Verzamelen en bewerken van informatie; 
+- Verwerken van gegevens en data; 
+- Invullen van formulieren; 
+- Eventuele correspondentie; 
+- Verzending of afgeven van informatie; 
+- Kopiëren, archiveren en opslaan van documenten; 
+- Indienen van nadere informatie ter beantwoording van eventuele vragen. 
+De registratie van een trust of soortgelijke juridische constructie en de uiteindelijk belanghebbenden 
+daarvan door een burger bedraagt zodoende naar schatting gemiddeld ruim € 15,-. Het is mogelijk 
+dat een eenmaal geregistreerd gegeven naderhand gewijzigd moet worden, bijvoorbeeld omdat een 
+uiteindelijk belanghebbende verhuisd is of als gevolg van een terugmelding. De hoogte van die 
+kosten is moeilijk te schatten omdat deze mede afhankelijk zullen zijn van de aard van de wijziging 
+of terugmelding. De inschatting is dat een trustee gemiddeld een half uur nodig heeft voor de 
+afhandeling van een terugmelding; voor het aanpassen van een gegeven zal minder tijd nodig zijn. 
+Uitgaande van een half uur zullen de additionele eenmalige kosten uitkomen op € 7,50 in geval de 
+trustee de werkzaamheden zelf verricht. Zodoende komen de totale eenmalige kosten uit op 
+gemiddeld € 22,50. 
+ 
+Per trust of soortgelijke juridische constructie zullen de eenmalige kosten dus uitkomen tussen € 
+22,50 en € 302,50, afhankelijk van de vraag of de trustee de werkzaamheden zelf verricht of daar 
+een deskundige voor inschakelt. Gemiddeld komt dat uit op € 162, 50. Hiermee komt de totale 
+regeldruk uit op € 162, 50 * naar schatting maximaal 15.000 trusts en soortgelijke juridische 
+constructies= € 2.437.500,-. 
+ 
+Bovenstaande berekeningen zijn schattingen. De daadwerkelijke kosten zullen in de praktijk mede 
+afhangen van factoren als de complexiteit van de opgezette trust of soortgelijke juridische 
+constructie, het aantal uiteindelijk belanghebbenden, het aantal alsmede de aard van de 
+terugmeldingen en wijzigingen en van de ervaring van de trustee. 
+ 
+Wwft-instellingen krijgen een terugmeldplicht. Ook hier zal voor de wijze van doorgeven naar de 
+minst belastende en meest efficiënte variant worden gezocht, om zodoende de kosten die gemoeid 
+zijn met de terugmeldplicht zo laag mogelijk te kunnen houden. Voor de kosten van terugmelden 
+door Wwft-instellingen wordt aansluiting gezocht bij het hierboven vermelde (interne) uurtarief van 
+39 euro voor administratief personeel. De tijd die is gemoeid met het doorgeven van informatie 
+wordt geschat op maximaal een half uur. 
+ 
+ 
+1 
+
+overeenkomsten tot stand gebracht fonds zonder rechtspersoonlijkheid, niet zijnde een onderneming 
+of rechtspersoon als bedoeld in de Handelsregisterwet 2007, waarin de deelnemers vermogen 
+bijeenbrengen dat voor gezamenlijke rekening wordt belegd of anderszins wordt aangewend ten 
+behoeve van de uiteindelijk belanghebbenden van dat fonds. 
+ 
+In het voorontwerp van de memorie van toelichting wordt aangegeven dat hieronder in ieder geval 
+open en besloten fondsen voor gemene rekening vallen. Daarover is in een aantal van de ontvangen 
+reacties aangegeven dat ook beleggingsinstellingen en instellingen voor collectieve belegging in 
+effecten (icbe) in de vorm van een fonds voor gemene rekening hieronder vallen. Zij geven aan dat 
+dit onwenselijk is omdat hiermee een verschil ontstaat tussen beleggingsinstellingen en icbe’s die 
+zijn opgezet als een rechtspersoon en beleggingsinstellingen en icbe’s die geen rechtspersoonlijkheid 
+hebben. Met de inwerkingtreding van de Implementatiewet registratie uiteindelijk belanghebbenden 
+van vennootschappen en andere juridische entiteiten worden echter ook rechtspersonen verplicht 
+informatie over hun uiteindelijk belanghebbenden te registreren. Zodoende zullen zowel 
+beleggingsinstellingen en icbe’s die zijn opgezet als fonds voor gemene rekening als 
+beleggingsinstellingen en icbe’s die zijn opgezet als rechtspersoon, hun uiteindelijk belanghebbenden 
+moeten registreren in een centraal register.  
+ 
+Uit artikel 2 volgt dat de soortgelijke juridische constructies die zijn opgenomen in de 
+geconsolideerde lijst, bedoeld in artikel 31, tiende lid, van de vierde anti-witwasrichtlijn, ook worden 
+aangemerkt als soortgelijke juridische constructies. Ten aanzien van de verwijzing naar deze lijst 
+wordt in de consultatiereacties om verduidelijking gevraagd. Alle EU-lidstaten zijn op grond van 
+genoemde richtlijn verplicht aan te geven welke trusts zijn kennen alsmede welke door hun recht 
+beheerste juridische constructies zij kennen die een soortgelijke structuur of functie hebben als een 
+trust. Op grond daarvan is de geconsolideerde lijst van de Europese Commissie tot stand gekomen. 
+Omdat het kan voorkomen dat een in deze lijst opgenomen soortgelijke juridische constructie is 
+opgericht naar het recht van een andere lidstaat doch niet in het register van een andere lidstaat is 
+opgenomen, onder de reikwijdte van dit wetsvoorstel valt, wordt in artikel 2 ook naar de in de 
+geconsolideerde ijst opgenomen soortgelijke juridische constructies verwezen. 
+ 
+§ 9.2. Ondergrens economisch belang 
+ 
+Een uiteindelijk belanghebbende is altijd een natuurlijk persoon. De omvang van het economisch 
+belang dat een uiteindelijk belanghebbende houdt in de trust of soortgelijke juridische constructie 
+behoort tot de informatie die over een uiteindelijk belanghebbende dient te worden geregistreerd. In 
+een aantal consultatiereacties is opgemerkt dat hierbij geen ondergrens wordt gehanteerd waardoor 
+volgens deze respondenten buitengewoon veel uiteindelijk belanghebbenden zouden moeten worden 
+geregistreerd en bijna dagelijks wijzigingen doorgegeven zouden moeten worden. In die reacties 
+wordt daarbij een vergelijking gemaakt met de Implementatiewet registratie uiteindelijk 
+belanghebbenden van vennootschapen en andere juridische entiteiten waaruit volgt dat er bij een 
+economisch belang van minder dan 25% in beginsel niet geregistreerd wordt. 
+ 
+In het ontwerpwetsvoorstel wordt geen minimum economisch belang genoemd. Ter bevordering van 
+de uitvoerbaarheid is in artikel 10a van de Wwft voorzien in een delegatiegrondslag, om in het 
+Uitvoeringsbesluit Wwft 2018 nader te bepalen welke categorieën natuurlijke personen in elk geval 
+moeten worden aangemerkt als uiteindelijk belanghebbende als bedoeld in het eerste lid van artikel 
+10a van de Wwft. Met het oog op de uitvoerbaarheid van de registratieplicht wordt bezien of dit 
+beperkt kan worden voor gevallen waarin, naast afdoende wettelijke toezicht, sprake is van 
+buitengewoon grote aantallen uiteindelijk belanghebbenden. 
+ 
+Bij economisch belang gaat het in sommige gevallen, zoals in één van de consultatiereacties terecht 
+wordt opgemerkt, om een verwachting. Bij algemene maatregel van bestuur zal verder ook meer 
+duidelijkheid worden geboden over het type documenten waarvan trustees afschriften dienen te 
+ 
+1 
+
+informatie openbaar worden; een deel van de informatie zal enkel toegankelijk zijn voor de FIU-
+Nederland en de bevoegde autoriteiten. 
+ 
+In een consultatiereactie is opgemerkt dat banken eveneens toegang zouden moeten krijgen tot de 
+niet-openbare informatie. Hoewel dit vanuit het oogpunt van banken als poortwachters een 
+begrijpelijk standpunt is, prevaleert hier de privacy van de uiteindelijk belanghebbenden. Tot deze 
+niet-openbare informatie behoren namelijk zeer privacygevoelige gegevens zoals BSN, geboortedata 
+en woonadressen van uiteindelijk belanghebbenden. Daarom zal deze informatie enkel toegankelijk 
+zijn voor een beperkte groep autoriteiten, te weten de FIU-Nederland en aangewezen bevoegde 
+autoriteiten. Hierbij speelt ook een rol dat banken (evenals andere meldingsplichtige instellingen) 
+hun cliëntenonderzoek moeten uitvoeren met behulp van een risico-gebaseerde aanpak en zich 
+daarbij niet mogen verlaten op de informatie die in het register is opgenomen. Wel zullen banken 
+toegang krijgen tot de openbare informatie die op verzoek van de uiteindelijke belanghebbende is 
+afgeschermd op grond van artikel 10 van het ontwerpwetsvoorstel. 
+ 
+De bevoegde autoriteiten die op grond van artikel 7, tweede lid, van het ontwerpwetsvoorstel 
+toegang krijgen tot de niet-openbare informatie betreffen dezelfde bevoegde autoriteiten die ook 
+toegang krijgen tot het niet-openbare deel van het register dat op grond van de Implementatiewet 
+registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten tot 
+stand is gebracht. Dit zal worden vastgelegd in een algemene maatregel van bestuur waarvoor in 
+onderhavige wetsvoorstel een grondslag wordt gecreëerd. Overigens zal ook wat betreft de 
+identificatiemiddelen voor toegang tot het register worden aangesloten bij het register aangaande 
+uiteindelijke belanghebbenden van juridische entiteiten. 
+ 
+Uit artikel 15 van het ontwerpwetsvoorstel volgt dat enkel de FIU-Nederland en de bevoegde 
+autoriteiten de mogelijkheid krijgen informatie uit het register te laten rangschikken op naam van 
+natuurlijke personen. Hiermee kunnen zij snel die informatie uit het register halen die zij nodig 
+hebben, bijvoorbeeld in het kader van een onderzoek. Voor anderen zal het niet mogelijk zijn om 
+aan de hand van enkel de naam van een natuurlijk persoon informatie over die persoon uit het 
+register te halen. In de consultatie is gewezen op het risico dat commerciële partijen informatie uit 
+het register gaan ontginnen om deze informatie vervolgens zelf tegen betaling vrij doorzoekbaar op 
+naam aan te bieden. Dat risico wordt onder meer gemitigeerd doordat er enkel op basis van 
+zogeheten één-op-één-bevragingen informatie uit het register kan worden opgevraagd. Bovendien 
+dient men zich vooraf online te registreren en een vergoeding te betalen om toegang te krijgen tot 
+(het openbare deel van) het register. 
+ 
+In een klein aantal van de consultatiereactie is gevraagd hoe om te gaan met het opnemen in het 
+register van uiteindelijk belanghebbenden die de begunstigden van de trust of soortgelijke juridische 
+constructie zijn maar dit nog niet weten. De uiteindelijk belanghebbenden moeten worden 
+geregistreerd, ook wanneer zij er nog geen weet van hebben dat zij uiteindelijk belanghebbenden 
+zijn. Of bij die registratie hun naam en andere persoonsgegevens openbaar worden, zal onder meer 
+afhangen van de vraag in hoeverre de afzonderlijke personen die de begunstigden zijn kunnen 
+worden bepaald en van de vraag of zij verzoeken om afscherming. Wat betreft de openbaarheid 
+verschilt de positie van uiteindelijk belanghebbenden die weten dat zij begunstigden zijn derhalve 
+niet van uiteindelijk belanghebbenden die dat nog niet weten. De memorie van toelichting is op dit 
+punt aangevuld. 
+ 
+§ 9.4. Reikwijdte 
+ 
+Artikel 3 van het ontwerpwetvoorstel bepaalt dat dit wetsvoorstel van toepassing is op trusts en 
+soortgelijke juridische constructies waarvan de trustees in Nederland woonachtig of gevestigd zijn 
+dan wel buiten de Europese Unie woonachtig of gevestigd zijn maar namens de trust in Nederland 
+ 
+1 
+
+geen authentieke gegevens zullen worden opgenomen. De verantwoordelijkheid voor de kwaliteit 
+van de in het register opgenomen informatie berust op grond van artikel 12 bij de trustees. 
+ 
+§ 9.6. Afscherming 
+ 
+De (gewijzigde) vierde anti-witwasrichtlijn biedt in artikel 31, lid 7 bis een lidstaatoptie waarmee 
+lidstaten in uitzonderlijke omstandigheden en per geval kunnen voorzien in een uitzondering op de 
+toegang tot alle of tot een gedeelte van de in het register opgenomen informatie over een 
+uiteindelijk belanghebbende, indien die uiteindelijk belanghebbende door toegang tot die informatie 
+wordt blootgesteld aan een onevenredig risico, een risico op fraude, ontvoering, chantage, afpersing, 
+pesterijen, geweld of intimidatie of indien de uiteindelijk belanghebbende minderjarig of anderszins 
+handelingsonbekwaam is. In aansluiting op de Implementatiewet registratie uiteindelijk 
+belanghebbenden van vennootschappen en andere juridische entiteiten, wordt gebruikgemaakt van 
+deze lidstaatoptie. Hiermee wordt het voor uiteindelijk belanghebbenden van trusts en soortgelijke 
+juridische constructies mogelijk om de informatie over hen die voor eenieder toegankelijk is, af te 
+schermen. Enkel de aard en omvang van het door een uiteindelijk belanghebbende gehouden 
+economisch belang worden niet afgeschermd. 
+ 
+In de consultatiereacties is onder meer gevraagd waarom bij minderjarigheid of anderszins 
+handelingsonbekwaamheid van een uiteindelijk belanghebbende niet automatisch tot afscherming 
+wordt overgegaan zonder dat daar eerst een beroep op moet worden gedaan, waarbij wordt 
+aangegeven dat dit vrij eenvoudig te realiseren zou zijn via een vinkje in het online 
+registratiesysteem. Er wordt niet automatisch voorzien in afscherming omdat de richtlijn voorschrijft 
+dat alleen in uitzonderlijke omstandigheden en per geval kan worden voorzien in afscherming. In de 
+praktijk zal afscherming veelal bij de eerste inschrijving plaatsvinden waarbij het online 
+registratiesysteem zal helpen dit zo eenvoudig als mogelijk te maken: wanneer de registratieplicht 
+ontstaat, zal de trustee overgaan tot registratie en als hij of zij daarbij te maken krijgt met een 
+uiteindelijk belanghebbende die minderjarig of anderszins handelingsonbekwaam is dan kan direct 
+(door middel van het aanvinken van die optie in het online registratiesysteem) een elektronisch 
+verzoek tot afscherming worden gedaan. Er zal dan direct worden overgegaan tot afscherming van 
+de betreffende gegevens en pas daarna zal worden bezien of het verzoek terecht is gedaan. 
+Wanneer iemand na de aanvankelijke registratie handelingsonbekwaam wordt, zal het verzoek tot 
+afscherming uiteraard pas daarna kunnen worden gedaan. 
+ 
+§ 9.7. Terugmelding 
+ 
+In meerdere reacties zijn vragen gesteld over artikel 17 aangaande terugmeldingen. Deze vragen 
+zagen in het bijzonder op de procedure. Daarom is deze procedure nader uiteen worden gezet in de 
+artikelsgewijze toelichting op artikel 17. De procedure ziet er in grote lijnen als volgt uit. 
+ 
+Wanneer Wwft-instellingen, zoals banken en notarissen, en, tenzij dit de uitoefening van de 
+wettelijke taak of bevoegdheid van de betreffende autoriteit onnodig zou doorkruisen, bevoegde 
+autoriteiten, zoals Wwft-toezichthouders, het register raadplegen en bemerken dat er sprake is van 
+een discrepantie tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt 
+hebben gekregen uit het register en de informatie waarover zij uit anderen hoofde beschikken, dan 
+dienen zij via het register een terugmelding te doen. Daarbij geven zij aan waarop de terugmelding 
+ziet, waarom de terugmelding wordt gedaan (motivering) en kunnen zij relevante documenten 
+uploaden. Deze verplichting ziet op hetgeen in het Nederlandse register staat; de technische 
+voorziening hiertoe, de zogeheten terugmeldvoorziening, wordt voor het Nederlandse register 
+gebouwd. 
+ 
+Wanneer een terugmelding is gedaan, plaatst de Kamer van Koophandel onverwijld een aantekening 
+in het register waaruit volgt dat er een terugmelding is gedaan. Deze aantekening is voor eenieder 
+ 
+1 
+
+registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten niet 
+38
+voor alle juridische entiteiten en houdt deze ruime termijn verband met het groot aantal juridische 
+entiteiten dat aan de in die wet opgenomen registratieverplichting moet voldoen (circa 1,6 miljoen 
+39
+juridische entiteiten) zodat die groep in tranches benaderd kan worden. In dit wetsvoorstel zal het 
+om een veel kleinere groep gaan, maximaal naar schatting 15.000 juridische constructies. 
+ 
+De registratieplicht geldt ook voor trusts en soortgelijke juridische constructies waarvan de trustees 
+buiten de Europese Unie woonachtig of gevestigd is, op het moment van het ontstaan van de 
+registratieplicht een zakelijke relatie of onroerend goed hebben in Nederland, en niet reeds zijn 
+ingeschreven in het register van een andere lidstaat van de Europese Unie. 
+ 
+§ 10. Transponeringstabel 
+ 
+Artikel 31 van Richtlijn (EU) 2018/843 van het Europees Parlement en de Raad van 30 mei 2018 tot 
+wijziging van Richtlijn (EU) 2015/849 inzake de voorkoming van het gebruik van het financiële 
+stelsel voor het witwassen van geld of terrorismefinanciering, en tot wijziging van de Richtlijnen 
+2009/138/EG en 2013/36/EU (PbEU L 156/43 van 19 juni 2018). 
+ 
+Onderdeel richtlijn Implementatie Beleidsruimte Toelichting 
+Artikel 31, lid 1, Artikelen 2 en 3 van de Lidstaten worden NL heeft open en besloten fondsen 
+eerste alinea Implementatiewet geacht te bepalen voor gemene rekening aangemerkt 
+registratie uiteindelijk welke juridische als soortgelijke juridische 
+belanghebbenden van constructies die door constructies. Zie hierover nader 
+trusts en soortgelijke hun recht beheerst paragraaf 3.3.2 van deze memorie 
+juridische constructies. worden, een van toelichting en PbEU 2019/C 
+soortgelijke structuur 434/13. 
+of soortgelijke 
+functie hebben als 
+trusts. 
+Artikel 31, lid 1, Artikel 3 van de Nee.  
+tweede alinea Implementatiewet 
+registratie uiteindelijk 
+belanghebbenden van 
+trusts en soortgelijke 
+juridische constructies, 
+en artikelen 10b, derde 
+lid, 3, en 10a, eerste lid, 
+van de Wwft. 
+ 
+Artikel 31, lid 1, Art Artikelen 23 en 24 van de Nee. 
+derde alinea Implementatiewet 
+registratie uiteindelijk 
+belanghebbenden van 
+trusts en soortgelijke 
+juridische constructies en 
+artikel 1 onderdeel 2° en 
+onder 4° van de Wet op 
+de economische delicten. 
+Artikel 31, lid 2 Artikel 3, derde lid, Nee.  
+Wwft. 
+Artikel 31, lid 3 Artikelen 7 en 18, eerste Nee.  
+lid onderdeel a van de 
+Implementatiewet 
+registratie uiteindelijk 
+belanghebbenden van 
+trusts en soortgelijke 
+juridische constructies. 
+Artikel 31, lid 3bis, Artikelen 3 en 11 van de Nee.  
+eerste alinea Implementatiewet 
+registratie uiteindelijk 
+ 
+38
+ De achttienmaandentermijn geldt niet voor juridische entiteiten die na de inwerkingtreding van die wet opgave doen van eerste 
+inschrijving in het handelsregister. Kamerstukken II 2018/19, 35179, nr. 3, p. 42. 
+39
+ Kamerstukken II 2018/19, 35179, nr. 3, p. 42. 
+ 
+1 
+
+belanghebbenden van plaats bij algemene maatregel van 
+trusts en soortgelijke bestuur. 
+juridische constructies. 
+Artikel 31, lid 7bis, Artikel 10, eerste lid, van Nee, niet indien Er wordt gebruikgemaakt van de 
+tweede alinea de Implementatiewet gebruik wordt lidstaatoptie uit artikel 31, lid 7bis, 
+registratie uiteindelijk gemaakt van de eerste alinea van de richtlijn. 
+belanghebbenden van lidstaatoptie uit 
+trusts en soortgelijke artikel 31, lid 7bis, 
+juridische constructies. eerste alinea van de 
+richtlijn. 
+Artikel 31, lid 7bis, Artikel 10, eerste lid, van Nee, niet indien Er wordt gebruikgemaakt van de 
+derde alinea de Implementatiewet gebruik wordt lidstaatoptie uit artikel 31, lid 7bis, 
+registratie uiteindelijk gemaakt van de eerste alinea van de richtlijn. 
+belanghebbenden van lidstaatoptie uit 
+trusts en soortgelijke artikel 31, lid 7bis, 
+juridische constructies. eerste alinea van de 
+richtlijn. 
+Artikel 31, lid 9, - Nee. Dit betreft een toekomstige 
+eerste alinea verplichting die in een later 
+stadium zal worden 
+geïmplementeerd. 
+Artikel 31, lid 9, - Nee. Dit betreft een toekomstige 
+tweede alinea verplichting die in een later 
+stadium zal worden 
+geïmplementeerd. 
+Artikel 31, lid 9, - Nee. Dit betreft een toekomstige 
+derde alinea verplichting die in een later 
+stadium zal worden 
+geïmplementeerd. Voor het 
+overige: zie artikelen 11, 12 en 20 
+van de Implementatiewet 
+registratie uiteindelijk 
+belanghebbenden van trusts en 
+soortgelijke juridische constructies 
+en artikel 10c, eerste lid, van de 
+Wwft. 
+Artikel 31, lid 9, Artikel 6 van de Ja. De bewaartermijn wordt bij 
+vierde alinea Implementatiewet algemene maategel van bestuur 
+registratie uiteindelijk vastgesteld. 
+belanghebbenden van 
+trusts en soortgelijke 
+juridische constructies. 
+Artikel 31, lid 10, - Nee. Zie artikel 2, derde lid, van de 
+eerste alinea Implementatiewet registratie 
+uiteindelijk belanghebbenden van 
+trusts en soortgelijke juridische 
+constructies en PbEU 2019/C 
+434/13. 
+Artikel 31, lid 10, - Nee.  
+tweede alinea 
+  
+ 
+1 
+
+van “trust” mede verstaan dient te worden een soortgelijke juridische constructie. En daar waar in 
+deze wet gesproken wordt van “trustee” wordt daaronder op grond van het tweede lid mede 
+verstaan degene die in een soortgelijke juridische constructie een vergelijkbare positie heeft als een 
+trustee in een trust. 
+ 
+Artikel 3. Reikwijdte 
+In dit artikel wordt vastgelegd op welke trusts en soortgelijke juridische constructies dit wetsvoorstel 
+van toepassing is. Als de trustee in Nederland woont of in Nederland gevestigd is, dan is deze wet 
+van toepassing op de trust(s) die hij beheert. Ook indien de trustee weliswaar niet in de Europese 
+Unie woonachtig of gevestigd is maar wel namens de trust in Nederland een zakelijke relatie aangaat 
+of onroerend goed verwerft, is deze wet van toepassing. Het gaat er daarbij om dat de zakelijke 
+relatie of het onroerend goed in Nederland wordt aangegaan of verworven namens de trust of 
+soortgelijke juridische constructie (“in name of the trust or similar legal arrangement”). 
+ 
+Omdat iedere lidstaat van de Europese Unie op grond van artikel 31 van de vierde anti- 
+witwasrichtlijn een centraal register tot stand brengt waarin uiteindelijk belanghebbenden van trusts 
+en soortgelijke juridische constructies worden opgenomen, kan het voorkomen dat een trust of 
+soortgelijke juridische constructie reeds is geregistreerd in het register van een andere lidstaat. Om 
+te voorkomen dat trustees zich in meerdere lidstaten dienen te registreren en gezien het feit dat de 
+registers van de verschillende lidstaten op grond van artikel 31, negende lid, van de vierde anti-
+witwasrichtlijn per 10 maart 2021 gekoppeld worden, is dit wetsvoorstel niet van toepassing op 
+trusts die reeds in het register van een andere EU-lidstaat zijn geregistreerd. Indien de trustee van 
+een trust of soortgelijke juridische constructie die in een andere lidstaat is geregistreerd in 
+Nederland een zakelijk relatie wenst aan te gaan, dan zal de Wwft-instelling een bewijs van 
+registratie vragen. 
+ 
+Artikel 4. Het register 
+Dit artikel bepaalt dat er een register is waarin trusts en soortgelijke juridische constructies en de 
+uiteindelijk belanghebbenden daarvan worden geregistreerd. Elke EU-lidstaat dient op grond van de 
+vierde anti-witwasrichtlijn een dergelijk register te hebben waarmee beoogd wordt het gebruik van 
+het financiële stelsel van de Europese Unie voor witwassen of terrorismefinanciering te voorkomen. 
+Ook wordt in artikel 4 de beheerder van het register aangewezen: de Kamer van Koophandel. De 
+Kamer van Koophandel beheert reeds het handelsregister waarin onder meer informatie over 
+uiteindelijk belanghebbenden van juridische entiteiten is opgenomen, en heeft uitgebreide expertise 
+op het terrein van onder ander het beheer van registers. Onderhavig register maakt – anders dan 
+het register dat ter implementatie van artikel 30 van de vierde anti-witwasrichtlijn tot stand is 
+gebracht – geen onderdeel uit van het handelsregister. Het betreft een separaat register, niet zijnde 
+een basisregistratie, waarin geen authentieke gegevens zullen worden opgenomen. De 
+verantwoordelijkheid voor de kwaliteit van de in het register opgenomen informatie berust op grond 
+van artikel 12 bij de trustee. 
+ 
+Artikel 5. Informatie in het register 
+In onderhavig artikel wordt uiteengezet welke informatie over een trust of soortgelijke juridische 
+constructie en de uiteindelijk belanghebbenden daarvan dient te worden geregistreerd in het 
+register. Het gaat daarbij om bepaalde gegevens en bepaalde bescheiden waaruit die gegevens 
+blijken of waaruit die gegevens zijn geverifieerd. 
+ 
+Informatie over de trust of soortgelijke juridische constructie 
+Indien de trust of soortgelijke juridische constructie een naam heeft, dan moet deze naam ook 
+worden geregistreerd. Daarnaast moet uit het register blijken of het om een trust of een soortgelijke 
+juridische constructie gaat, en om wat voor een trust of soortgelijke juridische constructie. Trusts 
+zijn er immers in vele verschillende varianten. Datzelfde geldt, zoals blijkt uit de door de Europese 
+ 
+1 
+
+Het e-mailadres van uiteindelijk belanghebbenden is nodig om hen op de hoogte te houden van de 
+stand van zaken rondom hun gegevens, bijvoorbeeld wanneer deze gewijzigd worden na een 
+terugmelding. In die gevallen waarin de groep van begunstigden is opgegeven omdat de 
+afzonderlijke personen die de begunstigden zijn van een trust niet kunnen worden bepaald, kan bij 
+het registreren van het e-mailadres worden volstaan met het e-mailadres van een 
+vertegenwoordiger van deze groep. Ook het e-mailadres van een uiteindelijk belanghebbende is 
+enkel toegankelijk voor de FIU-Nederland en de bevoegde autoriteiten. 
+ 
+Economische belang 
+De aard en de omvang van het door de uiteindelijk belanghebbende gehouden economische belang 
+alsmede afschriften van documenten waaruit die gegevens blijken, dienen ook in het register te 
+worden opgenomen. Met “aard en omvang van het door de uiteindelijk belanghebbende gehouden 
+economisch belang” wordt informatie bedoeld waaruit blijkt waarom de betreffende persoon een 
+uiteindelijk belanghebbende is. Men kan bijvoorbeeld de begunstigde van de trust of soortgelijke 
+juridische constructie zijn of anderszins direct of indirect zeggenschap hebben over de trust of 
+soortgelijke juridische constructie. Ten aanzien van de omvang van het economisch belang kunnen 
+op grond van artikel 5, derde lid, onderdeel f, bij algemene maatregel van bestuur verschillende 
+klassen van economische belangen worden vastgesteld. Ook wordt bij algemene maatregel van 
+bestuur meer duidelijkheid geboden over het type documenten waarvan men afschriften dient te 
+verstrekken. Het is overigens goed mogelijk dat uit een bepaald document meerdere van de vereiste 
+gegevens blijken of meerdere van de vereiste gegevens zijn geverifieerd. Hierbij kan gedacht 
+worden aan een trustakte of een identiteitsbewijs. In dergelijke gevallen hoeft een afschrift van dat 
+document niet meerdere keren te worden verstrekt; een verwijzing naar het eerdere verstrekte 
+afschrift kan dan volstaan. De aard en de omvang van het economische belang zullen voor eenieder 
+toegankelijk zijn; de afschriften echter alleen voor de FIU-Nederland en de bevoegde autoriteiten. 
+ 
+Er zijn uiteindelijk belanghebbenden die enkel vanwege een bepaalde hoedanigheid, zoals trustee of 
+insteller, worden aangemerkt als “uiteindelijk belanghebbenden” en geen economisch belang of 
+uiteindelijke zeggenschap hebben in de trust of soortgelijke juridische constructie. In dergelijke 
+gevallen waarin geen sprake is van economisch belang, kan een dergelijk belang uiteraard ook niet 
+geregistreerd worden. Wel kan worden aangegeven dat men enkel vanwege de hoedanigheid van 
+bijvoorbeeld trustee wordt aangemerkt als “uiteindelijk belanghebbende”. Het registratiesysteem zal 
+hierop zijn ingesteld. Zodoende hoeft in dergelijke gevallen enkel de grond voor aanwijzing als 
+uiteindelijk belanghebbende te worden aangegeven en geen omvang van het belang. 
+ 
+In gevallen waarin er bij uiteindelijk belanghebbenden wel sprake is van een economisch belang 
+maar de exacte omvang van dit economisch belang nog onduidelijk of onzeker is, zal de trustee per 
+geval moeten bezien of er voldoende informatie voorhanden is om te kunnen aangeven binnen welke 
+klasse het economisch belang valt. Als dat naar de aard van het belang niet mogelijk is, dan is het 
+gegeven dat het economisch belang niet nader bepaald kan worden, afdoende. Het 
+registratiesysteem zal hierop zijn ingesteld. Zodra de trustee informatie voorhanden krijgt waarmee 
+het economisch belang nader bepaald kan worden, dient hij uiteraard conform artikel 12 over te 
+gaan tot actualisering van de informatie. 
+ 
+Artikel 6. Bewaartermijn 
+De vierde anti-witwasrichtlijn schrijft voor dat de in het register opgenomen informatie over de 
+uiteindelijk belanghebbenden van een trust of soortgelijke juridische constructie minimaal vijf jaar 
+en maximaal tien jaar nadat de gronden voor registratie van die informatie hebben opgehouden te 
+bestaan, toegankelijk blijft via de nationale registers en via het systeem van gekoppelde registers. 
+In artikel 6 is bepaald dat bij algemene maatregel van bestuur uitvoering zal worden gegeven aan 
+deze bepaling. Bij algemene maatregel van bestuur zal worden vastgesteld dat de in het register 
+opgenomen informatie via het register toegankelijk dient te blijven tot tien jaar nadat de gronden 
+voor de registratie van die informatie hebben opgehouden te bestaan.  
+ 
+1 
+
+ 
+Wat onder de in het tweede lid bedoelde “bevoegde autoriteiten” wordt begrepen, wordt bij 
+algemene maatregel van bestuur bepaald. In paragraaf 3.5.4 is toegelicht om welke beperkte groep 
+autoriteiten het gaat. 
+ 
+Artikel 8. Persoonsgegevens verzoeker 
+Zoals reeds uit het algemeen deel van deze memorie van toelichting volgt, wordt bij de 
+implementatie van artikel 31 van de vierde anti-witwasrichtlijn zoveel als mogelijk aangesloten bij de 
+implementatie van artikel 30 van diezelfde richtlijn welke implementatie heeft plaatsgevonden in de 
+Implementatiewet registratie uiteindelijke belanghebbenden van vennootschappen en andere 
+44 
+juridische entiteiten. Tijdens de parlementaire behandeling van die wet is een amendement
+45
+aangenomen waarmee onder andere bewerkstelligd is dat degene die toegang wenst tot het 
+register waarin informatie over uiteindelijk belanghebbenden van juridische entiteiten is opgenomen, 
+zich vooraf dient te registreren, en dat de FIU-Nederland en de bevoegde autoriteiten inzage kunnen 
+krijgen in wie de verzoekers zijn. Daartoe worden de persoonsgegevens van verzoekers bewaard.  
+In artikel 8 van dit wetsvoorstel wordt het voorgaande, in aansluiting op genoemde implementatie 
+van artikel 31, ook geregeld voor onderhavig register. Daar dit register een online via het internet 
+raadpleegbaar register zal zijn (zie ook artikel 7, eerste lid), zal ook de registratie van de verzoeker 
+bij de beheerder online gebeuren. Dit wordt vastgelegd in het eerste lid van artikel 8. Op grond van 
+artikel 8, tweede lid, zal bij algemene maatregel van bestuur worden bepaald dat de 
+persoonsgegevens die van verzoekers worden verzameld, niet langer dan vijf jaar bewaard mogen 
+worden. 
+ 
+Artikel 9. Vergoeding 
+De vierde anti-witwasrichtlijn biedt lidstaten de mogelijkheid om voor toegang tot het register de 
+voorwaarde te stellen dat degene die toegang wenst zich online registreert en een vergoeding 
+betaalt. Zoals in paragraaf 3.5.5 van deze memorie van toelichting reeds is toegelicht, wordt van 
+deze lidstaatoptie gebruikgemaakt. De voorwaarde die de vierde anti-witwasrichtlijn hieraan 
+verbindt, is dat de gevraagde vergoeding niet meer bedraagt dan de administratieve kosten voor het 
+beschikbaar stellen van de informatie, met inbegrip van de kosten voor het bijhouden en 
+ontwikkelen van het register. De vergoeding en registratie zullen nader uitgewerkt worden in een 
+algemene maatregel van bestuur. Voor zover de vergoeding onvoldoende is om de kosten voor het 
+beheer van het register te dekken, dragen de opdrachtgevers, de Minister van Financiën en de 
+Minister van Justitie en Veiligheid, bij aan die kosten. 
+ 
+Artikel 10. Afscherming 
+De vierde anti-witwasrichtlijn kent in artikel 31, lid 7 bis een lidstaatoptie waarmee lidstaten in 
+uitzonderlijke omstandigheden en per geval kunnen voorzien in een uitzondering op de toegang tot 
+alle of tot een gedeelte van de in het register opgenomen informatie over een uiteindelijk 
+belanghebbende, indien die uiteindelijk belanghebbende door toegang tot die informatie wordt 
+blootgesteld aan een onevenredig risico, een risico op fraude, ontvoering, chantage, afpersing, 
+pesterijen, geweld of intimidatie of indien de uiteindelijk belanghebbende minderjarig of anderszins 
+handelingsonbekwaam is. In dit wetsvoorstel wordt, in aansluiting op de Implementatiewet 
+registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten, 
+gebruikgemaakt van deze lidstaatoptie. Hiermee wordt het voor uiteindelijk belanghebbenden van 
+trusts en soortgelijke juridische constructies mogelijk om (een deel van) de informatie over hen die 
+voor eenieder toegankelijk is, af te schermen. Enkel de aard en omvang van het door een 
+uiteindelijk belanghebbende gehouden belang worden niet afgeschermd omdat deze informatie niet 
+direct herleidbaar is tot een natuurlijke persoon. Afscherming kan enkel plaatsvinden op verzoek 
+ 
+44
+ Kamerstukken II 2019/20 35179, nr. 11. 
+45
+ Volledigheidshalve wordt opgemerkt dat het hier niet gaat om een aanvraag als bedoeld in de Awb. Degene die inzage wenst in het 
+register krijgt die inzage ook nadat hij of zij zich online heeft geregistreerd en eventuele vergoeding heeft voldaan. Met de term “verzoek” 
+wordt in artikel 8, tweede lid enkel bedoeld tot uitdrukking te brengen dat iemand laat blijken inzage te willen in de gegevens en 
+bescheiden die in het register zijn opgenomen. 
+ 
+1 
+
+Het is dus niet voldoende dat de trustee de in artikel 5 bedoelde informatie eenmalig registreert 
+conform artikel 11; hij of zij dient er ook voor te zorgen dat de reeds geregistreerde informatie 
+toereikend, actueel en accuraat blijft. Indien de trustee – bijvoorbeeld naar aanleiding van een 
+terugmelding als bedoeld in artikel 21 van dit wetsvoorstel of artikel 10c, eerste lid, van de Wwft of 
+op aangeven van een uiteindelijk belanghebbende – tot de conclusie komt dat bepaalde gegevens in 
+het register niet (langer) toereikend, accuraat en actueel zijn, dan dient de trustee over te gaan tot 
+correctie van die gegevens door middel van (her)registratie op grond van artikel  
+11. Zo wordt er zorg voor gedragen dat het register toereikende, accurate en actuele informatie 
+bevat. 
+ 
+Artikel 13. Ontwikkeling en beheer van het register 
+De ontwikkeling en het beheer van het register zullen worden uitgevoerd door de Kamer van 
+Koophandel. De Kamer van Koophandel beheert reeds het handelsregister waarin onder meer 
+informatie is opgenomen over uiteindelijk belanghebbenden van juridische entiteiten, en heeft 
+uitgebreide expertise op het terrein van onder ander het beheer van registers. Trustees zijn verplicht 
+tot registratie van bepaalde informatie en zijn verantwoordelijk voor de kwaliteit van die informatie. 
+De beheerder zorgt ervoor dat die informatie in het register wordt opgenomen en toegankelijk wordt 
+gemaakt. Zie ook paragraaf 7. 
+ 
+Artikel 14. Verstrekking uniek kenmerk 
+Nadat de registratie conform deze wet is voltooid, wordt door de beheerder een uniek kenmerk aan 
+de trust of soortgelijke juridische constructie toegekend. Zo krijgt iedere geregistreerde trust of 
+soortgelijke juridische constructie een uniek kenmerk dat voor eenieder kenbaar wordt via het 
+register. Met behulp van dat kenmerk kan eenieder in het register informatie opvragen over de 
+betreffende trust en de uiteindelijk belanghebbenden daarvan. Artikel 11, vijfde lid, verplicht 
+trustees het kenmerk te vermelden op schriftelijke uitingen, zoals brieven, die namens de trust 
+worden gedaan. 
+ 
+Artikel 15. Informatieverstrekking aan FIU en bevoegde autoriteiten 
+In verband met de bescherming van de privacy van uiteindelijk belanghebbenden zal het niet 
+mogelijk zijn om aan de hand van enkel de naam van een natuurlijk persoon informatie over die 
+persoon uit het register te halen. Voor de FIU-Nederland en de bevoegde autoriteiten wordt een 
+uitzondering gemaakt; zij kunnen de beheerder vragen om informatie uit het register te 
+rangschikken naar natuurlijke personen. Hiermee kunnen zij snel die informatie uit het register halen 
+die zij nodig hebben uit hoofde van hun taken, bijvoorbeeld in het kader van een onderzoek. De 
+betreffende uiteindelijk belanghebbende wordt niet geïnformeerd over het feit dat de FIU-Nederland 
+of een bevoegde autoriteit informatie over hem of haar heeft opgevraagd bij de beheerder. 
+ 
+Artikel 16. Informatieverstrekking aan uiteindelijk belanghebbenden 
+Bij de implementatie van artikel 31 van de vierde anti-witwasrichtlijn wordt zoveel als mogelijk 
+aangesloten bij de implementatie van artikel 30 van diezelfde richtlijn. Tijdens de parlementaire 
+46 
+behandeling van die implementatie is een amendement aangenomen waarmee de indieners 
+daarvan onder ander hebben beoogd de uiteindelijk belanghebbenden over wie informatie wordt 
+geregistreerd inzicht te geven in het aantal keren dat anderen dan de FIU-Nederland en de bevoegde 
+autoriteiten informatie over hen opvragen uit het register. In lijn met artikel 22, zesde lid, van de 
+Handelsregisterwet 2007 waarin dit amendement is opgenomen, biedt artikel 16 uiteindelijk 
+belanghebbenden van trusts en soortgelijke juridische constructies de mogelijkheid om de beheerder 
+47
+te verzoeken inzicht te krijgen in het aantal keer dat zijn of haar informatie is verstrekt uit het 
+ 
+46
+ Kamerstukken II 2019/20, 35179, nr. 11. 
+47
+ Volledigheidshalve wordt opgemerkt dat het hier niet gaat om een aanvraag als bedoeld in de Awb. De uiteindelijk belanghebbende die 
+inzicht wenst in het aantal keren dat zijn of haar gegevens zijn verstrekt, krijgt dit inzicht. Met de term “verzoek” wordt in artikel 16, 
+tweede lid enkel bedoeld tot uitdrukking te brengen dat de uiteindelijk belanghebbende aan de beheerder moet laten blijken dit inzicht te 
+willen 
+ 
+1 
+
+Artikel 19. Protocol 
+Met inachtneming van het wettelijk kader wordt op voorstel van de beheerder (opdrachtnemer) over 
+het beheer van het register een protocol opgesteld, bijvoorbeeld zaken omtrent IT en beveiliging. 
+Dat protocol behoeft goedkeuring van de opdrachtgever (de Ministers van Financiën en van Justitie 
+en Veiligheid) en de Minister van Economische Zaken en Klimaat. Naast zaken die verband houden 
+met het beheer van het register kunnen in een protocol ook (praktische) zaken worden neergelegd 
+die zien op de wijze waarop de Kamer van Koophandel (gemandateerde) de in artikel 25 bedoelde 
+taken in mandaat uitvoert namens de Minister van Financiën (mandaatgever).  
+ 
+Artikel 20. Informatiedeling 
+Met dit artikel wordt het zevende lid van artikel 31 van de vierde anti-witwasrichtlijn 
+geïmplementeerd. In dat artikellid wordt bepaald dat de bevoegde autoriteiten en de financiële 
+inlichtingen eenheden van lidstaten in staat moeten worden gesteld om informatie over uiteindelijk 
+belanghebbenden van trusts en soortgelijke juridische constructies tijdig en kosteloos met elkaar uit 
+te wisselen. De FIU-Nederland mag op grond van artikel 20, eerste lid ter uitvoering van haar 
+wettelijke taken informatie uit het register delen met financiële inlichtingen eenheden van andere 
+EU-lidstaten. Voor de bevoegde autoriteiten geldt dat zij de informatie uit het register mogen delen 
+met bevoegde autoriteiten van andere EU-lidstaten ten behoeve van de uitvoering van wettelijke 
+taken op grond waarvan zij toegang hebben geregen tot het register. Tot de groep bevoegde 
+autoriteiten (zie ook artikel 7, tweede lid) behoren ook autoriteiten die andere taken hebben dan 
+alleen de taken op grond waarvan zij toegang hebben gekregen tot het register. Zo is DNB niet 
+alleen Wwft-toezichthouder maar heeft zij daarnaast ook nog andere wettelijke taken. Op grond van 
+artikel 20, tweede lid, mag zij de informatie uit het register enkel delen ten behoeve van de 
+uitvoering van haar wettelijke taken als Wwft-toezichthouder. 
+ 
+Artikel 21. Terugmeldplicht 
+In dit artikel wordt de terugmeldplicht voor bevoegde autoriteiten geregeld. Bevoegde autoriteiten 
+zijn verplicht om, voor zover dit vereiste hun taken niet onnodig doorkruist, bij de beheerder van het 
+register melding te maken van iedere discrepantie die zij aantreffen tussen de informatie over 
+uiteindelijk belanghebbenden in het register en de informatie over uiteindelijk belanghebbenden 
+waarover zij beschikken. Deze verplichting geldt op grond van de richtlijn overigens niet voor de 
+FIU-Nederland. Bij de zinsnede “voor zover dit vereiste hun taken niet onnodig doorkruist” kan 
+bijvoorbeeld gedacht worden aan informatie die in het kader van een strafrechtelijk onderzoek door 
+de politie of een onderzoek door een Wwft-toezichthouder naar voren komt en die afwijkt van de 
+UBO-gegevens zoals die geregistreerd zijn. Het doen van een terugmelding ten tijde van een 
+dergelijk onderzoek kan een afbreukrisico voor dat onderzoek met zich brengen. Het doen van een 
+terugmelding is in dat geval niet verplicht maar dient in een later stadium, bijvoorbeeld na afloop 
+van het onderzoek, alsnog gedaan te worden, mits geen sprake meer is van een risico voor hun 
+taakuitoefening. 
+ 
+Artikel 22. Last onder dwangsom 
+Artikel 22 bepaalt dat de Minister van Financiën een last onder dwangsom kan opleggen, indien een 
+trustee niet of niet tijdig informatie over een trust of de uiteindelijk belanghebbenden daarvan 
+registreert dan wel indien die informatie ontoereikend, niet actueel of inaccuraat is. Hiermee wordt 
+aangesloten bij de Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen 
+48 
+en andere juridische entiteiten.
+ 
+Artikel 23. Bestuurlijke boete 
+Artikel 23 bepaalt dat de Minister van Financiën een bestuurlijke boete kan opleggen, indien een 
+trustee niet of niet tijdig informatie over een trust of de uiteindelijk belanghebbenden daarvan 
+registreert dan wel indien die informatie ontoereikend, niet actueel of inaccuraat is. Die bestuurlijke 
+boete bedraagt ten hoogste een boete van de vierde categorie. Ook hiermee wordt aangesloten bij 
+ 
+48
+ Zie artikel 47a van de Handelsregisterwet 2007. 
+ 
+1 
+
+De wijziging van het vijftiende lid van artikel 3 van de Wwft houdt verband met de implementatie 
+van artikel 31, zesde lid, van de vierde anti-witwasrichtlijn op grond waarvan Wwft-instellingen ter 
+voldoening aan hun verplichtingen inzake het cliëntenonderzoek niet uitsluitend mogen steunen op 
+het register. Het register kan daarbij slechts als hulpmiddel dienen. 
+ 
+B 
+Wanneer een Wwft-instelling te maken krijgt met een cliënt die handelt als trustee dan moet het 
+cliëntenonderzoek ook betrekking hebben op de trust (artikel 3, derde lid, van de Wwft). Bij het 
+aangaan van de zakelijke relatie moet de instelling, in het kader van het cliëntenonderzoek, 
+beschikken over een bewijs van inschrijving in het register en dient de instelling vast te stellen of de 
+uiteindelijk belanghebbenden van de trust ook (juist) zijn geregistreerd in het register. Het kan hier 
+ook gaan om het register dat door een andere lidstaat dan Nederland tot stand is gebracht op grond 
+van artikel 31 van de vierde anti-witwasrichtlijn. De constatering dat er sprake is van een 
+discrepantie tussen de informatie waarover de Wwft-instelling beschikt en de informatie die in het 
+register is opgenomen, zal leiden tot een terugmelding op grond van artikel 10c van de Wwft (zie 
+hierna). 
+ 
+C 
+Met de wet Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en 
+andere juridische entiteiten is aan de Wwft een paragraaf toegevoegd die ziet op informatie over 
+uiteindelijk belanghebbenden van juridische entiteiten: paragraaf 2.4. Daar artikel 31 van de vierde 
+anti-witwasrichtlijn eveneens ziet op uiteindelijk belanghebbenden en soortgelijke verplichtingen 
+voor Wwft-instellingen bevat, is er in dit wetsvoorstel voor gekozen een aantal specifieke 
+verplichtingen in paragraaf 2.4 van de Wwft te implementeren. 
+ 
+Het gaat allereerst om de definitie van “uiteindelijk belanghebbende” en de gelijkstelling van 
+soortgelijke juridische constructies aan trusts alsmede van trustees aan personen met een 
+vergelijkbare positie binnen een soortgelijke juridische constructie. De in het eerste lid van artikel 
+10a van de Wwft opgenomen definitie van “uiteindelijk belanghebbende” wordt zo uitgebreid dat 
+daaronder niet alleen uiteindelijk belanghebbenden van juridische entiteiten vallen maar ook 
+uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies. Zie hierover nader 
+paragraaf 3.3.4 van deze memorie van toelichting. 
+ 
+D 
+Trustees dienen op grond van de vierde anti-witwasrichtlijn toereikende, accurate en actuele 
+informatie over de uiteindelijke belanghebbenden van de trusts die zij beheren, in te winnen en bij 
+te houden. Deze verplichting is geïmplementeerd in artikel 10b, derde lid, van de Wwft. Omdat 
+trustees voor de nakoming van deze verplichting (en de registratieplicht) veelal afhankelijk zullen 
+zijn van de uiteindelijk belanghebbenden, bevat het vierde lid in lijn met het tweede lid een 
+meewerkplicht voor die uiteindelijke belanghebbenden. Deze meewerkverplichting houdt in dat de 
+uiteindelijk belanghebbenden verplicht zijn de trustee alle informatie te verschaffen die de trustee 
+nodig heeft om te voldoen aan zijn verplichting tot het inwinnen en bijhouden van informatie over 
+een uiteindelijk belanghebbenden zodat die informatie toereikend, accuraat en actueel is. 
+ 
+E 
+Indien een Wwft-instelling een verschil constateert tussen de in het register opgenomen informatie 
+over uiteindelijk belanghebbenden en de informatie die de Wwft-instelling zelf voorhanden heeft, dan 
+dient die Wwft-instelling dat direct te melden aan de beheerder. Het doel hiervan is om het register 
+niet uitsluitend op zelfrapportage door de trustees te laten steunen en om te zorgen dat de 
+informatie in het register zo toereikend, accuraat en actueel mogelijk is. Deze terugmeldplicht voor 
+Wwft-instellingen wordt opgenomen in artikel 10c van de Wwft, waarin reeds een soortgelijke 
+terugmeldplicht is opgenomen ten aanzien van uiteindelijk belanghebbenden van vennootschappen 
+ 
+1 
+
+registratieplicht in Nederland niet bestaat, wordt om praktische redenen een overgangsperiode 
+gehanteerd van drie maanden. 
+ 
+ 
+De Minister van Financiën, 
+ 
+ 
+ 
+ 
+1 
+
