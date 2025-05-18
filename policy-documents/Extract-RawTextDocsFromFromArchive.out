@@ -6615,3 +6615,206 @@ Exception calling ".ctor" with "1" argument(s): "Rebuild failed: trailer not fou
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\03\30\stroom-uit-water ]> 21011856-bijlage-3.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\01 ]> bijlage-1-subsidieregeling-stap-budget.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 33; BatchedItems: 100]...[0m
+[main f1e644ad] Added batch #33 of policy-docs (total: 100
+ 101 files changed, 55427 insertions(+)
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/16/voortgangsbrief-asbest.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/17-incidentele-suppletoire-begroting-2021-ocw/memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/18/beantwoording-kamervragen-over-de-kustwacht-caribisch-gebied/beantwoording-kamervragen-over-de-kustwacht-voor-het-koninkrijk-der-nederlanden-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/18/kamerbrief-a-brief-midlife-update-4-patrouilleschepen/kamerbrief-met-a-brief-over-de-midlife-update-vier-patrouilleschepen-oceangoing-patrol-vessels.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/18/kamerbrief-jaarrapportage-internationale-militaire-samenwerking/aanbiedingsbrief-bij-de-jaarlijkse-rapportage-over-de-internationale-militaire-samenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/18/kamerbrief-kabinetsinzet-solidaire-verdeling-covid-19-vaccins/kamerbrief-inzake-kabinetsinzet-solidaire-verdeling-covid-19-vaccins.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/18/toetsingskader-risicoregeling-voor-de-vierde-tranche-liquiditeitssteun-aan-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/kamerbrief-over-beleidsontwikkelingen-burgerservicenummer.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/kamerbrief-over-de-uitwerking-vaccinatiestrategie-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/kamerbrief-zelfevaluaties-basisregistratie-personen-brp-en-reisdocumenten-2019/kamerbrief-over-zelfevaluaties-basisregistratie-personen-brp-en-reisdocumenten-2019.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/memorie-van-toelichting-isb2-2021.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/memorie-van-toelichting-isb5-2020.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/21/ontwikkelingen-huisartsenzorg-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/22/beantwoording-kamervragen-over-akkoord-voorwaarden-liquiditeitssteun-curacao/beantwoording-schriftelijke-vragen-over-akkoord-curacao-en-nederland-inzake-voorwaarden-liquiditeitssteun.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/22/kamerbrief-akkoord-3e-tranche-liquiditeitssteun-sint-maarten-en-beantwoording-kamervrag-27A07329/kamerbrief-over-akkoord-derde-tranche-liquiditeitssteun-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/28/kamerbrief-inzake-kabinetsreactie-op-het-aiv-advies-duurzame-ontwikkelingsdoelen-en-mensenrechten-een-noodzakel-827FC52A.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2020/12/31/hypothecaire-lening-aan-winair.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/04/kamerbrief-over-covid-19-vaccinatiestrategie-update-stand-van-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/11/ek-voortgang-integrale-migratieagenda.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/13/kamerbrief-inzake-stand-van-zaken-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/15/2memorie-van-toelichting-derde-incidentele-suppletoire-begroting-2021-volksgezondheid-welzijn-en-sport-xvi.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/15/bijlage-incidentele-suppletoire-begroting-financien-ixb-inzake-toeslagen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/15/cwizo-besluit-uitdrukkingsvaardigheid-en-meerwaarde.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/15/memorie-van-antwoord-tijdelijke-wet-tweede-kamerverkiezing-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/18/beantwoording-kamervragen-over-het-bericht-onzekerheid-over-vaccinatiedatum-bes-en-cas.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/20/kamerbrief-over-96e-omt-advies-deel-2-en-kabinetsreactie/96e-omt-advies-deel-2-en-kabinetsreactie.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/20/uitstel-beantwoording-schriftelijke-vragen-van-kamerleden-diertens-en-paternotte-2020z25286.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/22/beleidsdoorlichting-bodem-en-ondergrond.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/22/id10745-k-1-wijziging-besluit-register-onderwijsdeelnemers-i-i-v-m-uitbreiding-verstrekking-aan-bestuursorganen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/22/rapport-financiele-staat-van-het-onderwijs-2019.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/25/nota-naar-aanleiding-van-het-verslag.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26-incidentele-suppletoire-begroting-2021/memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26/aanbiedingsbrief-1e-incidentele-suppletoire-begroting-voor-koninkrijksrelaties-in-2021/aanbiedingsbrief-incidentele-suppletoire-begroting-2021-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26/nota-van-wijziging.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26/verslag-so-voorhang-bekostiging-in-het-vo-def.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/26/voorstel-van-wet.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/27/nota-naar-aanleiding-van-het-verslag-van-de-staten-van-sint-maarten-bij-wijziging-paspoortwet-in-verband-met-ui-B5018D0D.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/28/beantwoording-kamervragen-over-oprichting-bonaire-brandstof-terminals-bv.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/28/kamerbrief-met-verslag-werkbezoek-bonaire-aruba-en-sint-maarten-van-januari-2021/tk-brief-verslag-werkbezoek-bonaire-aruba-en-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/28/kamerbrief-over-reactie-inzake-de-motie-janssen-cs-over-bepalende-zeggenschap-van-de-staten-generaal-bij-verlen-69675722.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/28/memorie-van-toelichting-3e-incidentele-suppletoire-begroting-2021-ocw/2-derde-incidentele-suppletoire-begroting-ocw-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/29/rapport-beleidsvisie-collecties-uit-een-koloniale-context.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/01/29/uitstelbrief-schriftelijk-overleg-ijkpunt-bestaanszekerheid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/01/kamerbrief-over-update-vragen-van-de-stand-van-zaken-mbt-covid-19-op-aruba-curacao-sint-maarten-bonaire-saba-en-36C27B3A.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/02/nota-naar-aanleiding-van-het-verslag-inzake-het-voorstel-van-wet-tot-wijziging-van-de-wet-basisregistratie-personen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/02/stand-van-zakenbrief-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/03/beantwoording-kamervragen-van-de-leden-paternotte-en-diertens-d66-over-reizen-tijdens-de-coronacrisis.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/04/10762-k2-verzamelwet-ocw-20.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/04/2-derde-incidentele-suppletoire-begroting-ezk-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/04/beantwoording-kamervragen-over-de-hypothecaire-lening-aan-winair.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/04/id-6797-uitvoeringsbesluit-wvo-2020-versie-voorhang.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/04/id12452-k1-voorstel-van-wet-vanwege-aanvullende-implementatie-richtlijnen-2005-36-eg-en-2011-98-eu.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/05/kamerbrief-reactie-op-motie-over-onvolledige-aow-opbouw-surinaamse-nederlanders.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/09/kamerbrief-over-voortgang-aanpak-antibioticaresistentie.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/10/beantwoording-kamervragen-over-bijeenkomst-navo-ministers-defensie-17-18-februari-2021/beantwoording-kamervragen-over-de-bijeenkomst-van-navo-ministers-van-defensie-op-17-en-18-februari-2021.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/10/beantwoording-kamervragen-tk-vragen-schriftelijk-overleg-over-kamerbrief-over-stavaza-voorbereiding-tk-verkiezing.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/11/beantwoording-schriftelijk-overleg-over-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/12/kamerbrief-over-start-hypotheekgarantie-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/12/kamerbrief-over-steunpakket-sociaal-en-mentaal-welzijn-en-leefstijl.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/12/kamerbrief-over-uitbreiding-economisch-steun-en-herstelpakket-caribisch-nederland-noodpakket-40.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/12/rapportage-duo-staatsexamens-2020.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/12/staatsexamens-voortgezet-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/17-steunprogramma-voor-herstel-en-perspectief/nationaal-programma-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/17/beantwoording-kamervragen-schriftelijk-overleg-over-het-ijkpunt-bestaanszekerheid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/17/bijlage-1-brief-tk-nationaal-programma-funderend-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/17/bijlage-1-brief-tk-nationaal-programma-funderend-onderwijs/kamerbrief-nationaal-programma-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/17/nationaal-programma-onderwijs-steunprogramma-voor-herstel-en-perspectief.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/18/tk-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/19/beantwoording-kamervragen-over-de-betrokkenheid-van-defensie-bij-de-bestrijding-van-de-pandemie.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/23/kamerbrief-inzake-stand-van-zaken-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/23/wijzigingsregeling-23-februari-met-avondklok.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/24/beantwoording-feitelijke-vragen-nationaal-programma-onderwijs-po-vo-en-mbo-ho.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/24/bijlage-i-verzuimcijfers.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/24/memorie-van-toelichting-5e-incidentele-suppletoire-begroting-ocw-2021/vijfde-incidentele-suppletoire-begroting-ocw-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/24/memorie-van-toelichting-6e-incidentele-suppletoire-begroting-ocw-2021/zesde-incidentele-suppletoire-begroting-ocw-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/02/26/kamerbrief-inzake-reactie-rijksministerraad-op-aiv-advies-veiligheid-en-rechtsorde-in-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/01/beantwoording-kamervragen-over-planning-memorie-van-antwoord-rijkswet-koninkrijksgeschillen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/02/beantwoording-vragen-van-het-lid-kuiken-pvda-over-het-bericht-verzet-tegen-plan-bonaire-voor-containerhaven.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/02/beantwoording-vragen-van-het-lid-ozutok-groenlinks-over-de-mogelijke-aanleg-van-een-containerhaven-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/05/antwoord-op-schriftelijke-vragen-over-het-bericht-ombudsman-wil-meer-aandacht-voor-obstakels-caribische-studenten.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/08/actualisering-overzicht-budgettaire-besluitvorming-na-najaarsnota.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/08/coronamaatregelen-8-maart-2021.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/08/tk-aanbieding-midterm-review-van-de-nationale-veiligheid-strategie-2019.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/08/tk-bijlage-horizonscan-nationale-veiligheid-2020.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/10/kamerbrief-over-beter-betrekken-van-jongeren-bij-democratie/aanbieding-rapport-bondgenoten-in-de-democratie-jongeren-en-bestuurders-bouwen-samen.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/12/158094-wet-id-11841-wetsvoorstel-herinvoering-loting-bij-numerus-fixus.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/15/k-2-versie-amvb-eindexamens-vo-2021-1.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/15/memorie-van-toelichting-4e-incidentele-suppletoire-begroting-vws-2021/vierde-incidentele-suppletoire-begroting-vws-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/18/beantwoording-kamervragen-over-petitie-en-financiele-steun-sint-maarten/beantwoording-kamervragen-over-de-petitie-van-en-financiele-steun-aan-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/18/beantwoording-kamervragen-over-sloop-curacaos-koraalrif-door-bouwbedrijf-bam/beantwoording-kamervragen-over-het-bericht-bam-sloopt-koraalrif-en-de-curacaose-overheid-haalt-de-schouders-op.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/23/kamerbrief-over-stand-van-zaken-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/26/kamerbrief-over-besluitvorming-rijksministerraad-over-liquiditeitsbehoefte-aruba-curaca-F08BEC7D/kamerbrief-over-liquiditeitsbehoefte-aruba-curacao-en-sint-maarten-acs-tweede-kwartaal-2021.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/26/kamerbrief-over-uitlekken-advies-raad-van-state-van-het-koninkrijk-over-rijkswetsvoorstel-caribisch-orgaan-voor-50149298.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/26/memorie-van-toelichting-5e-incidentele-suppletoire-begroting-2021-ezk/vijfde-incidentele-suppletoire-begroting-ezk-2021-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/29/tk-beleidsreactie-rapport-raad-voor-de-rechtshandhaving-opvolging-aanbevelingen-kpc-n.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/30/3e-incidentele-suppletoire-begroting-2021-ienw/derde-incidentele-suppletoire-begroting-ienw-2021-voorstel-van-wet-en-memorie-van-toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/30/beantwoording-kamervragen-over-het-terugtrekken-van-nederlandse-banken-uit-de-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/30/bijlage-verkenning-elektriciteit-uit-water.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/03/30/stroom-uit-water/21011856-bijlage-3.raw.txt
+ create mode 100644 policy-documents/Archive/kamerstukken/2021/04/01/bijlage-1-subsidieregeling-stap-budget.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\01 ]> id10745-inbreng-so-voorhang-wijz-besluit-register-onderwijsdeelnemers.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\06\memorie-van-toelichting-6e-incidentele-suppletoire-begroting-2021-ezk ]> zesde-incidentele-suppletoire-begroting-ezk-2021-memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\07 ]> beantwoording-so-imf-voorjaarsvergadering.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\07 ]> kamerbrief-over-ontwikkelingen-gezondheidssituatie-in-de-caribische-delen-van-het-koninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\07\kamerbrief-reactie-op-rapport-ontwikkelingsmogelijkheden-agrarische-sector-caribisch-nederland ]> onderzoeksrapport-ontwikkelingsmogelijkheden-voor-de-agrarische-sector-in-caribisch-nederland-van-de-stichting--8C26231B.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\09 ]> id-12608-amvb-uitzondering-beoordelen-leerresultaten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\09 ]> memorie-van-antwoord-over-de-rijkswet-koninkrijksgeschillen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\09 ]> toekomst-televisiezender-bvn-het-beste-van-vlaanderen-en-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\09 ]> verslag-jaarverslag-2020-van-het-college-voor-toetsen-en-examens-cvte.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\09\memorie-van-toelichting-2e-incidentele-suppletoire-begroting-2021-jenv ]> tweede-incidentele-suppletoire-begroting-jenv-2021-memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\12 ]> beantwoording-kamervragen-van-het-lid-de-groot-en-diertens-d66-over-de-vrachthaven-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\12 ]> beantwoording-kamervragen-van-het-lid-van-raan-pvdd-over-de-bouwprojecten-op-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\13 ]> aanbieding-stand-van-zakenbrief-covid-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\13 ]> k-2-ontwerp-amvb-besluit-versterking-eindexamenorganisatie-schoolexamen-1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\13\memorie-van-toelichting-7e-incidentele-suppletoire-begroting-2021-ezk ]> 7e-incidentele-suppletoire-begroting-ezk-2021-memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\15 ]> beantwoording-kamervragen-over-de-voorraad-van-vaccins-in-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\15\memorie-van-toelichting-9e-incidentele-suppletoire-begroting-2021-ocw ]> negende-incidentele-suppletoire-begroting-ocw-2021-memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\19\beantwoording-kamervragen-over-oprichting-bonaire-brandstof-terminals ]> bijlage-oprichting-van-de-100-beleidsdeelneming-bonaire-brandstof-terminals-bv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> bijlage-brief-aan-bestuurscollege-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> id-8374-k-1-versie-rvs-besluit-bekostiging-wvo-2021-vereenvoudiging-bekostiging-vo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> id-8374-k-2-besluit-bekostiging-wvo-2021-vereenvoudiging-bekostiging-vo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> k-1-ontwerp-amvb-besluit-versterking-eindexamenorganisatie-schoolexamen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> kamerbrief-impact-coronacrisis-op-uitvoering-in-szw-taken-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\20 ]> kamerbrief-over-maatregelenbrief-20-april-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\23 ]> beleidsnota-drinkwater-2021-2026.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\23 ]> jaarverslag-2020-van-de-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\23 ]> memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\26 ]> 2memorie-van-toelichting-implementatiewet-registratie-uiteindelijk-belanghebbenden-van-trusts-en-soortgelijke-j-A09EFBA8.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\26 ]> kamerbrief-inzake-kabinetsappreciatie-verordening-van-het-eu-instrument-voor-nabuurschapsbeleid-ontwikkeling-en-F0C44DC0.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\29\kamerbrief-coronamiddelen-openbare-lichamen-2021 ]> kamerbrief-over-coronamiddelen-openbare-lichamen-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\04\30 ]> tk-slotbrief-agenda-risico-en-crisisbeheersing-2018-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\11 ]> antwoorden-op-de-vragen-over-de-43-zorgmedewerkers-die-door-nederland-naar-curacao-zijn-gestuurd.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\12 ]> ibo-ohv-een-vak-apart-een-toekomstbestendig-onderwijshuisvestingsstelsel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\12 ]> id-10727-nav-tk-doorstroomstoetsen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\12 ]> k2-wetsvoorstel-wijziging-van-de-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-en-de-wet-studiefinan-6728A1E0.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\12 ]> stand-van-zakenbrief-covid-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\19 ]> aanbieding-jaarverslag-2020-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\19 ]> aanbiedingsbrief-bij-de-inzetbaarheidsrapportage-defensie-geheel-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\20 ]> beleidsdoorlichting-bodem-en-ondergrond.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\21 ]> beantwoording-kamervragen-over-het-bericht-raad-van-state-rijkswet-coho-strijdig-met-statuut.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\21 ]> jaarplanning-2021-van-het-ministerie-van-landbouw-natuur-en-voedselkwaliteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\21 ]> nadere-uitwerking-nationaal-programma-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\21 ]> nota-naar-aanleiding-van-het-verslag-rijkswet-koninkrijksgeschillen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\21\uitstelbrief-op-overzicht-bijzondere-uitkeringen-2021 ]> uitstelbericht-kamerbrief-overzicht-bijzondere-uitkeringen-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\25 ]> bijlage-1-beantwoording-vragen-over-de-zesde-voortgangsrapportage-kinderopvangtoeslag.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\26 ]> kamerbrief-inzake-jaarlijkse-brief-over-eu-ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\26\kamerbrief-verslag-werkbezoek-sint-eustatius-saba-en-sint-maarten-16-20-mei-2021 ]> reisverslag-werkbezoek-sint-eustatius-saba-en-sint-maarten-16-tot-en-met-21-mei-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\26\memorie-van-toelichting-7e-incidentele-suppletoire-begroting-2021-vws ]> zevende-incidentele-suppletoire-begroting-vws-2021-memorie-van-toelichting.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\28 ]> kamerbrief-bestuursakkoorden-lange-termijn-plan-2019-2028-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het--F2F094E8.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\28 ]> stand-van-zakenbrief-covid-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\31 ]> kamerbrief-over-amendementen-op-het-voorstel-van-wet-aanpassing-appa-en-enkele-andere-wetten-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\05\31 ]> kamerbrief-over-zevende-voortgangsrapportage-over-de-bestuurlijke-ingreep-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\01 ]> aanbieding-overzicht-bijzondere-uitkeringen-caribisch-nederland-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\02 ]> kamerbrief-inzake-kabinetsappreciatie-post-cotonou-verdrag.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\02 ]> kamerbrief-inzet-internationale-arbeidsconferentie-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\04 ]> kamerbrief-over-gezamenlijke-huisvesting-aivd-mivd.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\07 ]> bijlage-2-antwoorden-srv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> antwoorden-op-feitelijke-vragen-departementaal-jaarverslag-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> beantwoording-kamervragen-jaarverslag-kr-iv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> correctie-op-de-kamerbrief-over-het-steun-en-herstelpakket-ten-aanzien-van-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> kamervragen-jaarverslag-bzk-vii.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> kamervragen-slotwet-kr-iv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\08 ]> kamervragen-verantwoordingsonderzoek-kr-iv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\09 ]> beantwoording-kamervragen-over-een-coronatoegangsbewijs-voor-nederlanders-die-in-het-buitenland-gevaccineerd-worden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\09\beantwoording-kamervragen-over-de-4e-incidentele-suppletoire-ezk-begroting-2021-over-te-53B9909E ]> beantwoording-kamervragen-over-de-vierde-incidentele-suppletoire-ezk-begroting-2021-inzake-de-tegemoetkoming-va-ECCAF640.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\10 ]> antwoorden-kamervragen-over-het-bericht-criminelen-infiltreren-in-rederijen-in-de-rotterdamse-haven.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\10 ]> antwoorden-op-feitelijke-vragen-over-de-vijfde-isb-inzake-extra-middelen-voor-eindexamens-vo-en-pilots-voor-sne-5EFBF7A4.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\10\kamerbrief-hoofdlijnen-kiescollege-eerste-kamer-niet-ingezetenen ]> kamerbrief-tk-over-hoofdlijnen-kiescollege-niet-ingezetenen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\10\nota-naar-aanleiding-van-verslag-2e-lezing-kiescollege-eerste-kamer ]> nota-naar-aanleiding-van-het-verslag-tweede-lezing-kiescollege-eerste-kamer.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\14 ]> 35-570-viii-verslag-schriftelijk-overleg-met-vragen-en-antwoorden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\14\kamerbrief-met-planningsoverzicht-2021-koninkrijksrelaties ]> aanbieding-planningsoverzicht-2021-koninkrijksrelaties.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\16 ]> aanbieding-adviesrapport-dutch-caribbean-research-platform.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\16 ]> kamerbrief-bij-rapport-risicobeheersing-op-de-bes-eilanden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\16 ]> nld-adviesrapport-dutch-caribbean-research-platform-gecomprimeerd.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\16 ]> pap-relato-dutch-caribbean-research-platform.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\16 ]> vijfde-voortgangsrapportage-veiligheid-schiphol.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\17 ]> antwoorden-kamervragen-1e-suppl-begroting-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\17 ]> kamerbrief-over-de-voortgang-drietal-moties-over-de-oprichting-van-bonaire-brandstof-terminals.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\18 ]> antwoorden-op-feitelijke-vragen-over-de-wijziging-van-de-begrotingsstaten-van-het-ministerie-van-ocw-voor-het-j-636DFE7E.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\18 ]> kamerbrief-inzake-onafhankelijk-onderzoek-naar-visumverlening-in-de-caribische-delen-van-het-koninkrijk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\18 ]> kamerbrief-over-stand-van-zaken-covid-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\18\kamerbrief-benoeming-nieuwe-regeringscommissaris-en-plaatsvervangend-regeringscommissar-CEB59AA1 ]> kamerbrief-tk-benoeming-nieuwe-regeringscommissaris-en-plaatsvervangend-regeringscommissaris-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\22 ]> reactie-verzoek-vaste-kamercommissie-koninkrijksrelaties-over-abn-amro-en-st-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\22\kamerbrief-over-besluitvorming-rijksministerraad-over-liquiditeitssteun-aruba-curacao-e-960942A4 ]> kamerbrief-tk-over-besluitvorming-rijksministerraad-18-juni-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\23 ]> 1antwoorden-kamervragen-voorjaarsnota-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\23 ]> beantwoording-kamervragen-over-de-wijziging-van-de-begrotingsstaten-van-het-ministerie-van-defensie-x-voor-het-jaar-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\23 ]> bijlage-1-jaarverslag-beheer-staatsdeelnemingen-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\23 ]> tk-jenv-beleidsagenda-caribisch-nederland-2021-2025.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\24 ]> onderzoekskader-voortgezet-onderwijs-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\24\beantwoording-kamervragen-over-1e-suppletoire-begroting-koninkrijksrelaties ]> beantwoording-kamervragen-1e-suppletoire-begroting-kr-iv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\25 ]> 163515-id-12026-amvb-taalschakeltraject.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\25 ]> kamerbrief-inzake-schriftelijk-overleg-inzake-reactie-rijksministerraad-op-aiv-advies-veiligheid-en-rechtsorde--9EF39614.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\25 ]> kamerbrief-over-steun-en-herstelpakket-caribisch-nederland-noodpakket-50.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\25 ]> rapport-naar-aanleiding-van-de-motie-over-investeringen-ondernemerschap-en-innovatie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\25 ]> verdeling-achterstandsmiddelen-en-aanpak-moties-van-meenen-peters-bisschop-en-segers-van-meenen-in-het-kader-va-09FE52A1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\29 ]> inbreng-op-het-verslag-schriftelijk-overleg-verantwoording-2020-ministerie-van-infrastructuur-en-waterstaat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\29 ]> kamerbrief-beleid-svb-curacao-inzake-aov-niet-ingezetenen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\29 ]> kamerbrief-over-anbis-algemeen-nut-beogende-instellingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\29 ]> stand-van-zaken-maatregelen-kabinetsreactie-op-het-rapport-van-de-parlementaire-ondervragingscommissie-kinderop-F4722145.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ kamerstukken\2021\06\29 ]> tabel-overzicht-maatregelen.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 34; BatchedItems: 100]...[0m
