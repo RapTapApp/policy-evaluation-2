@@ -1,0 +1,2091 @@
+ 
+Sis 
+  
+Protocol Identificatie en Labeling 
+Gestandaardiseerde werkwijze voor de unieke identificatie 
+en registratie in de vreemdelingenketen  
+ 
+ 
+Versie 7.0 
+ 
+ 
+ 
+Datum  6 januari 2017 
+Status  Definitief 
+ 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Colofon 
+Afzendgegevens  Directoraat-Generaal Vreemdelingenzaken 
+Directie Regie Vreemdelingenketen 
+ 
+Turfmarkt 147 
+2511 DP  Den Haag 
+Postbus 20301  
+2500 EH  Den Haag 
+www.rijksoverheid.nl/venj 
+Contactpersoon  J.E. Oost 
+ 
+T  070 370 79 11 
+F  070 370 79 00 
+Vervaldatum  Nader af te spreken revisietermijn 
+ 
+Auteurs  G.J. Lucas, J. Hoeberichts, J.F. Welfing, F. de Haan, M. 
+Lenders, M. Vrolijk, J. Bouman,  P. Vermeulen, H. van 
+Kempen, P.E. Zwart, J.H. van Blankenstein, C. Alsemgeest, 
+M. Matulewicz en J.E. Oost.   
+ 
+ 
+ 
+  
+ Pagina 3 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Inhoud 
+Colofon - 3 
+Inleiding - 7 
+1.1 Doel van het Protocol Identificatie en Labeling - 7 
+1.2 Aard van het protocol - 7 
+1.3 Uitgangspunten - 7 
+1.4 Wijzigingen ten opzichte van eerdere PIL-versies - 8 
+2 Partijen - 9 
+2.1 Ketenpartners - 9 
+2.2 Taken en bevoegdheden - 9 
+2.3 Identificerende ketenpartners - 10 
+2.4 Niet-identificerende ketenpartners - 11 
+2.5 Raadplegende ketenpartners - 11 
+2.6 Basisregistratie personen (BRP) - 12 
+3 Binding - 14 
+3.1 Topberaad Vreemdelingenketen - 14 
+3.2 Vreemdelingencirculaire - 14 
+4 Beheer van het protocol - 15 
+4.1 Het Topberaad Vreemdelingenketen - 15 
+4.2 Evaluatie van het protocol - 15 
+4.3 Actualisatie van het protocol - 15 
+4.4 Ondersteuning - 15 
+4.5 Handhaving - 15 
+4.6 Verkrijgbaarheid van het protocol - 16 
+5 Eerste identificatie en registratie - 17 
+5.1 Identificatie bij het eerste contact - 17 
+5.2 Activiteiten in het identificatieproces - 18 
+5.3 Toelichting op de activiteiten in het identificatieproces - 19 
+5.3.1 Controleren reis- en brondocumenten - 19 
+5.3.2 Invoeren biometrische kenmerken en/of persoonsgegevens - 20 
+5.3.3 Raadplegen systeem - 22 
+5.3.4 Koppelen vingerafdrukken en persoonsgegevens aan uniek V-nummer - 22 
+5.3.5 Registreren bron persoonsgegevens - 22 
+5.3.6 Registreren documentgegevens - 22 
+5.3.7 Raadplegen externe systemen - 23 
+5.3.8 V-nummer ter hand stellen aan de vreemdeling - 24 
+5.3.9 Vastleggen van de identiteit in de BRP - 24 
+6 Verificatie van gegevens - 27 
+6.1 Definitie - 27 
+6.2 Doel - 27 
+6.3 Uitgangspunten voor verificatie - 27 
+6.4 Leidraad Verificatie Biometrie Vreemdelingenketen - 27 
+6.5 Activiteiten in het verificatieproces - 27 
+6.6 Vreemdelingendocument vermist of ongeldig - 28 
+7 Wijzigen van persoonsgegevens - 29 
+7.1 Inleiding - 29 
+  
+ Pagina 5 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Inleiding 
+1.1 Doel van het Protocol Identificatie en Labeling 
+ 
+Het Protocol Identificatie en Labeling, of kortweg het PIL, beschrijft een 
+gestandaardiseerde werkwijze voor het identificeren, registreren, wijzigen en 
+verifiëren van persoonsgegevens en het vernietigen van biometrische gegevens in 
+de vreemdelingenketen. Het werken volgens het protocol waarborgt dat er unieke, 
+eenduidige persoonsgegevens van een optimale kwaliteit beschikbaar zijn in de 
+vreemdelingenketen. De gebruikers van de persoonsgegevens kunnen ervan op aan 
+dat de persoonsgegevens via vaste procedures tot stand zijn gekomen. 
+ 
+1.2 Aard van het protocol 
+ 
+Het protocol beschrijft de werkwijze voor het identificeren van vreemdelingen, die, 
+hetzij in het kader van een aanvraagprocedure, hetzij in het kader van 
+grensbewaking of toezicht, met een of meer organisaties uit de vreemdelingenketen 
+in aanraking komen, en voor het registreren van de persoonsgegevens in de 
+Basisvoorziening Vreemdelingen (hierna: BVV). Zie bijlage 1 voor 
+achtergrondinformatie over de BVV. Voorts hebben de procedure voor het verifiëren 
+van persoonsgegevens en de procedure voor het wijzigen van persoonsgegevens 
+een geldigheid voor de gehele vreemdelingenketen.  
+ 
+Een eerste identificatie en registratie vinden plaats in het asielproces, de 
+1 2
+visumverlening en reguliere immigratie en in de processen grensbewaking en 
+toezicht. De organisaties in de vreemdelingenketen kunnen hun identificatie- en 
+registratieprocessen naar eigen inzicht inrichten, mits deze inrichting aansluit op dit 
+protocol. Het protocol is kaderstellend voor de interne administratieve organisatie 
+van de ketenpartners. 
+ 
+De identificatie van de vreemdeling vindt plaats bij het eerste contact, aan het begin 
+van het vreemdelingenproces. Indien de identiteit op dat moment niet of niet 
+deugdelijk kan worden vastgesteld, worden de gegevens van de vreemdeling, in 
+3
+combinatie met tien vingerafdrukken en een gezichtsopname, vastgelegd . Deze 
+gegevens vormen als het ware een label, waaronder de gegevens van de 
+betreffende persoon weer zijn terug te vinden. Dit verklaart de naam van het 
+Protocol Identificatie en Labeling. 
+ 
+1.3 Uitgangspunten 
+ 
+De volgende uitgangspunten liggen ten grondslag aan het protocol: 
+ 
+a De persoonsidentificatie en eerste registratie geschieden bij het eerste contact 
+met de vreemdeling. 
+                                                
+1
+ Incl. de visumverlenging in de gevallen dat het oorspronkelijke visum is afgegeven door een 
+ander Schengenlidstaat. 
+2
+ Incl. de naturalisatie-aanvragen die bij een diplomatieke post en in Caribisch Nederland 
+(Bonaire, Sint Eustatius en Saba) mogen worden ingediend. 
+3
+ Artikel 106a lid 1 vw 
+  
+ Pagina 7 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+2 Partijen 
+2.1 Ketenpartners 
+ 
+De ketenpartners zijn de organisaties, die gezamenlijk het vreemdelingenbeleid 
+uitvoeren. Zij hebben een gemeenschappelijk belang bij een unieke identificatie en 
+registratie van vreemdelingen. Om deze unieke identificatie en registratie goed te 
+kunnen uitvoeren, creëren en beheren de ketenpartners gezamenlijk een aantal 
+voorzieningen. Een daarvan is het Protocol Identificatie en Labeling. Het werken 
+volgens dit protocol geeft inhoud aan de gezamenlijke verantwoordelijkheid voor de 
+kwaliteit van de persoonsgegevens. 
+ 
+De ketenpartners, die het protocol onderschrijven, zijn: 
+ 
+• het ministerie van Buitenlandse Zaken (BZ) 
+• de Nationale Politie (NP) 
+• de Koninklijke Marechaussee (KMar) 
+• de Immigratie- en Naturalisatiedienst (IND) 
+• het Centraal Orgaan opvang asielzoekers (COA) 
+• de Dienst Justitiële Inrichtingen (DJI) 
+• de Dienst Terugkeer & Vertrek (DT&V) 
+ 
+Daarnaast wordt door enkele ketenpartners geparticipeerd in het Ketenplatform 
+Vreemdelingenketen. Zie voor meer informatie over het Ketenplatform bijlage 11. 
+ 
+2.2 Taken en bevoegdheden 
+ 
+In het uniek identificeren en registreren en het uniek houden van de 
+persoonsgegevens zijn verschillende taken en bevoegdheden te onderscheiden. Op 
+basis daarvan zijn verschillende categorieën ketenpartners te onderscheiden.  
+ 
+Deze taken zijn: 
+ 
+a. Toekennen identiteit: het toekennen van unieke identiteitskenmerken aan 
+een ongedocumenteerd persoon.  
+b. Identificeren persoon: het vaststellen van identiteit van een persoon aan de 
+5
+hand van een EEGG identiteitsdocument of het zoeken met 
+vingerafdrukken op de BVV dan wel een combinatie van de twee. 
+c. Registreren persoonsgegevens: het registreren van, onder a. of b. 
+vastgestelde persoonsgegevens in de BVV. 
+d. Wijzigen persoonsgegevens: het wijzigen van persoonsgegevens in de BVV. 
+e. Verifiëren persoonsgegevens: controleren of de verstrekte 
+persoonsgegevens corresponderen met de in de BVV vastgelegde 
+persoonsgegevens.  
+ 
+In onderstaande tabel is per ketenpartner aangegeven tot welke taken deze in de 
+vreemdelingenketen bevoegd is. 
+ 
+                                                
+5
+ EEGG: Identificerende documenten worden getoetst aan de hand van vier criteria, deze zijn  
+Echt, Eigen, Geldig en Gekwalificeerd. Zie voor meer informatie paragraaf 5.3.1. 
+  
+ Pagina 9 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+van dit onderzoek wordt aan deze vreemdelingen dan een identiteit toegekend dan 
+wel wordt deze gewijzigd.  
+ 
+De IND identificeert vreemdelingen aan de IND-loketten in het kader van het 
+reguliere toelatingsproces en de visumverlenging op basis van officiële 
+identificerende documenten. Daarnaast is het bij ongedocumenteerde 
+vreemdelingen met een toegekende identiteit aan de IND geoorloofd om, onder 
+10
+opgave van redenen , de nationaliteit en/of de geboortedatum zelfstandig te 
+wijzigen. Hierbij is het voorafgaand aan de wijziging inlichten van de Nationale 
+Politie, dan wel de Koninklijke Marechaussee niet verplicht. 
+ 
+De Dienst Terugkeer & Vertrek heeft nooit als eerste contact met een vreemdeling, 
+als identificerend ketenpartner blijft de rol beperkt tot het wijzigen van 
+persoonsgegevens. 
+ 
+Hoewel gemeenten als zodanig geen ketenpartner zijn in de zin van dit protocol 
+wordt door de ketenpartners binnen de vreemdelingenketen in meer of mindere 
+mate samengewerkt met gemeenten. Zo vervullen bepaalde gemeenten een 
+belangrijke rol in de BRP-straten. Deze BRP straten hebben onder meer tot doel om 
+de juiste naamstelling op de vreemdelingendocumenten te realiseren en daarmee 
+het proces van uitplaatsing van vergunninghouders van COA opvanglocaties naar 
+gemeenten te optimaliseren. Hiervoor is met name een correcte inschrijving in de 
+BRP een randvoorwaarde. Voor meer informatie wordt verwezen naar bijlage 13 De 
+BRP straat. 
+2.4 Niet-identificerende ketenpartners 
+ 
+Niet-identificerende ketenpartners zijn de organisaties in de vreemdelingenketen, 
+die geen identificerende bevoegdheden hebben, maar wel de plicht hebben om, 
+zodra zij met afwijkende persoonsgegevens in aanraking komen, een identificerende 
+ketenpartner te verzoeken na te gaan of de persoonsgegevens gewijzigd dienen te 
+worden.  
+ 
+De niet-identificerende ketenpartners zijn: 
+ 
+• het Centraal Orgaan opvang Asielzoekers; 
+• de Dienst Justitiële Inrichtingen. 
+ 
+2.5 Raadplegende ketenpartners 
+ 
+De derde categorie wordt gevormd door de Raad van State en de 
+vreemdelingenkamers van de rechtbank (Raad voor de Rechtspraak). Deze 
+organisaties zijn belast met de beslechting van geschillen ontstaan bij de uitvoering 
+van de Vreemdelingenwet. Zij hebben een onafhankelijke en onpartijdige positie ten 
+opzichte van de overige ketenpartners. De Raad van State en de 
+vreemdelingenkamers zijn slechts raadplegers van de persoonsgegevens. Zij hebben 
+geen identificerende taken en evenmin kan hen worden verplicht de 
+persoonsgegevens te verifiëren op de momenten dat zij contact hebben met de 
+vreemdeling. Zij moeten de persoonsgegevens waarmee de vreemdeling zich bij hen 
+meldt, accepteren. Wel hebben zij er belang bij om, indien er geen twijfel bestaat 
+                                                
+10
+ Het motiveren van wijziging(en) wordt gedaan door het selecteren van de betreffende 
+tabelwaarden in het ketenpartnersysteem. De hiervoor noodzakelijke aanpassingen worden 
+echter op een later tijdstip geïmplementeerd in de relevante tabellen. 
+  
+ Pagina 11 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+deze regel ingeschreven moet worden, de aangifte moet doen binnen vijf dagen na 
+vestiging of binnen vijf dagen nadat de situatie is ontstaan dat de verwachting 
+bestaat dat hij aan dat verblijfscriterium voldoet. De inschrijving in de BRP gebeurt 
+conform de wet en regelgeving van de BRP en is gebaseerd op brondocumenten 
+zoals geboorteakte en huwelijksakte. Alvorens tot vastlegging in de BRP over te 
+gaan controleert de gemeente eerst de identiteit van de vreemdeling aan de hand 
+van een identiteitsdocument en controleert de gemeente de verblijfstatus van de 
+vreemdeling.  
+ 
+Mocht een ketenpartner na registratie in de BRP van de persoonsgegevens 
+overigens ‘gerede’ twijfel hebben aan de juistheid van deze gegevens dan is de 
+ketenpartij als afnemer verplicht tot terugmelding aan de BRP. Zie voor meer 
+informatie bijlage 8 Terug Meld Voorziening (TMV).  
+  
+  
+ Pagina 13 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+4 Beheer van het protocol 
+4.1 Het Topberaad Vreemdelingenketen 
+ 
+Het Topberaad draagt - onder verantwoordelijkheid van de DG Vreemdelingenzaken 
+- zorg voor het beheer van het protocol. De uitvoering hiervan is belegd bij de 
+afdeling ketenvoorzieningen van de Directie Regie Vreemdelingenketen (hierna: 
+DRV) en de werkgroep Protocol Identificatie en Labeling. 
+ 
+4.2 Evaluatie van het protocol 
+ 
+Jaarlijks wordt de werking van het protocol geëvalueerd en indien nodig, op basis 
+van deze evaluatie geactualiseerd. De evaluatie kan echter ook als uitkomst hebben 
+dat het betreffende proces en/of de door de ketenpartner(s) gebruikte 
+programmatuur moet worden aangepast.  
+4.3 Actualisatie van het protocol 
+ 
+Naast wijzigingen op grond van de evaluatie kunnen wijzigingen ook voortkomen uit 
+ontwikkelingen in wet- en regelgeving en/of door organisatorische wijzigingen. 
+Voorstellen tot wijziging moeten via de contactpersoon van de betreffende 
+ketenpartner worden ingediend bij de afdeling ketenvoorzieningen van de DRV. Het 
+wijzigingsvoorstel wordt vervolgens geagendeerd voor het overleg van het 
+Ketenplatform Vreemdelingenketen (hierna KPV). Na akkoord van het KPV wordt het 
+voorstel ter redactie voorgelegd aan de werkgroep PIL. Het KPV en de werkgroep 
+PIL komen op regelmatige basis bijeen en zijn samengesteld uit de medewerkers 
+van de verschillende ketenpartners. Na akkoord van de werkgroep PIL wordt de 
+gewijzigde versie van het protocol voorgelegd aan het Deelberaad 
+Keteninformatisering (hierna: DKi). Het DKi heeft mandaat om akkoord te gaan met 
+minder omvangrijke wijzigingen van het protocol. Voor zover het echter 
+omvangrijke wijzigingen betreft beslist het Topberaad over de aanpassing van het 
+protocol.  
+ 
+Voor het indienen van een wijzigingsvoorstel wordt verwezen naar bijlage 10 
+mutatieformulier PIL.  
+4.4 Ondersteuning 
+ 
+Ondersteuning in het gebruik van het PIL wordt verleend door de werkgroep PIL. 
+Vragen en opmerkingen kunt u richten aan de vertegenwoordiger van uw 
+organisatie in deze werkgroep. 
+ 
+4.5 Handhaving 
+ 
+Periodiek wordt in opdracht van het Topberaad een audit uitgevoerd door een 
+onafhankelijke partij, waarin wordt onderzocht of het protocol op een juiste wijze 
+wordt toegepast. 
+ 
+ 
+ 
+  
+ Pagina 15 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+5 Eerste identificatie en registratie 
+5.1 Identificatie bij het eerste contact 
+ 
+Het identificeren van een persoon vindt alleen plaats bij aanvang van die processen, 
+waarin de persoon voor de eerste maal in aanraking komt met de 
+vreemdelingenketen. 
+ 
+Deze processen zijn: 
+ 
+• aanvraag asiel 
+• aanvraag en verlenging visum voor kort verblijf  
+• Toegangs- en Verblijfsprocedure (aanvraag MVV en ambtshalve VVR) 
+• basisexamen inburgering buitenland 
+• aanvraag reguliere verblijfsvergunning 
+• grensbewaking 
+• vreemdelingentoezicht 
+ 
+Ieder ander proces in de vreemdelingenketen volgt op een van de hierboven 
+genoemde processen. Daarin kan worden volstaan met verificatie van de identiteit. 
+ 
+Identificatie en registratie zijn de eerste activiteiten in het proces. Uitzonderingen op 
+deze regel zijn mogelijk, zolang geen onomkeerbare activiteiten worden uitgevoerd.  
+ 
+Van een vreemdeling die een visum voor kort verblijf aanvraagt bij een diplomatieke 
+post in het buitenland (BZ), wordt onderzocht of die persoon reeds in (EU)VIS 
+geregistreerd staat. Zo niet, dan wordt de identiteit van deze persoon alsnog in 
+(EU)VIS vastgelegd met zowel de biografische als, indien van toepassing, 
+biometrische gegevens. Daarnaast wordt ook onderzocht of de persoon in de BVV 
+voorkomt. Indien de persoon nog niet bekend is, dan wordt de identiteit van de 
+persoon in de BVV geregistreerd met alleen de biografische gegevens. 
+ 
+Als in het kader van de TEV (Toelating en Verblijf) procedure sprake is van een door 
+de referent in Nederland opgestarte MVV aanvraag, registreert de IND de 
+administratieve persoonsgegevens onder een V-nummer in de BVV, en vindt de 
+identificatie plaats door de diplomatieke post in het buitenland (BZ), die op basis 
+daarvan de persoons- (biometrie) en documentgegevens aanvult.  
+ 
+De IND registreert ook van de te hervestigen vluchtelingen de persoonsgegevens, 
+op basis van de door de UNHCR aangeleverde gegevens. De IND neemt verder 
+tijdens de hervestigingsmissie de biometrische gegevens van de te hervestigen 
+vluchteling af in het land van opvang. De IND verzorgt vervolgens de opname van 
+de persoonsgegevens (waaronder de handtekening) en de biometrische kenmerken 
+(gezichtsopname en vingerafdrukken) in de BVV.  
+ 
+Op basis van deze biometrische gegevens laat de IND een verblijfsdocument 
+aanmaken. Het verblijfsdocument wordt direct aan deze vluchteling bij binnenkomst 
+in Nederland uitgereikt. Een uitzondering op deze werkwijze bestaat indien de 
+kwaliteit van de biometrische gegevens onvoldoende is gebleken om een 
+verblijfsdocument aan te kunnen maken. De IND neemt dan de biometrische 
+gegevens van de te hervestigen vreemdeling bij binnenkomst in Nederland opnieuw 
+af en verzorgt de verwerking van de biometrische gegevens in de BVV. Afname van 
+  
+ Pagina 17 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+5 Registreren bron persoonsgegevens: bij de persoonsgegevens wordt 
+geregistreerd aan welke bron de persoonsgegevens zijn ontleend. 
+6 Registreren documentgegevens: de identificerende documenten waaraan de 
+persoonsgegevens worden ontleend, worden geregistreerd. 
+7 Raadplegen externe systemen: afhankelijk van het vreemdelingenproces dat 
+wordt uitgevoerd, kunnen met het oog op het onderzoek van de identiteit en de 
+identiteitsdocumenten diverse systemen worden geraadpleegd. 
+8 V-nummer ter hand stellen aan de vreemdeling: de vreemdeling krijgt de 
+beschikking over het V-nummer waaronder hij/zij is geregistreerd, bijv. op de 
+verblijfsvergunning of een afwijzende beschikking op een aanvraag voor een 
+verblijfsvergunning. 
+9 Vastleggen van de identiteit in de BRP: vreemdelingen die zich vestigen in 
+Nederland dienen zich te laten inschrijven in de BRP van de gemeente van 
+vestiging. De BRP is de basisregistratie voor persoonsgegevens. De BRP-
+gegevens zijn derhalve leidend voor deze vreemdelingen. 
+ 
+5.3 Toelichting op de activiteiten in het identificatieproces 
+ 
+5.3.1 Controleren reis- en brondocumenten 
+ 
+Identificerende documenten. Het document wordt getoetst op vier vragen (“EEGG”);  
+ 
+1. is het echt 
+2. is het eigen 
+3. is het geldig 
+4. is het gekwalificeerd. 
+ 
+De controle op echtheid behelst een onderzoek naar misbruik, namaak of vervalsing 
+van het ID-bewijs. "Eigen" ziet op de vraag of het ID-bewijs inderdaad betrekking 
+heeft op degene die er gebruik van maakt om zich te identificeren, dan wel is 
+afgegeven aan een andere persoon dan degene die er gebruik van maakt. "Geldig" 
+ziet op de termijn waarvoor het ID-bewijs geldig is. "Gekwalificeerd" wil zeggen: het 
+is een ID-bewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht. Indien 
+een gezichtsopname en/of vingerafdrukken zijn opgenomen in de chip op het 
+paspoort of reisdocument, mag de ambtenaar die de identificatie of verificatie 
+uitvoert die biometrische kenmerken gebruiken voor het verifiëren van de 
+authenticiteit van het ID-bewijs ("echt") en de identiteit van de houder ("eigen"). 
+Hierbij wordt aangesloten bij het protocol. 
+ 
+Een ongeldig document wordt terstond voor nader onderzoek ingenomen, dan wel in 
+beslag genomen. Indien de controlerende partij onvoldoende de 
+echtheidskenmerken kan vaststellen wordt zonodig de deskundigheid van het 
+Expertisecentrum Identiteitsfraude en Documenten (ECID) van de Koninklijke 
+Marechaussee of wordt de Technische Recherche van de Nationale Politie 
+ingeschakeld. Zie voor meer informatie over dit expertisecentrum deze site (voor 
+o.a. contactgegevens). 
+ 
+Brondocumenten 
+Indien van toepassing wordt nagegaan of brondocumenten zijn gelegaliseerd of 
+geverifieerd. Een verificatieonderzoek naar de persoonsgegevens van betrokkene 
+wordt alleen uitgevoerd wanneer er gerede twijfel bestaat aan (de inhoud van) een 
+identiteitsdocument. Legalisatie is de vaststelling dat een document is afgegeven 
+door een daartoe bevoegd persoon en dat de handtekening op het document tot de 
+  
+ Pagina 19 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+• geboortedatum 
+12
+• geboorteplaats 
+• geboorteland 
+• nationaliteit 
+13
+• evt. buitenlands persoonsnummer 
+• bron van de persoonsgegevens 
+• evt. adresgegevens in Nederland 
+• evt. familierelatie met andere geregistreerde vreemdeling(en) 
+ 
+Indien er geen documenten beschikbaar zijn, waaraan de geboortedatum kan 
+worden ontleend, schrijft de Vreemdelingencirculaire de volgende wijze van 
+registreren voor: 
+ 
+• Indien van een vreemdeling alleen het geboortejaar bekend is, wordt de 
+geboortedatum bepaald op 1 juli. 
+• Indien naast het geboortejaar alleen de geboortemaand bekend is, dan wordt 
+als geboortedatum aangenomen de 16e van de desbetreffende maand. Tevens 
+wordt te allen tijde een indicatie van de volledigheid van de geboortedatum 
+aangegeven; daarmee wordt aangeduid welke onderdelen van de 
+geboortedatum een daadwerkelijke of een geschatte waarde bevatten. 
+• Indien er geen documenten beschikbaar zijn (waaronder ook bij evidente 
+identiteitsfraude) en de betrokkene weigert een eigen verklaring over zijn 
+identiteit te geven, wordt de persoon geregistreerd met een minimale set 
+gegevens: 
+ 
+− vreemdelingennummer; 
+− geslachtsnaam (NN regiocode geslacht jjmmdd hhmm); 
+− geslachtsaanduiding. 
+ 
+• Indien de geslachtsnaam onbekend is, is uitsluitend de vorm “NN regiocode 
+geslacht jjmmdd hhmm” toegestaan. Om personen, die weigeren een naam op 
+te geven, niet alleen in vreemdelingennummer, maar ook in naam van elkaar 
+te kunnen onderscheiden, wordt de NN-aanduiding aangevuld met informatie 
+over regio, geslacht, en datum en tijd van registratie. Bij registratie van 
+meerdere personen tegelijkertijd wordt één minuut verschil aangehouden. 
+Deze wijze van registreren is vooral van belang voor het registreren en zoeken 
+van deze personen in registraties buiten de vreemdelingenketen; m.n. in 
+opsporingssystemen moet veelal op naam worden gezocht. Voorbeeld: NN 
+PL13CN M 040920 1312. Deze persoon is geregistreerd in de regio Amsterdam-
+Amstelland, wijkteam Oud-West, is van het mannelijk geslacht, en is 
+geregistreerd op 20 september 2004 om 13.12 uur. Zodra meer gegevens over 
+de identiteit bekend worden, wordt de procedure voor het wijzigen van 
+persoonsgegevens gevolgd. 
+ 
+Uitgangspunt is dat de persoonsgegevens zo volledig mogelijk en – indien van 
+toepassing - voorzien van diakritische tekens worden geregistreerd. Onder bepaalde 
+voorwaarden kunnen de persoonsgegevens echter zonder diakritische tekens 
+worden geregistreerd en aan de BVV geleverd. Dit komt m.n. voor in het 
+                                                
+12
+ Voor een correcte registratie van de plaatsnaam wordt verwezen naar de Handleiding 
+Uitvoeringsprocedures (HUP), paragraaf 3.3.7, zie deze site.  
+13
+ Buitenlands persoonsnummer: Persoonlijk registratienummer zoals dat op de houderpagina 
+van het identificerende document is vermeld. In de regel is dit nummer per land uniek en kan 
+niet meer worden gewijzigd. Zie ook de informatie van de Rijksdienst voor Identiteitsgegevens 
+op deze site.  
+  
+ Pagina 21 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+5.3.7 Raadplegen externe systemen 
+ 
+Afhankelijk van het vreemdelingenproces dat wordt uitgevoerd, kunnen of moeten 
+een of meer externe systemen worden geraadpleegd met het oog op nader 
+onderzoek van de identiteit en de identiteitsdocumenten.  
+ 
+SKDB 
+Indien de vreemdeling beschikt over een strafrechtsketennummer (SKN) dan is deze 
+bekend in het centrale strafrechtelijk systeem SKDB. Dit betekent dat de 
+vastgelegde gegevens in de vreemdelingenketen en de strafrechtsketen onderling 
+kunnen worden vergeleken en getoetst. 
+ 
+Havank 
+Door de ketenpartners met toezichthoudende bevoegdheden kan - met het oog op 
+mogelijk gevaar voor de openbare orde en veiligheid - worden nagegaan of de 
+vingerafdrukken van een vreemdeling reeds voorkomen in het strafrechtelijk 
+biometrieregister Havank. 
+ 
+Eurodac 
+Van twee categorieën vreemdelingen worden vingerafdrukken in Eurodac vastgelegd 
+om vast te kunnen stellen welk land verantwoordelijk is voor de behandeling van 
+een asielverzoek: 
+ 
+a Vingerafdrukken van asielzoekers worden ter registratie aan Eurodac 
+verzonden zodra de formele asielaanvraag is ingediend. 
+b Vingerafdrukken worden ten behoeve van registratie in Eurodac EU-
+buitengrens afgenomen van niet goed gedocumenteerde vreemdelingen die 
+met toestemming van de grensbewaking toegang tot Nederland krijgen en die 
+geen asiel willen aanvragen. Zie bijlage 7 voor aanvullende informatie over 
+doel en gebruik van Eurodac. 
+ 
+EU-VIS 
+In het Europees Visuminformatiesysteem (EU-VIS) kan worden nagegaan of een 
+vreemdeling eerder een visum heeft aangevraagd bij één van de Europese lidstaten. 
+Visumaanvragen worden geregistreerd in EU-VIS, conform Verordening (EG) nr. 
+767/2008 van het Europees Parlement en de Raad van 9 juli 2008. Voor meer 
+informatie over het EU-VIS wordt verwezen naar bijlage 14. 
+ 
+SIS II (NSIS en OPS) 
+In het Schengen Informatie Systeem (SISII) staan de vreemdelingen geregistreerd, 
+die niet tot het Schengengebied mogen worden toegelaten, alsmede documenten op 
+basis waarvan geen toegang mag worden verleend. 
+In het nationaal Opsporingsregister (OPS) zijn de personen (Nederlanders en 
+vreemdelingen) gesignaleerd die voor aanhouding en opsporing in aanmerking 
+komen. 
+ 
+VIS 
+Het Verificatie Informatie Systeem (VIS) is het geautomatiseerde informatiesysteem 
+van Verificatie Informatie Systemen B.V. VIS informeert over de unieke nummers 
+van gestolen, vermiste of anderszins ongeldig verklaarde identiteits- en 
+reisdocumenten uit binnen- en buitenland. Hieronder vallen onder meer paspoorten, 
+visa en de Nederlandse op naam gestelde rijbewijzen. VIS heeft als doel het 
+voorkomen van schade bij het bedrijfsleven en de overheid door frauduleus 
+handelen met ongeldige documenten. De gegevens worden geleverd door het Korps 
+  
+ Pagina 23 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+de persoon die op basis van deze regel ingeschreven moet worden, de aangifte 
+moet doen binnen vijf dagen na vestiging of binnen 5 dagen nadat de situatie is 
+ontstaan dat de verwachting bestaat dat hij aan dat verblijfscriterium voldoet. Bij 
+inschrijving wordt de identiteit vastgesteld door een ambtenaar burgerzaken. 
+Daarbij betrekt deze de identificerende gegevens, zoals die in de 
+vreemdelingenketen zijn geregistreerd. 
+ 
+De BRP is de basisadministratie voor persoonsgegevens van de Nederlandse 
+bevolking. De BRP-gegevens zijn derhalve leidend. Het zijn de gegevens waarmee in 
+de communicatie naar deze persoon wordt verwezen, zowel in de 
+vreemdelingenketen als bij andere organisaties die persoonsgegevens afnemen van 
+de BRP. 
+ 
+Zodra een vreemdeling Nederland verlaat en het bijhouden van de persoonslijst 
+door de BRP wordt opgeschort, kunnen de persoonsgegevens zonodig weer door de 
+andere identificerende ketenpartners worden gewijzigd. Indien de gegevens van de 
+BRP niet overeenstemmen met de gegevens waaronder de betreffende persoon in 
+de vreemdelingenketen bekend was, blijven de oorspronkelijke gegevens voor de 
+identificerende ketenpartners toegankelijk als historisch gegeven.  
+ 
+Daarmee wordt voorkomen dat een persoon onder meerdere identiteiten - en m.n. 
+met meerdere unieke vreemdelingennummers - in het personenregister bekend is, 
+zodra deze zich bekend maakt onder een andere dan de BRP-identiteit.  
+Hoe te handelen bij het aantreffen van gegevens die afwijken van de BRP-gegevens, 
+wordt beschreven in de procedure voor het wijzigen van persoonsgegevens. Zie 
+tevens bijlage 8 Terug Meld Voorziening (TMV). 
+ 
+Zie voor achtergrondinformatie over de BRP deze site. 
+ 
+ 
+  
+ Pagina 25 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+6 Verificatie van gegevens 
+6.1 Definitie 
+ 
+Verificatie van biometrische en persoonsgegevens is het controleren of deze 
+gegevens corresponderen met de in de BVV vastgelegde gegevens.  
+6.2 Doel 
+ 
+Om ervoor zorg te dragen dat telkens gebruik wordt gemaakt van de juiste in de 
+BVV geregistreerde persoonsgegevens, is het noodzakelijk dat steeds hetzelfde 
+vreemdelingennummer wordt gebruikt in de administraties. Op momenten in het 
+proces, waarin de identiteit van een persoon een rol speelt, moet de identiteit 
+worden geverifieerd. Verificatie heeft tot doel om vast te stellen of gegevens horen 
+bij een persoon. Verificatie verschaft niet de zekerheid dat een persoon werkelijk is 
+voor wie hij zich uitgeeft. 
+6.3 Uitgangspunten voor verificatie 
+ 
+• De identiteit van vreemdelingen wordt met name gecontroleerd op ieder 
+moment dat er een relatie wordt gelegd tussen een (fysiek aanwezige) 
+vreemdeling en zijn dossier en er tevens wijzigingen in dat dossier worden 
+aangebracht. 
+• De verificatie geschiedt in beginsel door het V-nummer en één of twee 
+vingerafdrukken van de vreemdeling te vergelijken met de vingerafdrukken 
+van de desbetreffende persoon die in de BVV zijn opgeslagen. In het geval de 
+vreemdeling over een document met vingerafdrukken beschikt, kan de 
+verificatie van de vingerafdrukken tegen het document plaatsvinden. In het 
+geval deze verificatie tegen het document niet slaagt, zal een vergelijking met 
+de vingerafdrukken in de BVV plaatsvinden.  
+6.4 Leidraad Verificatie Biometrie Vreemdelingenketen  
+ 
+Het is wenselijk om bij het beoordelen van de vraag “of en hoe verificatie met 
+biometrie wordt ingezet” - naast de wettelijke verplichtingen tot verificatie - die 
+inzet binnen de Vreemdelingenketen te toetsen aan dezelfde criteria. Daarnaast is 
+het gebruik van eenzelfde begrippenkader een punt van belang. Een dergelijke 
+standaardisatie zorgt ervoor dat ketenprocessen efficiënter en effectiever kunnen 
+worden ingericht. Om hieraan te voldoen is de Leidraad Verificatie Biometrie 
+Vreemdelingenketen geschreven. Deze leidraad dient als startdocument bij de 
+beoordeling of en hoe verificatie met behulp van biometrie wordt ingezet (i.e. de 
+controle van de fysieke gegevens van de persoon tegen de vastgelegde gegevens in 
+een document of database). Voor meer informatie wordt verwezen naar bijlage 12 
+Leidraad Verificatie Biometrie in de vreemdelingenketen. 
+6.5 Activiteiten in het verificatieproces 
+ 
+1 V-nummer en zo mogelijk vingerscan invoeren 
+Het verificatieproces wordt ingericht op basis van V-nummer en vingerscan. 
+  
+2 Verifiëren in de BVV 
+Als de combinatie van V-nummer en vingerscan in de BVV matcht is de 
+verificatie geslaagd. 
+  
+ Pagina 27 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+7 Wijzigen van persoonsgegevens 
+7.1 Inleiding 
+ 
+Het gemeenschappelijk gebruik van persoonsgegevens stelt niet alleen eisen aan de 
+kwaliteit van de eerste identificatie en registratie, maar ook aan de wijze waarop de 
+persoonsgegevens uniek gehouden worden.  
+Het kan voorkomen dat er nieuwe of afwijkende persoonsgegevens beschikbaar 
+komen over een vreemdeling die al bekend is in de vreemdelingenketen. De 
+wijzigingsprocedure beschrijft op welke wijze in dat geval gehandeld dient te 
+worden. 
+ 
+De wijzigingsprocedure is niet bedoeld voor het corrigeren van afwijkingen, die het 
+karakter hebben van een schrijffout. Dit type fouten zal immers gedurende een 
+zorgvuldige identificatie- en registratieprocedure reeds door de identificerende 
+ketenpartner zijn hersteld. Bovendien geldt voor personen, die eenmaal in de BRP 
+zijn geregistreerd, dat zij zich met een verzoek tot wijziging van hun gegevens tot 
+de gemeente moeten wenden. Voor meer informatie wordt verwezen naar bijlage 8 
+Terug Meld Voorziening (TMV). 
+ 
+De wijzigingsprocedure vindt altijd plaats in het kader van een vreemdelingrechtelijk 
+proces en leidt derhalve niet tot op zichzelf staande beslissingen.  
+In het asielproces kan een verzoek tot wijziging van de persoonsgegevens in de 
+zienswijze naar voren worden gebracht. Tegen een besluit op een wijzigingsverzoek 
+kan in rechte worden opgekomen tezamen met het beroep tegen de beschikking van 
+de toelatingsprocedure. 
+ 
+Criteria voor het wijzigen van persoonsgegevens zijn: 
+ 
+1 er zijn nieuwe, sterkere, geldige identificerende documenten (waaronder een 
+laissez-passer) beschikbaar. 
+2 de uitslag van een leeftijdsonderzoek. 
+3 een asielzoeker verklaart alsnog meerderjarig in plaats van minderjarig te zijn. 
+4 de nationaliteit gebaseerd op de uitslag van een taalanalyse, die in een 
+rechterlijke uitspraak is bevestigd. 
+5 een vreemdeling is dubbel geregistreerd. 
+6 een overlijdensverklaring. 
+7 kennelijke onjuistheden in de identiteits- en nationaliteitsverklaring, mits goed 
+beargumenteerd en gemotiveerd. Bijv. een verbetering van de aanduiding van 
+de geboorteplaats of woonplaats ondersteund door objectieve bronnen als een 
+atlas of een kaart. Ook een individueel ambtsbericht kan een onderbouwing 
+15
+vormen voor het wijzigen van gegevens . 
+ 
+Het starten van de wijzigingsprocedure heeft pas zin als het onjuist zijn van de 
+gegevens met bewijsmiddelen gestaafd kan worden. Deze bewijsmiddelen worden 
+uiteraard bij het verzoek om een identiteitsonderzoek meegezonden. 
+ 
+                                                
+15
+ Verzoeken tot het wijzigen van de identiteits- en nationaliteitsverklaring, die is toegelicht, 
+gecontroleerd en ondertekend in het bijzijn van een (live) tolk, bijv. verschrijvingen, volgorde 
+van namen, transliteratiefouten, alsnog een voornaam opgeven waar deze eerder ontbrak 
+vormen in principe geen aanleiding om tot wijziging van persoonsgegevens over te gaan. Goed 
+beargumenteerde en gemotiveerde uitzonderingen op deze regel zijn mogelijk. 
+  
+ Pagina 29 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ 
+7.3 Activiteiten in het wijzigingsproces 
+ 
+1 Beoordelen afwijkende gegevens 
+Zijn de documenten die de afwijkende gegevens bevatten, sterker dan de 
+documenten waaraan de BVV-gegevens zijn ontleend? Zijn de identificerende 
+documenten echt, eigen, geldig en gekwalificeerd? Is er een 
+identiteitsonderzoek door een ketenpartner met toezichthoudende 
+bevoegdheden nodig? Is de vreemdeling in de BRP geregistreerd? 
+2 Registreren documentgegevens 
+Documentgegevens van identificerende documenten, waaronder een laissez-
+passer, worden in de BVV geregistreerd. 
+3 Muteren persoonsgegevens 
+De persoonsgegevens in de BVV worden gewijzigd als de bron van de 
+afwijkende gegevens aantoonbaar sterker zijn de bron van de geregistreerde 
+gegevens. Ook de bron van de persoonsgegevens wordt zonodig aangepast.  
+4 Terugmelden afwijkende persoonsgegevens aan gemeente van 
+vestiging 
+Aan de gemeente van vestiging wordt - indien van toepassing - een 
+terugmelding van onjuiste inschrijving gedaan, ondersteund met 
+bewijsmiddelen. Na onderzoek door de betreffende gemeente worden de 
+gegevens eventueel aangepast, waarna via de koppeling tussen de BRP en de 
+BVV, de BVV-gegevens door de BRP worden geactualiseerd. (zie verder bijlage 
+8 Terug Meld Voorziening (TMV)) 
+5 Samenvoegen dubbele registratie 
+In het geval van een dubbele registratie wordt casuïstisch bepaald welk V-
+nummer het leidende nummer wordt. Daarbij kunnen de volgende 
+overwegingen gemaakt worden: 
+− is betrokkene in de BRP ingeschreven? 
+− is er een geldig vreemdelingendocument in omloop? 
+− onder welke registratie is de meest recente verblijfstitel geregistreerd? 
+− is er een openstaande procedure? 
+− welke persoonsgegevens zijn het sterkst? 
+− is betrokkene in de SKDB geregistreerd? 
+− is er een Europese signalering? 
+De ketenpartners, die van de BVV bericht ontvangen over de samenvoeging 
+van persoonsregistraties, verwerken deze samenvoeging in hun eigen 
+informatiesysteem, zodanig dat het gebruik van de actuele 
+persoonsgegevens in de processen is gewaarborgd. Zie ook bijlage 9 
+Samenvoegen registraties. 
+6 Samenvoegen CDD 
+Indien er sprake is van een samenvoeging van registraties moet tevens 
+rekening worden gehouden met de geregistreerde documenten in het CDD 
+archief door, indien mogelijk, de metadatering aan te passen. Zie verder 
+bijlage 9 Samenvoegen registraties. 
+7 Gewijzigde persoonsgegevens doorgeven aan gerelateerde registraties 
+Als bekend is dat de vreemdeling is geregistreerd in andere registraties wordt 
+bewerkstelligd dat ook deze registraties worden geactualiseerd, bijvoorbeeld: 
+− ten behoeve van wijziging van SISII wordt het formulier M93 aan de IND 
+opgemaakt; 
+− politiesystemen worden geactualiseerd; 
+− de SKDB wordt automatisch door de BVV geactualiseerd op voorwaarde 
+dat het V-nummer in de SKDB is geregistreerd. 
+8 Beoordelen gevolgen voor verblijfsrechtelijke positie 
+  
+ Pagina 31 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+7.4 Wijzigingen BRP-gegevens in het vertrekproces of bij identiteitsfraude 
+ 
+1 Wijzigen BRP-persoonsgegevens in de BVV De BRP-persoonsgegevens in 
+de BVV kunnen door de Nationale Politie, Koninklijke Marechaussee of de 
+Dienst Terugkeer & Vertrek worden overschreven onder de strikte condities dat 
+de vreemdeling als verblijfstitel code 98 (= geen verblijfsrecht meer) heeft én 
+dat de nieuwe persoonsgegevens worden ontleend aan een officieel 
+identificerend document persoonsgegevens. 
+2 Uitvoeren vertrekproces Zie voor een nadere beschrijving van het 
+vertrekproces, geregisseerd door de Dienst Terugkeer en Vertrek, deze site.  
+3 Melden afwijkende persoonsgegevens in het vertrekproces De 
+ketenpartner die in het vertrekproces als eerste geconfronteerd wordt met een 
+sterker document waaruit afwijkende persoonsgegevens blijken, draagt zorg 
+voor wijziging van BRP-persoonsgegevens in de BVV. Hierbij wordt aan de 
+gemeente van vestiging een terugmelding van onjuiste inschrijving gedaan, 
+ondersteund met bewijsmiddelen. Deze bewijsmiddelen zijn: 
+− een gewaarmerkte kopie van het LP of het paspoort en/of; 
+− een schermafdruk van het digitale bericht vertrek (M 100), voorzien van 
+V-nummer en BSN; 
+− verzoek van betrokkene zelf tot wijziging van de BRP-adres- en/of 
+persoonsgegevens. 
+Als een vreemdeling met de IOM vertrekt onder andere persoonsgegevens dan 
+waaronder de vreemdeling in de BVV staat geregistreerd en er is een sterker 
+document voorhanden, zal de DT&V van zaken die tot de caseload van de 
+DT&V behoren, de terugmelding bij de BRP afhandelen. 
+4 Verwerken terugmelding door gemeente De gemeente stelt de BRP-
+gegevens in onderzoek en onderzoekt de terugmelding. Na afronding van het 
+onderzoek zullen de BRP-gegevens afhankelijk van de onderzoeksresultaten al 
+dan niet gewijzigd worden. De BVV-gegevens worden geactualiseerd door 
+middel van de BRP-BVV-koppeling. Zie verder bijlage 8 Terug Meld Voorziening 
+(TMV). 
+ 
+Toelichting 
+Voor het wijzigen van BRP-persoonsgegevens tijdens het vertrekproces is een 
+aparte procedure ontwikkeld, die het de ketenpartners mogelijk maakt om 
+gedurende het vertrekproces allen met dezelfde persoonsgegevens te werken. Na 
+afronding van het vertrekproces worden de afwijkende persoonsgegevens 
+teruggemeld aan de gemeente van vestiging, en worden de persoonsgegevens, evt. 
+na het uitvoeren van nader onderzoek door de gemeente, geactualiseerd in BRP en 
+BVV. 
+ 
+Deze procedure is zowel van toepassing bij vertrek met een laissez-passer als in het 
+geval van identiteitsfraude bij inschrijving in de BRP, waar direct vertrek op volgt. 
+Als voor de vreemdeling, die is ingeschreven in de BRP, een LP is afgegeven, of als 
+er een nog niet eerder bekend, geldig identiteitsdocument beschikbaar is gekomen 
+past KMar, NP of DT&V de BVV-persoonsgegevens aan. De BRP-persoonsgegevens 
+in de BVV kunnen door deze ketenpartners worden overschreven onder de strikte 
+conditie dat de vreemdeling als verblijfstitel code 98 (= geen verblijfsrecht meer) 
+heeft én dat de nieuwe persoonsgegevens worden ontleend aan een officieel 
+identificerend document persoonsgegevens.  
+ 
+Het gebruik van de BRP-gegevens is niet verplicht indien gerede twijfel over de 
+juistheid aanwezig is en de afnemer een terugmelding daarover zal doen aan de 
+gemeente van inschrijving. Als uitstel van de handeling (i.c. de uitvoering van het 
+vertrekproces) niet mogelijk is, dan dient de afnemer op basis van de gegevens die 
+  
+ Pagina 33 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+rechtbank kan van de beroepstermijn afzien indien belanghebbende(n) 
+berust(en) in de beschikking. Zij dien(t)(en) dit schriftelijk aan te geven bij de 
+rechtbank.  
+• De rechtbank maakt vervolgens een akte van non-appel op en stuurt deze naar 
+de desbetreffende gemeente.  
+• De ambtenaar van gemeente zal dan de geboorteakte(n) verbeteren en de BRP 
+gegevens aanpassen.  
+• Via de koppeling tussen de BRP en de BVV worden de BVV-gegevens 
+geactualiseerd. Als de vreemdeling niet in de BRP is ingeschreven gaat de 
+identificerende ketenpartner zelf tot wijziging van de persoonsgegevens over. 
+ 
+ 
+ 
+  
+ Pagina 35 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+8 Vernietigen van biometrische gegevens 
+8.1 Inleiding 
+ 
+In de Vreemdelingenwet is bepaald dat de in de vreemdelingenadministratie 
+opgenomen biometrie vernietigd moet worden, waarin het als volgt wordt verwoord:  
+ 
+De vernietiging van de in de vreemdelingenadministratie opgenomen gegevens, 
+waarbij geldt dat gezichtsopnames en vingerafdrukken 5 jaar nadat de aanvraag tot 
+het verlenen van een machtiging tot voorlopig verblijf is afgewezen, of, in geval van 
+rechtmatig verblijf, de betrokken vreemdeling wiens rechtmatig verblijf is geëindigd, 
+Nederland aantoonbaar heeft verlaten, dan wel, indien tegen de vreemdeling een 
+inreisverbod is uitgevaardigd of de vreemdeling ongewenst is verklaard, tien jaar na 
+afloop van de geldigheidsduur van het inreisverbod onderscheidenlijk de 
+ongewenstverklaring, en deze gegevens in ieder geval worden vernietigd zodra 
+Onze Minister bekend is dat de betrokkene niet langer behoort tot de categorie 
+vreemdelingen waarvan deze kunnen worden afgenomen. 
+ 
+8.2 Proces van vernietiging 
+ 
+Iedere maand selecteert de beheerder van de BVV de v-nummers waarbij biometrie 
+is opgeslagen die in aanmerking komt om 3 maanden later vernietigd te worden. De 
+beheerder stuurt maandelijks de lijst met v-nummers naar de identificerende 
+ketenpartners. De ketenpartners beoordelen binnen een maand of de biometrie 
+voldoet aan de criteria uit de wet om vernietigd te worden. Uiterlijk na een maand 
+laten de ketenpartners aan de beheerder van de BVV weten welke biometrie wel en 
+niet in aanmerking komt. Hiervoor controleren zij in hun eigen administratie of er 
+t.a.v. elk v-nummer op de lijst een contra indicatie is tegen het vernietigen. 
+De beheerder van de BVV zorgt er daarna voor dat de biometrie die vernietigd moet 
+worden ook verwijderd wordt uit de BVV. 
+ 
+ 
+ 
+  
+  
+ Pagina 37 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 1 Basisvoorziening Vreemdelingen (BVV) 
+De BVV is het centrale informatiesysteem in de vreemdelingenketen waarin alle 
+basisgegevens van vreemdelingen in Nederland zijn opgeslagen. Het systeem is in 
+2003 in gebruik genomen, in eerste instantie door de Vreemdelingenpolitie en de 
+IND, en in de jaren daaropvolgend door de overige organisaties in de 
+vreemdelingenketen. De database van de BVV wordt gevuld en gewijzigd vanuit de 
+systemen van aangesloten partijen in de vreemdelingenketen, de zogenaamde 
+ketenpartners. Verder kunnen aangesloten ketenpartners gegevens van 
+vreemdelingen opzoeken op de BVV. De centrale database is omringd met 
+programmatuur die de gegevensuitwisseling met de ketenpartners afhandelt. De 
+gegevens worden uitgewisseld met behulp van standaard XML-berichten. Voor de 
+fysieke afhandeling van deze berichten is de BVV voorzien van specifieke software, 
+een zogenaamde berichtenmakelaar. Ook de ketenpartners beschikken over een 
+dergelijke voorziening. De BVV kent geen directe gebruikers. De ketenpartners 
+maken gebruik van hun eigen procesondersteunende systemen die via XML-
+berichtenverkeer in verbinding staan met de BVV. 
+ 
+De BVV geeft het vreemdelingnummer (v-nummer) uit. Dit is het unieke nummer 
+waaronder de vreemdeling bekend is zodra deze is geregistreerd in de BVV. Het v-
+nummer wordt ketenbreed gebruikt. 
+ 
+1 Inhoud van de BVV 
+In de BVV worden de volgende gegevens opgeslagen: 
+Persoonsgegevens. Hierin bevinden zich alle basisgegevens van 
+− 
+vreemdelingen in Nederland. Het gaat dan vooral om gegevens van naam, 
+geboorte, geslacht, adres, nationaliteit, verblijfsrecht, BRP-gegevens.
+ 
+Verwijzingen of activiteiten. In dit register worden verwijzingen naar 
+− 
+processen en activiteiten opgenomen per vreemdeling.
+ 
+Kaartgegevens. Hierin zijn gegevens van vreemdelingendocumenten die 
+− 
+zijn uitgegeven door de Identiteit & Diensten BV (voorheen Morpho) 
+opgenomen. 
+ 
+Biometrische gegevens. Van alle vreemdelingen, uitgezonderd de gevallen 
+− 
+vermeld in bijlage 2, worden 10 platte vingerafdrukken en een 
+gezichtsopname opgeslagen. 
+ 
+Documentgegevens. In dit register kunnen gegevens van identificerende 
+− 
+documenten worden opgenomen.
+ 
+ 
+2 Functionaliteit 
+  Met de BVV worden in hoofdlijnen de volgende functionaliteiten ondersteund: 
+Registreren vreemdelingen. De vijf identificerende ketenpartners kunnen 
+− 
+vreemdelingen registreren. Het gaat dan om IND, NP, KMar en BZ. Bij het 
+registreren wordt gecontroleerd of de gegevens eventueel al voorkomen, 
+om dubbele registraties te vermijden. De BVV geeft bij registratie het 
+unieke v-nummer uit.
+ 
+Zoeken vreemdelingen. Vreemdelingen kunnen op twee wijzen worden 
+− 
+opgezocht: met gebruik van exacte zoekcriteria, of door middel van 
+intelligent zoeken. Er kunnen diverse unieke nummers worden gebruikt: 
+het vreemdelingnummer (v-nummer), het BSN, het A-nummer, het 
+strafrechtketennummer (SKN), maar er kan ook worden gezocht op 
+combinaties van bijvoorbeeld naamsgegevens, geboortedatum, 
+geboorteland, et cetera. Met behulp van intelligent zoeken kan 
+  
+ Pagina 39 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ 
+Figuur 2 Architectuur van de BVV – de omgeving 
+ 
+  
+ Pagina 41 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ 
+Bijlage 2 Bijzonderheden bij het afnemen van vingerafdrukken 
+Vingerafdrukken van onvoldoende kwaliteit 
+Indien het niet mogelijk is om na herhaalde pogingen (minimaal 3 keer) alle 10 de 
+vingerafdrukken met voldoende kwaliteit af te nemen, wordt het beste resultaat 
+opgestuurd. De beschrijving van het beste resultaat is beschreven onderdeel van de 
+specificaties van de BVV. 
+ 
+Afname vingerafdrukken tijdelijk onmogelijk 
+Voor zover het voor een vreemdeling tijdelijk fysiek niet mogelijk is om één of 
+meerdere vingers op de scanner te plaatsen dan wordt er van de betreffende 
+vinger(s) geen scan opgenomen en in plaats daarvan de vermelding “tijdelijk 
+trauma”. Het is tijdelijk niet mogelijk om de vingerafdrukken af te nemen wanneer: 
+ 
+• Het te scannen deel van de vinger(s) verbonden is; 
+• Het voor betrokkenen niet mogelijk is om de vinger(s) naar behoren op de 
+scanner te plaatsen als gevolg van een tijdelijke lichamelijke afwijking.  
+ 
+Indien het tijdelijk onmogelijk is om een vingerafdruk af te nemen zal de 
+vreemdeling zich opnieuw moeten melden om een vingerafdruk van de 
+desbetreffende vinger(s) af te laten nemen. 
+ 
+Afname vingerafdrukken onmogelijk 
+Wanneer het voor een vreemdeling fysiek niet mogelijk is om één of meerdere 
+vingers op de scanner te plaatsen dan wordt er van de betreffende vinger(s) geen 
+scan opgenomen en in plaats daarvan de vermelding “permanent trauma”. Het is 
+niet mogelijk om de vingerafdrukken af te nemen wanneer: 
+ 
+• Het te scannen deel van de vinger(s) er niet is; 
+• Het voor betrokkenen niet mogelijk is om de vinger(s) naar behoren op de 
+scanner te plaatsen als gevolg van een lichamelijke afwijking. 
+ 
+Vingerafdrukken in het asielproces 
+Na onderzoek van een hit door een dactyloscoop van het Landelijk Forensisch 
+Service Centrum (LFSC) volgt een bevestigingsbericht (of evt. een correctie van de 
+hit).De originele dactyslip wordt verzonden aan de dNRI voor opslag. 
+Zie voor meer informatie over het LFSC deze site. 
+ 
+Vingerafdrukken van te hervestigen vluchtelingen 
+Zie paragraaf 5.1 van het protocol.  
+ 
+ 
+  
+ Pagina 43 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 3 Persoonsgegevens met diakritische tekens 
+ 
+ 
+De standaard voor het registreren van persoonsgegevens in de BVV is dat deze – 
+conform de notatiewijze in de BRP - met diakritische tekens (zoals ñ, ç of ö) worden 
+geregistreerd. 
+Een uitzondering hierop is gemaakt voor de persoonsgegevens, die met behulp van 
+de documentscanner aan de Machine Readable Zone (MRZ) worden ontleend en 
+overgenomen in NVIS, het visuminformatiesysteem van het ministerie van 
+Buitenlandse Zaken. De volgende voorwaarden zijn verbonden aan het registreren 
+van persoonsgegevens zonder diakritische tekens in de BVV: 
+ 
+a Registratie van de geboortedatum, nationaliteit en het land van afgifte van het 
+identiteitsdocument dienen te voldoen aan de standaarden die gelden in de 
+vreemdelingenketen. 
+b De MRZ heeft een beperkt aantal posities voor voor- en achternaam, met het 
+gevolg dat langere naamgegevens worden afgekapt. In deze gevallen dienen 
+de naamgegevens te worden aangevuld tot de volledige naamgegevens. 
+c Indien wijzigingen dienen te worden aangebracht in de MRZ-scan (zie onder a. 
+of b.) of indien het identiteitsdocument niet is voorzien van een MRZ, worden 
+de persoonsgegevens volledig conform het identiteitsdocument overgenomen, 
+dus inclusief diakritische tekens. 
+d De ‘bron persoonsgegevens’ van gegevens die aan de MRZ zijn ontleend is 
+‘MRZ van een identificerend officieel document persoonsgegevens’ conform de 
+ketentabel ‘Bron persoonsgegevens’. 
+e Persoonsgegevens in de BVV mét diakrieten worden niet vervangen door 
+persoonsgegevens zónder diakrieten. 
+  
+ Pagina 45 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 4 Intelligent zoeken in de BVV 
+Vooraf 
+Onderstaande tekst is bedoeld als materiaal, dat door de ketenpartners gebruikt kan 
+worden in hun instructies aan de gebruikers van de ketenpartnersystemen. 
+De tekst behandelt het intelligent zoeken in de BVV. Andere zoekmogelijkheden 
+(zoals exact zoeken op nummer, zoeken op de juiste schrijfwijze, zoeken op 
+nationaliteit + geboortedatum) worden hier niet behandeld. Het kan immers per 
+ketenpartner verschillen hoe de verschillende zoekmogelijkheden in het eigen 
+systeem worden geïmplementeerd. 
+Evenmin wordt ingegaan op de presentatie van de zoekresultaten: het is namelijk 
+aan de ketenpartner om te kiezen hoeveel resultaten worden getoond, en hoe deze 
+worden gesorteerd. 
+ 
+Intelligent zoeken in de BVV 
+De BVV bevat software, die zogenaamd intelligent zoeken mogelijk maakt.  
+Het kenmerk van intelligent zoeken is dat bij het vergelijken niet alleen wordt 
+nagegaan of de gegevens exact met elkaar overeenkomen, maar ook of de 
+gegevens op elkaar lijken, bijvoorbeeld: 
+ 
+• een achternaam die overeenkomt met een voornaam draagt bij aan de score; 
+• namen en plaatsnamen die fonetisch, d.w.z. in klank, overeenkomen worden 
+herkend als op elkaar lijkend, bijv. Muhammad wordt herkend als lijkend op 
+Mohamed; 
+• een klein verschil tussen twee data maakt dat data op elkaar lijken. 
+Veelvoorkomende typfouten worden in de vergelijking van data betrokken. 
+ 
+Sommige gegevens kunnen alleen exact worden vergeleken, m.n. de gegevens die 
+als code worden opgegeven, zoals nationaliteit of land. 
+ 
+Als u onderstaande aanwijzingen volgt, zult u optimaal profiteren van deze 
+intelligentie. 
+Het intelligent zoeken wordt toegepast bij het zoeken, bij het registreren van een 
+vreemdeling en bij het samenvoegen van vreemdelingnummers. 
+ 
+Twee zoekingangen 
+Er zijn 2 zoekingangen voor het intelligent zoeken. 
+De BVV regelt op basis van de ingevulde gegevens automatisch welke zoekingang 
+wordt genomen. 
+ 
+1 Beknopt zoeken  
+Met deze zoekingang zoekt u op een beperkte set gegevens, namelijk: 
+− geslachtsnaam (verplicht); 
+− geslacht (verplicht); 
+− voornaam/voorvoegsel; 
+− geboortedatum 
+− nationaliteit 
+ 
+Als u deze 5 gegevens met enige zekerheid kent, geeft deze zoekingang het beste 
+resultaat. 
+ 
+2 Uitgebreid zoeken 
+Met deze zoekingang zoekt u op zoveel mogelijk gegevens, dat wil zeggen: 
+  
+ Pagina 47 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ 
+Let op: als u een nieuwe vreemdeling registreert met een beperkt aantal gegevens 
+is de kans op een dubbele registratie veel groter dan wanneer u de vreemdeling met 
+de volledige set gegevens registreert. Door het ontbreken van gegevens zal immers 
+niet een sterke overeenkomst tussen de ingevulde gegevens en een reeds 
+geregistreerde vreemdeling worden gevonden. 
+ 
+Samenvoegen vreemdelingnummers 
+U wilt twee vreemdelingnummers samenvoegen, omdat is geconstateerd dat één 
+vreemdeling onder twee verschillende nummers in de BVV is geregistreerd. Voordat 
+de BVV daadwerkelijk tot samenvoegen overgaat, wordt gezocht of de gegevens 
+voldoende met elkaar overeenkomen. Alle gegevens worden in deze vergelijking 
+betrokken. Als de vergelijking een score geeft van minder dan 80, krijgt u daarvan 
+deze melding: “Het matchingspercentage is te laag.” U geeft vervolgens aan of u 
+door wilt gaan met het samenvoegen van de twee vreemdelingennummers, of dat u 
+de samenvoegprocedure wilt beëindigen. 
+ 
+Zoekmogelijkheden op de BVV 
+ 
+Nr Zoekmogelijkheid Verplichte Optionele zoekcriteria 
+zoekcriteria 
+1 Intelligent zoeken Geslachtsnaam, Voornaam, voorvoegsel, 
+geslachtsaanduiding geboortegegevens, 
+overlijdensgegevens, 
+BRP-adresgegevens, 
+adresgegevens 
+buitenland, nationaliteit 
+en naamgegevens van 
+de ouders 
+16
+2 Zoeken op juiste schrijfwijze Geslachtsnaam, Voornaam, voorvoegsel, 
+Is een “selectievakje” in het eigen geslachtsaanduiding geboortegegevens, 
+ketenpartnersysteem. overlijdensgegevens, 
+ BRP-adresgegevens, 
+Bij “Zoeken op juiste schrijfwijze” wordt adresgegevens 
+niet intelligent gezocht, maar op de juiste buitenland, nationaliteit 
+schrijfwijze. Als de gezochte naam ook en naamgegevens van 
+maar 1 letter afwijkt van een naam in de ouders 
+BVV wordt deze persoon niet gevonden. 
+                                                
+16
+ Bij “Zoeken op juiste schrijfwijze” wordt niet intelligent gezocht, maar op de juiste 
+schrijfwijze. Als de gezochte naam ook maar 1 letter afwijkt van een naam in BVV wordt deze 
+persoon niet gevonden. 
+  
+ Pagina 49 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Nr Opgegeven zoekcriteria Gevonden Zoekmogelijkheid 
+F Mohammed el Massouri, mannelijk, Mohammed el Intelligent zoeken 
+geboren te Harare in Zimbabwe Massourasi, geboren 12- (Uitgebreid) 
+nov-1978, Harare, 
+Zimbabwe, nat. 0106 
+SCORE circa 62 
+G Mohammed el Alahambra, mannelijk, Code 1042 = Geen Intelligent zoeken 
+geboren te Harare in Zimbabwe treffers gevonden. Door (Uitgebreid) 
+de andere achternaam 
+en de beperkte 
+gegevens, komt de 
+score onder de 60 uit en 
+meldt BVV dat er geen 
+17
+treffers zijn .  
+H Mohammed el Massourasi, geboren te Mohammed el Zoeken op juiste 
+Harare in Zimbabwe + optie “juiste Massourasi, geboren 12- schrijfwijze 
+schrijfwijze” nov-1978, Harare, 
+Zimbabwe, nat. 0106 
+I Mohammed el Masourasi, geb. te Harare Code 1042 = Geen Zoeken op juiste 
+in Zimbabwe + optie “juiste schrijfwijze” treffers gevonden omdat schrijfwijze 
+in dit geval MASOURASI 
+maar met één “s” is 
+gespeld, wordt deze niet 
+gevonden 
+J V-nummer 2701079549 Vreemdeling: Hassan el Exact zoeken 
+Abdellaoui, geboren 12-
+feb-1954, te Ankara 
+(Turkije), nationaliteit 
+0080, A-nummer 
+2435465768 
+K A-nummer 2435465768 Vreemdeling: Hassan el Exact zoeken 
+Abdellaoui, geboren 12-
+feb-1954, te Ankara 
+(Turkije), nationaliteit 
+0080, A-nummer 
+2435465768 
+                                                
+17
+ De BVV meldt in dit geval dat er [Geen treffers gevonden] zijn. Dat betekent niet dat de 
+vreemdeling niet in BVV voorkomt. Het betekent dat op basis van de opgegeven zoekcriteria 
+niet vastgesteld kan worden dat er een “gelijkende vreemdeling” in BVV is. Deze melding 
+wordt gegeven bij een score lager dan 60. 
+  
+ Pagina 51 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 5 Vingerafdrukken in de BVV zonder V-nummer 
+In het BVV-biometrieregister zijn de vingerafdrukken en naamsgegevens 
+overgenomen van de vreemdelingen die in het kader van vreemdelingentoezicht 
+en/of het aanvragen van asiel in de voorafgaande jaren in Havank zijn 
+geregistreerd. Deze vingerafdrukken en naamsgegevens zijn niet gekoppeld aan een 
+V-nummer in de BVV. In het spraakgebruik wordt deze groep gegevens in de BVV 
+wel aangeduid als de restgroep. Van de gegevens uit de restgroep kan en moet 
+gebruik gemaakt worden in het identificatieproces. De Nationale Politie en de 
+Koninklijke Marechaussee zijn de ketenpartners die bij de identiteitsvaststelling in 
+het kader van vreemdelingentoezicht en grensbewaking vingerafdrukken afnemen. 
+Hieronder wordt toegelicht welke stappen daarin worden doorlopen. 
+ 
+1 Gegevens invoeren 
+De persoonsgegevens worden ingevoerd, de vingerafdrukken worden 
+afgenomen en een gezichtsopname wordt gemaakt.  
+ 
+2 Gegevens controleren in de BVV  
+Nagegaan wordt of de afgenomen vingerafdrukken reeds onder een V-nummer 
+in de BVV bekend zijn. Zo ja, dan worden de in de BVV bekende gegevens 
+getoond en kan het identificatie- en registratieproces op de gebruikelijke wijze 
+worden afgerond. Zo niet, dan worden de gegevens onder een nieuw V-
+nummer in de BVV geregistreerd. In het geval van een nieuwe registratie wordt 
+nagegaan of de afgenomen vingerafdrukken voorkomen in de restgroep. Bij het 
+aantreffen van overeenkomende vingerafdrukken in de restgroep wordt door 
+de BVV de relatie met deze gegevens gelegd door het slipnummer van het 
+oudste dactyloscopisch signalement vast te leggen als biometrienummer in de 
+BVV.  
+ 
+3 Restgroep onderzoeken  
+Als de vingerafdrukken voorkomen in de restgroep, worden alle 
+persoonsgegevens getoond die op het dactyloscopisch signalement zijn 
+vermeld. Deze persoonsgegevens zijn destijds in het zogenaamde dacty-
+namensysteem (DANA), behorend bij Havank, geregistreerd. Als er sprake is 
+van meerdere dactyloscopisch signalementen worden alle bijbehorende sets 
+persoonsgegevens getoond. Dit proces wordt ondersteund door het 
+informatiesysteem van de ketenpartner zelf (PSH-V of VBS).  
+ 
+4 Dubbele en onjuiste registraties voorkomen  
+De kans is groot dat een vreemdeling die in de restgroep voorkomt reeds 
+eerder in de BVV geregistreerd is. Om dubbele registraties te voorkomen is het 
+dan ook van groot belang dat wordt nagegaan of op basis van de 
+persoonsgegevens van de dactyloscopisch signalementen in het verleden een 
+BVV-registratie is gedaan. Zie voor een nadere uitwerking bijlage 9 
+Samenvoegen registraties. 
+ 
+  
+ Pagina 53 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 6 Toelichting op de ketentabel ‘Bron persoonsgegevens’ 
+ 
+Door de identificerende ketenpartner wordt in het personenregister vastgelegd op 
+basis van welk(e) document(en) de gegevens zijn opgenomen of gewijzigd. De 
+identificerende ketenpartners hanteren daarbij de tabel Bron Persoonsgegevens uit 
+het gegevenswoordenboek voor de vreemdelingenketen. Deze tabel heeft de 
+volgende indeling: 
+ 
+1 Identificerend officieel document persoonsgegevens, gecombineerd met niet-
+identificerend officieel document persoonsgegevens. 
+2 Identificerend officieel document persoonsgegevens. 
+3 Niet-identificerend officieel document persoonsgegevens. 
+4 Niet-officieel document persoonsgegevens. 
+5 Eigen verklaring. 
+6 Verklaring door derden. 
+7 Brondocumenten bekend bij BRP. 
+8 MRZ van een identificerend officieel document persoonsgegevens. 
+ 
+Doordat de identificerende ketenpartner bij de registratie van persoonsgegevens in 
+de BVV aangeeft aan welke documenten de persoonsgegevens zijn ontleend, 
+kunnen de ketenpartners die de persoonsgegevens gebruiken, bepalen hoe sterk de 
+persoonsgegevens zijn. Het streven is om zo sterk mogelijke persoonsgegevens in 
+de vreemdelingenketen te verkrijgen. Zodra een ketenpartner de mogelijkheid ziet 
+om de persoonsgegevens te versterken, wordt de procedure voor het wijzigen van 
+persoonsgegevens gevolgd. Om te kunnen bepalen of nieuwe informatie tot een 
+wijzigingsprocedure leidt moet men de hiërarchie in de tabel kennen. Hieronder 
+volgt na een toelichting op de afzonderlijke waarden een resumé, waarin de 
+hiërarchie wordt toegelicht. 
+ 
+ad 1. 
+Met een identificerend officieel document persoonsgegevens wordt bedoeld een 
+nationaal paspoort of een EU-identiteitsdocument dat is afgegeven door een daartoe 
+bevoegde autoriteit van het land waarvan men onderdaan is. Dit type documenten 
+bevat biometrische gegevens van de houder (in ieder geval een gezichtsopname en 
+een handtekening, maar het kunnen in aanvulling daarop ook vingerafdrukken zijn) 
+ten einde te kunnen beoordelen of het document bij de houder hoort. Met een niet-
+identificerend officieel document persoonsgegevens wordt gedoeld op documenten 
+als een geboorteakte, huwelijksakte, afgegeven door een daartoe bevoegde 
+autoriteit van het land waarvan men onderdaan is. Dit type documenten bevat geen 
+gezichtsopname of andere hulpmiddelen om te beoordelen of ze behoren bij een 
+bepaald persoon en zijn derhalve niet-identificerend. De combinatie van een 
+identificerend en niet-identificerende officiële documenten persoonsgegevens kan 
+echter als de sterkste vorm van onderbouwing van de identiteit worden aangemerkt, 
+omdat de niet-identificerende documenten bijdragen aan de onderbouwing van de 
+echtheid van het identificerende document. Deze combinatie is identificerend. Ook 
+een laissez-passer dient te worden aangemerkt als een identificerend officieel 
+document persoonsgegevens. 
+ 
+ad 2. 
+Met een identificerend officieel document persoonsgegevens wordt bedoeld een 
+nationaal paspoort of een EU-identiteitsdocument dat is afgegeven door een daartoe 
+bevoegde autoriteit van het land waarvan men onderdaan is. Dit type documenten 
+  
+ Pagina 55 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ad 7. 
+De tabelwaarde ‘Brondocumenten bekend bij BRP’ wil zeggen dat bij de 
+gemeente/BRP bekend is aan welke brondocumenten de BRP-persoonsgegevens zijn 
+ontleend. Het brondocumentenstelsel van de BRP is in de wet Basisregistratie en 
+Personen (BRP) beschreven en kent een andere indeling en hiërarchie dan de tabel 
+‘Bron persoonsgegevens’ van de vreemdelingenketen. Bij voorkeur ontleent de BRP 
+de persoonsgegevens aan akten of rechterlijke uitspraken, nadat de identiteit is 
+18
+vastgesteld aan de hand van een paspoort of identiteitsdocument . Het is echter 
+ook mogelijk dat de BRP-gegevens zijn ontleend aan de Verklaring onder eed of 
+belofte. Dit brondocument staat in het BRP-brondocumentenstelsel onderaan in de 
+hiërarchie. In de (historische) BVV-persoonsgegevens en/of in het BVV-
+documentenregister kan worden nagegaan of de vreemdeling in de 
+vreemdelingenketen is geïdentificeerd op basis van een nationaal paspoort of EU-
+identiteitsdocument. 
+ 
+ad 8.  
+Gegevens die zijn ontleend aan de MRZ van een identificerend officieel document 
+persoonsgegevens doen in sterkte niet onder voor gegevens die zijn ontleend aan 
+een identificerend officieel document persoonsgegevens. Er is gekozen voor een 
+aparte tabelwaarde voor de MRZ van een identificerend officieel document 
+persoonsgegevens om duidelijk te maken dat in de geregistreerde gegevens 
+mogelijk diakritische tekens ontbreken, die op het identificerend document wel 
+voorkomen. Een ketenpartner die hiermee in aanraking komt, is niet genoodzaakt 
+om tot wijziging van de persoonsgegevens over te gaan. Zodra de betreffende 
+persoon zich in Nederland vestigt en zich in de BRP laat inschrijven, zorgt de BRP 
+voor levering van persoonsgegevens voorzien van evt. diakrieten, zoals trema’s en 
+accenten. 
+ 
+Hiërarchie in de tabel 
+ 
+1, 2 en 8 
+De betreffende persoon is in persoon verschenen bij een van de identificerende 
+ketenpartners, die de identiteit van de persoon heeft kunnen vaststellen aan de 
+hand van een echt, eigen, en geldig identificerend officieel document 
+persoonsgegevens. De identiteit is vastgesteld en er behoeft geen nader onderzoek 
+te worden gedaan.  
+ 
+3, 4 en 5 
+De identiteit kon niet op basis van officiële identificerende documenten, afgegeven 
+door een daartoe bevoegde autoriteit van het land waarvan men onderdaan is, 
+worden vastgesteld. Van deze categorie personen, bij wie de identiteit en 
+nationaliteit niet kan worden vastgesteld, worden vingerafdrukken geregistreerd. 
+Twijfel aan de identiteit is een grondslag voor de toezichthoudende ketenpartners 
+om een identiteitsonderzoek jegens betrokkene in te (laten) stellen. Dit onderzoek 
+kan onder meer bestaan uit het afnemen en controleren van biometrische 
+kenmerken en het raadplegen van systemen. Het streven is de identiteit van deze 
+personen te onderbouwen met een identificerend officieel document 
+persoonsgegevens. Slaagt men hierin niet dan worden de meest betrouwbare 
+persoonsgegevens geregistreerd. De ketenpartner die de persoonsgegevens 
+overneemt is zich bewust van de beperkte mate van betrouwbaarheid. 
+                                                
+18 De achtergrond hiervan is dat bij de geboorte van een kind in Nederland een geboorteakte 
+wordt opgemaakt, die wordt ingeschreven in de Burgerlijke Stand. Op grond hiervan wordt het 
+kind in de BRP ingeschreven en kan een identiteitsdocument worden verstrekt. De 
+geboorteakte ligt dus ten grondslag aan alle verdere registraties. 
+  
+ Pagina 57 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Tabel ‘Bron persoonsgegevens’ 
+Code Brongegeven Voorbeeld Afgegeven Biometrie op Identi Nader ID 
+door document ficere onderzoek ? 
+nd ? 
+3 Niet- Akte van Bevolkings niet Nee raadplegen 
+identificerend geboorte, administrat standaard systemen op 
+officieel huwelijk of ie aanwezig dacty, 
+document overlijden of een Gezichtsopna
+van de volgende me, overige 
+WID- persoonsgegev
+documenten: ens 
+het rijbewijs, de 
+Nederlandse en 
+EU-
+vreemdelingend
+ocumenten, het 
+reisdocument 
+voor 
+vreemdelingen 
+en 
+vluchtelingen, 
+zeemansboekje, 
+nüfus, 
+trouwboekje 
+       
+4 Niet-officieel bankpas, Maatschap mogelijk Nee raadplegen 
+document bibliotheekpas, pelijke aanwezig systemen op 
+persoonsgegev schooldiploma  instantie dacty, 
+ens Gezichtsopna
+me, overige 
+persoonsgegev
+ens 
+       
+5 Eigen eigen opgave of Betrokkene niet nee raadplegen 
+verklaring weigering aanwezig systemen op 
+opgave van dacty, 
+persoonsgegeve Gezichtsopna
+ns me, overige 
+persoonsgegev
+ens 
+       
+  
+ Pagina 59 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 7 Eurodac 
+Achtergrond 
+ 
+Voor een doeltreffende toepassing van de overeenkomst van Dublin werd op 11 
+december 2000 de eerste Eurodacverordening (2725/2000) van kracht. Op basis 
+van deze verordening is de initiële versie van het Eurodac systeem ontstaan, dat in 
+2003 operationeel is geworden.  
+ 
+Het Eurodac-systeem helpt de lidstaten van de Europese Unie (EU) onder meer met 
+de identificatie van asielzoekers met de identificatie van personen die in verband 
+met een illegale overschrijding van een buitengrens van de Unie zijn aangehouden 
+en met de identificatie van personen die illegaal op Nederlands grondgebied zijn 
+aangetroffen. Door vingerafdrukken te vergelijken, kunnen de EU-lidstaten hierdoor 
+nagaan of een asielzoeker of een persoon die zich illegaal op het grondgebied 
+bevindt eerder in een andere lidstaat dan wel in Nederland een asielaanvraag heeft 
+ingediend. Dit kan dan vervolgens reden zijn om de vreemdeling over te dragen aan 
+de andere lidstaat voor de behandeling van de asielaanvraag. 
+ 
+Op 26 juni 2013 is de aangepaste Eurodac verordening (603/2013) van kracht 
+geworden. Deze bouwt verder op de eerdere verordening (2725/2000) en heeft een 
+aantal aanpassingen geïntroduceerd in zowel proces als techniek. De aanpassingen 
+met de meeste impact betreffen echter het aansluiten van de strafrechtketen en 
+Europol op Eurodac. Hoewel dit geen verplichting is voor een lidstaat, maakt de 
+Nederlandse strafrechtketen gebruik van deze mogelijkheid. Daarnaast worden 
+bevragingen door Europol enkel via de Nederlandse aansluiting uitgevoerd. Hiervoor 
+is gekozen omdat de locatie van het hoofdkantoor van Europol te Den Haag is 
+gevestigd.  
+ 
+Registratie in Eurodac 
+ 
+Om de verschillende soorten van bevragingen van elkaar te onderscheiden worden 
+verschillende categorieën (zie hierna) gebruikt. De betreffende categorie bepaald 
+dan onder meer of deze wordt geregistreerd en de periode van registratie. Alle 
+lidstaten van de Europese Unie zijn verplicht om bij een asielaanvraag (categorie 1) 
+en een illegale grensoverschrijding (categorie 2) vingerafdrukken te registreren. De 
+overige te registreren gegevens zijn echter beperkt, het gaat hierbij onder meer 
+om: 
+ 
+• het Eurodac nummer (waarin het V-nummer is opgenomen); 
+• de lidstaat van oorsprong; 
+• de plaats en de datum van het verzoek om internationale bescherming (enkel  
+categorie 1); 
+• de plaats en de datum van aanhouding (enkel categorie 2) 
+• het geslacht; 
+• de datum van afname vingerafdrukken; 
+• de datum dat de gegevens aan Eurodac zijn verzonden. 
+ 
+Daarnaast worden afhankelijk naar situatie nog enkele data geregistreerd. Hierbij 
+gaat het om: 
+ 
+• de datum van aankomst van de betrokken persoon na een succesvolle 
+overdracht; 
+  
+ Pagina 61 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+De vingerafdrukken die in categorie 2 zijn geregistreerd worden na 18 maanden 
+gewist.  
+ 
+Raadplegen in categorie 3  
+Het komt voor dat de identiteit van een in een lidstaat illegaal aangetroffen 
+vreemdeling niet is vast te stellen en dat onduidelijk blijft welk land 
+verantwoordelijk is voor deze persoon. In dit geval is het mogelijk na te gaan via de 
+raadpleegfunctie van categorie 3 in Eurodac of een andere lidstaat in de EU mogelijk 
+voor de verwijdering uit de EU van deze persoon verantwoordelijk is. In dit geval 
+wordt de vingerslip in categorie 3 ingevoerd, waarna een eenmalige vergelijking 
+zonder registratie volgt. Is de betrokkene als asielzoeker (categorie 1) bekend, dan 
+volgt een hitmelding. In dit geval kan voor verdere identificatie en het instellen van 
+een claimprocedure contact met Bureau Dublin worden opgenomen. 
+ 
+Raadplegen in categorie 4 
+Onder strikte voorwaarden is het aan de strafrechtketen geoorloofd om Eurodac te 
+raadplegen. Hierbij gaat het met name om het altijd voordien raadplegen van de 
+eigen registers binnen de strafrechtsketen. Een bevraging van Eurodac door de 
+strafrechtsautoriteiten wordt uitgevoerd in categorie 4. 
+ 
+Raadplegen in categorie 5 
+Onder strikte voorwaarden is het aan Europol geoorloofd om Eurodac te raadplegen. 
+Hierbij gaat het met name om het altijd voordien raadplegen van de eigen Europol 
+registers. Een bevraging van Eurodac door Europol wordt uitgevoerd in categorie 5. 
+ 
+Raadplegen in categorie 9 
+In deze situatie wordt door de eerder geregistreerde persoon verzocht om inzage in 
+de eigen Eurodacregistratie. Bij een dergelijk verzoek moet contact worden 
+opgenomen met het Bureau Dublin in Zevenaar. Uitsluitend Bureau Dublin is 
+bevoegd om voor dit doel Eurodac te raadplegen in categorie 9. 
+ 
+ 
+  
+ Pagina 63 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 8 Terug Meld Voorziening (TMV) 
+Met ingang van 1 januari 2010 bestaat voor bestuursorganen de verplichting om 
+terug te melden op actuele authentieke gegevens (= authentieke gegevens die in de 
+actuele categorieën van de persoonslijst voorkomen), indien er gerede twijfel 
+bestaat over de juistheid van deze gegevens. Om te beoordelen of er sprake is van 
+gerede twijfel wordt verwezen naar de website van de Rijksdienst voor 
+Identiteitsgegevens, zie deze site.  
+ 
+Gemeenten, als houders van de BRP, hebben vervolgens de plicht zulke 
+terugmeldingen adequaat te onderzoeken en zo nodig de gegevens te corrigeren. 
+Gemeenten moeten dan ook binnen vijf werkdagen na een melding aangeven wat zij 
+met de terugmelding gaan doen. Zo werken de afnemers van de Basisregistratie 
+Personen mee aan de bevordering van de kwaliteit van de gegevens in de BRP, die 
+ook voor hen wordt bijgehouden. De Terugmeldvoorziening (TMV) is dan ook een 
+integraal onderdeel van het BRP-stelsel. 
+ 
+Deze meldplicht geldt dus ook in de Vreemdelingenketen, immers binnen de keten 
+zijn de in het BRP geregistreerde gegevens leidend. Dit betekend echter niet dat in 
+alle gevallen een melding noodzakelijk is. In de regel kan worden volstaan met het 
+verwijzen van de vreemdeling naar de gemeente van inschrijving om zijn of haar 
+gegevens zelf aan te laten passen. Mocht dit echter geen soelaas bieden is de 
+ketenpartij verplicht om een melding te doen.  
+ 
+Hoe werkt de TMV? 
+Als er een terugmelding op een persoonsgegeven nodig is, dan moet daarvoor het 
+A-nummer of BSN gebruikt worden. Vervolgens moet aangegeven worden: 
+ 
+• om welk rubrieknummer het gaat 
+• wat de verouderde gegevens zijn 
+• wat de nieuwe gegevens moeten zijn 
+• waarom dat zo is. Een toelichting liefst informatie over de bron. 
+ 
+De TMV is een geautomatiseerd terugmeldingssysteem. Het systeem maakt hier een 
+dossier van aan en zorgt ervoor dat dit dossier via het BRP-netwerk naar de juiste 
+gemeente wordt gestuurd. Verder zorgt de TMV dat dit dossier door de afnemers 
+geraadpleegd kan worden. 
+ 
+Voorbeelden wanneer terugmelding, bij een registratie in de BRP, gewenst is:  
+ 
+• “Nationaliteit staatloos”. Indien er aanwijzingen zijn dat de vreemdeling niet 
+staatloos is, maar van bekende of van onbekende nationaliteit, dient er een 
+terugmelding te worden gedaan. Aan een registratie in de BRP als staatloze is 
+een belangrijk recht verbonden, wie in de BRP als staatloos is geregistreerd, is 
+in de naturalisatieprocedure vrijgesteld van het overleggen van buitenlandse 
+documenten bij de gemeente. 
+• “Nationaliteit onbekend” in het geval de IND heeft geconstateerd dat de 
+vreemdeling over een onvervalst geldig nationaal paspoort beschikt.  
+• Geboortedatum 00-00-0000, terugmelden in het geval er betere 
+(bron)gegevens zijn; 
+• Afwijkend binnenlands adres; 
+  
+ Pagina 65 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 9 Samenvoegen registraties 
+Door de implementatie van BVV release 6.6 is het mogelijk gemaakt dat de 
+samenvoegende partij ervoor kiest om de bestaande registratie leidend te laten zijn 
+en de nieuw met biometrie geregistreerde identiteit te laten vervallen. Daarbij 
+worden de vingerafdrukken die in het kader van de nieuwe registratie zijn 
+afgenomen automatisch gekoppeld aan de bestaande registratie. Hiermee is de 
+mogelijkheid gecreëerd om een registratie die bekend is in de keten en waaraan 
+bijvoorbeeld een uitgebreid dossier is verbonden als actuele registratie te 
+handhaven. 
+ 
+Deze vorm van samenvoegen blijft uiteraard aan validaties gebonden:  
+1 Als bij één van beide registraties of bij beide registraties, een 
+SKN(strafrechtsketennummer) is vastgelegd dan mag niet worden 
+samengevoegd.  
+2 Als de te vervallen registratie BRP-geverifieerd is dan mag niet worden 
+samengevoegd, tenzij de leidende registratie hetzelfde BSN heeft als de te 
+vervallen registratie. 
+3 Als beide registraties over biometrie beschikken dan mag alleen worden 
+samengevoegd als de biometrie voldoende overeenkomt. 
+4 Als bij de te vervallen registratie sprake is van een lopend detentieproces (wel 
+een verwijzing 23 IBS en geen verwijzing 24 opheffing IBS) dan mag niet 
+worden samengevoegd. 
+ 
+Hierbij horen de volgende foutmeldingen: 
+Foutsituaties Meldingcode 
+Een van de opgegeven vreemdelingnummers komt niet voor bij een actuele 1010 
+registratie in het persoonsregister 
+De te vervallen registratie is BRP geverifieerd 1033 
+De te vervallen registratie heeft een of meer unieke externe nummers. 1101 
+De te vervallen registratie heeft een lopend detentieproces voor uitzetting. 1111 
+Samenvoegen niet mogelijk omdat de biometriegegevens niet overeen komen. 1514 
+Samenvoegen niet mogelijk omdat alleen de vervallen vreemdeling 1515 
+biometriegegevens heeft. 
+Een van de opgegeven registratie datumtijden komt niet overeen met die van de 2026 
+overeenkomstige actuele registratie 
+ 
+Indien gebruik gemaakt wordt van het samenvoegenvreemdelingbericht dan kunnen 
+ook nog de volgende foutsituaties optreden: 
+ 
+Door een fout in het intelligent zoeken is het niet mogelijk om de overeenkomst in 1036 
+persoonsgegevens te bepalen (alleen bij verwerking van 
+[SAMENVOEGENVREEMDELING] bericht) 
+  
+ Pagina 67 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 10 Mutatieformulier Protocol Identificatie en Labeling (PIL) 
+ 
+Mutatieformulier Protocol Identificatie en Labeling (PIL) (1.3)
+Dossiernummer :
+Toelichting: met * aangegeven velden moeten worden ingevuld.
+Onderwerp * :
+Uw gegevens
+Naam * :
+Telefoonnummer * :
+E-mail :
+Organisatie * :
+Overige informatie
+Datum * :
+Versie van het PIL *
+:
+Eerder soortgelijk voorstel werkgroep PIL? :
+Datum eerder voorstel
+:
+Relatie KMI+, BVV en/of GVK?
+:
+Afgestemd met :
+Toelichting/motivering van het verzoek *
+Eventueel tekstvoorstel
+Bijlage(n) :
+Datum voor publicatie :
+Verdere informatie
+Formulier verzenden
+ 
+  
+ Pagina 69 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 11 Ketenplatform Vreemdelingenketen 
+Aanleiding Ketenplatform Vreemdelingenketen 
+ 
+Als gevolg van de aanpassingen in de vreemdelingenwet gaan meer ketenpartners 
+biometrie als onderdeel van de identiteitsvaststelling inzetten en opslaan. Naast 
+kwaliteitsverbetering van de identiteitsvaststelling, zal dit ook een aantal nieuwe 
+vraagstukken opleveren. Bijvoorbeeld: waar kunnen ketenpartners terecht als zij 
+vragen of twijfels hebben bij het vaststellen of verifiëren van de identiteit van een 
+vreemdeling en wie stelt de identiteit vast als persoonsgegevens elkaar 
+tegenspreken? 
+ 
+Als in het identificatieproces niet snel duidelijkheid kan worden verkregen hoe de 
+ontstane vraagstukken moeten worden opgelost, is de kans groot dat er een 
+onbetrouwbare vreemdelingenadministratie zal ontstaan. Personen die uit zijn op 
+identiteitsfraude of identiteitsdiefstal, kunnen hiervan misbruik maken. Eerder is 
+geconcludeerd dat de vreemdelingenketen nog niet voldoende is voorbereid op de 
+ketenbrede ingebruikname van biometrie bij de identiteitsvaststelling. 
+ 
+In de nota “Voorstel tot uitwerken van centrale coördinatie en regie op het gebied 
+van identiteitsvaststelling” ten behoeve van het Kernteam Centrale Coördinatie 
+Vreemdelingenketen (hierna: KT CGV) van 5 april 2012, is deze problematiek 
+beschreven. In vervolg hierop heeft het programma Biometrie in de 
+Vreemdelingenketen (BVK) van de voormalige programmadirectie 
+Identiteitsmanagement en Immigratie (IDMI), in nauwe samenwerking met de 
+ketenpartners, een notitie opgesteld genaamd “Scenario’s voor centrale coördinatie 
+en regie op het gebied van identiteitsvaststelling in de vreemdelingenketen. Hierin is 
+een drietal scenario’s beschreven die voorzien in een centrale regie en coördinatie 
+op het beheer van persoonsgegevens. Het advies was om te kiezen voor een nadere 
+uitwerking van scenario 2: het oprichten van een (vreemdelingen) ketenbreed 
+Ketenplatform op het gebied van biometrie. Het KT CGV heeft deze notitie 
+geaccordeerd tijdens de vergadering op 18 oktober 2012. Daarmee is opdracht 
+gegeven voor de vorming van het Ketenplatform, uit te voeren door een 
+projectorganisatie binnen het programma Biometrie in de Vreemdelingenketen van 
+de voormalige programmadirectie Identiteitsmanagement en Immigratie (IDMI). 
+Eind 2014 heeft het Topberaad Vreemdelingenketen bepaald dat het Ketenplatform 
+in principe zal worden voortgezet als permanent platform voor de keten. Waarna het 
+Ketenplatform als standaard ketenvoorziening onderdeel is geworden van de taken 
+van de DRV. 
+ 
+Samenstelling Ketenplatform Vreemdelingenketen 
+Het Ketenplatform bestaat uit een expertteam dat de ketenpartners ondersteunt om 
+tot een unieke identiteitsvaststelling te komen. Het Ketenplatform wordt 
+voorgezeten door een medewerker van DRV. Naast andere medewerkers van de 
+DRV wordt aan dit team deelgenomen door:  
+ 
+• De Immigratie- en Naturalisatiedienst (IND) 
+• Het Centraal Orgaan opvang asielzoekers (COA) 
+• De Dienst Terugkeer en Vertrek (DT&V) 
+• De Koninklijke Marechaussee (KMar) 
+• De Nationale Politie (NP) 
+• Het Ministerie van Buitenlandse Zaken (BUZA) 
+• De Directie Migratiebeleid (DMB) 
+  
+ Pagina 71 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 12 Leidraad Biometrie Verificatie Ketenpartners 
+Inleiding 
+ 
+Deze leidraad is bedoeld voor de ketenpartners in de vreemdelingenketen om te 
+zorgen voor een eenduidig en transparant toetsingskader bij de inzet van biometrie 
+in de vreemdelingenketen. De ketenpartners vinden het belangrijk dat de inzet van 
+verificatie op overdrachtsmomenten wordt beschreven. Daar vindt de overdracht 
+van de vreemdeling tussen ketenpartners plaats, waarbij het belangrijk is dat de 
+fysieke persoon eenduidig is gekoppeld aan het administratieve dossier dat wordt 
+overgedragen.  
+ 
+De leidraad geeft handvatten waarmee, op tactisch niveau binnen de eigen 
+organisatie of in overleg met andere organisaties, kan worden bepaald of en hoe 
+verificatie met biometrie zou moeten worden ingezet in een werkproces of bij een 
+overdrachtsmoment.  
+ 
+De leidraad werkt aanvullend als sprake is van bevoegdheid tot verificatie met 
+biometrie (beoordelingsruimte). Wanneer het gaat om het uitvoeren van een 
+wettelijke verplichting, dan wordt aangenomen dat de rechtmatigheid van verificatie 
+al is beoordeeld bij het opstellen van de regelgeving.  
+ 
+De huidige leidraad is in samenspraak met de ketenpartners uit de 
+vreemdelingenketen (BZ, KMar, NP/ZHP, IND, NP/AVIM, NP/EVIM, DJI, COA, DT&V) 
+tot stand gekomen. Aangezien de inzet van biometrie nog niet bij alle ketenpartners 
+in praktijk wordt toegepast moet deze leidraad worden gezien als een 
+startdocument om een aanzet te geven tot een ketenbenadering van de inzet van 
+biometrie. 
+ 
+Verificatie met behulp van biometrie in de vreemdelingenketen 
+Redenen om verificatie met biometrie in te zetten 
+ 
+Bij het bepalen of je als ketenpartner wilt verifiëren met behulp van biometrie is de 
+reden waarom je dit wilt medebepalend. De redenen om biometrie in de 
+19
+vreemdelingenketen in te zetten zijn al eerder geïnventariseerd . Bij de inzet van 
+verificatie met biometrie zijn de volgende redenen mogelijk:  
+ 
+− Bestrijding documentfraude, identiteitsfraude en/of illegaliteit 
+Reden om te verifiëren is het voorkomen en herkennen van 
+documentfraude, identiteitsfraude en/of illegaliteit.  
+ 
+− Betrouwbare administraties  
+Het is belangrijk dat de unieke identiteit van de vreemdeling geborgd is. 
+Dit belang is relevant voor overheid en voor de vreemdeling. Het dient ter 
+voorkoming dat gegevens aan de verkeerde vreemdeling worden verstrekt 
+en dat de identiteit van de vreemdeling beschermd blijft tegen misbruik.  
+  
+− Dienstverlening 
+                                                
+19
+ Deze hoofddoelen komen uit de IDMI/BVK sessies voor “nut, noodzaak en 
+effectiviteit van biometrie in de vreemdelingenketen” die medio 2011 met alle 
+ketenpartners zijn geïnventariseerd. Hiervan zijn een drietal hoofddoelen 
+weggevallen die niet voorkomen wanneer het verificatie met biometrie betreft. 
+  
+ Pagina 73 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+ 
+Behoud van unieke identiteit 
+ 
+De indicator “behoud van de unieke identiteit” speelt wanneer er een belang bestaat 
+in de koppeling van de administratieve gegevens en de fysieke aanwezigheid van de 
+vreemdeling. Het gaat om een activiteit ten aanzien van de (persoons)gegevens die 
+betrekking hebben op de vreemdeling, waarbij gegevens worden aangevuld, 
+gewijzigd of onttrokken aan de administratieve gegevens. 
+ 
+Voorbeeld: Het aanbrengen van wijzigingen in (bijzondere) persoonsgegevens 
+Hier kan bijvoorbeeld worden gedacht aan wijzigingen in (bijzondere) 
+persoonsgegevens waarbij het van belang is dat zekerheid wordt verkregen dat degene 
+die een adres wijzigt ook degene is die in de administratie aan deze persoonsgegevens 
+is gekoppeld. Wanneer een vreemdeling bijvoorbeeld tussen ketenpartners wordt 
+overgedragen kan de inzet van biometrie wenselijk zijn ter voorkoming van 
+administratieve en/of fysieke persoonsverwisseling. 
+ 
+Risico  
+ 
+De indicator risico wordt bepaald door de mate van risico voor Minister, 
+organisatie(onderdeel) of vreemdeling wanneer verificatie wordt nagelaten en 
+vervolgens blijkt dat de fysieke vreemdeling en zijn  
+dossier niet gekoppeld zijn. De waardering bij deze indicator wordt bepaald door de 
+kans dat het risico zich voordoet vermenigvuldigd met de impact van het risico 
+wanneer het zich voordoet. Met andere woorden: risico = kans x impact.  
+ 
+Inbreuk op de persoonlijke levenssfeer 
+ 
+Bij deze indicator speelt de impact die verificatie met behulp van biometrie heeft op 
+de persoonlijke levenssfeer van de vreemdeling. Indien een verificatie wordt 
+uitgevoerd, waardoor de verifiërende organisatie beschikt over een (grote) 
+hoeveelheid aan persoonsgebonden/ persoonsgevoelige informatie, dan is er sprake 
+van een grote inbreuk op de persoonlijke levenssfeer. Bij een verificatieantwoord 
+zonder inhoudelijke (dossier)informatie over de vreemdeling is er sprake van kleine 
+inbreuk.  
+Voorbeeld inbreuk op de persoonlijke levenssfeer: Inzage in eigen gegevens 
+Stel dat een vreemdeling de eigen gegevens wil verstrekken aan de gemeente. Hierbij is 
+het van belang dat de juiste administratieve gegevens aan de juiste persoon worden 
+verstrekt. De aard van de gegevens is hierbij van belang. Wanneer medische gegevens 
+aan de verkeerde persoon worden verstrekt dan kan dit worden gezien als een ernstige 
+schending van de privacy. 
+ 
+Economisch belang (bedrijfsvoering/kosten) 
+ 
+Bij deze indicator speelt de impact die verificatie met behulp van biometrie heeft op 
+een of meerdere economisch(e) belang(en). Er kan hierbij worden gedacht aan 
+belangen die rijksbreed spelen (macroniveau), belangen die organisatie- of 
+ketenbreed spelen (mesoniveau), maar ook het belang van de afdeling of de 
+medewerker (microniveau) kan doorslaggevend zijn. Deze indicator wordt bepaald 
+door geldelijke (materiële) belangen die spelen, waarbij ook de inzet van meer 
+personeel omgezet kan worden naar kosten voor de organisatie of keten. Het 
+vertrekpunt van deze indicator kan zijn: de organisatie of de keten.  
+  
+ Pagina 75 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Beoordeling op basis van reden, taak en indicatoren 
+ 
+Het bepalen van input en output  
+ 
+Aan de hand van reden en taakgebied wordt de inzet van biometrie mede bepaald 
+(foto en/of vingerafdrukken tegen document en/of database). De inzet wordt verder 
+bepaald door het toetsen aan relevante indicatoren (voor de betreffende 
+ketenpartner). Met de beoordeling kan een keuze worden gemaakt of en hoe 
+verificatie met behulp van biometrie wordt ingezet. Op deze manier kan een 
+verantwoorde keuze worden gemaakt in de toepassing van biometrie met als doel 
+verificatie. Hierbij zijn de biometrische gegevens die worden gebruikt om de 
+identiteit te verifiëren belangrijk: de omvang van verificatie met biometrie (input). 
+Daarnaast is van belang welk verificatieantwoord wordt beoogd (output).  
+  
+− omvang: welke biometrische gegevens worden gebruikt bij de verificatie  
+ 
+• Zeer Hoog: digitale verificatie van gelaat èn verificatie van 
+vingerafdrukken tegen de vreemdelingenadministratie; 
+• Hoog: digitale verificatie van foto òf het verifiëren van 
+vingerafdrukken tegen de vreemdelingenadministratie; 
+• Midden: digitale verificatie van foto èn het verifiëren van 
+vingerafdrukken tegen een document; 
+• Laag: digitale verificatie van foto òf het verifiëren van 
+vingerafdrukken tegen een document; 
+• Zeer laag: visueel fotovergelijk met document 
+ 
+− vorm van verificatieantwoord (hoogte wordt bepaald aan de hand van de 
+impact op de privacy): 
+ 
+• hoog: bij verificatie wordt een antwoord gevraagd met volledige 
+dossiergegevens 
+• midden: het verificatieantwoord bevat persoonsgegevens om verdere 
+identiteitsvaststelling mogelijk te maken, zoals NAW gegevens, foto 
+en status 
+• laag: bijvoorbeeld alleen een antwoord bekend/onbekend vanuit het 
+register of een antwoord ja/nee bij verificatie tegen een document. 
+ 
+ 
+ 
+ 
+Voorbeeld; dienstverlening 
+ 
+Een vreemdeling wil graag een overzicht van zijn statusgegevens krijgen voor een 
+ 
+aanvraag die hij heeft gedaan bij een gemeentelijke instelling. 
+ 
+De vreemdeling vraagt om een dienst, waarbij hem persoonsgebonden informatie wordt 
+ 
+verstrekt. De juistheid van de verificatie is belangrijk, aangezien de informatie niet 
+ 
+zomaar aan iedereen meegegeven kan worden. Een verificatie met één vingerafdruk kan 
+ 
+voldoende zijn. Het verificatieantwoord kan ook laag zijn, aangezien de vreemdeling de 
+ 
+statusgegevens bij de verantwoordelijke organisatie zal opvragen. De statusgegevens zijn 
+ 
+nie t nodig bij het verificatieantwoord en zullen na verificatie van de identiteit verstrekt 
+ 
+kunnen worden door de verantwoordelijke organisatie. 
+ 
+ 
+ 
+Voorbeeld; handhaving 
+ 
+Er zijn aanwijzingen voor een terroristische aanslag bij een bijeenkomst. 
+ 
+Aangezien het gaat om verscherpte toezichttaken waarbij de nationale veiligheid in het 
+ 
+geding is zal een zware impact op de privacy toegestaan zijn. Verder is een uitgebreide 
+ 
+informatiebehoefte hier aan de orde, zeker wanneer het zou gaan om en zeer specifiek 
+ 
+daderprofiel. 
+  
+ Pagina 77 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+gebruiken voor verificatie. Wanneer verificatie met vingerafdrukken tegen een 
+database niet lukt, is het dan mogelijk om de vingerafdrukken tegen het document 
+te controleren. Per taakgebied zal de oplossing verschillen afhankelijk van de 
+belangen die er op het spel staan. Het is belangrijk ook deze achtervang te 
+beschrijven. 
+ 
+ 
+ 
+  
+ Pagina 79 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 13 De BRP straat 
+Aanleiding BRP-straat 
+Voorafgaand aan de eerste registratie in de Basisregistratie Personen (BRP) van 
+vergunninghouders wordt een proces doorlopen waarbij één of meerdere 
+ketenpartners betrokken zijn bij de identificatie, de registratie in de Basis 
+Voorziening Vreemdelingen (BVV) en vervolgens de registratie in de BRP. In de 
+praktijk bleek dat in dit proces meerdere knelpunten aanwezig waren die vertraging 
+tot gevolg hadden bij de uiteindelijke uitplaatsing van deze vergunninghouders 
+vanuit de COA opvanglocaties naar gemeenten. 
+ 
+Bij de geconstateerde knelpunten moet worden gedacht aan:  
+• problemen met de tenaamstelling en geboortedatum. In het asielproces wordt 
+het namenrecht (Internationaal Privaatrecht) niet toegepast, waardoor soms de 
+naam van de betrokkene verkeerd op het verblijfsdocument wordt vermeld. 
+Hierdoor moeten veel extra administratieve correctiehandelingen plaatsvinden 
+die veelal dubbel van aard zijn. Documenten die al geverifieerd zijn worden 
+bijvoorbeeld door een gemeente nogmaals opgevraagd, beoordeeld en 
+voorgelegd aan bureau Documenten van de IND, terwijl de documenten al in 
+het asielproces zijn beoordeeld;  
+• het ontbreken van voldoende kennis van het gehele proces bij de verschillende 
+partners; 
+• het ontbreken van een burgerservicenummer (BSN), wat noodzakelijk is voor 
+een uitplaatsing van een COA opvanglocatie naar een gemeente voor 
+statushouders; 
+• de beschikbaarheid van tolken. 
+ 
+Naar aanleiding van deze knelpunten is op initiatief van het COA eind 2013 gestart 
+met de werkgroep GBA-inschrijving (inmiddels BRP). Dit heeft geleid tot het 
+inrichten van een pilot ter verbetering van het proces, de zogenaamde “BRP-straat” 
+in Ter Apel. 
+ 
+Pilot BRP-straat 
+Op 1 september 2014 is de pilot BRP-straat van start gegaan. Aan deze pilot is 
+deelgenomen door de gemeente Vlagtwedde (locatie gemeente AC ter Apel), het 
+COA, de IND, de KMar en de Nationale Politie. Deze pilot had tot doel een betere 
+informatie-uitwisseling tussen de afdeling burgerzaken van gemeenten en de 
+vreemdelingenketen ten behoeve van een snellere doorstroom van de 
+vergunninghouder in het uitplaatsingsproces vergunninghouders. Om dit te 
+bewerkstelligen werden de werkprocesafspraken geoptimaliseerd tussen de 
+betrokken partijen, waardoor met name een snelle(re) levering van het BSN-
+nummer en de juiste naam op het verblijfsdocument werd bewerkstelligd. Hierbij 
+20
+was het de insteek dat alle vergunninghouders die positief beschikt zijn in de AA -
+fase en nareizigers in Ter Apel direct worden ingeschreven in de BRP (voorzien van 
+een compleet dossier met gecontroleerde documenten) in de gemeente Vlagtwedde. 
+Vervolgens wordt aan deze personen op een IND loket het verblijfsdocument 
+verstrekt, voorzien van de juiste naam, alvorens ze naar een AZC worden 
+overgeplaatst. Daarnaast is onderzocht of het mogelijk is om tevens alle registraties 
+in de vreemdelingenketen plaats te laten vinden conform het namenrecht, inclusief 
+de BRP-toetsingsmogelijkheid tijdens de AA-procedure (BRP-toets). 
+ 
+                                                
+20
+ AA: Algemene Asielprocedure, voor meer informatie over de AA zie deze link. 
+  
+ Pagina 81 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 14 Systemen binnen de Vreemdelingenketen 
+In deze bijlage worden een deel van de primaire systemen beschreven welke in 
+gebruik zijn binnen de Vreemdelingenketen. 
+ 
+Basis Voorziening Identificatie (BVID) 
+De Basis Voorziening Identificatie (BVID) is een voorziening om verdachte personen 
+(strafrecht) en vreemdelingen (asiel en toezicht) te identificeren, te verifiëren en 
+vervolgens te registreren in achterliggende systemen binnen de strafrechtsketen en 
+de vreemdelingenketen. Hierbij is het doel om te komen tot een integer 
+persoonsbeeld. Met behulp van de BVID wordt grotendeels voorkomen dat 
+verdachten en vreemdelingen met een onjuiste identiteit in de registers van de 
+politie en/of justitie worden opgenomen. De BVID wordt gebruikt door medewerkers 
+van de NP (onder meer de AVIM) en de KMar. 
+ 
+Basis Voorziening Vreemdelingen (BVV) 
+Zie voor informatie over de BVV bijlage 1. 
+ 
+Europees Dactyloscopisch Systeem (Eurodac) 
+Zie voor informatie over Eurodac bijlage 7. 
+ 
+Integraal Bewoners Informatie Systeem (IBIS) 
+Het Integraal Bewoners Informatie Systeem (IBIS) is het primaire systeem van het 
+COA. Voor de uitvoering van zijn taak registreert het COA de persoonsgegevens van 
+de asielzoekers in het IBIS. Het gaat hierbij om algemene persoonsgegevens, zoals 
+voornaam, achternaam als ook bijzondere persoonsgegevens, zoals godsdienst en 
+etniciteit. IBIS heeft daarmee tot doel het beschikbaar hebben van de (meest 
+recente) gegevens omtrent asielzoekers die opgevangen worden bij het COA om 
+zodoende een adequaat opvangbeleid te kunnen ontwikkelen, bepalen en uitvoeren. 
+Dit houdt in:  
+a Informatie leveren ten behoeve van instroom, doorstroom, verblijfsduur, 
+bezetting en uitstroom van asielzoekers die geregistreerd staan bij het COA;  
+b Informatie leveren aan gemeenten voor de huisvesting van asielzoekers die 
+een verblijfsvergunning hebben verkregen;  
+c Periodiek informatie leveren inzake de opvang van de asielzoekers ten behoeve 
+van beleidsvorming betreffende huisvesting van asielzoekers;  
+d Het genereren van statische informatie omtrent de populatie van asielzoekers 
+ten behoeve van beleidsvorming en ten behoeve van instellingen en instanties;  
+e Informatie leveren ten behoeve van de realisatie taakstelling;  
+f Informatie leveren opdat de elektronische verstrekking asielzoekers betaalbaar 
+kan worden gesteld;  
+g Informatie leveren opdat bij de wet- of regelgeving bepaalde vergoedingen aan 
+gemeenten, in het kader van de decentrale opvang, berekend en betaalbaar 
+kunnen worden gesteld. 
+ 
+Indigo 
+Indigo is het klantinformatiesysteem van de Immigratie- en Naturalisatiedienst. In 
+Indigo worden alle zaken waarbij de IND een rol speelt afgehandeld. De basis van 
+Indigo is het scheiden van de kennis van de processen. 
+ 
+Informatiesysteem Terugkeer en Vertrek (IS-TV) 
+De Dienst Terugkeer en Vertrek registreert en verwerkt persoonsgegevens van 
+vreemdelingen die niet (langer) in Nederland mogen verblijven en van 
+  
+ Pagina 83 van 85 
+ 
+
+DEFINITIEF | Protocol Identificatie en Labeling | 6 januari 2017 
+Bijlage 15 Gebruikte afkortingen 
+AC     Aanmeldcentrum 
+AVIM    Afdeling Vreemdelingenpolitie, Identificatie en Mensenhandel 
+BRP     Basisregistratie personen (voorheen de GBA) 
+BSN     Burgerservicenummer 
+BVID    Basis Voorziening Identificatie 
+BVV     Basisvoorziening Vreemdelingen 
+BZ     Ministerie van Buitenlandse Zaken 
+COA     Centraal Orgaan opvang asielzoekers 
+DANA    Dacty-namensysteem 
+DISCS    Documenten Informatiesysteem inzake Civiele Status 
+DJI     Dienst Justitiële Inrichtingen 
+DKI     Deelberaad Keteninformatisering 
+DNRI    Dienst Nationale Recherche Informatie 
+DRV     Directie Regie Vreemdelingenketen 
+DT&V    Dienst Terugkeer en Vertrek 
+ECID    Expertisecentrum Identiteitsfraude en Documenten 
+EEGG    Echt, Eigen, Geldig en Gekwalificeerd. 
+EER     Europese Economische Ruimte 
+EU     Europese Unie 
+EURODAC  Europees Dactyloscopisch systeem 
+EU-VIS    Europees Visum informatie systeem 
+EVIM    Expertisecentrum Vreemdelingen, Identificatie en Mensenhandel 
+GBA     Gemeentelijke Basis Administratie (vervangen door BRP als benaming) 
+IBIS     Integraal Bewoners Informatie Systeem 
+IND     Immigratie- en Naturalisatiedienst 
+INDiGO   IND-systeem primaire processen 
+IS-TV    Informatiesysteem Terugkeer en Vertrek 
+KMar    Koninklijke Marechaussee 
+LE      Landelijke Eenheid 
+LFSC    Landelijk Forensisch Service Centrum 
+LP      Laissez-passer 
+MRZ     Machine Readable Zone 
+MVV     Machtiging Voorlopig Verblijf 
+NP     Nationale Politie 
+NSIS    Nationaal Schengen Informatiesysteem 
+NVIS    Nieuw Visum Informatie Systeem 
+OPS     Opsporingsregister 
+PIL     Protocol Identificatie en Labeling 
+PSH-V    Politie Suite Handhaving Vreemdelingen 
+RvR     Raden voor Rechtsbijstand 
+RvS     Raad van State 
+SCV     Stafdirectie Coördinatie Vreemdelingenketen 
+SKN     Strafrechtketennummer 
+SKDB    Strafrechtsketendatabank 
+SZW     Ministerie van Sociale Zaken en Werkgelegenheid 
+TEV     Toegangs- en Verblijfsprocedure 
+UNHCR    United Nations High Commissioner for Refugees 
+VBS     Vreemdelingen Basissysteem 
+VIP     Verwijsindex Personen (in de strafrechtketen) 
+VK     Vreemdelingenkamers 
+ZHP     Zeehavenpolitie 
+  
+ Pagina 85 van 85 
+ 
+
