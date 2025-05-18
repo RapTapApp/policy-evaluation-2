@@ -13740,3 +13740,218 @@
 [31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mException calling "GetResultsFromNextPage" with "0" argument(s): "              Search results in the archive of        Rijksoverheid                                            [0m
 [31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m[31;1m[36;1m     | [31;1mNumber of items found:7188,               page 713                                                                                                                                  [0m
 [31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m[31;1m[36;1m[31;1m[36;1m     | [31;1mDit document heeft geen onderwerp                                                                                 ("[0m
+[97m[1m[3mStarted downloading all files...[0m
+
+[37m[3m - Search[719] => Got results from page 712[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ beleidsnotas/2015/12/14 ]> mariene-strategie-voor-het-nederlandse-deel-van-de-noordzee-2012-2020-deel-3.pdf[0m[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ begrotingen/2018/09/18/j-deltafonds-rijksbegroting-2019 ]> J_Deltafonds 2019.pdf[0m[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ rapporten/2014/03/31 ]> bijlage-2-nota-van-antwoord.pdf[0m[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ ambtsberichten/2024/06/24 ]> algemeen-ambtsbericht-colombia-juni-2024.pdf[0m[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024 ]> algemeen-ambtsbericht-colombia-2024.pdf[0m[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ publicaties/2015/11/04/bijlagen-bij-besluit-wob-verzoek-declaraties-medewerkers-bzk ]> besluit-wobverzoek-declaraties-medewerkers-bzk-bijlagen.pdf[0m[0m
+
+[37m[3m - Search[719] => Got results from page 713[0m
+[33;1mWARNING: [93m[1m ! File allready exists: [37m[22m[3m[ kamerstukken/2009/09/18/bijlage-nederlands-antilliaanse-regelingen-deel-3 ]> deel22pdf.pdf[0m[0m
+
+[37m[3m - Search[719] => Got results from page 714[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/10/09 ]> tk-bijlage-cahier-2017-12-criminaliteit-en-rechtshandhaving-2016.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/10/15 ]> tk-bijlage-criminaliteit-en-handhaving.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/04/01 ]> rapport-staat-van-bestuur.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2019/11/06 ]> tk-bijlage-criminaliteit-en-rechtshandhaving-2018.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/01/15/kwaliteit-van-mobiliteit ]> hoofdrapport-en-deelstudies-onderzoek-algemene-bestuursdienst-dienst.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2015/02/18 ]> bijlage-1-nota-naar-aanleiding-van-het-verslag-omgevingswet.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/05/14/mensenhandel-in-en-uit-beeld-ii-2014 ]> lp-v-j-0000005552.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/05/29 ]> kamerbrief-over-jaarverslagen-2011-van-de-afm-en-dnb.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 715[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2022/06/09/bijlagen-bij-3e-deelbesluit-financien-op-wob-verzoek-over-webmodule-deel-2 ]> Bijlage4-3e-deelbesluit-financien-wob-verzoek-webmodule.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/07/14 ]> tk-bijlage-rapport-commissie-herziening-wetgeving-ambtsdelicten-kamerleden-en-bewindspersonen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2018/07/18 ]> tk-georganiseerde-criminaliteit-en-ict.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2021/07/12/nederland-versterkt-verandert-vernieuwt-bijlagen ]> eindrapportages-dialoog.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2008/04/18/rapport-uitgenodigede-vluchtelingen-beleid-en-de-maatschappelijke-positie-in-nationaal-en--7C341D98 ]> uitgenodigde-vluchtelingen.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/03/07/eu-arborichtlijnen ]> integraal-verslag-implementatie-eu-arborichtlijnen-2007-2012-2eindversie-2-definitief.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ circulaires/2013/09/17/taakmutatie-2013-september-2013-excel ]> taakmutatie-2013-sep13.xlsx[0m
+
+[37m[3m - Search[719] => Got results from page 716[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2014/12/19/bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toe-9FEF5210 ]> bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toelichting-op-betrokken-5BC54DEF.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ circulaires/2013/09/16/taakmutatie-2014-september-2013-excel ]> taakmutatie-2014-sep13.xlsx[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2024/09/17/a-mobiliteitsfonds-rijksbegroting-2025 ]> A Mobiliteitsfonds Rijksbegroting 2025.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2012/08/17 ]> memorie-van-toelichting-bij-wet-natuurbescherming.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2008/02/01/iob-het-nederlandse-afrikabeleid-1998-2006-evaluatie-van-de-bilaterale-samenwerking ]> iob-rapport-308-pag.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/09/28 ]> tk-bijlage-de-wet-prejudiciele-vragen-aan-de-hoge-raad.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/05/13 ]> overall-rapportage-sociaal-domein-2015.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/03/01/monitor-jeugdcriminaliteit ]> tk-bijlagemonitor-jeugdcriminaliteit.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 717[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2016/03/01 ]> tk-bijlage-monitor-jeugdcriminaliteit.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2017/09/19-en-nationale-schuld-rijksbegroting-2018 ]> IX-Financien.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2019/09/17/ix-financien-en-nationale-schuld-rijksbegroting-2020 ]> 9_Financien.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2012/09/01 ]> begrotingssteun-resultaten-onder-voorwaarden.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2022/07/13/onderzoek-avg-ministerie-van-defensie ]> eiffel-rapport-onderzoek-avg-bij-het-ministerie-van-defensie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2016/09/20/ix-financien-en-nationale-schuld-rijksbegroting-2017 ]> 9.-ix-financien.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ begrotingen/2018/09/18/ix-financien-en-nationale-schuld-rijksbegroting-2019 ]> 9_Financien.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 718[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2007/09/27 ]> georganiseerde-criminaliteit-doc-8720.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ kamerstukken/2010/03/08 ]> bz10-170-bijlage-2-sor-overzichten-per-subsidie.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/03/13/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit ]> dreigingsbeeld.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/03/14/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit ]> lp-v-j-0000002826.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ brochures/2012/06/28 ]> kerncijfers-2007-2011.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2012/05/16 ]> kerncijfers-2007-2011.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ jaarverslagen/2013/05/08/ocw-kerncijfers-2008-2012 ]> onderwijs-cultuur-en-wetenschap-kerncijfers-2008-2012.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ publicaties/2015/10/07 ]> bijlagen-bij-besluit-wob-verzoek-windmolenparken-op-zee.pdf[0m
+
+[37m[3m - Search[719] => Got results from page 719[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/1999/06/29/ldp-iii-vredesoperaties ]> ldp3-vredesoperaties.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2015/12/09/rapport-oosting ]> commissie-oosting-rapport.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/03/13-in-nederland ]> rapport-georganiseerde-criminaliteit.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2013/03/14/georganiseerde-criminaliteit-in-nederland ]> lp-v-j-0000002827.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/02/02 ]> ek-bijlage-rapport-orde-in-de-openbare-orde.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ rapporten/2017/02/02 ]> tk-bijlage-rapport-orde-in-de-openbare-orde.pdf[0m
+[32m[1m * File downloaded: [37m[22m[3m[ beleidsnotas/2011/11/07 ]> nota-van-antwoord-ontwerp-structuurvisie-infrastructuur-en-ruimte.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 1; BatchedItems: 45]...[0m
+[main 546dcb95] Added batch #1 of policy-docs (total: 45
+ 145 files changed, 134812 insertions(+), 1 deletion(-)
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024.pdf
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024/algemeen-ambtsbericht-colombia-2024.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2014/xvii-buitenlandse-handel-en-ontwikkelingsamenwerking-rb2014.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xviii-wonen-en-rijksdienst/xviii-wonen-en-rijksdienst-rb2014.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/j-deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/ix-financien-en-nationale-schuld-rijksbegroting-2016.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/j-deltafonds-rijksbegroting-2016.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2016/09/20/ix-financien-en-nationale-schuld-rijksbegroting-2017/9.-ix-financien.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2016/09/20/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2017/17.-xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2017/09/19-en-nationale-schuld-rijksbegroting-2018/IX-Financien.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2017/09/19-rijksbegroting-2018/A-Infrastructuurfonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2018/09/18/ix-financien-en-nationale-schuld-rijksbegroting-2019/9_Financien.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2018/09/18/j-deltafonds-rijksbegroting-2019/J_Deltafonds 2019.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2019/09/17/ix-financien-en-nationale-schuld-rijksbegroting-2020/9_Financien.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2019/09/17/j-deltafonds-rijksbegroting-2020/J_Deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2020/09/15/j-deltafonds-rijksbegroting-2021/J_Deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2021/09/21/a-mobiliteitsfonds-rijksbegroting-2022/A Mobiliteitsfonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2021/09/21/begroting-nationale-politie-2022/Begroting en beheerplan Politie 2022-2026.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2021/09/21/j-deltafonds-rijksbegroting-2022/J Deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2022/09/20-rijksbegroting-2023/j-deltafonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2022/09/20-rijksbegroting-2023/k-defensiematerieelbegrotingsfonds.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2022/09/20/begroting-nationale-politie-2023/begroting-en-beheerplan-nationale-politie-2023-2027.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2023/09/19/a-mobiliteitsfonds-rijksbegroting-2024.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2023/09/19/j-deltafonds-rijksbegroting-2024.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2023/09/19/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2024/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-2024.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2024/09/17/a-mobiliteitsfonds-rijksbegroting-2025/A Mobiliteitsfonds Rijksbegroting 2025.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2024/09/17/j-deltafonds-rijksbegroting-2025/J Deltafonds Rijksbegroting 2025.pdf
+ create mode 100644 policy-documents/Archive/begrotingen/2024/09/17/xvii-buitenlandse-handel-en-ontwikkelingshulp-rijksbegroting-2025/XVII Buitenlandse Handel en Ontwikkelingshulp Rijksbegroting 2025.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2011/11/07/nota-van-antwoord-ontwerp-structuurvisie-infrastructuur-en-ruimte.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/02/18/bijlage-1-nota-naar-aanleiding-van-het-verslag-omgevingswet.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/12/14/mariene-strategie-voor-het-nederlandse-deel-van-de-noordzee-2012-2020-deel-3.pdf
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/20/beslisnotas-bij-voorjaarsnota-2022/Beslisnota-voorjaarsnota-2022-deel2.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2009/12/09/algemene-douaneregeling/dv08-519.pdf
+ create mode 100644 policy-documents/Archive/besluiten/2013/09/06/ontwerpbesluit-basisregistratie-personen-brp-voorhangprocedure.pdf
+ create mode 100644 policy-documents/Archive/brochures/2009/09/28/mensenrechtenrapportage-2008.pdf
+ create mode 100644 policy-documents/Archive/brochures/2012/06/28/kerncijfers-2007-2011.pdf
+ create mode 100644 policy-documents/Archive/circulaires/2013/09/16/taakmutatie-2014-september-2013-excel/taakmutatie-2014-sep13.xlsx
+ create mode 100644 policy-documents/Archive/circulaires/2013/09/17/taakmutatie-2013-september-2013-excel/taakmutatie-2013-sep13.xlsx
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/05/19/jaarverslag-inspecteur-generaal-der-krijgsmacht-2008/igk-jaarverslag-2008-1.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2009/06/19/jaarverslag-2008-buitenlandse-zaken/res2170.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2012/05/16/kerncijfers-2007-2011.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2013/05/08/ocw-kerncijfers-2008-2012/onderwijs-cultuur-en-wetenschap-kerncijfers-2008-2012.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2021/05/19/jaarverslag-integriteit-defensie-2020.pdf
+ create mode 100644 policy-documents/Archive/jaarverslagen/2023/05/17/jaarrapportage-bedrijfsvoering-rijk-2022.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2007/09/27/georganiseerde-criminaliteit-doc-8720.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2009/09/18/bijlage-nederlands-antilliaanse-regelingen-deel-3/deel22pdf.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2010/02/10/bijlage-mensenrechtenrapportage-2008-kamerbrief-inzake-de-mensenrechtenrapportage-2008/228dmhmr-bijlage-mr-rapportage.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2010/03/08/bz10-170-bijlage-2-sor-overzichten-per-subsidie.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2010/08/20/b-onderzoek-strafrechtelijke-opsporing-en-vervolging-vrouwelijke-genitale-verminking-de-franse-praktijk-doc-21508.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/05/29/kamerbrief-over-jaarverslagen-2011-van-de-afm-en-dnb.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/08/17/memorie-van-toelichting-bij-wet-natuurbescherming.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2012/11/12/antwoorden-op-vragen-over-de-begroting-van-buitenlandse-zaken-2013.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2013/12/12/nota-naar-aanleiding-van-het-verslag-inzake-het-wetsvoorstel-wet-maatregelen-wet-werk-en-bijstand.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2014/03/10/memorie-van-toelichting-wet-langdurige-zorg.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/09/15/belastingplan-2016/bp-2016-wetsvoorstel.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/10/28/beantwoording-kamervragen-over-de-vaststelling-begrotingsstaten-van-het-ministerie-van-defensie.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2015/11/06/bijlage-1-inzake-feitelijke-vragen-begroting-buitenlandse-handel-en-ontwikkelingssamenw-26DB6CF6/p595288-bsg-feitelijke-vragen-buha-os-bijlage-1.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2017/10/18/bijlage-1-begrotingsstaten-van-het-ministerie-van-infrastructuur-en-milieu-voor-2018-34775-xii.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2019/11/19/antwoorden-op-vragen-begroting-buitenlandse-handel-en-ontwikkelingssamenwerking-2020/bijlage-1-kamerbrief-inzake-beantwoording-feitelijke-vragen-begroting-buitenlandse-handel-en-ontwikkelingssamen-CD90A6B0.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/06/27/artikelsgewijze-toelichting-wetsvoorstel-hersteloperatie-toeslagen/artikelsgewijze-mvt-wetsvoorstel-hersteloperatie-toeslagen.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2022/12/22/nota-naar-aanleiding-van-het-verslag-wetsvoorstel-herinvoering-basisbeurs-hoger-onderwijs.pdf
+ create mode 100644 policy-documents/Archive/kamerstukken/2024/05/15/memorie-van-toelichting-slotwet-mobiliteitsfonds-2023/mobiliteitsfonds-memorie-van-toelichting-slotwet-2023.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2015/10/07/bijlagen-bij-besluit-wob-verzoek-windmolenparken-op-zee.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2015/11/04/bijlagen-bij-besluit-wob-verzoek-declaraties-medewerkers-bzk/besluit-wobverzoek-declaraties-medewerkers-bzk-bijlagen.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2016/02/25/bijlagen-bij-wob-besluit-over-het-pgb-dossier/bijlagen-bij-wob-besluit-doc-2-tm-30.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2021/07/06/bijlage-inventarisatie-nationaliteit-svb.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2021/12/03/nota-nav-verslag-tijdelijke-wet-uitbreiding-inzet-coronatoegangsbewijzen.pdf
+ create mode 100644 policy-documents/Archive/publicaties/2022/06/09/bijlagen-bij-3e-deelbesluit-financien-op-wob-verzoek-over-webmodule-deel-2/Bijlage4-3e-deelbesluit-financien-wob-verzoek-webmodule.pdf
+ create mode 100644 policy-documents/Archive/rapporten/1999/06/29/ldp-iii-vredesoperaties/ldp3-vredesoperaties.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2006/07/01/millenniumontwikkelingsdoel-8-voortgangsrapport-2006.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2006/10/31/samenwerkingsprogramma-s-aruba/meerjarenprogrammaaruba2006-2009.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2008/02/01/iob-het-nederlandse-afrikabeleid-1998-2006-evaluatie-van-de-bilaterale-samenwerking/iob-rapport-308-pag.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2008/04/18/rapport-uitgenodigede-vluchtelingen-beleid-en-de-maatschappelijke-positie-in-nationaal-en--7C341D98/uitgenodigde-vluchtelingen.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2009/06/19/commissie-van-advies-advies-nr-14-falende-staten-maart-2005/cavv-aiv-advies-nr-14-falende-staten.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2009/06/23/trimbos-instituut-evaluatie-van-het-nederlandse-drugsbeleid/evaluatie-van-het-nederlandse-drugsbeleid.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2009/07/02-wodc-evaluatie-van-het-nederlandse-drugsbeleid/trimbos.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2011/06/01/rapport-wonen-wijken-interventies/rapport-wonen-wijken-en-interventies.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2012/03/30/evaluatie-wet-medezeggenschap-op-scholen.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2012/09/01/begrotingssteun-resultaten-onder-voorwaarden.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/02/19/jaarrapportage-integratie-2012.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/13-in-nederland/rapport-georganiseerde-criminaliteit.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/13/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit/dreigingsbeeld.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/14/georganiseerde-criminaliteit-in-nederland/lp-v-j-0000002827.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/03/14/nationaal-dreigingsbeeld-2012-georganiseerde-criminaliteit/lp-v-j-0000002826.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2013/04/12/zienswijzen-op-het-voornemen-structuurvisie-windenergie-op-land-en-het-opstellen-van-milieueffectrapport.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/07/eu-arborichtlijnen/integraal-verslag-implementatie-eu-arborichtlijnen-2007-2012-2eindversie-2-definitief.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/03/31/bijlage-2-nota-van-antwoord.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/04/24/mensenrechtenrapportage-2013/b65-623935-a4-mensenrechten-highres.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/05/14/mensenhandel-in-en-uit-beeld-ii-2014/lp-v-j-0000005552.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2014/12/19/bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toe-9FEF5210/bijlage-5b-beleidsdoorlichting-en-kwaliteitsoordeel-over-de-beleidsdoorlichting-en-een-toelichting-op-betrokken-5BC54DEF.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/03/19/rapport-maatwerk-voor-risicojongeren.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/10/15/beleidsdoorlichting-en-evaluatie-artikel-4-1-positie-van-de-client.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/11/30/evaluatie-samenwerkingsprogramma-s-sona-sint-maarten.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2015/12/09/rapport-oosting/commissie-oosting-rapport.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/03/01/monitor-jeugdcriminaliteit/tk-bijlagemonitor-jeugdcriminaliteit.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/03/01/tk-bijlage-monitor-jeugdcriminaliteit.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/05/13/overall-rapportage-sociaal-domein-2015.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/06/21/mensenrechtenrapportage-2015.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2016/09/28/tk-bijlage-de-wet-prejudiciele-vragen-aan-de-hoge-raad.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/01/23/werkplan-igz-2017.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/01/30/scp-rapport-integratie-in-zicht.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/02/02/ek-bijlage-rapport-orde-in-de-openbare-orde.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/02/02/tk-bijlage-rapport-orde-in-de-openbare-orde.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/05/18/haalbaarheid-van-stemprinter-en-stemmenteller.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2017/10/09/tk-bijlage-cahier-2017-12-criminaliteit-en-rechtshandhaving-2016.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/03/07/tk-bijlage-monitor-jeugdcriminaliteit-2017.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/17/tk-bijlage-evaluatie-wet-wederzijdse-erkenning-en-tenuitvoerlegging-vrijheidsbenemende-en-voorwaardelijke-sancties.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/07/18/tk-georganiseerde-criminaliteit-en-ict.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/10/15/tk-bijlage-criminaliteit-en-handhaving.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/12/11/evaluatie-wet-van-wijziging-sbb/Eindrapport_Berenschot_Evaluatie_Wet_van_Wijziging_SBB.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2018/12/21/bijlage-2-kabinetsreactie-bij-beleidsdoorlichting-artikel-22-omgevingsveiligheid-en-milieurisico-s.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/04/01/rapport-staat-van-bestuur.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/06/01/rapport-ontwerp-nationale-omgevingsvisie.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/06/06/ontwerp-nationale-omgevingsvisie.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/06/24/rapport-beleidsdoorlichting-omgevingsveiligheid-en-milieurisico-s.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/09/12/rapport-internationaal-onderzoek-innovaties-reisdocumenten.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/11/06/tk-bijlage-criminaliteit-en-rechtshandhaving-2018.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/11/15/tk-bijlage-beleidsdoorlichting-begrotingsartikel-37-3-terugkeer.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/12/04/tk-rapport-georganiseerde-criminaliteit-in-nederland-daders-verwevenheid-en-opsporing.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/12/16/panteia-eindrapport-onderzoek-levenlanglerenkrediet.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2019/12/17/rapport-financiele-staat-van-het-onderwijs-2018.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2020/01/10/bijlage-3-monitor-netwerkkwaliteit-en-staatsgaranties.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2020/06/10/adviezen-per-instelling-raad-voor-cultuur-over-de-aanvragen-voor-de-culturele-basisinfrastructuur-2021-2024.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2020/11/30/kostenoptimaliteitsonderzoek-eindnorm-bestaande-utiliteitsbouw/bijlage-d-diverse-onderzoeken-naar-uitvoeringslasten-eindnorm-bestaande-utiliteitsbouw.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/01/15/kwaliteit-van-mobiliteit/hoofdrapport-en-deelstudies-onderzoek-algemene-bestuursdienst-dienst.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/02/15/bijlage-3-rapport-toereikendheid-doelmatigheid-en-kostentoerekening-in-het-mbo-hbo-en-wo-o.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/07/12/nederland-versterkt-verandert-vernieuwt-bijlagen/eindrapportages-dialoog.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/07/14/tk-bijlage-rapport-commissie-herziening-wetgeving-ambtsdelicten-kamerleden-en-bewindspersonen.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2021/10/29/eindrapport-panteia-2021.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/07/05/tk-bijlage-4-wodc-rapportage-griffierecht-bij-beklag-in-detentie.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/07/13/onderzoek-avg-ministerie-van-defensie/eiffel-rapport-onderzoek-avg-bij-het-ministerie-van-defensie.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/07/18/doeltreffendheid-van-de-wezenuitkering.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2022/09/19/tk-bijlage-2-pro-facto-eindrapport-elementen-covid-19-wetgeving-jenv.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/06/23/monitor-beleidsmaatregelen-hoger-onderwijs-2022-2023.pdf
+ create mode 100644 policy-documents/Archive/rapporten/2023/10/04/bijlage-balans-van-de-leefomgeving-2023-rapport.pdf
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/06/overdrachtsdossier-ministerie-van-infrastructuur-en-milieu/overdrachtsdossier-ienm.pdf
+ create mode 100644 policy-documents/Archive/richtlijnen/2015/11/09/introductiedossier-staatssecretaris/introductiedossier-staatssecretaris-def.PDF
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-36-44.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2016/06/27/besluit-wob-verzoek-kosten-rijksvertegenwoordiger-bes/besluit-wob-verzoek-betalingen-rijksvertegenwoordiging-bes-eilanden2.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2018/04/03/bijlagen-bij-besluit-op-wob-verzoek-handboeken-igz-igj-i.o.-4-van-5.pdf
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/04/28/2e-deelbeslissing-op-bezwaar-wob-verzoek-rekenmodel-srm2/deelbesluit-2-bezwaar-wob-srm2-documenten.pdf
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/11/28/1e-deelbesluit-woo-verzoek-testfaciliteiten-en-laboratoria-rivm/woo-testfaciliteiten-en-laboratoria-rivm-documenten-2.pdf
