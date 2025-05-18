@@ -1,0 +1,437 @@
+Ministerie van Defensie
+Rapportage quick scan SAP migratieprojecten
+DM1 Orderbesturing en Logistiek
+Versie 1.0
+Datum 28 maart 2014
+Status
+Definitief
+Referentie
+BS/20140 10244
+
+Inhoud
+Colofon .2
+1 SAMENVATflNG .~
+2 INLEIDING 6
+2.1 AANLEIDING OPDRACHT 6
+2.2 LEESWIJZER RAPPORT 6
+3 DOEL EN AANPAK OPDRACHT 7
+3.1 DOELSTELLING 7
+3.2 SCOPE 7
+3.3 AANPAK 7
+3.4 VERSPREIDINGSKRING RAPPORT 7
+4 BEVINDINGEN 8
+4.1 INLEIDING 8
+4.2 GOVERNANCE 8
+4.2.1 De lijn neemt verantwoordelijkheid voor verandermanagement 8
+4.2.2 integrale binding door overiegfora 9
+4.2.3 Migratiebegeleiding tijdig inschakelen 9
+4.2.4 Kennispool 10
+4.2.5 Voldoende tijden kennis voor nazorg 10
+4.2.6 SAP processen op diverse managementniveaus monitoren 11
+4.2.7 Evalueren :11
+4.3 BEDRIJFSVOERING ii.
+4.3.1 Klantverwachtingen managen 11
+4.3.2 Processen en varianten analyseren 12
+4.3.3 Autorisaties 13
+4.3.4 Testen 13
+4.4 MENSEN 14
+4.4.1 Verandering in werk- en denkwijze managen 14
+4.4.2 Personeel tijdig opleiden en trainen 14
+4.4.3 Key users en super users zo vroeg mogelijk inschakelen 15
+4.4.4 Kennisdeling borgen 15
+4.5 TECHNIEK & DATA 16
+4.5.1 Elementaire aandacht voor weergave van de Organisatie in SAP 16
+4.5.2 Stamdata 17
+4.5.3 Hardware tijdig bestellen 17
+4.5.4 Transparante issue-procedure 18
+5 AANBEVELINGEN 19
+5.1 AANBEVELINGENAANHDBV 19
+5.2 AANBEVELINGENAAN DM1 20
+6 ONDERTEKENING 22
+Bijlage 1 Brondocumenten 23
+Bijlage 2 Lijst geraadpieegde personen 25
+Bijlage 3 Lijst met afkortingen 26
+Pagina 3 van 26
+
+Leerpunten voor “Mensen” die nog aandacht nodig hebben zijn: opleiden en trainen,
+key- en super user en kennisdeling.
+Aanbevelingen voor DM1:
+• Afstemmen met OTCL0g over de opleidingsbehoefte.
+• Super users meer waarderen voor hun taak en optimaal voorbereiden.
+• Olievlektraining toepassen (ook in breder perspectief zoals training (on the job)
+door CZSK personeel bij GLAS, maar ook na de nazorgperiode).
+Leerpunten voor “Techniek en data” die nog aandacht nodig hebben zijn: organisa
+torische data en DFPS en de issue-procedure.
+Aanbevelingen voor HDBV:
+• In samenwerking met CDS/DOPS processen uitwerken voor de ondersteuning
+van operaties met SAP.
+• Het issue-proces verbeteren in overleg met de lijn.
+Aanbevelingen voor DM1:
+• Kennis nemen van documentatie voor de weergave van de organisatie in SAP.
+Verder wordt DM1 aanbevolen de weergave van de organisatie in SAP afdoende
+in de migratietest mee te nemen.
+• Met projectleider Zee na gaan of hun prioriteitstelling op de juiste wijze is ge
+wogen en de tijdige levering van RFC’n monitoren. Zo nodig escaleren naar
+H DBV.
+Pagina 5 van 26
+
+3 Doel en aanpak opdracht
+3.1 DOELSTELLING
+De doelstelling van het onderzoek is met behulp van een “quick scan” een beeld te
+krijgen van het leervermogen van DM1 bij de migratie van SAP in relatie tot de eer
+dere migratieprojecten MGLC en DBGS-2.
+Het onderzoek is niet bedoeld om “assurance” te verschaffen, maar om eventuele
+bevindingen en aanbevelingen te geven.
+3.2 SCOPE
+Het object van onderzoek is de SAP-migratie van CZSK/DMI, voor zover die door de
+deelprojecten Orderbesturing en Logistiek wordt gerealiseerd. De scope beperkt zich
+tot de voornaamste leerpunten uit de SAP-migratieprojecten MGLC en DBGS-2.
+3.3 AANPAK
+Na het intakegesprek met HDBV op 11 februari 2014 is het auditteam bij MGLC,
+MatlogCo, Migratiebegeleiding en de deelprojectleider DBGS-2 (TMOJGGO) nage
+gaan wat zij als leerpunten hebben ervaren naar aanleiding van de SAP-migratie bij
+hun organisatie. Als referentie zijn hierbij de “lessons learned” uit onze rapporten
+van de migratiepi-ojecten Warehousemanagement MGLC en DBGS-2 gebruikt. Deze
+terugkoppeling is maatgevend geweest voor het bepalen van de voornaamste leer-
+punten.
+In het onderzoek is nagegaan of deze leerpunten zijn opgepakt. Daarvoor is gebruik
+gemaakt van documentatie, voornamelijk uit Intranet, Sharepoint en de Principle
+Toolbox (PTB). Daarnaast zijn interviews gehouden met kernfunctionarissen.
+De onderzoeksresultaten zijn niet per deelproject bepaald maar DM1 breed, opdat
+deze ook voor de eventuele aanpak DM1 brede aandacht kunnen genieten.
+10 en 11 maart zijn de resultaten aan respectievelijk DM1, de ketenprojectleicjer Zee
+en HDBV gepresenteerd. Daardoor konden deze door CZSK gebruikt worden in de
+Quality Gate 3 vergadering van 12 maart j.I.
+Het onderzoeksresultaat is in dit rapport van bevindingen opgenomen. Het rapport
+is tot stand gekomen na hoor en wederhoor met DM1, het Ketenproject Zee en
+H DBV.
+3.4 VERSPREIDINGSKRING RAPPORT
+Dit rapport, inclusief oplegnota, wordt uitgebracht aan: HDBV, C-ZSK en C-DMI, in
+afschrift aan CDS, C-LAS, C-CDC en HDBV/TMO.
+Pagina 7 van 26
+
+Kort na de reorganisatie vergen alle bedrijfsvoeringaspecten aandacht. In een aantal
+gevallen worden daarom door HD3V besluiten genomen en of acties gevraagd die
+capaciteit vergen van DM1, met als gevolg dat door DM1 niet geplande capaciteit
+moet worden ingezet.
+Aanbeveling
+HDBV wordt aanbevolen in het kader van de BPB-procedure de defensieonderdelen
+integraal duidelijkheid te geven over hetgeen van hen verwacht wordt. Dit betekent
+dat in aanvulling op de AGCDS, of als onderdeel daarvan, een plan wordt ontwikkeld
+waaruit blijkt wie, wanneer, welke producten met betrekking tot de bedrijfsvoering
+moet opleveren c.q. wie, wanneer aan welke projecten bijdraagt. Net als bij het BPB
+is het zaak dat in de aanloop naar een dergelijke plan afstemming plaats vindt over
+de (on)mogelijkheid van de uitvoering daarvan. Om op korte termijn een dergelijke
+situatie voor DM1 te verkrijgen wordt voorgesteld dat HDBV in aanloop naar de defi
+nitieve oplossing met DM1 een pilot uitvoert om dit idee in de praktijk te brengen.
+4.2.2 Integrale binding door overlegfora
+Om de migratie te laten slagen is belangrijk dat overlegfora zijn ingesteld waardoor
+werkvloer en het hogere management verticaal met elkaar zijn verbonden. Tegelij
+kertijd is noodzakelijk dat het lijn- en projectmanagement door fora horizontaal met
+elkaar zijn verbonden. Escalatie naar de lijn moet mogelijk zijn.
+Bevindinci
+Het interne overleg in de lijn en het horizontale overleg met het projectmanagement
+maakt afdoende informatie uitwisseling mogelijk. Dit is mede het gevolg van de
+belegging van de PMM-structuur binnen DM1.
+Meerdere malen is aangegeven dat de besluitvorming bij DM1 vaak op zich laat
+wachten. Daarnaast wordt soms ook op besluiten teruggekomen. Deels kan dit sa
+menhangen met de vereiste aandacht voor organisatorische data (zie 4.5.1.). Op
+het hogere dek bij DM1 en Zeeketen zijn echter geen “openstaande” vragen bekend
+waarvoor nog besluitvorming nodig is. Daaruit wordt afgeleid dat besluitvorming
+weliswaar op zich kan laten wachten, maar toch als voldoende mag worden aange
+merkt.
+Aanbeveling
+4~2.3 Migratiebegeleiding tijdig inschakelen
+Migratiebegeleiding (MB) van OBBS is goed bekend met de inrichting van SAP M&F
+en is daarom een onmisbare partner bij de migratie. M8 dient tijdig te worden inge
+schakeld.
+Bevinding
+MB is laat ingeschakeld bij DM1 als gevolg van de geleverde ondersteuning aan Mat
+logCo, waar meer tijd nodig bleek voor het migratieproject DBGS-2. Aan de fit-gap
+is dientengevolge in beperkte mate deelgenomen. Momenteel zijn 7 personen van
+MB bij de migratie betrokken. Men is lovend over de door MB ingebrachte kennis,
+echter het aantal ingebrachte FTE’n wordt als te beperkt ervaren. Daardoor wordt
+de kennisopbouw bij DM1 mogelijk nadelig beïnvloed.
+Pagina 9 van 26
+
+4.2.6 SAP processen op diverse managementniveaus monitoren
+Zodra DM1 is live gegaan is het zaak na te gaan of de bedrijfsvoering op de voorge
+nomen wijze wordt ondersteund. Daarvoor is van belang op de diverse manage
+mentniveaus het werken met SAP te monitoren, zodat een beeld ontstaat waar pro
+cessen verkeerd lopen. Bijvoorbeeld omdat werkzaamheden foutief worden uitge
+voerd, c. q. zich “opstoppingen” voordoen. Binnen MatlogCo is een monitorrapporta
+ge ontwikkeld voor de hoogste managementiaag, waar men zeer tevreden over is.
+Bevindinci
+Het idee van monitoring spreekt aan. Ook bestaat belangstelling voor de ervaring
+die MatlogCo op dit vlak heeft. De uitwerking is echter nog niet concreet belegd. De
+planning is dat het monitorplan vââr fase 5 gereed is.
+Aanbeveling
+Wij bevelen DM1 aan om de ervaringen van MatlogCo met betrekking tot het moni
+toren op diverse managementiagen over te nemen. Bedoeling is dat vanaf de live
+gang de SAP-processen door de diverse managementiagen in de lijn kunnen worden
+gemonitord.
+4.2.7 Evalueren
+Na de nazorg is een evaluatie op zijn plaats om na te gaan waar nog bijsturing en of
+aanpassing nodig is.
+Bevinding
+De reorganisatie en migratie worden één jaar na dato geëvalueerd. Men is nu bezig
+me de voorbereiding van de evaluatie voor de reorganisatie; voorgeschreven is dat
+deze evaluatie één jaar na de omkiap wordt gehouden. In deze evaluatie kan nog
+geen rekening gehouden worden met de effecten van SAP op de Organisatie. Daar
+om is er behoefte aan een aparte evaluatie naar aanleiding van de implementatie
+van SAP.
+Aanbeveling
+Wij bevelen DM1 aan om in samenwerking met HDBV circa één jaar na de migratie
+een evaluatie te houden over het werken met SAP bij DM1. Aandachtspunten zijn
+het klantperspectief en de paarse bedrijfsvoering.
+4.3 BEDRIJFSVOERING
+4.3.1 Klantverwachtingen managen
+De klant is je bestaansrecht, i.c. de reden dat bepaalde producten en diensten wor
+den geleverd. Daarom is belangrijk dat de klant(behoeften) bekend zijn en de juiste
+verwachtingen bij de klant leven. Daarbij maken niet alle klanten gebruik van SAP.
+Bevindingen
+Overwegend zijn de geïnterviewden van mening dat de klant voldoende in beeld is
+en dat aan hun vraag kan worden voldaan. Verschillende klanten worden onder
+kend: Walinstellingen, CARIB, schepen op SAP en schepen die nog niet op SAP over
+zijn. Daarnaast zijn klanten te onderscheiden ten aanzien van assortimenten (assor
+timentsgewijs werken). De klanten hebben niet deelgenomen aan de fit-gap.
+Voor de klanten die niet op SAP over zijn geldt de gebroken ketenbenadering. In het
+communicatieplan wordt daar aandacht aan besteed.
+Pagina 11 van 26
+
+4.3.3 Autorisaties
+Een juiste balans is nodig tussen de organisatie en de SAP M&F kernel, 1. c. een juis
+te match van rollen en te autoriseren functionarissen. Deze komt tot uitdrukking in
+autorisaties. Daardoor wordt bijvoorbeeld voorkomen dat iemand op plaats A een rol
+heeft terwijl deze rol bestemd is voor werkzaamheden op plaats B.
+Bevinding
+Van diverse geïnterviewden is vernomen dat bij de reorganisatie aandacht is ge
+weest voor het werken met SAP. Er is een idee over de rolbelegging, maar er is nog
+geen rolbehoeftematrix vastgesteld, vooral omdat deze nog niet gereed hoeft te zijn
+volgens de migratiemethodiek.
+Aanbeveling
+Aangezien het opleidingstraject is ingezet en mensen worden opgeleid voor rollen
+die zij krijgen wordt DM1 aanbevolen dat ten spoedigste de rolbelegging wordt vast
+gesteld. Ten aanzien van de rolbelegging wordt aanbevolen rekening te houden met
+de noodzakelijkheid van de toe te kennen rollen. Immers de mensen moeten wor
+den opgeleid voor alle rollen die hen worden toegekend.
+4.3.4 Testen
+Bij de voorbereiding voor de migratie gaat veel aandacht uit naar het ontwikkelen
+van kennis en de mogelijkheden van de kema!. Deze kunnen in de praktijk voor de
+eerste maal beproefd worden tijdens het testen. Dankzij de test komt vast te staan
+of in de praktijk gewerkt kan worden met de kernel en of deze voldoende functiona
+liteit bevat. Daarom is van belang dat dankzij de test wordt vastgesteld of de be
+drijfsvoering voldoende door SAP wordt ondersteund op de voorgenomen wijze.
+Bevindingen
+Van half mei tot half september wordt volgens plan de migratietest op de accepta
+tie-omgeving gehouden.
+Voor de uitvoering van de migratietest wordt in beginsel uitgegaan van soaps die
+gebruikt zijn voor de fit-gap c.q. de kennissessies. Idee is dat in beginsel minimaal
+80% van de bedrijfsvoering door de test wordt afgedekt. De test wordt in ieder ge
+val gericht op de meest kritieke onderdelen van de bedrijfsvoering. Het testplan
+wordt in een later stadium definitief gemaakt.
+De migratietest kan (ernstig) verstoord worden door het testen van VIAD@T en de
+“Get Clean”-operatie. VIAD@T betreft de noodzakelijke interface voor Logistiek.
+Deze interface wordt laat opgeleverd, waardoor deze pas in dezelfde periode als van
+de migratietest kan worden getest. De “Get Clean”-operatie is nodig gebleken om
+vooral het gebrek aan schone data bij de dataconversie te compenseren. Deze ope
+ratie heeft de hoogste prioriteit vanwege onder andere de raridvoorwaardelijke be
+tekenis voor migratieprojecten2, dus ook voor DM1. De kans is reëel dat in verband
+met de “Get Clean”-operatie de acceptatie-omgeving tijdelijk voor dit project wordt
+“ingenomen”.
+2 zie onder andere” Afronding BASIS implementatie ERP” d.d. 15-1-2014 en het verslag van de PROOST vergade
+ring d.d. 14jan. 2014.
+Pagina 13 van 26
+
+De beschikbare capaciteit van OTCL0g in het eerste en tweede kwartaal is niet toe
+reikend. Zorgpunt is dat als hiermee geen rekening wordt gehouden het niet moge
+lijk is om tijdig, i.c. per het einde van het tweede kwartaal, al het personeel opge
+leid te hebben.
+Aanbeveling
+Om tijdig over opgeleid personeel te kunnen beschikken wordt DM1 aanbevolen de
+eigen opleidingsbehoefte nogmaals kritisch na te gaan en af te stemmen met OT
+CLog. De rolbehoeftematrix (zie 4.3.3) vormt daarbij een belangrijk uitgangspunt.
+Mochten problemen niet opgelost kunnen worden dan is escalatie naar HDBV nodig.
+4.4.3 Key users en super users zo vroeg mogelijk inschakelen
+Key users en super users zijn belangrijke schakels bij de migratie van SAP. De key
+user is bedoeld om op de hoogte te zijn met de interne bedrijfsvoering met behulp
+van SAP. De super user beschikt over praktische SAP-kennis binnen zijn functiege
+bied. De super user zal zodoende kritische meedenken met de migratie met ingang
+van de fît-gap analyse; deze zal de collega ~s trainen en vervolgens ook als vraag
+baak kunnen fungeren voor collega’s. Daarom is van belang dat deze functionaris
+sen zo vroeg mogelijk worden aangewezen.
+Bevindingen
+Key users en super users zijn in beginsel op basis van hun functie aangewezen.
+Waar sprake was van meerdere gelijke functies zijn key users en super users op
+basis van competenties aangewezen. Vooral door de reorganisatie hebben zich hier
+nog personeelswisselingen voorgedaan. De betrokkenheid van de super users bij de
+fit-gap was beperkt. De opleiding en training van hen zijn nog niet afgerond. Daar
+om wordt gesteld dat zij nog in het begin van de leercurve zilten.
+De super users zitten in een aantal gevallen tussen twee vuren. Enerzijds wordt veel
+van hen gevraagd in het kader van de SAP-migratie, anderzijds willen Iijnmanagers
+hen niet missen voor de normale werkzaamheden. Ook wel wordt hen door collega’s
+verweten dat ze “hun werk laten liggen”. De waardering voor mensen die het wer
+ken in de toekomst mogelijk maken laat dus te wensen over.
+Als de super users niet tijdig in staat zijn om de circa 800 eindgebruikers afdoende
+te trainen bestaat het risico dat de bedrijfsvoering stagneert omdat SAP onvoldoen
+de wordt gebruikt. Het is moeilijk in te schatten hoe hoog de kans hierop momen
+teel is.
+Aanbeveling
+Aanbevolen wordt dat binnen DM1 de super users meer gewaardeerd worden voor
+hun taak en dus daarin gesteund worden. Dat betekent ook dat zij maximaal in de
+gelegenheid worden gesteld kennis op te doen van het SAP-systeem (door oplei
+ding, training, workshops, zelfstudie, bijv. o.g.v. het naspelen van fit-gap scripts,
+kennisdeling met andere SAP gebruikers, enz.) , voordat de training van de eindge
+bruikers uitgevoerd gaat worden.
+4.4.4 Kennisdeling borgen
+Na opleiding en training ontstaat een bepaalde kennis. Deze is nodig voor het live
+gaan en zal in de regel verder aangroeien naar aanleiding van bepaalde praktijk
+situaties. De/ing van deze kennis is nodig om in de volle breedte (beter) te kunnen
+werken met SAP.
+Pagina 15 van 26
+
+In enkele gevallen is het nodig dat specifieke data worden ingevoerd in SAP. Bij
+voorbeeld waar het gaat om de aansluiting van SAP op scanners en printers. Over
+de werkwijze daarover is nog onvoldoende duidelijkheid. Volgens de werkwijze van
+OBBS is de bedoeling dat voor dergelijke acties een issue wordt ingediend. De key
+users zijn daartoe bevoegd.
+Aanbeveling~~
+HDBV wordt aanbevolen in samenwerking met CDS/DOPS processen uit te werken
+voor de ondersteuning van operaties met SAP.
+Aanbevolen wordt dat DM1 kennis neemt van de documentatie voor de weergave
+van de organisatie in SAP. Verder wordt DM1 aanbevolen de weergave van de Orga
+nisatie in SAP afdoende in de migratietest mee te nemen.
+4.5.2 Stamdata
+Met betrekking tot artikelen is aandacht nodig voor tijdige dataschoning. Als dat
+onvoldoende gebeurt kunnen data geblokkeerd worden. Blokkades werken belem
+merend. Daarnaast is van belang dat contracten en ATB’s tijdig worden ingevoerd.
+Bevinding
+Uit een intranetberjcht4 van het project “Stabiliseren Masterdata” blijkt dat belang
+rijke stappen zijn gezet in de dataschoning van artikelen.
+Contracten worden door de Logistieke Groep Inkoop van de Afdeling Maritieme Lo
+gistiek gecontroleerd en na goedkeuring van HDFC in SAP opgenomen. Er is veel
+contact met HDFC, onder andere via tweewekelijkse overleg en een roadshow.
+Daarnaast is er regelmatig overleg met de controller van CZSK over het werken met
+tweeden en derden. Volgens H-Inkoop ligt DM1 met de invoering van de contracten
+op schema.
+Aanbeveling
+4.5.3 Hardware tijdig bestellen
+De levering van hardware (scanners en printers) neemt de nodige tijd in beslag en
+het instellen van labels (breed/smal) vereist wat specifieke kennis. Daarom dient de
+hardware tijdig te worden besteld.
+Bevinding
+40 van de 80 scanners voor DM1 zijn binnen. Er zijn genoeg vaste printers aanwe
+zig, maar de voorkeur gaat uit naar wireless printers. Daarvoor is een RFC inge
+diend. Deze printers zullen dus te laat binnenkomen, maar er is een alternatief in de
+vorm van vaste printers.
+Aanbeveling
+4
+http://intranetmjndef. nÎ/km/actueeI/n~euwsJzo14/februari/2o14o219 stabiliseren lost ru im 500 000 routen op as
+px
+Pagina 17 van 26
+
+5 Aanbevelingen
+5.1 AANBEVELINGEN AAN HDBV
+GOVERNANCE
+• HDBV wordt aanbevolen in het kader van de BPB-procedure de defensleonder
+delen integraal duidelijkheid te geven over hetgeen van hen verwacht wordt. Dit
+betekent dat in aanvulling op de AGCDS, of als onderdeel daarvan, een plan
+wordt ontwikkeld waaruit blijkt wie, wanneer, welke producten met betrekking
+tot de bedrijfsvoering moet opleveren c.q. wie, wanneer aan welke projecten
+bijdraagt. Net als bij het BPB is het zaak dat in de aanloop naar een dergelijke
+plan afstemming plaats vindt over cle (on)mogelijkheid van de uitvoering daar
+van. Om op korte termijn een dergelijke situatie voor DM1 te verkrijgen wordt
+voorgesteld dat HDBV in aanloop naar de definitieve oplossing met DM1 een pilot
+uitvoert om dit idee in de praktijk te brengen.
+• Wij adviseren HDBV in samenspraak met CZSK/DMI te bezien of voor de migra
+tie- en nazorgperiode meer capaciteit van MB beschikbaar kan worden gesteld.
+• Wij bevelen HDBV aan maatregelen te nemen om de noodzakelijke kennis van
+SAP M&F te borgen. Op korte termijn is noodzakelijk dat concreet begonnen
+wordt met de kennisborgirig Defensie breed te organiseren.
+BEDRIJFSVOERING
+• HDBV wordt aanbevolen de MSP-benadering te gebruiken voor situaties waarin
+sprake is van programma’s, dan wel als sprake is van meerdere projecten voor
+eenzelfde einddoel of met eenzelfde scope. Daardoor wordt het mogelijk om in
+tegratiepunten te onderkennen.
+• Met betrekking tot “Get Clean” wordt aanbevolen dat HDBV in overleg met DM11
+Projectleider Zee tijdig (bij voorkeur voordat definitief wordt bepaald wat in de
+migratietest wordt meegenomen) vaststelt wanneer voor Orderbesturing en Lo
+gistiek de acceptatie-omgeving beschikbaar is.
+TECHNIEK & DATA
+• HDBV wordt aanbevolen in samenwerking met CDS/DOPS processen uit te wer
+ken voor de ondersteuning van operaties met SAP.
+• Wij bevelen HDBV aan het issue-proces te verbeteren in overleg met de lijn.
+Belangrijke aandachtspunten zijn: issueverwerking (Bijvoorbeeld RFC, UC of
+workaround), prioriteitstelling, uitvoeringsverantwoordelijke en oplevering. Om
+te zorgen dat eenieder kennis kan nemen van het vervolg op “zijn/haar” issue is
+tevens een totaaloverzicht van belang waardoor een gemeenschappelijk gedeeld
+beeld ontstaat.
+Pagina 19 van 26
+
+• Wij bevelen DM1 aan de zogenaamde olievlektraining in het trainingstraject van
+de super users op te nemen. Daarmee ontstaat een reële kans dat deze aanpak
+in de praktijk gaat werken. Overigens kan olievlektraining ook in breder per
+spectief worden gezien. Bijvoorbeeld training (on the job) door CZSK personeel
+bij CLAS.
+• Olievlektraining wordt ook voor de toekomstige situatie aanbevolen. Bijvoor
+beeld bij nieuwe releases (inclusief RFC’n).
+TECHNIEK & DATA
+• Aanbevolen wordt dat DM1 kennis neemt van de documentatie voor de weerga
+ve van de Organisatie in SAP. Verder wordt DM1 aanbevolen de weergave van de
+Organisatie in SAP afdoende in de migratietest mee te nemen.
+• DM1 en de Projectleider Zee gaan na of hun prioriteitstelling op de juiste wijze is
+gewogen en monitoren de tijdige levering van RFC’n. Zo nodig escaleren zij naar
+H D BV.
+Pagina 21 van 26
+
+Bijlage 1 Brondocumenten
+Documenten
+1. M-481.3.272B Rapport test “Demo aan de lijn”, project Logistiek, v 0.1.0, 12-
+03-14
+2. M-491.4.270 Testplan “Migratietest Acceptatie” project Orderbesturing, v 0.0.1,
+12-03-14
+3. RfC- incidentenrapportage IPOS, wk 11 2014
+4. M-481.4.270 Testplan “Migratietest Acceptatie”, project Logistiek, v 0.1.1, 07-
+03-14
+5. M-491.3.272B Rapport “Demo aan de lijn” project Orderbesturing, v 0.0.1, 06-
+03-14
+6. M-401 3.270 Integraal Testplan Migratiestest Acceptatie, v 0.0.3, 05-03-2014
+7. M-491.3.270B Testplan Demo aan de lijn project Orderbesturing, v 0.0.4, 04-
+03-14
+8. M-491.3.140 Veraridermanagementplan project Orderbesturing, v 1.0.0, 03-03-
+14
+9. M-491.3.348 Eindgebruikers Opgeleid Gereed, project Orderbesturing, v 0.0.1,
+04-02-14
+10. M-524-5-760 Projecteindrapport DBGS-2 v 001, 06-02-14
+11. M-48i.3.772 Faseplan fase 4, Zeeketen deelproject Logistiek, v 0.0.4, 02-02-14
+12. M-481.3.720 Migratiedraaiboek Logistiek, v 0.2.1.
+13. M-481.2.520 Datamigratie Strategie, project Zeeketen, v 2.0.1, 21-11-13
+14. M-481.2.510 Datamigratie Rapport Focusfase, project Zeeketen, v 1.0.3., 21-
+11-13
+15. Plan afronding basisimplementatie ERP Vi, 15-01-14
+16. M-481.2.220 Fit Gap Rapport, deelproject Logistiek, v 2.0.0, 09-07-13
+17. M-481.2.150 Testplan Migratie, project Zeeketen Logistiek, v 2.0.0, 19-06-13
+18. M-481.2.140 Verandermanagementplan Logistiek, project Zeeketen, v 1.0.0,
+10-06-13
+19. M-401.2.150 Testplan Migratie Integraal, v 0.0.1, 06-06-13
+20. M-401.2.220 Rapport Integrale Fit-gap, Zeeketenbrede producten, v 1.0.0, 06-
+06-13
+21. M-491.2.150 Testplan Migratie, project Orderbesturing, v 1.0.0, 06-06-13
+22. M-481.2.540 Datamigratie Ontwerpdossier, Project Zeeketen, v 1.0.0, 08-05-13
+23. M-481.2.240 Input voor O&T materiaal, deelproject Logistiek, v 1.0.0, 07-05-13
+24. M-481.2.343 LOBA/LOP, deelproject Logistiek, v 1.0.0, 07-05-13
+25. M-481.2.530 Datamigratie Acceptatiecritej-ja, deelproject Logstiek, v 1.0.0, 07-
+05-13
+26. M-481.3.150 (U) Detailtestplan, project Zeeketen Logistiek, v 0.2.0, 03-02-13
+27. Definitief Reorganisatieplan “Reorganisatie CZSK 2013”, briefnr CZSK
+2012007218, d.d. 03-12-12
+28. M-481.2.580 Magazijninrichting ODC, project Zeeketen, v 0.1.4, 14-05-12
+29. M-481.0.710 Projectplan Deelproject Keten Logistiek, v 1.0.0, 01-05-12
+30. M-481 Deelproject Logistieke Keten Hoofdpuntenrapportage over de maand
+april, Fase 0 Projectinitiatie, 01-05-12
+31. M.481.1.772 Faseplan Fase 2, project Logistiek, v 1.0.0, 26-04-12
+Pagina 23 van 26
+
+Bijlage 2. Lijst geraadpieegde personen
+Pagina 25 van 26
+

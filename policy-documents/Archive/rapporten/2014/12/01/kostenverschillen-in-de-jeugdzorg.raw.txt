@@ -1,0 +1,755 @@
+KOSTENVERSCHILLEN IN DE JEUGDZORG 
+ 
+ 
+ 
+Een verklaring van verschillen in kosten tussen gemeenten 
+ 
+ 
+ 
+Sociaal en Cultureel Planbureau 
+Den Haag, december 2014 
+ 
+ 
+ 
+Michiel Ras 
+Evert Pommer 
+Klarita Sadiraj 
+ 
+ 
+  
+0 
+ 
+
+ 
+Voorwoord 
+ 
+De passende verdeling van jeugdzorgmiddelen is voor zowel gemeenten als het Rijk van groot belang 
+om de decentralisatie van de jeugdzorg goed te laten verlopen.  Dit rapport bevat de uitkomsten van 
+een verklaringsmodel dat de historische uitgaven van gemeenten aan jeugdzorg relateert aan 
+kenmerken van die gemeenten. Deze kenmerken zijn geselecteerd op basis van wetenschappelijke 
+literatuur en hebben betrekking op risicokenmerken van de bevolking die het beroep op jeugdzorg 
+kunnen verklaren. Hiermee sluit het aan op eerder onderzoek van het SCP. In dit rapport wordt 
+uitgezocht welke van deze kenmerken effect op de uitgaven hebben.  
+ 
+Het rapport vloeit voort uit een opdracht van de ministeries van Binnenlandse Zaken en 
+Koninkrijksrelaties (BZK), het ministerie van Financiën en het ministerie van Volksgezondheid, Welzijn 
+en Sport (VWS). Daarbij zijn het Sociaal en Cultureel Planbureau (SCP) en Centrum Beleidsadviserend 
+Onderzoek b.v. (Cebeon) verzocht om een verdeelsystematiek te ontwikkelen voor de middelen voor 
+Jeugdzorg die worden gedecentraliseerd naar gemeenten.  
+ 
+Het doel van dit rapport is aanknopingspunten te bieden voor de toekomstige verdeling van 
+jeugdzorgmiddelen over gemeenten. Mede op grond van deze aanknopingspunten heeft het Cebeon 
+een objectief verdeelmodel opgesteld, waarmee jeugdzorgmiddelen over gemeenten zullen worden 
+verdeeld. Daarbij wordt een onderscheid gemaakt tussen factoren die een verklaring bieden voor 
+kostenverschillen en factoren die relevant zijn voor de verdeling van de middelen voor de jeugdzorg. 
+Dat onderscheid is van belang, omdat verklarende factoren die beïnvloedbaar zijn door gemeenten 
+en zorgaanbieders (beleid en aanbod) geen rol mogen spelen bij de verdeling van de betrokken 
+middelen over gemeenten.  
+ 
+De maatstaven die in het verdeelmodel van Cebeon zijn opgenomen, zijn afgestemd op de 
+risicofactoren in het verklaringsmodel van het SCP. Dit heeft er toe geleid dat de aanvankelijke set 
+van verklarende factoren door het SCP is uitgebreid met de maatstaf uitkeringsontvanger. Het SCP 
+heeft de uiteindelijke set verklarende factoren nog kunnen toetsen op een nieuw integraal 
+microbestand waarin alle jeugdigen in Nederland met hun zorggebruik en hun kenmerken zijn 
+opgenomen. Dit heeft geleid tot een robuuste set van factoren die verschillen in kosten van 
+jeugdzorg op gemeentelijk niveau in belangrijke mate kunnen verklaren.  
+ 
+De rapporten van SCP en Cebeon worden elk onder eigen verantwoordelijkheid uitgebracht. Zij 
+dienen als onderbouwing van de objectieve verdeling van jeugdzorgmiddelen over gemeenten in 
+Nederland, die is opgenomen in de Decembercirculaire 2014 van het Gemeentefonds. Het SCP zal in 
+aanvulling hierop in 2015 onderzoek doen naar de invloed van combinaties van kenmerken op de 
+zorgkosten. Dit zogenaamde cumulatievraagstuk speelt in de discussie over de kosten van zorg nog 
+steeds een rol.  
+ 
+2 
+ 
+
+Samenvatting 
+ 
+In het kader van de decentralisatie van jeugdzorgvoorzieningen moet een verdeelmodel voor de 
+verdeling van budgetten over gemeenten worden opgesteld. Het SCP levert met deze publicatie 
+informatie over de factoren die van invloed zijn op de kosten op gemeenteniveau.  
+ 
+De totale kosten voor de jeugdzorg per gemeente hangen uiteraard sterk af van het aantal kinderen 
+in de gemeente, maar ook van de gemiddelde kosten per kind. Deze kosten per kind blijken op 
+gemeenteniveau vrij goed te verklaren te zijn uit een theoretisch onderbouwde set verklarende 
+variabelen. Daarmee wordt 78% van de verschillen tussen gemeenten verklaard. Negen kenmerken 
+zijn significant. Een kostenverhogend effect op de gemeentelijke uitgaven voor jeugdzorg gaat uit van 
+het aandeel kinderen met een laag onderwijsniveau, het aandeel kinderen dat ten minste 1 jaar in 
+armoede leeft, het aandeel kinderen in een eenoudergezin, het aandeel kinderen van recent 
+gescheiden ouders, het aandeel ouders met een psychische medicatie en het aandeel ontvangers van 
+een werkloosheids- of arbeidsongeschiktheidsuitkering. Een kostenverlagend effect gaat uit van het 
+aandeel kinderen met ouder(s) uit Turkije, het aandeel volwassenen met een laag opleidingsniveau, 
+het aandeel hoge inkomens en gemeenten die niet, weinig of zeer sterk stedelijk zijn ten opzichte 
+van ‘matig stedelijk’.  
+ 
+We moeten wel opmerken dat de aandelen ‘eenoudergezin’ en ‘kind in armoede’ sterk met elkaar 
+samenhangen. Het effect van het aandeel eenoudergezinnen op de kosten van jeugdzorg kan dus op 
+gemeenteniveau niet goed worden onderscheiden van dat van armoede. Waarschijnlijk verhogen ze 
+beide de kosten van jeugdzorg. Het hebben van een uitkering heeft wel een extra effect boven op 
+het effect van eenoudergezin en kind in armoede. De sociaaleconomische kenmerken (inclusief het 
+effect van eenoudergezin) verklaren ongeveer 60% van de verschillen. De sociaal-demografische 
+kenmerken verklaren nog eens 25%. Kleinere bijdragen worden geleverd door stedelijkheid (9%) en 
+ouders met psychische medicatie (6%). 
+ 
+De verklaringsgraad verandert niet veel als we variëren met de specificaties van het model. We 
+hebben bekeken wat er gebeurt als we gecombineerde effecten toelaten, enkele variabelen 
+weglaten of juist toevoegen of een selectie maken van bepaalde groepen gemeenten. Wel 
+veranderen dan soms de significanties van verklarende variabelen, maar de richting van het verband 
+verandert niet.  
+ 
+Het toevoegen van de kenmerken regio en de aanwezigheid van aanbieders in de analyse maakt de 
+verklaring van de verschillen iets beter (80%), maar maakt de interpretatie wel lastiger. Deze 
+variabelen kunnen namelijk ook de effecten van specifieke ongemeten verklarende variabelen 
+overnemen, zoals het effect van scheefgegroeide historische kosten als gevolg van de wijze van 
+zorginkoop door de verschillende regio’s.  
+De verklarende variabelen die zijn gekoppeld aan het kind, de ouder(s), het gezin en de lokale 
+omgeving zijn op grond van wetenschappelijke literatuur opgenomen in de analyses. In de 
+4 
+ 
+
+1  Naar een nieuw stelsel van jeugdzorg 
+ 
+De Nederlandse jeugdzorg staat een omvangrijke verandering te wachten. Op 1 januari 2015 wordt 
+een nieuw stelsel van jeugdhulp ingevoerd. Hierin is geregeld dat gemeenten de bestuurlijke en 
+financiële verantwoordelijkheid krijgen voor de uitvoering van alle zorg voor kinderen, jongeren en 
+hun opvoeders (TK 2011). Op dit moment dragen gemeenten al de verantwoordelijkheid voor de 
+preventieve en welzijnsfuncties in het kader van de Wet maatschappelijke ondersteuning (Wmo), 
+zoals de Centra voor jeugd en gezin en het Jeugd- en jongerenwerk. Hiermee is een bedrag gemoeid 
+van bijna 0,5 miljard euro. Daar komen de nieuwe taken in de jeugdhulpverlening bij. Deze nieuwe 
+1
+taken vergen momenteel een bedrag van circa 4,0 miljard euro. Ongeveer 380.000 van de 3,5 
+miljoen kinderen in Nederland maakten in 2012 gebruik van minstens een van deze voorzieningen 
+(CBS, Statline). Dit rapport analyseert de verschillen in kosten tussen gemeenten die verband houden 
+met de nieuwe taken, voor zover deze verschillen te maken hebben met de samenstelling van de 
+bevolking. Daarmee levert dit rapport bouwstenen aan voor de ontwikkeling van een verdeelmodel 
+waarmee de beschikbare middelen voor de jeugdhulp op een objectieve wijze aan gemeenten 
+kunnen worden overgedragen. Dit verdeelmodel is ontwikkeld door het Centrum Beleidsdadviserend 
+Onderzoek b.v. (Cebeon).  
+In 2015 worden de betrokken middelen op basis van historisch gebruik aan de gemeenten 
+overgedragen. Vanaf 2016 moeten gemeenten geleidelijk overgaan op een budget dat wordt 
+vastgesteld op basis van een objectief verdeelmodel.  
+ 
+In zijn huidige vormgeving kent de jeugdzorg een complexe, institutionele structuur. In hoofdlijnen 
+onderscheiden we daarin de eerste- en tweedelijnszorg. De tweedelijnszorg laat zich vervolgens 
+globaal onderscheiden in zorg zonder en zorg met verblijf. Hiermee gaan grote kostenverschillen 
+gepaard. De eerstelijnszorg wordt, met uitzondering van de huisarts en eerstelijnspsycholoog, al door 
+de gemeenten verzorgd. Hieronder vallen onder meer het schoolmaatschappelijk werk (SMW), de 
+jeugdgezondheidszorg (JGZ), de MEE Nederland voor jeugdigen met een beperking, de zorg- en 
+adviesteams (ZAT) en de centra voor jeugd en gezin (CJG). De tweedelijnszorg gaat in 2015 over naar 
+de gemeenten, met uitzondering van de langdurige intensieve zorg (de zwaardere, intramurale 
+2
+zorgzwaartepakketten). In hoofdlijnen kunnen in de tweedelijnszorg drie sectoren of doelgroepen 
+worden onderscheiden. 
+ 
+1. De provinciale jeugdzorg en de door het rijk gefinancierde JeugdzorgPlus 
+Binnen de provinciale jeugdzorg kunnen we een onderscheid maken tussen de bureaus jeugdzorg 
+(BJZ) en de instellingen voor jeugd- en opvoedhulp (J&O). De BJZ’s voeren reguliere taken uit in 
+het zogenoemde vrijwillige kader en justitiële taken in het zogenoemde gedwongen kader. Tot 
+de reguliere taken behoren indicatiestelling, casemanagement, melding kindermishandeling, en 
+                                                           
+1
+ Bedoeld wordt het jaar 2015. Hierbij is nog geen rekening gehouden met een bezuiniging van 120 miljoen euro. 
+2
+ Dit geldt ook voor de eerstelijns geestelijke gezondheidzorg. Vanaf 2015 valt dus ook de eerstelijnspsycholoog onder de 
+verantwoordelijkheid van de gemeente. Daarmee valt van de eerstelijnszorg alleen de huisarts vanaf 2015 niet onder de 
+verantwoordelijkheid van de gemeenten. 
+6 
+ 
+
+Kader 1 Vormen van jeugdzorg 
+ 
+Zorg voor jeugdigen, gefinancierd uit de Zorgverzekeringswet (Zvw): 
+– eerstelijnszorg voor jeugdigen met psychische problemen, zonder verblijf; 
+– tweedelijnszorg voor jeugdigen met psychische problemen, zonder verblijf; 
+– tweedelijnszorg voor jeugdigen met psychische problemen, met verblijf. 
+ 
+Zorg voor jeugdigen, gefinancierd uit de Algemene wet bijzondere ziektekosten (AWBZ): 
+– zorg voor jeugdigen met beperkingen, zonder verblijf; 
+– zorg voor jeugdigen met psychische problemen, zonder verblijf; 
+– zorg voor jeugdigen met verstandelijke beperkingen, met verblijf (zzp vg1, vg2, vg3, lvg-zzp1 – lvg-zzp5); 
+1
+ 
+– zorg voor jeugdigen met psychische problemen, met verblijf.  
+ 
+Provinciaal gefinancierde jeugd- en opvoedhulp: 
+– jeugdzorg zonder verblijf (ambulant) 
+– jeugdzorg met verblijf (residentieel en dagbehandeling) 
+– pleegzorg  
+– overige taken (steunfuncties, projecten e.d.). 
+ 
+Provinciaal gefinancierde zorg via bureau jeugdzorg: 
+– VWS-taken, waaronder AMK, toegang BJZ, casemanagement 
+– jeugdbescherming 
+– jeugdreclassering. 
+ 
+Door het Rijk gefinancierde jeugdzorg: 
+– JeugdzorgPlus (voorheen: gesloten jeugdzorg). 
+ 
+Het macrobudget van in 2015 over te hevelen middelen is bepaald op 3.868 miljoen euro. Hierin is 
+een korting verwerkt van 120 miljoen euro, die geleidelijk oploopt tot 450 miljoen euro in 2017. De 
+verdeling over de onderscheiden financieringsvormen is weergegeven in figuur 1.1.  
+ 
+8 
+ 
+
+ 
+2  Naar een verklaring van verschillen  
+ 
+De decentralisatie beoogt allerlei vormen van zorg als geheel bij gemeenten onder te brengen. De 
+‘schotten’ tussen die vormen van zorg vervallen dan, maar er dient wel per gemeente een passend 
+budget voor de totale kosten te worden berekend. Het verklaringsmodel jeugdzorg brengt 
+risicofactoren in beeld die bepalend zijn voor de historische kosten van jeugdzorg. De factoren die op 
+gemeenteniveau een rol spelen, moeten uiteraard verdedigbaar zijn vanuit de effecten die we op 
+kind- en gezinsniveau vinden. Om deze reden wordt hier een verklaringsmodel op gemeentelijk 
+niveau ontwikkeld, dat is gefundeerd op factoren die ook op individueel niveau bepalend zijn voor 
+het gebruik van jeugdzorg. Deze individuele factoren dienen plausibel te zijn en theoretisch te 
+duiden. Daarom is in de literatuur gezocht naar mogelijke verklaringen voor verschillen in gebruik van 
+jeugdzorg. Daarbij gaat het om factoren die op het niveau van het kind, de ouders, het gezin en de 
+directe leefomgeving spelen. Maar het gaat niet alleen om dit soort gezin gerelateerde factoren, 
+maar ook om beleids- en aanbodfactoren, zoals wetswijzigingen en de omvang en samenstelling van 
+het hulpverleningsaanbod (Hermans 2009; BMC 2009; Pommer et al. 2011; Sadiraj et al. 2013). Dat 
+zijn overigens kenmerken die zich lastig laten meten.  
+ 
+In figuur 2.1 is het theoretische kader schematisch weergegeven. De kenmerken op het niveau van 
+kind/ouder/gezins/omgeving veroorzaken mogelijk problematiek bij het opgroeien en opvoeden van 
+het kind. Hierdoor kan de behoefte ontstaan om hulp te vragen en te gebruiken. De kosten die 
+hiermee gemoeid zijn, zijn afhankelijk van de ernst van de problematiek en de beschikbaarheid van 
+de zorgverlening.  
+ 
+10 
+ 
+
+kunnen onder meer de volgende factoren een rol spelen (zie o.a. Deković 2000; Leij 2002; Sameroff 
+4
+2010; Bot et al. 2013).  
+ 
+Factoren op kindniveau: 
+– geslacht (Vollebergh 2010; Zeijl et al. 2005; Bucx en De Roos 2011); 
+– leeftijd en lage intelligentie (Woittiez et al. 2012; Ras et al. 2010; Nagin en Tremblay 2001; 
+Mönks en Ypenburg 2011; Dam et al. 2010); 
+– een laag onderwijsniveau (Schrijvers en Schuit 2010; Kepper et al. 2012); 
+– persoonlijkheidsstoornissen (Hoek 2006; Stams et al. 2006); 
+– gedragsproblemen (Hakkaart-van Roijen et al. 2007). 
+ 
+Factoren op ouderniveau  
+– lage opleiding (Nagin en Tremblay 2001; Bucx en De Roos 2011); 
+– leeftijd van de ouder(s) bij geboorte (Coley en Chase-Lansdale 1998; Levine et al. 2007; Moore 
+et al. 2013); 
+– lage sociaaleconomische status en armoede (Bucx en De Roos et al. 2011); 
+– chronische ziekte (Einde-Bus et al. 2010; Sieh et al. 2013); 
+– psychische problematiek (De Clercq en Van Vreckhem 2008; Rutter et al. 2006). 
+ 
+Factoren op gezinsniveau: 
+– gezinssamenstelling (Whiteside en Becker 2000; Fischer 2004; Spruijt 2007; De Roos et al. 2011); 
+– huwelijksconflicten, gezinsgrootte (Alink et al. 2011); 
+– drugsgebruik (Fagan en Naijman 2005; Barnard en McKeganey 2004; Einde-Bus et al. 2010); 
+– ingrijpende gebeurtenissen (Kim et al. 2003; Mongillo et al. 2009; Tein et al. 2000).  
+ 
+Factoren op omgevingsniveau: 
+– verkeerde vrienden, concentratie van delinquenten in de buurt en wonen in achterstandswijk 
+(Sykes 2009; Weijters et al. 2007); 
+– afwezigheid ondersteunend sociaal netwerk (Bartelink 2012). 
+ 
+Uit diverse studies (zie o.a. Hermanns 2007; Rutter 2008) blijkt verder dat de kans op allerlei 
+problemen bij het opvoeden en opgroeien wordt verhoogd wanneer zich in een gezin meerdere 
+risicokenmerken voordoen. Hoe meer risicokenmerken een gezin kent, hoe moeilijker het voor de 
+individuele leden van het gezin en het gezin als geheel is om problemen te voorkomen en/of die het 
+hoofd te bieden. De problemen worden daardoor zo groot dat (de kans op) het gebruik van 
+jeugdzorg groter is dan op grond van de bijdrage van de afzonderlijke factoren kan worden verwacht 
+(Evans 2003; Evans en English 2002; Hermanns 1987 en 1998). Dit wordt ook wel het cumulatie-
+effect genoemd. Het SCP heeft hiervoor tot nu toe echter geen aanwijzingen kunnen vinden. Om 
+                                                           
+4
+ Het op elkaar inwerken van de verschillende factoren wordt in de orthopedagogiek ‘het transactionele ecologische 
+ontwikkelingsmodel’ genoemd. 
+12 
+ 
+
+In het OJO’11 (Onderzoek Jeugd en Opgroeien 2011) zijn problematiek, vraag en gebruik van 
+jeugdhulp wel op uniforme wijze bepaald. Maar de meting via SDQ in dit gegevensbestand is alleen 
+gebaseerd op de inschatting van de ouders en de problemen die zij ervaren bij de relaties met hun 
+kind en niet op het oordeel van deskundigen. Dit beperkt de betrouwbaarheid van de meting van 
+problemen in het gezin. De maat voor behoefte aan hulp (vraag en of gebruik van jeugdzorg) is 
+gemeten door aan de ouders te vragen of ze uiteindelijk jeugdhulp hebben gevraagd (of gekregen).  
+ 
+Met het OJO’11 toonde het SCP eerder de determinanten van jeugdzorg in termen van problematiek 
+en gebruik (zie bv. de publicaties Bot et al. 2013; Sadiraj et al. 2013). Voor het eerst worden in deze 
+studies de risicofactoren die uit de literatuur naar voren komen, benaderd vanuit een algemene visie 
+op problematiek van de jeugd in plaats van vanuit sector gebonden problematiek. De uitkomsten van 
+de twee SCP-studies wijzen erop dat de risicokenmerken die belangrijk zijn bij de problematiek in het 
+algemeen, ook belangrijk zijn voor de kans op zorgvraag of zorggebruik. Verder vinden we in het OJO 
+dat er bij een klein groep een discrepantie is tussen de hoogte van de problematiek en de 
+vraag/gebruik van hulp uit de tweedelijns zorg. Er zijn kinderen met een hoge risicoscore die geen 
+beroep doen op jeugdhulp uit de tweedelijns zorg en kinderen met relatief lage risicoscore die wel 
+gebruik maken van jeugdhulp in de tweedelijns zorg. Bij de groep met een hoge score die geen 
+gebruik maakte van de tweedelijns zorg bood de beschikbaarheid van de eerstelijns zorg niet de 
+verklaring voor het niet-gebruik. De verklaring lag er meer in dat de ouders de problemen als 
+voorbijgaand zagen of al oplossingen gevonden hadden. Ook waren er ouders die een indicatie 
+hadden gevraagd maar niet gekregen. De inschatting van de professionals omtrent de 
+gezinsproblemen kan dus heel anders zijn dan die van de ouders. 
+ 
+In het OJO vinden we geen aanwijzingen dat er bij een stapeling van risicofactoren een extra 
+verhoogde kans bestaat op een beroep op jeugdzorg (het zgn. cumulatie-effect; zie Bot et al. 2013). 
+Op basis van het OJO’11 heeft het SCP eveneens onderzocht welke kenmerken leiden tot een 
+verhoogd risico op het beroep op verschillende jeugdzorgvoorzieningen (Bot et al. 2013; Sadiraj et al. 
+2013). Uit deze analyses volgt dat de verschillende jeugdzorgvoorzieningen niet door dezelfde set 
+risicokenmerken verklaard kunnen worden. Toch lijkt een aantal risicokenmerken vaak een rol te 
+spelen bij het gebruik van jeugdzorgvoorzieningen (zie tabel 2.1). Zo lopen jongeren met een 
+chronische ziekte een verhoogd risico op gebruik bij bijna alle jeugdzorgvoorzieningen. Ook jongeren 
+die niet opgroeien in een gezin waarin beide biologische ouders aanwezig zijn of jongeren van wie de 
+ouders (regelmatig) een psycholoog, psychiater of maatschappelijk werker bezoeken, hebben een 
+verhoogd risico op gebruik bij vrijwel alle jeugdzorgvoorzieningen.  
+ 
+Als de risicokenmerken gerelateerd worden aan het totale gebruik van jeugdzorg (dus onafhankelijk 
+van de soort voorziening), komen we tot de relaties in tabel 2.1. We hebben de set risicokenmerken 
+in tabel 2.1 aangevuld met kenmerken waarvan we uit eerdere SCP-studies weten dat deze mogelijk 
+van invloed zijn op het beroep op jeugdzorg (zie o.a. Pommer et al. 2011).  
+  
+14 
+ 
+
+analyses op wijkniveau vinden ze geen aanwijzing voor een cumulatie-effect. Op gemeenteniveau is 
+een dergelijk effect nog lastiger te meten en zal, indien aanwezig, waarschijnlijk klein zijn. 
+ 
+Leidend in onze analyses zijn de mogelijk verklarende factoren die in de literatuur zijn opgespoord. 
+Het gaat om kenmerken waarvan uit wetenschappelijk onderzoek bekend is dat zij verklaringskracht 
+hebben voor de opgroei- en opvoedproblematiek en het jeugdzorggebruik. Bij de verklaring kunnen 
+we gegevens in termen van de kwaliteit van relaties binnen het gezin of persoonlijkheidskenmerken 
+niet meenemen, omdat daarover geen nationale of gemeentelijke cijfers beschikbaar zijn. Het 
+merendeel van de informatie op gemeenteniveau voor verklarende variabelen is via het CBS 
+verkregen. Zie daarvoor het overzicht in de bijlage. 
+ 
+De verklarende variabelen worden uitgedrukt als percentage van het aantal jongeren van 0-17 jaar 
+dat in de gemeente woont op 1 januari 2012. Op deze wijze worden de aandelen bepaald van 
+jongeren die een risico lopen op het gebruik van jeugdzorg. Daardoor worden de verklarende 
+variabelen eveneens uitgedrukt als aandelen per kind. De absolute omvang van de gemeente speelt 
+een rol in de analyses via de variabele ‘stedelijkheid’. Deze variabele geeft de nabijheid van 
+voorzieningen, maar mogelijk ook ongemeten verschillen in cultuur weer. Hij hangt zo sterk samen 
+met gemeentegrootte dat niet beide variabelen opgenomen konden worden. In tabel 2.2 worden de 
+verklarende variabelen statistisch beschreven. 
+ 
+Het aandeel ouders met psychische problematiek is niet per gemeente bekend. We hebben als 
+benadering hiervoor het aandeel ouders gehanteerd dat een medicament gebruikt uit de psychische 
+medicijngroep (FKG). 
+In de literatuur wordt wel gesuggereerd dat religiositeit een verklaring kan zijn voor zorggebruik en 
+de kosten (Gerris 2007). Aan de ene kant zou het een vraag beperkende factor voor eigen 
+problematiek kunnen zijn (een probleem eerst in eigen kring oplossen), anderzijds kan het een vraag 
+verruimende factor zijn omdat men eerder genegen zou kunnen zijn om anderen te hulp te schieten 
+(kinderen in pleegzorg nemen). Religiositeit is in het model opgenomen door te kijken naar het 
+aandeel totaalaandeel CU en SGP-stemmers in een gemeente. Dit is een benadering omdat de 
+feitelijke geloofsovertuigingen niet op gemeenteniveau beschikbaar zijn.  
+ 
+Het is belangrijk om te vermelden dat een aantal variabelen in tabel 2.1 met elkaar samenhangt. 
+Hierdoor is het soms lastig om te bepalen wat de afzonderlijke bijdrage van deze variabelen is aan de 
+verklaring van de jeugdzorgkosten per kind op gemeenteniveau.  
+ 
+De aanwezigheid van aanbieders in gemeenten kan van invloed zijn op de kostenverschillen tussen 
+de gemeenten. Daarvoor kunnen verschillende oorzaken zijn. Als de instellingen in de buurt zijn, 
+kunnen ze beter bereikbaar zijn. Ook kan men beter bekend zijn met de instellingen of is men zelfs in 
+de buurt van instellingen gaan wonen. Voor de analyse gebruiken we informatie van de Vereniging 
+16 
+ 
+
+tussen buurten binnen een gemeente. Het is geoperationaliseerd als de spreiding van niet-westerse 
+migranten over de buurten in die gemeente. 
+ 
+De verklaring van verschillen in kosten per kind in jeugdzorg zal plaatsvinden op gemeentelijk niveau. 
+Figuur 2.2 geeft een beeld van deze verschillen in 2012. In de figuur zijn de verschillen ook 
+weergegeven voor de 42 jeugdzorgregio’s. Op het niveau van de jeugdzorgregio’s valt op dat de 
+regio’s met de hoogste kosten te vinden zijn in het uiterste noordoosten en zuidoosten van het land, 
+in een gebied iets boven het midden van het land en rond Nijmegen. De regio’s met de laagste 
+kosten liggen vrij centraal met uitlopers naar het westen en zuidwesten. 
+ 
+Figuur 2.2 Verschillen in historische jeugdzorgkosten per kind per jaar, per gemeente en per jeugdzorgregio, 2012 
+ 
+ 
+ 
+ 
+ 
+3  Verklaring van verschillen in kosten 
+ 
+We verklaren in beginsel de totale kosten per gemeente, dus opgeteld over alle over te hevelen 
+voorzieningen. De totale kosten per gemeente hangen uiteraard sterk samen met het aantal 
+kinderen van 0 tot en met 17 jaar per gemeente. Maar ook per kind kunnen de gemiddelde kosten 
+tussen gemeenten variëren. Bij het analyseren van de verschillen in gemiddelde kosten per kind in 
+18 
+ 
+
+met verblijf. Dit geeft een indruk van de verschillen tussen lichte en zware zorg. Zorg zonder verblijf 
+beslaat, met gemiddeld 570 euro per kind, 60% van de totale kosten. De standaarddeviatie, een maat 
+voor de spreiding van een kenmerk, is bij zorg met verblijf relatief wat groter. Ook liggen daar het 
+minimum en maximum relatief ver uit elkaar. 
+ 
+3.1 Uitkomsten van het verklaringsmodel  
+ 
+Het verklaringsmodel analyseert de verschillen in kosten per kind op gemeenteniveau. Dit doen we 
+met een (algemeen) regressiemodel. Dit is een standaardmethode om een continue doelvariabele te 
+relateren aan verklarende variabelen. We zullen ook nagaan of bepaalde combinaties van 
+verklarende variabelen extra effect hebben (cumulatie). 
+10
+De verklaringskracht wordt afgemeten aan de verklaarde variantie, die kan liggen tussen 0 en 100%.  
+Om praktische redenen is één kleine gemeente met uitzonderlijk lage kosten per kind niet in de 
+analyse opgenomen. Het gaat om 0,005% van alle kinderen in Nederland. 
+ 
+Met 26 variabelen vragen we statistisch gezien veel van het datamateriaal (ruim 400 gemeenten). 
+Met zogeheten “backward regression” bepalen we welke van de variabelen statistisch significant zijn. 
+Deze methode begint met alle variabelen, en verwijdert stap voor stap de variabelen die niet 
+11
+significant blijken te zijn. Uiteindelijk blijken er voor de totale kosten 17 variabelen significant te 
+zijn. Er zijn geen vaste regels die aangeven hoeveel variabelen zijn ‘toegestaan’ bij een bepaald aantal 
+waarnemingen. Bij opnieuw schatten, bijvoorbeeld met nieuwe gegevens, kan dit behoorlijke 
+effecten geven. Wel zien we dat de uitkomsten tamelijk robuust zijn bij het doorrekenen van 
+verschillende varianten. Ook zijn de overeenkomsten met een vorige exercitie, op gegevens uit 2011, 
+zo groot dat we erop kunnen vertrouwen dat de resultaten betrekkelijk stabiel in de tijd zijn. 
+ 
+De kenmerken hebben betrekking op het kind, de ouder(s) en het gezin, alsmede de directe 
+leefomgeving. Bij dat laatste kunnen we denken aan het voorkomen van hoge inkomens in een 
+gemeente, het aantal kinderen dat in een achterstandswijk woont binnen een gemeente, of de 
+stedelijkheid van een gemeente.  
+De uitkomsten bevatten ook een blok dat de invloed weergeeft van de regio en van de aanwezigheid 
+van een vestiging van een jeugdzorginstelling in de gemeente. We maken een onderverdeling in 
+provincies en enkele specifieke regio’s (Amsterdam, Den Haag en Rotterdam): de 
+jeugdzorgprovincies. Geheel onderaan staan de verklaarde varianties. Twee situaties worden hierbij 
+in de analyse onderscheiden: één waarbij geen rekening is gehouden met het effect van provincie en 
+de aanwezigheid van aanbieders en één waarbij dat wel is gedaan.  
+Door een uitgebreide set verklarende variabelen op te nemen, kunnen we de verschillen in kosten zo 
+goed mogelijk verklaren. De verklarende variabelen kunnen met elkaar samenhangen. Sommige 
+hebben onderlinge correlaties van 0,8 of zelfs 0,9. Daardoor is het lastig om effecten uniek toe te 
+                                                           
+10 2
+ Hiervoor gebruiken we de gecorrigeerde (‘adjusted’) R , die rekening houdt met het aantal opgenomen variabelen. 
+11
+ Voor verwijdering is een significantieniveau van 10% gehanteerd. 
+20 
+ 
+
+    
+zorgaanbieders     
+ aanwezigheid vestiging zorginstelling in gemeente  + + + 
+    
+regio    
+ + ‒ 
+ Groningen 
+ Drenthe  + ‒ 
+ Overijssel   + 
+ Gelderland   + 
++ +  
+ Flevoland 
+ Noord-Holland ‒  ‒ 
+ Zeeland ‒   
+ Limburg + +  
+ + ‒ 
+ RO Amsterdam 
+ RO Haaglanden ‒ ‒  
+ RO Rotterdam  ‒  
+   
+ 
+2
+R zonder regio en aanwezigheid aanbieders (%) 78 68 67 
+2
+R met regio en aanwezigheid aanbieders (%) 80 76 73 
+a Er is gewogen met het aantal kinderen per gemeente. Hierdoor houdt het model rekening met de kans op 
+toevalstreffers, die bij kleine gemeenten groter is dan bij grote (heteroskedasticiteit). 
+b Ordinary Least Square Analysis, p<0,10. 
+ 
+c De verklarende variabelen ‘kind in armoede’ en 'kind in eenoudergezin' hangen zo sterk samen dat tussen deze twee 
+geen nader onderscheid kan worden aangebracht. 
+d Bepaald op basis van een farmaceutische kostengroep (FKG),  die past bij deze chronische aandoening. 
+e Ten opzichte van matig stedelijk. 
+ 
+Bron: SCP  
+ 
+De uitkomsten voor de verklarende variabelen zijn steeds aangegeven met plussen (positief 
+significant effect op 5%-niveau) en minnen (negatief significant effect op 5%-niveau). De bovenste 
+drie blokken bevatten de kenmerken van de bevolking die invloed hebben op de gemiddelde kosten 
+per kind. In het verklaringsmodel is het niet mogelijk om de mate van efficiency mee te nemen of de 
+mate waarin preventie zou kunnen helpen de totale kosten te beperken. Dit is ook geen groot 
+probleem omdat het maar de vraag is of deze factoren een rol moeten spelen in een verdeelmodel, 
+omdat dan efficiënte gemeenten of gemeenten die succesvol preventief beleid voeren zouden 
+worden afgestraft. In beginsel hebben alle factoren in tabel 2.2 kans gehad om bij te dragen aan de 
+verklaring van verschillen in kosten van jeugdzorg. Factoren die geen significante rol spelen zijn via 
+de methode van backward regression buiten beeld gelaten. De tabel is als volgt te lezen. De eerste 
+kolom bevat de resultaten voor de gemiddelde totale kosten in 2012. Een + of -teken geeft aan dat 
+een verklarende variabele significant is op 5%-niveau (dus statistisch gezien van belang) en hogere 
+respectievelijk lagere kosten geeft. 
+ 
+Waar de eerste kolom de resultaten geeft voor de totale kosten van de hele sector, geven de andere 
+twee kolommen de uitkomsten voor de kosten van zorg zonder en met verblijf. Het onderscheid 
+tussen kosten met en zonder verblijf is gemaakt omdat dit mogelijk betere verklaringsmodellen geeft 
+in termen van verklaringskracht en theoretische duiding. Bovendien zijn de kosten met verblijf 
+22 
+ 
+
+– Recent gescheiden ouders (+). Een scheiding is voor kinderen een ingrijpende gebeurtenis en 
+gaat vaak gepaard met complexe problemen die daarmee samenhangen. Soms hebben partners 
+ook (grote) onenigheid of een moeizame omgang, wat zijn uitwerking heeft op het welzijn van de 
+kinderen. De kinderen zijn zelf ook onderdeel van het scheidingsproces, omdat een 
+omgangsregeling moet worden getroffen. Voorts kunnen grote veranderingen in de sociale 
+omgeving van kinderen optreden als gevolg van een scheiding. 
+– Laagopgeleide volwassenen ( −). Wat verrassend wellicht blijkt hier dat een lage opleiding van 
+volwassenen (ouders) tot minder kosten leidt. Hierbij moet worden bedacht dat dit effect is 
+gemeten na correctie voor andere kenmerken zoals de hoogte van het inkomen en psychische 
+problemen bij ouders. De bijdrage aan de totale verklaring van dit kenmerk is overigens gering. 
+12
+– Ouders met psychische Farmaceutische Kosten Groep FKG (+). Bij ouders die (regelmatig) een 
+bezoek brengen aan een hulpverlener die hun geestelijke bijstand verleent, heeft hun kind 
+mogelijk een verhoogd risico om met deze problemen te kampen (zie o.a. Rutter et al. 2006). 
+Verder is het mogelijk dat ouders die psychische problemen hebben, meer ondersteuning nodig 
+13
+hebben bij het opvoeden van hun kinderen. 
+– Hoog inkomen (−). In rijkere gemeenten (die meer huishoudens met een hoog inkomen hebben) 
+zouden inwoners minder problemen kunnen ervaren, waardoor de totale jeugdzorgkosten per 
+kind in deze gemeenten lager zijn dan in minder rijke gemeenten.  
+– Uitkeringsontvanger (+). In gemeenten met veel personen die afhankelijk zijn van een sociale 
+uitkering wegens werkloosheid of arbeidsongeschiktheid (excl. bijstand) zijn de kosten van 
+jeugdzorg significant hoger dan in gemeenten waar dit niet het geval is. Dit effect komt bovenop 
+het effect van inkomen op de jeugdzorgkosten. 
+– Gemeenten die niet, weinig of zeer sterk stedelijk zijn ( −), vergeleken met matig stedelijke 
+gemeenten. Een duidelijke verklaring voor dit effect hebben wij niet. Mogelijk speelt bij sterk 
+stedelijke gebieden de nabijheid van hulpverlening of efficiëntere/goedkopere hulpverlening een 
+rol (de zgn. economies of scale). Ook kan preventie hier een rol spelen. Bij niet en weinig 
+stedelijke gebieden zou een sterker sociaal netwerk een rol kunnen spelen bij het waargenomen 
+effect. 
+ 
+Het tweetal variabelen ‘kind in armoede’ en ‘kind in eenoudergezin’ hangt sterk samen. Samen 
+leveren ze een grote bijdrage aan de verklaarde variantie. Waarschijnlijk verhogen ze beide de kans 
+op gebruik en kosten van jeugdzorg. Er is helaas geen analysetechniek die binnen deze groep 
+variabelen een beslissend onderscheid kan maken.  
+Bij de andere rijen valt te zien dat herkomst naar geboorteland iets uiteenlopende effecten heeft. 
+Weliswaar heeft een Turkse herkomst overal een negatief effect op de kosten, maar gemeenten met 
+                                                           
+12
+ Een farmaceutische kostengroep (FKG) is een groep medicijnen die past bij een bepaalde chronische aandoening. Het 
+gaat hier om hulp waarbij ook een psychiater is betrokken omdat deze uitsluitend gemachtigd is deze medicijnen voor te 
+schrijven. 
+13
+ Het is niet uit te sluiten dat het verband tussen de psychische gesteldheid van de ouders en het beroep op 
+jeugdzorgvoorzieningen alleen van de ouders naar het kind verloopt: ouders brengen hun problemen op hun kind(eren) 
+over. Het is echter ook mogelijk dat de relatie via het kind naar de ouder(s) verloopt: door de problemen die ouders met 
+hun kind ervaren, en waarvoor professionele hulp is ingeschakeld, kunnen ouders zelf de behoefte hebben om over deze 
+problemen van gedachten te wisselen met een psycholoog, psychiater of maatschappelijk werker.  
+24 
+ 
+
+– De aanbodvariabele meet uiteraard het effect van de aanwezigheid van vestigingen van 
+aanbieders. Maar ook hierin kan (onbedoeld) het effect van ontbrekende verklarende variabelen 
+zijn opgenomen. 
+ 
+Bij de regio’s is het landelijk gemiddelde als referentie gekozen. Regelmatig is de afwijking van een 
+regio significant. Op totaalniveau zijn er significante verschillen bij Flevoland en Limburg (positief) en 
+Noord-Holland, Zeeland en de regio Den Haag (negatief).  
+ 
+Bij de totale kosten zijn de resterende verschillen tussen regio’s bij de regio Flevoland het grootst per 
+kind (meer), gevolgd door Noord-Holland (minder), Zeeland (minder), Limburg (meer) en Haaglanden 
+(minder). Wanneer men deze resterende verschillen in het verdeelmodel niet zou willen honoreren, 
+zal dit – los van andere relevante kenmerken – dus negatieve herverdeeleffecten opleveren voor 
+Flevoland en Limburg en positieve herverdeeleffecten voor Noord-Holland, Zeeland en Haaglanden. 
+Verder zijn er in zes regio’s geen resterende verschillen op het niveau van de totale kosten, maar wel 
+bij de zorgkosten met of zonder verblijf. Op totaalniveau vallen dit soort verschillen dan niet 
+significant uit.  
+ 
+Het toevoegen van een variabele die duidt op de aanwezigheid van een vestiging van een 
+zorginstelling in de gemeente, maakt duidelijk dat deze een positief effect heeft op de 
+jeugdzorgkosten per kind. Bij het opnemen van de aanbiedersvariabele is rekening gehouden met de 
+soort instelling waarop de zorg betrekking heeft. Bij zorg zonder en met verblijf afzonderlijk bestaat 
+dit effect ook. 
+ 
+3.3 Gevoeligheidsanalyse modelspecificatie  
+ 
+Het ontwikkelen van dit verklaringsmodel is gebaseerd op theoretische inzichten. De uitkomsten 
+moeten statistisch significant en plausibel zijn en stroken met theoretische inzichten. Dit neemt niet 
+weg dat er onderweg allerlei praktische beslissingen genomen kunnen of moeten worden die de 
+modeluitkomsten kunnen beïnvloeden. In deze paragraaf bespreken we de opties die aan de orde 
+zijn gekomen bij de verklaring van verschillen in jeugdzorgkosten en de gevolgen die de opties 
+hebben voor de modeluitkomsten.  
+ 
+– Het effect van stedelijkheid is moeilijk te interpreteren. Kenmerken die deels met stedelijkheid 
+samenhangen, zoals bevolking naar herkomst, armoede en eenoudergezinnen zijn al opgenomen 
+in het model. Stedelijkheid staat dus voor andere kenmerken die we niet in het model hebben 
+opgenomen. Als we de schatting uitvoeren zonder stedelijkheid daalt de verklaarde variantie 
+niet, maar nemen andere verklarende variabelen de verklaring over. Kennelijk heeft stedelijkheid 
+op zichzelf niet veel invloed. Er blijven dan wel meer onverklaarde verschillen tussen regio’s over. 
+– Gezien de verschillende kosten naar gemeentegrootte zouden de effecten kunnen verschillen 
+naar gemeentegrootte. Het resultaat blijkt echter tamelijk robuust als we ons tot de middelgrote 
+26 
+ 
+
+name de resterende verschillen tussen regio’s. Zo wordt het positieve resterende verschil voor 
+Limburg sterker (werd overgenomen door het kenmerk ‘uitkeringsontvanger‘) en wordt het 
+negatieve resterende verschil voor de grote steden ook sterker. Tot de uitkeringsontvangers 
+behoren overigens ook Wajongers en Wsw’ers. Dit kan tot interpretatieproblemen leiden in 
+gebieden waar veel jongeren jeugdzorg ontvangen en met het volwassen worden gebruik gaan 
+maken van deze regelingen. Gezien de substantiële bijdrage van ‘uitkeringsontvanger‘ aan de 
+verklaringskracht van het model, wordt dit kenmerk toch gehandhaafd. Een probleem hierbij is 
+wel dat eigenlijk moet worden uitgegaan van het percentage uitkeringsontvangers met 
+jeugdigen, maar dit kenmerk is niet op gemeentelijk niveau beschikbaar. Dit kan tot 
+vertekeningen in modeluitkomsten leiden. 
+ 
+Al met al is de gekozen vormgeving van het verklaringsmodel goed verdedigbaar. Bovendien blijkt 
+het model robuust voor alternatieve specificaties. Het sluit ook goed aan op een exercitie op 
+gegevens uit 2011. 
+ 
+De hier resulterende set van verklarende factoren biedt het startpunt voor de opstelling van het 
+gemeentelijk verdeelmodel voor jeugdzorgmiddelen door Cebeon. Het SCP heeft aanvankelijk een 
+set van verklarende factoren opgeleverd, waarin het kenmerk “uitkeringsontvanger” ontbrak. Het 
+SCP had uit de literatuur factoren opgenomen die hieraan sterk verwant waren, zoals het deel 
+uitmaken van een gezin met laag inkomen, een laag opleidingsniveau en niet-werkenden. Uit nadere 
+analyses, die mede waren ingegeven door uitkomsten van Cebeon, is echter gebleken dat dit 
+kenmerk, los van de door het SCP opgenomen kenmerken, een zelfstandig effect had op de kans op 
+hogere kosten van jeugdzorg. We moeten wel opmerken dat het kenmerk op het niveau van 
+volwassenen is gebruikt. Helaas was het nog niet mogelijk het aandeel uitkeringsontvangers te 
+bepalen op het niveau van ouders. 
+ 
+De verklaringskracht van de resulterende set verklarende factoren kan ook ruimtelijk in beeld 
+worden gebracht. Om de presentatie overzichtelijk te houden is hier gekozen voor een indeling in 
+jeugdzorgregio’s. Figuur 3.1 geeft de historische kosten 2012 en figuur 3.2 geeft de regionale 
+verschillen van de drie belangrijkste verklarende factoren: inkomen, eenoudergezin en 
+uitkeringsontvanger. Figuur 3.1 is identiek aan het rechterdeel van figuur 2.2. Bij de verklarende 
+factoren moet worden bedacht dat meer hoge inkomens tot minder kosten leiden (negatief effect), 
+en eenoudergezin en uitkeringsontvangers juist tot hogere kosten (positief). Vooral de hoge kosten in 
+noord- en zuidoost en de lage kosten in het centrale, iets zuidwestelijk gelegen deel van het land zijn 
+terug te zien in de verdeling van de verklarende factoren.  
+  
+28 
+ 
+
+3.4 Het relatieve belang van de verklarende kenmerken 
+ 
+Het valt niet exact te zeggen welke invloeden ‘het belangrijkst’ zijn. We hebben wel een benadering 
+uitgevoerd die een indicatie geeft van het belang van de afzonderlijke verklarende variabelen. Hieruit 
+blijkt (in volgorde van aflopend belang) dat het kenmerk hoog inkomen gemiddeld genomen 25% van 
+de totale verklaarde verschillen levert. Tellen we daar het kenmerk armoede of eenoudergezin (niet 
+nader te onderscheiden) bij op, dan is het geheel verantwoordelijk voor 44% van de verklaarde 
+verschillen. Het aandeel uitkeringsontvangers voegt 16% toe. Het totaal van deze 
+sociaaleconomische variabelen (inclusief eenoudergezin om de eerder genoemde reden) is dus goed 
+voor 60% van de verschillen. Het sociaal-demografische blok draagt met kenmerken als recent 
+gescheiden ouders, etnische herkomst en onderwijsniveau kind 25% bij aan de verklaarde 
+verschillen. De kleinste bijdragen komen op conto van stedelijkheid (9%) en ouders die psychische 
+geneesmiddelen gebruiken (6%). 
+  
+30 
+ 
+
+   geen van beide ouders werkt  + x  
+   beide ouders werken − x CBS 
+  uitkeringsontvanger   heeft een uitkering wegens werkloosheid of  
+arbeidsongeschiktheid (Wsw, WW, Wajong, Wao, 
+WAZ, WIA of vergelijkbare regeling).  
+  inkomen: (armoede)   aandeel kinderen wonend in een gezin dat 1 jaar arm CBS 
+is 
+  hoog inkomen   gestandaardiseerd huishoudinkomen deciel 8, 9 en 10 CBS 
+(gedeeld door totaalaantal huishoudens in 
+e
+gemeente)  
+ 
+      
+ overige variabelen    
+  leeftijd van ouder bij geboorte kind −  x  
+   chronische aandoening +  aandeel ouders met een chronische aandoening op IBMG 
+b
+basis van een somatische FKG, ten minste één 0-17-
+jarige in huis 
+  bezoek psycholoog, psychiater of +  aandeel ouders met een gecombineerde psychische IBMG 
+b
+maatschappelijk werker  FKG, ten minste één 0-17-jarige in huis 
+  gezinssamenstelling     
+  huishouden met twee biologische    
+ouders 
+  huishouden met één (biologische) +  aandeel kinderen in een eenoudergezin CBS 
+ouder 
+     
+    aandeel kinderen van recent gescheiden ouders CBS 
+  samengesteld huishouden  +   
+  huishouden met vier of meer kinderen -  huishouden met drie of meer kinderen  
+  verslavingsproblematiek +  x  
+  slachtoffer van misdrijf of ongeval +  x  
+      
+kenmerken omgeving    
+ stedelijkheid    
+    gemeentegrootte  CBS 
+ (indeling op basis van het aantal 0-17-jarigen in de 
+gemeente): indicatie voor grotestedenproblematiek 
+of cultuurverschillen 
+ leefbaarheid in de wijk   aandeel kinderen in een achterstandswijk VJI 
+ criminaliteit   aandeel geregistreerde verdachte personen GIDS, HKS 
+     
+ religiositeit   aantal kiezers dat tijdens TK-verkiezing van 2012 op CBS 
+f
+SGP of CU heeft gestemd 
+  
+segregatie  SCP-berekening: een indicatie voor cultuurverschillen CBS 
+tussen buurten, op basis van CBS-informatie 
+aantal instellingen PJZ, GGZ, LVB   VNG 
+    
+a Het gaat om het aandeel onder 15-jarige jongeren dat vmbo-basis-, vmbo-kader- of praktijkonderwijs volgt. 
+b Een farmaceutische kostengroep (FKG) is een groep medicijnen die past bij een bepaalde chronische aandoening. 
+c  Degenen met een lage opleiding zijn zij die hoogstens basisonderwijs, vmbo (lbo, mulo, mavo), de eerste drie leerjaren van havo/vwo 
+of het laagste niveau van het beroepsonderwijs (huidig mbo-kwalificatieniveau 1) hebben behaald. 
+d Degenen met hoge opleiding hebben een hbo- of universitaire opleiding genoten, of een oudere (beroeps)opleiding die daarmee 
+vergelijkbaar is. 
+e  Het aandeel huishoudens dat een inkomen heeft dat landelijk bij de hoogste 30% behoort. Een gemeente met een score van 30% is 
+dus gemiddeld, en een gemeente met bijvoorbeeld 40% heeft meer hoge inkomens dan gemiddeld. 
+f Een negatieve interpretatie: in gemeenten waar veel mensen streng in de leer zijn, zou problematiek veelal achter de voordeur blijven 
+en pas op latere leeftijd naar buiten komen. Pas dan zou dit tot kosten leiden.  
+ Een positieve interpretatie: in gemeenten waar veel mensen streng in de leer zijn, zou veel aandacht zijn voor jeugdigen in zorg en is 
+men meer geneigd als pleeggezin op te treden. 
+ X – geen gegevens op gemeenteniveau, of bijna geen variatie op gemeenteniveau  
+ 
+  
+32 
+ 
+
+Hermanns, J. (1987). Risicofactoren in de ontwikkeling van kinderen: de rol van de bijsturende omgeving. In: Kind en 
+Adolescent, jg. 8, p. 49-59. 
+Hermanns, J. (1998). Family risks and family support: an analysis of concepts. In: J. Hermanns en H.R. Leu (red.), Family risks 
+and family support. Theory, research and practice in Germany and the Netherlands (p. 9-37). Delft: Eburon. 
+Hermanns, J. (2007). Opvoeden en opgroeien: een visie achter het beleid. In: P. van Lieshout, M. van der Meij en J. de Pree 
+(red.), Bouwstenen voor betrokken jeugdbeleid (p. 21-49). Amsterdam: Wetenschappelijke Raad voor het Jeugdbeleid / 
+Amsterdam University Press. 
+Hermanns, J. (2009). Het opvoeden verleerd. Amsterdam: Vossiuspers, UvA. 
+Hermanns, J., C. Nijnatten, F. Verheij en M. Reuling (2005). Handboek jeugdzorg deel 1: stromingen en specifieke 
+doelgroepen. Houten: Bohn Stafleu van Loghum. 
+Hoek, H. Wijbrand (2006). Incidence, prevalence and mortality of anorexia nervosa and other eating disorders. In: Current 
+Opinion in Psychiatry, jg. 19, nr. 4, p. 389-394. 
+Kepper, A., K. Monshouwer, S. van Dorsselaer en W. Vollebergh (2012). Middelengebruik door jongeren. In: Tijdschrift voor 
+gezondheidswetenschappen, jg. 90, nr. 5, p.287-294. 
+Kim, J.K., R.D. Conger, G.H. Elder en F.O. Lorenz (2003). Reciprocal influences between stressful life events and adolescent 
+internalizing and externalizing problems. In: Child Development, jg. 74, nr. 1, p. 127-143. 
+Klaarbergen C. van, B. Rijbroek en M.M. Schouten (2013). Kindermishandeling: onderzoek naar de risico- en beschermende 
+factoren van kindermishandeling. Bureau Jeugdzorg, Stadsregio Rotterdam. 
+Leij, A. van de (2002). De dynamiek van stagnerend leren (inaugurele rede). Amsterdam: Vossiuspers UvA. 
+Levine, J.A., C.R. Emery en H. Pollack (2007). The well-being of children born to teen mothers. In: Journal of Marriage and 
+Family, jg. 69, p. 105-122. 
+Mongillo, E.A., M. Briggs-Gowan, J.D. Ford en A.S. Carter (2009). Impact of traumatic life events in a community sample of 
+toddlers. In: Journal of Abnormal Child Psychology, jg. 37, p. 455-468. 
+Mönks, F.J. en I.H. Ypenburg (2011). Hoogbegaafdheid bij kinderen. Amsterdam: Boom. 
+Moore, K.A., N.R. Steward-Streng en P. Daneri (2013). What constitutes a strong start for babies? In: Child Indicators 
+Research, jg. 6, nr. 1, p. 137-160. 
+Nagin, D.S. en R.E. Tremblay (2001). Parental and early childhood predictors of persistent physical aggression in boys from 
+kindergarten to high school. In: Archives of General Psychiatry, jg. 58, nr. 4, p. 389-394. 
+Pommer, E., H. van Kempen en K. Sadiraj (2011). Jeugdzorg in groeifase. Ontwikkelingen in gebruik en kosten van de 
+jeugdzorg. Den Haag: Sociaal en Cultureel Planbureau. 
+Ras, M., I. Woittiez, H. van Kempen en K. Sadiraj (2010). Steeds meer verstandelijk gehandicapten? Ontwikkelingen in vraag 
+en gebruik van zorg voor verstandelijk gehandicapten 1998-2008. Den Haag: Sociaal en Cultureel Planbureau. 
+Rutter, M. (2009). Understanding and testing risk mechanisms for mental disorders. In: Journal of Child Psychology and 
+Psychiatry, jaargang 50, nr. 1-2, p. 44-52. 
+Rutter, M., T.E. Moffitt en A. Caspi (2006). Gene-environment interplay and psychopathology: multiple varieties but real 
+effects. In: Journal of Child Psychology and Psychiatry, jg. 47, nr. 3/4, p. 226-261. 
+Sadiraj K., M. Ras, L. Putman en J.J. Jonker (2013). Groeit de jeugdzorg door? Het beroep op de voorzieningen: realisatie 
+2001-2011 en raming 2011-2017. Den Haag: Sociaal en Cultureel Planbureau. 
+Sameroff A., (2010). A unified theory of development: a dialectic integration of nature and nurture. In: Child Development, 
+jg. 81, nr. 1, p.6-22.  
+Schrijvers C.T.M. en A.J. Schuit (red.) (2010). Middelengebruik en seksueel gedrag van jongeren met een laag 
+opleidingsniveau: aangrijpingspunten voor preventie. (RIVM Rapport 270372001/2010). 
+Sieh, D.S., M.A. Visser-Meily en A.M. Meijer (2013). Differential outcomes of adolescents with chronically ill and healthy 
+parents. In: Journal of Child and Family Studies, jg. 22, nr. 2, p. 209-218. 
+Spruijt, E. (2007). Scheidingskinderen. Overzicht van recent sociaal-wetenschappelijk onderzoek naar de gevolgen van 
+ouderlijke scheiding voor kinderen en jongeren. Amsterdam: SWP. 
+Stams G.J., D. Brugman, M. Deković, L.van Rosmalen, P. van der Laan en J.C. Gibbs (2006). The moral judgment of juvenile 
+delinquents: a meta-analysis. In: Journal of Abnormal Child Psychology, jg 34, nr. 5, p. 692-708. 
+Sykes, B. (2009). De buurtcontext en middelbare schoolprestaties in Nederland. In: S. Mustard en W. Ostendorf (red.), 
+Problemen in wijken of probleemwijken? (p. 35-48). Assen: Van Gorcum. 
+34 
+ 
+
