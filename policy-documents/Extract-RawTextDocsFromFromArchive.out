@@ -11908,3 +11908,206 @@ Exception calling ".ctor" with "1" argument(s): "Unknown encryption type R = 6"
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2016\02\12 ]> verslag-raad-buitenlandse-zaken-os-1-en-2-februari-2016.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2016\09\07 ]> voortgangsrapportage-handelsakkoorden.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 59; BatchedItems: 100]...[0m
+[main edd56987] Added batch #59 of policy-docs (total: 100
+ 101 files changed, 101161 insertions(+)
+ create mode 100644 policy-documents/Archive/regelingen/2020/07/01/bijlage-regeling-verlening-tijdelijk-vliegverbod-bes-v-a-1-juli-2020.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/07/10/bijlage-2-rijkswet-caribische-hervormingsentiteit-aruba-curacao-en-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/07/31/bijlage-wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-1-aug-tot-1-sept-uitbreiding-landen.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/08/28/bijlage-1-wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-1-sept-tot-1-okt.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/10/01/bijlage-wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-1-okt-tot-1-nov-en-wijziging-landen.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/10/30/bijlage-1-wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-1-nov-tot-1-dec-en-wijziging-landen.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/11/02/landspakket-curacao/onderlinge-regeling-landspakket-curacao-en-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/11/19/tijdelijke-regeling-maatregelen-covid-19-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/11/19/tijdelijke-regeling-maatregelen-covid-19-saba.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/11/19/tijdelijke-regeling-maatregelen-covid-19-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/11/19/tijdelijke-regeling-maatregelen-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/12/01/wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-1-dec-tot-15-dec.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2020/12/14/bijlage-1-wijziging-tijdelijke-regeling-vliegverbod-bes-verlenging-15-dec-tot-15-jan.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/01/14/regeling-tot-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-het-vereisen-van-een-nega-18D8BAFC.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/01/14/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-bonaire-de-tijdelijke-regeling-maatregelen-covid-19-s-90B382AC.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/03/08/regeling-van-de-minister-van-vws-de-minister-van-jenv-en-de-minister-van-bzk-van-8-maart-2021-kenmerk-1812476-2-659A8E3A.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/03/23/regeling-houdende-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-verlenging-van-het-m-92CF04D4.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/04/13/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-verlenging-van-het-maatregelenpakket-i-2639B167.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/05/28/concept-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-de-inzet-van-coronatoegangsbew-820B5222.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/05/28/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-de-inzet-van-coronatoegangsbewijzen-op-40D50426.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/06/11/toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/06/18/regeling.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/06/regeling-houdende-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/09/regeling-houdende-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-het-invoeren-van-her-2F3FAA92.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/09/regeling-tot-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-en-de-tijdelijke-spoedregeling-dcc.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/09/regeling-tot-wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-de-termijn-voor-toegang-e-F5DDFE0B.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/07/29/regeling-ivm-het-verlengen-van-de-regels-voor-meerdaagse-evenementen-in-europees-nederland-het-verkorten-van-de-192BCBAB.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/08/06/ministeriele-regeling.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/11/22/regeling.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/12/10/regeling-en-toelichting-coronatoegangsbewijs-voor-kort-verblijf.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2021/12/15/staatscourant-2021-47536-vaststelling-bedragen-cn-2022.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2022/01/14/wijziging-van-de-tijdelijke-regeling-maatregelen-covid-19-in-verband-met-verlenging-van-de-lockdown-en-het-door-6C999B28.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2022/01/24/regeling-geldigheidsduur-en-kort-verblijf.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2022/03/15/gewone-regeling-15-maart-2022.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/04/04/toelichting-bij-de-onderlinge-regeling-samenwerking-bij-hervormingen/bijlage-2-toelichting-bij-de-onderlinge-regeling-samenwerking-bij-hervormingen.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/04/04/uitvoeringsagenda-aruba-2023-1-april-30-juni-2023/bijlage-8-uitvoeringsagenda-aruba-2023-1-april-30-juni-2023.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/04/04/uitvoeringsagenda-curacao-2023-1april30juni-2023/bijlage-9-uitvoeringsagenda-curacao-2023-1april30juni-2023.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/04/04/uitvoeringsagenda-sint-maarten-2023-1april-30juni-2023/bijlage-10-uitvoeringsagenda-sint-maarten-2023-1april-30juni-2023.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/09/11/ontwerpregeling-regionaal-investeringsfonds-mbo-2024-2027.raw.txt
+ create mode 100644 policy-documents/Archive/regelingen/2023/09/25/regeling-houdende-regels-met-betrekking-tot-subsidieverstrekking-aan-de-stichting-nederlands-onderwijs-in-het-b-A70D1C4D.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2010/10/14/introductiedossier-nieuwe-bewindslieden-defensie/introductiebundel-defensie-2012-definitief.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2010/10/14/introductiedossier-nieuwe-bewindslieden/wwi4web.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2010/10/19/nota-van-inlichtingen-europese-aanbesteding-tekstbureau-inclusief-bijlagen/nota-van-inlichtingen-eu-aanbesteding-tekstbureau-incl-bijlagen.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2010/11/05/introductiedossier-bewindslieden-portefeuilles-wonen-wijken-integratie-en-rijksgebouwendienst/wwidefweb.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2010/11/05/introductiedossier-bewindspersonen-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/introductiedossier-bzk-voor-internet.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2011/03/31/uitvoeringsprogramma-vorming-nationale-politie/uitvoeringsprogramma-vorming-nationale-politie-versie-31-maart.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/03/19/introductiedossier-minister-spies-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/introdcuctiedossier-bzk-2011-minister-spies.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/04/26/overzicht-over-de-wetgeving-bes-eilanden-ocw.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/05/22/verzamelwet-en-memorie-van-toelichting-wijziging-provinciewet-en-gemeentewet.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/09/17/bijlage-bij-persbericht-17-september-2012-uitslag-tweede-kamerverkiezing-2012/bijlage-bij-persbericht-uitslag-tweede-kamerverkiezing-12.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/06/overdrachtsdossier-ministerie-van-infrastructuur-en-milieu/overdrachtsdossier-ienm.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/06/overdrachtsdossier-ministerie-van-onderwijs-cultuur-en-wetenschap/edoc-457974-v3-openbaar-overdrachtsdossier-8-november-2012.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/07/introductiedossier-ministerie-van-sociale-zaken-en-werkgelegenheid/dossier-nieuwe-bwp-szw.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/07/introductiedossier-ministerie-van-volksgezondheid-welzijn-en-sport/introductiedossier-vws.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/11/13/portefeuilles-kabinet-rutte-asscher.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2012/12/18/introductiedossier-ministerie-van-buitenlandse-zaken/2012-introductiedossier-buitenlandse-zakendoc.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2013/08/27/antwoorden-op-vragen-van-het-algemeen-dagblad-over-sona-deel-1/vragen-en-antwoorden-algemeen-dagblad.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2014/05/06/profielschets-rijksvertegenwoordiger-voor-de-openbare-lichamen-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2014/11/03/introductiedossier-ministerie-van-buitenlandse-zaken/introductiedossier-buitenlandse-zaken-2014.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2015/11/09/introductiedossier-staatssecretaris/introductiedossier-staatssecretaris-def.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/01/09/protocol-identificatie-en-labeling-pil/protocol-identificatie-en-labeling-7.0-definitief.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/06/01/onderzoekskader-2017-voor-het-toezicht-op-de-voorschoolse-educatie-en-het-primair-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/06/01/onderzoekskader-2017-voor-het-toezicht-op-het-middelbaar-beroepsonderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2017/06/01/onderzoekskader-2017-voor-het-toezicht-op-het-voortgezet-onderwijs.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2018/11/09/Handboek-Bijstand-Inkomende-Buitenlandse-Bijstand.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2018/12/13/bijlage-bij-kamerbrief-over-aanbieding-mkba-werkwijzer-natuur.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2020/02/20/toetsingskader-risicoregelingen-liquiditeitssteun-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2020/02/20/toetsingskader-risicoregelingen-rioolwaterzuiveringsinstallatie-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2022/01/10/introductiedossier-bewindspersonen-ministerie-van-defensie/introductiedossier-ministerie-van-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2022/01/10/introductiedossier-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/introductiedossier-ministerie-van-bzk-deel-1.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2022/01/10/introductiedossier-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/introductiedossier-ministerie-van-bzk-deel-2.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2022/01/10/introductiedossier-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/introductiedossier-ministerie-van-bzk.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2022/01/10/introductiedossier-ministerie-van-onderwijs-cultuur-en-wetenschap/73482_OCW_Introductiedossier_TG_PDFA.raw.txt
+ create mode 100644 policy-documents/Archive/richtlijnen/2024/07/02/introductiedossier-bewindspersonen-ministerie-van-ienw/introductiedossier-bewindspersonen-ienw-organisatiedeel.raw.txt
+ create mode 100644 policy-documents/Archive/toespraken/2008/12/16/toespraak-minister-president-bij-opening-tentoonstelling-marine-en-michiel-den-haag-1-mei-2007/speechmpde-ruyter2007-05-01.raw.txt
+ create mode 100644 policy-documents/Archive/toespraken/2009/05/26/overheid-houdt-zich-verre-van-slaapkamerpolitiek/lezing-seksuele-gezondheid.raw.txt
+ create mode 100644 policy-documents/Archive/toespraken/2010/02/03/toespraak-minister-bij-de-doop-patrouilleschip-holland/toespraak-doop-opv.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2010/08/10/verslag-symposia-toekomst-van-het-koninkrijk/symposia-toekomst-van-het-koninkrijk-met-uitgebreid-verslag-symposium-3.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2010/11/30/stand-van-zaken-sociale-vormingsplicht-curacao-en-sint-maarten/notitie-stand-van-zaken-svp.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2011/06/17-over-stand-van-zaken-op-bonaire-sint-eustatius-en-saba/voorjaarsrapportage-2011-rijksvertegenwoordiger.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2011/07/08/kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied/jaarverslag-2010-kwcarib.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2011/11/24/implementatieplan-wet-vrom-bes-concept/lp-i-m-0000001379.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2011/11/24/toekomstige-milieuregelgeving-caribisch-nederland/lp-i-m-0000001381.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/02/10/overzicht-aanvragen-vergunning-tot-verblijf-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/06/14/verslag-houdende-lijst-van-vragen-en-antwoorden.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/07/17/evaluatie-forward-operating-locations-verdrag-oktober-2009-tot-en-met-september-2010.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/08/31/overzicht-legislatieve-terughoudendheid-bes-eilanden-overzicht-wetgeving-caribisch-nederland-ocw-augustus-2012.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/10/16/antwoorden-op-schriftelijke-vragen-begrotingsbehandeling-el-i-deel-economie-en-innovatie.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/10/22/eerste-nota-van-wijziging-bp.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/10/24/vaststelling-begrotingsstaat-bes-fonds-2013.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/11/01/overzicht-voorgenomen-regelgeving-voor-caribisch-nederland/lp-i-m-0000002710.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2012/12/20/antwoorden-op-vragen-omtrent-het-diergezondheidsfonds.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2013/01/14/stand-van-zaken-uitvoering-toezeggingen.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2013/11/22/nota-van-toelichting-rond-professionalisering-van-de-jeugdzorg.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2013/12/13/antwoorden-op-vragen-over-de-tweede-suppletoire-begroting-vws-2013.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2013/12/13/beantwoording-vragen-overleg-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-12-december-2013.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2015/04/10/geannoteerde-agenda-raad-buitenlandse-zaken-van-20-april-2015.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2015/10/09/geannoteerde-agenda-rbz-26-oktober-2015.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2016/02/12/verslag-raad-buitenlandse-zaken-os-1-en-2-februari-2016.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2016/09/07/voortgangsrapportage-handelsakkoorden.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2017\06\01 ]> bijlage-bij-kamerbrief-inzake-verslag-raad-buitenlandse-zaken-os-van-19-mei-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2017\07\10 ]> bijlage-bij-kamerbrief-inzake-schriftelijk-overleg-oceanennotitie.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2017\09\04 ]> verslag-deelname-nederland-aan-de-jaarlijkse-vn-conferentie-sdgs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2018\02\15 ]> verslag-van-het-schriftelijk-overleg-van-de-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-20-februari-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2018\06\11 ]> verslag-ring-1-bestuurlijk-overleg-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2018\12\04 ]> verslag-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-26-november-2018.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2019\11\22\beantwoording-kamervragen-over-raad-buitenlandse-zaken-ontwikkelingssamenwerking-25--BA9A2057 ]> bijlage-bij-kamerbrief-inzake-schriftelijk-overleg-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-25-nov-C83316FD.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\04\14\verslag-raad-buitenlandse-zaken-ontwikkelingssamenwerking-8-april-2020 ]> verslag-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-8-april-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\04\21\beantwoording-kamervragen-over-raad-buitenlandse-zaken-22-april-2020 ]> verslag-inzake-schriftelijk-overleg-raad-buitenlandse-zaken-van-22-april-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\05\29\geannoteerde-agenda-raad-buitenlandse-zaken-en-ontwikkelingssamenwerking-8-juni-2020 ]> bijlage-geannoteerde-agenda-vtc-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-8-juni-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\06\16 ]> verslag-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-8-juni-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\06\25\agenda-raad-buitenlandse-zaken-13-juli-2020 ]> geannoteerde-agenda-raad-buitenlandse-zaken-13-juli-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\07\15 ]> verslag-raad-buitenlandse-zaken-van-13-juli-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\09\09 ]> geannoteerde-agenda-raad-buitenlandse-zaken-van-21-september-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\09\18 ]> geannoteerde-agenda-informele-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-29-september-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\09\21\verslag-raad-buitenlandse-zaken-21-september-2020 ]> verslag-raad-buitenlandse-zaken-van-21-september-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2020\11\12 ]> geannoteerde-agenda-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-23-november-2020.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\04\08 ]> geannoteerde-agenda-raad-buitenlandse-zaken19-april-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\04\16\besluitenlijst-ministerraad-16-april-2021 ]> besluitenlijst-ministerraad-20210416.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\04\19 ]> verslag-van-de-informele-videoconferentie-van-de-leden-van-de-raad-buitenlandse-zaken-van-19-april-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\05\03 ]> geannoteerde-agenda-informele-raad-algemene-zaken-van-17-mei-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\05\17 ]> verslag-van-een-schriftelijk-overleg-van-de-vaste-commissie-voor-europese-zaken.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\05\21\besluitenlijst-ministerraad-21-mei-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210521.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\05\28\agenda-rijksministerraad-28-mei-2021 ]> agenda-rijksministerraad-20210528-ochtend.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\05\28\geannoteerde-besluitenlijst-rijksministerraad-28-mei-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20210528-ochtend.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\04\agenda-ministerraad-4-juni-2021 ]> agenda-ministerraad-20210604.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\04\geannoteerde-besluitenlijst-ministerraad-4-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210604.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\11\geannoteerde-besluitenlijst-ministerraad-11-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210611.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\14 ]> verslag-van-de-raad-buitenlandse-zaken-ontwikkelingssamenwerking-van-14-juni-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\18\agenda-ministerraad-18-juni-2021 ]> agenda-ministerraad-20210618-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\18\geannoteerde-besluitenlijst-ministerraad-18-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210618.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\18\geannoteerde-besluitenlijst-rijksministerraad-18-juni-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20210618.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\25 ]> verslag-van-schriftelijk-overleg-inzake-reactie-rijksministerraad-op-aiv-advies-veiligheid-en-rechtsorde-in-het-72E7F552.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\25\agenda-ministerraad-25-juni-2021 ]> agenda-ministerraad-20210625.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\25\geannoteerde-besluitenlijst-ministerraad-25-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210625.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\06\25\geannoteerde-besluitenlijst-ministerraad-25-juni-2021 ]> geannoteerde-besluitenlijst-ministerraad-20210625v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\07\09\geannoteerde-besluitenlijst-ministerraad-9-juli-2021 ]> besluitenlijst-ministerraad-20210709.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\09\03\agenda-rijksministerraad-3-september-2021 ]> agenda-rijksministerraad-20210903.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\09\03\geannoteerde-besluitenlijst-rijksministerraad-3-september-2021 ]> besluitenlijst-rijksministerraad-20210903.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\09\17\geannoteerde-besluitenlijst-ministerraad-17-september-2021 ]> besluitenlijst-ministerraad-20210917.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\10\08\geannoteerde-besluitenlijst-ministerraad-8-oktober-2021 ]> geannoteerde-besluitenlijst-ministerraad-20211008.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\10\15\agenda-ministerraad-15-oktober-2021 ]> agenda-ministerraad-20211015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\10\15\geannoteerde-besluitenlijst-ministerraad-15-oktober-2021 ]> geannoteerde-besluitenlijst-ministerraad-20211015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\11\05\geannoteerde-besluitenlijst-ministerraad-5-november-2021 ]> geannoteerde-besluitenlijst-ministerraad-20211105.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\11\19\geannoteerde-besluitenlijst-ministerraad-19-november-2021 ]> geannoteerde-besluitenlijst-ministerraad-2021119-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\03\agenda-ministerraad-3-december-2021 ]> agenda-ministerraad-20211203.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\03\geannoteerde-besluitenlijst-ministerraad-3-december-2021 ]> geannoteerde-besluitenlijst-ministerraad-20211203.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\13 ]> verslag-raad-buitenlandse-zaken-van-13-december-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\17\agenda-rijksministerraad-17-december-2021 ]> agenda-rijksministerraad-20211217.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\17\geannoteerde-besluitenlijst-ministerraad-17-december-2021 ]> geannoteerde-besluitenlijst-ministerraad-20211217.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\17\geannoteerde-besluitenlijst-rijksministerraad-17-december-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20211217-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2021\12\17\geannoteerde-besluitenlijst-rijksministerraad-17-december-2021 ]> geannoteerde-besluitenlijst-rijksministerraad-20211217.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\02\04\agenda-rijksministerraad-4-februari-2022 ]> agenda-rijksministerraad-20220204.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\02\04\geannoteerde-besluitenlijst-rijksministerraad-4-februari-2022 ]> besluitenlijst-rijksministerraad-20210204.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\02\04\geannoteerde-besluitenlijst-rijksministerraad-4-februari-2022 ]> besluitenlijst-rijksministerraad-20220204.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\02\25\geannoteerde-besluitenlijst-ministerraad-25-februari-2022 ]> besluitenlijst-ministerraad-20220225.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\02\25\geannoteerde-besluitenlijst-rijksministerraad-25-februari-2022 ]> besluitenlijst-rijksministerraad-20220225.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\04\01\geannoteerde-besluitenlijst-ministerraad-1-april-2022 ]> besluitenlijst-ministerraad-20220401.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\04\08\geannoteerde-besluitenlijst-ministerraad-8-april-2022 ]> besluitenlijst-ministerraad-20220408.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\04\29\agenda-rijksministerraad-29-april-2022 ]> agenda-rijksministerraad-20220429.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\04\29\geannoteerde-besluitenlijst-rijksministerraad-29-april-2022 ]> besluitenlijst-rijksministerraad-20220429.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\05\04 ]> geannoteerde-agenda-raad-buitenlandse-zaken-van-16-mei-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\05\20\geannoteerde-besluitenlijst-ministerraad-20-mei-2022 ]> besluitenlijst-ministerraad-20220520.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\07\08\geannoteerde-besluitenlijst-ministerraad-8-juli-2022 ]> besluitenlijst-ministerraad-20220708.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\07\15\geannoteerde-besluitenlijst-ministerraad-15-juli-2022 ]> besluitenlijst-ministerraad-20220715.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\08\26\agenda-rijksministerraad-26-augustus-2022 ]> agenda-rijksministerraad-20220826.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\08\26\geannoteerde-besluitenlijst-rijksministerraad-26-augustus-2022 ]> besluitenlijst-rijksministerraad-20220826.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\09\02\geannoteerde-besluitenlijst-ministerraad-2-september-2022 ]> besluitenlijst-ministerraad-20220902-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\09\02\geannoteerde-besluitenlijst-ministerraad-2-september-2022 ]> besluitenlijst-ministerraad-20220902.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\09\09\geannoteerde-besluitenlijst-ministerraad-9-september-2022 ]> besluitenlijst-ministerraad-20220909.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\11\11\geannoteerde-besluitenlijst-ministerraad-11-november-2022 ]> Besluitenlijst-ministerraad-20221111.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2022\11\25\geannoteerde-besluitenlijst-rijksministerraad-25-november-2022 ]> besluitenlijst-rijksministerraad-20221125.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\01\27\geannoteerde-besluitenlijst-rijksministerraad-27-januari-2023 ]> besluitenlijst-rijksministerraad-20230127.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\02\17\agenda-ministerraad-17-februari-2023 ]> agenda-ministerraad-20230217.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\02\17\geannoteerde-besluitenlijst-ministerraad-17-februari-2023 ]> besluitenlijst-ministerraad-20230217.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\03\07\documenten-ter-ondersteuning-van-besluitvorming-over-coronamaatregelen-7-maart-2023 ]> voorstel-besluitvorming-omgang-resterende-adviezen-covid-19.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\03\10\geannoteerde-besluitenlijst-ministerraad-10-maart-2023 ]> besluitenlijst-ministerraad-20230310.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\03\24\agenda-ministerraad-24-maart-2023 ]> agenda-ministerraad-20230324-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\03\24\geannoteerde-besluitenlijst-ministerraad-24-maart-2023 ]> besluitenlijst-ministerraad-20230324.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\04\21\geannoteerde-besluitenlijst-ministerraad-21-april-2023 ]> besluitenlijst-ministerraad-20230421.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\04\26\agenda-rijksministerraad-26-april-2023 ]> agenda-rijksministerraad-20230426.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\04\26\geannoteerde-besluitenlijst-ministerraad-26-april-2023 ]> besluitenlijst-ministerraad-20230426.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\04\26\geannoteerde-besluitenlijst-rijksministerraad-26-april-2023 ]> besluitenlijst-rijksministerraad-20230426.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\06\09\agenda-ministerraad-9-juni-2023 ]> agenda-ministerraad-20230609.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\06\09\geannoteerde-besluitenlijst-ministerraad-9-juni-2023 ]> besluitenlijst-ministerraad-20230609.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\06\23\geannoteerde-besluitenlijst-ministerraad-23-juni-2023 ]> besluitenlijst-ministerraad-20230623.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\07\07\geannoteerde-besluitenlijst-ministerraad-7-juli-2023 ]> besluitenlijst-ministerraad-20230707.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\07\14\geannoteerde-besluitenlijst-ministerraad-14-juli-2023 ]> besluitenlijst-ministerraad-20230714-v3.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\07\14\geannoteerde-besluitenlijst-ministerraad-14-juli-2023 ]> besluitenlijst-ministerraad-20230714.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\10\06\geannoteerde-besluitenlijst-ministerraad-6-oktober-2023 ]> besluitenlijst-ministerraad-20231006-v2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\10\27\geannoteerde-besluitenlijst-rijksministerraad-27-oktober-2023 ]> besluitenlijst-rijksministerraad-20231027.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\11\10\geannoteerde-besluitenlijst-ministerraad-10-november-2023 ]> besluitenlijst-ministerraad-20231110.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\11\17\geannoteerde-besluitenlijst-ministerraad-17-november-2023 ]> besluitenlijst-ministerraad-20231117.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\12\15\agenda-ministerraad-15-december-2023 ]> agenda-ministerraad-20231215.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\12\15\agenda-rijksministerraad-15-december-2023 ]> agenda-rijksministerraad-20231215.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\12\15\geannoteerde-besluitenlijst-ministerraad-15-december-2023 ]> besluitenlijst-ministerraad-20231215.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\12\15\geannoteerde-besluitenlijst-rijksministerraad-15-december-2023 ]> besluitenlijst-rijksministerraad-20231215.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2023\12\22\geannoteerde-besluitenlijst-ministerraad-22-december-2023 ]> besluitenlijst-ministerraad-20231222.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2024\02\02\agenda-ministerraad-2-februari-2024 ]> agenda-ministerraad-20240202.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ vergaderstukken\2024\02\02\geannoteerde-besluitenlijst-ministerraad-2-februari-2024 ]> besluitenlijst-ministerraad-20240202.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 60; BatchedItems: 100]...[0m
