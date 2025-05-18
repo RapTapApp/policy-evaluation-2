@@ -1322,3 +1322,206 @@ Exception calling ".ctor" with "1" argument(s): "The document has no page root (
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2010\10\01 ]> berichten-buitenland-nummer-10-oktober-2010-sector-special-aardappelverwerkende-industrie.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\02\17\planningsoverzicht-bzk-2-2011 ]> microsoft-word-bijlage-2011-2000020095-planningsoverzicht-2011.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 7; BatchedItems: 100]...[0m
+[main 45f3a66e] Added batch #7 of policy-docs (total: 100
+ 101 files changed, 50996 insertions(+)
+ create mode 100644 policy-documents/Archive/brieven/2016/12/01/tk-bijlage-antwoorden-schriftelijke-vragen-begroting-2017.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2016/12/29/erzamelbrief-aan-gemeenten-2016-2.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/01/09/memorie-van-toelichting-bij-het-verdrag-betreffende-de-gedwongen-of-verplichte-arbeid.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/01/13/brief-mevr-mr-a-m-t-m.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/04/14/brief-aan-rijksvertegenwoordiger-bonaire-st-eustatius-en-saba-over-bestuurlijke-situatie-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/04/17/tweede-brief-aan-minister-president-over-bestuurlijke-situatie-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/04/25/brief-aan-minister-binnenlandse-zaken-over-bestuurlijke-situatie-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/05/15/afschrift-brief-aan-bestuurscollege-openbaar-lichaam-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/05/26/afschrift-brief-aan-union-sindikal-boneriano-usibo.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/05/29/rapportage-burgerbrieven-vws-2016.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/08/22/rappelabele-toezeggingen-aan-de-eerste-kamer-waarvan-de-termijn-op-01-07-2017-verlopen-is.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2017/12/07/bijlage-17197345.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/01/29/tk-memorie-van-toelichting-onderwerp-zoals-naar-raad-van-state-wet-ministeriele-verantwoordelijkheid.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/01/29/tk-memorie-van-toelichting-wet-ministeriele-verantwoordelijkheid.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/01/30/reactie-op-ambtsbericht-over-bezuinigingen-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/03/12/openstaande-en-deels-voldane-toezeggingen-aan-de-eerste-kamer.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/05/31/brief-aan-de-tweede-kamer-over-voortgang-op-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/07/05/brief-aan-eerste-kamer-kosten-drinkwatervoorziening-en-riolering-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/09/21/reactie-commissie-bijstand-en-advies-igr-samenwerking-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/12/17/overzicht-mutaties-na-najaarsnota-vws-begroting-2018.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2018/12/21/bijlage-1-planningsbrief-2019.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/02/05/planningsoverzicht-vaste-commissie-voor-koninkrijksrelaties-2019.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/04/05/afschrift-brief-tweede-kamer-over-beleidskader-gemeentelijke-herindeling.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/04/05/toezeggingen-binnenlandse-zaken-en-koninkrijksrelaties-rappel-februari-2019.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/04/05/toezeggingen-binnenlandse-zaken-en-koninkrijksrelaties-vooruitblik-juli-2019.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/05/29/toetsingscriteria.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/07/03/situation-analysis-kinderrechten-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/07/17/voorlichting-raad-van-state.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/09/18/bijlage-1-instructie-koninkrijk-delegatie-40ste-icao-assembly.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/09/19/reactie-op-brief-over-aflossing-studieschuld-oud-studenten-op-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/09/27/afschrift-reactie-bonaire-sint-eustatius-en-saba-op-voortgangsrapportage-ijkpunt-bestaanszekerheid-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/10/04/beantwoording-kamervragen-over-feitelijke-vragen-begroting-landbouw-natuur-en-voedselkwaliteit.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/10/04/overzicht-van-aanbevelingen-en-korte-reactie-van-het-kabinet.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/10/10/schriftelijke-beantwoording-van-gestelde-vragen-in-de-eerste-termijn-van-de-behandeling-van-de-begroting-van-la-5E3F4055.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/11/21/tk-antwoorden-schrftelijke-vragen-begroting-2020.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2019/12/17/bijlage-1-planningsbrief-2020.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/04/24/afschrift-brief-over-economische-steunmaatregelen-voor-caribisch-nederland/afschrift-brief-aan-de-bestuurscolleges-van-bonaire-sint-eustatius-en-saba.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/05/06/brief-aan-de-koninklijke-bibliotheek-reactie-op-beleidsplan-kb-2019-2022-evaluatierapport-kb-en-pamflet.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/06/02/afschriftbrief-over-de-overheidsvennootschappen-van-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/06/08/tk-advies-hoge-raad-consultatie-wetsvoorstel-modernisering-bewijsrecht.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/09/24/adviesopdracht-dierpresentaties-en-verblijven-dolfinarium/Adviesopdracht-Dolfinarium.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/10/27/verslag-lijst-van-vragen-begrotingsstaten-van-het-ministerie-van-infrastructuur-en-waterstaat-xii-voor-het-jaar-2021.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/11/13/landspakket-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/12/15/bijl-1-aanbiedingsbief-van-nationale-ombudsman.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/12/17/bijlage-1-planningsbrief-2021.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2020/12/21/nederlandse-reactie-op-het-grevio-rapport.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/01/13/kamerbrief-lijst-met-initiatieven-bijeenkomst-asscher.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/01/15/bijlage-1-incidentele-suppletoire-begroting-hxii.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/01/22/onafhankelijk-oordeel.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/03/12/afschrift-van-brief-aan-de-tweede-kamer-over-democratie-en-jongeren.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/03/22/advies-nav-105e-omt.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/03/24/voorlichting-raad-van-state-over-interbestuurlijke-verhoudingen/advies-van-de-raad-van-state.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/05/22/advies-deel-1-nav-114e-omt.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/07/30/bijl-3-reactie-min-ocw-op-rapport-nationale-ombudsman.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/08/10/reactie-op-brief-over-geo-blokkade-binnen-het-koninkrijk/bijlage-1-reactie-bvom-op-brief-over-geo-blokkade.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/10/04/brief-regeringscommissaris-over-stand-van-zaken-voortgang-opgravingen-vliegveld-sint-eustatius.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/10/21/wetsverslag-lijst-van-vragen-begrotingsstaten-ministerie-ienw-2022.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/09/bijlage-2-beantwoording-schriftelijke-vragen-deltaprogramma-2022.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/11/brief-aan-openbaar-lichaam-bonaire-over-energiebesparing-in-caribisch-nederland/reactiebrief-aan-gedeputeerden-op-kamerbrief-omtrent-energiebesparing-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/15/afschrift-brief-over-route-tijdtabel/aanbieding-route-tijdtabel-ter-uitvoering-van-motie-ozutok.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/24/afschrift-brief-plv-regeringscommissaris-over-burgerparticipatie/brief-plv-regeringscommissaris-over-burgerparticipatie.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/29/afschrift-reactie-op-brief-regeringscommissaris-over-route-tijdtabel/beantwoording-brief-regeringscommissaris-over-route-tijdtabel.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/11/30/brief-over-begroting-openbaar-lichaam-saba-2022/brief-aan-er-begroting-openbaar-lichaam-saba-2022-dd-30-november-2021.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2021/12/23/advies-vaccinatie-tegen-covid-19-met-het-novavax-vaccin-bij-volwassenen-087-gr-vws.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/01/07/afschrift-2e-reactie-op-benoemingstermijn-plaatsvervangend-rijksvertegenwoordiger/bijlage-3-tweede-brief-dd-7-jan22-over-benoemingstermijn-plv-rijksvertegenwoordiger.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/03/09/reactiebrief-aan-veteranenombudsman-inzake-de-zorgen-van-vaccinatieplichting-nederlandse-militairen-in-het-cari-A69A2ADC.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/03/14/brief-college-voor-de-rechten-van-de-mens-over-mensenrechten-in-het-koninkrijk/afschrift-brief-aan-staatssecretaris-over-mensenrechten-in-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/03/22/reactie-op-brief-college-voor-de-rechten-van-de-mens/afschrift-beantwoording-brief-college-voor-de-rechten-van-de-mens.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/04/05/bijlage-2-afschrift-brief-rehabilitatieverzoek-tula.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/06/09/papiamentu-versie-kamerbrief-over-verdeling-van-inkomsten-en-uitgaven-aan-caribisch-nederland-2019.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/06/14/07a-vragen-jaarverslag-min-ienw-2021-36100-xii-1.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/06/14/07b-bijlage-vraag-8-vragen-jaarverslag-min-ienw-2021-36100-xii-1-overzicht-uitgevoerde-onderzoeken-2021.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/06/15/bijlage-evaluatie-internationaal-cultuurbeleid-20172020.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/07/26/advies-vws-na-1e-omt-v.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/08/30/reactie-op-rapport-caribische-kinderen-van-de-rekening/afschrift-van-brief-aan-nationale-ombudsman-en-kinderombudsman-reactie-rapport-caribische-kinderen-van-de-rekening.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/09/29/afschrift-brief-over-belangrijke-gespreksthemas-curacao.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/11/02/bijlage-memorie-van-antwoord-wetsvoorstel-drinkwater-en-afvalwater-bes.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/11/02/briefwisseling-regeringscommissaris-over-stand-van-zaken-criteria-fase-21.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/11/11/2022262452-1-bijlage-kamerbrief-beantwoording-schriftelijke-vragen-deltaprogramma-2023.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2022/11/15/antwoordbrief-bestuurscollege-saba.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/01/12/brief-regeringscommissaris-sint-eustatius-over-voortgang-criteria-fase-2.2/brief-regeringscommissaris-over-voortgang-criteria-fase-22-12-januari-2023.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/02/22/advies-nav-146e-omt-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/02/23/spoedadvies-over-registratietermijn-van-kiezers-voor-het-kiescollege-niet-ingezetenen-kiesraad/kiesraad-spoedadvies-over-registratietermijn-van-kiezers-voor-het-kiescollege-niet-ingezetenen.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/02/24/advies-nav-2e-omt-v-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/03/02/afschrift-adviesaanvraag-cultuurbestel-van-de-toekomst.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/03/09/derde-advies-platform-perspectief-jongeren.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/05/17/briefwisseling-ap-en-belastingdienst-over-fsv-deel-9/briefwisseling-ap-belastingdienst-deel-25.raw.txt
+ create mode 100644 policy-documents/Archive/brieven/2023/05/31/bijlage-beantwoording-verslag-van-een-schriftelijk-overleg-waterbeschikbaarheid-drinkwater.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2007/12/04/berichten-buitenland-nr-11-november-2007-alleen-tekst/berichten-buitenland-platte-tekst-112007.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2007/12/04/berichten-buitenland-nr-11-november-2007/berichten-buitenland-112007.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2008/02/20/berichten-buitenland-nr-12-1-december-2007-januari-2008/bbdec-2007-jan-2008.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2009/05/13/resultaten-in-ontwikkeling-2007-2008-hoofdstuk-4-mdg-4-5-en-6/mdg-4-5-6.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2009/05/13/resultaten-in-ontwikkeling-2007-2008/goed-bestuur.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2009/07/10/resultaten-in-ontwikkeling-2007-2008.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2009/09/28/mensenrechtenrapportage-2008.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2009/11/05/om-jaarbericht-2007/2007-jaarbericht-openbaar-ministerie-in-letters-2008521-18135.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2010/06/01/antilliaans-nederlandse-jonge-moeders-in-beeld-wegwijzer-voor-en-door-gemeenten/0197.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2010/06/28/antilliaans-nederlandse-jonge-moeders-in-beeld/11pd2010g197.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2010/10/01/berichten-buitenland-nummer-10-oktober-2010-sector-special-aardappelverwerkende-industrie.raw.txt
+ create mode 100644 policy-documents/Archive/brochures/2011/02/17/planningsoverzicht-bzk-2-2011/microsoft-word-bijlage-2011-2000020095-planningsoverzicht-2011.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\03\10\de-koninklijke-marechaussee ]> web_Corporate_folder_KMar_2015_NED.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\03\10\de-marine-in-beeld ]> de-marine-in-beeld-maart2016.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\09\23\nota-werken-in-het-onderwijs ]> nota-werken-in-het-onderwijs-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\09\28 ]> de-basiskwaliteit-van-het-middelbaar-beroepsonderwijs-mbo-en-de-sociale-kanstrajecten-jongeren-skj-in-caribisch-B8AB271F.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\10\11\gearresteerd-in-het-buitenland ]> gearresteerd-in-het-buitenland-042015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2011\11\09\offerteaanvraag-vierjarige-overeenkomst-productie-jaarlijks-examen-maatschappij-en-staatku-F67F1C53 ]> offerteaanvraag-voor-vierjarige-overeenkomst-jaarlijks-een-examen-maatschappij-en-staatkundige-kennis-voor-de-n-275F5CFA.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2012\04\16\taalregelingen-voor-de-bes-eilanden-in-de-nederlandse-wet-en-regelgeving ]> talen-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2012\04\20\kerngegevens-defensie ]> Proef9_20155079_Kerngegevens_INTERACTIEF.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2012\06\28 ]> kerncijfers-2007-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2013\03\22\informashon-pa-studiantenan-di-aruba-korsou-sint-maarten-i-hulanda-karibense-pa-inskripshon-den-gba ]> b-18049-informatieblad-studenten-gba-papiamentu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2013\03\22\informatie-voor-studenten-uit-aruba-curacao-st-maarten-en-caribisch-nederland-voor-inschri-31441F1B ]> informatieblad-studenten-caribisch-gebied-nederlands.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2013\04\09\jaarwerk-programma-2013 ]> j-3159813b.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2013\04\26\nationaal-handboek-crisisbesluitvorming ]> NationaalHandboekCrisisbesluitvorming.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2014\08\07\van-abdicatie-tot-zetelroof ]> 2van-abdicatie-tot-zetelroof.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\03\03 ]> visumvrijstelling-aan-bepaalde-categorieen-onderdanen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01 ]> het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-argentinie ]> gearresteerd-in-agentinie-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-belgie ]> gearresteerd-in-belgi-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-brazilie ]> gearresteerd-in-brazillie-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-colombia ]> gearresteerd-in-colombia-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-de-dominicaanse-republiek ]> gearresteerd-in-de-dom-republiek-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-de-verenigde-staten ]> gearresteerd-in-de-verenigde-staten-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-denemarken ]> gearresteerd-in-denemarken-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-duitsland ]> gearresteerd-in-duitsland-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-ecuador ]> gearresteerd-in-ecuador-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-frankrijk ]> gearresteerd-in-frankrijk-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-griekenland ]> gearresteerd-in-griekenland-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-het-verenigd-koninkrijk ]> gearresteerd-in-het-verenigd-koninkrijk-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-italie ]> gearresteerd-in-italie-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-japan ]> gearresteerd-in-japan-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-marokko ]> gearresteerd-in-marokko-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-noorwegen ]> gearresteerd-in-noorwegen-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-oostenrijk ]> gearresteerd-in-oostenrijk-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-panama ]> gearresteerd-in-panama-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-peru ]> gearresteerd-in-peru-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-portugal ]> gearresteerd-in-portugal-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-spanje ]> gearresteerd-in-spanje-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-suriname ]> gearresteerd-in-suriname-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-thailand ]> gearresteerd-in-thailand-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-turkije ]> gearresteerd-in-turkije-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-venezuela ]> gearresteerd-in-venezuela-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\04\01\gearresteerd-in-zweden ]> gearresteerd-in-zweden-hr.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\06\05\het-koninkrijk-der-nederlanden-buitenlandse-zaken-zijn-koninkrijkszaken ]> the-kingdom-of-the-netherlands-het-koninkrijk-der-nederlanden-1-pager-nld.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2015\06\05\het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch ]> the-kingdom-of-the-netherlands-het-koninkrijk-der-nederlanden-4-pager-nld.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2016\03\11 ]> de-10-grootste-mythen-over-het-ttip.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2021\03\25\factsheet-leerorkest-voor-alle-kinderen ]> factsheet-3-leerorkest.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-engels.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-nederlands.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-papiamento.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-aruba-curacao-en-sint-maarten-papiamentu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-engels.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-nederlands.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ brochures\2022\12\15\studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6 ]> studeren-in-europees-nederland-voor-studenten-uit-caribisch-nederland-papiamentu.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\01\25 ]> circulaire-provinciale-statenverkiezingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\06\16 ]> aanpassen-vergoeding-gezagdragers-sint-eustatius-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\06\16 ]> aanpassing-vergoeding-gezagdragers-saba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\06\16\aanpassing-vergoedingen-gezagdragers-bonaire-2011 ]> aanpassen-vergoedingen-gezagdragers-bonaire-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\12\01\decembercirculaire-2011 ]> decembercirculaire2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\12\12 ]> hoofdlijnen-nieuwe-brk-tussen-nederland-en-curacao.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\12\21 ]> aanpassen-vergoeding-gezagdragers-saba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\12\21 ]> aanpassing-vergoeding-gezagdragers-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2011\12\22 ]> aanpassen-vergoeding-gezagdragers-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2013\09\16\septembercirculaire-gemeentefonds-2013 ]> septcirculaire-gemeentefonds-2013.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2014\05\30 ]> meicirculaire-gemeentefonds-2014.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2014\09\16\septembercirculaire-gemeentefonds-2014 ]> septembercirculaire-gemeentefonds-2014-def.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2015\06\01 ]> meicirculaire-gemeentefonds-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2016\05\31\meicirculaire-gemeentefonds-2016 ]> meicirculaire-gemeentefonds-2016-versie-9-juni.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ circulaires\2017\12\08 ]> decembercirculaire-gemeentefonds-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2012\07\20\dienstverleningsconvenant-inzake-de-uitvoering-van-en-het-toezicht-op-de-naleving-van-de-C6647C4F ]> atlas-12086129-v1-samengestelde-volledig-ondertekende-verie-dienstverleningsconvenant-inzet-ijkwezen-curacao-op-611664D1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2012\09\28\convenant-curacao-nederland-heffing-invoerrechten-en-andere-indirecte-belastingen-tussen-E1A54CD8 ]> scan-douane-convenant-nl-cur-26-sept-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2018\06\26 ]> nationaal-sportakkoord-sport-verenigt-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2019\05\14 ]> caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-sint-eustatius.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2019\05\15 ]> caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2019\05\15 ]> intentieverklaring-in-het-kader-van-de-opleiding-tot-huisarts-op-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2019\06\11 ]> caribisch-sport-en-preventieakkoord-2019-2022-samen-naar-een-gezonder-saba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2019\06\27 ]> convenant-volkshuisvesting-bonaire.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2020\12\22 ]> onderlinge-regeling-landspakket-sint-maarten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2021\09\30 ]> bijlage-5-bibliotheekconvenant-2020-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2022\06\16 ]> bestuurlijke-werkafspraken-bonaire-2022-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2022\07\01 ]> afsprakenakkoord-sint-eustatius-2022-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ convenanten\2022\07\01 ]> saba-package-20.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ formulieren\2010\11\26 ]> meldingenregister-visuminformatiesysteem-caribisch-gebied-koninkrijk-der-nederlanden-visana.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ formulieren\2015\03\03\visumaanvraagformulier-koninkrijk-der-nederlanden-caribische-gebiedsdelen ]> Bijlage_01_-_Visumaanvraagformulier.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2010\11\26\herziene-begroting-2011-radio-nederland-wereldomroep ]> 227741e.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\02\11 ]> jaarplan-inspectie-jeugdzorg-2011.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\02\24 ]> jaarplan-2011-kustwacht-in-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\06\14\concept-jaarwerkplan-2012-van-de-inspectie-van-het-onderwijs ]> concept-jaarwerkplan-oi-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\10\05 ]> werkprogramma-gezondheidsraad-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\11\03 ]> jaarwerkplan-2012-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2011\12\27\jaarplan-2012-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied ]> brief-mindef-bijlage-jaarplan-2012-kwcarib-tk1.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2012\01\19 ]> igz-werkplan-2012.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2012\02\06 ]> jaarwerkprogramma-2012-inspectie-jeugdzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2012\09\13 ]> jaarwerkplan-2013-van-de-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2013\09\02 ]> jaarwerkplan-2014-van-de-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\01\14\beleidsplan-crisisbeheersing-2014-2017 ]> beleidsplan-crisisbeheersing-ienm-2014-2017.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\01\16 ]> jaarwerkprogramma-2014-inspectie-jeugdzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\02\13 ]> jaarplan-2014-van-de-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\09\01 ]> jaarwerkplan-2015-inspectie-van-het-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2014\12\18 ]> jaarplan-2015-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ jaarplannen\2015\01\16 ]> jaarwerkprogramma-toezicht-jeugd-2015.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 8; BatchedItems: 100]...[0m
