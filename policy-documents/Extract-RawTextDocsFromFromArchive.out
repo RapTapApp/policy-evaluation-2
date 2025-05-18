@@ -713,3 +713,206 @@ Exception calling ".ctor" with "1" argument(s): "The document has no page root (
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\04\04 ]> beslisnota-bij-kamerbrief-overzicht-verdragen-per-1-april-2023.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\04\04 ]> tk-beslisnota-bij-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo-januari-2023.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 4; BatchedItems: 100]...[0m
+[main 06d19e3d] Added batch #4 of policy-docs (total: 100
+ 101 files changed, 60096 insertions(+)
+ create mode 100644 policy-documents/Archive/beleidsnotas/2013/06/14/beleidsbrief-respect-en-recht-voor-ieder-mens/respect-en-recht-voor-ieder-mens.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2013/08/19/33-442-nota-van-wijziging.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2014/04/11/natuurlijk-verder/natuurvisie-april-2014-geactualiseerdehyperlink-juli2016.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2014/04/25/beleidsnota-drinkwater/20140429-624133-nota-drinkwater-web-versie.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2014/09/19/beleidsvisie-veiligheidsbeleid-midden-amerika-en-het-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/02/18/bijlage-1-nota-naar-aanleiding-van-het-verslag-omgevingswet.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/02/25/tk-nota-naar-aanleiding-van-verslag-inzake-het-voorkomen-en-bestrijden-van-geweld-tegen-6760CEF8/lp-v-j-0000007648.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/11/27/tk-nota-naar-aanleiding-van-het-verslag-invoeringswet-vereenvoudiging-en-digitalisering-procesrecht.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2015/12/14/mariene-strategie-voor-het-nederlandse-deel-van-de-noordzee-2012-2020-deel-3.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2016/02/05/tk-nota-naar-aanleiding-van-het-verslag-wijziging-van-boek-verdrag-montreal.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2017/03/24/subsidieregeling-internationalisering-po-en-vo.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2017/08/15/34-710-nota-naar-aanleiding-van-het-verslag.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2018/06/04/tk-nota-naar-aanleiding-wetsvoorstel-aanpassingswet-algemene-verordening-gegevensbescherming.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2018/09/18/homogene-groep-internationale-samenwerking-hgis-nota-2019.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2019/02/21/wijziging-besluit-onderstand-bes-gerectificeerd.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2019/06/11/uitgangspunten-cultuurbeleid-2021-2024.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/02/01/nota-naar-aanleiding-van-het-verslag-wet-vrom-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/03/08/bijlage-nnahv-wet-uitvoering-bunkerolieverdrag-bes-35-618.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/05/28/voorjaarsnota-2021.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/07/02/beslisnota-verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-en-de-regering-van-de-franse-republiek.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/09/15/beslisnota-bij-kamerbrief-inzake-voornemen-tot-het-sluiten-van-uitvoeringsverdragen-vn-ece-reglementen-wielvoer-FAA4BAA0.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/11/11/beslisnota-bij-papiaments-mbo-opleidingen-bonaire-wijziging-web-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/11/12/beslisnota-s-bij-wetsvoorstel-wijziging-wet-register-onderwijsdeelnemers.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/11/18/notadossier.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2021/11/24/beslisnota-bij-kamerbrief-over-wijzigingsbesluit-financiele-markten-2021/beslisnotas-wijzigingsbesluit-financiele-markten-2021.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/01/31/beslisnota-bij-nader-rapport-inzake-voorstel-van-rijkswet-houdende-goedkeuring-van-het-vn-verdrag-inzake-staats-780FFE4C.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/02/08/toelichtende-nota-verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-en-de-regering-van-de-franse-republiek.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/02/21/beslisnota-bij-kamerbrief-voornemen-tot-het-sluiten-van-uitvoeringsverdragen.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/03/17/beslisnota-bij-kamerbrief-over-stand-van-zaken-gedupeerde-ouders-kinderopvangtoeslag-in-25B4934F/bijlage-actieve-openbaarmaking-beslisnota-onderliggende-stukken.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/04/28/beslisnotas-bij-aanvullende-fiscale-koopkrachtmaatregelen-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/10/beslisnota-s-wetsvoorstel-tijdelijke-afwijkende-inschrijving-studiejaar-2022-2023-ivm-covid-19.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/20/beslisnotas-bij-voorjaarsnota-2022/Beslisnota-voorjaarsnota-2022-deel2.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/23/beslisnotas-bij-fiscale-verzamelwet-2023.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/05/31/beslisnota-bij-kamerbrief-ek-verlening-tijdelijke-wet-digitaal-vergaderen.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/01/defensienota-2022-sterker-nederland-veiliger-europa-investeren-in-een-krachtige-navo-en-eu.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/03/beslisnotas-bij-fiscale-beleids-en-uitvoeringsagenda.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/08/beslisnota-van-iw-inzake-reglementen-bij-overeenkomst-inzake-wielvoertuigen-1958-wp-29-vergadering-maart-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/10/deel-5-8-van-de-stukken-bij-de-kabinetsformatie-financien/beslisnotas-stukken-formatiedeel7.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/13/beslisnotas-bij-wijzigingswet-financiele-markten-2022-ii.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/27/2022129475-1-nota-naar-aanleiding-van-het-verslag-wijziging-van-de-wet-elektriciteit-en-drinkwater-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/27/2022129475-2-beslisnota-nnavv-wijziging-van-de-wet-elektriciteit-en-drinkwater-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/27/beslisnota-bij-antwoorden-op-kamervragen-over-wet-kiescollege-niet-ingezetenen/beslisnota-bij-kamerbrief-met-antwoorden-op-kamervragen-uit-verslag-van-schriftelijk-overleg-inzake-de-wet-kies-6DA5A2BC.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/06/28/beslisnota-bij-kamerbrief-over-reisverslagen-uitwerking-hoofdlijnenbrief-bestuurlijke-afspraken-caribisch-neder-ADE7F085.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/07/01/notitie-reikwijdte-en-detailniveau.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/07/05/beslisnota-s-wetsvoorstel-loting-definitief.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/07/08/voor-te-leggen-beslisnotas-bij-aanvullende-fiscale-koopkrachtmaatregelen-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/07/15/beslisnota-bij-kamerbrief-vervolg-wetsvoorstel-met-een-stem-meer-keus.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/07/18/bijlage-02-onderliggende-beslisnotas.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/08/16/beslisnota-bij-kamerbrief-inzake-voornemen-tot-het-sluiten-van-uitvoeringsverdragen-ece-reglementen-juni-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/06/grt-regering-buha-os-2022z13168.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/14/beslisnota-bij-aanbiedingsbrief-inzake-ongevraagd-advies-rvst-over-koninkrijk-verdragen-en-unierecht.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/15/beslisnota-bij-aanbiedingsbrief-overzicht-rijksuitgaven-caribisch-nederland-2021-2027/beslisnota-bij-aanbieding-rijksuitgaven-caribisch-nederland-2021-2027.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/15/beslisnota-bij-overleggingsbrief-inzake-europese-overeenkomst-tot-bescherming-van-kleine-huisdieren.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/27/tk-bijlage-3-te-publiceren-beslisnota-minrb-nota-n-a-v-verslag-uitvoeringswet-en-goedkeuringswet-vn-verdrag-sta-F3220AED.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/09/28/22346772beslisnota-bij-kamerbrief-voortgang-verduurzaming-energie-in-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/04/beslisnota-bij-nota-naar-aanleiding-van-verslag-bij-de-wet-kiescollege-niet-ingezetenen.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/04/notas-actieve-openbaarmaking-nota-van-wijziginging-wetsvoorstel-belastingplan-2023.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/12/beslisnota-bij-kamerbrief-stand-van-zaken-van-moties-en-toezeggingen-cultuur.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/13/beslisnota-bij-antwoorden-op-kamervragen-over-economische-cijfers-caribisch-nederland-2020/beslisnota-bij-beantwoording-kamervragen-over-de-economische-cijfers-voor-caribisch-nederland-voor-2020.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/14/beslisnota-bij-aanbiedingsbrief-inspectierapport-bes-eilanden.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/10/19/beslisnota-bij-kamerbrief-inzake-het-parlementair-kwartaaloverzicht-ontwerpverdragen-met-peildatum-1-oktober-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/02/bijlage-onderliggende-beslisnota-memorie-van-antwoord-wetsvoorstel-drinkwater-en-afvalwater-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/03/tk-beslisnota-inzake-voortgangsbrief-slachtofferbeleid.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/04/beslisnota-bij-kamerbrief-werkagenda-waardengedreven-digitaliseren.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/08/beslisnota-bij-beantwoording-kamervragen-over-het-onderzoek-the-impacts-of-climate-change-on-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/11/beslisnota-bij-kamerbrief-over-laboratoriumzorg-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/11/bijlage-onderliggende-beslisnota-kamerbrief-wgo-water-21-november-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/22/tk-beslisnota-bij-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/11/23/tk-beslisnota-bij-kamerbrief-handhaving-natuur-en-milieuwetgeving-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/06/tk-beslisnota-bij-kader-modernisering-staatsnoodrecht.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/12/beslisnota-beantwoording-kamervragen-bankzaken-saba.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/13/beslisnota-bij-kamerbrief-reactie-op-informatieverzoek-tijdens-regeling-van-werkzaamheden-13-december-2022-over-FAAA4B29.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/16/beslisnota-bij-beantwoording-kamervragen-over-het-bericht-nederland-doet-te-weinig-om-bonaire-te-beschermen-teg-991CDA10.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/16/beslisnota-bij-beantwoording-kamervragen-over-het-bericht-onderzoek-bonaire-dreigt-onder-te-lopen-bij-extreme-k-639A164E.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/19/beslisnota-bij-begrotingswijzigingen-tov-de-2e-suppletoire-begroting-2022-van-het-ministerie-van-ezk.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/19/beslisnota-bij-kamervragen-over-nationale-aanpak-klimaatadaptie-gebouwde-omgeving-fase-1/beslisnota-beantwoording-kamervragen-over-de-nationale-aanpak-klimaatadaptie-gebouwde-omgeving-fase-1.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/19/tk-beslisnota-bij-aanbieden-aan-de-tk-van-de-beleidsreactie-op-de-evaluatie-van-de-veiligheidswet-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/22/beslisnota-bij-kamerbrief-bij-comply-or-explain-wetgevingsoverzicht.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/22/beslisnota-bij-kamerbrief-over-informatievoorziening-financieel-en-begrotingsbeheer-caribisch-nederland-2019-2021.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/22/onderliggende-beslisnota-voor-verzending-beleidskader-netwerkkwaliteit-naar-tk.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/23/onderliggende-beslisnota-beantwoording-kamervragen-nederland-en-opdracht-kwartiermaker-klimaattafel-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/23/onderliggende-beslisnota-beantwoording-schriftelijke-vragen-vaste-kamercommissie-ienw-over-iab-bes.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/23/onderliggende-beslisnota-kamerbrief-beantwoording-vragen-kuiken-en-thijssen-over-regenval-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2022/12/23/onderliggende-beslisnota-verzamelbrief-luchtvaart-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/01/17/beslisnotas-bij-aanbiedingsbrief-wetsvoorstel-opheffing-geheimhoudingsplicht-toeslagen--61A040EA/beslisnotas-bij-nader-rapport-wetsvoorstel-opheffing-geheimhoudingsplicht-tbv-de-ibtd.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/01/20/beslisnota-bij-kamerbrief-uitvoering-motie-ellian-wijziging-ambtseed-rijksambtenaren.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/01/27/beslisnota-bij-kamerbrief-jaarplan-2023-kw-carib.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/02/08/tk-beslisnota-beleidsagenda-cn-terugkoppeling.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/02/22/beslisnotas-bij-kamerbrief-vastzetten-belastingrentepercentage-op-8.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/02/28/bijlage-1-onderliggende-beslisnota-beantwoording-kamervragen-pvdd-slapp-tactiek-tui-en-chogogo-beach-resort.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/03/beslisnota-bij-antwoorden-op-kamervragen-over-presentatie-eilandsraadslid-de-heer-koos-sneek.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/16/beslisnota-bij-aanbiedingsbrief-afschrift-reactie-op-brief-over-sociaal-minimum-caribis-9762D87F/beslisnota-bij-aanbiedingsbrief-bij-afschrift-reactie-op-brief-college-rechten-van-de-mens-inzake-sociaal-minimum-cn.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/16/beslisnota-bij-aanbiedingsbrief-openbaar-jaarverslag-mivd-2022/beslisnota-bij-openbaar-jaarverslag-mivd-2022.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/16/tk-beslisnota-uitbreidsluitingsbevoegdheid-burgemeester-gezaghebber-ter-handhaving-36-217.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/21/beslisnota-bij-kamerbrief-over-voortgang-bestuurlijke-afspraken-caribisch-nederland/beslisnota-bij-voortgangsbrief-bestuurlijke-afspraken-caribisch-nederland.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/29/beslisnota-bij-kamerbrief-over-commissieverzoek-om-reactie-op-nrc-artikel-en-nvvb-standpunt/beslisnota-bij-kamerbrief-reactie-op-commissiebrief-mbt-verzoek-om-reactie-op-nrc-artikel-en-standpunt-nvvb.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/03/29/nota-bij-antwoord-op-kamervragen-mohandis-over-bibliotheken.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/04/03/tk-beslisnota-veiligheidsstrategie-voor-het-koninkrijk-voor-het-nederlanden.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/04/04/beslisnota-bij-kamerbrief-overzicht-verdragen-per-1-april-2023.raw.txt
+ create mode 100644 policy-documents/Archive/beleidsnotas/2023/04/04/tk-beslisnota-bij-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo-januari-2023.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\04\11 ]> beslisnota-bij-antwoorden-op-kamervragen-vso-over-comply-or-explain-en-update-wetgevingsoverzicht-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\04\13 ]> beslisnota-ienw-wp29-ece-reglementen-maart-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\04\18 ]> tk-beslisnota-bij-integriteits-en-anti-corruptiebeleid-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\08 ]> tk-beslisnota-bij-kamerbrief-met-beleidsreactie-op-rapport-over-jeugdstrafrecht-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\12\beslisnota-bij-kamerbrief-over-bijzondere-uitkeringen-caribisch-nederland-2023 ]> beslisnota-bij-kamerbrief-overzicht-bijzondere-uitkeringen-caribisch-nederland-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\15 ]> beslisnota-bij-kamerbrief-over-intrekking-voorstel-rijkswet-caribisch-orgaan-voor-hervorming-en-ontwikkeling.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\19 ]> beslisnota-bij-kamerbrief-beleidsreactie-op-beleidsdoorlichting-erfgoed.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\19 ]> bijlage-4-beslisnota-bij-kamerbrief-beleidsreactie-op-beleidsdoorlichting-erfgoed.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\22 ]> tk-beslisnota-bij-verzoek-vkc-jenv-inzake-auteurswet-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\24 ]> beslisnota-bij-kamerbrief-verkenning-financiering-monumentenzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\24 ]> bijlage-5-beslisnota-bij-kamerbrief-verkenning-financiering-monumentenzorg.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\30 ]> tk-beslisnota-bij-beleidsreactie-ijenv-rapport-rampenbestrijding-in-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\05\31 ]> onderliggende-beslisnota-s-kamerbrief-cd-water-7-juni-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\06\08 ]> tk-beslisnota-bij-kabinetsreactie-cpt-eindrapport-bezoek-mei-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\06\13 ]> bijlage-1-onderliggende-beslisnota-kamerbrief-aanbieding-rapportage-ilt-onderzoek-vth-taken-bes-eilanden.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\06\16 ]> uitgangspunten-cultuursubsidies-2025-2028.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\07\10 ]> beslisnota-bij-voorhang-conceptregeling-regionaal-investeringsfonds-mbo-2024-2027.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\08\23 ]> bijlage-1-onderliggende-beslisnota-kamerbrief-overzicht-publicaties-ilt-april-tot-en-met-juni-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\08\29 ]> beslisnota-s-bij-resultaten-examens-voortgezet-onderwijs-2023.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\09\11 ]> nota-ter-aanbieding-wijziging-subsidieregeling-praktijkleren-2024-2029.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\09\11 ]> nota-ter-besluitvorming-invulling-vervolg-subsidieregeling-praktijkleren-per-2024.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\09\13 ]> beslisnota-s-bij-uitwerking-motie-schoolmaaltijden-en-motie-brugfunctionaris.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\09\25 ]> bijlage-1-onderliggende-beslisnota-hns-nnavhv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\09\26 ]> tk-beslisnota-bij-periodieke-rapportage-rechtshandhaving-hoofdlijnen-jvo-augustus-2022.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\10\05 ]> bijlage-1-onderliggende-beslisnota-beleidsevaluatie-regeling-groenprojecten-buitenland-2002-en-regeling-groenpr-F823689E.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\10\11 ]> beslisnota-s-bij-reactie-op-bit-advies-vervolgonderzoek-project-doorontwikkelen-applicatielandschap-bekostiging-98514BAA.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\10\18 ]> tk-beslisnota-actieplan-samen-tegen-mensenhandel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ beleidsnotas\2023\10\24 ]> bijlage-1-onderliggende-hns-beslisnota-nnavhv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2007\07\08\maandbericht-wijziging-verdragsgegevens-juli-2007 ]> maandbericht-juli-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2007\08\08\maandbericht-wijziging-verdragsgegevens-augustus-2007 ]> maandbericht-augustus-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2007\10\08\maandbericht-wijziging-verdragsgegevens-oktober-2007 ]> maandbericht-oktober-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2008\03\08\maandbericht-wijziging-verdragsgegevens-maart-2008 ]> maandbericht-maart-2008.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2008\04\08\maandbericht-wijziging-verdragsgegevens-april-2008 ]> maandbericht-april-2008.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2009\12\09\algemene-douaneregeling ]> dv08-519.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\01\01\maandbericht-wijziging-verdragsgegevens-april-2007 ]> maandbericht-april-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\01\01\maandbericht-wijziging-verdragsgegevens-december-2007 ]> maandbericht-december-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\01\01\maandbericht-wijziging-verdragsgegevens-juni-2007 ]> maandbericht-juni-2007-3.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\01\01\maandbericht-wijziging-verdragsgegevens-maart-2007 ]> maandbericht-maart-2007.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\22\regeling-van-de-minister-van-financien-tot-wijziging-van-de-regeling-financiele-markten-bes-2010 ]> regeling-van-de-minister-van-financien-tot-wijziging-regeling-financiele-markten-bes-2010.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\29 ]> besluit-bestuurlijke-boeten-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\29 ]> besluit-wet-op-de-inkomstenbelasting-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\29 ]> overgangsregeling-fiscale-eenheid-bes-landsverordening-op-de-winstbelasting-1940.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\29 ]> regeling-tot-vaststelling-van-de-uitvoeringsregeling-belastingwet-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\29 ]> vaststelling-van-de-uitvoeringsregeling-loonbelasting-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2010\12\30 ]> wijziging-van-fiscale-uitvoeringsregelingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2011\04\13 ]> directe-belastingen-internationale-inlichtingenuitwisseling-ondermandaatverlening.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2011\05\10 ]> wijziging-van-de-regeling-integriteit-financiele-markten-bes-en-de-overgangs-en-vrijstellingsregeling-financiel-D92A1AD5.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2011\06\07 ]> ontwerpbesluit-wijziging-examenbesluiten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2011\06\17 ]> internationale-inlichtingenuitwisseling-bes-mandaatverlening.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2011\10\26 ]> beleidsbesluit-belastingstelsel-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\01\02 ]> wijziging-van-enige-fiscale-uitvoeringsregelingen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\05\22\besluit-tot-wijziging-van-het-eindexamenbesluit-vo-het-staatsexamenbesluit-vo-en-het-exame-8FC8BB64 ]> besluit-tot-wijziging-van-het-eindexamenbesluit-vo-het-staatsexamenbesluit-vo-en-het-examen-en-kwalificatiebesl-1E0E527A.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\09\21 ]> wijziging-uitvoeringsbesluit-wet-educatie-en-beroepsonderwijs-inzake-bekostiging-kenniscentra.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\09\28 ]> besluit-houdende-wijziging-van-de-kerndoelen-onderwijs-op-het-gebied-van-seksuele-diversiteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\10\05 ]> wijziging-inrichtingsbesluit-wvo-bes-in-verband-met-schoolvakanties-en-roostervrije-dagen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2012\12\20 ]> antwoorden-op-schriftelijke-vragen-inzake-de-begroting-deel-landbouw-en-natuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2013\04\15 ]> besluit-rond-jaarlijkse-vaststelling-van-cursusgeld-en-van-termijnbedragen-voor-betaling-lesgeld.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2013\09\06 ]> ontwerpbesluit-basisregistratie-personen-brp-voorhangprocedure.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2013\11\28\dgbel2013-6335m-dgbel-internationale-inlichtingenuitwisseling-ondermandaatverlening ]> internationale-inlichtingenuitwisseling-ondermandaatverlening.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2013\12\17 ]> instellingsbesluit-commissie-kleine-evaluatie-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\01\20-po ]> toetsbesluit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\10 ]> ontwerpbesluit-zorgpakket-zvw-2015-en-zorgpakket-bes-2015.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\19 ]> besluitenlijst-bestuurlijk-overleg-evaluatie-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\19 ]> concept-bes-bouwbesluit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\19 ]> evaluatieopdracht-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\27 ]> besluit-tot-wijziging-van-het-uitvoeringsbesluit-koopkrachttegemoetkoming-oudere-belastingplichtigen.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\06\27 ]> ontwerpbesluit-ter-uitvoering-van-de-jeugdwet-besluit-jeugdwet.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\07\02 ]> maastricht-declaration.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\07\14\besluit-tot-wijziging-van-het-besluit-bekostiging-wpbesluit-rond-aanvullende-bekostiging-i-C30698CB ]> besluit-tot-wijziging-van-het-besluit-bekostiging-wpbesluit-rond-aanvullende-bekostiging-internationaal-georien-286A26C0.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\09\11\besluit-aanwijzing-van-posten-bevoegd-tot-het-verstrekken-van-paspoorten-of-identiteitskaarten ]> rl1121-aanwijzingsbesluit-paspoort-verstrekken-locatiecode.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2014\12\02 ]> variabesluit-examens-voortgezet-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\01\13\besluit-aanwijzing-posten-bevoegd-tot-verstrekken-van-paspoorten-of-identiteitskaarten-dec-A741FB41 ]> besluit-aanwijzing-posten-bevoegd-tot-het-verstrekken-van-paspoorten-of-identiteitskaarten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\05\19 ]> wijzigingsbesluit-inrichtingsbesluit-wvo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\05\21 ]> ontwerpbesluit-experiment-regelluwe-scholen-po-vo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\09\22 ]> besluit-tot-wijzigen-meerdere-besluiten-in-verband-met-opnemen-van-het-vak-chinese-taal-en-cultuur.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\10\12 ]> ontwerpbesluit-wijziging-beoordeling-leerresultaten-vo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2015\11\20\blkb2015-911-fr-belastingwet-bes-besluit-bestuurlijke-boeten-bes ]> blkb-2015-911fr-besluit-bestuurlijke-boeten-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\02\08 ]> besluit-invoering-keuzedelen-beroepsonderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\04\22 ]> besluit-profielen-vmbo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\09\30 ]> besluit-over-experiment-op-het-terrein-van-flexibel-studeren-in-het-hoger-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\11\09 ]> bijlage-2-beleidskader-aangegane-onderhoudsverplichtingen-monumenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\11\09 ]> bijlage-3-beleidskader-sober-en-doelmatig-onderhoud-monumenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\12\13\organisatie-en-mandaatbesluit-dg-belastingdienst ]> mandaatbesluit-dgs-belastingdienst-toeslagen-douane-2021.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2016\12\20 ]> ontwerpbesluit-tot-wijziging-van-uitvoeringsbesluit-whw-2008-in-verband-met-andere-bekostigingswijze-open-universiteit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2017\02\21 ]> bijlage-besluit-experiment-instellingsaccreditatie-in-het-hoger-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2017\03\16 ]> wijziging-van-besluit-bekwaamheidseisen-onderwijspersoneel-in-verband-met-herijking.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2017\06\09 ]> besluit-wijziging-diverse-uitvoeringsbesluiten-vo-betreft-deeleindexamens-vmbo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2017\06\23 ]> ontwerpbesluit-aanpassing-besluit-publieke-gezondheid-vanwege-het-vaccinatieprogramma-en-het-bevolkingsonderzoek.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2017\11\13 ]> besluit-over-het-primair-en-voortgezet-onderwijs-voor-europees-en-caribisch-nederland.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\04\09 ]> besluit-bekwaamheidseisen-onderwijspersoneel.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\07\10 ]> ontwerpbesluit-tot-wijziging-van-het-besluit-onderstand-bes-en-het-besluit-politiegegevens.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\08\14 ]> besluit-tot-wijziging-van-het-uitvoeringsbesluit-web-met-name-in-verband-met-het-afschaffen-van-de-cascadebekostiging.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\08\17 ]> conceptbesluit-vaststelling-beleidsregels-instandhoudingssubsidie-woonhuis-rijksmonumenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\08\27 ]> besluit-van-27-augustus-2018-tot-wijziging-van-het-besluit-bekostiging-wpo.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\09\07 ]> besluit-tot-wijziging-van-het-uitvoeringsbesluit-whw-2008-en-andere-regelgeving-vanwege-gewijzigde-verantwoorde-A25E97C6.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\09\17 ]> besluiten-in-verband-met-de-wet-accreditatie-op-maat.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\10\12 ]> besluit-tot-wijziging-van-het-besluit-experimenten-flexibel-hoger-onderwijs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2018\10\12 ]> conceptbesluit-vaststelling-beleidsregels-instandhoudingssubsidie-woonhuis-rijksmonumenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2019\02\15 ]> wijziging-besluit-onderstand-bes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ besluiten\2019\06\03 ]> besluit-register-onderwijsdeelnemers.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 5; BatchedItems: 100]...[0m
