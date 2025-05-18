@@ -1,0 +1,2615 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+–– 
+ 
+ 
+ 
+ 
+ 
+1 9 . 1 7 1 . 3 4 • j uli 2 0 2 1 
+ 
+ 
+ 
+ 
+  
+Ontwikkeling rekenmethode Doc 29 voor Nederlandse regionale 
+luchthavens 
+Methoderapport 
+ 
+ 
+ 
+A vi a t i o nAviation Consultants 
+
+ 
+Inhoudsopgave 
+Samenvatting ............................................................................................................................................................................... 8 
+1 Inleiding ................................................................................................................................................................................ 13 
+1.1 De opgave ..................................................................................................................................................................... 13 
+1.2 Over ECAC Doc 29....................................................................................................................................................... 13 
+1.3 De regionale luchthavens ........................................................................................................................................ 14 
+1.4 Afbakening ................................................................................................................................................................... 15 
+1.5 Proces ............................................................................................................................................................................. 16 
+1.6 Leeswijzer ...................................................................................................................................................................... 17 
+2 Aanpak voor de ontwikkeling van Doc 29 voor de regionale luchthavens ..................................................... 18 
+2.1 Rekenproces ................................................................................................................................................................. 18 
+2.2 Systematische analyse .............................................................................................................................................. 19 
+3 Invoergegevens .................................................................................................................................................................. 22 
+3.1 Luchthaven specifieke gegevens........................................................................................................................... 22 
+3.2 Gegevens over het gebruik van de luchthaven ................................................................................................ 30 
+3.3 Geluid- en prestatiegegevens ................................................................................................................................. 41 
+3.4 Studiegebied ................................................................................................................................................................ 46 
+4 Voorbewerking ................................................................................................................................................................... 48 
+4.1 Substitutie ..................................................................................................................................................................... 48 
+4.2 Grondpad bewerking ................................................................................................................................................ 50 
+4.3 Meteorologische correctie geluidgegevens....................................................................................................... 53 
+4.4 Effect van bochten ..................................................................................................................................................... 55 
+5 Nabewerking ....................................................................................................................................................................... 57 
+5.1 Genereren van contouren ........................................................................................................................................ 57 
+5.2 Tellen van woningen, inwoners en ernstig gehinderden “binnen contouren” ....................................... 58 
+6 Klein verkeer ........................................................................................................................................................................ 60 
+6.1 Toepassing Doc 29 voor klein verkeer ................................................................................................................. 60 
+6.2 Invoergegevens ........................................................................................................................................................... 61 
+6.3 Voorbewerking ............................................................................................................................................................ 63 
+6.4 Nabewerking ................................................................................................................................................................ 64 
+7 Conclusies en aanbevelingen......................................................................................................................................... 65 
+ 
+Bijlage 1 – Leeswijzer afbeeldingen ..................................................................................................................................... 67 
+Bijlage 2 – Beschrijving rekenkern ....................................................................................................................................... 69 
+Bijlage 3 – Checklist rapportage ........................................................................................................................................... 71 
+Bijlage 4 – Analyse naar effect hoogteverschillen binnen studiegebied ................................................................. 73 
+Bijlage 5 – Analyse naar toepassing van filter op hoogtedata .................................................................................... 77 
+Bijlage 6 – Analyse naar invloed atmosferische condities ............................................................................................ 79 
+Bijlage 7 – Analyse naar verschoven baandrempel ........................................................................................................ 86 
+Bijlage 8 – Gegevens in het luchthavenregister............................................................................................................... 88 
+12 juli 2021 19.171.34 pag. 3/130 
+
+ 
+Lijst van figuren 
+Figuur 1: Rekenproces geluidbelasting (bron: ECAC Doc 29 Volume 1)................................................................... 18 
+Figuur 2: Focus invoergegevens binnen rekenproces geluidbelasting.................................................................... 22 
+Figuur 3: Focus voorbewerking van de invoergegevens binnen rekenproces geluidbelasting. ...................... 48 
+Figuur 4: Rolhoek in bochten (bron: ECAC Doc 29 Volume 2). .................................................................................... 55 
+Figuur 5: Focus nabewerking geluidbelasting. ................................................................................................................ 57 
+Figuur 6: Luchthavenkaart vliegveld Stadskanaal. .......................................................................................................... 62 
+Figuur 7: Representatief ANP type op basis van gewicht en certificatie geluidniveaus...................................... 64 
+Figuur 8: Leeswijzer figuren. .................................................................................................................................................. 67 
+Figuur 9: Topografie rondom Maastricht Aachen Airport. ........................................................................................... 73 
+Figuur 10: Effect op de geluidbelasting bij gebruik van minimale en maximale hoogte op verschillende 
+afstanden van de luchthaven. ............................................................................................................................................... 75 
+Figuur 11: Voorbeeld hoogtedata AHN met en zonder 'ontbrekende' data. .......................................................... 77 
+Figuur 12: Voorbeeld van hoogtedata na het toepassen van een nearest neighbour algoritme en een 
+Gaussian filter. ............................................................................................................................................................................ 78 
+Figuur 13: Gemiddelde temperatuur per luchthaven. ................................................................................................... 79 
+Figuur 14: Gemiddelde relatieve luchtvochtigheid per luchthaven. ........................................................................ 80 
+Figuur 15: Gemiddelde luchtdruk per luchthaven. ......................................................................................................... 80 
+Figuur 16: Voorbeeld gemiddelde temperatuur, relatieve luchtvochtigheid en luchtdruk per periode voor 
+de luchthaven Eindhoven Airport. ....................................................................................................................................... 81 
+Figuur 17: Verschillende methodes uitgezet t.o.v. de referentie (meteorologische condities per beweging).
+ ......................................................................................................................................................................................................... 82 
+Figuur 18: Gemiddelde temperatuur, luchtdruk en relatieve luchtvochtigheid per luchthaven opgedeeld 
+in zomer- en winterperiodes. ................................................................................................................................................. 84 
+Figuur 19: Start vanaf de baandrempel vergeleken met starts met een verschoven baandrempel van 56 
+meter en 100 meter. ................................................................................................................................................................. 87 
+Figuur 20: Verschil tussen gebruik radardata voorgaand jaar en gebruik modelroutes. Clustering op basis 
+van route. ..................................................................................................................................................................................... 89 
+Figuur 21: Afstandsklasse o.b.v. bestemming en o.b.v. startgewicht. ....................................................................... 92 
+Figuur 22: Drie mogelijke flaps settings - full flaps, reduced flaps en mixed flaps................................................ 95 
+Figuur 23: Berekening SEL, EPNL en LAmax voor nadering 737-300 incl. correctie t.o.v. Boeing 737-700. 100 
+Figuur 24: Berekening SEL, EPNL en LAmax voor start 737-300 incl. correctie t.o.v. Boeing 737-700. ........ 101 
+Figuur 25: Verschil in SEL, EPNL en LAmax voor de Boeing 737 familie na toepassen geluidcorrectie. ...... 101 
+Figuur 26: Verschil in SEL, EPNL en LAmax voor de Airbus A320 familie na toepassen geluidcorrectie. .... 102 
+Figuur 27: Effect start met maximaal of gereduceerd vermogen (D03) vanaf de baankop vergeleken met 
+de modellering van intersecties – afstandsklasse 1. .................................................................................................... 105 
+Figuur 28: Effect start met maximaal of gereduceerd vermogen (D03) vanaf de baankop vergeleken met 
+de modellering van intersecties – afstandsklasse 2. .................................................................................................... 106 
+Figuur 29: Effect vast prestatieprofiel (D00, D01 of D03) per intersectie vergeleken met de modellering van 
+intersecties – afstandsklasse 1. ........................................................................................................................................... 107 
+Figuur 30: Effect vast prestatieprofiel (D00, D01 of D03) per intersectie vergeleken met de modellering van 
+intersecties – afstandsklasse 2. ........................................................................................................................................... 107 
+12 juli 2021 19.171.34 pag. 5/130 
+
+ 
+Lijst van tabellen 
+Tabel 1: Overzicht eisen en wensen (toetsingskader). ................................................................................................... 20 
+Tabel 2: Relatie afstandsklasse en grootcirkelafstand. ................................................................................................... 38 
+Tabel 3: Daadwerkelijke startgewicht t.o.v. ANP startgewicht. ................................................................................... 39 
+Tabel 4: Certificatie geluidniveaus voor kleine toestellen uit de ANP lijst ............................................................... 63 
+Tabel 5: Scoretabel hoogteverschillen. ............................................................................................................................... 76 
+2
+Tabel 6: Contouroppervlaktes [km ] en verschil t.o.v. referentie (meteorologische condities per beweging) 
+[%]. ................................................................................................................................................................................................. 83 
+Tabel 7: Scoretabel atmosferische condities. .................................................................................................................... 85 
+Tabel 8: Contouroppervlaktes [km2] en verschil t.o.v. de resultaten van grondpaden 2019 [%]. .................... 90 
+Tabel 9: Scoretabel modelroutes vs. radardata. ............................................................................................................... 90 
+2
+Tabel 10: Contouroppervlaktes [km ] en verschil t.o.v. de methode op basis van startgewicht [%]. .............. 92 
+Tabel 11: Scoretabel afstandsklasse..................................................................................................................................... 93 
+2
+Tabel 12: Contouroppervlaktes [km ] en verschil t.o.v. de methode op basis van mixed flaps [%]. ................ 95 
+Tabel 13: Scoretabel flap settings. ........................................................................................................................................ 96 
+Tabel 14: Wwijzigingen in verschillende versies van de ANP database.................................................................... 97 
+Tabel 15: Geluidcertificatiegegevens voor vliegtuigtypes (737 familie) uit de ANP database. ......................... 99 
+Tabel 16: Correctiefactoren van geluidniveaus in decibellen en percentage van aantal vluchten. ................ 99 
+Tabel 17: Scoretabel vernieuwen ANP gegevens. ........................................................................................................ 102 
+Tabel 18: Verdeling van starts over de verschillende intersecties van startbaan 03 (EHEH). .......................... 104 
+Tabel 19: Best-passende startprofielen per intersectie van startbaan 03 (EHEH) o.b.v. radardata................ 105 
+Tabel 20: Scoretabel intersectiestarts............................................................................................................................... 108 
+2
+Tabel 21: Contouroppervlaktes [km ] en verschil t.o.v. de referentie (contour o.b.v. rekenraster met 50m 
+maaswijdte) [%]. ...................................................................................................................................................................... 112 
+Tabel 22: Aantal rasterpunten voor verschillende maaswijdtes. ............................................................................. 112 
+Tabel 23: Scoretabel maaswijdte. ...................................................................................................................................... 113 
+Tabel 24 Resulterende substitutie proxy en correctie factoren voor B737-800 en A320-232. ....................... 115 
+Tabel 25 Contouroppervlaktes [km2] en verschil t.o.v. de resultaten op basis van ANP Aircraft 
+configuration substitutiemethode[%]. ............................................................................................................................ 117 
+Tabel 26: Scoretabel substitutiemethode. ...................................................................................................................... 118 
+Tabel 27: Gemiddeld aantal segmenten per methode voor grondpadbewerking............................................ 123 
+Tabel 28: Scoretabel grondpadbewerking - uitlijnen met start- en landingsbaan. ........................................... 125 
+Tabel 29: Scoretabel grondpadbewerking - verwijderen ruis en versimpelen grondpad. .............................. 125 
+Tabel 30: Niet-commerciële toestellen uit de ANP lijst met een maximaal startgewicht <6.000kg. ............ 127 
+ 
+ 
+12 juli 2021 19.171.34 pag. 7/130 
+
+ 
+Ontwikkeling Doc 29 regionaal 
+De ontwikkeling van de rekenmethode voor Doc 29 regionaal richt zich in eerste instantie op toepassing 
+van de Doc 29 methode voor de berekening van de geluidbelasting voor ‘groot verkeer’. Groot verkeer 
+zijn passages met een vliegtuig met een maximaal startgewicht van 6.000 kg of meer met uitzondering 
+van helikopters. Voor klein verkeer (vliegtuigen met een maximaal startgewicht tot 6.000 kg) is de 
+toepasbaarheid en praktische bruikbaarheid van de rekenmethode beoordeeld.  
+ 
+Dit onderzoek volgt het rekenproces voor de berekening van de geluidbelasting zoals opgenomen in 
+ECAC Doc 29 Volume 1. Deze rekenmethode bestaat uit de volgende onderdelen: 
+ 
+ 
+Rekenproces geluidbelasting (bron: ECAC Doc 29 Volume 1). 
+ 
+Identificeren van keuzes 
+De ECAC Doc 29 methode laat ruimte voor de gebruiker om keuzes te maken in verschillende delen van 
+het rekenproces. De ontwikkeling van Doc 29 regionaal richt zich op de invulling van die keuzes. Hiervoor 
+zijn opties uitgewerkt en beoordeeld. De onderdelen die eenduidig zijn beschreven in ECAC Doc 29, zoals 
+het rekenmodel, zullen één-op-één worden overgenomen in Doc 29 regionaal.  
+ 
+In bovenstaand rekenproces zijn de ‘airport data’, ‘operations data’ en ‘aircraft’ blokken onderdeel van de 
+invoergegevens. De invoergegevens zijn doorgaans niet geschikt om rechtstreeks in het rekenmodel 
+(‘noise model’) gebruikt te worden. In de voorbewerking worden daarom de invoergegevens eerst 
+geschikt gemaakt. Een voorbeeld hiervan is het doorvoeren van eventuele correcties, bijvoorbeeld 
+vanwege ontbrekende gegevens over het specifieke vliegtuigtype of lokale (meteorologische) 
+omstandigheden. Dit rapport beschrijft de keuzes en de voorgestelde methode met betrekking tot de 
+voorbewerking voor Doc 29 regionaal.  
+ 
+Het rekenmodel geeft als resultaat de berekende geluidbelasting in ‘rekenpunten’ in de omgeving van de 
+luchthaven. Het rekenmodel is eenduidig beschreven in ECAC Doc 29. Doc 29 regionaal zal één-op-één 
+het rekenmodel van ECAC Doc 29 volgen. Op basis van de resultaten van de geluidberekening kunnen 
+met nabewerking (‘contour generation’) geluidcontouren worden bepaald. Ook voor de nabewerking is in 
+dit onderzoek een voorstel gedaan. 
+ 
+ 
+12 juli 2021 19.171.34 pag. 9/130 
+
+ 
+Onderdeel Onderwerp binnen Beknopte toelichting voorstel methode Doc 29 regionaal 
+rekenproces onderdeel rekenproces 
+radardata radartracks gemodelleerd worden of dat 
+modelroutes worden bepaald is aan de gebruiker. Hanteer 
+modelroutes op basis van de AIP als radardata niet 
+beschikbaar zijn. 
+• Gebruik radardata voor realisatieberekeningen als deze 
+beschikbaar zijn. Val terug op de modelroutes die ook bij de 
+prognoseberekening zijn toegepast aIs radardata niet 
+beschikbaar zijn. 
+• Koppel het startprofiel op basis van het geregistreerd 
+startgewicht indien dit beschikbaar (te maken) is op basis 
+van registratie. Als terugval geldt de koppeling op basis van 
+vliegafstand. 
+• Koppel de startprocedure op basis van de resultaten van een 
+inventarisatie naar de toepassing van de startprocedure per 
+maatschappij. 
+• Koppel het naderingsprofiel volgens dezelfde methode als 
+gehanteerd bij Doc 29 voor Schiphol: selectie op basis van 
+afwijkingsscore hoogte voor realisaties. 
+• Koppel de flapsetting op basis van de resultaten van een 
+inventarisatie naar de toepassing per maatschappij. 
+Geluid- en • Maak gebruik van de door ECAC aanbevolen ANP (Aircraft 
+prestatiegegevens Noise and Performance) database van EUROCONTROL. 
+• Afweging vereist: maak een afweging hoe wordt 
+omgegaan met nieuwe ANP gegevens. 
+Studiegebied • Hanteer een studiegebied dat groot genoeg is zodat de 
+laagst relevante geluidniveaus binnen het studiegebied 
+vallen. 
+• Gebruik standaard een rekenraster met een afstand van 100 
+meter tussen de rekenpunten. 
+• Hanteer een voldoende fijnmazig rekenraster voor 
+toepassingen die een hoge nauwkeurigheid vragen 
+(bijvoorbeeld het vaststellen van een beperkingengebied). 
+Als de ligging van de contour niet significant wijzigt bij een 
+(verdere) halvering van de maaswijdte, hoeft niet verder 
+verfijnd te worden.   
+Voorbewerking Substitutie • Pas de ANP substitutielijst op vliegtuigtype en motortype 
+niveau toe voor zover registratiegegevens beschikbaar zijn 
+en hanteer een conservatieve benadering indien gegevens 
+niet beschikbaar zijn. 
+• Voor het vaststellen van een proxy en correctiefactoren voor 
+nieuwe vliegtuigtypes (die nog niet opgenomen zijn in deze 
+ANP substitutielijst op vliegtuigtype en motortype niveau) 
+dient de gebruiker te beargumenteren welke proxy en 
+correctiefactoren gehanteerd worden op basis van de 
+substitutiecriteria opgenomen in paragraaf 6.4.4.1 van ECAC 
+Doc 29 Volume 1. 
+Grondpad bewerking • Voor de bewerking van radardata tot een grondpad kunnen 
+ verschillende methodes worden toegepast, waaronder 
+(maar niet beperkt tot) de methode zoals beschreven in Doc. 
+29 Schiphol, een spline of een versimpeling naar rechte 
+lijnen en krommen. De keuze welke methode wordt gebruikt 
+voor de invoerdata is aan de gebruiker. Het gebruik van 
+12 juli 2021 19.171.34 pag. 11/130 
+
+ 
+1 Inleiding 
+1.1 De opgave 
+Voor u ligt het rapport dat de ontwikkeling van een voorstel voor de rekenmethode Doc 29 voor de 
+Nederlandse regionale luchthavens beschrijft.  
+ 
+Voor het berekenen van de geluidbelasting van startende en landende vliegtuigen zijn in de Nederlandse 
+regelgeving voorschriften vastgelegd. Hierbij is onderscheid gemaakt naar drie soorten luchthavens: 
+a) de luchthaven Schiphol, 
+b) overige burgerluchthavens (de ‘regionale luchthavens’), en 
+c) militaire luchthavens. 
+ 
+Voor de luchthaven Schiphol en voor de overige burgerluchthavens wordt de geluidbelasting berekend 
+in Lden en Lnight. Voor militaire luchthavens wordt de geluidbelasting berekend in Ke (Kosteneenheden). 
+ 
+3
+Voor de luchthaven Schiphol is in 2016/2017 een nieuwe rekenmethode ontwikkeld . Eerder werden de 
+geluidberekeningen voor Schiphol uitgevoerd met een Nederlands Rekenmodel (NRM). De nieuwe 
+rekenmethode voor Schiphol is gebaseerd op de meest recente aanbevelingen van de European Civil 
+4
+Aviation Conference (ECAC), gepubliceerd in 2016 als de vierde editie van ECAC Doc 29 . ECAC Doc 29 
+beschrijft een voor Europa geharmoniseerde methode om de geluidbelasting rondom civiele luchthavens 
+te bepalen. 
+ 
+Voor de overige burgerluchthavens en voor de militaire luchthavens wordt het Nederlands Rekenmodel 
+voor respectievelijk Lden en Ke nog toegepast. 
+ 
+De minister van Infrastructuur en Waterstaat zal in navolging van de implementatie van Doc 29 voor 
+Schiphol besluiten of (en hoe) de ECAC Doc 29 rekenmethode zal worden ingevoerd voor de regionale 
+(burger)luchthavens in Nederland.  
+ 
+To70 en Aerlabs hebben in opdracht van het ministerie van Infrastructuur en Waterstaat (IenW) een 
+voorstel voor de rekenmethode Doc 29 voor de Nederlandse regionale luchthavens ontwikkeld.  
+1.2 Over ECAC Doc 29 
+Geluidmodellen berekenen de geluidbelastingen door vereenvoudigde wiskundige weergaven van de 
+echte, complexe processen van het ontstaan en verspreiden van vliegtuiggeluid. Veel variabelen zijn van 
+invloed op de daadwerkelijke geluidniveaus rond een luchthaven. Zo heeft ieder vliegtuig bijvoorbeeld 
+zijn eigen karakteristieken, moeten aannames gedaan worden over de precieze vluchtuitvoering, is het 
+weer van invloed op de verspreiding van het geluid en zal er in praktijk sprake zijn van reflecties of juist 
+demping van het geluid als gevolg van de ondergrond, aanwezigheid van gebouwen, etc. Een exacte 
+ 
+3
+ Toepassing ECAC Doc 29 voor het bepalen van de geluidbelasting van het vliegverkeer van Schiphol – NLR-CR-2017-
+305 
+4
+ https://www.ecac-ceac.org/ecac-docs 
+12 juli 2021 19.171.34 pag. 13/130 
+
+ 
+d) de luchthaven Rotterdam. 
+ 
+Alle andere luchthavens, niet zijnde Schiphol of een militaire luchthaven, zijn luchthavens van regionale 
+betekenis. Dit betreft de volgende luchthavens: 
+• Ameland Airport Ballum, 
+• Breda International Airport, 
+• Enschede Airport Twente, 
+• Kempen Airport, 
+• Teuge International Airport, 
+• Texel International Airport, 
+• Vliegveld Drachten, 
+• Vliegveld Hilversum, 
+• Vliegveld Hoogeveen, 
+• Vliegveld Midden-Zeeland, 
+• Vliegveld Oostwold, en 
+• Vliegveld Stadskanaal. 
+ 
+De luchthavens in Caribisch Nederland vallen niet onder de regionale luchthavens. Voor deze luchthavens 
+geldt afzonderlijke wet- en regelgeving en voorschriften voor de berekening van de geluidbelasting. 
+ 
+De luchthaven Eindhoven is een militaire luchthaven met civiel medegebruik. Het civiel gebruik bedroeg 
+in 2019 ruim 41.000 vliegtuigbewegingen. De totale geluidbelasting van de luchthaven werd daarmee 
+voor een belangrijk deel bepaald door het civiel gebruik. Om die reden heeft het ministerie van IenW 
+besloten om Eindhoven Airport in deze opdracht mee te nemen als regionale luchthaven, waarbij alleen 
+naar het civiele verkeer wordt gekeken.  
+1.4 Afbakening 
+De ontwikkeling van de methode voor de implementatie van ECAC Doc 29 op de regionale luchthavens 
+kent de volgende afbakening: 
+• Hoofdstuk 2 beschrijft het rekenproces volgens ECAC Doc 29. In het rekenmodel (‘rekenkern’) wordt 
+de geluidbelasting berekend op basis van een set formules. Het rekenmodel ligt met ECAC Doc 29 
+vast. De ontwikkeling van de methode voor Doc 29 voor regionale luchthavens richt zich dan ook 
+uitsluitend op de toepassing van het rekenmodel, waarbij een voorstel wordt gedaan voor onder 
+andere de invoer van het rekenmodel en de nabewerking van de resultaten. 
+• De methode, en daarmee keuzes in de methode, is gericht op het berekenen van de jaargemiddelde 
+Lden geluidbelasting buitenshuis. Met de Doc 29 methode kunnen ook andere geluidsmaten 
+worden berekend, zoals bijvoorbeeld L niveaus (het hoogste geluidniveau van een 
+Amax
+vliegtuigpassage) of de gemiddelde geluidbelasting voor een kortere periode. Bij de toepassing van 
+de rekenmethode voor andere doeleinden dan de berekeningen van de jaargemiddelde 
+geluidbelasting, kan men de aanbevelingen in deze rapportage niet direct overnemen. Bij gebruik 
+van de methode voor andere toepassingen zullen andere overwegingen een rol spelen die mogelijk 
+ook leiden tot een ander advies dan in dit rapport wordt gepresenteerd. 
+12 juli 2021 19.171.34 pag. 15/130 
+
+ 
+1.6 Leeswijzer 
+De rekenmethode Doc 29 voor de Nederlandse regionale luchthavens zal hierna worden aangeduid als 
+Doc 29 regionaal. 
+ 
+Dit rapport bevat verwijzingen naar ECAC Doc 29 en diverse technisch inhoudelijke analyses, op basis 
+waarvan vervolgens keuzes zijn gemaakt.  
+ 
+Het rapport dient een brede doelgroep. Het rapport is gericht op beleidsmakers voor de implementatie 
+van Doc 29 voor de regionale luchthavens. Maar daarnaast biedt het rapport achtergrondinformatie en 
+antwoorden rondom de systematiek van geluidberekeningen die voor diverse doelgroepen relevant is: 
+van experts die geluidberekeningen uitvoeren tot belanghebbenden die de resultaten moeten kunnen 
+interpreteren, beoordelen en wegen.  
+ 
+De Samenvatting geeft een beknopt overzicht van het proces, de aanpak en het voorstel per element in 
+het rekenproces. Het hoofdrapport geeft op de verschillende onderdelen de overwegingen bij de 
+voorstellen, onderbouwd met technische analyses in de bijlagen. 
+ 
+Hoofdstuk 2 beschrijft de aanpak die is gevolgd voor de ontwikkeling van de methode voor ECAC Doc 29 
+voor de regionale luchthavens is uitgevoerd.  
+ 
+De hoofdstukken 3 tot en met 6 beschrijven de totstandkoming en onderbouwing van de inhoudelijke 
+analyses. Hierbij zijn alle elementen in het rekenproces systematisch langsgelopen en geven voor elke 
+element een voorstel voor de methode (oranje kaders). 
+ 
+Een gedetailleerde beschrijving van hoe de verschillende figuren worden gepresenteerd is opgenomen in 
+‘Bijlage 1 – Leeswijzer afbeeldingen’. 
+ 
+De andere bijlagen bij dit rapport geven een beschrijving en technische verdieping van de onderliggende 
+analyses. 
+12 juli 2021 19.171.34 pag. 17/130 
+
+ 
+Het rekenmodel, beschreven in ‘Bijlage 2 – Beschrijving rekenkern’, geeft als resultaat de berekende 
+geluidbelasting in ‘punten’ in de omgeving van de luchthaven. Binnen het rekenmodel zelf zijn er geen 
+elementen waar bij de implementatie van Doc 29 regionaal een keuze mogelijk is. Voor het rekenmodel 
+worden voor de implementatie van Doc 29 regionaal daarom een-op-een de methode en de rekenregels 
+zoals beschreven in ECAC Doc 29 gevolgd.  
+ 
+Op basis van deze resultaten kunnen in een nabewerking bijvoorbeeld geluidcontouren worden bepaald. 
+Hoofdstuk 5 in dit rapport beschrijft voor Doc 29 regionaal de keuzes in deze nabewerkingsstap. 
+2.2 Systematische analyse 
+Om te komen tot een voorstel voor de methode voor Doc 29 regionaal zijn systematisch alle elementen in 
+het rekenproces volgens de ECAC Doc 29 methode langsgelopen en is nagegaan hoe de implementatie 
+van Doc 29 voor de regionale luchthavens kan worden vormgegeven. De (technische) handleidingen van 
+ECAC zijn hierbij als startpunt gebruikt.  
+ 
+Vanuit deze handleidingen zijn steeds minimaal drie methoden gedefinieerd voor de implementatie van 
+Doc 29 regionaal: 
+• “werkelijk geluid”: de methode die het meest aansluit bij de werkelijkheid; 
+• “recht-toe-recht-aan”: een zo eenvoudige mogelijke vertaling van de huidige werkwijze volgens 
+het Nederlands rekenmodel naar een werkwijze die overeenkomt met Doc 29. 
+• “maximaal uniform”: een zo direct mogelijke toepassing van de gekozen methode voor Doc 29 op 
+Schiphol naar toepassing voor de regionale luchthavens. 
+ 
+De implementatie van Doc 29 Schiphol is beoordeeld als ‘best practice’ als het gaat om de implementatie 
+5
+van ECAC Doc 29 , en is daarmee een ‘logisch’ startpunt voor de ontwikkeling van een methode voor de 
+regionale luchthavens. Door alle stappen in het rekenproces systematisch langs te lopen en ook 
+alternatieve methodes te beschouwen, is beoordeeld of op elementen andere keuzes beter zijn of 
+gemaakt moeten worden vanwege de specifieke kenmerken van regionale luchthavens. Hierbij is een 
+afweging gemaakt tussen de behoefte naar uniformiteit bij de bepaling van de geluidbelasting rondom 
+de Nederlandse luchthavens enerzijds, en de mogelijkheden voor verbetering van de methode of de 
+noodzaak om van de Schipholmethode af te wijken anderzijds. 
+ 
+De reden om voor onderdelen af te wijken van de implementatie van Doc 29 voor Schiphol is dat de daar 
+gemaakte keuzes niet noodzakelijk ook altijd voor de hand liggen of geschikt zijn voor de toepassing van 
+Doc 29 voor de regionale luchthavens. Hierbij moet met name gedacht worden aan de beperktere 
+beschikbaarheid van gegevens en de sterk verschillende vlootsamenstelling ten opzichte van Schiphol. 
+Ook zijn de kenmerken van de regionale luchthavens, zoals het verkeersbeeld, onderling sterk 
+verschillend. Een keuze die voor de ene luchthaven een minimale impact heeft en goed ‘past’, kan voor 
+andere luchthavens grote consequenties hebben. Het is dan ook van belang dat de voor Schiphol 
+gemaakte keuzes in deze opdracht voor Doc 29 regionaal heroverwogen worden, en dat een alternatieve 
+ 
+5
+ https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2018/11/28/bijlage-4-peer-review-of-
+noise-modelling-process/bijlage-4-peer-review-of-noise-modelling-process.pdf 
+12 juli 2021 19.171.34 pag. 19/130 
+
+ 
+Eisen/wensen 
+✓ Positieve score   Neutrale score  Negatieve score 
+methode maximaal 0,5 
+6,7
+dB(A) bedraagt. 
+ 
+Per methode worden de drie eisen (voldoen aan de richtlijnen van ECAC Doc 29, toepasbaar en praktisch 
+haalbaar en eenduidig en navolgbaar) en de twee technische wensen (hoge nauwkeurigheid en de 
+uniformiteit met Doc 29 Schiphol) beoordeeld op basis van een inhoudelijke analyse. De resultaten uit 
+deze scoretabel zijn vervolgens omgezet in overwegingen, om te komen tot een voorstel voor de 
+methode. 
+ 
+ 
+ 
+ 
+6
+ De waarde van 0,5 dB(A) die wordt gehanteerd voor het toetsen van de nauwkeurigheid van de methodes moet niet 
+verward worden met de onzekerheid van het model. Door het vastleggen van keuzes in de implementatie van Doc 29 
+voor de regionale luchthavens worden onzekerheden weggenomen. 
+7
+ Een variatie in een jaargemiddelde Lden van 0,5 dB(A) is niet te vergelijken met een variatie in de geluidsniveaus van 
+een enkele passage. De variatie in de geluidsniveaus van een enkele passage zullen veel groter zijn, typisch een aantal 
+dB(A). 
+12 juli 2021 19.171.34 pag. 21/130 
+
+ 
+• The aerodrome reference altitude (= altitude of aerodrome reference point). 
+This is the altitude of the nominal ground plane on which, in the absence of 
+topography corrections, the noise contours are defined.  
+• Average meteorological parameters at or close to the aerodrome reference point 
+(temperature, relative humidity, average windspeed and wind direction).  
+ 
+2.4.2 RUNWAY DATA 
+For each runway: 
+• Runway designation 
+• Runway reference point (centre of runway expressed in local co-ordinates) 
+• Runway length, direction and mean gradient 
+• Location of start-of-roll and landing threshold. Datasheets for runway data 
+representation are shown in Appendix A2. 
+ 
+Samengevat bestaan de luchthavengegevens uit de volgende elementen: 
+1. Locatie en het lokale coördinatenstelsel van de luchthaven; 
+2. Topografie: hoogteverschillen van de omgeving ten opzichte van de luchthaven; 
+3. Gemiddelde meteorologische condities op of dichtbij de luchthaven; 
+4. Gegevens over de start- en landingsbanen. 
+ 
+Deze elementen worden in de volgende paragrafen behandeld. 
+ 
+ Locatie van de luchthaven en het lokale coördinatenstelsel 
+Voor het uitvoeren van een geluidberekening wordt de locatie van de luchthaven vastgelegd binnen een 
+lokaal coördinatenstelsel. Voor alle Nederlandse luchthavens zijn de coördinaten en de hoogte van het 
+Airport Reference Point (ARP) opgenomen in de openbaar toegankelijke Aeronautical Information 
+Publication (AIP). Daarnaast is het voor geluidberekeningen binnen Nederland de standaard om voor het 
+8
+lokale coördinatenstelsel het Rijksdriekhoekstelsel (RD) te hanteren. In Doc 29 Schiphol wordt dit stelsel 
+ook gehanteerd. Er is geen aanleiding om voor Doc 29 regionaal hiervan af te wijken.  
+ 
+Schiphol ligt nagenoeg op zeehoogte. Om die reden is verondersteld dat het lokale luchthavenniveau 
+gelijk is aan zeeniveau. De regionale luchthavens kennen echter grotere verschillen in de hoogteligging, 
+tot maximaal 370 voet (ongeveer 113 meter) boven zeeniveau. De invloed hiervan op de berekening van 
+de geluidbelasting is naar verwachting beperkt, maar is niet onderzocht. Wel heeft het een doorwerking 
+naar de prestatiegegevens van vliegtuigen en is er geen praktisch bezwaar om niet de lokale situatie als 
+dusdanig mee te nemen. Om die reden wordt voorgesteld om voor Doc 29 regionaal uit te gaan van de 
+werkelijke hoogte.  
+ 
+Voorstel methode voor Doc 29 regionaal 
+Hanteer de methodologie zoals beschreven in paragraaf 2.4.1 van ECAC Doc 29: 
+1. Gebruik het Rijksdriekhoekstelsel (RD) als coördinatenstelsel met het Airport Reference Point (ARP) 
+uit de Aeronautical Information Publication (AIP) als referentiepunt voor de locatie van de 
+luchthaven; 
+2. Stel de hoogte van de luchthaven in op de hoogte van het ARP. 
+ 
+8
+ https://www.kadaster.nl/zakelijk/registraties/basisregistraties/rijksdriehoeksstelsel 
+12 juli 2021 19.171.34 pag. 23/130 
+
+ 
+Voorstel methode voor Doc 29 regionaal 
+Houdt omwille van de eenvoud geen rekening met hoogteverschillen ten opzichte van de luchthaven als 
+de hoogteverschillen in de omgeving van de luchthaven beperkt zijn. Als grens is het voorstel om een 
+maximaal hoogteverschil van 25 meter binnen het studiegebied aan te houden waarmee de foutmarge 
+beperkt wordt tot maximaal 0,5 dB(A). 
+ 
+Voor luchthavens met hoogteverschillen in de omgeving van meer dan 25 meter, dient wel rekening 
+gehouden te worden met hoogteverschillen. De methode hiervoor is als volgt: 
+• Bepaal voor elk rasterpunt in het studiegebied het hoogteverschil ten opzichte van de luchthaven. 
+Gebruik hiervoor de maaiveldhoogtes in het Actueel Hoogtebestand Nederland (AHN). 
+• Stel in het geval van ontbrekende data de hoogte in een punt gelijk aan de hoogte in het (of een van 
+de) dichtstbijzijnde (wel bekende) datapunt. 
+• Pas een Gaussian filter (een standaard methode die kan worden toegepast in een tweedimensionaal 
+vlak) toe op de hoogtes om de invloed van snel veranderende hoogtevariaties en ruis in de 
+hoogtedata te beperken. Deze dient zo ingesteld te worden dat de filter een standaarddeviatie heeft 
+van 100 meter. Hiermee worden onvoorspelbare effecten op de geluidcontour voorkomen.  
+ 
+ Gemiddelde meteorologische condities op of dichtbij de luchthaven 
+Paragraaf 7.3.2 van ECAC Doc 29 Volume 1 beschrijft de invloed van weerscondities op enerzijds het 
+gebruik van de luchthaven en anderzijds de geluidsvoortplanting door de atmosfeer. 
+ 
+7.3.2 WEATHER CONDITIONS 
+Weather conditions have an influence on the usage of runways and routeings and 
+hence on total air traffic - as well as on the individual flight paths of the 
+aircraft. Additionally the weather directly affects sound propagation through the 
+atmosphere. Although atmospheric state changes with height above the aerodrome, it 
+is not usually practicable to account for this; contour calculations are usually 
+based on average or nominal conditions at aerodrome elevation. 
+ 
+Since weather data are recorded at all airports it is theoretically possible to 
+perform a noise calculation accounting for all weather conditions which occurred 
+during any past time period. However this would require a very large amount of 
+data preparation and computation time which would be disproportionate to any 
+accuracy gains against the use of averaged meteorological conditions. This latter 
+course is likely to be the only practicable approach for analysing future 
+scenarios. 
+ 
+De invloed van het weer op het gebruik van de luchthaven, wordt meegenomen in de gegevens over het 
+gebruik van de luchthaven (zie paragraaf 3.2). Voor de invloed van het weer op de geluidsvoortplanting 
+door de atmosfeer geeft ECAC Doc 29 de richtlijn om de standaard ANP-geluidgegevens (zie paragraaf 
+3.3) te corrigeren voor de werkelijke temperatuur, luchtdruk en luchtvochtigheid. De richtlijn van ECAC 
+Doc 29 is dat de correctie van de geluidgegevens gedaan wordt op basis van de omstandigheden op het 
+luchthavengebied en wordt toegepast op berekeningen op alle ontvangende punten.  
+ 
+Bij de implementatie van ECAC Doc 29 voor Schiphol is het volgende gehanteerd. 
+ 
+12 juli 2021 19.171.34 pag. 25/130 
+
+ 
+overschatting op dan het gebruik van zomer- en wintergemiddelde waarden. Als een korte tijdsperiode 
+dan een jaar wordt gehanteerd, wijkt de methode af van de methode voor Schiphol. 
+Het gebruik van ISA-condities, het gebruik van luchthaven specifieke jaargemiddelde condities en het 
+gebruik van de luchthaven specifieke condities voor een kortere tijdsperiode voldoen alle drie aan de 
+eisen uit het toetsingskader. Afhankelijk hoe de wensen (uniformiteit met Doc 29 Schiphol en een hoge 
+nauwkeurigheid) worden gewogen, prevaleert de ene methode boven de andere. 
+ 
+Het gebruik van atmosferische condities per tijdstip van de beweging vereist met het tijdstip van de 
+beweging meer detail in de verkeersgegevens, zet daarmee de praktische haalbaarheid onder druk, 
+terwijl de nauwkeurigheid nauwelijks nog toeneemt. Het gebruik van een seizoensgemiddelde per 
+luchthaven wordt daarmee de meest praktische optie geacht met een hogere nauwkeurigheid dan bij het 
+gebruik van ISA-condities. Het gebruik van ISA-condities en een jaargemiddelde voldoen echter ook aan 
+de eisen en wensen en zijn daarmee ook bruikbare methodes. 
+ 
+Voorstel methode voor Doc 29 regionaal 
+Op basis van het toestingskader volgt dat voor de implementie van Doc 29 regionaal een keuze gemaakt 
+kan worden uit drie methodes: 
+• Het gebruik van ISA-condities, 
+• Het gebruik van luchthaven specifieke jaargemiddelde condities, 
+• Het gebruik van luchthaven specifieke condities per zomer/winter, per kwartaal of per maand. 
+ 
+Het rijk dient hierover een afweging te maken op basis van een weging van de wensen. Als meer gewicht 
+wordt gegeven aan de wens voor uniformiteit met Doc 29 Schiphol, dient voor het gebruik van ISA-
+condities te worden gekozen. Het gebruik van luchthaven specifieke condities voor een kortere periode 
+dan een jaar dient gekozen te worden als een hoge nauwkeurigheid zwaarder weegt. Vanuit praktisch 
+oogpunt wordt voorgesteld om in dat geval vaste gemiddelde atmosferische condities te hanteren met 
+uitsplitsing naar een zomer- en een wintergemiddelde (op basis van KNMI data van een periode van 
+9
+(minimaal) 10 jaar per uurvak , waarbij enkel rekening wordt gehouden met de uurvakken die binnen de 
+openingsuren van de luchthaven vallen. 
+ 
+ Gegevens over start- en landingsbanen 
+Paragraaf 2.4.2 van ECAC Doc 29 Volume 2 beschrijft de benodigde gegevens voor de definitie van de 
+start- en landingsbanen. 
+ 
+2.4.2 RUNWAY DATA 
+For each runway: 
+• Runway designation 
+• Runway reference point (centre of runway expressed in local co-ordinates) 
+• Runway length, direction and mean gradient 
+• Location of start-of-roll and landing threshold (displaced thresholds can be 
+taken into account by defining additional runways) 
+ 
+ 
+9
+ Door KNMI data per uur te gebruiken, kunnen niet relevate uren (buiten de operingsuren van de luchthaven) 
+genegeerd worden bij het berekenen van gemiddeldes. 
+12 juli 2021 19.171.34 pag. 27/130 
+
+ 
+• de kennis dat de meerderheid van de vluchten vanaf het begin van de baan 
+vertrekt en dat het effect op de geluidbelasting beperkt zou zijn,  
+• het gebrek aan volledige informatie rondom het gebruik van intersectiestarts, 
+• het gebrek aan een model dat intersectiestarts kan voorspellen, 
+is tijdens de overleggen met de experts besloten dat de te behalen extra 
+nauwkeurigheid van het modelleren van intersectiestarts niet opwoog tegen de extra 
+complexiteit van modelleren en de benodigde inspanning om dit te realiseren. Dit 
+zou daarmee een punt kunnen zijn waarop de modellering in de toekomst mogelijk nog 
+verbeterd zou kunnen worden. 
+ 
+Een argument om geen intersectiestarts voor Schiphol te modelleren is dat het effect op de geluidbelasting 
+beperkt zou zijn. De aanwezigheid, de ligging en het gebruik van intersecties verschilt per luchthaven. 
+Gegevens over intersecties en baandrempels zijn te vinden in het openbaar toegankelijke Aeronautical 
+Information Publication (AIP), via de Take Off Run Available (TORA). Voor de regionale luchthavens Eelde, 
+Maastricht en Twente, en ook voor vliegbasis Eindhoven, zijn intersecties aanwezig gelegen op meer dan 
+1.000 meter vanaf het begin van de baan. Afhankelijk van het gebruik van de intersectie, kan dit gevolgen 
+hebben voor (de berekening van) de geluidbelasting in de omgeving, zowel in het verlengde van de baan 
+als in de gebieden naast de baan.  
+ 
+Voor de implementatie van Doc 29 regionaal is een verkennende analyse gedaan naar de invloed van de 
+modellering van het startpunt en het mogelijke effect van intersectiestarts op de geluidbelasting rondom 
+de luchthaven. De opzet, methodiek, resultaten en conclusies van deze analyse zijn te vinden in 
+respectievelijk ‘Bijlage 7 – Analyse naar verschoven baandrempel’ en ‘Bijlage 13 – Analyse naar 
+modellering intersectiestarts en motorvermogen’. Bij het verschuiven van de baandrempel hangt 
+intersectiegebruik ook samen met het startprofiel dat wordt gebruikt. Het effect op het startprofiel is 
+verder toegelicht in paragraaf 3.3.  
+ 
+Overwegingen 
+ECAC Doc 29 geeft de mogelijkheid om intersectiestarts te modelleren via het toevoegen van een extra 
+baan in de invoergegevens. Een andere optie is om één baandefinitie te hanteren (coördinaten van de 
+fysieke afmetingen) en een variabele baandrempel te hanteren voor de afstand van de baankop tot de 
+intersectie. 
+ 
+In Doc 29 Schiphol is verondersteld dat, gelet op het operationeel gebruik van Schiphol, het effect van 
+intersectiestarts op de geluidbelasting beperkt is. In Doc 29 Schiphol worden intersectiestarts mede 
+daarom niet afzonderlijk gemodelleerd. Uit de verkennende analyse blijkt dat intersectiestarts bij de 
+regionale luchthavens een significant effect kunnen hebben op de geluidbelasting onder het vliegpad en 
+naast de baan. Een hoge nauwkeurigheid kan daardoor alleen worden bereikt als intersectiestarts wel 
+afzonderlijk worden gemodelleerd. Deze methode vraagt echter wel om aanvullende data (over het 
+gebruik werkelijk gebruik van intersectie) die op dit moment niet voorhanden is.  
+ 
+De invloed van een rollende start en een verschoven baandrempel zijn beperkt. De extra nauwkeurigheid 
+die hiermee gerealiseerd kan worden, weegt niet op tegen de onzekerheden rond de beschikbaarheid en 
+nauwkeurigheid van de vereiste informatie.  
+ 
+12 juli 2021 19.171.34 pag. 29/130 
+
+ 
+Voor de herkomst van de gegevens over het gebruik van de luchthaven, dient onderscheid gemaakt te 
+worden tussen een geluidberekening die worden uitgevoerd voor: 
+• een realisatie, gebaseerd op het werkelijke verkeer: een geluidberekening waarmee de gerealiseerde 
+geluidbelasting in een bepaalde periode wordt bepaald, en 
+• een prognose, gebaseerd op een verkeersverwachting: een geluidberekening waarmee de 
+verwachte geluidbelasting in een bepaalde periode wordt bepaald. 
+ 
+Realisatieberekening 
+Voor een realisatieberekening geldt doorgaans dat de meeste gegevens over het gerealiseerde gebruik 
+van de luchthaven rechtstreeks beschikbaar zijn of kunnen worden afgeleid uit de gegevens die al 
+worden geregistreerd (luchthavenregister, zie ‘Bijlage 8 – Gegevens in het luchthavenregister’. Dit is 
+toegelicht in de volgende paragrafen. Het detailniveau van de gegevens die het gebruik van de 
+luchthaven beschrijven hangt samen met het doel van de berekening en de daarbij gewenste of vereiste 
+nauwkeurigheid. De methode in dit rapport is vooral gericht op het uitvoeren van (gedetailleerde) 
+berekeningen, bijvoorbeeld voor de handhaving op geluidgrenswaarden. Als minder detailniveau 
+volstaat voor het doel van de geluidberekening (bijvoorbeeld bij een effectstudie), dan kan er met 
+onderbouwing worden afgeweken van de methode in dit rapport. 
+ 
+Prognoseberekening 
+De bepaling van geluidcontouren voor een toekomstige situatie is vergelijkbaar met de methode voor de 
+bepaling van de geluidcontouren voor een realisatie, maar met het belangrijke verschil dat gegevens over 
+het gebruik van de luchthaven gebaseerd zijn op voorspellingen. Voor een prognoseberekening zullen in 
+meer of minder detail aannames (moeten) worden gedaan met betrekking tot het gebruik van de 
+luchthaven, bijvoorbeeld ten aanzien van het aantal vliegtuigbewegingen, de vlootsamenstelling, het 
+baangebruik en de vliegpaden. De betrouwbaarheid van de resultaten is in belangrijke mate afhankelijk 
+van de kwaliteit van de aannames over het gebruik van de luchthaven. Die aannames zullen onderbouwd 
+en geaccepteerd moeten worden. De wijze waarop de aannames voor een prognose worden vastgesteld, 
+maakt geen deel uit van de methode voor het toepassen van Doc 29 regionaal. Het is aan de gebruiker om 
+passende aannames te doen. Hierbij wordt geadviseerd om voor delen van de prognoses, waar mogelijk, 
+gebruik te maken van realisatiegegevens. Voorbeelden hiervan zijn: 
+• een prognose van het verkeersbeeld op basis van verwachte ontwikkelingen ten opzichte van het 
+huidige verkeersbeeld; 
+• de nadere geluidkarakteristieken voor een groep vliegtuigen met hetzelfde vliegtuigtype; 
+• het weer in het verleden en het werkelijke baangebruik bij die weersomstandigheden; 
+• werkelijke vliegpaden voor vergelijkbare vluchten. 
+ 
+Het vervolg van deze paragraaf beschrijft vooral de totstandkoming van de verschillende invoergegevens 
+voor een realisatieberekening. 
+ 
+ Gegevens over het vliegtuig 
+Voor geluidberekeningen volgens het Doc 29 rekenproces wordt per beweging gebruik gemaakt van 
+geluid- en prestatiekenmerken van vliegtuigen (zie paragraaf 3.3). Deze gegevens zijn per vliegtuig en 
+vliegtuigconfiguratie anders. Voor ECAC Doc 29 wordt het gebruik van een internationale Aircraft Noise 
+12 juli 2021 19.171.34 pag. 31/130 
+
+ 
+• voor een start: Het begin van de startrol; 
+• voor een landing: de tijd van touch down op de baan. 
+ 
+De datum van de vlucht is van belang als gekozen wordt om voor Doc 29 regionaal luchthaven specifieke 
+condities per zomer/winter, per kwartaal of per maand toe te passen. 
+ 
+Voorstel methode voor Doc 29 regionaal 
+Gebruik de gegevens die al moeten worden bijgehouden in het luchthavenregister om datum en tijdstip 
+van een vlucht te bepalen.  
+ 
+ Het baangebruik 
+Het baangebruik geeft per vlucht de start- of landingsbaanrichting. De aanduiding voor de gebruikte 
+baan moet overeenkomen met de aanduiding van de baan(richting) in de gegevens over de start en 
+landingsbanen. Het baangebruik wordt al geregistreerd in het luchthavenregister.  
+ 
+Voorgesteld is starts vanaf een intersectie afzonderlijk te modelleren als hierover gegevens beschikbaar 
+zijn, zie paragraaf 3.1.4. Het gebruik van intersecties wordt op dit moment nog niet geregistreerd en 
+vormt daarmee een aandachtspunt voor de implementatie van Doc 29 regionaal. Het registreren van 
+intersectiestarts is onderdeel van de aanbevelingen in hoofdstuk 7. 
+ 
+ Grondpad 
+Een van de belangrijkste gegevens voor de verdeling van de geluidbelasting over de omgeving zijn de 
+vliegbanen. De geluidberekening in ECAC Doc 29 vindt plaats op basis van een 3D-beschrijving van de 
+vliegbaan. Deze bestaat uit: 
+• Het grondpad, dit is de projectie van de vliegbaan op het grondvlak; 
+• Het verloop van de vlieghoogte boven de grond als functie van de afgelegde weg langs het 
+grondpad. 
+ 
+Deze paragraaf beschrijft het grondpad. Het verloop van de vlieghoogte langs het grondpad is 
+beschreven in paragraaf 3.2.6.1 voor starts en in paragraaf 3.2.6.2 voor naderingen.  
+ 
+Paragraaf 2.4.3 van ECAC Doc 29 volume 2 beschrijft de definitie van de vliegpaden afhankelijk van de 
+beschikbaarheid van radardata: 
+ 
+2.4.2 GROUND TRACK DATA 
+Aircraft ground tracks have to be described by a series of coordinates in the 
+(horizontal) ground-plane. The source of ground track data depends on whether 
+relevant radardata are available or not. If they are, a reliable backbone track 
+and suitable associated (dispersed) sub-tracks can be established by statistical 
+analysis of the data. If not, backbone tracks are usually constructed from 
+appropriate procedural information, e.g. using standard instrument departure 
+procedures from Aeronautical Information Publications. This conventional 
+description includes the following information: 
+• Designation of the runway the track originates from 
+• Description of the track origin (start of roll, landing threshold) 
+• Length of segments (for turns, radius and change of direction) 
+12 juli 2021 19.171.34 pag. 33/130 
+
+ 
+• Fast-time simulation 
+ 
+Theoretische grondpaden van routes zijn af te leiden uit de procedurele stappen van de SIDs en 
+STARs in de Aeronautical Information Publication (AIP). Op basis van de gegevens in de AIP kan het 
+grondpad bij een vliegroute worden bepaald. Theoretische grondpaden hebben echter als belangrijk 
+nadeel dat er geen rekening wordt gehouden met optredende spreiding als gevolg van bijvoorbeeld 
+invloeden van weer, verschillen in prestaties tussen vliegtuigen en navigatie(on)nauwkeurigheid. 
+Ook kan het vliegtuig afwijken van de theoretische routes op instructie van luchtverkeersleiding. 
+Dergelijke instructies komen voor om het verkeer veilig en doelmatig af te kunnen afhandelen. 
+ 
+Modelroutes zijn gemodelleerde vliegroutes op basis van de nominale paden, vaak met een vorm 
+van spreiding. Ten opzichte van theoretische grondpaden houden modelroutes (meer) rekening met 
+de verwachte ligging van het grondpad, vaak door naast de nominale routes ook rekening te houden 
+met verwachte spreiding. Modelroutes zijn veelal gebaseerd op historische radardata. Modelroutes 
+worden vaak gemaakt voor clusters (verzameling vergelijkbare vluchten). Door een nominaal pad te 
+nemen met spreiding en een beperkt aantal subtracks is de modelroute equivalent aan een beperkt 
+aantal grondpaden (per cluster). Elke subtrack heeft een eigen gewicht. Paragraaf 3.4.2 van Doc 29 
+volume 2 beschrijft hiervoor in algemene zin de aanpak.  
+ 
+In Doc 29 Schiphol wordt gewerkt met een noise load database, eveneens gebaseerd op (recente) 
+historische radardata. In plaats van het afleiden van modelroutes, worden in deze methode 
+historische tracks rechtstreeks gebruikt om als representatief te gelden met gelijke weging. Net als bij 
+modelroutes is clustervorming essentieel. De werkelijke spreiding kan op deze manier beter worden 
+gerepresenteerd dan met modelroutes, welke een vereenvoudiging geven van de werkelijke 
+spreiding. 
+ 
+Met fast-time simulation modellen kan het (luchtruim-)gebruik van een luchthaven worden 
+gesimuleerd. Het model simuleert de afhandeling van het verkeer, gegeven een luchtruimindeling, 
+de ligging van vliegroutes en regels voor de verkeersafhandeling.  
+ 
+Voor Schiphol en de regionale luchthavens met naderingsluchtverkeersleiding wordt de gerealiseerde 
+geluidbelasting al bepaald op basis van radardata. Op basis van de positiewaarnemingen met de radar 
+wordt het vliegpad gereconstrueerd. Deze methode wordt als meest nauwkeurig gezien en in het kader 
+van Doc 29 regionaal is er geen aanleiding om hiervan af te wijken. Uitzondering hierop is de berekening 
+van de geluidbelasting voor regionale luchthavens in handhavingspunten die ‘in de nabijheid’ van een 
+start/landingsbaan liggen. Voor die punten wordt de geluidbelasting berekend op basis van dezelfde 
+grondpaden van routes (en spreiding) als in de geluidbelastingberekening voor het vaststellen van de 
+grenswaarde in de handhavingspunten is toegepast.   
+ 
+Dit ligt anders voor een prognoseberekening. Voor een prognoseberekening zijn volgens bovenstaande 
+uiteenzetting verschillende methodes beschikbaar: 
+• In geval van het ontbreken van radardata: modelroutes op basis van informatie in de AIP, met een 
+horizontale spreiding ten opzichte van nominale routes via spreidingsgebieden met deelroutes (en 
+12 juli 2021 19.171.34 pag. 35/130 
+
+ 
+radardata niet beschikbaar zijn, dan moet in principe worden teruggevallen op modelroutes op basis van 
+de AIP. Ook hier moet de gebruiker voldoende aandacht besteden aan een zorgvuldige modellering van 
+de nominale routes en spreiding en beoordelen in hoeverre de modellering naar verwachting aansluit bij 
+het werkelijke gebruik. 
+ 
+Voor realisatieberekeningen dienen ook radardata te worden gebruikt als deze beschikbaar zijn. Als 
+radardata niet beschikbaar zijn, dient te worden teruggevallen op de modelroutes die ook bij de 
+prognoseberekening zijn toegepast. 
+ 
+ Prestatieprofielen 
+Voor de start zijn in praktijk meerdere startprocedures beschikbaar. De procedure die wordt toegepast 
+kan verschillen per luchthaven, maatschappij en de situatie in het luchtruim. Vergelijkbaar met starts 
+wordt ook de nadering op verschillende manieren uitgevoerd. In de geluidmodellering wordt dit 
+ondervangen door de meest representatieve prestatiegegevens van het vliegtuig te gebruiken. De 
+prestatiegegevens (prestatieprofielen) beschrijven de hoogte, snelheid en stuwkracht als functie van de 
+afgelegde weg.  
+ 
+Het geluid en de prestaties van vliegtuigen worden gebaseerd op de gegevens in de ANP-database, zie 
+paragraaf 3.3. Met de vliegtuigkenmerken in die database kunnen voor verschillende startprocedures en 
+bij verschillende startgewichten startprofielen worden gemaakt. Het maken van de prestatieprofielen valt 
+buiten de methode voor de toepassing van Doc 29 regionaal. De toekenning van het startprofiel is wel 
+onderdeel van de methode voor Doc 29 regionaal.  
+3.2.6.1 Starts 
+Voor de toewijzing van het startprofiel wordt in Doc 29 Schiphol het volgende gehanteerd: 
+ 
+3.2 Toewijzing prestatieprofiel 
+Elk vliegtuigtype dat binnen het model gebruikt kan worden heeft eigen 
+vliegprestatieprofielen. Per vliegtuigtype is er in elk geval één prestatieprofiel 
+beschikbaar voor een startprocedure, maar vaak zijn dit er veel meer. Zo zijn voor 
+de meeste types verschillende startprocedures beschikbaar, namelijk de NADP1 en de 
+verschillende varianten van de NADP2. Per startprocedure wordt daarnaast nog 
+onderscheid gemaakt naar verschillende startgewichten, die worden toegepast 
+afhankelijk van de afstand tot de bestemming. 
+ 
+3.2.1 Toewijzing startprofiel 
+Voor een deel van de vliegtuigtypes is één startprocedure beschikbaar, waardoor er 
+geen keuze gemaakt hoeft te worden. Voor types waarvoor wel meerdere 
+startprocedures beschikbaar zijn in de set met profielen, is de keuze voor de 
+procedure conform de verkeersscenario’s van de MER. Dit betekent dat de 
+geselecteerde startprocedure afhankelijk is van de vliegtuigmaatschappij. 
+ 
+Verwacht wordt dat, in lijn met Doc 29 Schiphol en met de (standaard-)profielen in de ANP-database, 
+besloten zal worden om startprofielen beschikbaar te maken voor meerdere startgewichten en 
+verschillende (varianten van) startprocedures.  
+ 
+12 juli 2021 19.171.34 pag. 37/130 
+
+ 
+Tabel 3: Daadwerkelijke startgewicht t.o.v. ANP startgewicht. 
+Categorie o.b.v. afstand bestemming 
+Categorie o.b.v. Actual 
+Take-off Weight (ATOW) Afstandsklasse 1  Afstandsklasse 2  Afstandsklasse 3 Afstandsklasse 4  
+Afstandsklasse 1 8% 2% 4% 0% 
+Afstandsklasse 2 7% 7% 5% 0% 
+Afstandsklasse 3 1% 8% 14% 0% 
+Afstandsklasse 4 0% 2% 17% 5% 
+Afstandsklasse 5 1% 2% 1% 12% 
+Afstandsklasse 6 0% 0% 0% 2% 
+ 
+Tabel 3 laat zien dat een deel van het verkeer op basis van het daadwerkelijke startgewicht ingedeeld zou 
+worden in een hogere afstandsklasse (oranje cellen). Tegelijkertijd zouden er ook bewegingen worden 
+ingedeeld in gelijke (groene cellen) of een lagere afstandsklasse (blauwe cellen). 
+ 
+Om het effect van het gebruik van daadwerkelijke startgewichten voor de selectie van het startprofiel 
+inzichtelijk te maken is er een verdiepende analyse uitgevoerd. De resultaten van deze analyse zijn te 
+vinden in ‘Bijlage 10 – Analyse naar effect gebruik werkelijke startgewicht’. 
+ 
+Overwegingen 
+Voor een gerealiseerde vlucht kan het verloop van hoogte en snelheid worden afgeleid uit radardata (als 
+deze beschikbaar zijn). De stuwkracht is echter niet rechtstreeks beschikbaar en is voor starts afhankelijk 
+van de startprocedure, startgewicht en meteorologische omstandigheden. Voor naderingen (zie §3.2.6.2) 
+kan het prestatieprofiel worden toegekend op basis van het best overeenkomende hoogteprofiel met de 
+hoogtes van de radarregistraties. Doordat voor starts, meer dan voor landingen, meerdere variabelen van 
+invloed zijn op het hoogte- en snelheidsverloop en de stuwkracht meer bepalend is voor het brongeluid, 
+kan niet zonder meer het ‘juiste’ startprofiel worden geselecteerd op basis van het beste passende 
+hoogteprofiel. Er zal een andere definitie van de afwijkingsscore moeten komen om ervoor te zorgen dat 
+de methode past bij de eigenschappen van starts en een analyse moet uitwijzen of de toekenning 
+hiermee voldoende accuraat te maken is.  De methode hiervoor heeft een directe relatie met de nadere 
+uitwerking van startprofielen, zie paragraaf 3.3. 
+ 
+Om dezelfde methode toe te passen als Doc 29 Schiphol (selectie van de startprocedure op basis van 
+maatschappij), is per luchthaven een actuele inventarisatie bij maatschappijen noodzakelijk. De 
+luchthavenexploitant zal de informatie die hiervoor nodig is kunnen ophalen bij de maatschappijen. 
+Controles op de informatie kunnen gedaan worden op basis van een analyse van de radardata. 
+ 
+Uit de analyse blijkt dat voor de selectie van het startgewicht, een selectie op basis van vliegafstand tot 
+een lagere nauwkeurigheid kan leiden. Het gebruik van het werkelijk startgewicht zou om die reden sterk 
+de voorkeur hebben. Het daadwerkelijk startgewicht wordt echter momenteel niet standaard 
+geregistreerd door de luchthavenexploitant. Een verdere analyse is nodig om na te gaan of de data 
+beschikbaar te maken zijn. 
+ 
+Voorstel methode voor Doc 29 regionaal 
+Gebruik voor de toewijzing van het startprofiel de volgende methode: 
+12 juli 2021 19.171.34 pag. 39/130 
+
+ 
+standaardprofielen vastgesteld. Het snelheidsverloop voor deze profielen is gebaseerd op de gemiddelde 
+vliegsnelheid van de meest overeenkomstige vluchten met het hoogteverloop.  
+ 
+Indien van toepassing moet er daarnaast een keuze worden gemaakt tussen het gebruik van full flaps of 
+reduced flaps voor de eindnadering. Het gebruik van full flaps en reduced flaps kan verschillen per 
+luchthaven en/of luchtvaartmaatschappij. Het is tevens afhankelijk van het vliegtuigtype, de lengte van 
+de baan, de procedures van de luchtvaartmaatschappij, het landingsgewicht en het weer. Het gebruik van 
+een reduced flap setting in plaats van een full flaps setting heeft een positief (reducerend) effect op het 
+geluid in de omgeving van de luchthaven. In het huidige rekenvoorschrift voor de regionale luchthavens 
+wordt op dit moment enkel gebruik gemaakt van full flaps naderingen. Voor regionale luchthavens is het 
+onbekend wat de impact is bij gebruik van reduced flaps profielen en of het noodzakelijk is om deze toe 
+te passen. Om dit inzichtelijk te maken is er een verdiepende analyse uitgevoerd, waarvan de resultaten te 
+vinden zijn in ‘Bijlage 11 – Analyse naar effect gebruik full flaps/reduced flaps’. 
+ 
+Overwegingen 
+Voor een gerealiseerde vlucht kan het verloop van hoogte (en snelheid) worden afgeleid uit radardata (als 
+deze beschikbaar zijn). Er is geen aanleiding om voor de keuze van de naderingsprocedure (en daarmee 
+het prestatieprofiel) af te wijken van Doc 29 Schiphol, oftewel een koppeling van het profiel op basis van 
+de beste overeenkomst met vooraf vastgestelde profielen. 
+ 
+Het gebruik van full of reduced flaps heeft invloed op de geluidbelasting. Als er gegevens beschikbaar zijn 
+over het gebruik, dan zal het meenemen daarvan tot een nauwkeuriger rekenresultaat leiden (ondanks de 
+mogelijke kleinere bijdrage van naderend verkeer aan de jaargemiddelde geluidbelasting op locaties 
+waar ook geluid van startend verkeer is). Daarin is onderscheid maken tussen maatschappij/luchthaven 
+realistischer en dus nauwkeuriger dan een vaste mix hanteren. Over het gebruik van de flaps tijdens een 
+nadering zijn nog geen gegevens beschikbaar bij de luchthavenexploitant.  
+ 
+Voorstel methode voor Doc 29 regionaal 
+Gebruik voor de toewijzing van het naderingsprofiel de volgende methode: 
+• Koppel het naderingsprofiel op basis van dezelfde methode als in Doc 29 Schiphol: selectie op basis 
+van afwijkingsscore voor de gevlogen hoogte ten opzichte van de beschikbare profielen.  
+• Koppel de flapsetting op basis van de resultaten van een inventarisatie naar de toepassing per 
+maatschappij. 
+3.3 Geluid- en prestatiegegevens 
+De gegevens over het geluid en de prestaties van vliegtuigen zijn een belangrijk onderdeel van de 
+invoergegevens die worden gebruikt bij het uitvoeren van geluidberekeningen: 
+• Geluid – de basisgeluidniveaus van het vliegtuig. Deze noise-power-distance (NPD) gegevens, geven 
+in tabelvorm de referentie geluidwaarden bij combinaties van stuwkracht en afstand. 
+• Prestaties – het verloop van hoogte, snelheid en stuwkracht voor een start of nadering.  
+ 
+Rondom de te gebruiken gegevens staan een aantal vragen centraal: 
+1) Welke bron wordt gebruikt? 
+12 juli 2021 19.171.34 pag. 41/130 
+
+ 
+12
+EASA . Er wordt wel expliciet benoemddat de ANP-gegevens generiek toepasbaar zijn en dat de 
+gebruiker zelf verantwoordelijk is om de representativiteit van de gegevens te bepalen.  
+ 
+In Doc 29 Schiphol is het advies van ECAC Doc 29 om de ANP-database te gebruiken overgenomen. Ook is 
+er conform ECAC Doc 29 een analyse uitgevoerd om de representativiteit van de gegevens in de ANP-
+database voor de situatie op Schiphol te toetsen. Op basis hiervan is het volgende gehanteerd in Doc 29 
+Schiphol: 
+ 
+Vliegprestatiegegevens 
+ECAC Doc 29 wordt beschikbaar gesteld samen met een database van 
+vliegprestatiegegevens. Deze zogenaamde Aircraft Noise and Performance (ANP) 
+Database wordt beheerd door EUROCONTROL en bevat prestatiegegevens die zijn 
+uitgewerkt in zogeheten vliegprestatieprofielen. Echter, deze profielen zijn 
+generiek van aard en sluiten hierdoor vaak niet goed aan bij de operationele 
+praktijk op Schiphol. Om deze reden zijn er op basis van de ANP-database 
+specifieke profielen voor start- en landingsoperaties van en naar Schiphol 
+afgeleid. 
+ 
+Voor starts geldt dat de profielen in de eerste plaats gebaseerd zijn op de 
+startprocedures die in de ANP-database voor de verschillende vliegtuigtypes zijn 
+opgenomen. Vervolgens zijn hierop varianten aangemaakt voor de verschillende 
+startprocedures die op Schiphol worden gebruikt, zoals de NAPD1 en de NADP2. Voor 
+de modernere vliegtuigtypes is als laatste stap nog derating op de startprofielen 
+toegepast. De mate van derating is gebaseerd op het hoogteverloop van startende 
+vliegtuigen, zoals geregistreerd door de radarinstallaties.  
+ 
+Voor landingen geldt dat de gebruikte naderingsprocedure van vlucht tot vlucht erg 
+kan verschillen. Sommige vliegtuigen zitten al vroeg relatief laag, andere dalen 
+pas op het laatste moment. Om deze grote variaties beter in de geluidmodellering 
+mee te nemen is per vliegtuigtype een groot aantal verschillende 
+naderingsprofielen gedefinieerd. De definitie van de mogelijke profielen is 
+gebaseerd op praktijkgegevens van hoogte en snelheid, zoals geregistreerd door de 
+radarinstallaties. Voor elke vlucht die is doorgerekend is bepaald welk van de 
+beschikbare profielen het beste past bij de vluchtuitvoering, zie paragraaf 3.2.2. 
+ 
+Geluidgegevens 
+Voor ieder vliegtuigtype waarvoor prestatiegegevens beschikbaar zijn, zijn ook 
+geluidtabellen benodigd. De geluidtabel (ook wel Noise-Power-Distance tabel of 
+NPD-tabel genoemd) beschrijft de geluidniveaus als functie van de 
+vermogensparameter en de afstand tussen het vliegtuig en het berekeningspunt.  
+ 
+De gebruikte geluidtabellen zijn één op één overgenomen uit de ANP-database. Er 
+zijn afzonderlijke geluidtabellen toegepast voor starts en landingen.  
+ 
+De waarde van de vermogensparameter waarmee het geluidniveau wordt vastgesteld 
+volgt uit het stuwkrachtprofiel. De afstand tussen het vliegtuig en het 
+betreffende berekeningspunt wordt berekend op basis van het grondpad en het 
+hoogteprofiel. Voor het bepalen van het geluidniveau dient meestal geïnterpoleerd 
+of geëxtrapoleerd te worden tussen opgegeven waarden in de geluidtabel. 
+ 
+12
+ https://www.aircraftnoisemodel.org/  
+12 juli 2021 19.171.34 pag. 43/130 
+
+ 
+de vliegtuigen. Deze verschillen treden op als het verschil in berekende geluidbelasting tussen twee 
+vliegtuigen, bijvoorbeeld 3 dB, niet gelijk is aan het verschil in certificatieniveaus en niet constant is voor 
+het gebied waar de geluidbelasting wordt berekend.  
+ 
+Zowel de geluidcertificatieniveaus als de ANP data zijn van hoge kwaliteit, zijn door verificatie en validatie 
+betrouwbaar en de best beschikbare gegevens. De trend die te zien is in de afgelopen jaren, is dat de 
+kwaliteit en dekking van de ANP data toeneemt. Op basis van expert judgement is de verwachting dat in 
+de toekomst de gegevens voor toestellen voor meer dan 30 passagiers beter en meer volledig zullen 
+worden, waardoor er minder substitutie nodig is. 
+ 
+Desalniettemin zijn er beperkingen en methodische verschillen door aannames in de methode om ANP 
+gegevens te corrigeren bij het gebruik van substitutie, bijvoorbeeld: 
+• Het verschil in EPNdB (de eenheid van de certificatieniveaus) wordt met de substitutiemethode een-
+op-een representatief geacht voor het verschil in SEL (de eenheid die wordt gebruikt voor Lden 
+bepalingen. Dit is niet geheel juist omdat deze eenheden een andere spectrale weging van het 
+geluid gebruiken.  
+• Ook wordt impliciet verondersteld dat de verschillen in EPNdB, gemeten in het certificatiepunt, voor 
+het gehele gebied van de geluidberekening van toepassing zijn, wat onwaarschijnlijk is als gevolg 
+van verschillen in de prestaties tussen vliegtuigen. 
+• Bij de certificatie wordt gewerkt volgens verschillende selectie voor het motorvermogen. Zo wordt 
+het laterale certificatieniveau gemeten met vol vermogen en het flyover certificatieniveau met 
+gereduceerd vermogen (en NADP1 of NADP2). 
+• Voor 2010 werd gegevens voor de ANP database direct overgenomen van de fabrikant, waar er nu 
+ook verificatie op de dataset plaatsvindt door VOLPE en EASA (met een nauwkeurigheid van +/-1 
+dB(A)) waarbij ook de motorvermogen setting van NPD data wordt geverifieerd. 
+• Binnen hetzelfde toesteltype kan de correctie in voorkomende gevallen niet volledig correct zijn. Een 
+voorbeeld is de 737 familie, waarbij er meerdere toestellen zijn met een correctiewaarde van 0 dB(A) 
+voor startend verkeer, maar dat er binnen deze toestellen wel een variatie is in de laterale en flyover 
+certificatieniveaus. Dit is ook de aanleiding geweest om het toesteltype een van meerdere factoren te 
+13
+laten zijn in het substitutieprotocol van Doc 29 voor Schiphol . 
+ 
+Andere beperkingen rondom het gebruik van nieuwe gegevens is de snelheid waarmee updates van de 
+ANP database komen. De updates komen niet snel, omdat het lastig is om snel nieuwe data te publiceren.  
+ 
+Overwegingen 
+Uit de analyse blijkt dat het gebruik van nieuwe prestatiegegevens zonder correctie van de geluidsruimte 
+niet toepasbaar en praktisch haalbaar is. Daarentegen levert ook het corrigeren van de geluidsruimte bij 
+gebruik van nieuwe ANP gegevens bezwaren op, omdat dit minder eenduidig en navolgbaar is. Daarmee 
+rijst de vraag of het toepassen van nieuwe ANP gegevens überhaupt wenselijk is. Typisch zitten er jaren 
+tussen de updates van de ANP database. Inachtnemende dat bij elk nieuw luchthavenbesluit gebruik 
+wordt gemaakt van de op dat moment meest actuele ANP gegevens, zullen de geldende ANP gegevens 
+ 
+13
+ https://zoek.officielebekendmakingen.nl/blg-875160.pdf 
+12 juli 2021 19.171.34 pag. 45/130 
+
+ 
+studiegebied voor regionale luchthavens doorgaans kleiner uitvallen doordat er minder bewegingen zijn, 
+die nagenoeg altijd bestaan uit kleinere, en daarmee veelal minder lawaaiige, vliegtuigtypen. Hierdoor is 
+het ook de vraag of een maaswijdte (afstand tussen twee rekenpunten) van 250m zoals beschreven in Doc 
+29 Schiphol voldoende nauwkeurig is. Het huidige rekenvoorschrift voor regionale luchthavens (NRM) 
+schrijft voor dat de maaswijdte in het raster maximaal 100 meter mag bedragen. In ‘Bijlage 14 – Analyse 
+naar effect maaswijdte op geluidcontour’ is met een nadere analyse in kaart gebracht wat het effect is van 
+verschillende maaswijdtes op de nauwkeurigheid van de contour. 
+ 
+Overwegingen 
+Uit de resultaten van de nadere analyse blijkt dat een maaswijdte van 500 meter of 250 meter een minder 
+hoge nauwkeurigheid geeft ten opzichte van een maaswijdte van 100 meter of 50 meter. Ondanks dat 
+alle methodes toepasbaar zijn, kan niet gesteld worden dat de meest nauwkeurige methode acceptabel is 
+qua inspanning en kosten. Zo leidt het 50 meter raster tot een verviervoudiging in het aantal rasterpunten 
+ten opzichte van een 100 meter raster, wat ervoor zorgt dat ook de omvang van de berekening toeneemt. 
+Alles overwegend lijkt een maaswijdte van 100 meter een voldoende hoge nauwkeurigheid te hebben 
+met beperkte kosten en inspanning bij de nu gangbare contourwaardes. 
+ 
+MVoorstel methode voor Doc 29 regionaal 
+Gebruik voor de modellering van de geluidbelasting in het studiegebied de volgende methode:  
+• Gebruik een raster dat groot genoeg is zodat de laagst relevante geluidniveaus die in kaart gebracht 
+moeten worden binnen het studiegebied vallen.  
+• Gebruik standaard een raster met een afstand van 100 meter tussen de rekenpunten. 
+• Voor toepassingen die een hoge nauwkeurigheid vragen (bijvoorbeeld het vaststellen van een 
+beperkingengebied) dient een gevoeligheidsanalyse te worden uitgevoeren naar de invloed van de 
+maaswijdte op de ligging van de contour. Als de ligging van de contour niet significant wijzigt bij een 
+halvering van de maaswijdte, hoeft niet verder verfijnd te worden.  
+12 juli 2021 19.171.34 pag. 47/130 
+
+ 
+types that make up today’s commercial civil aircraft fleets. However, the ANP 
+database does not include all the existing types, models and variants which are 
+operated around the world. Therefore, the available ANP aircraft may not always be 
+sufficient to model the full set of operations at a given airport, hence the need 
+for the noise modellers to use aircraft substitutions. Substitution means 
+replacing a missing aircraft with a similar ANP aircraft, often referred to as a 
+‘proxy’ aircraft. 
+ 
+A proxy may be used ‘as is’ to model the operations by the missing aircraft. This 
+is referred to as a ‘one-to-one’ substitution. However, it is recommended to make 
+adjustments, where appropriate, to take into account possible differences in noise 
+performance between the missing and the proxy aircraft. This can be done using 
+either of the following methods: 
+• Method A: create a new entry in the ANP database, defined as a duplicate of 
+the proxy aircraft with adjusted NPD data 
+• Method B: adjust the number of movements of the proxy aircraft in the input 
+operations, i.e. one movement by the missing aircraft is replaced by N 
+movements of the proxy aircraft (N can be a decimal number). 
+ 
+Method A may be the more resource-intensive option as it requires modification of 
+the ANP database in the model, however the adjustments are reflected in all noise 
+metrics, including maximum sound level metrics such as LAmax. Method B may be 
+easier to implement as only the input operations need to be modified, however it 
+only applies to the calculation of equivalent sound levels, such as LAeq.  
+ 
+The calculation of the adjustments for each method, and the approach for selecting 
+a suitable proxy, are described in the following sections [6.4.4.1 and 6.4.4.2]. 
+ 
+Ten tijde van de ontwikkeling van Doc 29 Schiphol was de door ECAC aanbevolen substitutiemethode, de 
+substitutiemethode opgenomen in de ANP database, nog niet beschikbaar. Voor de implementatie van 
+Doc 29 voor Schiphol is ervoor gekozen om een substitutieprotocol op te stellen, in lijn met de methodiek 
+die de ECAC hiervoor heeft opgenomen in Doc 29.  
+ 
+4.1 Vliegtuigtypes en substitutie  
+In de luchtvaart zijn veel vliegtuigtypen in gebruik. Daarnaast kan één 
+vliegtuigtype met verschillende motortypes zijn uitgerust. Niet van alle 
+combinaties van vliegtuigtype en motortype zijn de voor de berekening van de 
+geluidbelasting benodigde geluid- en prestatiegegevens beschikbaar.  
+ 
+Indien van een vliegtuigtype geen gegevens beschikbaar waren in de set met 
+prestatiegegevens voor Schiphol, is de vliegtuigbeweging met het betreffende type 
+doorgerekend met de gegevens van een type waar wel gegevens voor waren en waarvan 
+de prestaties en geluidproductie representatief worden geacht. Het representatieve 
+type is bepaald met behulp van een substitutieprotocol. Dit protocol voor de Doc 
+29 implementatie voor Schiphol is een verdere uitwerking van de substitutiemethode 
+die wordt aanbevolen bij gebruik van Doc 29. Het voordeel van het protocol is dat 
+de uitkomst wordt berekend, terwijl bij de originele methode van de gebruiker 
+wordt gevraagd om bepaalde afwegingen te maken. Daardoor is de uitkomst van de 
+originele methode niet altijd eenduidig, terwijl dit bij het protocol wel het 
+geval is.  
+ 
+12 juli 2021 19.171.34 pag. 49/130 
+
+ 
+radardata nodig om te komen van de positiewaarnemingen van de radardata tot de lijnsegmenten die 
+het grondpad beschrijven. Paragraaf 3.6.6 van ECAC Doc 29 Volume 2 beschrijft de constructie van het 
+grondpad: 
+ 
+3.6.6 ground track 
+A ground track, whether a backbone track or a dispersed sub-track, is defined by a 
+series of (x,y) co-ordinates in the ground plane (e.g. from radar information) or 
+by a sequence of vectoring commands describing straight segments and circular arcs 
+(turns of defined radius r and change of heading) 
+For segmentation modelling, an arc is represented by a sequence of straight 
+segments fitted to sub-arcs. Although they do not appear explicitly in the ground-
+track segments, the banking of aircraft during turns influences their definition.  
+…  
+The change of heading needs to be <30 degrees, with a recommended implementation 
+of <10 degrees. 
+… 
+The ground track should always extend from the runway to beyond the extent of the 
+calculation grid (see Section 6). This can be achieved, if necessary, by adding a 
+straight segment of suitable length to the last segment of the ground track. 
+ 
+The total length of the flight profile, once merged with the ground track, must 
+also extend from the runway to beyond the extent of the calculation grid. This can 
+be achieved, if necessary, by adding an extra profile point:  
+• to the end of a departure profile with speed and thrust values equal to those 
+of the last departure profile point, and height extrapolated linearly from the 
+last and penultimate profile points; or 
+• to the beginning of an arrival profile with speed and thrust value equal to 
+those of the first arrival profile point, and height extrapolated linearly 
+back from the first and second profile points. 
+ 
+In Doc 29 Schiphol wordt daar op de volgende manier invulling aan gegeven: 
+ 
+4.2.1 Aanpassingen aan de radargegevens 
+De positiewaarnemingen op basis van de radar voor Schiphol zijn doorgaans 
+gebaseerd op een redelijk constant tijdsinterval van (ongeveer) 4 seconden. Indien 
+deze posities zouden worden gebruikt om vliegbaansegmenten te definiëren, dan zou 
+dit voor Doc 29 relatief korte vluchtsegmenten opleveren. De methode achter Doc 29 
+kan echter met veel langere vluchtsegmenten overweg op het moment dat rechtuit 
+wordt gevlogen. Om efficiënt Doc 29 berekeningen te kunnen uitvoeren, zijn 
+overbodige punten uit de vliegbaan verwijderd. Hiervoor is de volgende methode 
+toegepast: 
+• Bochtsegmenten zijn geïdentificeerd op basis van een hoeksnelheid van 0.5° per 
+seconde of meer. 
+• Op deze bochtsegmenten zijn alle originele positiewaarnemingen behouden. 
+• Op de overige delen zijn tussenliggende punten verwijderd, op voorwaarde dat 
+de afstand van de oorspronkelijke punten tot het resulterende rechte segment 
+altijd kleiner was dan 25m. 
+ 
+De volgende vereisten zijn van toepassing voor de grondpaden voor een geluidberekening : 
+• De grondpaden moeten uitgelijnd zijn met de start-/landingsbaan; 
+12 juli 2021 19.171.34 pag. 51/130 
+
+ 
+van splines levert echter een vermindering op van de ruis over het gehele grondpad, daar waar het 
+verwijderen van radarpunten volgens Doc 29 Schiphol alleen rechte lijnen betreft. 
+ 
+De nauwkeurigheid van de methodes is in potentie hoog. De nauwkeurigheid valt of staat met een goede 
+radardata-analyse voor de nadere invulling van de modellering. De methodes zijn steeds versimpelingen 
+van de positiedata. Een vergaande versimpeling gaat ten koste van de kwaliteit. Een spline met een te 
+hoge smoothing factor zal een grondpad zonder ruis opleveren, maar wel één die lateraal mogelijk ver 
+van het werkelijke pad af ligt en die onrealistische rolhoeken oplevert. De meest geschikte methode 
+hangt af van de invoerdata. Hoewel er in zijn algemeenheid wordt gesproken over radardata verschilt het 
+per systeem (en dus per luchthaven) in welke mate de data zijn bewerkt en welke bewerkingen nog nodig 
+zijn om deze geschikt te maken voor geluidberekeningen. Voor alle methodes blijft echter gelden dat de 
+resulterende grondpaden moeten voldoen aan de voorwaarden voor een goede invoer. Buiten het 
+scenario ‘geen bewerking’ voldoen alle methodes voor het verwijderen van ruis en het versimpelen van 
+de grondpaden dus in potentie aan de eisen en wensen. 
+ 
+Voorstel methode voor Doc 29 regionaal 
+Voor de grondpad bewerking voor radardata kan onderscheid worden gemaakt tussen het stuk op de 
+baan en het stuk in de lucht. Op de baan moet het grondpad volledig worden uitgelijnd met de start- en 
+landingsbaan, tenzij het een vlucht met vroege draai betreft.  
+ 
+Voor bewerking van radardata in de lucht kunnen verschillende methodes worden toegepast, waaronder 
+(maar niet beperkt tot) de methode zoals beschreven in Doc 29 Schiphol, een spline of een versimpeling 
+naar rechte lijnen en krommen. De keuze welke methode wordt gebruikt voor de invoerdata is aan de 
+gebruiker omdat data van verschillende bronnen verschillende eigenschappen hebben en daardoor om 
+andere bewerking vragen. Het gebruik van radardata vergt wel een zorgvuldige data-analyse voor het 
+maken van de juiste keuzes in de ruisverwijdering en track versimpeling om er zorg voor te dragen dat de 
+juiste positie is bepaald en dat de rolhoeken correct kunnen worden afgeleid. De gebruiker moet hierbij 
+aantonen dat wordt voldaan aan de eisen die worden gesteld aan grondpaden. 
+ 
+Voor modelroutes en andere theoretische grondpadbepalingen is een bewerking van het grondpad niet 
+noodzakelijk, omdat de voorwaarden voor grondpaden moeten worden meegenomen bij het maken van 
+modelroutes. 
+4.3 Meteorologische correctie geluidgegevens 
+ECAC Doc 29 schrijft voor om de akoestische impedantie en de atmosferische demping te corrigeren voor 
+de invloed van afwijkende meteorologische condities. In ECAC Doc 29 Volume 2 is hierover het volgende 
+geschreven: 
+ 
+4.2.1 Impedance adjustment of standard NPD data 
+Acoustic impedance is related to the propagation of sound waves in an acoustic 
+medium, and is defined as the product of the density of air and the speed of 
+sound. For a given sound intensity (power per unit area) perceived at a specific 
+distance from the source, the associated sound pressure (used to define SEL and 
+LAmax metrics) depends on the acoustic impedance of the air at the measurement 
+location. It is a function of temperature, atmospheric pressure (and indirectly 
+12 juli 2021 19.171.34 pag. 53/130 
+
+ 
+De correcties dienen daarbij te worden gebaseerd op de meteorologische condities zoals beschreven in 
+paragraaf 3.1.3. 
+4.4 Effect van bochten 
+Bochten hebben invloed op de vliegprestaties (snelheid, hoogte en stuwkracht in de bocht). ECAC Doc 29 
+beschrijft een methode om de vliegprestaties per vliegtuig te bepalen op basis van het grondpad en de 
+prestatiekenmerken van het vliegtuig. Het meenemen van het effect van een bocht op de vliegprestaties 
+vergt echter een grote rekeninspanning doordat voor ieder afzonderlijk grondpad de vliegprestaties per 
+vliegtuig afzonderlijk bepaald moeten worden. Daarnaast hebben bochten effect op de rolhoek (in het 
+Engels: bank angle) van vliegtuigen, zie Figuur 4. Als gevolg van de dwarshelling van het vliegtuig zal de 
+geluidsstraling niet-symmetrisch zijn ten opzichte van het grondpad. 
+ 
+Figuur 4: Rolhoek in bochten (bron: ECAC Doc 29 Volume 2). 
+ 
+Volgens ECAC Doc 29 hebben veranderingen in de vliegprestaties die door bochten worden veroorzaakt, 
+meestal een duidelijk kleinere invloed op de contouren dan veranderingen van de rolhoek. In het huidige 
+rekenvoorschrift voor regionale luchthavens en ook voor Doc 29 Schiphol wordt het effect van bochten 
+op de vliegprestaties niet meegenomen. Er is geen aanleiding om voor Doc 29 regionaal af te wijken van 
+Doc 29 Schiphol.  
+ 
+ECAC Doc 29 neemt de invloed van de rolhoek mee in de geluidberekening per vlucht. Het meenemen 
+van het effect van de rolhoek is nieuw ten opzichte van het huidige rekenvoorschrift voor regionale 
+luchthavens en wordt ook toegepast in Doc 29 Schiphol.  
+ 
+De rolhoek is afhankelijk van de vliegsnelheid en de bochtstraal. ECAC Doc 29 Volume 2 (Appendix B4) 
+beschrijft hoe de rolhoek berekend kan worden voor een stabiele bocht. Voor modelroutes is de 
+bochtstraal een invoerparameter. Voor radartracks kan de bochtstraal worden afgeleid van de radardata. 
+De bochtstraal kan daarbij steeds worden bepaald aan de hand van drie radarpunten. Een vereiste 
+hiervoor is dat de radardata geen ruis bevatten, omdat de methode voor het bepalen van de bochtstraal 
+op basis van drie radarpunten gevoelig is voor ruis. De meest rechttoe rechtaan methode voor de 
+bepaling van de rolhoek bij punt i, is het gebruik van radargegevens van punt i-1 (het punt ervoor), punt i 
+en punt i+1 (het punt erna). De (grond)snelheid wordt bepaald op basis van het prestatieprofiel. Daarmee 
+is de resulterende rolhoek per vliegtuigtype verschillend.  
+ 
+12 juli 2021 19.171.34 pag. 55/130 
+
+ 
+5 Nabewerking 
+De resultaten van een geluidberekening in het kader van de Regeling burgerluchthavens zijn tweeledig: 
+1. Lden geluidbelasting in handhavingspunten 
+2. Lden geluidcontouren 
+ 
+Het rekenmodel geeft als resultaat de berekende Lden geluidbelasting in ‘punten’ in de omgeving van de 
+luchthaven. Op deze wijze kan de geluidbelasting in handhavingspunten worden berekend. Voor het 
+bepalen van de geluidcontouren, wordt een geluidberekening in een raster van punten uitgevoerd. In dit 
+hoofdstuk is beschreven op welke wijze hieruit vervolgens geluidcontouren dienen te worden afgeleid. 
+Daarnaast gaat dit hoofdstuk in op de wijze hoe op basis van de rekenresultaten tot aantallen woningen, 
+inwoners en ernstig gehinderden boven een drempelwaarde (“binnen contouren”) kan worden gekomen. 
+ 
+ 
+Figuur 5: Focus nabewerking geluidbelasting. 
+5.1 Genereren van contouren 
+Geluidcontouren worden gebruikt om de omvang van het vliegtuiggeluid rond luchthavens aan te geven. 
+Een geluidscontour is een lijn waarlangs de geluidbelasting constant is. Voor de regionale luchthavens 
+worden geluidcontouren gebruikt voor de aanduiding van de beperkingengebieden in verband met de 
+geluidbelasting. Geluidcontouren kunnen daarnaast worden bepaald om bijvoorbeeld het oppervlak, het 
+aantal woningen of het aantal inwoners binnen een bepaalde contourwaarde te bepalen en verschillende 
+situaties met elkaar te vergelijken. 
+ 
+Het genereren van een contour gebeurt door de geluidbelasting in rasterpunten (zie ook paragraaf 3.4) te 
+interpoleren om de gewenste nauwkeurigheid te krijgen. De nauwkeurigheid waarmee de contouren 
+kunnen worden vastgesteld, is daarbij in beginsel afhankelijk van de afstand tussen de rekenpunten. In 
+paragraaf 6.1 van Volume 2 van ECAC Doc 29 is hierover beschreven: 
+ 
+6.1 Standard grid calculation and refinement 
+When noise contours are obtained by interpolation between index values at 
+rectangularly spaced grid points, their accuracy depends on the choice of the grid 
+spacing (or mesh size) G, especially within cells where large gradients in the 
+spatial distribution of the index cause tight curvature of the contours (see 
+Figure 6-1). Interpolation errors are reduced by narrowing the grid spacing, but 
+since this increases the number of grid points, the computation time is increased. 
+Optimising a regular grid mesh involves balancing modelling accuracy and run time. 
+12 juli 2021 19.171.34 pag. 57/130 
+
+ 
+6.1 Algemeen 
+Tot nu toe was het gebruikelijk om op basis van de berekende geluidbelasting eerst 
+geluidcontouren te maken en vervolgens te bepalen welke woningen of personen 
+binnen deze contouren vallen. Testen lieten echter zien dat verschillende 
+contouralgoritmes in bepaalde situaties relatief veel verschil in resultaat kunnen 
+laten zien. Dit is onwenselijk. Het telproces is dusdanig vereenvoudigd dat het 
+maken van contouren hiervoor niet langer nodig is. Het bepalen van aantallen 
+woningen en personen wordt nu uitgevoerd in twee stappen: 
+• Het berekenen van de geluidbelasting bij de woninglocaties, 
+• Het bepalen van de aantallen woningen, ernstig gehinderden en ernstig 
+slaapverstoorden in gebieden met een geluidbelasting hoger dan de norm. 
+ 
+6.2 Bepaling geluidbelasting op woninglocaties 
+Als eerste stap in het telproces wordt de geluidbelasting bepaald op de 
+woninglocaties uit het woningbestand. Hiervoor wordt de geluidbelasting op de 
+locatie van de woning zoals vastgelegd in het woningbestand bepaald door 
+interpolatie tussen de rasterpunten van het gebruikte rekenraster. Deze 
+interpolatie wordt uitgevoerd aan de hand van een 2-dimensionale representatie van 
+16
+de geluidbelasting met strooklatfuncties (splines) . Als implementatie van deze 
+methode is gekozen voor het gebruik van de functie BivariateSpline uit de SciPy 
+17
+bibliotheek voor de programmeertaal Python . 
+ 
+Er is geen aanleiding om voor Doc 29 regionaal hiervan af te wijken. 
+ 
+MVoorstel methode voor Doc 29 regionaal 
+Maak gebruik van de methode voor het bepalen van de geluidbelasting op woonlocaties zoals deze is 
+opgenomen in het methoderapport van Doc 29 Schiphol. 
+ 
+ 
+16
+ Paul Dierckx, Curve and Surface Fitting with Splines, Oxford University Press, 1993 
+17
+ SciPy, Scientific Computing Tools for Python, http://www.scipy.org/, versie 0.19.0, Maart 2017 
+12 juli 2021 19.171.34 pag. 59/130 
+
+ 
+Het huidige Nederlands rekenmodel wordt toegepast voor zowel groot als klein verkeer (en voor militair 
+verkeer en helikopters). Het model maakt alleen voor de grondpadmodellering onderscheid tussen deze 
+verkeerssoorten: voor het groot verkeer (met uitzondering van circuitbewegingen) dient wel horizontale 
+spreiding ten opzichte van nominale routes in rekening te worden gebracht, terwijl dit voor het klein 
+verkeer niet verplicht is.  
+ 
+De grotere onzekerheid in de gegevens voor klein verkeer zoals genoemd in ECAC Doc 29 geldt daarmee 
+ook in de huidige modellering. Het Nederlands rekenmodel is op dit punt niet ‘beter’ of ‘slechter’ dan Doc 
+29. De onderdelen van het rekenmodel die verschillen tussen Doc 29 en het Nederlands rekenmodel 
+leveren ook voor het klein verkeer een verbetering (toepassing laatste inzichten) op. Vanuit dit oogpunt is 
+er dan ook geen reden om voor klein verkeer niet ook over te stappen naar Doc 29. Met de toepassing van 
+Doc 29 voor zowel klein als groot verkeer blijft de rekenkern gelijk en is daarmee beter uitlegbaar. 
+ 
+Voor de toepassing van Doc 29 voor klein verkeer zijn alle elementen in het rekenproces volgens de ECAC 
+Doc 29 methode opnieuw langsgelopen en is nagegaan hoe de implementatie van Doc 29 voor het klein 
+verkeer kan worden vormgegeven. De volgende paragrafen gaan in op de elementen die specifiek voor 
+de toepassing voor klein verkeer heroverwogen dienen te worden ten opzichte van de toepassing voor 
+het groot verkeer. 
+6.2 Invoergegevens 
+De elementen van de invoergegevens die heroverwegen dienen te worden bij het berekenen van de 
+geluidbelasting van klein verkeer zijn: 
+1. Verplaatsing van het startpunt met 100m van de kop van de baan; 
+2. De koppeling van start- en naderingsprofielen. 
+ 
+ Verplaatsing startpunt 
+Voor groot verkeer is voorgesteld om het startpunt voor de modellering op 100 meter van het begin van 
+de baan (waar het asfalt begint, tenzij de start niet vanaf het begin van de baan plaatsvindt) te plaatsen. 
+Op basis van de inventarisatie van de verschillende eigenschappen van de verschillende luchthavens uit 
+de AIP is geanalyseerd in hoeverre een verplaatsing van het startpunt met 100 meter ook toepasbaar is 
+voor regionale luchthavens met (voornamelijk) klein verkeer. Uit de analyse blijkt dat nagenoeg alle 
+regionale luchthavens met (voornamelijk) klein verkeer een beschikbare baanlengte hebben van tussen 
+de 500 meter (Stadskanaal) en 1200 meter (Teuge).  
+12 juli 2021 19.171.34 pag. 61/130 
+
+ 
+6.3 Voorbewerking 
+Voor de voorbewerking van de invoergegevens dient voor het berekenen van de geluidbelasting van 
+klein verkeer de substitutiemethode heroverwogen te worden. Doordat er geen ANP substitutiemethode 
+voor klein verkeer beschikbaar is en de beschikbare types in de ANP database met een maximaal 
+startgewicht onder de 6.000 kg zeer beperkt is, dient er een specifieke substitutiemethode te worden 
+uitgewerkt voor klein verkeer.  
+ 
+ Substitutiemethode klein verkeer 
+In de ANP database (versie 2.2) zijn 11 verschillende vliegtuigtypes met een maximaal startgewicht onder 
+de 6.000 kg opgenomen. Om tot een substitutiemethode voor klein verkeer te komen is een analyse 
+gedaan naar de beschikbare ANP types met een maximaal startgewicht onder de 6.000 kg. Eén hiervan, de 
+ECLIPSE 500, is uitgerust met staalmotoren. Voorgesteld wordt om dit type als representatief ANP type te 
+hanteren voor alle door straalmotoren aangedreven vliegtuigen met een maximaal startgewicht onder de 
+6.000 kg. Voor propeller aangedreven varianten is er daarmee nog keuze tussen 10 ANP types.  
+ 
+19
+Met behulp van de “Light propeller driven aeroplanes noise database ” van EASA zijn de geluidcertificatie 
+waardes voor hoofdstuk 6 en hoofdstuk 10 (conform ICAO Annex 16 – volume 1) vliegtuigen bepaald voor 
+de beschikbare ANP types met een maximaal startgewicht onder de 6.000 kg, zie Tabel 4. 
+ 
+Tabel 4: Certificatie geluidniveaus voor kleine toestellen uit de ANP lijst 
+# Aircraft ID Maximaal Overflight certificatie Take-off certificatie 
+startgewicht geluidniveau (hoofdstuk 6) geluidniveau (hoofdstuk 10) 
+[kg] [dB(A)] [dB(A)] 
+1 BEC58P 2767 - 79.1 
+1111 84.7 
+2 CNA172  - 
+1270 73.5 80.7 
+3 CNA182 
+4 CNA206 1633 - 88.0 
+5 CNA208 3969 - 87.1 
+6 CNA20T 1633 - 80.0 
+7 PA28 1055 - 70.0 
+8 PA30 1633 72.0 - 
+9 PA31 3175 80.0 - 
+10 PA42 5080 76.8 78.9 
+ 
+Voor een substitutiemethode voor Doc 29 regionaal met betrekking tot klein verkeer aangedreven door 
+een propeller wordt voorgesteld om het certificatieniveau, het maximale startgewicht en het onderscheid 
+tussen hoofdstuk 6 en hoofdstuk 10 van Annex 16 volume 1 te gebruiken. Er is een analyse uitgevoerd 
+naar de mogelijke invulling van een substitutiemethode op basis van deze parameters, welke is 
+opgenomen in ‘Bijlage 17 – Substitutiemethode klein verkeer’.  
+ 
+19
+ https://www.easa.europa.eu/sites/default/files/dfu/MAdB%20Light%20Prop%28201012%29.xlsm 
+12 juli 2021 19.171.34 pag. 63/130 
+
+ 
+7 Conclusies en aanbevelingen 
+ 
+Achtergrond 
+De minister van Infrastructuur en Waterstaat zal in navolging van de implementatie van Doc 29 voor 
+Schiphol besluiten of (en hoe) de ECAC Doc 29 rekenmethode zal worden ingevoerd voor de regionale 
+(burger)luchthavens in Nederland. To70 en Aerlabs hebben daarvoor in opdracht van het ministerie van 
+Infrastructuur en Waterstaat een onderzoek gedaan naar de technische implementatie van Doc 29.  
+ 
+Scope 
+De toepassing van Doc 29 heeft in eerste instantie betrekking op het berekenen van de geluidbelasting 
+voor het groot commercieel vliegverkeer (passages met een vliegtuig met een maximaal startgewicht van 
+6.000 kg of meer). Voor klein verkeer (vliegtuigen met een maximaal startgewicht tot 6.000 kg) is de 
+toepasbaarheid en praktische bruikbaarheid van de rekenmethode beoordeeld. Helikopters en militair 
+verkeer zijn buiten beschouwing gelaten. ECAC Doc 29 geeft geen richtlijnen voor deze luchtvaartuigen. 
+Wel wordt er op Europees niveau gewerkt aan een apart rekenvoorschrift voor helikoptergeluid. Dit laat 
+onverlet dat de geluidbelasting van helikopterverkeer en militair verkeer, berekend met andere modellen, 
+bij de met Doc 29 berekende geluidbelasting van civiel verkeer kan worden opgeteld. 
+ 
+Conclusie 
+To70 en Aerlabs hebben met een systematische analyse een voorstel ontwikkeld voor de implementatie 
+van de Doc 29 rekenmethode. Deze methode is beschreven in dit rapport. Uit de systematische analyse 
+blijkt dat de ECAC Doc 29 rekenmethode toepasbaar is voor het berekenen van de geluidbelasting van de 
+Nederlandse regionale luchthavens toepasbaar is. De rekenregels zoals beschreven in ECAC Doc 29 zijn 
+daarbij één-op-één gevolgd. Op basis van een set van eisen en wensen zijn voorstellen gedaan voor de 
+invoergegevens en de nabewerking van de resultaten. Een nadere afweging is vereist over: 
+• Het detailniveau van atmosferische condities. Het gebruik van luchthavenspecifieke condities over 
+een kortere periode dan een jaar leidt tot een hogere nauwkeurigerheid dan het gebruik van ISA-
+condities, maar wijkt af van de implementatie van Doc 29 voor Schiphol. 
+• De toepassing van nieuwe ANP gegevens. Het zonder meer toepassen van nieuwe gegevens kan 
+beleidsmatige consequenties hebben, bijvoorbeeld op het aantal vluchten dat kan worden 
+gerealiseerd binnen de (milieu)gebruiksruimte.  
+ 
+Aanbevelingen 
+De volgende aanbevelingen volgen uit het onderzoek:: 
+• Leg met de implementatie van Doc 29 ook een checklist vast voor de rapportage van een Doc 29 
+geluidberekening. Hiermee is overzichtelijk welke gegevens zijn gehanteerd, kunnen berekeningen 
+gereproduceerd worden en kunnen verschillen tussen berekeningen beter geduid worden. 
+• Onderzoek of een koppeling van de vliegprocedure voor startend verkeer op basis van radardata 
+leidt tot nauwkeurigere resultaten van de geluidberekening.  
+• Onderzoek op een systematische wijze hoe prestatieprofielen kunnen worden afgeleid en wat de 
+impact van keuzes daarin is op de berekende geluidbelasting.  
+• Ontwikkel een substitutiemethode (voor de koppeling aan vliegtuigtypegegevens uit de ANP 
+database) voor klein verkeer en vliegtuigtypes die niet in de ANP database zijn opgenomen. 
+12 juli 2021 19.171.34 pag. 65/130 
+
+ 
+Bijlage 1 – Leeswijzer afbeeldingen 
+In dit rapport zijn verschillende analyses opgenomen. De resultaten van deze analyses zijn veelal grafisch 
+weergegeven met grafieken en figuren. Figuur 8 beschrijft hoe die figuren zijn opgebouwd en hoe deze 
+geïnterpreteerd dienen te worden.  
+ 
+  
+ 
+Figuur 8: Leeswijzer figuren. 
+ 
+In de figuur zijn geluidcontouren zichtbaar en een aandachtsgebied met verschillen. De geluidcontouren 
+zijn de 48 dB(A) Lden contouren van twee methodes (de referentie en een alternatieve methode). Het 
+aandachtsgebied met de 40 dB(A) Lden contour wordt gebruikt als begrenzing voor het bepalen van de 
+verschillen tussen de methodes. 
+ 
+In de figuur wordt het geluidresultaat uitgedrukt als zijnde een onderschatting en een overschatting ten 
+opzichte van de referentie. De referentie is steeds de methode met de hoogste nauwkeurigheid. Er is 
+sprake van een onderschatting van het geluid als de referentie een hogere geluidbelasting laat zien dan 
+de alternatieve methode. Van een overschatting van het geluid is sprake als de geluidbelasting van de 
+alternatieve methode lager is dan de referentie. 
+ 
+Om de verschillen te duiden tussen de referentie en de alternatieve methode wordt gebruik gemaakt van 
+drie indicatoren, weergegeven in de kleurbalk: 
+• Het maximale verschil. Dit geeft de uiterste verschillen weer.  
+de ste
+• Het typische verschil. Het typische verschil bevat de verschillen tussen het 5 en 95 percentiel, 
+waardoor eventuele uitschieters geïdentificeerd kunnen worden.  
+ste
+• De mediaan (het 50 percentiel) geeft het gemiddelde verschil aan. 
+ 
+De verschillen in Lden maken altijd gebruik van dezelfde kleurstelling en bereik (-3 tot + 3 dB(A)) van de 
+verschillen in geluidbelasting. De bijlages bevatten ook andere geluidmaten, namelijk Sound Exposure 
+12 juli 2021 19.171.34 pag. 67/130 
+
+ 
+Bijlage 2 – Beschrijving rekenkern 
+Deze bijlage heeft betrekking op het geluidmodel voor Doc 29 regionaal. In het geluidmodel, de kern van 
+de geluidberekening, wordt op basis van de gegevens over het geluid en de prestaties van vliegtuigen de 
+geluidbelasting berekend voor het gebruik van de luchthaven.  
+ 
+ 
+ 
+ECAC Doc 29 Volume 2 beschrijft in detail de rekenmethode van het geluidmodel per (unieke) vlucht. De 
+rekenmethode ligt daarmee vast. In deze bijlage wordt deze rekenmethode en de berekening van de 
+totale (Lden) geluidbelasting op basis van de geluidbelasting per vlucht gepresenteerd  
+ 
+Geluidberekening per vlucht 
+20
+De rekenkern van Doc 29 is gebaseerd op SAE AIR1845 . Binnen deze rekenkern wordt het geluid van een 
+vliegtuig berekend op basis van het cumulatieve effect op verschillende rechte segmenten, waarvoor 
+geluidniveaus afzonderlijk worden berekend. Het basisgeluidniveau van een segment is gebaseerd op de 
+geluidgegevens – noise-power-distance tabellen – van het vliegtuig. Deze noise-power-distance (NPD) 
+gegevens, geven in tabelvorm de referentie geluidwaarden bij combinaties van stuwkracht en afstand. 
+ 
+Er worden in ECAC Doc 29 twee geluidsmetrieken besproken: gebaseerd op de hoeveelheid geluid van 
+een vliegtuigpassage (zoals de sound exposure level, SEL) of op het maximum geluidniveau tijdens een 
+vliegtuigpassage (zoals het maximum A-gewogen geluidniveau). De Lden berekening is gebaseerd op 
+SEL-waarden, een A-gewogen geluidseenheid uitgedrukt in dB(A). De dB(A) is de eenheid waarin de 
+sterkte van het geluid in verreweg de meeste gevallen wordt weergegeven. De dB(A) is afgeleid van de 
+gewone decibel, maar corrigeert de geluidssterktes voor de gevoeligheid van het (menselijk) oor.  
+ 
+Bij SEL berekeningen wordt de geluidbelasting van de gehele passage berekend door de geluidwaarden 
+van alle afzonderlijke segmenten (𝐿 ) energetisch bij elkaar op te tellen: 
+𝐴𝐸 ,𝑠𝑒𝑔
+ 
+𝑛
+𝐿 /10
+𝐴𝐸 ,𝑖
+𝑆𝐸𝐿 = 10log (∑ 10 ) 
+10
+𝑖 =1
+Hierbij is: 
+ 𝑖  het resultaat van een individueel segment,  
+𝐿 de geluidwaarde van een afzonderlijk segment 
+𝐴𝐸 ,𝑖
+ 
+20
+ https://www.sae.org/standards/content/air1845a/ 
+12 juli 2021 19.171.34 pag. 69/130 
+
+ 
+Bijlage 3 – Checklist rapportage 
+Bij het uitvoeren van een analyse conform Doc 29 regionaal is het van belang dat alle relevante gegeven 
+opgenomen worden in de rapportage. De lezer moet in staat zijn om de volledige analyse te 
+herproduceren. Deze checklist kan gebruikt worden als voorbeeld voor het documenteren van de 
+gehanteerde invoergegevens. 
+ 
+Luchthaven Specifieke gegevens 
+Parameters Beschrijving Voorbeeld gegevens 
+  
+Naam luchthaven Specifieer de naam van de luchthaven Luchthaven Eindhoven (EHEH)
+ 
+waarvoor de analyse is uitgevoerd
+Coördinatenstelsel Definieer in welk coördinaten stelsel de  
+invoer gegevens zijn uitgedrukt. Voor Rijksdriehoekstels (RD) 
+luchthavens in Nederland is het gebruikelijk Epsg 28992 
+lokale coördinatenstelsel het 
+het 
+Rijksdriekhoekstelsel (RD) te hanteren 
+Hoogte ARP Specifieer de hoogte van het referentiepunt 74ft 
+van de luchthaven en vermeld duidelijk de 
+eenheid 
+Gemiddelde meteo conditie Specifieer de meteo condities gebaseerd op Zie bijlage 6 
+zomer/winter meerjarige gemiddeldes. Deze dienen 
+opgesplitst te worden in zomer en winter 
+periodes  
+Bron vermelding hoogte Wanneer de er sprake is van een significante https://www.ahn.nl/ 
+ 
+bestand hoogte verschillen rondom de luchthaven, 
+kan het noodzakelijk zijn rekening te houden 
+met lokale topografie. In dit geval moet er 
+verwezen worden naar het gebruikte 
+ 
+bronbestand
+ 
+Parameters Voorbeeld gegevens 
+Periode 2010 t/m 2019 
+Tijd van de dag 7:00 t/m 23:00 lokale tijd 
+Zomer periode April t/m oktober 
+Winter periode November t/m maart 
+Meteostation 370 Eindhoven 
+Bron http://projects.knmi.nl/klimatologie/uurgegevens/selectie.cgi 
+Meteocondities Zomer Winter 
+Temperatuur [°C] 16 6 
+Luchtvochtigheid [%] 69 82 
+Luchtdruk [hPa] 1015,3 1015,9 
+ 
+Parameters Baangebruik 
+Parameters Beschrijving Voorbeeldgegevens 
+Beteffende start- Specifieer de naam van de start- RWY 03/21 
+ 
+/landingsbaan /landingsbaan met bijhorend baanrichting 
+ 
+waarvoor de analyse is uitgevoerd
+Coördinaat baankop  Specifieer de coördinaat van de baankop X: 153257, Y: 383332 
+ 
+Coördinaat baaneinde  Specifieer de coördinaat van het baaneinde X: 154978, Y: 385789 
+12 juli 2021 19.171.34 pag. 71/130 
+
+ 
+Bijlage 4 – Analyse naar effect hoogteverschillen binnen studiegebied 
+Deze bijlage beschrijft de analyse naar de invloed van topografie op de berekende geluidbelasting.  
+ 
+Het doel van de analyse is om het effect van de hoogteverschillen in de omgeving en ten opzichte van de 
+hoogteligging van de luchthaven op de geluidbelasting in kaart te brengen. De analyse is gedaan voor de 
+omgeving van Maastricht Aachen Airport. Deze omgeving kenmerkt zich door, voor Nederlands begrip, 
+relatief grote hoogteverschillen.  
+ 
+Figuur 9 geeft grafisch de hoogteverschillen rondom de luchthaven Maastricht Aachen Airport weer.  
+ 
+ 
+Figuur 9: Topografie rondom Maastricht Aachen Airport. 
+ 
+Paragraaf 3.3.4 in volume 2 van Doc 29 beschrijft hoe hoogteverschillen rondom de luchthaven moeten 
+worden meegenomen in de berekening van de geluidbelasting (voor de situaties waar de topografie 
+meegenomen moet worden):  
+ 
+3.3.4 ACCOUNTING FOR TOPOGRAPHY 
+In cases where topography has to be taken into account (see Section 2.4.5), the 
+aircraft height coordinate z has to be replaced by z' = z – zo (where z0 is the z 
+co-ordinate of the observer location O) when estimating the propagation distance 
+d. The geometry between aircraft and observer is shown in Figure 3-3. For the 
+definitions of d and ℓ see Chapter 4. 
+ 
+ 
+12 juli 2021 19.171.34 pag. 73/130 
+
+ 
+Resultaten 
+Het effect op de geluidbelasting bij gebruik van minimale en maximale hoogte op verschillende 
+afstanden van de luchthaven is weergegeven in Figuur 10. In elk van de figuren is de minimale of de 
+maximale hoogte als referentie genomen en vergeleken met de hoogte op het luchthavenniveau. 
+ 
+ 
+ 
+ 
+Figuur 10: Effect op de geluidbelasting bij gebruik van minimale en maximale hoogte op verschillende 
+afstanden van de luchthaven. 
+ 
+Zoals blijkt uit Figuur 9 ligt de luchthaven typisch boven de omgeving. De uitzondering hierop is de 
+Vaalserberg, die hoger ligt dan de luchthaven. Voor de situaties waar de grondhoogte op 37, op 56 en op 
+99 meter boven de hoogte van de luchthaven is gemodelleerd, wordt de geluidbelasting typisch 
+onderschat met maximaal circa 1,2 dB(A) zoals te zien is in Figuur 10. Op basis van de feitelijke hoogtes in 
+de omgeving zal het effect echter beperkt zijn tot circa 0,5 dB(A). In de andere uiterste situaties, waarbij de 
+rasterpunten op 79 en op 104 meter onder het lokale luchthavenniveau liggen, is af te lezen in Figuur 10 
+12 juli 2021 19.171.34 pag. 75/130 
+
+ 
+Bijlage 5 – Analyse naar toepassing van filter op hoogtedata 
+Wanneer er rekening wordt gehouden met hoogteverschillen kan men gebruik maken van het Actueel 
+Hoogtebestand Nederland (AHN). Deze biedt de mogelijkheid één of meerdere “tegels” te selecteren en 
+te downloaden. Voor geluidberekeningen is er minder detail vereist dus het volstaat hierbij om 
+kaartbladen met de grootste maaswijdte te selecteren (in dit geval 5m). 
+ 
+Wanneer men deze data wil gebruiken zijn er echter wel enkele stappen die op voorhand doorlopen 
+moeten worden, namelijk: 
+1. Ontbrekende data aanvullen 
+2. Data filteren zodat uitschieters uit de data verdwijnen 
+ 
+Ontbrekende data aanvullen 
+In het AHN worden ontbrekende datapunten ingevuld door een extreem hoog getal (3.403E+38). De 
+eerste stap in de voorbewerking van de data is deze extreme waarde omzetten naar een waarde die de 
+werkelijkheid benaderd. Een doeltreffende methode hiervoor is het “nearest neighbor” algoritme. Bij deze 
+methode worden deze hoge waarden gelijkgesteld aan het dichtstbijzijnde datapunt dat wel een 
+realistische waarde heeft. 
+ 
+Figuur 11 geeft het effect van deze methode. In de linker figuur is te zien dat de hoogtedata nog enkele 
+extreme waardes bevat, te herkennen door de gele punten. In de rechter figuur zijn deze extreme 
+waarden vervangen met het nearest neighbor algoritme. 
+Figuur 11: Voorbeeld hoogtedata AHN met en zonder 'ontbrekende' data. 
+ 
+Data filteren 
+Het AHN is vervaardigd door middel van laseraltimetrie. Deze worden vervolgens ter beschikking gesteld 
+als geotiff bestand waar elke pixel een werkelijke oppervlakte van 5x5 meter vertegenwoordigt. Omwille 
+van deze discrete representatie is het noodzakelijk om een filter toe te passen en een continue 
+benadering te bekomen. Daarnaast is het ook wenselijk om snel wisselende hoogteverschillen te 
+beperken, omdat dit onvoorspelbare vormen van de geluidcontouren kan leiden. Een kleine aanpassing 
+in het raster zou hiermee tot een grote verandering van de geluidcontour kunnen leiden. 
+ 
+Vanwege deze redenen is gekozen voor een Gaussian filter. Deze filter gebruikt naburige hoogtepunten 
+met een wegingsfactor om een nieuwe waarde voor de huidige hoogtepunt te bepalen. In deze analyse is 
+12 juli 2021 19.171.34 pag. 77/130 
+
+ 
+Bijlage 6 – Analyse naar invloed atmosferische condities 
+Om inzichtelijk te maken wat het effect is van het toepassen van daadwerkelijke atmosferische condities 
+bij het bepalen van de geluidbelasting op de regionale luchthavens, is er een verdiepende analyse 
+uitgevoerd. In deze analyse zijn verschillende methodes opgenomen voor hoe de atmosferische condities 
+kunnen worden meegenomen in de berekeningen. 
+ 
+Meteorologische condities (temperatuur, luchtdruk en relatieve luchtvochtigheid) hebben impact op de 
+demping van het geluid in de atmosfeer. In welke seizoenen en op welke momenten van de dag er wordt 
+gevlogen heeft ook impact op wat moet worden beschouwd als de gemiddelde meteorologische 
+condities per vliegbeweging op een luchthaven. Om het effect van de atmosferische condities op de 
+geluidbelasting in kaart te brengen wordt er getoetst welke (gemiddelde) meteorologische condities het 
+meest representatief zijn voor de werkelijke geluidbelasting in de omgeving van de luchthaven.  
+ 
+Figuur 13, Figuur 14 en Figuur 15 geven de typische meteorologische condities (temperatuur, relatieve 
+luchtvochtigheid en luchtdruk) op verschillende regionale luchthavens weer. Hierbij is gebruik gemaakt 
+van de meetgegevens van de meest nabij gelegen KNMI-meetpost. Steeds weergegeven is de 
+gemiddelde waarde over de afgelopen jaar, de gemiddelde waarde op het tijdstip van de vlucht en de ISA 
+(Internationale Standaard Atmosfeer) waarde. 
+ 
+Gemiddelde temperatuur [°C]
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+EHAL EHBD EHBK EHDR EHEH EHGG EHHO EHHV EHMZ EHOW EHRD EHSE EHST EHTE EHTW EHTX
+gemiddeld over 10 jaar (tussen 07:00 en 23:00) gemiddeld per vlucht ISA
+ 
+Figuur 13: Gemiddelde temperatuur per luchthaven. 
+ 
+12 juli 2021 19.171.34 pag. 79/130 
+
+ 
+Het antwoord op deze onderzoeksvraag biedt inzichten die kunnen worden gebruikt om te komen tot 
+een keuze welke atmosferische condities gebruikt dienen te worden in de geluidberekeningen. Deze 
+oplossingen worden vervolgens getoetst aan de eisen en wensen.  
+ 
+Methode 
+Om het effect van de atmosferische condities op de berekende geluidbelasting in kaart te brengen, zijn 
+de volgende vier methodes gehanteerd: 
+1. ISA standaard zeeniveau condities toegepast op alle bewegingen - "recht-toe-recht-aan“/"maximaal 
+uniform“ 
+2. Gemiddelde (07:00-23:00) atmosferische condities toegepast op alle bewegingen - “benadering 
+werkelijk geluid“ 
+3. Gemiddelde (07:00-23:00) atmosferische condities per periode (zomer/winter, seizoen en maand) 
+toegepast op alle bewegingen in de betreffende periode - “benadering werkelijk geluid“ 
+4. Atmosferische condities op het tijdstip van de beweging - "werkelijk geluid“ 
+ 
+Voor methodes 2, 3 en 4 is steeds gebruik gemaakt van weersgegevens voor de afgelopen 10 jaar. Op 
+basis van deze 10 jaar, worden de gemiddelde atmosferische condities bepaald op jaarbasis (methode 2), 
+per zomer/winter, per seizoen en per maand (methode 3) en op het tijdstip van de vlucht (methode 4). 
+Voor methode 2 en 3 worden de waarden bepaald op basis van alleen het weer ‘overdag’, omdat er ’s 
+nachts op de meeste regionale luchthavens niet wordt gevlogen. 
+ 
+Figuur 16: Voorbeeld gemiddelde temperatuur, relatieve luchtvochtigheid en luchtdruk per periode voor de 
+luchthaven Eindhoven Airport. 
+ 
+12 juli 2021 19.171.34 pag. 81/130 
+
+ 
+te zien in Figuur 17 is de oppervlakte van de 40 dB(A) contour bij ISA-condities dan ook 7% kleiner dan de 
+referentiecontour en de 48 dB(A) ISA-contour is 1% groter. 
+ 
+Het gebruik van luchthaven specifieke waarden voor een periode van een jaar of korter (per zomer/winter, 
+per kwartaal of per maand) laat een systematische overschatting zien. Bij het toepassen van gemiddelde 
+atmosferische waarden nemen de verschillen af naarmate de periode korter wordt. Zo levert het gebruik 
+van maandgemiddelde waarden bijvoorbeeld een kleinere overschatting op dan het gebruik van half jaar 
+gemiddelde waarden. Ook de spreiding in de typische verschillen neemt af. Hetzelfde patroon is te zien 
+bij de 48 en 58 dB(A) contouroppervlaktes in Tabel 6. 
+ 
+2
+Tabel 6: Contouroppervlaktes [km ] en verschil t.o.v. referentie (meteorologische condities per beweging) [%]. 
+ 
+40 dB(A) Lden 48 dB(A) Lden 58 dB(A) Lden 
+Per beweging (methode 4) 220 51.5 6.54 
+ISA (methode 1) 213 (-2.9%) 51.9 (+0.8%) 6.81 (+4.2%) 
+Jaargemiddelde (methode 2) 233 (+5.9%) 54.5 (+5.8%) 6.91 (+5.6%) 
+Zomer-/wintergemiddelde (methode 3) 224 (+2.2%) 52.9 (+2.7%) 6.8 (+3.9%) 
+Seizoengemiddelde (methode 3) 224 (+1.9%) 52.5 (+1.9%) 6.67 (+2.0%) 
+Maandgemiddelde (methode 3) 222 (+1.3%) 52.2 (+1.3%) 6.64 (+1.6%) 
+ 
+Deze analyse is uitgevoerd voor één van de regionale luchthavens. Om vast te stellen of de typische 
+verschillen voor deze ene regionale luchthaven geen uitzonding is, is er een analyse gedaan naar de 
+meteorologische condities voor alle regionale luchthavens. Figuur 18 laat de gemiddelde temperatuur, 
+luchtdruk en relatieve luchtvochtigheid zien (met onderscheid naar zomer en winter) voor alle regionale 
+luchthavens.   
+ 
+Gemiddelde temperatuur [°C]
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+EHAL EHBD EHBK EHDR EHEH EHGG EHHO EHHV EHLE EHMZEHOW EHRD EHSE EHST EHTE EHTW EHTX
+Winter Zomer
+ 
+ 
+12 juli 2021 19.171.34 pag. 83/130 
+
+ 
+• Luchthaven-specifieke jaargemiddelde atmosferische condities  
+• Luchthaven-specifieke gemiddelde atmosferische condities per zomer/winter, per kwartaal of per 
+maand 
+• Luchthaven-specifieke gemiddelde atmosferische condities op het tijdstip van de beweging 
+ 
+Toetsing eisen en wensen 
+De vier opties voldoen aan de richtlijnen van ECAC Doc 29. Verschillen zijn er wel in de toepasbaarheid, de 
+praktische haalbaarheid, de eenduidigheid en de navolgbaarheid. Deze verschillen zijn weergegeven in 
+onderstaande tabel. 
+ 
+Tabel 7: Scoretabel atmosferische condities. 
+Luchthaven 
+Luchthaven 
+Luchthaven specifieke 
+specifieke 
+specifieke condities per 
+Eis/wens  
+ISA-condities condities op het 
+jaargemiddelde zomer/winter, per 
+tijdstip van de 
+ 
+condities kwartaal of per 
+beweging 
+maand 
+Voldoet aan 
+✓ ✓ ✓ ✓ 
+ECAC Doc 29 
+Toepasbaar en 
+✓ ✓ ✓ ✓/ 
+praktisch haalbaar 
+Eenduidig en 
+✓ ✓ ✓ ✓ 
+navolgbaar 
+Uniformiteit met 
+✓    
+Doc 29 Schiphol 
+Hoge 
+  ✓ ✓ 
+nauwkeurigheid 
+ 
+Voor Doc 29 Schiphol wordt gebruik gemaakt van ISA standaard zeeniveau condities. Het gebruik van 
+jaargemiddelde atmosferische condities voor de specifieke luchthaven is qua methode vergelijkbaar met 
+het gebruik van ISA-condities, maar is toegespitst op de omstandigheden op de luchthaven. Hierdoor 
+scoort deze methode neutraal voor uniformiteit met Doc 29 Schiphol. De spreiding in de typische 
+verschillen is kleiner en de methode sluit beter aan bij de richtlijnen voor ECAC Doc 29 door het gebruik 
+van lokale gemiddelde meteorologische omstandigheden (“Average meteorological parameters at or 
+close to the aerodrome reference point”).  
+ 
+Verder differentiëren naar gemiddelde atmosferische condities (per zomer/winter, per kwartaal en per 
+maand) maakt dat de nauwkeurigheid toeneemt (t.o.v. het gebruik van ISA-condities of jaargemiddelde 
+condities toeneemt) en de spreiding in verschillen afneemt. Hierdoor scoort deze methode beter op hoe 
+nauwkeurigheid, maar scoort negatief op uniformiteit met Doc 29 Schiphol.  
+ 
+Het gebruik van atmosferische condities per tijdstip van de beweging wijkt af van Doc 29 Schiphol en 
+vereist meer detail in de invoergegevens (tijdstip van de beweging), terwijl de nauwkeurigheid nauwelijks 
+nog toeneemt. 
+12 juli 2021 19.171.34 pag. 85/130 
+
+ 
+ 
+Figuur 19: Start vanaf de baandrempel vergeleken met starts met een verschoven baandrempel van 56 meter 
+en 100 meter. 
+ 
+In beide vergelijkingen zijn geen grote maximale verschillen in de geluidbelasting zichtbaar. De maximale 
+verschillen treden op direct achter het startpunt van het vliegtuig. Typisch blijven de verschillen in SEL 
+onder de 0,2 dB(A). Die verschillen treden vooral op dichtbij de baan en direct onder het vliegpad. Het 
+grootste gedeelte van de contour buiten het luchthaventerrein is nagenoeg onveranderd. 
+ 
+Suggestie rekenvoorschrift 
+Uit de analyse blijkt dat de invloed van de rollende start en de verschoven baandrempel beperkt zijn. De 
+extra nauwkeurigheid die hiermee gerealiseerd kan worden, weegt niet op tegen de onzekerheden rond 
+de beschikbaarheid en nauwkeurigheid van de vereiste informatie. Voor de verschoven baandrempel 
+voor starts vanaf het begin van de baan, kan worden aangesloten bij de gemaakte keuze voor Schiphol 
+(100 meter). 
+ 
+12 juli 2021 19.171.34 pag. 87/130 
+
+ 
+Bijlage 9 – Analyse naar effect gebruik modelroute vs. radartracks 
+Deze bijlage geeft de analyse naar de mogelijke effecten van het toepassen van verschillende methodes 
+om een prognose verkeerssituatie door te rekenen op basis van historische radardata. 
+ 
+Methode 
+Voor de analyse zijn de geluidniveaus bepaald volgens volgende methodes:  
+• Modelroutes o.b.v. radardata uit verleden – “recht-toe-recht-aan” 
+• Historische radar tracks – “maximaal uniform” 
+• Radar tracks (referentie) – “werkelijk geluid”  
+ 
+De “werkelijk geluid” methode is niet beschikbaar voor prognoses, maar wordt gebruikt ter referentie om 
+vast te stellen hoe goed met de twee andere methodes de twee andere methodes de geluidbelasting kan 
+worden voorspeld. De analyse wordt uitgevoerd op basis een verkeerssituatie voor Eindhoven Airport, 
+omdat hiervoor empirische bepaalde modelroutes (per route) beschikbaar zijn. Voor dezelfde clusters als 
+de modelroutes kan de geluidbelasting vervolgens ook worden bepaald aan de hand van een set 
+geluidresultaten behorende bij individuele historische tracks. Het controlejaar voor “werkelijk geluid” is 
+2019 en de historische radar tracks uit 2018 worden gebruikt voor de “maximaal uniform” methode. 
+ 
+Resultaten 
+Figuur 20 geeft de verschillen tussen modelroutes (linker figuur) en het gebruik van radar tracks uit het 
+voorgaand jaar (rechter figuur) ten opzichte van de situatie “werkelijk geluid”. Voor beide methodes zijn 
+de verschillen beperkt. De maximale verschillen van de methode met modelroutes zijn groter dan de 
+maximale verschillen van de methode op basis van historische radartracks. 
+  
+Figuur 20: Verschil tussen gebruik radardata voorgaand jaar en gebruik modelroutes. Clustering op basis van 
+route. 
+ 
+In beide situatie zijn de verschillen kleiner dan 0,3 dB(A). Ook de verschillen in contouroppervlaktes in 
+Tabel 8, zijn beperkt waarbij de oppervlaktes van de modelroutes methode grotere wijzigingen met zich 
+mee brengen (+0,2%) dan de methode op basis van historische radartracks (kleiner dan 0,1%).  
+ 
+ 
+ 
+ 
+12 juli 2021 19.171.34 pag. 89/130 
+
+ 
+Bijlage 10 – Analyse naar effect gebruik werkelijke startgewicht 
+Deze bijlage geeft de analyse naar het gebruik van het werkelijke startgewicht voor de selectie van de 
+afstandsklasse. Per afstandsklasse zijn in de ANP database startgewichten toegekend. Per afstandsklasse / 
+startgewicht zijn prestatieprofielen gemaakt op basis van het gekoppelde startgewicht voor de 
+betreffende afstandsklasse. Voor Doc 29 Schiphol wordt de selectie van de afstandsklasse gebaseerd op 
+(de afstand tot) de bestemming van de vlucht. Daarmee wordt de koppeling aan een prestatieprofiel 
+gebaseerd op de relatie tussen bestemming en het startgewicht, in plaats van op het startgewicht zelf. 
+ 
+Vanwege het ontbreken van gegevens is er voor de implementatie van Doc 29 Schiphol geen analyse 
+uitgevoerd naar het effect van het gebruik van het werkelijke startgewicht in de geluidberekeningen. Er is 
+wel een aanbeveling gedaan om hier, indien er wel gegevens beschikbaar zijn, een analyse naar uit te 
+voeren. Bij (enkele) regionale luchthavens zijn er wel gegevens beschikbaar zijn over het daadwerkelijke 
+startgewicht.  
+ 
+Voor de analyse hebben we de volgende onderzoeksvraag geformuleerd:  
+ 
+Wat is het effect op de geluidbelasting wanneer het prestatieprofiel  wordt gebaseerd op het werkelijke 
+startgewicht van de vliegtuigen (i.p.v. afstandsklasse)? 
+ 
+Het antwoord op deze onderzoeksvraag biedt inzichten die kunnen worden gebruikt om suggesties te 
+doen voor het rekenvoorschrift. Deze suggesties worden vervolgens getoetst aan de eisen en wensen.  
+ 
+Methode 
+Om het effect van het daadwerkelijke startgewicht op de berekende geluidbelasting in kaart te brengen 
+zijn voor de analyse twee verschillende situaties beschouwd: 
+• Selectie van de afstandsklasse voor starts o.b.v. bestemming - "recht-toe-recht-aan“/”maximaal 
+uniform” 
+• Selectie van de afstandsklasse voor starts o.b.v. het daadwerkelijke startgewicht - "werkelijk geluid“ 
+ 
+Voor de analyse is gebruik gemaakt van geregistreerde startgewichten en bestemmingen van starts. Er is 
+een verkeersbestand gemaakt voor de vluchten waarvoor een startgewicht is geregistreerd. Deze set laat 
+zien dat er per saldo meer bewegingen zijn die worden toegekend met een hogere afstandsklasse als de 
+afstandklasse wordt afgeleid van het daadwerkelijke startgewicht dan wanneer deze wordt afgeleid uit de 
+bestemming. 
+ 
+Resultaten 
+Figuur 21 geeft het verschil in geluidbelasting tussen de twee methodes. 
+12 juli 2021 19.171.34 pag. 91/130 
+
+ 
+Omdat invoergegevens direct afhankelijk zijn van de gegevens die door de luchtvaartmaatschappij of 
+grondafhandelaar wordt opgegeven is eenduidigheid en navolgbaarheid lastiger te waarborgen. Hier 
+moeten passende regels en toezichthouding voor komen. Daarnaast is het zo dat er van luchthaven tot 
+luchthaven en van jaar tot jaar verschillen kunnen optreden. Dit doet afbreuk aan de eenduidigheid van 
+deze methode. 
+ 
+Bij Doc 29 Schiphol wordt de afstandsklasse bepaald o.b.v. bestemming. Als voor regionale luchthavens 
+gebruik zou worden gemaakt van daadwerkelijk startgewicht, dan zou dit afwijken van de methode zoals 
+deze nu voor Doc 29 Schiphol wordt toegepast. Daarentegen scoort de methode waarbij er gebruik 
+gemaakt wordt van het daadwerkelijke startgewicht leidt tot een hogere nauwkeurigheid. Afstandsklasse 
+o.b.v. bestemming kan op plekken met meer dan 0,5 dB(A) afwijken en wordt daarom beschouwd als 
+minder nauwkeurig. Daarnaast kan worden geconcludeerd dat het bepalen van de afstandsklasse op 
+basis van het geregistreerde startgewicht nauwkeuriger is. 
+ 
+Tabel 11: Scoretabel afstandsklasse. 
+Afstandsklasse starts wordt Afstandsklasse starts wordt bepaald 
+Eis/wens 
+  
+bepaald o.b.v. de bestemming o.b.v. het daadwerkelijk startgewicht
+Voldoet aan ECAC Doc 29 ✓ ✓ 
+Toepasbaar en praktisch haalbaar ✓  
+Eenduidig en navolgbaar ✓  
+Uniformiteit met Doc 29 Schiphol ✓  
+Hoge nauwkeurigheid  ✓ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+12 juli 2021 19.171.34 pag. 93/130 
+
+ 
+ 
+Figuur 22: Drie mogelijke flaps settings - full flaps, reduced flaps en mixed flaps. 
+ 
+In Figuur 22 is zichtbaar dat het toepassen van alleen full flaps naderingen in de geluidberekening leidt 
+tot een overschatting van het geluid. Figuur 22 toont ook aan dat het gebruik van alleen reduced flaps 
+prestatieprofielen leidt tot een onderschatting van het geluid t.o.v. de meest realistische methode (mixed 
+flaps). Deze overschatting bij het toepassen van louter full flaps en de onderschatting van louter reduced 
+flaps gebruik zijn ook te zien in toename en afnames van de contouroppervlaktes getoond in Tabel 12. 
+ 
+2
+Tabel 12: Contouroppervlaktes [km ] en verschil t.o.v. de methode op basis van mixed flaps [%]. 
+ 
+40 dB(A) 48 dB(A) 58 dB(A) 
+mixed flaps 70.2 13.7 1.5 
+full flaps 71.2 (+1.4%) 14.3 (+4.7%) 1.55 (+3.4%) 
+reduced flaps 70 (-0.4%) 13.5 (-1.1%) 1.46 (-2.8%) 
+ 
+Omdat de mix van full en reduced flaps overwegend uit reduced flaps vluchten bestaat, zijn de verschillen 
+ten opzichte van de situatie met alleen full flaps groter (typisch tot 0,5 dB(A) en maximaal tot 0,7 dB(A) 
+Lden) dan de verschillen ten opzichte van de reduced flaps verkeerssamenstelling (zowel typische als 
+maximale waarde tot 0,2 dB(A) Lden). 
+ 
+Suggesties rekenvoorschrift 
+Het gebruik van alleen full of reduced flaps leidt tot respectievelijk een overschatting en onderschatting 
+van het geluid. In de praktijk ligt zal de geluidbelasting tussen deze twee situaties in zitten. Verschillen 
+tussen de situaties met alleen full flaps en de veronderstelde mix zijn groter dan tussen de situaties met 
+alleen reduced flaps en de veronderstelde mix, omdat de veronderstelde mix een groter aandeel reduced 
+flaps vluchten bevat (80%) dan full flaps vluchten (20%). Ondanks dat de verhoudingen van full flaps en 
+reduced flaps in werkelijkheid anders kunnen zijn (in werkelijkheid zullen de verhoudingen verschillen per 
+luchthaven en/of luchtvaartmaatschappij) dan in deze analyse is getoetst, is het duidelijk dat de methode 
+kan voor het toewijzen van de flaps setting effecten kan hebben op de geluidbelasting die groter kunnen 
+zijn dan 0,5 dB(A) Lden. 
+ 
+Op basis van deze inzichten zijn er vier opties geïdentificeerd: 
+• 100% full flaps  
+• 100% reduced flaps (wanneer mogelijk) 
+• Vaste mix full flaps/reduced flaps (voor alle velden gelijk) 
+12 juli 2021 19.171.34 pag. 95/130 
+
+ 
+Bijlage 12 – Analyse naar effect gebruik nieuwe ANP-gegevens 
+In deze bijlage wordt de analyse naar het gebruik van verschillende ANP gegevens gepresenteerd. Sinds 
+december 2012 zijn er 4 verschillende ANP versies gepubliceerd door EUROCONTROL, namelijk versie 2.0, 
+2.1 , 2.2. en 2.3.  
+ 
+Onderstaande tabel geeft een overzicht van de wijzigingen in de verschillende ANP versies. 
+ 
+Tabel 14: Wwijzigingen in verschillende versies van de ANP database. 
+ ANP versie 2.1 ANP v2.2 ANP v2.3 
+ANP versie 2.0 
+wijzigingen t.o.v. versie wijzigingen t.o.v. Wijzigingen 
+wijzingen t.o.v. versie 1.0 
+2.0 versie 2.1 t.o.v. 2.2 
+Datum December 2012 Augustus 2016 Februari 2018 Oktober 2020 
+Nieuwe 20 verschillende 9 verschillende 9 verschillende 4 
+vliegtuigtypes vliegtuigtypes vliegtuigtypes vliegtuigtypes verschillende 
+aangepast/aangevuld aangepast/aangevuld aangepast/aangevuld vliegtuigtypes 
+(A350-941 en aangepast, 1 
+7378MAX) aangevuld 
+(ATR72) 
+Wijzigen Representatieve gewicht Flap identifiers -  
+bestaande voor bepaalde toegevoegd aan 
+vliegtuigtypes afstandsklasses aangepast ‘Aerodynamic coefficient’ 
+en maximale stuwkracht tabel en 
+waardes gecorrigeerd van afrondingsfouten 
+21 vliegtuigtypes. hersteld in ‘jet engine 
+Daarnaast een aantal coefficients’ tabel 
+ 
+modificaties aan 
+procedures doorgevoerd 
+voor een aantal 
+vliegtuigtypes 
+Toevoegen - LAmax en PNLTM maat -  
+ontbrekende voor verschillende NPD 
+data identifiers 
+Methodische STANDARD procedure Accel Percentage (%) Nieuwe step types in Wijziging 
+wijzigingen hernoemd to DEFAULT en kolom toegevoegd (voor procedural steps: EPNL, LAmax, 
+Reverse thrust waardes 7478, 7773ER, 7878R) in Descend-Idle, Level- PNLTM en SEL 
+aangepast de ‘Procedural steps’ Idle, Level-Decel waardes voor 
+tabel  ATR72, 
+CF567B, 
+A350-941 en 
+7378MAX 
+ 
+Zoals te zien in Tabel 14, kan er jaren zitten tussen twee nieuwe versies van de ANP database. Het kan dus 
+ook jaren duren voordat geluid- en prestatiegegevens beschikbaar zijn van een nieuw vliegtuigtype. Een 
+nieuw vliegtuigtype zal tot die tijd worden doorgerekend op basis van een proxy met bijbehorende 
+geluidcorrectiefactoren, zie onder andere hoofdstuk 4 en ’Bijlage 15 – Analyse naar effect van 
+verschillende substitutiemethodes’. Als eerst een proxy is toegepast voor een type en vervolgens dat type 
+op basis van nieuwe ANP gegevens anders wordt doorgerekend kan dat effect hebben op de berekende 
+geluidniveaus in de omgeving van de luchthaven. Dit werkt op soortgelijke wijze als bij de substitutie met 
+een proxy. 
+ 
+12 juli 2021 19.171.34 pag. 97/130 
+
+ 
+Vergelijking 2: correctie van geluidniveaus voor substitutie van startende vliegtuigen 
+𝐿 −𝐿 𝐿 −𝐿
+𝑙𝑡𝑒𝑟𝑎𝑙𝑎 ,𝑢𝑏𝑠 𝑙𝑡𝑒𝑟𝑎𝑙𝑎 ,𝑦𝑥𝑟𝑜𝑝 𝑒𝑟𝑣𝑜𝑙𝑦𝑓 ,𝑢𝑏𝑠 𝑒𝑟𝑣𝑜𝑙𝑦𝑓 ,𝑦𝑥𝑟𝑜𝑝
+1 1
+10 10
+Δ = 10 log ( 10 + 10 ) 
+𝑡𝑠𝑡𝑎𝑟 10
+2 2
+ 
+In vergelijking 2 is Δ de start correctie van proxy naar sub in dB, 𝐿 is de lateral certificatie 
+𝑡𝑠𝑡𝑎𝑟 𝑙𝑎𝑡𝑒𝑎𝑙𝑟 ,𝑠𝑢𝑏
+waarde van sub in EPNdB, 𝐿 is de lateral certificatie waarde van proxy in EPNdB, 𝐿 is 
+𝑙𝑎𝑡𝑒𝑎𝑙𝑟 ,𝑜𝑥𝑦𝑝𝑟 𝑙𝑒𝑓𝑜𝑣𝑦𝑟 ,𝑠𝑢𝑏
+de flyover certificatie waarde van sub in EPNdB en 𝐿 is de flyover certificatie waarde van proxy 
+𝑙𝑒𝑓𝑜𝑣𝑦𝑟 ,𝑜𝑥𝑦𝑝𝑟
+in EPNdB, 
+ 
+Vergelijking 3: conversie van correctie in decibellen naar correctie in aantallen bewegingen 
+Δ
+𝑟𝑡𝑡𝑎𝑠 /𝑖𝑛𝑛𝑔𝑑𝑙𝑎
+10
+∆𝑛 = 10 
+𝑡𝑠𝑡𝑎𝑟 /𝑙𝑛𝑎𝑛𝑔𝑖𝑑
+ 
+In Vergelijking 3 is Δ de start/landing correctie in dB en ∆𝑛 is de start/landing 
+𝑡𝑠𝑡𝑎𝑟 /𝑙𝑛𝑎𝑛𝑔𝑖𝑑 𝑡𝑠𝑡𝑎𝑟 /𝑙𝑛𝑎𝑛𝑔𝑖𝑑
+correctie in percentage van het aantal vluchten. 
+ 
+Met behulp van de bovenstaande vergelijkingen zijn de geluidcertificatiegegevens uit Tabel 15 omgezet 
+naar de correctiefactoren zoals opgenomen in Tabel 16.  
+ 
+Tabel 15: Geluidcertificatiegegevens voor vliegtuigtypes (737 familie) uit de ANP database. 
+𝑳 [EPNdB] 𝑳 [EPNdB] 
+Anp_proxy 𝒄𝒂𝒉𝒐𝒓𝒑𝒑𝒂 𝑳 [EPNdB] 𝒇𝒍𝒗𝒚𝒆𝒐𝒓
+𝒍𝒕𝒍𝒂𝒆𝒂𝒓
+737300 99.9 90.2 86.5 
+7373B2 99.9 91.9 85.7 
+737400 100.2 93.1 87.1 
+737500 97.4 89.6 84.2 
+737700 95.9 93 85.9 
+ 
+Tabel 16: Correctiefactoren van geluidniveaus in decibellen en percentage van aantal vluchten. 
+Anp_proxy Δ [dB] Δn [%] Δ [dB] Δn [%] 
+landing landing start  start
+737300 -4.0 39.8% +1.425 138.8 % 
+7373B2 -4.0  39.8% +0.673  116.8% 
+737400 -4.3  37.2% -0.615  86.8% 
+737500 -1.5  70.8% +2.633 183.3% 
+737700 (sub) 0.0  100.0% 0.0  100.0% 
+ 
+Met behulp van de correctiefactoren zijn voor verschillende geluidmaten (SEL, EPNL en LAmax) 
+verschillende berekeningen uitgevoerd om de impact van het gebruik van nieuwe ANP gegevens te 
+bepalen: 
+• Impact gebruik Boeing 737-300/400/500 gegevens inclusief correctie voor bepalen 
+geluidniveau/belasting Boeing 737-700. Hierbij zijn de volgende vergelijkingen gemaakt: 
+o Standaard nadering Boeing 737-300/400/500 incl. correctiefactor t.o.v. standaard nadering 
+Boeing 737-700 
+o Standaard start Boeing 737-300/400/500 incl. correctiefactor t.o.v. standaard start Boeing 
+737-700 
+• Impact gebruik Airbus A319-131/A320-211/A320-232 gegevens inclusief correctie voor bepalen 
+geluidniveau/belasting Airbus A321. Hierbij zijn de volgende vergelijkingen gemaakt: 
+12 juli 2021 19.171.34 pag. 99/130 
+
+ 
+ 
+Figuur 24: Berekening SEL, EPNL en LAmax voor start 737-300 incl. correctie t.o.v. Boeing 737-700. 
+ 
+Uit de resultaten is af te leiden dat er voor zowel starts als naderingen typische verschillen tot circa 5 dB(A) 
+zichtbaar zijn wanneer het gebruik van de Boeing 737-300 inclusief correctiefactor wordt afgezet t.o.v. de 
+berekening waarbij gebruik gemaakt is van de gegevens van de Boeing 737-700. Dit geldt voor zowel de 
+SEL en de EPNL als de LAmax berekeningen. 
+ 
+ 
+Figuur 25: Verschil in SEL, EPNL en LAmax voor de Boeing 737 familie na toepassen geluidcorrectie. 
+12 juli 2021 19.171.34 pag. 101/130 
+
+ 
+Bij Doc 29 Schiphol is toentertijd gebruik gemaakt van de meest actuele ANP gegevens. Hoe met een 
+actualisatie van de ANP gegevens wordt omgegaan is niet opgenomen in het methoderapport voor Doc 
+29 Schiphol, hierdoor krijgen beide methodes een neutrale score. Omdat nieuwe ANP gegevens worden 
+beschouwd als het meest accuraat, wordt het direct meenemen van de nieuwste ANP gegevens als het 
+meest nauwkeurig beschouwd. Het hanteren van een eerdere ANP versie in plaats van het gebruik van de 
+nieuwste gegevens wordt beschouwd als minder nauwkeurig, omdat dan niet wordt gecorrigeerd voor 
+het voortschrijdend inzicht van de nieuwe ANP gegevens.  
+ 
+ 
+12 juli 2021 19.171.34 pag. 103/130 
+
+ 
+Tabel 19: Best-passende startprofielen per intersectie van startbaan 03 (EHEH) o.b.v. radardata. 
+Intersectie Afstandsklasse 1 Afstandsklasse 2 
+R5 D01 D00 
+R6 D03 D03 
+R7 D03 D01 
+Geen uitsplitsing D03 D01 
+ 
+Met behulp van deze nieuwe profielen zijn de volgende opties vergeleken: 
+1. Modellering gebruik intersecties, gebaseerd op een verdeling van het verkeer over R5, R6 en R7 en 
+gebruik van best-passende profielen per intersectie. Deze benadering sluit zo goed mogelijk aan bij 
+het werkelijke gebruik van de intersecties en resulterende prestatieprofielen – “werkelijk geluid” 
+2. Alle starts met maximaal vermogen vanaf de baankop (R7). In deze modellering wordt er geen 
+rekening gehouden met intersectiestarts en wordt er ook geen rekening gehouden met het gebruik 
+van gereduceerd vermogen bij de start – “recht-toe-recht-aan – conservatief” 
+3. Alle starts met gereduceerd vermogen vanaf de baankop (R7). Ook in deze modellering wordt er 
+geen rekening gehouden met intersectiestarts, maar wordt er wel rekening gehouden met het 
+gebruik van gereduceerd vermogen bij de start – “recht-toe-recht-aan – variant 1” / “maximaal 
+uniform” 
+4. Modellering gebruik intersecties, maar met een vast profiel (D00/D01/D03) – “recht-toe-recht-aan – 
+variant 2” 
+ 
+Resultaten 
+Figuur 27 geeft het verschil in SEL voor de modellering van starts voor afstandsklasse 1 vanaf de baankop 
+met maximaal vermogen (optie 2) of gereduceerd vermogen (optie 3) ten opzichte van de modellering 
+van het gebruik van de intersecties (optie 1). Figuur 28 geeft dezelfde vergelijking maar dan voor 
+afstandsklasse 2. In deze figuren is gekozen voor een schaal van -6 tot +6 dB(A) om de effecten volledig te 
+kunnen laten zien. 
+ 
+ 
+Figuur 27: Effect start met maximaal of gereduceerd vermogen (D03) vanaf de baankop vergeleken met de 
+modellering van intersecties – afstandsklasse 1. 
+ 
+12 juli 2021 19.171.34 pag. 105/130 
+
+ 
+ 
+Figuur 29: Effect vast prestatieprofiel (D00, D01 of D03) per intersectie vergeleken met de modellering van 
+intersecties – afstandsklasse 1. 
+ 
+Figuur 30: Effect vast prestatieprofiel (D00, D01 of D03) per intersectie vergeleken met de modellering van 
+intersecties – afstandsklasse 2. 
+12 juli 2021 19.171.34 pag. 107/130 
+
+ 
+data wel tot minder eenduidigheid en navolgbaarheid. Op dit moment wordt het bepalen van best-
+passende profielen per intersectiestart daarom beoordeeld als minder eenduidig en navolgbaar. 
+ 
+Bij Doc 29 Schiphol worden intersectiestarts niet specifiek gemodelleerd. Deze aanpak is vergelijkbaar 
+met de methode “Geen intersectiestarts, best-passende profielen, vanaf de baankop + 100m”. De 
+methode “Geen intersectiestarts, maximaal vermogen vanaf baankop” is vergelijkbaar met deze methode, 
+maar maakt wel gebruik van andere profielen en scoort daarom neutraal. In Doc 29 Schiphol wordt geen 
+onderscheid gemaakt per intersectie, daarom scoren de overige twee methodes negatief op dit punt. 
+ 
+Het daadwerkelijke intersectiegebruik met best passende profielen wordt het meest nauwkeurig geacht. 
+Uit de analyse blijkt dat de selectie van de juiste prestatieprofielen invloed heeft op de geluidbelasting, al 
+zijn de effecten op de nauwkeurigheid van de geluidbelasting verder weg van de luchthaven beperkt. De 
+overige opties worden allen als minder nauwkeurig beschouwd.  
+12 juli 2021 19.171.34 pag. 109/130 
+
+ 
+Uit Figuur 31 blijken er geen zichtbare verschillen bij een vergelijking tussen de verschillende maaswijdtes 
+van de 40dB(A) L contouren. 
+den
+ 
+Figuur 32: 48 dB(A) contouren op basis van resultaten van meerdere rekenrasters met verschillende 
+maaswijdtes. 
+ 
+Bij de 48 dB(A) L contouren in Figuur 32 zijn er wel verschillen te zien. Het gaat hierbij om de resultaten 
+den
+van het 500 meter raster. In de figuur is te zien dat dit rekenraster afwijkingen in de ligging van de contour 
+veroorzaakt. De contouren op basis van de rekenrasters met een maaswijdte van 250 meter of minder 
+laten deze afwijkingen niet zien. 
+ 
+ 
+Figuur 33: 58 dB(A) contouren op basis van resultaten van meerdere rekenrasters met verschillende 
+maaswijdtes. 
+ 
+In Figuur 33 zijn de 58 dB(A) contouren weergegeven. Hierbij zijn verschillen te zien tussen alle contouren. 
+In lijn met de 48 dB(A) contour wijken de contouren bij een maaswijdt van 500 meter het meeste af van de 
+contouren op basis van het 50 meter-raster. Verder zorgt het rekenraster met een maaswijdte van 250 
+meter ook voor de eerder geïdentificeerde afwijkende ligging. Dit lijdt tot forse afwijkingen van de 
+12 juli 2021 19.171.34 pag. 111/130 
+
+ 
+Tabel 23: Scoretabel maaswijdte. 
+Maaswijdte van Maaswijdte van Maaswijdte van Maaswijdte van 
+Eis/wens 
+50 meter 100 meter 250 meter 500 meter 
+Voldoet aan ECAC Doc 29 ✓ ✓ ✓ ✓ 
+Toepasbaar en praktisch 
+✓ ✓ ✓ ✓ 
+haalbaar 
+Eenduidig en navolgbaar ✓ ✓ ✓ ✓ 
+Uniformiteit met Doc 29 
+  ✓  
+Schiphol 
+Hoge nauwkeurigheid ✓ ✓   
+ 
+Wat betreft uniformiteit met Doc 29 Schiphol voldoet alleen een raster met een maaswijdte van 250 meter 
+aan de wensen. Wel moet hierbij worden opgemerkt dat Schiphol met meer banen en meer vliegverkeer 
+dan de regionale velden andere eigenschappen heeft die om andere instellingen (kunnen) vragen. 
+ 
+Uit de resultaten van de analyse is af te leiden dat de nauwkeurigheid van de contour van verschillende 
+maaswijdtes afhankelijk is van de beoogde contour. Zo kan de 40 dB(A) contour voor Maastricht Aachen 
+Airport worden bepaald met een maaswijdte van 500 meter, maar hiermee kan niet nauwkeurig de 48 
+dB(A) of 58 dB(A) contour worden bepaald. Maaswijdtes van 250 meter en 500 meter worden daarom als 
+neutraal beoordeeld. De rekenrasters met maaswijdtes van 50 meter en 100 meter worden als positief 
+beoordeeld omdat hierbij zelfs de kleinste contouren dicht bij elkaar liggen. 
+ 
+12 juli 2021 19.171.34 pag. 113/130 
+
+ 
+Om de verschillen per substitutiemethode inzichtelijk te maken is een testcase opgezet. In deze testcase 
+zijn de meest voorkomende vliegtuigtypes uit de verkeersgegevens van een regionale luchthaven over 
+een periode van drie jaar (2017 t/m 2019) gebruikt.  
+ 
+In de analyse zijn eerst voor de verschillende vliegtuigtypes de bijhorende proxies en correctiefactoren 
+bepaald volgens de verschillende substitutiemethodes, zie Tabel 24.  
+ 
+Tabel 24 Resulterende substitutie proxy en correctie factoren voor B737-800 en A320-232. 
+ANP vliegtuigtype/motor 
+Schiphol 
+ANP ICAO substitutie-
+ / combinatie 
+Vliegtuigtype substitutiemethode 
+methode 
+protocol 
+substitutiemethode  
+    
+737-800 – CFM56-7B26 737-700 A320-211 737-700
+   
+Maximaal startgewicht: +/- corr. dep: 1.5 dB corr. dep: 0.1 dB corr. dep: -1.3 dB
+    
+67.000 kg corr. arr: 1.0 dB corr. arr: 0.4 dB corr. arr: 0.4 dB
+737-800 - CFM56-7B26  737-700 A320-211 737-700 
+Maximaal startgewicht: +/- corr. dep: 1.5 dB corr. dep: 0.1 dB corr. dep: 0.5 dB 
+75.000 kg corr. arr: 1.0 dB corr. arr: 0.4 dB corr. arr: 0.5 dB 
+A320-232 A320-232 A320-232 
+A320-232 – V5-2725A corr. dep: 2.3 dB corr. dep: 0.0 dB corr. dep: -0.7 dB 
+corr. arr: 2.2 dB corr. arr: 0.0 dB corr. arr: 0.0 dB 
+ 
+Vervolgens zijn de geselecteerde proxies en correctiefactoren gebruikt om de geluidberekeningen uit te 
+voeren. Met deze methode zijn drie geluidberekeningen uitgevoerd met dezelfde verkeerssamenstelling. 
+ 
+Resultaten 
+Tabel 24 geeft de resulterende proxies en bijhorende correctiefactoren voor de Boeing 737-800 en Airbus 
+A320-232. Uit de analyse naar de verkeersgegevens van de regionale luchthavens blijkt dat het maximaal 
+startgewicht en mede daardoor het geluidcertificatieniveau van een Boeing 737-800 verschilt per 
+maatschappij. Bij de ANP ICAO substitutiemethode wordt de hoogte van de correctiefactor gebaseerd op 
+het hoogst voorkomende certificatieniveau voor het vliegtuigtype, ongeacht het maximaal startgewicht. 
+Ook volgens het protocol van Schiphol wordt in beide gevallen dezelfde correctiefactor toegekend, maar 
+wordt een andere proxy toegekend (een Airbus A320-211 in plaats van een Boeing 737-700).  
+ 
+Na het analyseren van de proxy en de bijhorende correctiefactoren zijn in eerste instantie SEL contouren 
+met elkaar vergeleken waarbij de ANP substitutiemethode op vliegtuigtype/motor combinatie niveau als 
+referentie is aangenomen. De resultaten zijn opgenomen in Figuur 34, Figuur 35 en Figuur 36. 
+12 juli 2021 19.171.34 pag. 115/130 
+
+ 
+startgewicht van 67.000 kg en de Airbus A320-232 en een onderschatting bij de Boeing 737-800 met een 
+maximaal startgewicht van 75.000 kg. 
+ 
+Aanvullend zijn ook de effecten van de verschillende substitutiemethodes op de jaargemiddelde Lden 
+geluidbelasting onderzocht voor een veronderstelde verkeerssituatie. Voor de drie methodes zijn steeds 
+de vliegtypes in de verkeerssituatie met de substitutiemethode gesubstitueerd.  
+ 
+ 
+Figuur 37: Verschil in geluidniveaus van verschillende substitutiemethodes (Lden). 
+ 
+Figuur 37 (links) geeft het verschil tussen het toepassen van de ANP ICAO substitutiemethode en de 
+substitutiemethode op vliegtuigtype/motor combinatie niveau op een volledige verkeerssituatie weer. 
+Als de ANP substitutielijst op vliegtuigtype niveau (ICAO) wordt toegepast blijkt er (in deze situatie) over 
+het algemeen een overschatting van het geluid van circa 0,9 tot 2,5 dB(A). Figuur 37 (rechts) geeft de 
+verschillen tussen de Schiphol substitutielijst/protocol en de ANP substitutiemethode op 
+vliegtuigtype/motor combinatie niveau. Hierbij is vooral op het luchthaventerrein en verder van het 
+luchthaventerrein sprake van een overschatting oplopend tot circa 1,5 dB(A). Op andere locaties is juist 
+sprake van een onderschatting tot circa 0,7 dB(A). Het verschil in contouroppervlaktes is weergegeven in 
+Tabel 25. 
+ 
+Tabel 25 Contouroppervlaktes [km2] en verschil t.o.v. de resultaten op basis van ANP Aircraft configuration 
+substitutiemethode[%]. 
+Methode 40 dB(A) 48 dB(A) 58 dB(A) 
+ANP substitutiemethode op vliegtuigtype/ 150 38 4.63 
+motor combinatie niveau  
+ANP ICAO substitutiemethode  230 (+42.3%) 51.9 (+36.8%) 6.81 (+47.2%) 
+Schiphol substitutielijst/protocol 185 (+5.5%) 38.7 (+1.8%) 4.77 (+3.0%) 
+ 
+Opties voor Doc 29 regionaal 
+Uit deze analyse blijkt dat het toepassen van verschillende substitutiemethodes kan leiden tot verschillen 
+in de jaargemiddelde geluidbelasting van enkele dB’s. Alle methodes voldoen aan de richtlijnen van ECAC 
+Doc 29 en zijn daarmee een optie voor de toepassing voor Doc 29 regionaal. 
+ 
+  
+12 juli 2021 19.171.34 pag. 117/130 
+
+ 
+Bijlage 16 – Analyse naar effect grondpadbewerking 
+Een juiste grondpadbewerking is essentieel voor onder andere segmentatie van het vliegpad en de 
+bepaling van de rolhoek. Er zijn meerdere methodes denkbaar om grondpaden te bewerken, zodat deze 
+gebruikt kunnen worden bij een geluidberekening. Het is echter onbekend hoe dit van invloed is op de 
+resulterende geluidbelasting. 
+ 
+Waar het grondpad aan moet voldoen, is afhankelijk van de fase van de vlucht. Deze twee fases zijn: de 
+fase op de baan (de grondrol) en het deel in de lucht. Het deel op de baan bestaat uit een rechte lijn. Het 
+vliegtuig rolt daarbij over de hartlijn van de baan. Door afwezigheid van bochten speelt een rolhoek 
+hierbij geen rol. Het deel in de lucht is lateraal dynamischer van aard en kan zowel bestaan uit rechte 
+lijnen en krommen. Door aanwezigheid van krommen speelt rolhoek (en de bepaling ervan) wel een rol. 
+ 
+Op basis van de verschillende methodes die zijn geïdentificeerd voor grondpadbewerking is de volgende 
+onderzoeksvraag geformuleerd:  
+ 
+Wat zijn de effecten van het toepassen van verschillende methodes om een grondpad geschikt te maken voor 
+geluidberekeningen? 
+ 
+Voor het deel op de baan is uitlijnen van het grondpad noodzakelijk. Uitlijnen van grondpaden op de 
+baan is noodzakelijk om alle starts vanaf de baandrempel te laten beginnen. Daarnaast geldt zowel voor 
+starts als landingen dat de wielen bij hoogte 0 op de grond staan en dat het vliegtuig zich dan op het 
+asfalt bevindt, dicht bij de hartlijn van de baan. Zoals te zien is in Figuur 38 liggen de startpunten van de 
+onbewerkte radartracks niet op de baandrempel. Ook kan hieruit worden opgemaakt dat het simpelweg 
+toevoegen van de positie van de baandrempel aan de track, niet zal leiden tot een analyse waarbij het 
+rollende deel van de start over de hartlijn loopt. Idem voor naderingen. Het is daarom noodzakelijk om 
+verder te analyseren wat het effect is van het uitlijnen van het grondpad. 
+ 
+Figuur 38: Startpunten van radartracks Eindhoven, zonder uitlijning of verlenging tot de start van de baan. 
+ 
+Voor het deel in de lucht is verwijderen van ruis noodzakelijk voor het bepalen van de rolhoek. De rolhoek 
+is afhankelijk van de bochtstraal en de snelheid. De bochtstraal kan worden bepaald aan de hand van drie 
+12 juli 2021 19.171.34 pag. 119/130 
+
+ 
+ 
+Figuur 40: Radartracks op Eindhoven van starts vanaf startbaan 03 met detectiepoortjes voor vroeg afdraaiend 
+vliegverkeer. 
+ 
+Voor al het verkeer dat niet vroeg afdraait zijn de volgende methodes geanalyseerd. 
+1. Verlengen tot baan start/eind – “recht toe recht aan” 
+2. Uitlijnen baan start en eind – “werkelijk geluid” 
+ 
+Analyse 2: in de lucht – verwijderen ruis/overbodige punten 
+Uit een inventarisatie blijkt dat er (een combinatie van) meerdere methodes kan/kunnen worden gebruikt 
+om ruis en overbodige punten uit het grondpad te verwijderen. Deze analyse vergelijkt vier methodes 
+voor het verwijderen ruis/overbodige punten in de lucht en de effecten hiervan op de geluidbepaling. 
+ 
+De eerste methode brengt een grondpad terug naar een aantal rechte lijnen en krommen (stukken van 
+een cirkel), zodat deze lijkt op het laterale pad van een vliegprocedure. De methode ‘rechte lijnen en 
+krommen’ komt vanwege de hoge mate van nauwkeurigheid en overeenkomst met hoe er in praktijk 
+wordt gevlogen (naar verwachting) het dichtste bij het werkelijke geluid. Afhankelijk van de databron 
+wordt bij Schiphol gebruik gemaakt van rechte lijnen en krommen (Casper) of niet (FANOMOS). Op 
+termijn zal deze methode worden gebruikt voor Doc 29 berekeningen bij Schiphol. Naast de ‘rechte lijnen 
+en krommen’ methode is in het methodenrapport van Doc 29 Schiphol ook te lezen dat splines worden 
+toegepast alvorens gebruik. Het advies uit Doc 29 Schiphol luidt om radardata te versimpelen, waarbij de 
+originele punten in de bocht in stand worden gehouden, maar overbodige punten op lange rechte 
+stukken worden verwijderd. 
+ 
+De methode om rechte lijnen en krommen af te leiden van radardata zijn niet beschikbaar voor deze 
+studie. Om deze methode te toetsen zijn de rechte lijnen en krommen handmatig bepaald. De meest 
+simpele methode is het niet bewerken van de radardata, dit zal ook meegenomen worden in de analyse. 
+Hoewel een spline vaak als aanvullende (voor)bewerking wordt gezien zal deze ook worden toegepast en 
+vergeleken met de andere methodes. Als laatste zal ook de methode uit Doc 29 Schiphol worden 
+getoetst. 
+ 
+12 juli 2021 19.171.34 pag. 121/130 
+
+ 
+ 
+Figuur 42: Geluidverschillen van verschillende grondpadbewerkingen ten opzichte van de referentie methode 
+(rechte lijnen en krommen). 
+ 
+Het aantal segmenten per track is een indicator voor de nauwkeurigheid van de manier van uitlijnen. 
+Tevens zegt het aantal segmenten per track iets over de vereiste rekentijd, omdat er in Doc 29 per 
+segment wordt gerekend. Tabel 27 geeft een overzicht van het gemiddeld aantal segmenten per track per 
+methode. 
+ 
+Tabel 27: Gemiddeld aantal segmenten per methode voor grondpadbewerking. 
+Methode Eindhoven Maastricht 
+Brondata (origineel) 68 121 
+Rechte lijnen en krommen 20 (-70%) 24 (-80%) 
+Uitgelijnd baan 74 (+9%) 98 (-19%) 
+Uitgelijnd baan met spline 74 (+9%) 98 (-19%) 
+Uitgelijnd baan met rechte lijnen versimpeld 41 (-39%) 41 (-66%) 
+ 
+De methode met rechte lijnen en krommen heeft het kleinste aantal segmenten, maar heeft ten opzichte 
+van de andere methodes de grootste verschillen. De methode waarbij het grondpad alleen is uitgelijnd 
+met de baan zorgt voor een kleine verandering in het aantal punten t.o.v. de brondata, omdat voor de 
+uitlijning van de baan punten worden weggehaald of toegevoegd (afhankelijk van de brondata). Er zit 
+geen verschil in het wel/niet gebruiken van een spline methode ten opzichte van onbewerkt pad, omdat 
+de spline is ingesteld om ruis te verwijderen, maar wel hetzelfde aantal punten blijft behouden. 
+ 
+  
+12 juli 2021 19.171.34 pag. 123/130 
+
+ 
+De methode waarbij het grondpad alleen wordt verlengd tot de baankop wordt als minder nauwkeurig 
+beschouwd, omdat hierbij ruis in de positiedata vrij spel heeft rond het handhavingspunt. In de methode 
+waarbij op beide baankoppen wordt uitgelijnd is dit niet het geval. Alleen als hier aantoonbaar van wordt 
+afgeweken door vroeg wegdraaien van de baan kan hoeft het grondpad niet te worden uitgelijnd met 
+beide baankoppen. 
+ 
+Tabel 28: Scoretabel grondpadbewerking - uitlijnen met start- en landingsbaan. 
+  
+Eis/wens Verlengen tot baankop Uitlijnen beide baankoppen
+Voldoet aan ECAC Doc 29 
+✓ ✓ 
+Toepasbaar en praktisch haalbaar 
+✓ ✓ 
+Eenduidig en navolgbaar ✓ ✓ 
+Uniformiteit met Doc 29 Schiphol   
+Hoge nauwkeurigheid  ✓ 
+ 
+De effecten op het geluid door toepassen van geluidsarmere procedures en operationele wijzigingen zijn 
+beperkt zichtbaar. Vroeg wegdraaien van de baan wordt in het geval van uitlijnen op beide baankoppen 
+opgevangen door een alternatieve methode. Inzichten in de geluidseffecten in de omgeving zijn voor 
+beide methodes vergelijkbaar. 
+  
+Analyse 2: in de lucht – verwijderen ruis/overbodige punten 
+ECAC Doc 29 beschrijft niet expliciet hoe radardata moeten worden voorbewerkt. Geen van de methodes 
+conflicteert dus met de eisen die worden gesteld aan de keuzevrijheid in ECAC Doc 29. Alle methodes 
+worden beschouwd als praktisch haalbaar. Een methode om rechten en krommen af te leiden is niet 
+direct beschikbaar, maar een dergelijke methode is reeds geïmplementeerd in Casper bij Schiphol en zal 
+daarom naar verwachting ook voor regionale velden ontwikkeld en geïmplementeerd kunnen worden. 
+Ondanks dat een methode voor rechte lijnen en krommen niet direct beschikbaar is, kan ervan uit worden 
+gegaan dat de overige methodes eenduidig geformuleerd zijn en navolgbaarheid in de resultaten 
+opleveren. 
+ 
+In Doc 29 Schiphol is beschreven hoe rechte lijnen worden versimpeld. In het methodenrapport van Doc 
+29 Schiphol is geschreven dat de methode uit Casper die gebruik maakt van rechten en krommen 
+wenselijk is. Op termijn zal deze methode namelijk worden gebruikt voor Doc 29 berekeningen. In het 
+methodenrapport is ook te lezen dat splines worden toegepast. Omdat de onderzochte methodes voor 
+Doc 29 regionaal gecombineerd worden gebruikt bij Doc 29 Schiphol, worden deze als uniform met Doc 
+29 Schiphol beschouwd, behalve als er geen bewerking van radargegevens wordt toegepast. 
+ 
+Tabel 29: Scoretabel grondpadbewerking - verwijderen ruis en versimpelen grondpad. 
+Rechte lijnen en Rechte lijnen 
+Eis/wens Spline smoothing Geen bewerking 
+ 
+krommen versimpeld 
+Voldoet aan 
+✓ ✓ ✓ ✓ 
+ECAC Doc 29 
+Toepasbaar en 
+ ✓ ✓ ✓ 
+praktisch haalbaar 
+Eenduidig en 
+✓ ✓ ✓ ✓ 
+navolgbaar 
+12 juli 2021 19.171.34 pag. 125/130 
+
+ 
+Bijlage 17 – Substitutiemethode klein verkeer 
+Deze bijlage beschrijft de analyse naar een substitutiemethode voor klein verkeer. De ANP database 
+beschikt over elf toestellen die een maximaal startgewicht onder de 6.000 kg hebben, zie Tabel 30. Tien 
+types worden voortgedreven door middel van (een) propeller(s) en één door twee straalmotoren. Er 
+vliegen in Nederland echter bij benadering 100 verschillende soorten klein verkeer rond. In tegenstelling 
+tot het groot verkeer heeft EUROCONTROL via het ANP geen substitutielijst beschikbaar gesteld voor dit 
+kleine verkeer. Er dient dus een substitutiemethode te worden bepaald om de verschillende klein verkeer 
+vliegtuigtypen aan het meest representatieve vliegtuigtype waarover wel gegevens beschikbaar zijn te 
+koppelen. 
+ 
+Tabel 30: Niet-commerciële toestellen uit de ANP lijst met een maximaal startgewicht <6.000kg. 
+# Aircraft ID Beschrijving overflight Take-off  Maximaal Maximaal 
+certificatie certificatie start- landings-
+geluidniveau geluidniveau gewicht gewicht 
+(hoofdstuk 6) (hoofdstuk 10) [kg] [kg] 
+[dB(A)] [dB(A)] 
+2767 2767 
+1 BEC58P Raytheon BARON 58P - 79.1 
+/ TS10-520-L 
+2 CNA172 Cessna 172R /  84.7 1111 1111 
+Lycoming IO-360-L2A
+ 
+3 CNA182 Cessna 182H / 73.5 80.7 1270 1270 
+Continental O-470-R 
+4 CNA206 Cessna 206H / - 88.0 1633 1633 
+Lycoming IO-540-AC 
+3969 3856 
+5 CNA208 Cessna 208 / PT6A- - 87.1 
+114 
+6 CNA20T Cessna T206H / - 80.0 1633 1633 
+Lycoming TIO-540-
+AJ1A 
+7 ECLIPCE500 Eclipse 500 / PW610F Straalmotor Straalmotor 2722 2540 
+8 PA28 Piper Warrior PA-28- - 70.0 1055 1055 
+161 / O-320-D3G 
+1633 1633 
+9 PA30 Piper Twin Comanche 72.0 - 
+PA-30 / IO-320-B1A 
+10 PA31 Piper Navajo Chieftain 80.0 - 3175 3175 
+PA-31-350 / TIO-5 
+11 PA32 Piper PA-42 / PT6A-41 76.8 78.9 5080 4686 
+ 
+Zoals kan worden vastgesteld in Tabel 30, hebben bepaalde ANP vliegtuigtypen een zeer vergelijkbaar 
+certificatie geluidniveau. De substitutiemethode enkel baseren op basis van het certificatie geluidniveau 
+blijkt niet afdoende om voldoende hoge nauwkeurig te kunnen substitueren. Hetzelfde argument is ook 
+van toepassing als er enkel naar gewicht wordt gekeken. Doordat een aantal ANP vliegtuigtypen 
+vergelijkbare geluidniveaus hebben, maar heel verschillend zijn in gewicht, wordt voorgesteld om een 
+substitutiemethode te ontwikkelen op basis van de combinatie van het maximale startgewicht en het 
+certificatie geluidniveau. 
+ 
+Om met beide parameters rekening te kunnen houden tijdens de substitutie dient er een correlatie tussen 
+het gewicht en het geluid bepaald te worden. Deze correlatie kan worden bepaald door het maximale 
+12 juli 2021 19.171.34 pag. 127/130 
+
+ 
+Een vervolgstudie is wenselijk om de best passende trendlijn te bepalen die toepasbaar is voor het kleine 
+verkeer. Verder kan ook worden vastgesteld dat de gecertifieerde geluidniveaus maximaal 80 dB(A) 
+bedraagt voor toestellen en onder de regelgeving vallen van hoofdstuk 6 van Annex 16, volume 1 en 
+maximaal 88 dB(A) bedraagt voor toestellen en onder de regelgeving vallen van hoofdstuk 10 van Annex 
+16, volume 1. Toestellen met een hoger certificatie geluidniveau zijn opgenomen in “Heavy propeller 
+driven aeroplanes noise database” van EASA.  
+ 
+93
+88
+83
+78
+73
+68
+63
+58
+53
+48
+0 1000 2000 3000 4000 5000 6000 7000 8000 9000
+Maximaal startgewicht [kg]
+EASA database Luchtvaartregister
+ 
+Figuur 45: Gewicht-geluid verhouding EASA database en Nederlands luchtvaart register. 
+ 
+Figuur 45 bevestigt dat vliegtuigtypen die als “small aeroplane” zijn geregistreerd in het Nederlands 
+luchtvaartregister eenzelfde gewicht-geluid verhouding laten zien als de veel uitgebreidere EASA 
+database. Momenteel zijn er geen toestellen geregistreerd in de categorie “small aeroplane” die onder de 
+Annex 16, volume 1, Hoofdstuk 6 regelgeving vallen.  
+ 
+Met behulp van de trendlijnen beschreven in Figuur 43 en Figuur 44 kan het gewicht vervolgens worden 
+uitgedrukt in dB(A) waardes. Dit heeft als voordeel dat er een algoritme kan worden toegepast om het 
+meest representatieve ANP type te bepalen. Het resultaat van deze clusteringsmethode is gevisualiseerd 
+24
+als een voronoi-diagram in Figuur 46 en Figuur 47. De grijze punten in de figuren tonen het maximale 
+geluidniveau per vliegtuigtype en maximaal startgewicht uit de EASA database. Op basis van het vlak 
+waarin het vliegtuig valt, is één ANP type aan te wijzen als representatief vliegtuigtype. Met deze 
+ 
+24
+ Een Voronoi-diagram verdeeld een vlak in gebieden die het dichts bij elk van de objecten (in dit geval de ANP types) 
+ligt 
+12 juli 2021 19.171.34 pag. 129/130 
+Certificatie geluidniveau (hoofstuk 10) [dB(A)
+

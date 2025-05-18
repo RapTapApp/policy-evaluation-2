@@ -1,0 +1,965 @@
+Systeemmonitor 
+luchtvaartveiligheid 
+Peildatum 1 januari 2021
+Eerste editie
+
+Systeemmonitor 
+luchtvaartveiligheid 
+Peildatum 1 januari 2021
+Eerste editie
+
+Inhoud
+  Samenvatting 5
+1 Inleiding 7
+2 Uitgangspunten 8
+2.1 Luchtvaartveiligheidssysteem 8
+2.2 Afbakening systeemmonitor 8
+2.3 Opzet systeemmonitor 9
+2.4 Relatie met de Staat van Schiphol 9
+3 Functioneren veiligheidssysteem 2021 11
+3.1 Indicatoren systeemmonitor 11
+3.2 Regelgeving en kaders 11
+3.3 Toelating en toezicht 15
+3.4 Inrichting (vlieg)operatie 17
+3.5 Reflectie 20
+4 Conclusies 25
+4.1 Algemene conclusies 25
+4.2 Conclusies regelgeving en kaders 25
+4.3 Conclusies toelating en toezicht  26
+4.4 Conclusies inrichting (vlieg)operatie  26
+4.5 Conclusies reflectie  26
+ Bijlagen 27
+Bijlage A: Auditsysteem ICAO 28
+Bijlage B: Factsheets indicatoren 29
+Bijlage C: Overzicht ICAO Annexen 37
+Bijlage D: Nadere toelichtingen indicatoren 38
+Systeemmonitor luchtvaartveiligheid | 3
+
+ Samenvatting
+Het ministerie van Infrastructuur en Waterstaat (IenW) heeft Het is aan de verantwoordelijke actoren van de 
+de Systeemmonitor luchtvaartveiligheid ontwikkeld. Het systeemonderdelen om een nadere analyse uit te voeren 
+functioneren van het veiligheidssysteem van de overheid naar de mogelijke verbetermaatregelen en deze te 
+(regelgeving en kaders, toelating en toezicht en reflectie), implementeren. De jaarlijkse actualisatie van deze 
+het veiligheidssysteem van de sectorpartijen (inrichting systeemmonitor zal meer inzicht geven in de trends met 
+(vlieg)operatie) en de onderlinge samenwerking staat betrekking tot het functioneren van het veiligheidssysteem. 
+hierbij centraal. De ambitie daarbij is om een continue aantoonbare 
+verbetering te laten zien. Op basis van de eerste ervaringen 
+De minister van IenW is eindverantwoordelijk voor het bij het realiseren en toepassen van dit instrument 
+functioneren van het veiligheidssysteem en heeft ontwikkelt IenW de systeemmonitor de komende jaren 
+daarbinnen een regierol. Deze systeemmonitor draagt bij verder.
+aan de versterking van deze regierol. Deze eerste publicatie 
+geeft expliciet en transparant inzicht in hoe het 
+veiligheidssysteem functioneerde op 1 januari 2021. De 
+operationele luchtvaartveiligheid wordt echter niet direct 
+bepaald door de prestatie van één indicator. In 
+werkelijkheid betreft het een complex systeem met veel 
+veiligheidswaarborgen. 
+Uit de systeemmonitor blijkt dat voor de volgende thema’s 
+ruimte is voor een verdere versterking van het 
+luchtvaartsysteem:
+• het adequaat bijdragen aan de ontwikkeling van de 
+internationale kaders en het aantoonbaar effectief 
+implementeren van deze kaders door IenW;
+• het adequaat invullen van de rollen en 
+verantwoordelijkheden van ILT, het effectief uitvoeren 
+van het toezicht op de sector, het uitvoeren van analyses 
+van voorvallen en het oplossen van veiligheidsproblemen 
+conform de internationale vereisten;
+• het beheersen van de integrale veiligheidsrisico’s op 
+Schiphol door de sector en, 
+• de aantoonbare effectieve implementatie van de 
+internationale kaders voor het onderzoek naar 
+luchtvaartongevallen door de Onderzoeksraad voor 
+Veiligheid.
+Systeemmonitor luchtvaartveiligheid | 5
+
+1 Inleiding
+Vliegen is een van de veiligste vormen van transport. Leeswijzer
+Veiligheid is en blijft een topprioriteit om dit hoge niveau Hoofdstuk 2 beschrijft de uitgangspunten en afbakening 
+van veiligheid te behouden. Nederland zet in op volledige van de systeemmonitor en de relatie van deze monitor met 
+compliance met de verplichtingen van de internationale andere instrumenten. Hoofdstuk 3 geeft inzicht in het 
+burgerluchtvaartorganisatie ICAO en heeft de ambitie om functioneren van het veiligheidssysteem. Hoofdstuk 4 gaat 
+permanent tot de best presterende landen ter wereld te in op de conclusies uit deze systeemmonitor.
+1
+behoren. Het nationale luchtvaartveiligheidsdoel is het 
+continu verbeteren van de luchtvaartveiligheid door het In bijlage A is een beschrijving opgenomen van het ICAO 
+kennen van de grootste nationale risico’s en deze te auditsysteem dat een belangrijke informatiebron is voor 
+2
+beheersen tot een acceptabel niveau. deze monitor. In bijlage B is voor elke indicator een 
+factsheet opgenomen. Een overzicht van de ICAO Annexen 
+Het ministerie van Infrastructuur en Waterstaat (IenW) heeft is opgenomen in bijlage C. In bijlage D is tot slot een nadere 
+de Systeemmonitor luchtvaartveiligheid ontwikkeld als toelichting opgenomen bij de resultaten van een aantal 
+instrument om het functioneren van het veiligheidssysteem indicatoren.
+3
+te monitoren. De systeemmonitor geeft aan de hand van 18 
+geselecteerde indicatoren inzicht in de naleving van de 
+regelgeving en de uitvoering van processen en activiteiten. 
+Deze hebben tot doel de veiligheid in stand te houden en 
+verder te verbeteren. In het rapport ‘Veiligheid vliegverkeer 
+4
+Schiphol’ heeft de Onderzoeksraad voor Veiligheid (OVV) 
+aan de minister van IenW aanbevolen om de rol van 
+eindverantwoordelijke voor de veiligheid van het vliegver-
+5
+keer op en rond Schiphol nader in te vullen. Daarnaast 
+beveelt de OVV aan om hierover openbaar verantwoording 
+6
+af te leggen. De Systeemmonitor luchtvaartveiligheid is 
+mede ontwikkeld naar aanleiding van deze aanbevelingen. 
+De voorliggende eerste editie van de systeemmonitor geeft 
+expliciet en transparant inzicht in hoe het veiligheids-
+systeem functioneerde op 1 januari 2021. Het rapport is een 
+nulmeting en geeft  inzicht in de mogelijkheden om het 
+luchtvaartveiligheidssysteem verder te verbeteren. IenW is 
+voornemens om de systeemmonitor jaarlijks te actualiseren 
+en toe te werken naar een monitor die het gehele 
+Nederlandse luchtvaartsysteem beschrijft (inclusief 
+Caribisch Nederland). 
+1
+   Kamerstukken II, 31 936 nr. 820
+2
+  Kamerstukken II, 24 804 nr. 116
+3
+   Het rapport Opzet van de Systeemmonitor luchtvaartveiligheid beschrij ft
+welke informatie in de monitor is opgenomen (zie Kamerstukken 
+II, 29 665 nr. 379).
+4
+   Veiligheid vliegverkeer Schiphol, Onderzoeksraad voor Veiligheid, 
+april 2017
+5
+   Aanbeveling 7
+6
+  Aanbeveling 8
+Systeemmonitor luchtvaartveiligheid | 7
+
+2.3 Opzet systeemmonitor Om tot een uitvoerbare systeemmonitor te komen is 
+gekozen voor indicatoren met een hoog abstractieniveau. 
+De opzet van de systeemmonitor sluit aan op de vier Het aantal is beperkt tot een beheersbare set van 18 
+onderdelen waarin het veiligheidssysteem is verdeeld: indicatoren.
+• Regelgeving en kaders;
+• Toelating en toezicht;
+• Inrichting (vlieg)operatie; 2.4 Relatie met de Staat van Schiphol
+• Reflectie.
+De Inspectie Leefomgeving en Transport (ILT) brengt 
+8
+Onderstaand figuur illustreert  het model van de jaarlijks de Staat van Schiphol uit waarmee inzicht wordt 
+Systeemmonitor luchtvaartveiligheid. geboden in de ontwikkeling van veiligheid, duurzaamheid 
+en leefomgeving op en rondom Schiphol. De Staat van 
+Schiphol geeft een actueel inzicht voor de thema’s ‘Schiphol 
+Internationale 
+in Coronatijd’, ‘vliegverkeer Schiphol’, ‘veilig vliegen’, 
+afspraken
+‘veilig en gezond leven’ en ‘veilig en gezond werken’. De 
+Staat van Schiphol is een dynamisch product. Daar waar de 
+Regelgeving 
+systeemmonitor informatie levert over het functioneren van 
+en kaders
+het veiligheidssysteem, levert de Staat van Schiphol 
+informatie over het resultaat van het systeem. De systeem-
+Toelating monitor en de Staat van Schiphol leveren dus complemen-
+en toezicht
+taire informatie (zie ook figuur). Daarnaast is de reikwijdte 
+van de Staat van Schiphol breder dan deze systeemmonitor, 
+omdat het zoals hiervoor toegelicht ook inzicht geeft in 
+Inrichting Resultaat van de
+(vlieg)operatie
+(vlieg)operatie andere thema’s dan luchtvaartveiligheid. 
+Reﬂectie
+Systeemmonitor Staat van Schiphol
+Luchtvaartveiligheid
+De systeemmonitor is opgebouwd uit indicatoren die de 
+status van de elementen van het veiligheidssysteem 
+weergeven. De systeemmonitor geeft een integraal en 
+samenhangend beeld van het functioneren van dit systeem. 
+Integraal betekent dat het een totaalbeeld geeft van het 
+systeem. Het functioneren van het veiligheidssysteem van 
+de overheid (regelgeving en kaders, toelating en toezicht en 
+reflectie), het veiligheidssysteem van de sectorpartijen 
+(inrichting (vlieg)operatie) en de onderlinge samenwerking 
+staat hierbij centraal. 
+Een samenhangend beeld betekent dat indicatoren op 
+elkaar zijn afgestemd en elkaar niet tegenspreken. De 
+systeemmonitor geeft inzicht in het functioneren van het 
+veiligheidssysteem. Dit geeft inzicht in de mogelijkheden 
+voor actoren binnen het luchtvaartsysteem om bij te dragen 
+aan de gewenste continue verdere verbetering van de 
+luchtvaartveiligheid. Indicatoren geven daar waar mogelijk 
+informatie over de laatste 5 kalenderjaren (periode 
+2016-2020), zodat inzicht ontstaat in de trends.
+8
+ De laatste editie is op 9 maart 2021 aan de Tweede Kamer 
+aangeboden (Kamerstukken II, 29 665 nr. 404)
+Systeemmonitor luchtvaartveiligheid | 9
+
+3 Functioneren 
+veiligheidssysteem 2021 
+3.1 Indicatoren systeemmonitor 3.2 Regelgeving en kaders
+Zoals toegelicht in hoofdstuk 2 is de systeemmonitor Door het internationale karakter van de luchtvaart komt 
+verdeeld in vier onderdelen. De indicatoren per onderdeel bijna alle regelgeving voor luchtvaartveiligheid in internati-
+zijn weergegeven in de onderstaande tabel. In dit hoofdstuk onaal verband tot stand. Het Koninkrijk der Nederlanden 
+is de stand van zaken per indicator beschreven. De beant- heeft als ICAO-verdragsstaat de verplichting om de 
+woording van de vragen voor elk van de onderdelen geeft standaarden opgenomen in de bijlagen bij het Verdrag van 
+inzicht in het functioneren op 1 januari 2021. In bijlage B is Chicago te implementeren (zie bijlagen C). Naast de 
+voor elke indicator een factsheet opgenomen met verdere standaarden geeft ICAO ook aanbevelingen. Nederland 
+details. implementeert in beginsel zowel de standaarden als de 
+aanbevelingen. 
+Overzicht indicatoren
+Verdragsstaten houden zelf de compliance bij in een door 
+9
+Regelgeving en kaders
+ICAO ontwikkeld systeem. Hierbij moeten de lidstaten 
+1. Reactiepercentage ICAO wijzigingsvoorstellen aangeven of er verschillen zijn met de standaarden en 
+aanbevelingen. In het ICAO-systeem legt Nederland voor 
+2. Reactiepercentage EASA wijzigingsvoorstellen
+alle standaarden en aanbevelingen vast hoe deze in de 
+3. Implementatiestatus ICAO Annexen
+wetgeving zijn geïmplementeerd. 
+4. Implementatiestatus wetgeving
+5. Implementatiestatus luchtvaartsysteem en rollen
+ICAO verplicht verdragsstaten tot het opzetten van een 
+6. Nederlands actieplan voor luchtvaartveiligheid 
+nationaal luchtvaartveiligheidsprogramma. Hoe de 
+veiligheid van de burgerluchtvaart binnen Nederland is 
+geborgd in samenhang tussen beleid, toezicht en de 
+Toelating en toezicht
+luchtvaartorganisaties is beschreven in het Nederlands 
+7. Implementatiestatus toelating Luchtvaartveiligheidsprogramma (NLVP). De huidige editie 
+heeft betrekking op de periode 2020-2024. 
+8. Implementatiestatus toezicht
+9. Capaciteit vergunningverlening en toezicht luchtvaart
+In deze systeemmonitor zijn met betrekking tot de situatie 
+10. Inspecties buitenlandse luchtvaartmaatschappijen
+op 1 januari 2021 de volgende vragen beantwoord over 
+ regelgeving en kaders:
+Inrichting (vlieg)operatie
+• Hoe adequaat draagt Nederland bij aan het actueel maken 
+11. Bevindingen van ILT en houden van de internationale standaarden en 
+aanbevelingen?
+12. Evaluatie ISMS
+• In welke mate zijn de internationale kaders aantoonbaar 
+13. ISMS risico’s (top 5 vlieg- en grondoperatie) 
+effectief geïmplementeerd?
+14. Evaluatie Roadmap veiligheidsverbetering Schiphol
+• Hoe adequaat is het nationale luchtvaartsysteem met 
+bijbehorende functies en bevoegdheden ingericht?
+Reflectie
+• Hoe geeft IenW uitvoering aan het Nederlands 
+15. Implementatiestatus ongevallenonderzoek Luchtvaartveiligheidsprogramma?
+16. Evaluatie ABL
+17. Implementatiestatus oplossen veiligheidsproblemen
+18. Opvolging OVV-aanbevelingen 
+9
+ Het Electronic Filing of Differences (EFOD) systeem
+Systeemmonitor luchtvaartveiligheid | 11
+
+Indicator 3: implementatiestatus ICAO Annexen Indicator 4: implementatiestatus wetgeving
+In het algemeen moet gestreefd worden naar een zo groot Uit onderstaand staafdiagram blijkt dat 98 procent van de 
+mogelijk percentage ‘no difference’ (ICAO standaarden en kritische elementen met betrekking tot de primaire 
+aanbevelingen zijn doorgevoerd zoals beschreven) en ‘more luchtvaartwetgeving en de specifieke operationele regelge -
+exacting or exceeding’ (de Nederlandse regels gaan verder ving aantoonbaar effectief waren geïmplementeerd op 1 
+12
+dan wat ICAO vraagt). Daarnaast is een deel voor Nederland januari 2021.
+niet van toepassing of is de compliance op een andere 
+manier aangetoond. Dit is in de figuur weergegeven door 
+100
+middel van de blauw gekleurde vlakken. Op 1 januari 2021 
+80
+betrof dit 83 procent van de standaarden en aanbevelingen
+60
+De rood gekleurde vlakken 'less protective or partilally 
+implemented or not implemented', 'not yet identified' en
+40
+'incomplete' zijn de aandachtsgebieden. De geldende wet- 
+20
+en regelgeving in Nederland is minder stringent dan de 
+ICAO eisen, gedeeltelijk of niet aantoonbaar geïmplemen-
+0
+teerd, nog niet geïdentificeerd of implementatie noodzake -
+lijk is, of incompleet. Uit onderstaand cirkeldiagram blijkt 
+effectief geïmplementeerd
+dat op 1 januari 2021 17 procent van de standaarden en 
+niet geïmplementeerd
+11
+aanbevelingen zich in het aandachtsgebied bevindt. Dit 
+betreft onder andere de implementatie van Annex 16 
+(volume IV) in de Europese regelgeving die momenteel door Uit indicator 3 blijkt dat een verdere versterken van het 
+EASA wordt voorbereid. In bijlage D is de implementatiesta- luchtvaartsysteem mogelijk is door de implementatie van de 
+tus per Annex weergegeven.  internationale standaarden en aanbevelingen volledig aan 
+te tonen. Hierbij is Nederland mede afhankelijk van EASA. 
+Uit indicator 4 blijkt dat Nederland de internationale kaders 
+Not yet identied Incomplete
+voor de van wet- en regelgeving nagenoeg volledig heeft 
+Less protective or 
+partially implemented 
+geïmplementeerd. Dit is de basis voor een goed functione-
+or not implemented
+rende luchtvaartautoriteit. 
+Hoe adequaat is het nationale luchtvaartsysteem met bijbehorende 
+Not applicable
+functies en bevoegdheden ingericht?
+Dierent in character 
+De indicator 5 ‘implementatiestatus luchtvaartsysteem en 
+or other means of 
+rollen’ ondersteunt de beantwoording van deze vraag. 
+compliance
+Binnen de Nederlandse burgerluchtvaart hebben verschil-
+More exacting or No dierence
+lende organisaties een rol en verantwoordelijkheid. Deze 
+exceeding
+indicator heeft betrekking op het aantoonbaar beleggen 
+van de rollen en verantwoordelijkheden van de luchtvaart-
+13
+autoriteit. ILT is een belangrijke organisatie binnen dit 
+systeem en verantwoordelijk voor het verrichten van 
+toelatings- en handhavingstaken voor de burgerluchtvaart 
+en voor de analyse van luchtvaartvoorvallen.  
+12
+ Dit is exclusief de implementatie van de wetgeving met betrekking 
+11
+ In het figuur is het resultaat weergeven voor alle annexen 
+tot het onderzoek naar ongevallen door de OVV. Dit is in beeld 
+gecombineerd inclusief Annex 16 (Environmental protection), 
+gebracht onder indicator 15.
+13
+maar exclusief Annex 17 (Security and safeguarding). 
+ Dit betreft het ICAO kritische element 3. Zie bijlage A voor een 
+Internationaal is afgesproken om niet over Annex 17 te publiceren.
+beschrijving van de ICAO kritische elementen.
+Systeemmonitor luchtvaartveiligheid | 13
+percentage
+
+3.3 Toelating en toezicht Uit indicator 7 blijkt dat de kritische elementen uit 
+internationale kaders voor de organisatie van de toela-
+Het voldoen aan de wet- en regelgeving is een belangrijke tingstaken bij ILT bijna volledig waren geïmplementeerd. 
+randvoorwaarde om een acceptabel niveau van veiligheid te Een verdere verbetering is mogelijk. Dit betreft in het 
+realiseren. De vergunningverlening en daarmee de toelating bijzonder de toelating van de luchtverkeersdienstverlening 
+tot de luchtvaartmarkt van individuen en organisaties vindt in Caribisch Nederland. 
+alleen plaats als aantoonbaar aan alle voorgeschreven 
+veiligheidseisen is voldaan. Dit betekent voor een lucht- Hoe adequaat is het toezicht ingericht?
+vaartorganisatie dat alle veiligheidseisen moeten zijn Implementatie van de ICAO-kaders voor het toezicht zijn 
+geïmplementeerd in de bedrijfsprocessen. van belang voor het adequaat uitvoeren van deze taken door 
+Het toezicht van ILT is er op gericht om te borgen dat ILT. Indicator 8 ‘implementatiestatus toezicht’ is gebaseerd 
+luchtvaartorganisaties de wet- en regelgeving in de praktijk op de kritische elementen binnen de internationale kaders 
+20, 21
+blijven naleven. ILT kan buitenlandse luchtvaartmaatschap- voor het toezicht. Indicator 9 ‘capaciteit vergunningver-
+pijen die op Nederlands grondgebied landen inspecteren op lening en toezicht luchtvaart’ heeft betrekking op het aantal 
+basis van een door de EU voorgeschreven programma (EU fte dat voor de uitvoering van vergunningverlening en 
+18 22
+ramp inspection programme ). toezicht beschikbaar is.
+In deze systeemmonitor zijn met betrekking tot toelating en 
+toezicht de volgende vragen beantwoord: Indicator 8: implementatiestatus toezicht
+• Hoe adequaat is de toelating ingericht? Uit het onderstaande staafdiagram blijkt dat op 1 januari 
+• Hoe adequaat is het toezicht ingericht? 2021 gemiddeld 72 procent van de kritische elementen met 
+• Hoe adequaat is het toezicht door toezichthouders uit betrekking tot het toezicht aantoonbaar waren geïmple-
+andere lidstaten? menteerd. Voor het kritische element ‘kwalificaties van 
+technisch personeel’ is de effectieve implementatie 59 
+Hoe adequaat is de toelating ingericht? procent. Voor het kritische element ‘de technische 
+De implementatie van de ICAO-kaders met betrekking tot leidraden, tools en verstrekking van veiligheidsinformatie’ 
+toelating is van belang voor een adequate uitvoering van de is de implementatie 79%. Voor het kritische element 
+toelatingstaken door ILT. Indicator 7 heeft betrekking op ‘toezichtstaken’ is de effectieve implementatie 73%. 
+mate waarin de kritische elementen van de internationale 
+19
+kaders met betrekking tot toelating aantoonbaar zijn 
+100
+geïmplementeerd. Deze taken worden deels uitgevoerd 
+80
+door gemandateerde organisaties, waaronder Kiwa.
+ 
+60
+Indicator 7: implementatiestatus toelating
+Uit onderstaand staafdiagram blijkt dat op 1 januari 2021 
+40
+bijna 90 procent van de internationale kaders met betrek-
+20
+king tot toelating aantoobaar effectief waren 
+geïmplementeerd. 
+0
+effectief geïmplementeerd
+100
+niet geïmplementeerd
+80
+60
+40
+20
+0
+effectief geïmplementeerd
+20
+ Dit betreft de ICAO kritische elementen 4, 5 en 7. Zie bijlage A voor 
+niet geïmplementeerd
+een beschrijving van de ICAO kritische elementen.
+21
+ Dit is exclusief de implementatie van deze kritische elementen 
+met betrekking tot het onderzoek naar ongevallen door de OVV. 
+18
+ Voorheen Safety Assessment Foreign Aircraft (SAFA) Dit is in beeld gebracht onder indicator 15.
+19 22
+ Dit betreft het ICAO kritische element 6. Zie bijlage A voor een  Dit is inclusief dat capaciteit bij organisaties (zoals Kiwa) die taken 
+beschrijving van de ICAO kritische elementen. in mandaat uitvoeren.
+Systeemmonitor luchtvaartveiligheid | 15
+percentage
+percentage
+
+3.4 Inrichting (vlieg)operatie Indicator 11: bevindingen van ILT
+Uit onderstaande tabel blijkt dat in 2020 bij de inspecties op 
+Een van de voorwaarden voor een goed functionerend onderhoudsbedrijven, luchtvaartmaatschappijen en 
+luchtvaartveiligheidssysteem is naleving van de wet- en luchthavens het grootste aantal bevindingen per vergun-
+regelgeving door luchtvaartorganisaties. Onderdeel hiervan ninghouder zijn gedaan. Daarnaast valt op dat het aantal 
+is dat luchtvaartorganisaties een veiligheidsmanagementsy- bevindingen per vergunninghouder voor de domeinen 
+steem voor de borging van de veiligheid implementeren. ‘luchtverkeersleiding’ en ‘medisch’ relatief laag is. Ook valt 
+Een veiligheidsmanagementsysteem heeft tot doel om op dat het gemiddeld aantal inspecties per vergunninghou-
+binnen de luchtvaartorganisatie op een systematische der voor de domeinen ‘vluchtsimulatoren’ en ‘medisch’ 
+werkwijze risico’s te identificeren en deze met maatregelen relatief laag was in 2020.
+te beheersen tot een acceptabel niveau. In aanvulling 
+Domein
+hierop hebben de luchtvaartorganisaties op Schiphol een Aantal bevindingen Gemiddeld aantal
+(niveau1+2) per inspecties per
+integraal veiligheidsmanagementsysteem (ISMS) ontwik-
+vergunninghouder vergunninghouder 
+keld. Het ISMS identificeert de risico’s op de interfaces 
+in 2020 in 2020
+tussen de verschillende organisaties en stelt verbetermaat-
+ Luchthavens (ADR) 0,71 1,29
+regelen op. Deze zijn opgenomen in de Roadmap veilig-
+24
+heidsverbetering Schiphol. ILT beoordeelt het functione-
+ Onderhoudsbedrijven (AIR)                                                   1,61 0,93
+ren van het ISMS en rapporteert hierover in de Staat van 
+ Luchtverkeersleiding (ANS)                                                  0,00 1,00
+Schiphol.
+ Opleidingsinstellingen  
+0,29 1,01
+ piloten (FCL)                                        
+In deze systeemmonitor zijn met betrekking tot de situatie 
+ Vluchtsimulatoren (FSTD) 0,08 0,05
+op 1 januari 2021 de volgende vragen beantwoord over de 
+ Medisch (MED) 0,03 0,20
+inrichting van de (vlieg)operatie:
+ Luchtvaartmaatschappijen
+• Hoe adequaat is de naleving van de wet- en regelgeving 0,84 0,92
+ (OPS)
+door de luchtvaartorganisaties?
+• In hoeverre is integraal risicomanagement werkzaam op 
+Schiphol? Vanwege COVID-19 zijn in 2020 minder inspecties uitge-
+• Wat zijn de belangrijkste risico’s op de interfaces op voerd dan in een regulier jaar. Gebaseerd op het aantal 
+Schiphol en hoe adequaat worden deze risico’s beheerst? bevindingen per vergunninghouder in 2020 kan geconclu-
+De laatste twee vragen zijn beantwoord met een focus op de deerd dat de aangetoonde naleving binnen de diverse 
+luchthaven Schiphol. Bij de doorontwikkeling van de domeinen sterk verschilt. Naar mate informatie over 
+systeemmonitor wordt bezien of deze vragen ook voor meerdere jaren beschikbaar komt, kan de vraag of lucht-
+andere luchthavens van nationaal belang kunnen worden vaartorganisaties zich aan de regels houden met meer 
+beantwoord. betekenis beantwoord worden. 
+Hoe adequaat is de naleving van de wet- en regelgeving door de In hoeverre is het integraal risicomanagement werkzaam op Schiphol?
+luchtvaartorganisaties? Om te beoordelen of het integraal risicomanagement van 
+Het aantal bevindingen bij inspecties uitgevoerd door ILT is de sectorpartijen op Schiphol werkzaam is, is gekeken naar 
+een indicator voor de mate van naleving van de wet- en het ISMS. De sectorpartijen laten, zoals vastgelegd in het 
+25
+regelgeving door luchtvaartorganisaties. Indicator 11 betreft Convenant Veiligheidsverbetering Schiphol , jaarlijks een 
+het aantal niveau 1 en niveau 2 bevindingen gedeeld door evaluatie uitvoeren door (internationale) externe veilig-
+het aantal vergunninghouders per domein. Een niveau heidsdeskundigen naar de ontwikkeling en het functione-
+1-bevinding is elke belangrijke tekortkoming van deelvereis- ren van het ISMS. De eerste externe evaluatie is in 2019 
+26 27
+ten die de veiligheidsnorm verlaagt en een ernstig gevaar uitgevoerd . In 2020 is een tweede evaluatie uitgevoerd. 
+oplevert voor de vliegveiligheid. Een niveau 2-bevinding is De indicator is gebaseerd op de resultaten van deze 
+elke belangrijke tekortkoming van deelvereisten die de evaluaties.
+veiligheidsnorm zou kunnen verlagen en mogelijkerwijs  
+een gevaar oplevert voor de vliegveiligheid. Het aantal 
+bevindingen dat ILT per inspectie doet is overigens niet 
+25
+alleen afhankelijk van de naleving door de vergunningshou - Staatscourant 2018, 38844
+26
+ Baines Simmons. (2019). Safety Management Performance 
+ders, maar ook van de afbakening en de kwaliteit van de 
+Assessment 2019, ISMS Final Report. Zie Kamerstukken II,  296 65 
+uitgevoerde inspecties. 
+nr. 373 
+27
+ Zie https://integralsafetyschiphol.com/download.php?q=integr -
+alsafetyschiphol.com/wp-content/uploads/2020/12/ISMS-
+24
+ https://integralsafetyschiphol.nl/ Performance-Assessment-2020-Final-Report.pdf
+Systeemmonitor luchtvaartveiligheid | 17
+
+Indicator 12: evaluatie ISMS In het Convenant veiligheidsverbetering Schiphol is 
+Onderstaand staafdiagram toont de resultaten van de in afgesproken dat de luchtvaartsector een roadmap opstelt 
+2019 en 2020 uitgevoerde externe evaluaties naar het met de maatregelen die de sector neemt om de integrale 
+functioneren van het ISMS. De mogelijke scores lopen veiligheid op Schiphol te verbeteren. Het ISMS publiceert 
+uiteen van ‘present’ tot ‘effective’. In 2020 gaf Baines een samenvatting van deze roadmap op een website 
+Simmons het ISMS voor alle onderzochte aandachtsgebie- (indicator 14). De ILT monitort in het kader van het 
+den de score ‘operating’ of hoger. Dit is hoger dan het toezichtprogramma Schiphol de opzet, uitvoering en 
+31
+gemiddelde van de 31 door Baines Simmons uitgevoerde voortgang van deze roadmap . 
+(internationale) onderzoeken naar veiligheidssystemen in  
+28
+de afgelopen vier jaar. Uit het onderstaand figuur blijkt Indicator 13: ISMS risico’s (top 5 vlieg- en grondoperatie) 
+tevens dat de scores voor 2020 hoger liggen dan de scores Onderstaande opsommingen geven de top 5 interface 
+voor 2019. risico’s die in 2019 door ISMS zijn vastgesteld voor de 
+vlieg- en de grondoperatie. In 2020 is de top 5 ongewijzigd 
+gebleven.
+Safety Policy
+& Objectives
+Vliegoperatie
+Safety Risk 1. Loss of control during take-off 
+Management
+2.  Loss of control during flare, touchdown, landing or roll 
+out 
+Safety
+Assurance 3.  Loss of separation in flight between aircraft under Air 
+Traffic Control  
+Safety
+4. Bird strike 
+Promotion
+5. Runway Incursion
+Additional
+Grondoperatie
+1. Damage caused to an aircraft during ground handling
+Present Suitable Operating Eective
+2.  Damage and injuries due to collisions on service roads 
+2019 2020
+and stands
+3. Injuries due to falls from height at an aircraft stand
+Op basis van indicator 12 kan geconcludeerd worden dat het 4. Damage and injuries caused during docking of aircraft
+integraal risicomanagement op Schiphol werkzaam is. Op 5.  Injuries due to slips, trips, entrapment or electrocution at 
+enkele kenmerken heeft het ISMS in 2020 zelfs een leidende an aircraft stand
+positie in de luchtvaartsector. Daarnaast blijkt dat het 
+integraal risicomanagement zich positief heeft ontwikkeld. 
+Dit sluit aan op de constatering van ILT dat het ISMS als 
+veiligheidsmanagementsysteem in grote lijnen qua aanpak 
+29
+en in opzet naar behoren is vormgegeven.
+Wat zijn de belangrijkste risico’s op de interfaces op Schiphol en hoe 
+adequaat worden deze risico’s beheerst?
+Ter ondersteuning van de beantwoording van deze vraag 
+zijn twee indicatoren opgenomen in de systeemmonitor. In 
+het kader van het ISMS voeren luchtvaartorganisaties op 
+Schiphol gezamenlijke risicoanalyses uit op de vliegoperatie 
+en op de grondoperatie en stellen voor beide operaties een 
+30
+top 5 vast (indicator 13).
+28
+ Deze onderzoeken zijn gebaseerd op de EASA Management 
+System Assessment Tool (MSAT).
+29
+ Kamerstukken II, 29 665 nr. 404 
+30 31
+ Kamerstukken II, 29 665 nr. 373 Kamerstukken II, 29 665 nr. 347
+Systeemmonitor luchtvaartveiligheid | 19
+
+Indicator 15: implementatiestatus ongevallenonderzoek Hoe adequaat is de organisatie ingericht die de analyses naar 
+Uit onderstaande staafdiagram blijkt dat op 1 januari 2021 voorvallen uitvoert?
+gemiddeld 71 procent van de kritische elementen van de Om te beoordelen of ABL adequaat is ingericht om de 
+internationale kaders met betrekking tot het ongevallenon- analyses naar voorvallen uit te voeren, is in deze systeem-
+derzoek aantoonbaar effectief waren geïmplementeerd. monitor de indicator ‘evaluatie ABL’ opgenomen (indicator 
+Voor het kritische element ‘primaire luchtvaartwetgeving’ 16). In het Convenant veiligheidsverbetering Schiphol is 
+was de effectieve implementatie 100 procent, voor het afgesproken om jaarlijks een evaluatie naar het functione-
+element ‘specifieke operationele regelgeving’ was de ren van het ABL te laten uitvoeren door externe deskundi-
+34 35
+implementatie 82 procent, voor het element ‘luchtvaartsy- gen. In 2019 en in 2020 hebben deze evaluaties 
+steem en rollen’ was de implementatie 83 procent, voor het plaatsgevonden. 
+element ‘kwalificaties van het technisch personeel’ was de 
+implementatie 14 procent, voor het element ‘oplossen van Indicator 16: evaluatie ABL
+veiligheidsissues’ was de implementatie 56 procent en voor Onderstaand staafdiagram toont de resultaten van de in 
+het element ‘technische leidraden, tools en verstrekking van 2019 en 2020 uitgevoerde evaluaties naar het functioneren 
+veiligheidsinformatie’ was de implementatie 71 procent. van het ABL. De mogelijke scores lopen uiteen van ‘present’ 
+tot ‘effective’. In 2020 beoordeelde Baines Simmons dat het 
+ABL op vijf aandachtsgebieden gemiddeld ‘low suitable’ 
+100
+scoort. Dit is lager dan het gemiddelde van de 31 door 
+80
+Baines Simmons uitgevoerde (internationale) onderzoeken 
+naar veiligheidssystemen in de afgelopen vier jaar. 
+60
+40
+Safety Policy
+& Objectives
+20
+Safety Risk
+0 Management
+effectief geïmplementeerd
+Safety
+Assurance
+niet geïmplementeerd
+Safety
+Promotion
+Uit indicator 15 blijkt dat de kritische elementen niet 
+volledig waren geïmplementeerd. Een verbetering van de 
+Additional
+aantoonbare effectieve implementatie van de internatio -
+nale kaders draagt bij aan een effectievere uitvoering van de 
+Present Suitable Operating Eective
+onderzoekstaken van de OVV voor de luchtvaart en verbetert 
+2019 2020
+daarmee het functioneren van het veiligheidssysteem. Dit 
+geldt in het bijzonder voor de kwalificaties van het 
+technisch personeel van de OVV en voor de bijdrage van de Uit indicator 16 blijkt dat het functioneren van ABL ten 
+OVV aan het oplossen van veiligheidsissues. De openstaan- aanzien van de analyses naar voorvallen nog sterk verbeterd 
+de punten voor bovenstaande kritische elementen betreffen kan worden. De analyse van Baines Simmons biedt hiervoor 
+met name de beschrijving en gerelateerde procedures met aanknopingspunten.
+betrekking tot een trainings- en opleidingsprogramma van 
+onderzoekers, handleidingen voor het doen en opvolgen In hoeverre leiden de uit onderzoek en analyse verkregen lessen tot een 
+van aanbevelingen specifiek in het luchtvaartdomein en verbetering van het veiligheidsniveau? 
+procedures van onderzoeksuitrustingen, -materialen en Voor het oplossen van geïdentificeerde veiligheidsproble -
+beschermingsmiddelen. men uit voorvallenanalyses of inspecties zijn processen en 
+procedures nodig. Ter ondersteuning van het beantwoorden 
+van de vraag of lessen tot verbeteringen van het veiligheids-
+systeem leiden, zijn twee indicatoren opgenomen in de 
+systeemmonitor. 
+34
+ Kamerstukken II, 29 665 nr. 373
+35
+ https://www.ilent.nl/onderwerpen/voorvallen-luchtvaart/
+documenten/publicaties/2021/03/18/
+abl-performance-assessment-report-2020.
+Systeemmonitor luchtvaartveiligheid | 21
+percentage
+
+Indicator 18: Opvolging OVV-aanbevelingen Uit indicator 17 blijkt dat het kritische element uit de 
+36
+In het rapport van de Kwink groep is de effectiviteit internationale kaders met betrekking het oplossen van 
+beoordeeld van de maatregelen die zijn genomen naar veiligheidsproblemen niet volledig was geïmplementeerd. 
+aanleiding van de OVV-aanbevelingen in het rapport De ruimte voor verbetering zit met name op het domein 
+Veiligheid Vliegverkeer Schiphol. De aanbevelingen zijn luchthavens. 
+gericht aan sectorpartijen en aan het ministerie IenW. 
+Op basis van indicator 18 kan geconcludeerd worden dat het 
+Uit onderstaande tabel blijkt dat op 1 januari 2021 17 (deel) onderzoek van de OVV voor een verbetering van het 
+aanbevelingen uit het OVV-rapport adequaat en 7 aanbeve- veiligheidsniveau heeft gezorgd. Volgens Kwink groep is het 
+lingen deels adequaat waren opgevolgd. aannemelijk dat de maatregelen effectief zijn om de 
+veiligheidsrisico’s te verminderen, de zorgen met betrek-
+king tot de samenwerking op het gebied van veiligheid weg 
+Aanbeveling             Effectiviteit van maatregelen
+te nemen en om de rol van de minister te versterken. 
+ 1 Adequaat
+ 1a                                                  Adequaat
+ 1b                                                     Deels adequaat
+ 2a                                               Adequaat
+ 2a                                               Adequaat
+ 2c                                                  Adequaat
+ 2d                                               Deels adequaat
+ 3                                                 Adequaat      /      Deels adequaat
+ 4                                                  Adequaat
+ 5a                                                  Adequaat
+ 5b                                                 Adequaat
+ 6                                                 Adequaat
+ 7                                                 Deels adequaat
+ 7a                                                  Adequaat
+ 7b                                                 Adequaat
+ 7c                                                  Adequaat
+ 7d                                                Deels adequaat
+ 7e                                                 Deels adequaat
+ 7f                                                  Deels adequaat
+ 7g                                               Adequaat
+ 7h                                                Adequaat
+ 7i                                                Adequaat
+ 8                                                Adequaat
+Zie bijlage D voor een nadere toelichting op de conclusies 
+uit het rapport van Kwink.
+36 
+Kamerstukken II, 29 665 nr. 384
+Systeemmonitor luchtvaartveiligheid | 23
+
+4 Conclusies 
+4.1 Algemene conclusies Het is aan de verantwoordelijke actoren van de systeemon-
+derdelen om een nadere analyse uit te voeren naar de 
+De minister van IenW is eindverantwoordelijk voor het mogelijke verbetermaatregelen en deze te implementeren. 
+functioneren van het veiligheidssysteem en heeft daarbin - De jaarlijkse actualisatie zal meer inzicht geven in de trends 
+nen een regierol. Deze systeemmonitor draagt bij aan de met betrekking tot het functioneren van het veiligheidssy-
+versterking van deze regierol. De voorliggende monitor is steem. De ambitie daarbij is om een continue aantoonbare 
+internationaal gezien uniek en vooruitstrevend. Deze eerste verbetering te laten zien. Op basis van de eerste ervaringen 
+publicatie geeft expliciet en transparant inzicht in hoe het bij het realiseren en toepassen van dit instrument ontwik-
+veiligheidssysteem functioneerde op 1 januari 2021. Deze kelt IenW de systeemmonitor de komende jaren verder.
+informatie draagt bij aan het realiseren van het nationale 
+veiligheidsdoel uit het Nederlands luchtvaartveiligheidspro- De conclusies per onderdeel van het luchtvaartsysteem zijn 
+gramma: het continu verbeteren van luchtvaartveiligheid opgenomen in de volgende paragrafen.
+door het kennen van de grootste nationale risico’s en deze 
+te beheersen tot een acceptabel niveau. Een belangrijke 
+voorwaarde daarbij is het actueel houden en naleven van 4.2 Conclusies regelgeving en kaders
+alle internationale kaders. 
+Uit de beantwoording van vragen in deze systeemmonitor 
+De aanname is dat een goed functionerend veiligheidssy- blijkt ten eerste dat Nederland actiever kan bijdragen aan de 
+steem bijdraagt aan het in stand houden en verder verhogen totstandkoming van internationale standaarden en 
+van het veiligheidsniveau. Tegelijkertijd is het niet zo dat de aanbevelingen in ICAO-verband. Hoewel EASA deze taak 
+operationele luchtvaartveiligheid direct bepaald wordt door grotendeels voor haar rekening neemt, verbetert een hoger 
+de prestatie van één indicator. In werkelijkheid betreft het reactiepercentage op ICAO-wijzigingsvoorstellen de 
+een complex systeem met veel veiligheidswaarborgen. Een Nederlandse betrokkenheid bij de totstandkoming van de 
+goed functionerend veiligheidssysteem draagt bij aan de internationale kaders. Nederland heeft, binnen de ruimte 
+ambitie internationaal goed te presteren en een hoog die de EU daarvoor biedt, een adequate bijdrage geleverd 
+veiligheidsniveau te waarborgen. aan de totstandkoming van de Europese regelgeving. 
+De systeemmonitor geeft inzicht in de gebieden waar Ten tweede blijkt dat Nederland de internationale kaders 
+ruimte is voor een verdere versterking van het voor de van wet- en regelgeving nagenoeg volledig heeft 
+luchtvaartsysteem. Deze hebben in het bijzonder betrekking geïmplementeerd. Dit is de basis voor een goed functione-
+op de volgende thema’s: rende luchtvaartautoriteit. Een verdere versterking van het 
+• het adequaat bijdragen aan de ontwikkeling van de luchtvaartsysteem is mogelijk door de implementatie van de 
+internationale kaders en het aantoonbaar effectief internationale standaarden en aanbevelingen volledig aan 
+implementeren van deze kaders door IenW; te tonen. 
+• het adequaat invullen van de rollen en 
+verantwoordelijkheden van ILT, het effectief uitvoeren Ten derde blijkt dat verbetering mogelijk is bij het beleggen 
+van het toezicht op de sector, het uitvoeren van analyses van de functies en bevoegdheden van de luchtvaartautori-
+van voorvallen en het oplossen van veiligheidsproblemen teit en in het bijzonder de invulling van de rollen en 
+conform de internationale vereisten; verantwoordelijkheden ten aanzien van het toezicht op de 
+• het beheersen van de integrale veiligheidsrisico’s op luchtverkeersleiding en de luchtvaartmaatschappijen. 
+Schiphol door de sector en, 
+• de aantoonbare effectieve implementatie van de Tot slot blijkt dat IenW middels een actieplan uitvoering 
+internationale kaders voor het onderzoek naar heeft gegeven aan de tweede editie van het Nederlands 
+luchtvaartongevallen door de Onderzoeksraad voor luchtvaartveiligheidsprogramma, zoals gepubliceerd in 
+Veiligheid. 2018.
+Systeemmonitor luchtvaartveiligheid | 25
+
+ Bijlagen
+Systeemmonitor luchtvaartveiligheid | 27
+
+Bijlage B: Indicator factsheets
+Indicator 1. Reactiepercentage ICAO wijzigingsvoorstellen
+Onderdeel Regelgeving en kaders
+Definitie Jaarlijks percentage via State Letters door ICAO gepubliceerde wijzigingsvoorstellen waarop binnen de 
+gestelde termijn via State letter responses is gereageerd.
+Duiding ICAO publiceert via State letters voorstellen voor aanpassing van SARPS. Lidstaten kunnen hierop binnen een 
+bepaalde termijn via State letter responses reageren. In de response geeft een lidstaat aan, eventueel met 
+toelichting, of ze wel of niet overeenstemt met de wijziging. Een hoog percentage van binnen de termijn 
+uitgebrachte State letter responses geeft aan dat de lidstaat bijdraagt aan het adequaat maken en houden 
+van internationale regelgeving.
+Meetmethode Voor elk kalenderjaar wordt het aantal via State letters gepubliceerde wijzigingsvoorstellen geteld, en het 
+aantal waarop binnen de gestelde termijn wordt gereageerd.  
+Eenheid Percentage
+Databron IenW
+Updatefrequentie Eens per kalenderjaar
+Scope Nationaal
+Indicator 2. Reactiepercentage EASA wijzigingsvoorstellen
+Onderdeel Regelgeving en kaders
+Definitie Jaarlijks percentage als Notice of Proposed Amendment (NPA) door EASA gepubliceerde wijzigingsvoorstellen 
+waarop binnen de gestelde termijn via comment response documents is gereageerd.
+Duiding EASA publiceert voorstellen tot wijzing van regelgeving als NPA. Lidstaten kunnen hierop binnen een 
+bepaalde termijn via het Comment Response Tool (CRT) commentaar (comment response documents) 
+inbrengen. Een hoog percentage van binnen de termijn uitgebrachte comment response documents geeft aan 
+dat de lidstaat bijdraagt aan het adequaat maken en houden van nationale en internationale regelgeving.
+Meetmethode Voor elk kalenderjaar wordt het aantal via NPAs gepubliceerde wijzigingsvoorstellen geteld, en het aantal 
+waarop binnen de gestelde termijn wordt gereageerd. Het gaat hierbij om de inbreng van IenW. Ook door de 
+industrie kan op NPAs worden gereageerd, maar die reacties worden niet meegeteld. 
+Eenheid Percentage
+Databron IenW
+Scope Nationaal
+Systeemmonitor luchtvaartveiligheid | 29
+
+Indicator 5. Implementatiestatus luchtvaartsysteem en rollen
+Onderdeel Regelgeving en kaders
+Definitie Effective Implementation (EI) percentage van CE-3 State civil aviation system and safety oversight functions 
+zoals vastgelegd in het CMA-systeem. 
+Duiding De implementatiestatus geeft aan in hoeverre er een Nationale Luchtvaartautoriteit en/of andere overheids -
+organen is/zijn opgericht met passende en adequate medewerkers en voorzien van voldoende financiële 
+middelen. Ten behoeve van de veiligheid is een zo hoog mogelijke implementatiestatus wenselijk.
+Meetmethode De implementatiestatus wordt vastgesteld aan de hand van door ICAO opgestelde Protocol Questions (PQs). 
+Door middel van een self assessment worden de PQs beoordeeld en wordt het EI percentage per CE bepaald.
+Eenheid Percentage effective implementation (EI), gebaseerd op self-assessment.
+Databron ILT
+Scope Nationaal
+Indicator 6. Nederlands actieplan voor luchtvaartveiligheid
+Onderdeel Regelgeving en kaders
+Definitie Status van elk van de acties uit het in het kader van het Nederlands Luchtvaartveiligheidsprogramma (NLVP) 
+opgestelde Actieplan; het Dutch Plan for Aviation Safety (DPAS). 
+Duiding De acties van het actieplan zijn gericht op het verbeteren van de luchtvaartveiligheid. Succesvol afronden van 
+de acties is logischerwijs wenselijk. Omdat het actieplan periodiek wordt vernieuwd is de actielijst niet 
+statisch. Om toch trends te kunnen identificeren worden voor de indicator per jaar percentages aangeven van 
+acties die succesvol zijn afgerond, nog open zijn, of onsuccesvol/onvolledig zijn afgerond. Voorgesteld wordt 
+om een statusoverzicht als bron voor deze indicator eens per jaar te actualiseren.
+Meetmethode Self assessment 
+Eenheid Statusbeschrijving in drie categorieën (open; succesvol afgerond; onsuccesvol/onvolledig afgerond)
+Databron IenW
+Scope Nationaal
+Indicator 7. Implementatiestatus toelating
+Onderdeel Toelating en toezicht
+Definitie Effective Implementation (EI) percentage van CE-6 Licensing, certification, authorisation and approval 
+obligations zoals vastgelegd in het CMA-systeem.
+Duiding De implementatiestatus geeft aan in hoeverre de processen en procedures zijn geïmplementeerd om te 
+verzekeren dat personeel en organisaties die luchtvaartgerelateerde activiteiten uitvoeren voldoen aan de 
+vastgestelde eisen voordat tot uitvoering van die activiteiten mag worden overgegaan. 
+Meetmethode De implementatiestatus wordt vastgesteld aan de hand van door ICAO opgestelde Protocol Questions (PQs). 
+Door middel van een self assessment worden de PQs beoordeeld en wordt het EI percentage per CE bepaald.
+Eenheid Percentage effective implementation (EI), gebaseerd op self-assessment
+Databron ILT
+Scope Nationaal
+Systeemmonitor luchtvaartveiligheid | 31
+
+Indicator 10. Inspecties buitenlandse luchtvaartmaatschappijen
+Onderdeel Toelating en toezicht
+Definitie Jaarlijks aantal categorie 2 (significant) en 3 (major) bevindingen bij uitgevoerde inspecties in het kader van 
+het EU platform inspectie programma, gedeeld door het aantal platform inspecties.
+Duiding Vanaf Schiphol vliegen niet alleen vliegtuigen van Nederlandse operators. Buitenlandse operators vallen 
+onder toezicht van het land van herkomst. ILT voert steekproefsgewijs inspecties uit op buitenlandse 
+vliegtuigen. Deze inspecties worden uitgevoerd in het kader van het Europees gecoördineerde EU platform 
+inspecties programma (Commission Regulation (EU) No 965/2012). Bij een geconstateerde ernstige 
+overtreding kan het betreffende vliegtuig aan de grond worden gehouden. Het gemiddelde aantal geconsta -
+teerde overtredingen per inspectie is een maat voor de effectiviteit van toezicht van buitenlandse toezicht -
+houders. 
+Meetmethode EU platform inspectie
+Eenheid Gemiddeld aantal categorie 2 en 3 bevindingen per inspectie per jaar
+Databron EASA
+Scope Nationaal
+Indicator 11. Bevindingen van ILT
+Onderdeel Inrichting (vlieg)operatie
+Definitie Jaarlijks aantal niveau 1 en niveau 2 bevindingen per vergunninghouder voor de domeinen (ADR, AIR, ANS, 
+FCL, FSTD, MED, OPS)
+Duiding Het gemiddelde aantal bevindingen per vergunninghouder per domein is indicatief voor de mate waarin 
+regels worden nageleefd, waarbij meer bevindingen duidt op slechtere naleving. Naleving van regels is de 
+basis voor veiligheid.  
+Meetmethode ILT inspecties. Het aantal niveau 1 en niveau 2 bevindingen wordt per kalanderjaar gedeeld door het aantal 
+vergunninghouders voor de domeinen ADR, AIR, ANS, FCL, FSTD, MED, OPS.
+Eenheid Aantal level 1 en level 2 bevindingen per organisatie per domein per kalenderjaar
+Databron ILT
+Scope Nationaal
+Indicator 12. Evaluatie ISMS
+Onderdeel Inrichting (vlieg)operatie
+Definitie Externe evaluatie naar de ontwikkeling en het functioneren van het ISMS
+Duiding Het ISMS is een systeem waarin de sectorpartijen op Schiphol gezamenlijk de veiligheidsrisico’s met 
+betrekking tot relaties en interacties tussen de afzonderlijke partijen, de zogenoemde interfaces, beheersen. 
+In het Convenant Veiligheidsverbetering Schiphol is afgesproken dat de sectorpartijen tijdens de ontwikkeling 
+van het ISMS jaarlijks een evaluatie laten uitvoeren naar de ontwikkeling en het functioneren van het ISMS. 
+Deze evaluatie wordt gedaan door (internationale) externe veiligheidsdeskundigen. De eerste externe 
+evaluatie is in 2019 uitgevoerd. 
+Meetmethode Externe evaluatie
+Eenheid Kwalitatieve beschrijving van het functioneren van het ISMS
+Databron ISMS
+Scope Schiphol
+Systeemmonitor luchtvaartveiligheid | 33
+
+Indicator 15. Implementatiestatus ongevallenonderzoek
+Onderdeel Reflectie
+Definitie Effective Implementation (EI) percentage van CMA auditgebied Accident and Incident Investigation (AIG) 
+Duiding De implementatiestatus geeft aan in hoeverre wordt voldaan aan ICAO eisen met betrekking tot ongevallen- 
+en incidentenonderzoek. Het gaat daarbij om personele bezetting, training, faciliteiten en apparatuur, het 
+uitvoeren van ongevallenonderzoek, samenwerking met andere landen, het opstellen van aanbevelingen, 
+rapportage en opslag van gegevens. Een hogere implementatiestatus leidt naar verwachting tot beter 
+onderzoek.
+Meetmethode De implementatiestatus wordt vastgesteld aan de hand van door ICAO opgestelde Protocol Questions (PQs). 
+Door middel van een self assessment worden de PQs beoordeeld en wordt het EI percentage per auditgebied 
+bepaald.
+Eenheid Percentage effective implementation (EI), gebaseerd op self assessment.
+Databron OVV
+Scope Nationaal
+Indicator 16. Evaluatie ABL
+Onderdeel Reflectie
+Definitie Externe evaluatie naar de ontwikkeling en het functioneren van het ABL.
+Duiding Het ABL heeft de taak alle gemelde voorvallen in de Nederlandse burgerluchtvaart te registreren en te 
+37
+analyseren . Het ABL is onderdeel van de ILT. Doel van het ABL is om, samen met de sector, vroegtijdig trends 
+te signaleren zodat betrokken partijen acties kunnen ondernemen om de vliegveiligheid te verbeteren. In het 
+Convenant Veiligheidsverbetering Schiphol is afgesproken dat de ILT tijdens de ontwikkeling van het ABL 
+jaarlijks een evaluatie laat uitvoeren naar de ontwikkeling en het functioneren van het ABL. Deze evaluatie 
+wordt gedaan door (internationale) externe veiligheidsdeskundigen. De eerste externe evaluatie is in 2019 
+uitgevoerd. 
+Meetmethode Externe evaluatie
+Eenheid Kwalitatieve beschrijving van het functioneren van het ABL
+Databron ILT
+Scope Nationaal
+36 
+Dit gebeurt op basis van verordening (EG) 376/2014 inzake het melden van voorvallen in de burgerluchtvaart
+Systeemmonitor luchtvaartveiligheid | 35
+
+Bijlage C: Overzicht ICAO Annexen
+Annex 1 – Personal licensing
+Annex 2 – Rules of the air
+Annex 3 – Meteorological services for international air navigation
+Annex 4 – Aeronautical charts
+Annex 5 – Units of measurement used in air
+Annex 6 – Operation of aircraft 
+Annex 7 – Aircraft nationality and registration marks
+Annex 8 – Airworthiness of aircraft
+Annex 9 – Facilitation
+Annex 10 – Aeronautical telecommunications 
+Annex 11 – Air traffic services
+Annex 12 – Search and rescue
+Annex 13 – Aircraft accident and incident investigation
+Annex 14 – Aerodromes 
+Annex 15 – Aeronautical Information services
+Annex 16 – Environmental protection 
+Annex 17 – Security & safeguarding
+Annex 18 – Transport of dangerous goods
+Annex 19 – Safety management
+Systeemmonitor luchtvaartveiligheid | 37
+
+Annex nr. Volume Titel
+Annex 1 Personnel Licensing
+Annex 2 Rules of the Air
+Annex 3 Meteorological Service for International Air Navigation
+Annex 4 Aeronautical Charts
+Annex 5 Units of Measurement to be used in Air and Ground Operations
+Annex 6 Operation of Aircraft
+Part I International Commercial Air Transport – Aeroplanes
+Part II International General Aviation – Aeroplanes
+Part III International Operations – Helicopters
+Annex 7 Aircraft Nationality and Registration Marks
+Annex 8 Airworthiness of Aircraft
+Annex 9 Facilitation
+Annex 10 Aeronautical Telecommunications
+Volume I Radio Navigation Aids
+Volume II Communication Procedures including those with PANS status
+Volume III Part I - Digital Data Communication Systems and Part II – Voice 
+Communication Systems
+Volume IV Surveillance Radar and Collision Avoidance Systems
+Volume V Aeronautical Radio Frequency Spectrum Utilization
+Annex 11 Air Traffic Services
+Annex 12 Search and Rescue
+Annex 13 Aircraft Accident Investigation
+Annex 14 Aerodromes
+Volume I Aerodrome Design and Operations
+Volume II Heliports
+Annex 15 Aeronautical Information Services
+Annex 16 Environmental Protection
+Volume I Aircraft Noise
+Volume II Aircraft Engine Emissions
+Volume III Aeroplane CO2 Emissions
+Volume IV Carbon Offsetting and Reduction Scheme for International Aviation 
+(CORSIA)
+Annex 18 The Safe Transport of Dangerous Goods by Air
+Annex 19 Safety Management
+Systeemmonitor luchtvaartveiligheid | 39
+
+Op 1 januari 2021 bevatte de roadmap de volgende 39 maatregelen.
+De actuele en geplande voortgang van de maatregelen is schematisch weergegeven in bovenstaande 
+staafdiagram. De peildatum voor deze systeemmonitor is in de staafdiagram weergeven als een oranje lijn. 
+1.   Uitbreiding van het Uniform platform van 5 naar 9 parkeerplekken
+2.   Coördinatie torenluchtverkeersleider en torenassistent
+3.   Verbeteren van de benaming van de taxibanen
+4.  Afwijkingen door grondpersoneel
+5.   Convergent starten en landen
+6.   Vaste aansluiting op het brandstofsysteem 
+7.   Trajectory prediction
+8.   Navigatietechnologie
+9.   Verbeterde toegang tot de Schiphol TMA
+10.   Ophoging van de bovengrens van de TMA
+11.   Online pushback procedure raadplegen
+12.   Follow the Greens
+13.   Digitale strippen
+14.   Runway Status Lights
+15.   Bouw van een nieuwe pier
+16.   Voltooiing dubbel rijbaanstelsel
+17.   Grondafhandeling tijdens slecht weer
+18.   “Baan bezet” strip
+19.   Dubbele belijning naar de Bravo taxibaan
+20.   Dubbele belijning naar de Alfa taxibaan
+21.   Drie grondverkeersleiders
+22.   Voertuigen en grondafhandelingsmaterieel delen
+23.   Herinrichting werkplekken in de verkeerstoren
+24.   Sleepcontrol en grondverkeersleiding in dezelfde ruimte
+25.   Route tussen het Kilo platform en de Schiphol-Oostbaan
+26.   Eenrichtingsverkeer op de Alfa en Bravo taxibanen
+27.   Last-minute baancombinatiewisselingen en complexiteit door baancombinatiewisselingen
+28.   Intersectie N2/E6 richting de Aalsmeerbaan
+29.   De Kaagbaan oversteken
+30.   Risico’s van begeleid slepen verminderen
+31.   Risico op onjuist opgelijnde starts verminderen
+32.   Zuidelijke starts vanaf de Zwanenburgbaan
+33.   Pushbackrisico’s verminderen
+34.   Uitbreiding van het Uniform platform van 9 naar 12 parkeerplekken
+35.  Safety net voor starts en landingen op een niet in gebruik zijnde baan
+36.  Navigatie- en surveillancesystemen in grondvoertuigen
+37.  Poging tot opstijgen vanaf taxibaan
+38.  Vast eindpunt bij pushbacks
+39.  Docking van een vliegtuig
+Systeemmonitor luchtvaartveiligheid | 41
+
+Dit is een uitgave van het
+Ministerie van  
+Infrastructuur en Waterstaat
+Directoraat-generaal Luchtvaart en Maritieme Zaken
+Postbus 20901 | 2500 EX Den Haag
+www.rijksoverheid.nl/ienw
+Referentie: IENW/BSK-2021/147567
+Juni 2021
+

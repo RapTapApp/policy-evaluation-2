@@ -1,0 +1,453 @@
+Mogelijkheden voor de stemgewichten voor het 
+Kiescollege voor Niet-ingezetenen 
+ 
+Simon Otjes 
+Documentatiecentrum Nederlandse Politieke partijen Instituut Politieke Wetenschap 
+Rijksuniversiteit Groningen Universiteit Leiden 
+ 
+ 
+1. Samenvatting 
+Deze rapportage kijkt in opdracht van het ministerie van Binnenlandse Zaken en 
+Koninkrijksrelaties naar de vraag “welke mogelijkheden er zijn om het stemgewicht te bepalen 
+voor het kiescollege voor niet-ingezetenen?”. Om de mogelijkheden het beste uit te leggen, werk 
+ik met een concreet voorstel en zal ik laten zien welke keuzes daarin zitten, welke alternatieven 
+daar zijn en wat het effect daarvan is. Ik stel voor het stemgewicht van het kiescollege (SW ) 
+KCNI
+als volgt te berekenen: 
+(1) We beginnen met het aantal geregistreerde stemgerechtigden in het buitenland in het jaar 
+van de verkiezingen. Dat is het aantal dat het dichtst komt bij de groep die het kiescollege 
+beoogt te vertegenwoordigen en waarvoor er harde cijfers zijn.   
+(2) Om het stemgewicht per kiescollege lid te berekenen moeten we het aantal geregistreerde 
+stemgerechtigden delen door het aantal leden van het kiescollege maal honderd. Dit is 
+hetzelfde als de berekening voor het stemgewicht van Provinciale Statenleden.  
+(3) Echter voor de Provinciale Staten rekent men met het aantal inwoners. Daarom is er een 
+correctiefactor nodig. Deze correctiefactor is de verhouding van het aantal inwoners van 
+het land Nederland en het totale aantal geregistreerde stemgerechtigden bij de laatste 
+1
+verkiezingen voor Provinciale Staten en het Kiescollege voor Caribisch Nederland. 
+ 
+ 
+                                                 
+1
+ In de taal van de Kieswet: “Elke stem van een lid van het Kiescollege voor Niet-ingezetenen geldt voor een aantal 
+stemmen, gelijk aan het getal dat verkregen wordt door het aantal geregistreerde stemgerechtigden voor deze 
+verkiezing van het kiescollege te delen door het honderdvoud van het aantal leden waaruit het kiescollege bestaat, 
+vermenigvuldigd met de verhouding tussen het aantal inwoners van het land Nederland op 1 januari en het totale aantal 
+stemgerechtigden bij de Provinciale Statenverkiezingen en het Kiescollege voor Caribisch Nederland. Het quotiënt 
+wordt daarna afgerond tot een geheel getal, naar boven, indien een breuk 1/2 of meer, en naar beneden, indien een 
+breuk minder dan 1/2 bedraagt. Dit getal wordt de stemwaarde genoemd.” 
+ 
+ 1 
+
+2. Een Stemgewicht voor het Kiescollege voor Niet-Ingezetenen 
+Stel dat er een nieuwe provincie aan Nederland zou worden toegevoegd. De leden van de nieuwe 
+Provinciale Staten zouden ook invloed krijgen op de samenstelling van de Eerste Kamer. De totale 
+stemwaarde van die nieuwe provincie zou geheel afhangen van het aantal inwoners van die 
+provincie. Immers volgens de Kieswet, telt de stem van een Provinciale Statenlid voor het getal 
+dat verkregen wordt door het inwonertal van de provincie te delen door het honderdvoud van het 
+aantal leden van Provinciale Staten. Dat laatste is volgens de Provinciewet ook weer afhankelijk 
+2
+van het aantal inwoners van die provincie. Of als formule voor het stemgewicht van Provinciale 
+Statenleden (SW ):  
+PS
+ 
+𝐼𝐼 𝑡𝑡 𝐼𝐼𝐼𝐼 𝑡𝑡 𝐼𝐼 𝑆𝑆 𝑆𝑆 𝐼𝐼
+𝑃𝑃𝑃𝑃
+ (2) 𝑆𝑆𝑆𝑆 =  
+𝑃𝑃 𝑃𝑃
+𝐿𝐿 𝑆𝑆𝑡𝑡𝑆𝑆𝑡𝑡 ∗ 100
+𝑃𝑃 𝑃𝑃
+ 
+Waar Inwoners het aantal inwoners van die provincie is en Leden het aantal leden van die 
+Prov PS
+Provinciale Staten. 
+ In paragraaf 3 zal ik toelichten waarom het aantal inwoners voor het Kiescollege voor Niet-
+ingezetenen niet voor de hand ligt. Het meest redelijk is om niet te kijken naar het aantal inwoners 
+maar het aantal geregistreerde stemgerechtigden. Echter, als we dat zonder correctiefactor zouden 
+toepassen dan zou de stem van een Nederlandse burger in het buitenland minder zwaar tellen dan 
+de stem van een Nederlandse burger. Immers aan de stemmen van Nederlandse burgers in een 
+provincie wordt via Provinciale Staten een impact gegeven op basis van het aantal inwoners van 
+die provincie (dat altijd hoger is dan het aantal stemgerechtigden of aantal opgekomen stemmers). 
+De impact van de stem van een kiezer bij Provinciale Staten wordt groter naar mate een 
+kleiner deel van de inwoners stemt. Dit wordt beïnvloed door twee factoren: het aandeel van de 
+bevolking dat stemgerechtigd is en het aandeel stemgerechtigden dat opkomt bij de verkiezingen. 
+Dat eerste wordt beïnvloed door het aandeel van de bevolking dat geen Nederlands paspoort heeft 
+of jonger dan 18 zijn. De opkomst is de aggregatie van de individuele beslissing om op te komen. 
+3
+Dit hangt af van kenmerken van individuen en van de verkiezingen.  
+                                                 
+2
+ Ditzelfde geldt ook voor leden van de kiescolleges voor Caribisch Nederland.  
+3
+ De impact is groter waar er meer niet stemgerechtigde inwoners zijn: De opkomst bij de Provinciale 
+Statenverkiezingen was 56%. De opkomst was het hoogste in Utrecht, Zeeland, Friesland, Drenthe en Gelderland die 
+dan ook allemaal de laagste impact hebben. 25% van inwoners van Nederland was in 2019 niet stemgerechtigd. Dit 
+aandeel was het hoogste in Flevoland, Zuid-Holland en Noord-Holland die dan ook allemaal hoog scoren in impact. 
+De uitzonderlijke impact van de Caribische openbare lichamen is te begrijpen vanuit de zeer lage opkomst (Sint 
+Eustatius) en het zeer hoge aandeel niet stemgerechtigde inwoners (Bonaire en Saba). 
+ 3 
+𝑃𝑃𝑃𝑃
+
+Het doel van dit rapport is om vast te stellen hoe groot de correctiefactor voor het 
+voorgestelde Kiescollege voor Niet-ingezetenen zou moeten zijn zodat de Eerste Kamerimpact 
+van deze stemgerechtigde of kiezer even zwaar doortelt in de samenstelling van de Eerste Kamer 
+als een stem van een stemgerechtigde of kiezer die woonachtig is in Nederland. 
+Bij de berekening hiervan worden drie factoren meegenomen: (1) de grootte van de groep 
+die relevant is voor het kiescollege van niet-ingezetenen, (2) het aantal leden van het kiescollege, 
+en (3) een getal dat aangeeft hoe zwaar een stem van een Nederlandse kiezer nu doortelt bij de 
+Eerste Kamerverkiezingen. Het bepalen van ieder van deze getallen bevat politieke of 
+rekenkundige keuzes die de rest van het rapport zullen structureren. 
+(1) Waar voor de berekening van de stemgewichten voor Provinciale Statenleden en leden van 
+Kiescolleges voor Caribisch Nederland uitgegaan wordt van het aantal inwoners, is dit niet per 
+sé redelijk voor niet-ingezetenen. Ik zal in paragraaf 3 kort aangeven welke mogelijkheden 
+hier zijn. Dit heeft ook implicaties of het redelijk is te kijken naar de Eerste Kamerimpact voor 
+geregistreerde stemgerechtigden of stemmers. 
+(2) Het aantal leden van het kiescollege voor niet-ingezetenen is een niet-triviale keuze. In 
+paragraaf 4 zal ik toelichten welke opties hier zijn. 
+(3) Ten slotte is er één getal nodig dat aangeeft hoe zwaar een stem van een Nederlandse kiezer 
+nu doortelt in de Eerste Kamerverkiezingen. Er zijn echter tussen de verschillende Provinciale 
+Staten en Kiescolleges wel verschillen in de Eerste Kamerimpact en de keuze voor één getal 
+is een keuze om de bestaande variatie terug te brengen. Ik zal in paragraaf 5 hierop in gaan. 
+ 
+3. De Groep 
+De stemwaarden van Provinciale Statenleden en de leden van de Kiescolleges voor Caribisch 
+Nederland wordt nu berekend aan de hand van twee getallen: het aantal inwoners van de provincie 
+c.q. openbaar lichaam en de grootte van Provinciale Staten c.q. Kiescolleges. De vraag is wat het 
+equivalent is voor dit aantal inwoners in het geval van het Kiescollege voor Niet-ingezetenen. 
+De Raad van State heeft al eerder de vraag gesteld welke ‘groep’ als basis moet worden 
+7
+gebruikt voor de berekening van de stemwaarde voor het Kiescollege voor Niet-ingezetenen. De 
+Raad van State noemt hier vier mogelijkheden voor: 
+(1) Alle inwoners van alle landen buiten Nederland; 
+                                                 
+7
+ Bijlage bij Kamerstukken II 2020/21, 35418, nr. 8. 
+ 5 
+
+volmacht of in persoon worden uitgebracht worden niet centraal bijgehouden. Enkel het aantal 
+stemmen dat per brief wordt uitgebracht, wordt centraal geregistreerd.  
+ 
+Tabel 2: Stemgerechtigde niet-ingezeten stemmers  
+Verkiezing Jaar Geregistreerde Uitgestuurde Uitgebrachte Opkomst-
+niet-ingezeten stembescheiden stemmen per percentage 
+stemmers per post of brief per brief 
+mail 
+EP 2004 Onbekend 15.832 12.275 78% 
+TK 2006 34.305 32.126 28.545 89% 
+EP 2009 39.601 37.070 30.059 81% 
+TK 2010 46.562 39.746 35.157 88% 
+TK 2012 48.374 40.493 35.898 89% 
+EP 2014 23.799 21.017 16.920 81% 
+TK 2017 81.680 69.793 61.397 88% 
+EP 2019 63.517 62.295 35.657 57% 
+EP: Europees Parlement; TK: Tweede Kamer. Bron: opgaven BZK aangevuld met Kiesraad 
+11
+(2007, 2009). 
+ 
+In Tabel 2 staan het aantal geregistreerde stemgerechtigden, het aantal uitgestuurde 
+stembescheiden per post of mail, het aantal ontvangen stemmen per brief en het 
+opkomstpercentage onder mensen die per brief hebben gestemd voor Europese en Tweede 
+12
+Kamerverkiezingen tussen 2004 en 2020. 
+Ik stel voor om het aantal geregistreerde stemgerechtigden te gebruiken bij het berekenen 
+van het stemgewicht van het Kiescollege voor Niet-ingezetenen. Dit maakt het stemgewicht van 
+het kiescollege niet afhankelijk van de opkomst, zodat de impact van het Kiescollege niet met 
+opkomstbevorderende of -onderdrukkende campagnes van de overheid, van partijen of derde 
+actoren kan worden beïnvloed. Om deze groep fair te vertegenwoordigen en het systeem consistent 
+                                                 
+11
+ Kiesraad (2007) “Statistische gegevens Tweede Kamerverkiezing 22 november 2006” Den Haag: Kiesraad; 
+Kiesraad (2009) “Uitslag van de verkiezing van de leden van het Europees Parlement van 4 juni 2009 Deel 2 
+Statistische gegevens” Den Haag: Kiesraad. 
+12
+ Hierbij moeten een aantal opmerkingen geplaatst worden: (1) de groep kiezers bij Europees Parlementsverkiezingen 
+wel anders is dan bij Tweede Kamerverkiezingen: Nederlanders die woonachtig zijn in een lidstaat van de Europese 
+Unie mogen kiezen: óf zij kiezen voor de Nederlandse delegatie van het Europees Parlement óf de delegatie in het 
+land waar zij woonachtig zijn. Ze mogen niet voor beide delegaties stemmen. Hierdoor verschilt de aard van deze 
+groepen; en (2) veel kiezers die in het verleden geregistreerd zijn voor verkiezingen woonden toen op Aruba, Bonaire, 
+Curaçao, Sint Eustatius, Sint Maarten of Saba. Een deel van deze kiezers is nu al vertegenwoordigd door de 
+kiescolleges van Caribisch Nederland. Een ander deel wordt expliciet van stemrecht uitgesloten (Kamerstukken 
+2019/2020, 35.418, 3) 
+ 7 
+
+16
+van gemeenteraden helemaal niet meer. Er waren in 2017 81.680 in het buitenland geregistreerde 
+stemgerechtigden. Dit getal valt in het domein van de Gemeentewet. Het aantal leden van het 
+kiescollege voor niet-ingezetenen zou dus de Gemeentewet kunnen volgen. Deze specifieke relatie 
+is uitgewerkt in Tabel 3. De systematiek van de Gemeentewet zou een kiescollege van 37 leden 
+opleveren bij 81.680 geregistreerde stemgerechtigden. 
+Vanuit sociaalwetenschappelijk perspectief, is er de derdemachtswortelwet. Deze stelt dat 
+17
+de grootte van nationale parlementen de derdemachtswortel van het aantal inwoners volgt. Deze 
+18
+politicologische wetmatigheid gaat ook op voor subnationale volksvertegenwoordigingen.  Net 
+als in de Gemeente- en Provinciewet is deze relatie dus niet evenredig maar naar mate een land 
+groter wordt, stijgt het aantal Kamerzetels steeds minder snel. Deze specifieke relatie is uitgewerkt 
+in Tabel 3. De systematiek van de derdemachtswortelwet zou een kiescollege van 43 leden 
+opleveren bij 81.680 geregistreerde stemgerechtigden. 
+ 
+Tabel 3: Aantal zetels voor kiescollege 
+Groep Jaar Aantal Leden op basis Leden op basis van 
+van de Gemeentewet derdemachtswortel 
+Aantal 2007 34.305 23 32 
+geregistreerde 2011 46.562 29 36 
+a
+stemmers 2015 81.680 37 43 
+2019 81.680 37 43 
+Geschat aantal 2007 27.606 21 30 
+uitgebrachte (25.383, 29.671) (21, 21) (29, 31) 
+b
+stemmen 2011 36.198 25 33 
+(32.983, 39.448) (23, 25) (32, 34) 
+2015 65.897 33 40 
+(61.144, 71.107) (33, 35) (39, 41) 
+2019 63.115 33 40 
+(57.328, 68.734) (31, 33)  (39, 41) 
+a 
+Het aantal niet ingezetenen dat als stemgerechtigde geregistreerd is uit dichtstbijzijnde Tweede 
+Kamerverkiezingsjaar waar data beschikbaar voor is (voor 2007 is dat 2006, voor 2011 is dat 
+2010, voor 2015 en 2019 is dat 2017). 
+b 
+Schatting van het aantal uitgebrachte stemmen (zie Appendix) 
+ 
+                                                 
+16
+ Het is niet zo dat als je uit het regime van de Gemeentewet komt je in het regime van de Provinciewet komt. Een 
+gemeente met 500.000 inwoners die als provincie verder zou gaan, zou als provincie vier raadsleden minder hebben 
+(van 45 naar 41). 
+17
+ Taagepera, R. (1972). “The size of national assemblies.” Social Science Research, 1(4), 385-401 
+18
+ Taagepera, Rein. (2007). Predicting party sizes: the logic of simple electoral systems. Oxford University Press. 
+ 9 
+
+Europees Nederland heeft een Flevolandse stemmer de grootste impact. De stemmers op Bonaire, 
+Saba en Sint Eustatius hebben de grootste impact. 
+We willen de Eerste Kamerimpact van een Nederlandse stemgegerechtigden c.q. stemmer 
+in het buitenland dezelfde grootte geven als de impact van een Nederlandse stemgegerechtigden 
+c.q. stemmer in het land Nederland. Daarvoor moeten we weten wat de gemiddelde Eerste 
+Kamerimpact is. Er zijn hiervoor verschillende alternatieven: we kunnen uitgaan van (1) het 
+gemiddelde per provincie en openbaar lichaam, (2) een naar het totale aantal inwoners gewogen 
+gemiddelde, (3) een naar het aantal stemgerechtigde inwoners gewogen gemiddelde of (4) een naar 
+het aantal opgekomen stemmers gewogen gemiddelde. 
+ 
+Tabel 3: Eerste Kamerimpact in Nederland 
+Groep Weegfactor 2007 2011 2015 2019 
+Stemgerechtigden Ongewogen 0,01449 0,01328 0,01327 0,01327 
+ Inwoners 0,01316 0,01324 0,01323 0,01323 
+ Stemgerechtigden 0,01325 0,01330 0,01329 0,01329 
+ Stemmers 0,01334 0,01337 0,01336 0,01336 
+Stemmers Ongewogen 0,02796 0,02341 0,02964 0,02698 
+ Inwoners 0,02900 0,02384 0,02785 0,02372 
+ Stemgerechtigden 0,02880 0,02375 0,02770 0,02362 
+ Stemmers 0,02898 0,02383 0,02782 0,02369 
+ 
+Tabel 4 toont deze vier alternatieven tussen 2007 en 2019 voor stemgerechtigden en 
+opgekomen stemmers. We zien dat deze vrij uniform zijn in hetzelfde jaar, met één uitzondering, 
+2019. Hier ligt het ongewogen gemiddelde veel hoger. Dat komt omdat Bonaire, Saba en Sint 
+Eustatius samen goed zijn voor één vijfde van de waardes. Door de tijd heen, zien we grotere 
+verschillen: de waarden in 2011 zijn veel lager dan de waarden van 2007 en 2015; de opkomst lag 
+bij deze verkiezing dan ook bijna 10% hoger. 
+Ik stel voor gebruik te maken van het naar stemgerechtigden gewogen gemiddelde voor het 
+geval dat stemgerechtigden als groep gebruikt wordt, en het naar stemmen gewogen gemiddelde 
+als er stemmers gebruikt worden. Ik kies voor een gewogen gemiddelde zodat kleinere delen van 
+Nederland geen onevenredig grote invloed uitoefenen op het gemiddelde. Ik kies voor het naar 
+ 11 
+
+a. Het aantal in het buitenland geregistreerde stemmers; 
+b. Het aantal door niet-ingezetenen uitgebrachte stemmen. 
+(2) Het gekozen stemgewicht 
+a. Gebaseerd op het aantal stemgerechtigden; 
+b. Gebaseerd op het aantal stemmers. 
+(3) De grootte van het kiescollege; 
+a. Volgens de suggestie van de Raad van State (20); 
+b. Volgens de systematiek van de Gemeentewet; 
+c. Volgens de derdemachtswortelwet. 
+(4) De gemiddelde impact komt in verschillende rekenkundige varianten: 
+a. Het ongewogen gemiddelde; 
+b. Het naar inwoners gewogen gemiddelde; 
+c. Het naar stemgerechtigden gewogen gemiddelde; 
+d. Het naar opgekomen stemmers gewogen gemiddelde; 
+e. Ten slotte is er de mogelijkheid om geen extra weegfactor voor de Eerste Kamerimpact 
+toe te voegen. Dat betekent dat we de totale stemwaarde vaststellen als een honderdste 
+van de grootte van de groep. Dit is een basis om de overige resultaten mee te 
+vergelijken. 
+(5) De peildatum 
+a. De vorige verkiezingen; 
+b. De huidige verkiezingen. 
+23
+Zo ontstaan er 93 modaliteiten. Ik presenteer deze voor de verkiezingen van 2007, 2011, 2015 
+en 2019 in Tabel 4 en 5. Tabel 4 toont de totale stemwaarden van het kiescollege voor niet-
+ingezetenen. Tabel 5 toont de stemwaarden van het kiescollege relatief aan het totale aantal 
+stemmen van alle provincies. De ongelijktijdige varianten kunnen we alleen laten zien voor 2011, 
+2015 en 2019, omdat we geen data uit 2003 hebben. We bespreken hier de saillante uitkomsten: 
+• Het toevoegen van de weegfactor zorgt ervoor dat het stemgewicht van Niet-ingezetenen 
+gemiddeld 2.6 keer zo groot is in vergelijking met het niet toevoegen. 
+                                                 
+23
+ 2 groepen voor het aantal inwoners x 2 groepen voor het stemgewicht x 3 groottes van het kiescollege x 5 gemiddelde 
+impacts x 2 peildata = 120. Maar 27 hiervan zijn identiek omdat de peildatum alleen maar speelt als ergens in de 
+formule het aantal stemmers gebruikt wordt of als het stemgewicht niet wordt aangepast.  
+ 13 
+
+Tabel 4: Totale stemwaarden van het kiescollege voor niet-ingezetenen 
+a
+   
+ Huidige verkiezingen Vorige verkiezingen 
+Niet-ingezetenen Eerste Kamerimpact Weegfactor Kiescollege 2007 2011 2015 2019 2011 2015 2019 
+Geregistreerde Stemgerechtigden Ongewogen Gemeentewet 460 609 1073 1184 - - - 
+stemgerechtigden Derdemachtswortel 448 612 1075 1204 - - - 
+ 
+20 460 620 1080 1180 - - - 
+Inwoners Gemeentewet 460 609 1073 1073 - - - 
+Derdemachtswortel 448 612 1075 1075 - - - 
+20 460 620 1080 1080 - - - 
+Geregistreerde Gemeentewet 460 609 1073 1073 - - - 
+stemgerechtigden 
+Derdemachtswortel 448 612 1075 1075 - - - 
+20 460 620 1080 1080 - - - 
+Stemmers Gemeentewet 460 609 1073 1073 - - - 
+Derdemachtswortel 448 612 1075 1075 - - - 
+20 460 620 1080 1080 - - - 
+ Stemmers  Ongewogen Gemeentewet 966 1102 2220 2220 1305 1924 2220 
+Derdemachtswortel 960 1080 2193 2193 1296 1892 2193 
+20 960 1100 2200 2200 1300 1920 2200 
+Inwoners Gemeentewet 989 1102 2257 1924 1363 1961 2257 
+Derdemachtswortel 992 1116 2279 1935 1368 1935 2279 
+20 1000 1100 2280 1940 1360 1940 2280 
+Geregistreerde Gemeentewet 989 1102 2257 1924 1334 1924 2257 
+stemgerechtigden Derdemachtswortel 992 1116 2279 1935 1332 1935 2279 
+20 980 1100 2260 1920 1340 1940 2260 
+Stemmers Gemeentewet 989 1102 2257 1924 1363 1961 2257 
+Derdemachtswortel 992 1116 2279 1935 1332 1935 2279 
+20 1000 1100 2280 1940 1340 1940 2280 
+ Geen gewichten Geen gewichten Gemeentewet 345 464 814 814 - - - 
+Derdemachtswortel 352 468 817 817 - - - 
+  20 340 460 820 820 - - - 
+Uitgebrachte stemmen Stemgerechtigden Ongewogen Gemeentewet 378 475 858 924 375 462 957 
+   Derdemachtswortel 360 495 880 920 360 462 960 
+   20 360 480 860 920 360 480 960 
+  Inwoners Gemeentewet 378 475 858 825 375 495 891 
+  Derdemachtswortel 360 495 880 840 360 495 880 
+ 
+   20 360 480 880 840 360 480 880 
+  Geregistreerde Gemeentewet 378 475 858 825 375 495 858 
+stemgerechtigden 
+  Derdemachtswortel 360 495 880 840 360 495 880 
+  20 360 480 880 840 360 480 880 
+ Stemmers Gemeentewet 378 475 858 825 375 495 858 
+ 
+   Derdemachtswortel 360 495 880 840 360 495 880 
+   20 360 480 880 840 360 480 880 
+ Stemmers  Ongewogen Gemeentewet 777 850 1782 1716 775 858 1782 
+   Derdemachtswortel 780 858 1760 1720 780 858 1760 
+   20 780 840 1780 1700 780 840 1780 
+  Inwoners Gemeentewet 798 875 1848 1485 800 858 1848 
+   Derdemachtswortel 810 858 1840 1480 810 858 1840 
+   20 800 860 1840 1500 800 860 1840 
+  Geregistreerde Gemeentewet 798 850 1815 1485 800 858 1815 
+ stemgerechtigden Derdemachtswortel 810 858 1840 1480 810 858 1840 
+ 
+  20 800 860 1820 1500 800 860 1820 
+  Stemmers Gemeentewet 798 850 1848 1485 800 858 1848 
+  Derdemachtswortel 810 858 1840 1480 810 858 1840 
+ 
+   20 800 860 1840 1500 800 860 1840 
+ Geen gewichten Geen gewichten Gemeentewet 273 350 660 627 275 363 660 
+   Derdemachtswortel 270 363 640 640 270 363 640 
+   20 280 360 660 640 280 360 660 
+a 
+met verhouding tussen gemiddelde stemimpact en uitgebrachte stemmen op basis van laatste 
+verkiezingen. Aantal geregistreerde stemmen op basis van 1 januari van het verkiezingsjaar. 
+In grijs het voorstel (aantal geregistreerde stemmers overal) en het meest voor de hand liggende 
+ 
+alternatief (aantal stemmers over al).
+ 
+  
+ 15 
+
+8. Conclusie 
+Wat betekenen deze resultaten? Er moeten een viertal keuzes gemaakt worden bij het bepalen van 
+het stemgewicht van het kiescollege voor Niet-ingezetenen: 
+(1) De groep die vertegenwoordigd wordt; 
+(2) De basis van de stemimpact; 
+(3) De grootte van het kiescollege; 
+(4) De gemiddelde impact van een Nederlandse stemmer op de samenstelling van de Eerste 
+Kamer; 
+(5) En de peildatum. 
+De eerste keuze voor de groep die wordt gekozen als equivalent voor het aantal inwoners van de 
+provincie c.q. openbaar lichaam maakt sterk uit. Datzelfde geldt voor de keuze voor de groep die 
+in de stemimpact meegenomen wordt. Mijn voorstel is om hier consistent (geregistreerde) 
+stemmers mee te nemen. Het consistente alternatief hiervoor is om overal met het aantal 
+24
+uitgebrachte stemmen te rekenen. Daar komt nog bij dat het aantal geregistreerde en 
+daadwerkelijke stemmers sterk door te tijd heen varieert (de vierde keuze). Het is een open vraag 
+of dit in de toekomst ook zo zal zijn. De keuze voor de grootte van het kiescollege (de tweede 
+keuze) en de specifieke rekenregel (de derde keuze) zijn te beschouwen als heel beperkte 
+verschillen in het domein van ‘afrondingsfouten’. 
+Deze variatie komt deels omdat de Rijksoverheid zich in de laatste jaren, bijvoorbeeld door 
+een permanent kiezersregister, actief heeft ingezet om stemmers in het buitenland te registreren. 
+Ook fluctueert de opkomst bij Provinciale Statenverkiezingen sterk. Mijn verwachting is dat nu er 
+een permanent kiezersregister is voor stemmers in het buitenland, het aantal geregistreerde 
+stemmers redelijk stabiel zal zijn. Als dat een redelijke verwachting is, is die stabiliteit een 
+                                                 
+24
+ Als formule is dit 
+ 𝑆𝑆 𝑆𝑆𝑆𝑆𝑆𝑆 𝑆𝑆 𝑆𝑆𝑆𝑆 𝐼𝐼 𝐼𝐼 𝐼𝐼𝐼𝐼 𝑡𝑡 𝑆𝑆 𝐼𝐼
+𝐾𝐾𝐾𝐾 𝐾𝐾 𝑁𝑁
+𝑆𝑆𝑆𝑆 = ∗   
+𝐾𝐾 𝐾𝐾
+ (12) 𝐿𝐿 𝑆𝑆𝑡𝑡 𝑆𝑆𝑡𝑡 ∗ 100 𝑆𝑆 𝑆𝑆𝑆𝑆𝑆𝑆 𝑆𝑆 𝑆𝑆𝑆𝑆 𝐼𝐼
+𝐾𝐾 𝐾𝐾 𝐾𝐾 𝑁𝑁
+ 
+Of in de taal van de Kieswet: “Elke stem van een lid van het Kiescollege voor Niet-ingezetenen geldt voor een 
+aantal stemmen, gelijk aan het getal dat verkregen wordt door het aantal stemmen voor vorige verkiezing van het 
+kiescollege te delen door het honderdvoud van het aantal leden waaruit het kiescollege bestaat, vermenigvuldigd met 
+de verhouding tussen het aantal inwoners van het land Nederland op 1 januari van de vorige Provinciale 
+Statenverkiezingen en het totale aantal stemgerechtigden bij de Provinciale Statenverkiezingen en het Kiescollege 
+voor Caribisch Nederland bij de vorige Provinciale Statenverkiezingen. Het quotiënt wordt daarna afgerond tot een 
+geheel getal, naar boven, indien een breuk 1/2 of meer, en naar beneden, indien een breuk minder dan 1/2 bedraagt. 
+Dit getal wordt de stemwaarde genoemd.” 
+ 17 
+𝐾𝐾𝐾𝐾
+𝐾𝐾𝐾𝐾
+𝑡𝑡𝑆𝑆
+
+Appendix 1: Een schatting van het aantal uitgebrachte stemmen. 
+ 
+We willen schatten hoeveel stemmers bij verkiezingen voor het kiescollege van niet-ingezetenen 
+hun stem uit brengen. Daarvoor moeten we weten hoeveel stemmers geregistreerd zijn en hoeveel 
+daarvan hun stem uitbrengen. Op dat laatste richt deze paragraaf zich. 
+ Stemgerechtigden in het buitenland die hebben aangegeven per brief te willen stemmen 
+noemen we hier briefstemgerechtigden. Het aandeel briefstemgerechtigden dat ook daadwerkelijk 
+stemt noemen we de ‘briefopkomst’. Het is waarschijnlijk dat dezelfde factoren die stemmers in 
+Nederland motiveren om op te komen dagen, bijvoorbeeld of het spannende verkiezingen zijn, ook 
+gelden voor stemmers die niet in Nederland wonen. Ik verwacht daarom dat de briefopkomst een 
+functie is van de totale opkomst. Figuur A1 laat deze relatie zien. We kijken hier naar Tweede 
+Kamerverkiezingen en Europees Parlementsverkiezingen. 
+De figuur laat zien dat briefopkomst structureel hoger is dan de opkomst onder alle 
+26
+stemmers. Er is bovendien een relatie tussen de opkomst onder alle stemmers en de 
+27
+briefopkomst. Die is weergegeven met de zwarte lijn. Omdat er maar weinig casussen zijn om 
+de schatting op te baseren is er een ruime onzekerheidsmarge. Zeven van de acht verkiezingen 
+vallen hierbinnen. Eén niet: de Europees Parlementsverkiezingen van 2019.  
+ De verwachte opkomst voor het kiescollege voor niet-ingezetenen die in de hoofdtekst 
+gebruikt wordt, heb ik berekend aan de hand van de lijn in Figuur 1 en de opkomst bij de relevante 
+Provinciale Statenverkiezing. Merk op dat het hier gaat om de opkomst van alle geregistreerde 
+niet ingezetene, niet alleen de briefstemgerechtigden. Mijn aanname is dat de opkomst van alle 
+geregistreerde niet-ingezetenen gelijk is aan de briefopkomst. Dit is de beste schatting die voor 
+handen is. Deze schatting staat in Tabel A1. 
+ 
+ 
+ 
+ 
+ 
+                                                 
+26
+ Dit is ook redelijk: als iemand de moeite neemt om zich als kiezer te laten registreren, zal iemand ook wel echt gaan 
+stemmen. Dat is voor kiezers die woonachtig zijn in Nederland anders, omdat iedereen wordt opgeroepen. 
+27
+ De zwarte lijn volgt de relatie: 𝑦𝑦 = 61.62 + 0.34 ∗ 𝑥𝑥 . Deze relatie is significant op het 0.1-niveau. 
+ 19 
+

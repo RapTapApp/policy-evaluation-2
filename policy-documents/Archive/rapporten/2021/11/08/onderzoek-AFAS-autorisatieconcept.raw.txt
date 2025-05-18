@@ -1,0 +1,375 @@
+  
+Onderzoeksrapport 
+Onderzoek AFAS autorisatieconcept 
+Definitief 
+
+Inhoud 
+1 Inleiding—4 
+1.1 Aanleiding onderzoek en opdrachtgever—4 
+1.2 Doelstelling en onderzoeksvragen—4 
+1.3 Afbakening—4 
+1.4 Leeswijzer—5 
+2 Bevindingen (onderzoeksvraag 1)—6 
+2.1 Antwoord Onderzoeksvraag 1: Access Rights Administration—6 
+2.1.1 Access Rights Administration: Niveau 1 Initial—7 
+2.1.2 Access Rights Administration: Niveau 2 Repeatable—7 
+2.1.3 Access Rights Adminisration: Niveau 3 Defined—8 
+2.1.4 Access Rights Administration: Niveau 4 en 5—9 
+2.2 Antwoord Onderzoeksvraag 1: Access Rules—10 
+2.2.1 Access Rules: Niveau 1 Initial—10 
+2.2.2 Access Rules: Niveau 2 Repeatable—10 
+2.2.3 Access Rules: Niveau 3 Defined—11 
+2.2.4 Access Rules: Niveau 4 en 5—12 
+3 Aanbevelingen (Onderzoeksvraag 2)—13 
+3.1 Antwoord Onderzoeksvraag 2: Access Rights Administration—13 
+3.2 Antwoord Onderzoeksvraag 2: Access Rules—13 
+4 Verantwoording onderzoek—15 
+4.1 Werkzaamheden en afbakening—15 
+4.2 Gehanteerde standaard en kwaliteitsborging—16 
+4.3 Verspreiding rapport—16 
+5 Ondertekening—17 
+Bijlage 1: de Managementreactie—18 
+ 
+
+ 
+Het onderzoek is uitgevoerd op basis van informatie/documentatie die is 
+aangeleverd door het centrale contactpersoon die voor de 3 dienstonderdelen het 
+aanspraakpunt is. Daarnaast zijn er interviews afgenomen met de betrokkenen in de 
+processen om vast te stellen dat wat beschreven staat in de bewijsdocumenten ook 
+is ingevoerd. De opdracht is uitgevoerd in opzet (geaccordeerde beschrijving) en 
+bestaan (invoering). 
+1.4 Leeswijzer 
+In het hoofdstuk 2 staat een overzicht van de bevindingen beschreven. De 
+bevindingen zijn verdeeld in 2 paragrafen (Access Rights Administration en Access 
+Rules). De paragrafen beginnen met een samenvatting van de bevindingen en 
+vervolgens zijn per niveau uit het volwassenheidsmodel de bevindingen verder 
+uitgeschreven. Met dit hoofdstuk wordt antwoord gegeven op onderzoeksvraag 1. 
+In hoofdstuk 3 worden aanbevelingen gegeven. De aanbevelingen zijn verdeeld in 
+de paragrafen Access Rights Administration en Access Rules. Deze aanbevelingen 
+geven antwoord op onderzoeksvraag twee. 
+In hoofdstuk 4 is de verantwoording van het onderzoek opgenomen. 
+ 5 van 21 | Onderzoek AFAS autorisatieconcept  
+
+ 
+1
+2.1.1 Access Rights Administration: Niveau 1 Initial 
+Maturity Level 1 (Initial) 
+Controls are not, or only partly defined and/or executed in an inconsistent manner 
+and rely heavily on individuals. 
+Requirement Situation OLE 
+1. Absence of policy
+for user accounts and
+related privileges.
+2. No administration
+procedure for users
+and access
+Opzet en bestaan 
+groups(roles). Niveau 1 is het niveau waarbij er nog geen policy's, 
+functiescheiding en controles in plaats zijn. Dit is een niveau 
+3. Access rights are
+dat bij systemen waar gebruikersaccounts gebruikt worden 
+granted and revoked
+voldaan wordt zonder het hebben van een proces, 
+on an ad hoc basis,
+beschrijving of andere proces ondersteunende stukken. 
+depending on Derhalve wordt aan dit niveau voldaan. 
+individuals.
+4. Users could access
+more information
+than based on ‘need-
+to-know/have’
+principle.
+1
+2.1.2 Access Rights Administration: Niveau 2 Repeatable 
+Maturity Level 2 (Repeatable) 
+Controls are in place and executed in a structured and consistent, but informal, 
+manner. 
+Requirement Situation OLE 
+5. Informal policy in Opzet 
+place on all accounts OLE beschikt niet over een procesbeschrijving. OLE gebruikt 
+and access rights de standaard AFAS workflows voor indienst, doorstroom en 
+(internal, external, uitdienst processen. Van deze workflows is een beschrijving 
+administrators), and in de applicatie AFAS opgenomen. 
+all circumstances Verdere documentatie over het proces en de borging 
+(normal, hiervan op de werkvloer ontbreekt. Ook geen 
+emergency). procesbeschrijving over een verschillende aanpak van 
+eindgebruikers, externen en beheerders  
+Calamiteit 
+Daarnaast is het onder de geïnterviewden niet bekend of er 
+een noodproces is om in geval van een calamiteit snel 
+autorisaties toe te kennen of af te nemen.   
+Bestaan 
+Deze norm gaat over het hebben van specifieke 
+beleidstukken (Opzet). 
+6. An administration Opzet 
+procedure for Er is geen proces/beleid voor het bijhouden van een 
+accounts and related administratie voor accounts en gerelateerde privileges. 
+privileges has been
+defined but not Bestaan 
+formalized. Er is in de AFAS-applicatie een overzicht van de doorlopen 
+workflows. Hiermee is er een administratie die 
+geautomatiseerd wordt bijgehouden. 
+Echter kan indien er bij het opstellen van het proces/beleid 
+1
+ De processen voor ZEE, LUCHT en OLE zijn één keer onderzocht doordat het een uniform 
+proces betreft. Zie paragraaf 4.1 voor meer informatie. 
+ 7 van 21 | Onderzoek AFAS autorisatieconcept  
+
+ 
+- Bij akkoord van Unit Manger OOB komt verzoek binnen bij
+salarisverwerking
+- Na goedkeuring door salarisverwerking is de workflow
+doorlopen en voert het systeem de aanvraag uit.
+Bestaan 
+Uit ons onderzoek blijkt dat één medewerker beide 
+goedkeuringen uitvoert, omdat deze medewerker beide 
+rollen/functies bezit (Unit Manager OOB en 
+Salarisverwerking). De functiescheiding in de AFAS-workflow 
+is hierdoor niet van kracht.  
+12. Employee access Opzet 
+rights are Er is geen autorisatiematrix of andere beschrijving van een 
+implemented through SOLL-situatie beschikbaar.  
+role-based access
+Bestaan 
+Er wordt gebruik gemaakt van rollen bij het toebedelen van 
+rechten. Er zijn veelal standaard AFAS-rollen gebruikt. 
+Daarnaast zijn er ook specifieke rollen aangemaakt die de 
+autorisaties voor specifieke functies verstrekken. Deze 
+specifieke rollen zijn veelal in gebruik door één enkele 
+eindgebruiker.  
+Voor het bestaan is enkel gekeken naar de rollen/functies 
+die in het AFAS-systeem zijn gekoppeld aan actieve 
+medewerkers, de ongebruikte rollen zijn niet bekeken. 
+Omdat er nog geen risicoanalyse en eigen autorisatiematrix 
+is vormgegeven, kan het zijn dat de huidige 
+configuratie/verdeling van autorisaties volgens de AFAS 
+standaard rollen/functies niet past bij de wensen van de 
+organisatie. 
+2.1.4 Access Rights Administration: Niveau 4 en 5 
+Bij niveau 2 miste er al benodigde informatie derhalve is niveau 3 nog onderzocht 
+en is niveau 4 en 5 buiten scope van het onderzoek geplaatst. 
+ 9 van 21 | Onderzoek AFAS autorisatieconcept   
+
+ 
+has been defined but 
+Not formalized. Bestaan 
+Deze norm gaat over het bezitten van een autorisatiematrix 
+(Opzet).  
+18. Activities of high Opzet 
+privilege users are OLE heeft geen beeld welke autorisaties als “high privilege” 
+traceable to uniquely moeten worden gezien. Daarom is er geen specifieke 
+identifiable users. logging op te vragen waarmee inzichtelijk te maken is of 
+activiteiten van gebruikers met “high privilege” herleidbaar 
+zijn naar een gebruikersaccount. 
+Bestaan 
+Er is een overzicht van de AFAS-gebruikersaccounts 
+beschikbaar. Hierin staan de gebruikersaccounts gekoppeld 
+aan de naam van de eigenaar van het gebruikersaccount.  
+19. Defined roles and Opzet 
+user access rights are OLE beschikt niet over een autorisatiematrix of 
+in line with business inrichtingsdocument waarin een vertaling van de eisen 
+needs. vanuit de bedrijfsvoering gemaakt is naar autorisaties. 
+Bestaan 
+De groepen zijn gelabeld met de bijhorende functienaam, 
+hierdoor is te zien welke functie bij welke autorisatiegroep 
+hoort. Voor deze groepen is veelal gebruik gemaakt van 
+AFAS-standaard rollen. De afweging of de AFAS-standaard 
+rollen in lijn zijn met de bedrijfsbenodigdheden is niet 
+vastgelegd. 
+20. Job requirements Opzet en bestaan 
+are attached to user Er is geen beschrijving of andere vorm van bewijs dat er 
+identities eisen (Screening/competenties etc.) aan de 
+gebruikers/functies zijn gesteld voor het toebedeeld krijgen 
+van autorisaties. 
+1
+2.2.3 Access Rules: Niveau 3 Defined 
+Maturity Level 3 (Defined) 
+Controls are documented and executed in a structured and formal manner. 
+Execution of control can be proved, is tested and effective. 
+Requirement Situation OLE 
+21. Policy and SOLL Opzet 
+matrix for access OLE beschikt niet over een beleid en SOLL-matrix voor 
+rights/privileges of toegangsrechten/privileges.  
+users and groups
+(roles) have been Bestaan 
+defined, documented, Deze norm gaat over het hebben van specifieke 
+formalized, beleidstukken/matrices (Opzet). 
+communicated and
+punctually updated.
+22. Identification, Opzet 
+authentication and OLE maakt gebruik van de standaard AFAS workflows voor 
+authorization of users indienst/doorstroom/uitdienst processen.  
+implemented and Dit proces ziet er als volgt uit: 
+enforced. - Gebruikers met de rol management kunnen een verzoek
+inschieten bij Unit Manager OOB
+- Unit Manager OOB beoordeelt de aanvraag
+- Bij akkoord van Unit Manger OOB komt het verzoek
+binnen bij salarisverwerking
+- Na goedkeuring door salarisverwerking is de workflow
+doorlopen en wordt de aanvraag doorgevoerd.
+Bestaan 
+De beoordeelde procesuitvoeringen vallen buiten de vooraf 
+bepaalde onderzoeksperiode aangezien er in deze periode 
+geen indiensttreder/doorstromer/uitdiensttreder hebben 
+plaats gevonden. Om toch een beeld te vormen zijn een 
+indiensttreder/doorstromer en uitdiensttreder geselecteerd 
+ 11 van 21 | Onderzoek AFAS autorisatieconcept 
+
+3 Aanbevelingen (Onderzoeksvraag 2) 
+In dit hoofdstuk staan de aanbevelingen weergeven. De aanbevelingen zijn verdeeld 
+in de Access Rights Administration en Access Rules, zodat deze aansluiten op 
+hoofdstuk twee. Omdat de aanbevelingen in enkele gevallen voor beide normen van 
+toepassing zijn, is er gekozen om deze aanbeveling bij de paragraaf op te nemen 
+waar de auditors deze het meest passend vonden. 
+3.1 Antwoord Onderzoeksvraag 2: Access Rights Administration 
+Om de administratie van autorisaties voor de onderzochte AFAS-systemen naar 
+volwassenheidsniveau drie te brengen hebben wij een vijftal aanbevelingen. De 
+aanbevelingen zijn middels een nummer aan de normen gekoppeld (zie paragraaf 
+2.1.1 t/m 2.2.4).  
+1. Stel een beleidsdocument op waarin alle eisen aan de autorisaties en het
+beheren (procesbeschrijvingen) ervan staan vastgelegd. Formaliseer dit
+document en communiceer dit met de betrokkenen. Hierin kunnen
+verwijzingen opgenomen worden naar de verschillende documenten die in
+de aanbeveling 1 en 3 bij Access Rules zijn genoemd. (5, 9)
+2. Analyseer of de workflow administratie van AFAS de gewenste informatie
+bevat om sturing te kunnen geven om tot beheerste processen (Indienst,
+uitdienst en doorstroom) te komen en pas eventueel de workflow
+administratie aan. Leg daarnaast vast hoe deze administratie beheert
+(aangevuld/bijgehouden) en gebruikt (analyses) dient te worden. (6, 25)
+3. Voer een risicoanalyse/procesanalyse uit om inzichtelijk te maken welke
+risico’s er gepaard gaan met de toegang tot informatie. Hiermee kan een
+inschatting gemaakt worden welke informatie benodigd is voor een functie
+en/of er rest risico’s overblijven waarop mitigerende maatregelen getroffen
+moeten worden en wordt voldaan aan overig beleid en security vereisten.
+(7)
+a. Vergelijk de uitkomsten van de risicoanalyse/procesanalyse met de
+huidige inrichting van AFAS-standaard rollen en de beperkte
+hoeveelheid specifieke rollen, om inzage te krijgen of de toegang die
+deze rollen verschaffen gewenst is en pas bij verschillen aan. (12)
+4. Stel een mandaatlijst op ten behoeve van het gebruikersbeheerproces.
+Daarop staat wie aanvragen/wijzigingsverzoeken voor gebruikersaccounts
+mag indienen en wie deze aanvragen goed mag keuren voor doorvoering.
+(10)
+5. Monitor of bij uitdiensttreding/doorstroom de juiste autorisaties tijdig
+worden verwijderd. Pas indien nodig het proces/programmatuur aan indien
+het vaker voor blijft komen dat een medewerker autorisaties behoudt die al
+verwijderd hadden moeten zijn. (8)
+3.2 Antwoord Onderzoeksvraag 2: Access Rules 
+Om de toegang tot data en uitvoering van processen omtrent AFAS naar 
+volwassenheidsniveau drie te brengen hebben wij een viertal aanbevelingen. De 
+aanbevelingen zijn middels een nummer aan de normen gekoppeld (zie paragraaf 
+2.1.1 t/m 2.2.4) 
+ 13 van 21 | Onderzoek AFAS autorisatieconcept   
+
+ 
+4 Verantwoording onderzoek 
+4.1 Werkzaamheden en afbakening 
+We zijn tot de bevindingen gekomen door het Informatiebeveiliging 
+Volwassenheidsmodel te vertalen naar een aantal essentiële opzet documenten en 
+benodigde voorbeelden die laten zien dat de inrichting en uitvoering zoals 
+beschreven is ingevoerd. Deze vertaling is in een documentatieverzoek beschreven 
+en met OLE gedeeld. OLE heeft de gevraagde gegevens aangeleverd en vervolgens 
+is er een documentstudie uitgevoerd. En zijn er vervolgens interviews uitgevoerd 
+om meer informatie te verkrijgen over de processen/inrichting en uitvoering. De 
+onderzoeksperiode was van 1-3-2021 t/m 15-5-2021. 
+Daarmee hebben we de overeengekomen werkzaamheden conform de 
+opdrachtbevestiging uitgevoerd. Na het uitvoeren van de werkzaamheden zijn op 
+18-5-2021 de bevindingen afgestemd met de AFAS-contactpersoon en het centrale
+aanspreekpunt voor AFAS.
+De inhoudelijke afstemming van dit rapport heeft plaatsgevonden met de 
+gedelegeerd opdrachtgever. In de bijgevoegde managementreactie heeft de 
+gedelegeerd opdrachtgever aangegeven hoe de bevindingen/aanbevelingen 
+opgepakt worden. 
+Het gebruikersbeheer onderzoek bij OLE is uitgevoerd voor de instanties OLE 
+(Openbaar Lichaam Sint-Eustatius), ZEE (OLE Zeehaven) en LUCHT (OLE 
+Luchthaven). Tijdens het onderzoek kwam aan het licht dat al deze instanties 
+dezelfde procesgang/contactpersoon hanteren voor het beheren van gebruikers voor 
+de AFAS-applicatie. Daarom zijn de bevindingen op de drie instanties van toepassing 
+en zijn de bestaanschecks per proces eenmaal uitgevoerd. 
+Het onderzoek is als het volgt afgebakend: 
+• Twee normen uit “identity & access management” van het NBA-
+volwassenheidsmodel-informatiebeveiliging van januari 2019 zijn
+onderzocht. Het gaat om de norm ID.01 Access Rules en ID.02 Access rights
+administration.
+• Het onderzoek voor beide normen is stopgezet na niveau 3 omdat er
+documenten bij niveau 2 van het volwassenheidsmodel ontbraken. Het
+onderzoeken van niveau 3 is gedaan om gerichter aanbevelingen te kunnen
+geven.
+• De selectie voor de bestaanscontrole van de processen voor indienst,
+uitdienst en doorstroom van medewerkers is buiten de onderzoeksperiode
+gevallen, omdat er tijdens de onderzoeksperiode geen indienst-, uitdienst- 
+en doorstromers zijn geweest. Om een beeld te kunnen vormen over of de
+processen uitgevoerd zijn zoals beschreven is er gekozen om de selectie van
+eerder in 2021 te laten vallen.
+Onderzoeksvraag 1 is beantwoord door het normenkader naast de verkregen 
+documentatie en interviews te leggen. Onderzoeksvraag 2 is beantwoord door te 
+kijken welke documenten er volgens het volwassenheidsmodel nog verder 
+uitgewerkt moeten worden of ontbreken. Daarnaast is gekeken naar de uitvoering 
+van de processen binnen OLE en is deze kennis meegenomen in het beschrijven van 
+de aanbevelingen.  
+ 15 van 21 | Onderzoek AFAS autorisatieconcept   
+
+ 
+5 Ondertekening 
+Den Haag, 8 november 2021 
+ IT-Auditor Auditdienst 
+Auditdienst Rijk 
+ 17 van 21 | Onderzoek AFAS autorisatieconcept   
+
+ 
+Nederland. Dit punt wordt dus voor het OLE een uitdaging. Iemand met de juiste 
+autorisatie tool kennis zou dit onderwerp kunnen oppakken en een gedegen analyse 
+maken per autorisatie rol. 
+4. Stel een mandaatlijst op ten behoeve van het gebruikersbeheerproces.
+Daarop staat wie aanvragen/wijzigingsverzoeken voor gebruikersaccounts
+mag indienen en wie deze aanvragen goed mag keuren voor doorvoering.
+(10)
+Dit zal de applicatie beheerder worden van het OLE. In de tussentijd, zolang deze er 
+nog niet is zal AFAS samen met de Manager Finance deze lijst beheren. 
+5. Monitor of bij uitdiensttreding/doorstroom de juiste autorisaties tijdig
+worden verwijderd. Pas indien nodig het proces/programmatuur aan indien
+het vaker voor blijft komen dat een medewerker autorisaties behoudt die al
+verwijderd hadden moeten zijn. (8)
+AFAS is nu bezig om de alle autorisatiegroepen die gebruikt worden te koppelen aan 
+de 'Functie'. Zodat een medewerker (geautomatiseerd) zijn autorisaties ontvangt bij 
+indiensttreding. Hierbij wordt rekening gehouden met een selectie die kijkt of de 
+medewerker een geldig contract heeft (einddatum van het salaris is 'leeg'; 
+onbepaalde tijd of dat de einddatum verder dan vandaag ligt). Zodra dit filter niet 
+gevuld kan worden doordat de einddatum voor vandaag ligt wordt de medewerker 
+niet meer meegenomen in de selectie die de medewerker autorisatie toekent. Hier zal 
+dus geen monitoring op nodig zijn zodra dit proces afgerond is. AFAS streeft ernaar 
+dat dit proces eind November uiterlijk eind December afgerond is. 
+ 1.2 O2: Access Rules 
+Om de toegang tot data en uitvoering van processen omtrent AFAS naar 
+volwassenheidsniveau drie te brengen hebben wij een viertal aanbevelingen. De 
+aanbevelingen zijn middels een nummer aan de normen gekoppeld (zie paragraaf 
+2.1.1 t/m 2.2.4) 
+1. Stel een procedure op voor het gebruikersbeheer waarin onder andere de
+volgende onderwerpen uitgewerkt zijn (16):
+a. Indienst, uitdienst en doorstroom van medewerkers; (8, 11, 22)
+b. Noodproces voor versneld aanvragen/innemen van autorisaties; (8)
+Het OLE heeft behoefte aan een 'vaste' applicatiebeheerder. Een AFAS Consultant zal 
+altijd toegang hebben tot de autorisatie tool, maar nooit een besluit nemen of zonder 
+toestemming autorisaties toekennen of blokkeren (autorisatie mutaties worden 
+gelogd in het logboek van de omgeving van OLE) Als back-up beschikt het OLE over 
+een ADMIN-account. Dit is het eerste account waarmee het systeem geactiveerd 
+wordt, en dit is tevens de product eigenaar. Een medewerker die bekend is bij AFAS 
+als beheerder (die dus ook incidenten/ support tickets aan mag vragen) kan vragen 
+om een account te resetten met een ander mailadres. AFAS NL kan dan dit account 
+resetten met een nieuwe gebruiker mocht er niemand meer het systeem/ 
+autorisatietool in kunnen, dit is natuurlijk alleen in geval van nood. 
+a. Enveloppe procedure voor accounts met de hoogste autorisaties; (8)
+b. Review op de uitgegeven autorisaties, om periodiek inzage te
+krijgen of gebruikers nog steeds de autorisaties nodig hebben voor
+het uitoefenen van hun functie. (23)
+c. Monitoring van gebruik high privilege accounts. (18, 24)
+Er kan heel makkelijk gekeken naar de rollen die eindigen met ‘’applicatiebeheer’’, dit 
+zijn de rollen die je kan categoriseren als high privilege. Op dit moment zijn dat alleen 
+de Finance afdeling m.b.t. financieel applicatiebeheer en HR m.b.t. 
+het applicatiebeheer van de personeelsadministratie. 
+ 19 van 21 | Onderzoek AFAS autorisatieconcept   
+
+Auditdienst Rijk 
+Postbus 20201 
+2500 EE  Den Haag
+
