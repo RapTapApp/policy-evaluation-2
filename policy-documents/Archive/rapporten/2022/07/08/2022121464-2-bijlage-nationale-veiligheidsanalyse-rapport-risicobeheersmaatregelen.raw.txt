@@ -1,0 +1,1239 @@
+ 
+ 
+ 
+  
+NLR-CR-2022-040-PT-2 | juni 2022 
+Nationale Veiligheidsanalyse voor de 
+Nederlandse luchtvaart 
+Rapport Risicobeheersmaatregelen 
+OPDRACHTGEVER:  Ministerie van Infrastructuur en Waterstaat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Koninklijke NLR - Nederlands Lucht- en Ruimtevaartcentrum 
+ 
+ 
+
+MANAGEMENTSAMENVATTING 
+ONGERUBRICEERD 
+ 
+ 
+Toepasbaarheid 
+De hier beschreven beheersmaatregelen zijn richtinggevend, met ruimte voor 
+prioritering en keuze binnen en tussen beheersmaatregelen. Welke acties 
+uiteindelijk in het NALV terecht komen wordt door het Ministerie van 
+Infrastructuur en Waterstaat besloten. 
+ 
+ 
+NLR 
+Anthony Fokkerweg 2 
+1059 CM  Amsterdam 
+p ) +31 88 511 3113 
+e ) info@nlr.nl  i ) www.nlr.nl 
+ 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+Niets uit dit rapport mag worden vermenigvuldigd en/of openbaar gemaakt, op welke wijze dan ook, zonder 
+voorafgaande schriftelijke toestemming van de eigenaar en/of opdrachtgever. 
+OPDRACHTGEVER Ministerie van Infrastructuur en Waterstaat 
+CONTRACTNUMMER --- 
+EIGENAAR NLR 
+NLR DIVISIE Aerospace Operations 
+VERSPREIDING Beperkt 
+RUBRICERING TITEL ONGERUBRICEERD 
+GOEDGEKEURD DOOR: 
+AUTEUR REVIEWER BEHERENDE AFDELING 
+A.L.C. Roelen
+5 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+Inhoudsopgave 
+Afkortingen 8 
+1. Inleiding 10 
+1.1 Achtergrond 10 
+1.2 Leeswijzer 11 
+1.3 Afbakening van de analyse 11 
+2 Belangrijkste risico’s per domein 13 
+2.1 Commerciële luchtvaart 13 
+2.2 Kleine luchtvaart 13 
+2.3 Onbemande luchtvaart 13 
+2.4 Caribisch Nederland 14 
+3 Risicobeheersmaatregelen 15 
+3.1 Proces  15 
+3.2 Kosten  16 
+3.3 Doorzetting naar acties in het NALV 17 
+3.4 Resultaat 17 
+3.4.1 Beheersmaatregelen voor de commerciële luchtvaart 18 
+3.4.2 Beheersmaatregelen voor de kleine luchtvaart 31 
+3.4.3 Beheersmaatregelen voor de onbemande luchtvaart 51 
+3.4.4 Beheersmaatregelen voor de luchtvaart in Caribisch Nederland 63 
+Appendix A Overzicht van in 2021 door de Air Accidents Investigation Branch (AAIB) 
+gepubliceerde onderzoeksrapporten over ongevallen met onbemande luchtvaartuigen in 
+het Verenigd Koninkrijk 70 
+Appendix B Afwijkingen ten opzichte van de handleiding NVA 72 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+7 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+ACRONYM DESCRIPTION 
+SMS Safety Management System 
+TCAS Traffic Alert and Collision Avoidance System 
+VFR Visual Flight Rules 
+VHF Very High Frequency 
+VMS Veiligheidsmanagementsysteem 
+VNV Vereniging van Nederlandse Verkeersvliegers 
+VS Verenigde Staten 
+9 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+van de geprioriteerde risico’s zijn in het onderliggende rapport risicobeheersmaatregelen beschreven. Deze 
+risicobeheersmaatregelen zijn opgesteld volgens de in de Handleiding NVA, (rapport NLR-CR-2021-110) beschreven 
+methodiek. Op onderdelen is afgeweken van de in de handleiding beschreven werkwijze. Een volledig overzicht van 
+afwijkingen ten opzichte van de handleiding is weergegeven in Appendix B. De in dit rapport beschreven 
+beheersmaatregelen zijn richtinggevend en een eerste aanzet voor het door het ministerie van IenW op te stellen 
+Nederlands Actieplan Luchtvaartveiligheid (NALV). 
+1.2 Leeswijzer 
+Hoofdstuk 2 bevat de risico’s per domein die uit het risicobeoordelingsproces naar voren zijn gekomen. Hoofdstuk 3 
+beschrijft maatregelen om de risico’s te beheersen. Daarbij is eerst beschreven op welke manier de 
+beheersmaatregelen tot stand zijn gekomen. Vervolgens zijn per risico één of meerdere beheersmaatregelen gegeven. 
+Voor elke beheersmaatregel is een beschrijving van de maatregel gegeven, een beschrijving van het effect van de 
+maatregel, een beschrijving van de effectiviteit van de maatregel, een lijst van partijen die bij de maatregel zijn 
+betrokken en een schatting van de kosten van de maatregel. De risico’s en beheersmaatregelen zijn voor 
+herleidbaarheid naar bronnen en stappen in het NVA-proces voorzien van een codering (bijvoorbeeld GA.25.B.1).  
+1.3 Afbakening van de analyse 
+Omdat de NVA wordt uitgevoerd in het kader van het NLVP richt deze zich, net als het NLVP, uitsluitend op civiele 
+luchtvaart. Omdat civiele luchtvaart het luchtruim deelt met militaire vliegtuigen, en soms gebruik maakt van militaire 
+infrastructuur en militaire dienstverlening (op de luchthaven van Eindhoven bijvoorbeeld), kan de militaire luchtvaart 
+via de raakvlakken met de civiele luchtvaart invloed hebben op de veiligheid van de civiele luchtvaart. Voor de NVA 
+worden daarom die raakvlakken meegenomen in de risicoanalyse. 
+ 
+Geografisch is de afbakening beperkt tot Nederland, inclusief Caribisch Nederland, exclusief de autonome landen 
+Curaçao, Aruba en Sint Maarten in het Koninkrijk. 
+ 
+De afbakening beperkt zich tot luchtvaartveiligheid. Beveiliging valt buiten de afbakening van de NVA. Het Nationaal 
+Programma voor de Beveiliging van de Burgerluchtvaart gaat in op dat onderwerp. Arboveiligheid is buiten de 
+afbakening van de NVA. Alle activiteiten die in de ICAO Annexen zijn beschreven, met uitzondering van beveiliging, 
+vallen in de afbakening van de NVA. 
+ 
+De afbakening omvat het hele luchtvaartveiligheidssysteem zoals weergegeven in Figuur 2. De NVA is gericht op de 
+risico’s die niet in zijn geheel en/of niet optimaal op het niveau van een individuele luchtvaartorganisatie te beheersen 
+zijn, maar een samenwerking tussen luchtvaartorganisaties en/of overheden vereisen. DGLM en ILT zijn in de context 
+van de NVA aparte organisaties. Hoewel ze beide onderdeel zijn van hetzelfde ministerie hebben ze een andere rol in 
+het luchtvaartsysteem. Ook andere overheden (provincies en gemeentes) die een rol spelen in regelgeving en toezicht 
+en de politie vallen binnen de afbakening en worden gezien als aparte organisaties. 
+ 
+11 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+2 Belangrijkste risico’s per domein 
+2.1 Commerciële luchtvaart 
+Uit het risicobeoordelingsproces voor de commerciële luchtvaart zijn de volgende zeven risico’s naar voren gekomen 
+die de meeste prioriteit zouden moeten krijgen: 
+• Vogelaanvaringen (COM.01) 
+• Toenemende commerciële onbemande luchtvaartactiviteiten (COM.62) 
+• Luchtruimschendingen kleine luchtvaart en onbemande luchtvaart (COM.14) 
+• Gebrek aan kwaliteit van het toezicht op organisaties (COM.20) 
+• Werkdruk bij huidig personeel door moeite met het aantrekken van voldoende gekwalificeerd personeel 
+(COM.88) 
+• Gebrek aan, en onderhouden van just culture (inclusief just culture bij grondafhandeling en nieuw personeel) 
+(COM.21) 
+• Misdragende passagiers (COM.65) 
+2.2 Kleine luchtvaart 
+Uit het risicobeoordelingsproces voor de kleine luchtvaart zijn de volgende vijf risico’s naar voren gekomen die de 
+meeste prioriteit zouden moeten krijgen: 
+• Geen goede vluchtvoorbereiding (GA.25) 
+• Complex en versnipperd Nederland luchtruim (GA.12) 
+• Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van zweefvliegclubs (GA.32) 
+• Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog turbulentie) (GA.03) 
+• Geen of beperkt omgevingsbewustzijn (GA.27) 
+2.3 Onbemande luchtvaart 
+Uit het risicobeoordelingsproces voor de onbemande luchtvaart zijn de volgende zes risico’s naar voren gekomen die 
+de meeste prioriteit zouden moeten krijgen: 
+• Onvoldoende separatie tussen onbemande luchtvaartuigen en andere luchtruimgebruikers (inclusief andere 
+onbemande luchtvaartuigen) (OL.03) 
+• Luchtruimschending met een onbemand luchtvaartuig (militair en civiel) (OL.15) 
+• Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door technische falen (OL.25) 
+• Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door menselijke fouten (OL.17) 
+• Operators van onbemande luchtvaartuigen in de open categorie zijn onvoldoende op de hoogte van de op de 
+operatie van toepassing zijnde regelgeving en procedurevereisten (OL.10) 
+• Onbemande luchtvaartuig operaties in de nabijheid van kleine luchtvaartoperaties (OL.16) 
+13 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+3 Risicobeheersmaatregelen 
+3.1 Proces 
+De risicobeheersmaatregelen zijn in eerste instantie opgesteld door het projectteam NVA. Voor elk van de in het 
+vorige hoofdstuk opgesomde risico’s heeft het projectteam NVA ingeschat welke instrumenten geschikt zijn om het 
+betreffende risico te vermijden, reduceren en/of segregeren. Daarbij heeft het projectteam NVA onder andere gebruik 
+2
+gemaakt van de typologie van Korsten en het overzicht van instrumenten van het Kenniscentrum Wetgeving en 
+3
+Juridische Zaken . Het projectteam heeft daarbij medewerkers van DGLM en ILT geconsulteerd. Dat gebeurde in twee 
+werksessies, waarbij de eerste werksessie was gericht op de domeinen commerciële luchtvaart, kleine luchtvaart en 
+onbemande luchtvaart. De tweede werksessie was gericht op de risico’s voor de luchtvaart in Caribisch Nederland. Op 
+basis van de resultaten van deze twee werksessies en de voorlopige analyses heeft het NVA projectteam een beperkt 
+aantal mogelijke beheersmaatregelen geselecteerd. Hierbij zijn alleen initiatieven die geschikt zijn voor implementatie 
+in Nederland meegenomen. Het projectteam heeft de initieel geselecteerde risicobeheersmaatregel in meer detail 
+uitgewerkt voor de volgende elementen:  
+• Beschrijving van de beheersmaatregel 
+• Betrokken partijen 
+• Effect van de beheersmaatregel 
+• Effectiviteit van de beheersmaatregel 
+• Kosten 
+ 
+De beschrijvingen van de beheersmaatregelen zijn per domein toegestuurd aan de klankbordgroepen. In werksessies 
+(en voor elk domein) hebben de deelnemers aan de klankbordgroepen gereflecteerd op de beheersmaatregelen en te 
+verwachten effectiviteit, kosten en geschiktheid voor implementatie. De resultaten van de werksessies zijn gebruikt 
+om de beschrijving van de beheersmaatregelen, de schattingen van effectiviteit en de kostenschattingen aan te 
+scherpen.  
+ 
+De klankbordgroepen waren als volgt samengesteld: 
+Commerciële luchtvaart 
+Elf experts van het Ministerie IenW, ISMS, Schiphol, Eindhoven Airport, LVNL, KNMI en VNV. 
+ 
+Kleine luchtvaart 
+Negen experts van het Ministerie IenW, AOPA, KNVvL, NVL, LVNL, KNMI, KLS en MLA. 
+ 
+Onbemande luchtvaart 
+Acht experts van het Ministerie IenW, RPAS services, Politie, KNVvL, LVNL en Unmanned Valley. 
+ 
+Caribisch Nederland 
+Vier experts van het Ministerie IenW. 
+ 
+ 
+                                                                 
+2
+ Korsten, A.F.A. (2005). De keuze van een sturingsaanpak 
+3
+ https://www.kcwj.nl 
+15 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+3.3 Doorzetting naar acties in het NALV 
+De hier beschreven beheersmaatregelen zijn een eerste richtinggevende inventarisatie, met ruimte voor prioritering 
+en keuze binnen en tussen beheersmaatregelen en verdere detaillering. Het Ministerie van Infrastructuur en 
+Waterstaat beslist welke acties uiteindelijk in het NALV terecht komen. 
+3.4 Resultaat 
+Commerciële luchtvaart is bijzonder veilig. In de Europese Unie heeft zich sinds 2015 geen ongeval in de commerciële 
+luchtvaart voorgedaan. De kans om in een ongeval om het leven te komen is voor de commerciële luchtvaart veel 
+kleiner dan voor andere vormen van transport zoals autorijden of fietsten, en is ook kleiner dan minder voor de hand 
+9
+liggende scenario’s zoals overlijden als gevolg van een hondenbeet . Deze veiligheid is het gevolg van gezamenlijke 
+inspanningen van de internationale luchtvaartsector en zijn een uitvloeisel van een breder maatschappelijk verlangen 
+naar een grotere veiligheid. Het huidige hoge niveau van veiligheid betekent ook dat het steeds moeilijker wordt om 
+10
+de veiligheid verder te verbeteren. De economische ‘wet van de afnemende meeropbrengst’ geldt in zekere zin ook 
+voor de veiligheid in de commerciële luchtvaart. Dat betekent dat risicobeheersmaatregelen minder voor de hand 
+liggend zijn, en ook dat het effect van beheersmaatregelen niet heel groot zal zijn. Dit betekent niet dat de veiligheid 
+voldoende is en dat aanvullende maatregelen niet nodig zijn. Het hoge veiligheidsniveau zorgt er juist voor dat 
+ongevallen meer dan ooit ontoelaatbaar zijn en de overheid en de luchtvaartsector er samen alles aan moeten doen 
+om de kans op een ongeval zo klein mogelijk te maken.  
+ 
+Kleine luchtvaart loopt in de volwassenheid van de veiligheidsmanagementsystemen achter bij de commerciële 
+luchtvaart. Ook op technisch gebied zijn er nog veel stappen te zetten, er wordt eigenlijk nog steeds grotendeels 
+gebruik gemaakt van techniek uit de jaren 60. Daarom is het eenvoudiger om voor de kleine luchtvaart concrete 
+verbetervoorstellen te formuleren. Ook bij onbemande luchtvaart is veiligheidsmanagement minder volwassen, maar 
+dat domein is nog volop in ontwikkeling, wat het juist weer lastig maakt om concrete verbetervoorstellen te 
+identificeren. Het aantal maatregelen per domein staat dus los van de kansen en consequenties, maar is een 
+afspiegeling van de hoeveelheid ‘laag hangend fruit’. 
+ 
+Het aantal vliegtuigbewegingen in Caribisch Nederland is relatief klein ten opzichte van het aantal bewegingen in 
+Europees Nederland. Vanuit Den Haag is er minder aandacht voor luchtvaart in Caribisch Nederland dan voor 
+luchtvaart in Europees Nederland. Caribisch Nederland staat sinds de aanvang van de nieuwe constitutionele status in 
+11
+2010 voortdurend voor grote economische, sociale, bestuurlijke en financiële uitdagingen . Dat is ook terug te zien in 
+de geprioriteerde risico’s en de voorgestelde risicobeheersmaatregelen. 
+ 
+ 
+                                                                 
+9
+ Allianz. (2019). Aviation Risk 2020.  
+10
+ Heertje, A. (1962). De kern van de economie. Stenfert Kroese. 
+11
+ Economisch Bureau Amsterdam. (2020). Kleine eilenden, grote uitdagingen. 
+17 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+In het convenant wordt, naast een aantal concrete beheersmaatregelen, afgesproken dat er gezamenlijk onderzoek 
+gedaan zal worden naar aanvullende beheersmaatregelen. De beheersmaatregel die volgt uit de NVA kan aansluiten 
+op die afspraak. Dit leidt tot verbetermaatregel COM.01.B.1 Inventarisatie en evaluatie van maatregelen. 
+  
+19 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+GA.27.B.2. Daarnaast beschrijft de folder ‘Voorkom Luchtruimschendingen’ het belang van goede 
+vluchtvoorbereiding. Maatregelen ter verbetering van de vluchtvoorbereiding zijn beschreven als GA.25.B.1 t/m 
+GA.25.B.3. Bij de vluchtvoorbereiding, en ook bij de vluchtuitvoering, kunnen piloten gebruik maken van operationele 
+ondersteuning door de luchtverkeersleiding, ook buiten het gecontroleerde luchtruim. Lang niet alle piloten in de 
+kleine luchtvaart maken optimaal gebruik van deze operationele ondersteuning. Beter gebruik maken van deze 
+mogelijkheden kan ook de kans op luchtruimschendingen verkleinen. Beheersmaatregel GA.03.B.2 gaat daar over.  
+3.4.1.4 Gebrek aan kwaliteit van het toezicht op organisaties (COM.20) 
+Vanaf 2008 is er een periode van opeenvolgende taakstellingen geweest die hebben geleid tot een personeelsreductie 
+bij ILT. De toenmalige inspecteur-generaal was daarbij van mening dat er voor luchtvaart sprake was van een 
+13
+handhavingsoverschot bij ILT . Ook in 2015 was er sprake van een taakstelling en is een vacaturestop ingesteld. Vanaf 
+2016 is ingezet op risicogericht werken Vanaf 2018 is er een structuurverandering in gang gezet en is er structureel 
+14
+meer budget beschikbaar gekomen . De OVV concludeerde in 2017 dat de vakinhoudelijke kennis en de capaciteit 
+van de ILT onvoldoende zijn om effectief toezicht te houden op de veiligheid van het vliegverkeer op en rondom 
+Schiphol. In de Systeemmonitor luchtvaartveiligheid met peildatum 1 januari 2020 werd geconcludeerd dat 
+internationale kaders voor het toezicht niet volledig waren geïmplementeerd. 
+ 
+Bij het risicogericht werken hoort een sterke informatiepositie. Bij de uitvoering van deze NVA is gebleken dat de 
+informatiepositie van nog ILT onvoldoende is om voor de geïdentificeerde risicoscenario’s de risiconiveaus te 
+beoordelen. De veelheid aan regels, betrokken partijen en informatiebronnen vraagt om een stevige inspanning, 
+zowel bij het vinden van kwalitatief goede informatie, als bij het ontwikkelen van de benodigde ICT-ondersteuning.  
+ 
+Dit alles maakt de noodzaak voor verbetering van de capaciteit en middelen van ILT duidelijk. Dit moet zorgvuldig 
+gebeuren. De overheid staat voor enorme uitdagingen op verschillende terreinen (energietransitie, woningbouw, 
+defensie, stikstof, etc.) en dus is het meer dan ooit nodig om middelen zo effectief mogelijk in te zetten. Dit leidt tot 
+verbetermaatregel COM.20.B.1 Verbeteren capaciteit en middelen ILT – Inventarisatie van behoeften en opstellen van 
+een verbeterplan 
+  
+                                                                 
+13
+ NLR. (2012). De veiligheid van de burgerluchtvaart in Nederland anno 2011. NLR-CR-2011-249. 
+14
+ ILT. Jaarverslagen 2015 t/m 2020. https://magazines.ilent.nl/jaarverslag-ilt 
+21 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+3.4.1.5 Werkdruk bij huidige personeel door moeite met het aantrekken van voldoende 
+gekwalificeerd personeel (COM.88) 
+De beschikbaarheid van gekwalificeerd probleem zal gaan toenemen als meer mensen starten met een relevante 
+opleiding. Het gaat hier voornamelijk om technische opleidingen. Een manier om dat te doen is limitatie van het 
+aantal studenten van niet-technische opleidingen (beperkend instrument). VNO-NCW-bestuurder en voorzitter van 
+Techniek Nederland Terpstra heeft dat voorgesteld in een interview met het AD in februari 2022. Hierop is door 
+Minister Dijkgraaf geantwoord dat een vrije studiekeuze de basis blijft in het beroepsonderwijs. Het ligt daarom meer 
+voor de hand om te denken aan het stimuleren van technische opleiding (verruimend instrument). Ook kan worden 
+ingezet op het aantrekken van reeds (gedeeltelijk) gekwalificeerd personeel uit andere disciplines of het aantrekken 
+van gekwalificeerd personeel uit andere EU-lidstaten. In andere sectoren is dat succesvol gebleken. Maar het kan ook 
+leiden tot weerstand, met als argument dat banen worden ingenomen door goedkopere arbeidskrachten. Aantrekken 
+van gekwalificeerd personeel past bij het vrije verkeer van diensten, een van de vier vrijheden van de Europese Unie. 
+Dit leidt tot de beheersmaatregelen COM.88.B.1 Aantrekken personeel uit andere EU lidstaten en COM.88.B.2 
+Technische opleidingen stimuleren. 
+  
+23 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.88.B.2 Technische opleidingen stimuleren 
+Beschrijving beheersmaatregel 
+De spanningsindicator van het Uitvoeringsinstituut Werknemersverzekeringen(UWV) geeft aan dat de spanning op 
+de arbeidsmarkt voor technische beroepen zeer hoog is [1]. Indien meer mensen kiezen voor een technische 
+opleiding zou die krapte op langere termijn verlicht kunnen worden. Voorbeelden van soortgelijke 
+stimuleringsprogramma’s zijn ‘Kies exact’, en ‘THEA studeert techniek’ in de jaren ’80. Ook omscholing kan voor 
+bepaalde werkzaamheden (bijvoorbeeld in de grondafhandeling) een oplossing zijn.  
+ 
+Wat hierbij helpt is het oprichten van een sectorbrede traineepool. De trainees gaan de hele sector door in twee 
+jaar. Zo worden uitwisseling, netwerk en kennis gestimuleerd.  
+ 
+Aantrekkelijkheid is ook afhankelijk is van het imago van de sector. Die staat onder druk door discussies over o.a. 
+duurzaamheid. Het verbeteren van het imago kan daarom onderdeel zijn van de maatregel. 
+Betrokken partijen 
+• Ministerie IenW 
+• Ministerie van Onderwijs, Cultuur en Wetenschap 
+• Onderwijsinstellingen 
+Effect van beheersmaatregel 
+Het effect van deze maatregel wordt pas op langere termijn zichtbaar. De luchtvaart is niet de enige sector waar 
+krapte op de arbeidsmarkt aanwezig is, dit geldt voor vrijwel alle technische beroepen. Werk in de luchtvaartsector 
+zal daarom ook voldoende aantrekkelijk moeten zijn om de concurrentie met andere sectoren aan te kunnen.  
+Effectiviteit 
+Om meer jongeren te laten kiezen voor een technische opleiding is voorlichting niet voldoende. Belangrijk is de 
+aanwezigheid van rolmodellen [2]. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 100.000,- voor het oprichten van een traineepool en € 
+100.000,- voor een campagne om het imago van de luchtvaartsector te verbeteren. 
+Referenties 
+[1] UWV spanningsindicator https://www.werk.nl/arbeidsmarktinformatie/dashboards/spanningsindicator 
+[2] Klapwijk, R., Rommes, E. (2009. Career orientation of secondary school students (m/f) in the Netherlands. Int J 
+Technol Des Educ (2009) 19:403–418. 
+ 
+  
+25 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.21.B.1 Invoeren van VMS voor grondafhandelingsbedrijven 
+Beschrijving beheersmaatregel 
+De beheersmaatregel betreft het invoeren van veiligheidsmanagementsystemen (VMS) voor 
+grondafhandelingsbedrijven. In Nederland kan een VMS door de luchthaven worden afgedwongen door het aan de 
+toelatingseisen toe te voegen. Via de Schipholpas (of soortgelijk systeem op andere vliegvelden) kan kennis over 
+het VMS worden afgedwongen. Overigens is het stellen van toelatingseisen een gevoelige discussie geworden door 
+de recentelijke media-aandacht die de toelatingseisen op Schiphol hebben gekregen. Bovendien is het vaststellen 
+van toelatingseisen een complex samenspel met een rol voor de luchtvaartmaatschappijen en toezicht door de 
+Autoriteit Consument en Markt (ACM). EASA is bezig met het voorbereiden van regelgeving voor grondafhandeling 
+en Schiphol is bezig met het ontwikkeling van een ‘license of operating’. Het zal nog zeker een paar jaar duren voor 
+de EASA regelgeving definitief van kracht is. In de tussentijd kunnen grondafhandelingsbedrijven al 
+veiligheidsmanagementsystemen invoeren. IenW kan een steentje bijdragen door middel van een 
+voorlichtingscampagne over het belang van VMS en veiligheidscultuur en het delen van best practices.  
+Betrokken partijen 
+• Ministerie IenW 
+• Luchthavens 
+• Grondafhandelingsbedrijven 
+• Luchtvaartmaatschappijen 
+Effect van beheersmaatregel 
+Volgens de literatuur levert veiligheidscultuur in het algemeen een belangrijke bijdrage aan de veiligheid van de 
+luchtvaart [1,2]. In relatie tot de uitvoering van het werk wordt veiligheidscultuur gezien als een voorwaarde voor 
+veiligheidskennis en -bewustzijn, wat vervolgens het veiligheidsgerelateerd gedrag en de veiligheidsprestaties van 
+een organisatie beïnvloeden [3,4,5]. Er is een relatie tussen de implementatie van een 
+veiligheidsmanagementsysteem en veiligheidscultuur [6]. Een veiligheidsmanagementsysteem heeft een positieve 
+invloed op een veerkrachtige veiligheidscultuur [7]. 
+Effectiviteit 
+De effectiviteit van deze maatregel zal afhangen van overtuigingskracht die IenW (via de luchthaven) heeft om 
+grondafhandelingsbedrijven het belang van VMS te laten inzien, en de wijze waarop wordt toegezien op de 
+effectieve implementatie. 
+Kosten 
+Kosten voor een voorlichtingscampagne over het belang van VMS en veiligheidscultuur en het delen van best 
+practices worden geschat op € 80.000,-. 
+Referenties 
+[1] Sexton, J.B., Klinect, J.R. (2001). The link between safety attitudes and observed performance in flight 
+operations. In: Proceedings of the Eleventh International Symposium on Aviation Psychology, Columbus, OH, 
+Ohio State University. 
+[2] Harvey, J., Erdos, G., Bolam, H., Cox, M. A. A., Kennedy, J. N. P., and Gregory, D. T. (2002). An Analysis of Safety 
+Culture Attitudes in a Highly Regulated Environment, Work and Stress, 16, 1, 18-36. 
+[3] Neal, A., Griffin, M.A. (2004). Safety climate and safety at work. In Barling, J. & Fone. N.R. (Eds). The psychology 
+of workplace safety. American Psychological Association, Washington, DC. 
+[4] Christian, M.F., Bradley, J.C., Wallace, J.C., Burke, M.J. (2009). Workplace safety: a meta-analysis of the roles of 
+person and situation factors. Journal of Applied Psychology, Vol. 94, No. 5, 1103–1127. 
+[5] Clarke, S. (2010). An Integrative Model of Safety Climate: Linking Psychological Climate and Work Attitudes to 
+Individual Safety Outcomes Using Meta-Analysis, Journal of Occupational and Organizational Psychology, 83, 
+553-578. 
+[6] Robertson, M.F. (2018). Examining the Relationship Between Safety Management System Implementation and 
+Safety Culture in Collegiate Flight Schools. Journal of Aviation Technology and Engineering 7:2, 2–14 
+[7] Adjekum, D.K., Tous, M.F. (2020). Assessing the relationship between organizational management factors and a 
+resilient safety culture in a collegiate aviation program with Safety Management Systems (SMS). Safety Science 
+131, 104909.  
+  
+27 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.65.B.1 Verbetering passagiersdoorstroming op luchthavens 
+Beschrijving beheersmaatregel 
+Verbeteren van de doorstroming van passagiers op de luchthaven waardoor passagiers minder lang op een 
+luchthaven aanwezig zijn en minder gefrustreerd raken door lange wachttijden bij de beveiligings- en 
+paspoortcontrole. De maatregelen die zijn gericht op beperking van de verspreiding van het coronavirus SARS-CoV-2 
+(dragen van mondmaskers, kunnen tonen van een recent negatief PCR-testresultaat, kunnen tonen van een geldig 
+vaccinatiebewijs, etc.) kunnen de doorstroming vertragen en leiden bij een deel van de passagiers tot extra irritatie. 
+Deze maatregel past in het kader van maatregelen die door ICAO worden voorgesteld om het probleem van 
+misdragende passagiers aan te pakken [1]. Eén van de maatregelen die in dat kader worden benoemd is: 
+“Harmonized actions […] to reduce the circumstances or factors (such as flight delays, alcohol consumption, 
+deprivation of tobacco, etc.) that contribute to the development of unruly and disruptive acts or, when they do 
+occur, tend to aggravate their effects”. 
+Betrokken partijen 
+• Ministerie IenW 
+• Luchthavens 
+• Koninklijke Marechaussee 
+• Ministerie van Justitie en Veiligheid 
+• Luchtvaartmaatschappijen 
+Effect van beheersmaatregel 
+Door een betere doorstroming zijn passagiers minder gefrustreerd wanneer ze het vliegtuig betreden. Als de 
+doorstroming structureel wordt verbeterd zouden passagiers minder lang voor de schema vertrektijd op de 
+luchthaven aanwezig hoeven zijn. Hierdoor hebben passagiers minder lang tijd te spenderen in bijvoorbeeld bars 
+waardoor er mogelijk minder gevallen zijn van overmatige alcoholconsumptie.  
+Effectiviteit 
+De effectiviteit hangt af van de mate waarin de doorstroming kan worden verbeterd, zonder dat daarbij afbreuk 
+wordt gedaan aan de kwaliteit van de beveiliging. De maatregel zal daarbij niet alle wachttijd kunnen wegnemen, en 
+bij vertragingen van vluchten zullen passagiers alsnog langer moeten wachten dan voorzien. Ook zonder wachttijden 
+zullen er passagiers zijn die zich misdragen.  
+Kosten 
+De benodigde menskracht voor het verbeteren van de doorstroming worden geschat op 1.5 fte over een periode van 
+twee jaar. De bijbehorende kosten zijn naar schatting € 360.000,-.  
+Referenties 
+[1] ICAO (2019). Manual on the Legal Aspects of Unruly and Disruptive Passengers. Doc 10117, First Edition. 
+International Civil Aviation Organization, Montreal, Canada. 
+ 
+  
+29 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.2 Beheersmaatregelen voor de kleine luchtvaart 
+3.4.2.1 Geen goede vluchtvoorbereiding (GA.25) 
+Een piloot wordt geacht elke vlucht op een goede manier voor te bereiden. Voor een goede vluchtvoorbereiding moet 
+de piloot kunnen beschikken over adequate, nauwkeurige en tijdige informatie. Ook de piloot deze informatie goed 
+kunnen verwerken op een manier die aansluit bij de training en van toepassing zijnde procedures.  
+Aanvullende handhaving van regels voor vluchtvoorbereiding (economisch beperkend instrument) is theoretisch 
+mogelijk, maar lijkt in de praktijk niet haalbaar vanwege de beperkte capaciteit van ILT in relatie tot de hoeveelheid 
+GA vluchten. Juridisch en communicatief verruimende instrumenten bieden meer mogelijkheden. Daarnaast zijn er 
+maatregelen denkbaar die de piloten helpt om de informatie voor vluchtvoorbereiding beter te verwerken. Stimuleren 
+van het vier ogen principe bij vluchtvoorbereiding leidt misschien voor wat weerstand bij vliegclubs omdat daar tijd 
+voor moet worden vrijgemaakt door de leden.  
+Dit leidt tot de volgende beheersmaatregelen: 
+GA.25 B.1 Voorlichtingscampagne over het belang van goede vluchtvoorbereiding 
+GA.25.B.2 Stimuleren van het toepassen van het vier ogen principe bij vluchtvoorbereiding 
+GA.25.B.3 Betere voorziening van informatie die gebruikt wordt bij het voorbereiden van vluchten 
+31 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.25.B.2: Stimuleren van toepassing van het vier ogen principe bij vluchtvoorbereiding 
+Beschrijving beheersmaatregel 
+Met het vier ogen principe wordt bedoeld dat elke piloot die een vlucht voorbereidt deze vluchtvoorbereiding 
+bespreekt met een andere piloot. Door deze informele semi-onafhankelijke toets wordt het belang van een 
+vluchtvoorbereiding onderstreept, kunnen piloten kennisnemen van elkaars ‘best practices’, en elkaar aanspreken 
+op de kwaliteit van de vluchtvoorbereiding. Introductie van het vier ogen principe voor vluchtvoorbereiding kan het 
+best gebeuren vanuit de sector zelf, bijvoorbeeld door KNVvL, waarbij IenW ondersteuning (subsidie voor 
+onkosten) zou kunnen leveren. Veel vliegers vliegen met een ‘standaard maatje’. Hierdoor ontstaat de kans dat 
+men samen in een bubbel komt en tekortkomingen in de vluchtvoorbereiding minder goed opmerkt. Het zou 
+helpen als er dan een neutraal persoon op een veld beschikbaar is om een extra check te doen of mee te kijken. De 
+safety manager bij vliegclubs zou hier ook een rol in kunnen vervullen. 
+Betrokken partijen 
+• Belangenverenigingen: AOPA, KNVvL
+• Ministerie IenW
+• Vliegclubs en vliegscholen
+• Luchthavens
+Effect van beheersmaatregel 
+De beheersmaatregel zorgt voor een informele semi-onafhankelijke toets van de vluchtvoorbereiding. De persoon 
+die de vlucht voorbereiding doet heeft een extra prikkel om de vluchtvoorbereiding goed uit te voeren, en kan leren 
+van de feedback. Anderzijds kan ook de toetsende partij er van leren doordat kennis wordt genomen van best 
+practices. Deze maatregel is effectief als beide partijen elkaar scherp houden en elkaar aanspreken. De effectiviteit 
+is daarom afhankelijk van cultuur binnen de GA-gemeenschap. Individuen die nu al zeer beperkte 
+vluchtvoorbereiding doen (omdat ze daar geen tijd voor vrijmaken of omdat ze het onnodig vinden) zullen het 
+minst vatbaar zijn voor deze maatregel. Door meer tijd te besteden aan de vluchtvoorbereiding (plannen en 
+verzamelen van gegevens) wordt de werklast tijdens de vlucht verminderd [1]. 
+Effectiviteit 
+Door het laten controleren van informatie door een tweede persoon wordt de kans op fouten ongeveer drie keer 
+kleiner dan zonder deze controle [2]. Belangrijker lijkt echter de extra aandacht voor de vluchtvoorbereiding die 
+wordt verkregen door deze maatregel. In ongeveer 10% van alle GA-ongevallen in de VS was onjuiste 
+vluchtvoorbereiding een oorzakelijke factor [3]. 
+Kosten 
+De kosten voor introductie van deze beheersmaatregel worden geschat op € 70.000,-. Deze schatting is gebaseerd 
+op een tijdsinzet van twee dagen (16 uur). Deze tijdsinzet is nodig voor de 24 motorvliegclubs en 34 zweefvliegclubs 
+in Nederland. Er is daarbij uitgegaan van een gemiddeld uurtarief van € 75,- per uur. De uitvoeringskosten na 
+introductie van deze maatregel zijn niet geschat. 
+Referenties 
+[1] Endsley, M.R., Garland, D.J. (2000). Pilot situation awareness training in general aviation. Proceedings of the
+IEA/HFES 2000 Congress, p. 2-357 – 2-360.
+[2] Douglass, A.M. et al. (2018). A Randomized Controlled Trial on the Effect of a Double Check on the Detection of
+Medication Errors. Annals of Emergency Medicine Volume 71, Issue 1, Pages 74-82.e1.
+[3] Wiegmann, D. et al. (2005). Human Error and General Aviation Accidents: A Comprehensive, Fine-Grained
+Analysis Using HFACS. DOT/FAA/AM-05/24. Office of Aerospace Medicine, Federal Aviation Administration,
+Washington D.C.
+33 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.2.2 Complex en versnipperd Nederlands luchtruim (GA.12) 
+Voor de hand liggend is om de complexiteit en de versnippering van het Nederlandse luchtruim aan te pakken. 
+Hiermee wordt de kans gereduceerd dat het gevaar optreedt. De herindeling is een ingewikkeld proces met vele 
+verschillende belangen en betrokken partijen. De belangen voor de commerciële luchtvaart zijn groot (tijdwinst, 
+brandstofbesparing) en ook maatschappelijke belangen (milieu en geluid) hebben met name betrekking op de 
+commerciële luchtvaart. Het belang van de kleine luchtvaart kan daarbij snel over het hoofd worden gezien.  
+Daarnaast zijn er maatregelen denkbaar om de gevolgen van de complexiteit te reduceren. Dat kan door stimulerende 
+voorlichting (communicatief verruimend instrument) maar ook op een actievere manier door piloten meer 
+operationele ondersteuning te geven tijdens vluchtvoorbereiding en de vluchtuitvoering, zie ook beheersmaatregelen 
+GA.25.B.3 en GA.03.B.2. 
+Dit leidt tot beheersmaatregelen GA.12.B.1 Luchtruimherziening en GA.12.B.2 Voorlichting over het Nederlandse 
+luchtruim. 
+35 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.12.B.2 Voorlichting over het Nederlands luchtruim 
+Beschrijving beheersmaatregel 
+Het organiseren van een voorlichtingscampagne over de inrichting van het Nederlands luchtruim. Hierin moet 
+aandacht zijn voor de lastige situaties waarin de meeste fouten gemaakt worden door GA-vliegers (hotspots). Een 
+dergelijke campagne kan ondersteund worden door voorlichtingsvideo’s, webinars, etc. 
+Betrokken partijen 
+• Ministerie IenW
+• LVNL, MilATCC
+• Belangenverenigingen AOPA, KNVvL
+Effect van beheersmaatregel 
+Door een betere voorlichting over de inrichting van het luchtruim, wordt de kans kleiner dat een GA-piloot tijdens 
+de vlucht onbedoeld in een verkeerd luchtruim terecht komt. 
+Effectiviteit 
+Volgens het ABL dashboard luchtruimvoorvallen zijn er per maand ongeveer 35 luchtruimschendingen door GA-
+vliegtuigen. Ongeveer de helft daarvan betreft schendingen van de CTR. Het aantal CTR-schendingen is 
+toegenomen sinds de aanpassing van de luchtruimstructuur boven Lelystad in 2019. In onderstaande figuur is het 
+aantal gemelde voorvallen van luchtruimschendingen door GA-vliegtuigen bij Lelystad airport weergegeven (Bron 
+ABL Dashboard luchtvaartvoorvallen). De toename sinds november 2019 is evident. 
+De effectiviteit van deze maatregel wordt mede bepaald door de mate waarin alle GA-vliegers, en in bijzonder de 
+zelfstandige vliegers, bereikt wordt. Uit de literatuur volgt dat 5% van de doelgroep naar aanleiding van een 
+campagne de gewenste gedragsverandering vertoont [1]. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 150.000,-. Deze schatting is gebaseerd op 
+kosteninformatie van uitgevoerde voorlichtingscampagnes. 
+Referenties 
+37 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.32.B.1 Statische informatieverstrekking over luchtsportactiviteiten 
+Beschrijving beheersmaatregel 
+Piloten hebben zowel in de vluchtvoorbereiding als in de vluchtuitvoering soms moeite om alle relevante informatie 
+te selecteren en te verwerken. Tevens is verwarring mogelijk omdat sommige luchtsportlocaties slechts incidenteel 
+gebruikt worden. Een gevolg hiervan is dat GA-vliegers zich soms niet bewust zijn van het feit dat ze in gebieden 
+vliegen waar luchtsportactiviteiten plaatsvinden die een gevaar kunnen opleveren of waarvoor ze zelf een gevaar 
+vormen. 
+Verbeteren van de informatievoorziening over luchtsportactiviteiten door: 
+a) Eenvoudiger beschikbaar maken van actuele informatie over luchtsportactiviteiten
+b) Herziene weergave op luchtvaartkaarten van gebieden waar luchtsportactiviteiten plaats kunnen vinden.
+Ad a): Actuele informatie over locaties waar luchtsportactiviteiten plaatsvinden zou eenvoudiger beschikbaar 
+gemaakt kunnen worden. NOTAMs zijn omvangrijk en moeilijk leesbaar. Ook zouden gestandaardiseerde 
+informatiepakketten kunnen worden ontwikkeld voor veel voorkomende situaties of veel gebruikte routes. 
+Ad b): Op luchtvaartkaarten is de wijze waarop gebieden waar luchtsportactiviteiten kunnen plaatsvinden soms 
+relatief onopvallend en/of beperkt informatief. Door een andere weergave kan de opvallendheid worden vergroot. 
+In het VK staat op de kaart de hoogte tot waar een “G” (glider) startbedrijf actief is. Dit kan helpen om het 
+bewustzijn te verhogen bij motorvliegers. 
+Om dit te kunnen doen moet eerst een inventarisatie worden gemaakt van de behoeften, gevolgd door een 
+uitvoeringsplan. 
+Betrokken partijen 
+• Verkeersleiding (LVNL ,MiLATCC)
+• Belangenverenigingen (AOPA, KNVvL)
+• Luchthavens
+• Luchtsportclubs
+• Ministerie IenW
+Effect van beheersmaatregel 
+Door deze beheersmaatregel kunnen piloten tijdens de vluchtvoorbereiding eenvoudiger en duidelijker 
+kennisnemen van gebieden waar luchtsportactiviteiten plaatsvinden. 
+Effectiviteit 
+De effectiviteit van deze beheersmaatregel hangt in grote mate af van de toewijding van piloten aan het 
+voorbereiden van een vlucht. Wanneer piloten weinig aandacht besteden aan de vluchtvoorbereiding zal deze 
+maatregel niet effectief zijn. Deze maatregel moet daarom bij voorkeur worden gekoppeld aan GA.25.B.1 en/of 
+GA.25.B.2. 
+Kosten 
+De kosten voor de inventarisatie van behoeften en de ontwikkeling van een uitvoeringsplan worden geschat op € 
+100.000,-. Deze schatting is gebaseerd op studies van vergelijkbare omvang die eerder zijn uitgevoerd. 
+Uitvoeringskosten zijn afhankelijk van de inhoud van het uitvoeringsplan en kunnen nog niet worden geschat. 
+Referenties 
+39 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.32.B.3 Actueel verkeersbeeld in de omgeving van luchtsportactiviteiten 
+Beschrijving beheersmaatregel 
+Deze maatregel betreft de ontwikkeling of aanschaf van een systeem waarmee op een vliegveld of voor een 
+luchtruimsector een actueel verkeersbeeld zichtbaar is op basis van ADS-B en FLARM signalen (zoals bijvoorbeeld 
+door Flightradar 24 gedaan wordt). Hiermee kan de gebruiker het vliegverkeer in de omgeving van een 
+luchtsportgebied monitoren en luchtsportactiviteiten tijdelijk staken als er een conflict dreigt. 
+Hiervoor zou het nuttig zijn als er regels komen voor een gemeenschappelijke standaard voor signalering van 
+verkeer in de lucht. Op dit moment zijn er verschillende technieken in gebruik zoals FLARM en ADS-B. Idealiter 
+kunnen de systemen alle typen signalen gebruiken. 
+Voor de werking van deze beheersmaatregel moeten alle bemande luchtvaartuigenmoeten van een systeem 
+worden voorzien. Ook moet elk luchtsportgebied worden voorzien van een detectiesysteem. 
+Betrokken partijen 
+• Ministerie IenW
+• OEM – Avionica
+• LVNL, MilATCC
+• AOPA / KNVvL
+Effect van beheersmaatregel 
+Door deze maatregel kunnen zweefvliegclubs beschikken over een actueel beeld van het vliegverkeer in de 
+omgeving van het zweefvliegterrein, en kunnen activiteiten tijdelijk staken indien er een conflict dreigt. Daarvoor is 
+het wel nodig dat het verkeersbeeld permanent wordt gemonitord. 
+Effectiviteit 
+Het zal niet altijd eenvoudig zijn om snel genoeg te anticiperen op bewegingen van het verkeer in de omgeving van 
+het luchthaventerrein, een vliegtuig kan bijvoorbeeld plots van koers veranderen. 
+Kosten 
+Voor de kostenschatting wordt uitgegaan van systeemkosten van € 1.000,- per on-board unit, en de 
+veronderstelling dat alle bemande luchtvaartuigen van een dergelijk systeem moeten worden voorzien. Daarnaast 
+wordt uitgegaan van € 5.000,- systeemkosten voor een grondstation, en de veronderstelling dat 30 
+luchtvaartterreinen van een dergelijk grondstation moeten worden voorzien, worden de totale kosten geschat op 
+circa € 2.400.000,-. 
+Referenties 
+41 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.32.B.5 Voorlichting over risico’s van luchtsportgebieden 
+Beschrijving beheersmaatregel 
+Uit anekdotische informatie blijkt dat onwetendheid een belangrijke factor is bij het risico van het binnenvliegen 
+van actieve luchtsportgebieden, zie bijvoorbeeld [1]. Met een voorlichtingscampagne kan een deel van de 
+onwetendheid worden weggenomen. In de voorlichtingscampagne moet aandacht zijn voor de specifieke risico’s 
+van verschillende soorten luchtsportgebieden, en informatie worden gegeven over effectieve manieren om die 
+risico’s te vermijden. 
+Betrokken partijen 
+• LVNL, MilATCC
+• Vliegclubs
+• Opleidingsinstituten
+• Belangenverenigingen AOPA, KNVvL
+• Ministerie IenW
+• ABL
+Effect van beheersmaatregel 
+Door de beheersmaatregel hebben piloten in de kleine luchtvaart een verbeterde kennis van de specifieke risico’s 
+van verschillende soorten luchtsportgebieden de manier waarop de risico’s kunnen worden vermeden. 
+Effectiviteit 
+Voorlichting is een maatregel die al veel wordt toegepast in de (kleine) luchtvaart. Voorlichtingsinformatie kent een 
+beperking in de absorptie. Niet alle luchtruimgebruikers zullen informatie tot zich nemen. In de kleine luchtvaart 
+zijn ook de privé vliegers die buiten clubverband vliegen een bron van zorg. Hoe kan worden gewaarborgd dat hier 
+gewerkt wordt met juiste houding en actuele informatie? In dat kader kan overwogen worden om een 
+samenwerking aan te gaan met verzekeraars of belangenverenigingen. De overheid of verzekeraar zou bijvoorbeeld 
+kunnen verplichten om lid te worden van een organisatie. Hierdoor wordt betere begeleiding en 
+informatievoorziening mogelijk. 
+Uit de literatuur volgt dat 5% van de doelgroep naar aanleiding van een campagne de gewenste 
+gedragsverandering vertoont [2]. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 150.000,-. Deze schatting is gebaseerd op 
+kosteninformatie van uitgevoerde voorlichtingscampagnes. 
+Referenties 
+[1] OVV kwartaalrapportage luchtvaart juli- september 2021, p. 22-23.
+[2] Gedragsverandering via campagnes. Den Haag: Dienst Publiek en Communicatie, Ministerie van Algemene 
+Zaken.
+43 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.03.B.1 Invoering van een uniform waarschuwingssysteem aan boord van vliegtuigen 
+Beschrijving beheersmaatregel 
+Het invoeren van technische hulpmiddelen in de cockpit, zoals een geïntegreerd FLARM/TCAS/ADS-B of een 
+alternatief hulpmiddel dat een actueel beeld geeft van aanwezige vliegtuigen in de buurt van het eigen vliegtuig, en 
+een waarschuwing geeft indien er een conflict dreigt. Een dergelijk hulpmiddel zal idealiter op Europees niveau 
+ontwikkeld worden. Hierdoor is de verwachting dat de implementatie van deze beheersmaatregel waarschijnlijk 
+lang zal duren. 
+Betrokken partijen 
+• Ministerie IenW
+• EASA
+• Belangenverenigingen AOPA, KNVvL
+Effect van beheersmaatregel 
+Door deze beheersmaatregel ontstaat een betere omgevingsbewustzijn bij de vlieger waardoor de kans op 
+optreden van het gevaar “onvoldoende separatie” kleiner wordt. 
+Effectiviteit 
+Dit is een technische (functionele) beheersmaatregel waarbij de effectiviteit bepaald wordt door de mate waarin de 
+systemen aan boord van de verschillende vliegtuigen met elkaar interacteren. Hierdoor is een ontwikkeling op 
+Europees niveau gewenst is. Ook is de effectiviteit afhankelijk van de wijze waarop de piloot reageert op de door 
+het systeem gegenereerde informatie en waarschuwingssignalen. In de commerciële luchtvaart is het Traffic Alert 
+and Collision Avoidance System (TCAS) een zeer effectief instrument gebleken ter voorkoming van botsingen in de 
+lucht. Met de eerste generatie TCAS systemen is de kans op een botsing in de lucht 10 tot 20 keer kleiner dan 
+zonder TCAS [1]. Huidige TCAS systemen presteren zeer waarschijnlijk beter. TCAS is een systeem dat een instructie 
+(‘stijgen’ of ‘dalen’) geeft aan de piloot als een botsing dreigt. FLARM heeft deze functie niet en is daarom 
+waarschijnlijk minder effectief dan TCAS. Op basis van informatie uit de literatuur [1] wordt geschat dat met een 
+‘passief’ waarschuwingssysteem (dus een systeem dat alleen een waarschuwing geeft, maar geen instructie) de 
+kans op een botsing drie keer kleiner is dan zonder systeem. Daarbij wordt verondersteld dat beide vliegtuigen met 
+het passieve informatiesysteem zijn uitgerust. 
+Kosten 
+De kosten voor één enkel waarschuwingssysteem worden geschat € 2.500,- . Uitgaande van de veronderstelling dat 
+alle luchtballonnen, zweefvliegtuigen en kleine motorvliegtuigen van een waarschuwingssysteem moeten worden 
+voorzien, worden de totale kosten geschat op € 4.500.000,- 
+Referenties 
+[1] Williams, E. (2004). Airborne Collision Avoidance System. Paper presented at the 9th Australian Workshop on
+Safety Related Programmable Systems (SCS’04), Brisbane, Australia.
+45 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+Referenties 
+[1] https://www.knvvl.nl/nieuws/oproep-van-dutchmil-en-knvvl
+GA.03.B.3 Voorlichting over separatie 
+Beschrijving beheersmaatregel 
+Het organiseren van een voorlichtingscampagne over de gevaren en uitdagingen bij het houden van 
+separatieafstanden tussen vliegtuigen inclusief het gevaar van zogturbulentie (bijvoorbeeld het zog afkomstig van 
+een hoverende helikopter). Hierin moet ook aandacht zijn voor de juiste aankomst- en vertrekprocedures bij 
+luchthavens. Een dergelijke campagne kan ondersteund worden door voorlichtingsmateriaal. 
+Betrokken partijen 
+• Ministerie IenW
+• LVNL, MilATCC
+• Belangenverenigingen AOPA, KNVvL
+• Vliegclubs en vliegscholen
+Effect van beheersmaatregel 
+Door deze beheersmaatregel ontstaat een beter bewustzijn bij de vlieger over het belang van het volgen van de 
+juiste procedures om onderlinge separatie te verzekeren, en over het gevaar van zogturbulentie. 
+Effectiviteit 
+Dit is een communicatieve beheersmaatregel waarbij de effectiviteit voor een groot gedeelte bepaald wordt door in 
+hoeverre de gehele GA-gemeenschap, en in het bijzonder de zelfstandige vliegers, bereikt worden door de 
+campagne. 
+Uit de literatuur volgt dat 5% van de doelgroep naar aanleiding van een campagne de gewenste 
+gedragsverandering vertoont [1]. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 150.000,-. Deze schatting is gebaseerd op 
+kosteninformatie van uitgevoerde voorlichtingscampagnes. 
+Referenties 
+47 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+GA.27.B.1 Voorlichting waarbij het belang van goed omgevingsbewustzijn wordt benadrukt 
+Beschrijving beheersmaatregel 
+Voorlichtingscampagne waarin het belang van goed omgevingsbewustzijn wordt benadrukt, en waarin wordt 
+toegelicht op welke manier beter omgevingsbewustzijn kan worden verkregen. Onderwerpen zijn 
+vluchtvoorbereiding, vluchtuitvoering en de houding ten opzichte van gevaren. Hier is ook een rol voor 
+vliegopleidingen en de safety managers van vliegclubs. 
+Betrokken partijen 
+• Belangenverenigingen: AOPA, KNVvL
+• Luchthavens
+• Vliegscholen en vliegclubs
+• Verkeersleiding (LVNL, MilATCC)
+• Ministerie IenW
+• KNMI
+Effect van beheersmaatregel 
+Door deze beheersmaatregel verbetert het omgevingsbewustzijn van piloten in de kleine luchtvaart. Hierdoor 
+kunnen piloten tijdens de vlucht beter anticiperen of reageren op situaties die kunnen leiden tot veiligheidsrisico’s. 
+Effectiviteit 
+Voorlichting is een maatregel die al veel wordt toegepast in de (kleine) luchtvaart. Voorlichtingsinformatie kent een 
+beperking in de absorptie. Niet alle luchtruimgebruikers zullen informatie tot zich nemen. In de kleine luchtvaart 
+zijn ook de privé vliegers die buiten clubverband vliegen een bron van zorg. Hoe kan men waarborgen dat hier 
+gewerkt wordt met juiste houding en actuele informatie? In dat kader kan overwogen worden om een 
+samenwerking aan te gaan met verzekeraars of belangenverenigingen. De overheid of verzekeraar zou bijvoorbeeld 
+kunnen verplichten om lid te worden van een organisatie waardoor betere begeleiding en informatievoorziening 
+mogelijk wordt. 
+Uit de literatuur volgt dat 5% van de doelgroep naar aanleiding van een campagne de gewenste 
+gedragsverandering vertoont [1]. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 170.000,-. Deze schatting is gebaseerd op 
+kosteninformatie van uitgevoerde voorlichtingscampagnes en een geschatte inzet van 4 mensuur per 
+zweefvliegclub en motorvliegclub a € 75,- per uur. 
+Referenties 
+49 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.3 Beheersmaatregelen voor de onbemande luchtvaart 
+3.4.3.1 Onvoldoende separatie tussen onbemande luchtvaartuigen en andere 
+luchtruimgebruikers (inclusief andere onbemande luchtvaartuigen) (OL.03) 
+Bestuurders van onbemande luchtvaartuigen zijn er nu zelf verantwoordelijk voor dat het onbemande toestel dat ze 
+besturen niet te dicht bij overige luchtvaartuigen komt. Er wordt gewerkt aan de ontwikkeling van 
+19 20
+verkeersleidingsdienstverlening voor onbemande luchtvaart (U-space) , . Volgens het operationele concept van U-
+space zal voor de delen van het luchtruim waar U-space wordt geïmplementeerd de separatie tussen onbemande 
+21
+luchtvaartuigen en andere luchtruimgebruikers worden verzorgd door U-space . In andere delen van het luchtruim 
+blijft de piloot van het onbemande luchtvaartuig verantwoordelijk voor het vermijden van botsingen. De 
+Luchtvaartnota 2020-2050 stelt dat U-space stapsgewijs geïmplementeerd zal worden in Nederland, waarbij de 
+22
+Rijksoverheid nauw samenwerkt met andere Europese partners . Dit is in lijn met de stapsgewijze Europese 
+introductie van U-space door middel van wet- en regelgeving. Actieve deelname door Nederland aan het Europese U-
+space is daarmee een belangrijke beheersmaatregel. In de commerciële luchtvaart zijn vliegtuigen verplicht uitgerust 
+met een systeem dat piloten waarschuwt voor mogelijk bostingsgevaar (TCAS, traffic alert and collision avoidance 
+system). Dat systeem is buitengewoon effectief gebleken en werkt op basis van uitwisseling van positie-informatie 
+tussen vliegtuigen onderling. Invoering van soortgelijke technieken in de onbemande luchtvaart is daarom een voor de 
+hand liggende beheersmaatregel. 
+Dit leidt tot de volgens beheersmaatregelen: 
+OL.03.B.1 Actieve deelname aan het Europese U-space. 
+OL.03.B.2 Installatie van apparatuur voor het weergeven van positie-informatie aan overige luchtruimgebruikers. 
+19
+ NLR. (2020). Projectplan 2021 - 2025 voor implementatie U-space in Nederland. NLR-TR-2020-249. 
+20
+ Monitor Deloitte (2021). Aanzet voor een visie op U-space. 
+21
+ Corus. (2019). U-space concept of operations, enhanced overview. 
+22
+ IenW. (2020). Luchtvaartnota 2020-2050, Ministerie van Infrastructuur en Waterstaat. 
+51 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+OL.03.B.2 Installatie van apparatuur voor het weergeven van positie-informatie aan overige luchtruimgebruikers 
+Beschrijving beheersmaatregel 
+Deze maatregel betreft de ontwikkeling van apparatuur waarmee de positie van onbemande luchtvaartuigen wordt 
+bepaald en doorgegeven aan andere luchtruimgebruikers. Op Europees niveau wordt al gewerkt aan e-identicatie 
+en U-space / UTM. De Europese regelgeving voor U-space wordt naar verwachting in januari 2023 van kracht. Deze 
+beheersmaatregel zal daarop moeten aansluiten. 
+Betrokken partijen 
+• Ministerie IenW
+• Belangenverenigingen DCRO en KNVvL Drones
+Effect van beheersmaatregel 
+Door het invoeren van deze beheersmaatregel kunnen luchtruimgebruikers de positie van het eigen luchtvaartuig 
+en overige luchtvaartuigen monitoren en hierop reageren of anticiperen zodat voldoende afstand wordt gehouden 
+ten opzichte van overige luchtvaartuigen. 
+Effectiviteit 
+Dit is een beheersmaatregel waarvoor ontwikkeling op Europees niveau gewenst is. De effectiviteit wordt bepaald 
+door de technische betrouwbaarheid van de apparatuur, de implementatiegraad en de manier waarop 
+luchtruimgebruikers de informatie benutten. 
+Kosten 
+De kosten voor deze maatregel worden geschat op € 180.000,-. Deze schatting is gebaseerd op geschatte kosten 
+van € 500,- per systeem, en de veronderstelling dat alle huidige onbemande luchtvaartuigen in het 
+luchtvaartregister van een dergelijk systeem worden voorzien. Bij de schatting is er van uitgegaan dat de systemen 
+commercieel verkrijgbaar zijn. Ontwikkelingskosten zijn niet in de schatting meegenomen. 
+Referenties 
+53 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+OL.15.B.1 Detectie van luchtruimschendingen met behulp van radarsystemen 
+Beschrijving beheersmaatregel 
+Op dit moment zijn er op een aantal Nederlandse luchthavens radarsystemen van het Commando 
+Luchtstrijdkrachten (CLSK) geïnstalleerd waarmee de aanwezigheid van onbemande luchtvaartuigen kan worden 
+gedetecteerd. Dit levert een (beperkt) beeld van de luchtruimschendingen in Nederland. Deze maatregel betreft 
+het realiseren van een vollediger beeld van de luchtruimschendingen door onbemande luchtvaartuigen door 
+plaatsing van extra radarsystemen. Met deze radarsystemen wordt een volledige dekking van het Nederlandse 
+luchtruim verkregen. Door analyse van de radarinformatie kan worden vastgesteld hoe vaak en onder welke 
+omstandigheden deze luchtruimschendingen plaatsvinden en welke risico’s hieraan verbonden zijn. Met dit 
+volledigere beeld kunnen gerichte acties worden ingezet om luchtruimschendingen te voorkomen. 
+Betrokken partijen 
+• Ministerie IenW, ILT
+• Ministerie van Defensie, CLSK
+• LVNL, MilATCC
+• Politie
+Effect van beheersmaatregel 
+Het effect van deze beheersmaatregel is indirect. Met een volledig beeld van luchtruimschendingen door 
+onbemande luchtvaartuigen kunnen naar verwachting gerichte acties worden ingezet om het risico van 
+luchtruimschendingen te verminderen. 
+Effectiviteit 
+De effectiviteit van deze maatregel wordt bepaald door de kwaliteit van de informatie en de daaruit volgende 
+analyse. Als deze van voldoende niveau zijn kunnen in een volgende stap effectieve acties worden genomen om het 
+risico van luchtruimschendingen te verminderen. 
+Kosten 
+Om deze beheersmaatregel uit te kunnen voren moeten waarschijnlijk extra radarsystemen worden aangeschaft. 
+Uitgaande van vijf extra radarsystemen en geschatte kostprijs per systeem van € 5.000.000,- komen de totale 
+kosten op € 25.000.000,- exclusief beheer en onderhoud. 
+Referenties 
+55 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.3.3 Operators van onbemande luchtvaartuigen in de open categorie zijn 
+onvoldoende op de hoogte van de op de operatie van toepassing zijnde 
+regelgeving en procedurevereisten (OL.10) 
+23
+Sinds 31 december 2020 gelden Europese regels voor het vliegen met onbemande luchtvaartuigen . ILT is voor de 
+open categorie niet direct betrokken bij vergunningverlening en toezicht. Toegang tot de open categorie verloopt voor 
+drones vanaf 250 gram via een online kennistest. Wanneer deze met goed gevolg is wordt door de RDW een Bewijs 
+van voltooiing verkregen. Dit bewijs geldt ook in andere EU landen en is vijf jaar geldig. Dit bewijs is voldoende om te 
+mogen vliegen in de subcategorieën A1 en A3. Om met zwaardere drones en dichterbij mensen te mogen vliegen is 
+een aanvullende schriftelijke toets nodig bij een aangewezen opleidingsinstituut/entiteit en een verklaring dat een 
+praktische zelfopleiding is voltooid. In dat geval verstrekt de RDW een Vaardigheidsbewijs, dat ook vijf jaar geldig is. 
+Het is waarschijnlijk dat kennis die is opgedaan om een on-line kennistest te voltooien niet vijf jaar lang paraat blijft, 
+tenzij er momenten zijn om de kennis op te frissen. 
+Dit leidt tot beheersmaatregel OL.10.B.1 Voorlichtingscampagne over droneregelgeving. 
+OL.10.B.1 Voorlichtingscampagne over droneregelgeving 
+Beschrijving beheersmaatregel 
+Hoewel er een (juridische) verplichting is om vluchten met onbemande luchtvaartuigen voor te bereiden, en dit 
+onderdeel is van het online examen, leert de praktijk dat gebruikers van onbemande luchtvaartuigen niet altijd op 
+de hoogte zijn van de regelgeving en procedurevereisten. 
+Deze maatregel betreft een voorlichtingscampagne voor gebruikers van onbemande luchtvaartuigen waarin 
+duidelijk wordt gemaakt wat onder de huidige regelgeving wel en niet is toegestaan. Ook kan worden benadrukt 
+dat een bestuurder van een onbemand luchtvaartuig, als onderdeel van een goede vluchtvoorbereiding, op de 
+hoogte moet zijn van de actuele regelgeving en procedurevereisten 
+Betrokken partijen 
+• Ministerie IenW
+• Belangenverenigingen DCRO en KNVvL Drones
+Effect van beheersmaatregel 
+Deze maatregel kan er toe leiden dat de aantallen keren dat bestuurders van onbemande luchtvaartuigen zich 
+onbedoeld niet aan de regels houden verminderd. Op dronebestuurders die bewust de regels overtreden heeft 
+deze maatregel waarschijnlijk geen effect. 
+Effectiviteit 
+De effectiviteit van de maatregel wordt bepaald door de mate waarin de aangeboden informatie door de doelgroep 
+wordt opgenomen en toegepast in de vluchtvoorbereiding en vluchtuitvoering. 
+Kosten 
+De kosten voor deze beheersmaatregel worden geschat op € 150.000,-. Deze schatting is gebaseerd op 
+kosteninformatie van uitgevoerde voorlichtingscampagnes. 
+Referenties 
+23
+ Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor exploitatie van onbemande luchtvaartuigen. 
+57 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.3.5 Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door technisch 
+falen (OL.25) 
+De beheersmaatregel tegen technisch falen in de bemande luchtvaart is een complex aan eisen voor ontwerp, 
+productie en onderhoud, inclusief toezicht op naleving van die eisen. De eisen worden opgesteld door EASA, toezicht 
+vindt plaats door EASA en ILT. Technische regels voor onbemande luchtvaartuigen zijn opgesteld door EASA en 
+beschreven in EU verordening 2019/945. Voor onbemande luchtvaartuigen in de open categorie en systemen die 
+gebruikt worden onder een standaard scenario in de specific categorie is een CE-markering, waarmee de conformiteit 
+van een product wordt aangegeven, een belangrijke eis. Deze eisen zijn relatief nieuw, en de effectiviteit er van is 
+grotendeels onbekend. Dit leidt tot beheersmaatregel OL.25.B.2 Toezicht op en monitoren van de effectiviteit van 
+technische eisen voor onbemande luchtvaartuigen. 
+OL.25.B.2 Toezicht op en monitoren van de effectiviteit van de technische eisen voor onbemande luchtvaartuigen 
+Beschrijving beheersmaatregel 
+Technische regels voor onbemande luchtvaartuigen te gebruiken in de open categorie en onder de standaard 
+scenario’s in de specific categorie zijn opgesteld door EASA en beschreven in EU verordening 2019-945 [1]. Deze 
+beheersmaatregel betreft toezicht op naleving van de verordening en monitoring of de verordening voldoende 
+stringent is. Indien voor specifieke situaties blijkt dat extra technische eisen nodig zijn kunnen deze worden 
+opgenomen in een exploitatievergunning. 
+Betrokken partijen 
+• Ministerie IenW
+• EASA
+• ILT
+• OVV
+Effect van beheersmaatregel 
+Door deze beheersmaatregel zal de faalkans van technische systemen aan boord van onbemande luchtvaartuigen 
+kleiner worden. 
+Effectiviteit 
+Falen van technische systemen van onbemande luchtvaartuigen is een relatief veel voorkomende oorzaak van 
+ongevallen met onbemande luchtvaartuigen. Van alle in 2021 in het Verenigd Koninkrijk gepubliceerde 
+onderzoeksrapporten van ongevallen met onbemande luchtvaartuigen werd in 70 % geconcludeerd dat het falen van 
+een technisch systeem aan boord van het luchtvaartuig de oorzaak was van het ongeval [2]. Ook uit de 
+signaalrapportage van de ILT over botsingsrisico van drones blijkt dat het grootste deel van de voorvalmeldingen 
+over onbemande luchtvaartuigen technisch probleem van het luchtvaartuig als oorzaak heeft [3]. 
+Kosten 
+Voor deze beheersmaatregel is een geschatte capaciteit nodig van vier uur per week (0.1 fte). De kosten hiervoor 
+worden geschat op € 12.000,-. 
+Referenties 
+[1] Gedelegeerde Verordening (EU) 2019/945 van de Commissie van 12 maart 2019 inzake onbemande
+luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen.
+[2] AAIB bulletins 1/2021 t/m 12/2021
+[3] Signaalrapportage ILT inzake het toenemende risico op botsing tussen recreatieve drones en de bemande
+luchtvaart. September 2019.
+https://www.ilent.nl/documenten/signaalrapportages/2019/08/23/signaalrapportage-drones.
+59 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+OL.17.B.1 Praktijkcursussen stimuleren 
+Beschrijving beheersmaatregel 
+Stimuleren van deelname aan praktijkcursussen voor het vliegen met onbemande luchtvaartuigen. Dit gebeurt door 
+verstrekking van subsidies aan de opleidingsinstituten waardoor deze goedkope cursussen kunnen aanbieden. In 
+overleg met verzekeringsmaatschappijen worden kortingen gegeven voor bestuurders die een recente praktijkcursus 
+hebben gevolgd. 
+Betrokken partijen 
+• Ministerie IenW
+• Opleidingsinstituten voor bestuurders van onbemande luchtvaartuigen
+• Belangenverenigingen DCRO en KNVvL Drones
+• Verzekeringsmaatschappijen
+Effect van beheersmaatregel 
+Het effect van de beheersmaatregel hangt af van de overtuigingskracht van de stimuleringsmaatregelen en de 
+kwaliteit van de aangeboden cursussen. De belangenverenigingen voor onbemande luchtvaart zijn belangrijk voor 
+het onder de aandacht brengen van het belang van en de mogelijkheden tot het volgen van praktijkcursussen. 
+Het maken van fouten is menselijk. Ook goed opgeleide, getrainde en ervaren mensen maken fouten. De kans op 
+fouten is wel afhankelijk van opleiding, training en ervaring. Door een goede opleiding kan de kans op fouten worden 
+verminderd. Het is daarbij vooral belangrijk dat de opleiding individuen in staat stelt fouten te herkennen en tijdig 
+corrigeren. Een van de aspecten die in de opleiding aandacht zou moeten krijgen is het omgaan met fouten (‘error 
+management’) [1]. 
+Effectiviteit 
+Van alle in 2021 in het Verenigd Koninkrijk gepubliceerde onderzoeksrapporten van ongevallen met onbemande 
+luchtvaartuigen[2] werd in 20 % geconcludeerd dat een fout van de bestuurder van het onbemande vliegtuig de 
+oorzaak was van het ongeval. De effectiviteit van training en opleiding is afhankelijk van een groot aantal factoren. 
+Als indicatie van de ordegrootte van het effect van training op de foutkans geldt dat intensief getrainde personen 
+ongeveer 10 keer minder vaak fouten maken dan nominaal getrainde personen [3]. 
+Kosten 
+De kosten van deze beheersmaatregelen worden geschat op €200.000,-. Deze schatting is als volgt bepaald: Op 1 
+25
+januari 2021 waren er ongeveer 4000 dronebewijzen verstrekt door de RDW . Als de helft van de houders van een 
+dronebewijs een praktijkcursus doet waarbij €100 korting per cursus wordt gegeven is een budget van €200.000,- 
+nodig. 
+Naar verwachting veroorzaken bestuurders die een recente praktijkcursus hebben gevolgd minder ongevallen en 
+dienen dus minder schadeclaims in bij de verzekeringsmaatschappijen. Dit compenseert de versterkte kortingen op 
+de verzekeringen. Dit deel van de beheersmaatregel heeft daarom geen extra kosten. 
+Referenties 
+[1] Helmreich, R. L., Foushee, H. C. (1993). Why crew resource management? Empirical and theoretical bases of
+human factors training in aviation. In E. L. Wiener, B. G. Kanki, R. L. Helmreich (Eds.), Cockpit resource
+management (pp. 3–45). Academic Press.
+[2] AAIB bulletins 1/2021 t/m 12/2021.
+[3] Blackman, H.S., Gertman, D.I., Boring, R.K. (2008) human error quantification using performance shaping factors
+in the SPAR-H method. Proceedings of the Human Factors and Ergonomics Society 52nd Annual Meeting; 1733-
+1737.
+25
+ https://www.dronewatch.nl/ 
+61 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.4 Beheersmaatregelen voor de luchtvaart in Caribisch Nederland 
+3.4.4.1 Beheer en onderhoud van luchthavens is niet op orde waardoor die niet volledig 
+in overeenstemming zijn of dreigen te zijn met ICAO Annex 14 'Aerodromes'  
+(C-NL.01) 
+Problemen met de infrastructuur van de luchthavens zijn in eerste aanleg een gevolg van gebrek aan geld. Een dieper 
+liggende oorzaak is dat na investeringen om de infrastructuur te verbeteren onvoldoende aandacht wordt besteed 
+aan beheer en onderhoud, waardoor het effect van de investeringen te snel verloren gaat. Daar is een belangrijke 
+verantwoordelijkheid van de luchthaven, zeker ook in relatie tot het veiligheidsmanagementsysteem van de 
+luchthaven. Dat veiligheidsmanagementsysteem, biedt, mits goed ingericht, de processen en structuren om 
+voortdurend te verbeteren. Dit leidt tot beheersmaatregel C-NL.01.B.1 Sturen op kritische elementen van het SMS van 
+luchthavens. 
+C-NL.01.B.1 Sturen op kritische elementen in het SMS van de luchthavens
+Beschrijving beheersmaatregel 
+Sturen op kritische elementen in het SMS van de luchthavens. Sturen op de opleiding van medewerkers en het 
+beheer en onderhoud van de infrastructuur. 
+Betrokken partijen 
+• Ministerie IenW
+• Luchthavens
+• Luchtvaartmaatschappijen
+Effect van beheersmaatregel 
+Het effect van de maatregel is indirect. De infrastructuur wordt immers niet direct verbeterd, maar wordt 
+bijgedragen aan een management die zorgt voor adequaat die beheer en onderhoud. Het effect van de 
+beheersmaatregel is wel dusdanig dat er ook op langere termijn effect te verwachten is. Dat is het verschil van deze 
+maatregel met het simpelweg eenmalig opknappen van de gebreken op de luchthaven. Op de langere termijn kan 
+deze maatregel dus een groter effect hebben dan het eenmalig oplossen van bestaande onderhoudsachterstanden. 
+Effectiviteit 
+Gebreken in het onderhoud van een luchthaven kunnen bijdragen aan meerdere typen ongevallen, inclusief die 
+typen (zoals runway excursion en runway incursion) die een grote bijdrage leveren aan het totale ongevalsrisico. Het 
+in overeenstemming zijn met Annex 14 zou een vanzelfsprekendheid moeten zijn. 
+Kosten 
+Voor deze beheersmaatregel is een geschatte capaciteit nodig van 0.25 fte voor elk van de drie betrokken 
+luchthavens. De kosten hiervoor worden geschat op € 180.000,-. 
+Referenties 
+63 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.4.3 Beperkt niveau just culture (C-NL.24) 
+Een just culture of een ‘cultuur van billijkheid’ houdt in dat onopzettelijke fouten of overtredingen niet worden 
+bestraft, tenzij het voorval het gevolg is van opzet of grove nalatigheid. De achterliggende gedachte daarbij is dat er in 
+een just culture geen belemmeringen worden gevoeld om fouten of overtredingen bekend te maken. Het is juist goed 
+om melding te maken van fouten, omdat van fouten kan worden geleerd. Opbouwen van een just culture is meestal 
+een langdurig proces, vooral ook omdat een just culture niet altijd in overeenstemming is met een cultuur in de 
+maatschappij waar fouten over het algemeen op de een of andere manier worden afgestraft. Een regeling voor het 
+melden van voorvallen waarin is vastgelegd dat onopzettelijke fouten of overtredingen niet worden bestraft is een 
+essentiële voorwaarde voor het kunnen ontwikkelen van een just culture. Voor het opbouwen van een just culture is 
+het nodig om te blijven herhalen dat het melden van fouten of overtredingen een goede zaak is en niet zal leiden tot 
+negatieve gevolgen. Dit leidt tot de beheersmaatregelen C-NL.24.B.1 Opzetten van een regeling voor het melden van 
+voorvallen en C-NL.24.B.2 Voorlichtingscampagne over het nut van voorvalmeldingen. 
+C-NL.24.B.1 Opzetten van een regeling voor het melden van voorvallen
+Beschrijving beheersmaatregel 
+Opzetten van een regeling voor het melden van voorvallen. 
+Betrokken partijen 
+• Ministerie IenW
+• Ministerie van Justitie en Veiligheid
+• Luchtvaartdienstverleners
+Effect van beheersmaatregel 
+Op dit moment is er geen verplichting tot het melden van voorvallen omdat de ICAO regelgeving niet direct van 
+kracht is op de eilanden. Door het opzetten van een regeling voor het melden van voorvallen zullen naar verwachting 
+meer voorvallen worden gemeld. Hierdoor ontstaat een beter zicht op risico’s en wordt een just culture gestimuleerd 
+waarin het normaal is om elkaar aan te spreken op gedrag. Cultuurverandering is echter een langdurig proces 
+waarvan de resultaten niet direct zichtbaar zullen zijn. Een regeling tot het melden van voorvallen, in combinatie met 
+een awareness campagne (zie beheersmaatregel C-NL.24.B.2) kan wel een belangrijke stap zijn om de 
+cultuurverandering in gang te zetten. Er moet ook een instantie zijn die de voorvallen verzamelt en analyseert. Deze 
+instantie moet aantoonbaar vertrouwelijk met de voorvalmeldingen omgaan. Daarnaast moeten goede afspraken 
+met het Openbaar Ministerie worden gemaakt, opdat informatie uit voorvalmeldingen niet wordt gebruikt voor 
+strafrechtelijke vervolging. 
+Effectiviteit 
+De ervaring in Europa leert dat een goede regeling voor het melden van voorvallen een noodzakelijke maar niet 
+voldoende voorwaarde is voor betrokkenen om voorvallen te melden. Betrokkenen moeten ook overtuigd zijn van 
+het nut van melden, en het meldingsproces moet eenvoudig zijn. 
+Kosten 
+De kosten van deze beheersmaatregelen worden geschat op € 80.000,-. Deze schatting is gebaseerd op projecten 
+van vergelijkbare omvang die eerder zijn uitgevoerd. 
+Referenties 
+65 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.4.4 Onvoldoende (kwaliteit) toezicht (C-NL.03). 
+Air Traffic Services (ATS) worden in Caribisch Nederland uitgevoerd door Curaçao ATC. De toezichthouder daarvan is 
+de Curaçao Civil Aviation Authority (CCAA). ILT heeft geen mandaat richting CCAA en kan bij zorgen over de kwaliteit 
+van het toezicht van CCAA niets afdwingen. Door ATS dienstverlening door de BES-eilanden zelf te laten uitvoeren 
+wordt ILT de directe toezichthouder met meer controle over de kwaliteit van het toezicht. Dat is echter een 
+buitengewoon kostbare oplossing die bovendien niet snel gerealiseerd kan worden. Een praktischer oplossing is het 
+maken van bindende afspraken tussen ILT en CCAA over het toezicht op Curaçao ATC. Dit leidt tot beheersmaatregel 
+C-NL.03.B.1 Afspraken met CCAA over toezicht op Curaçao ATC.
+C-NL.03.B.1 Afspraken met CCAA over toezicht op Curaçao ATC
+Beschrijving beheersmaatregel 
+Nederland moet zekerstellen dat toezicht op Curaçao ATC adequaat is in verband met de ATS-diensten die Curaçao 
+ATC in Caribisch Nederland levert. Dit kan door afspraken te maken met de Curaçao Civil Aviation Authority (CCAA). 
+Betrokken partijen 
+• Ministerie IenW
+• Curaçao Civil Aviation Authority
+Effect van beheersmaatregel 
+Deze beheersmaatregel heeft alleen betrekking op toezicht op ATS diensten. Het effect is indirect omdat het toezicht 
+wordt uitgevoerd door de CCAA. Deze beheersmaatregel draagt alleen bij tot een reductie van risico voor de typen 
+ongevallen waarbij beperkte ATS dienstverlening een rol speelt. 
+Effectiviteit 
+Vanwege het indirecte effect, en de beperkte rol van ATS dienstverlening op het totale ongevalsrisico is de 
+effectiviteit van deze maatregel niet groot. 
+Kosten 
+De kosten van deze beheersmaatregelen worden geschat op € 80.000,-. Deze schatting is gebaseerd op projecten 
+van vergelijkbare omvang die eerder zijn uitgevoerd. 
+Referenties 
+67 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+3.4.4.6 Doorwerking ICAO richtlijnen in BES regelgeving is niet volledig (C-NL.02). 
+De huidige BES-regelgeving is grotendeels in 2010 opgezet. Deze moet worden bijgewerkt om in overeenstemming te 
+komen met de ICAO standaarden. Een plan hiervoor is opgezet maar wordt met onvoldoende prioriteit opgepakt. 
+Medewerkers van IenW zijn te veel belast met korte termijn acties voor andere dossiers. Dit leidt tot 
+beheersmaatregel C-NL-02.B.1 Zorgen voor voldoende capaciteit en prioriteit om regelgeving op te stellen voor de 
+BES-eilanden. 
+C-NL.02.B.1 Zorgen voor voldoende capaciteit en prioriteit om regelgeving op te stellen voor de BES-eilanden
+Beschrijving beheersmaatregel 
+Zorgen voor voldoende capaciteit en prioriteit om regelgeving op te stellen voor de BES-eilanden. 
+Betrokken partijen 
+• Ministerie IenW
+• Lokaal bestuur
+Effect van beheersmaatregel 
+Als de ICAO richtlijnen worden doorgevoerd in de BES-regelgeving is er een wettelijke basis die voldoet aan de 
+minimale richtlijnen. Alleen als die regels ook worden nageleefd is er een effect op de vliegveiligheid. De grootte van 
+het mogelijke effect hangt af van de mate waarin de BES regelgeving nu onvolledig is. 
+Effectiviteit 
+De effectiviteit hangt af van de mate waarin doorgepakt kan worden. Dit zal een kwestie zijn van enerzijds capaciteit, 
+maar ook van de het gevoel van urgentie en daadkracht van betrokken bestuurders. 
+Kosten 
+Voor deze beheersmaatregel is een geschatte capaciteit nodig van 1 fte. De kosten hiervoor worden geschat op € 
+120.000,-. Vervolgacties zijn niet begroot. 
+Referenties 
+69 
+
+NLR-CR-2022-040-PT-2  |  juni 2022 
+AAIB Report Date of UAS type Accident cause 
+Bulletin number accident 
+2021/1 AAIB- 19-Apr-21 Brian Taylor AT6 Loss of communication between the 
+1 27212 aircraft and the operator. The cause of the 
+loss of communication could not be 
+determined.  
+2021/1 AAIB- 03-Apr-21 Parrot Anafi USA Loss of control and subsequent flyaway 
+2 27194 because the 'Return to Home' 
+(RTH)function did not operate as the pilot 
+expected. The RTH function was rendered 
+ineffective because the flight was 
+commenced prior to the acquisition of a 
+GPS signal. 
+2021/1 AAIB- 03-Feb-21 UAVE Prion Mk 3 The engine suffered a loss of power due to 
+2 27106 a loose spark plug cap. 
+71 
+
+Koninklijke NLR - Nederlands 
+Lucht- en Ruimtevaartcentrum 
+Het onderzoekscentrum Koninklijke NLR werkt op objectieve en 
+onafhankelijke wijze met zijn partners aan een betere wereld van 
+morgen. NLR biedt daarbij innovatieve oplossingen en technische 
+expertise en zorgt voor een sterke concurrentiepositie van het 
+ 
+bedrijfsleven.
+NLR is ruim 100 jaar een kennisorganisatie met de 
+diepgewortelde wil om te blijven vernieuwen en zet zich in 
+voor een duurzame, veilige, efficiënte en effectieve lucht- 
+en ruimtevaart. 
+De combinatie van diepgaand inzicht in de klantbehoefte, 
+multidisciplinaire expertise en toonaangevende 
+onderzoeksfaciliteiten, maakt snel innoveren mogelijk. NLR 
+vormt in binnen- en buitenland de spilfunctie tussen 
+wetenschap, bedrijfsleven en overheid, en overbrugt de 
+kloof tussen fundamenteel onderzoek en toepassingen in de 
+praktijk. Daarnaast werkt NLR als Groot Technologisch 
+Instituut ruim tien jaar in de TO2-federatie samen aan 
+toegepast onderzoek in Nederland. 
+Vanuit de hoofdvestigingen in Amsterdam en Marknesse en 
+twee satellietvestigingen, draagt NLR bij aan een veilige en 
+duurzame maatschappij en werkt met partners in vele 
+(defensie)programma’s, onder andere aan complexe 
+composieten constructies voor verkeersvliegtuigen en aan 
+doelgericht gebruik van het F-35-jachtvliegtuig. Daarnaast 
+geeft NLR invulling aan Nederlandse en Europese 
+(klimaat)doelstellingen conform de Luchtvaartnota, de 
+European Green Deal, Flightpath 2050, en door deelname 
+aan programma’s zoals Clean Sky en SESAR. 
+Voor meer informatie bezoek: www.nlr.nl 
+Postal address Royal NLR 
+PO Box 90502 Anthony Fokkerweg 2 Voorsterweg 31 
+1006 BM  Amsterdam, The Netherlands 1059 CM  Amsterdam, The Netherlands 8316 PR  Marknesse, The Netherlands 
+e ) info@nlr.nl  i ) www.nlr.org p ) +31 88 511 3113 p ) +31 88 511 4444 
+Royal NLR - Netherlands Aerospace Centre Chamber of Commerce No. 41150373. VAT No.  NL002760551B01 
+

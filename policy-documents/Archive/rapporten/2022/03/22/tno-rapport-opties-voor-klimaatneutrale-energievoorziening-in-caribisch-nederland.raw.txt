@@ -1,0 +1,1489 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Radarweg 60 
+1043 NT  Amsterdam 
+ 
+ 
+www.tno.nl 
+TNO-rapport  
+T +31 88 866 50 10 
+ 
+ 
+TNO 2021 R11513 
+ 
+ 
+Opties voor klimaatneutrale  
+ 
+energievoorziening in Caribisch Nederland  
+ 
+ 
+ 
+ 
+ 
+Datum 10 januari 2022 
+  
+Auteur(s) Sam Lamboo en Silvana Gamboa Palacios 
+ 
+Aantal pagina's 60 (incl. bijlagen) 
+Opdrachtgever Ministerie van Economische Zaken en Klimaat 
+Projectnaam Input up de routekaarten voor klimaat neutrale energievoorziening 
+Caribisch Nederland 
+Projectnummer 060.47791 
+ 
+ 
+ 
+Alle rechten voorbehouden. 
+Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt door middel 
+van druk, fotokopie, microfilm of op welke andere wijze dan ook, zonder voorafgaande 
+toestemming van TNO. 
+ 
+Indien dit rapport in opdracht werd uitgebracht, wordt voor de rechten en verplichtingen van 
+opdrachtgever en opdrachtnemer verwezen naar de Algemene Voorwaarden voor 
+opdrachten aan TNO, dan wel de betreffende terzake tussen de partijen gesloten 
+overeenkomst.  
+Het ter inzage geven van het TNO-rapport aan direct belanghebbenden is toegestaan. 
+ 
+© 2021 TNO 
+ 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513 3 / 60
+Tabel 1.1:  Overzicht  kosten hybride plan Bonaire, derde zonnepark St. Eustatius en windenergie 
+op Saba. 
+Scenario Hybride plan Fase 3 Windenergie 
+Bonaire zonnepark St. Saba 
+Eustatius 
+Jaarlijkse elektriciteitsvraag [GWh] 131-161,2 17,6 9,2 
+Aandeel hernieuwbare elektriciteit  71-77% 55% 85-90% 
+Nieuwe capaciteit zon PV [MW] 6 2,5 - 
+Nieuwe capaciteit wind [MW] 24 - 3,0-4,2 
+Nieuwe capaciteit 8 10 2,5 
+batterijopslagsystemen [MWh] 
+Investeringskosten [M$] 58,1 7,85 11,2-11,3 
+Operationele kosten [M$/jaar] 1,5 0,1 0,29-0,35 
+WACC 7,1% 6% 6% 
+Productiekosten [USD/kWh] 0,16-0,20 0,27 0,37 
+Huidige productiekosten [USD/kWh] 0,25-0,30 0,27 0,30 
+ 
+Op Bonaire kan CGB de investering doen, maar wordt er nog onderhandeld over 
+het verlengen van de Power Purchase Agreement (PPA). Ook wordt er gekeken 
+naar de mogelijkheid dat Bonaire Brandstof Terminals (BBT) een deel van de 
+investering doet en de installaties verhuurt aan CGB. Hierdoor kunnen de kosten 
+lager uitvallen en blijft CGB de enige elektriciteitsproducent, wat het een 
+organisatorisch overzichtelijke optie maakt. Op St. Eustatius en Saba geven de 
+elektriciteitsbedrijven aan niet het benodigde kapitaal te hebben om te investeren in 
+de onderzochte opties en ondersteuning te gaan vragen aan de Rijksoverheid in de 
+vorm van een lening of investeringssubsidie. Een lening met 1% rente verlaagt op 
+Bonaire de productiekosten van het hybride plan naar 0,15 USD/kWh. Op St. 
+Eustatius dalen de productiekosten met een 1% rente lening naar 0,25 USD/kWh. 
+Op Saba zijn de productiekosten met een lening van 1% rente 0,28 USD/kWh. Een 
+100% investeringssubsidie verlaagt de geschatte productiekosten op Bonaire naar 
+0,14 USD/kWh, op St. Eustatius naar 0,22 USD/kWh en op Saba naar 0,21 
+USD/kWh. 
+ 
+Opties voor verduurzaming van de elektriciteitsmix richting 100% 
+Naast de bovenstaande plannen hebben we gekeken naar technische opties voor 
+2
+verdere verduurzaming van de elektriciteitsmix, tot richting de 100% . Op alle drie 
+de eilanden kan er ingezet worden op een systeem met alleen zon PV, windenergie 
+en batterijen. Er is dan een grote capaciteit aan zon PV, windenergie en 
+batterijopslag nodig om gedurende het hele jaar de elektriciteitsvoorziening te 
+garanderen. Hierdoor stijgen de productiekosten weer vergeleken met de 
+productiekosten in Tabel 1.1. Een voordeel is dat de afhankelijkheid van 
+brandstofimport afneemt, waardoor mogelijke fluctuaties in productiekosten 
+afnemen. 
+ 
+Biodiesel kan op Bonaire en St. Eustatius gebruikt worden om (op korte termijn) 
+100% hernieuwbare elektriciteit te bereiken. De kosten hiervan zijn, op basis van 
+huidige biodieselprijzen, wel hoger dan het gebruik van diesel of verregaande 
+verduurzaming met zonne-energie, windenergie en batterijen. Voor Saba is het 
+ 
+2
+  We hebben geen modelberekeningen gedaan waarin de vraag aan aanbod op uurbasis 
+gematcht wordt waardoor er niet voor alle scenario’s met zekerheid te zeggen is dat de 
+toegevoegde capaciteit voldoende is voor 100% hernieuwbare elektriciteit gedurende het hele 
+jaar. Daarom spreken we over richting 100% hernieuwbaar. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513 5 / 60
+  
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  7 / 60
+Inhoudsopgave 
+Samenvatting ........................................................................................................... 2 
+1 Inleiding .................................................................................................................... 8 
+2 Bonaire ................................................................................................................... 10 
+2.1 Huidige situatie en verwachte ontwikkelingen ......................................................... 10 
+2.2 Technische route(s) voor verduurzaming ................................................................ 12 
+2.3 Organisatorische en andere aspecten..................................................................... 28 
+3 St. Eustatius ........................................................................................................... 29 
+3.1 Huidige situatie en verwachte ontwikkelingen ......................................................... 29 
+3.2 Technische route(s) voor verduurzaming ................................................................ 32 
+3.3 Organisatorische en andere aspecten..................................................................... 39 
+4 Saba ........................................................................................................................ 40 
+4.1 Huidige situatie en verwachte ontwikkelingen ......................................................... 40 
+4.2 Technische route(s) voor verduurzaming ................................................................ 40 
+4.3 Organisatorische en andere aspecten..................................................................... 47 
+5 Conclusies en aanbevelingen .............................................................................. 49 
+5.1 Aanbevelingen ......................................................................................................... 55 
+Referenties ............................................................................................................. 58 
+ 
+ 
+ 
+ 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  9 / 60
+In dit rapport wordt gekeken naar de verschillende technische opties voor klimaat 
+neutrale energievoorzieningen, wat de geraamde kosten zijn, wat de invloed is op 
+4
+de productiekosten en welke overige aspecten van belang zijn.  
+ 
+Naast de bovengenoemde studies op de eilanden, hebben we grove inschattingen 
+gemaakt van de impact van verschillende opties om richting 100% hernieuwbare 
+elektriciteitssystemen te gaan. Er is geen additionele modellering gedaan van de 
+energiesystemen voor deze studie en er zijn geen analyses gemaakt van 
+geoptimaliseerde duurzame energiesystemen en de kosten daarvan, waardoor 
+deze resultaten grove inschattingen blijven die enige onzekerheid kennen. Om de 
+onzekerheid te verkleinen en meer inzicht te krijgen op kosten-optimale 
+ontwikkeling van de energiesystemen is additionele modellering aanbevolen. 
+ 
+Het rapport is opgedeeld in een hoofdstuk per eiland. Daarna volgt er een 
+hoofdstuk met algemene conclusies en aanbevelingen. 
+ 
+ 
+4
+  We kijken naar de impact van de investeringen op de variabele productiekosten van het 
+gehele elektriciteitssysteem. Deze productiekosten kunnen vergeleken worden met de huidige 
+maximale variabele productiekosten zoals ingeschat door het ACM. In de variabele 
+elektriciteitstarieven die consumenten uiteindelijk betalen wordt ook rekening gehouden met 
+netverliezen en correcties voor volumes, inkomsten en brandstofprijzen van voorgaande 
+periodes waardoor de elektriciteitstarieven doorgaans hoger zijn dan de productiekosten. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  11 / 60
+In het hoge groei scenario komt de piekvraag uit op 33,4 MW in 2030 en de 
+elektriciteitsvraag in dat jaar op 228 GWh (Contour Global, 2020).  
+In een status quo scenario wordt de toenemende vraag gedekt door de 
+(diesel)generatoren, waardoor het aandeel duurzame elektriciteit daalt van 29% in 
+2020 naar 22% in 2030 (Contour Global, 2021). 
+ 
+Jaarlijkse piekvraag 2010-2035
+50
+40
+30
+20
+10
+0
+Historische data Lage vraag scenario
+Referentie scenario Hoge vraag scenario
+ 
+Figuur 2.1: Jaarlijkse piekvraag scenario's. Bron: Contour Global Bonaire (2021). 
+ 
+Jaarlijkse elektriciteitsvraag 2010-2035
+350
+300
+250
+200
+150
+100
+50
+0
+Historische data Lage vraag scenario
+Referentie scenario Hoge vraag scenario
+ 
+Figuur 2.2: Jaarlijkse elektriciteitsvraag scenario's. Bron: Contour Global Bonaire (2021). 
+ 
+Om in de stijgende elektriciteitsvraag te voorzien en het aandeel duurzame 
+elektriciteit te vergroten is er door WEB in juli een subsidieaanvraag gedaan bij het 
+ministerie van Economische Zaken en Klimaat. De subsidieaanvraag is gebaseerd 
+op een voorstel van Contour Global voor de uitbreiding van de opwekcapaciteit die 
+op basis van hun modellering leidt tot de laagste elektriciteitskosten. Er is nog geen 
+finale beslissing genomen over de investering in additionele opwekcapaciteit, 
+ 
+Elektriciteitsvraag [GWh] Piekvraag [MW]
+2010
+2010
+2011
+2011
+2012
+2012
+2013
+2013
+2014
+2014
+2015
+2015
+2016
+2016
+2017
+2017
+2018
+2018
+2019
+2019
+2020
+2020
+2021
+2021
+2022
+2022
+2023
+2023
+2024
+2024
+2025
+2025
+2026
+2026
+2027
+2027
+2028
+2028
+2029
+2029
+2030
+2030
+2031
+2031
+2032
+2032
+2033
+2033
+2034 2034
+2035
+2035
+
+ 
+TNO-rapport | TNO 2021 R11513  13 / 60
+Met de additionele capaciteit wordt er tot 215 GWh per jaar gegarandeerd, wat de 
+elektriciteitsvraag in 2030 volgens de projecties van het basisscenario van WEB 
+dekt. De prognose van CGB is dat het aandeel duurzame elektriciteit met het 
+hybride plan stijgt naar 74% in 2024, waarna het gestaag daalt naar 71% in 2030 
+door een toenemende inzet van de generatoren om aan de stijgende 
+elektriciteitsvraag te voldoen. In een vorige versie van het voorstel van Contour 
+Global is het voorspelde aandeel duurzame elektriciteit 83% in 2024 en 77% in 
+2030. Na een review van het voorstel door DNV GL is het voorstel aangepast met 
+de aanname dat er ten allen tijde 2 generatoren draaien om netstabiliteit te 
+verzekeren, waardoor het aandeel duurzame elektriciteit lager uitvalt (DNV GL, 
+2021). 
+ 
+De totale investeringskosten van het hybride plan komen uit op 58,1 miljoen USD, 9 
+miljoen USD voor zon PV, 40,7 miljoen USD voor windenergie en 8,4 miljoen USD 
+voor het batterijopslagsysteem. Operationele kosten komen neer op bijna 1,5 
+miljoen USD per jaar. CGB rekent met een WACC van 7,1%, maar geeft aan hier 
+nog naar te kijken aan de hand van lopende discussies met de ACM. Er is daarom 
+ook gerekend met een WACC van 8% om de impact hiervan op de tarieven aan te 
+tonen. Ter referentie, in de adviezen over de SDE++ 2021 wordt door het PBL 
+gerekend met een WACC van 1,6% voor zon PV en 2,8% voor windenergie 
+(Lensink en Schoots, 2021). Voor technologieën met een hoog risico, zoals 
+osmose, aquathermie, verbranding van biomassa en CCS wordt in de adviezen 
+gerekend met een WACC van 5,8%. Hoewel duurzame energieprojecten op 
+Bonaire weliswaar een hoger risico kennen dan projecten in Nederland omdat het 
+een eiland is en er relatief weinig ervaring is met duurzame energieprojecten, blijft 
+een WACC van 7-8% hoog vergeleken met de berekeningen voor hoog-risico 
+projecten in de SDE++. 
+ 
+Ook met de hoge WACC waar CGB mee rekent, verwachten ze dat de 
+elektriciteitstarieven zullen dalen met het hybride plan (zie Figuur 2.3). Een WACC 
+van 8% leidt tot 1-3 USD/MWh hogere elektriciteitstarieven onder de status quo en 
+1-4 USD/MWh met het hybride plan, volgens het voorstel van CGB (Contour 
+Global, 2021). Om de tarieven verder te verlagen heeft WEB een subsidieaanvraag 
+ingediend bij het ministerie van EZK. In de aanvraag zijn verschillende vormen van 
+subsidie uitgewerkt, namelijk een subsidie voor de hele investering, een 
+investeringssubsidie van 32,6 miljoen USD en een renteloze lening. De verwachtte 
+effecten van de subsidie op de productietarieven zijn aangegeven in Figuur 2.3, 
+waar voor de case met een renteloze lening gerekend is met een WACC van 1% 
+om een cashflow positie op te bouwen in het project (WEB, 2020). Bij alle vormen 
+van subsidie nemen de productietarieven verder af dan met alleen het CGB 
+voorstel. Het grootste effect is bij de subsidie voor de volledige investeringskosten. 
+Dit komt omdat de investeringskosten van het hybride plan niet meegenomen 
+worden in de berekeningen van het productietarief, terwijl de lagere uitgaven aan 
+brandstof voor de generatoren het productietarief laten dalen. Met de volledige 
+investeringssubsidie wordt het nadeel van een hoge WACC ook ontweken. Het 
+verschil tussen de renteloze lening en een investeringssubsidie van 32,6 miljoen 
+USD is klein. Ook hier worden er minder kosten voor de investering in nieuwe 
+duurzame capaciteit meegenomen en wordt het effect van de WACC verkleind, 
+terwijl de lagere uitgaven aan brandstoffen de tarieven verlagen. 
+ 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  15 / 60
+ 
+Figuur 2.4:  Gevoeligheid productiekosten voor olieprijs. BAU = Business As Usual, hiervoor ook al 
+aangegeven als het status quo scenario. Bron: DNV GL review van Contour Global 
+voorstel (DNV GL, 2021). 
+Er zijn meerdere opties om het aandeel duurzame elektriciteit in Bonaire verder te 
+verhogen. Deze opties brengen allemaal hogere kosten met zich mee dan het 
+hybride plan van CGB dat geoptimaliseerd is voor lage productiekosten. Een aantal 
+opties worden hieronder hier besproken als uitbreidingen van of toevoegingen op 
+het hybride plan. 
+2.2.1.2 Naar 100% hernieuwbaar met zon PV, windenergie en batterijopslag 
+Het is ook mogelijk om de capaciteit zon PV, windenergie of batterijen verder uit te 
+breiden om het aandeel duurzame elektriciteit te verhogen. De systeemkosten 
+zullen dan hoger liggen dan de optimale hybride case en daarom heeft CGB zulke 
+scenario’s niet doorgerekend. Exacte kosten en opbrengsten van dergelijke 
+scenario’s zijn daarom niet bekend. Bij lage olieprijzen bestaat het risico dat de 
+productietarieven hoger uitvallen dan de status quo (zie Figuur 2.4). Uitgaande van 
+hogere olieprijzen dan is het goed mogelijk om het aandeel duurzame elektriciteit 
+verder te verhogen terwijl de productietarieven lager blijven dan bij de status quo. 
+Met name het toevoegen van zon PV voor de periode in het jaar waar er minder 
+wind is op Bonaire kan het gebruik van de generatoren verminderen. In periodes 
+met veel zon en wind zal er echter meer afgeschakeld worden (curtailment).  
+ 
+Ook Schelleman en van Weijsten (2016) geven op basis van hun analyse aan dat 
+een scenario met 80% duurzame energie in de vorm van zon PV en windenergie bij 
+een olieprijs van 90 USD per vat en een rente van 4-10% leidt tot gelijke of lagere 
+productiekosten. Bij een olieprijs van 50 USD per vat en een rente van 4% zijn de 
+kosten ongeveer gelijk aan de besparingen aan brandstofkosten. Voor een scenario 
+met meer zon PV en/of windenergie geven ze aan dat de benodigde 
+opslagcapaciteit veel toeneemt en daarmee de benodigde investeringskosten. Ze 
+verwachten dat 100% duurzame elektriciteit uit zon PV, windenergie en batterijen 
+niet mogelijk is tenzij de kosten voor energieopslag sterk dalen. Ze geven echter 
+niet aan hoeveel additionele investeringskosten nodig zijn voor zo’n scenario, 
+waardoor de effecten op de elektriciteitstarieven niet duidelijk zijn. Ook is het op 
+basis van deze analyse niet te zeggen wat voor investeringssubsidies benodigd 
+zouden zijn om zo’n scenario te realiseren zonder negatieve impact op de 
+elektriciteitstarieven. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  17 / 60
+Investeringskosten voor windenergie zijn dan 85-120 miljoen USD en totale 
+investeringskosten 287-322 miljoen USD. Totale operationele kosten komen dan uit 
+op 9,1-9,9 miljoen USD per jaar. Een overzicht van de kostenaannames en de 
+totale benodigde investeringskosten en jaarlijkse onderhoudskosten is gegeven in 
+Tabel 2.1. 
+Tabel 2.1:  Overzicht kosten scenario 100% duurzame elektriciteit op basis van zon PV, 
+windenergie en batterijopslagsystemen op Bonaire in 2030. 
+Onderdeel Zon PV Wind Batterijopslag Totale 
+kosten 
+Jaarlijkse elektriciteitsvraag 161,2 
+2030 [GWh] 
+Nieuwe capaciteit 89 MWp 50-70 MW 68 MW / 272 - 
+MWh 
+CAPEX (2030) 1192 1695 355 USD/kWh - 
+USD/kW USD/kW 
+OPEX (2030) 43,7 50,0 10,0 - 
+USD/kW/jaar USD/kW/jaar USD/kWh/jaar 
+Investeringskosten [M$] 106 85-120 96 287-322 
+Operationele kosten 3,9 2,5-3,3 2,7 9,1-9,9 
+[M$/jaar] 
+WACC 7,1% 7,1% 7,1% 7,1% 
+Productiekosten 2030 - - - 0,31-0,34 
+[USD/kWh] 
+ 
+Met een investeringsperiode van 15 jaar en een WACC van 7,1% komt de jaarlijkse 
+afschrijving uit op 31,7-35,6 miljoen USD per jaar. Met een geprojecteerde 
+elektriciteitsproductie van 161,2 MWh in 2030 komt het kWh-tarief uit op 0,25-0,28 
+USD/kWh. We verwachten dat een deel van het huidige variabele productietarief 
+exclusief brandstofkosten van 0,1059 USD/kWh (ACM, 2021a) hier nog bovenop 
+komt omdat een deel van de bestaande assets in 2030 nog niet geheel 
+afgeschreven zijn. Het huidige tarief bevat echter ook een deel windenergie die niet 
+meegenomen dient te worden. We schatten op basis van productieniveaus van de 
+generatoren en windenergie in dat 70% van het huidige variabele tarief nog 
+meegerekend wordt. Omdat de vaste kosten verdeeld worden over 161,2 GWh in 
+2030 vergeleken met 123,5 GWh in 2021, komt dit deel van de kosten uit op 0,06 
+USD/kWh. De totale productiekosten voor 2030 komt zodoende uit op een 
+ingeschatte 0,31-0,34 USD/kWh. Dit is 0,10-0,13 USD/kWh hoger dan de huidige 
+maximale variabele productiekosten zoals berekend door de ACM (ACM, 2021a). 
+ 
+De bovenstaande berekeningen geven een grove indicatie van de te verwachten 
+kosten van een systeem met 100% duurzame elektriciteit op Bonaire in 2030. In 
+alle projecties van de elektriciteitsvraag is er verdere groei na 2030, waardoor er 
+naar verwachting nog meer geïnvesteerd zal moeten worden in nieuwe capaciteit. 
+Ook is er in het bovenstaande scenario geen rekening gehouden met worst case 
+scenario’s zoals een hogere vraag en langere periodes met weinig wind en zonne-
+energie. Het gebruik van batterijen van elektrische voertuigen als buffercapaciteit, 
+waardoor er mogelijk minder geïnvesteerd hoeft te worden in nieuwe stationaire 
+batterijopslagsystemen, is ook niet meegenomen omdat er nog weinig duidelijk is 
+over de schaal waarop EV’s op korte termijn beschikbaar zullen zijn op Bonaire en 
+of deze rol door EV’s op korte termijn vervuld kan worden (zie ook 2.2.1.6 en 2.2.2). 
+Verder is er geen rekening gehouden met systeemeisen of een optimalisatie om 
+een betrouwbaar systeem te hebben. Zulke scenario’s en systeemeisen kunnen 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  19 / 60
+ 
+Het hybride plan van CGB is geoptimaliseerd op basis van de laagste productie-
+kosten bij het gebruik van diesel. Het dieselgebruik in het hybride plan daalt in 2024 
+naar 10 miljoen liter en stijgt daarna weer naar 13,3 miljoen liter in 2030 (CGB, 
+2021 en WEB, 2021). De kosten dalen in het plan ook, met het laagste punt in 2024 
+(zie Figuur 2.6). Als er biodiesel ingezet wordt dan liggen de jaarlijkse kosten 11,6-
+28,9 miljoen USD per jaar hoger. De LCOE van het hybride plan stijgt hierdoor naar 
+261 USD/MWh, vergeleken met 181 USD/MWh bij het gebruik van diesel. 
+ 
+Jaarlijkse diesel en biodieselkosten met hybride 
+plan
+ 50.00
+43.5 43.8
+41.1
+ 40.00
+ 30.00
+23.4
+22.2
+21.1
+20.1
+19.5
+19.2
+18.6
+17.6
+ 20.00 14.8 14.9
+14.0
+8.0
+7.5
+7.2
+6.6 6.5 6.8
+6.3
+6.0
+ 10.00
+ -
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Diesel Biodiesel
+ 
+Figuur 2.6:  Jaarlijkse diesel en biodiesel kosten in het hybride plan bij een dieselprijs van 717 per 
+ton en een biodieselprijs van 1.772 per ton. 
+Bij deze jaarlijkse meerkosten voor het gebruik van biodiesel stijgt het 
+productietarief van het hybride plan in 2030 van 166 USD/MWh naar 251 
+USD/MWh. De systeemkosten kunnen verlaagd worden door een hogere inzet van 
+zon PV, windenergie en batterijen dan voorgesteld in het hybride plan. Het grootste 
+obstakel hierbij is het advies van DNV om altijd minimaal twee generatoren 
+operationeel te hebben om systeemstabiliteit te bewaken. Hierdoor zal er altijd een 
+minimum vraag naar biodiesel zijn van 11,2 miljoen liter per jaar, wat bij een prijs 
+van 1.772 USD per ton 17,6 miljoen USD per jaar kost. Als de batterijsystemen de 
+rol van het garanderen van systeemstabiliteit in 2030 van de generatoren over 
+kunnen nemen dan kan de vraag naar biodiesel geminimaliseerd worden door het 
+toevoegen van 25 MW zon PV en 25MW/100 MWh batterijopslag (bovenop de 6 
+MW en 8 MWh uit het hybride plan). Hiermee kan er op jaarbasis 161,2 GWh aan 
+duurzame elektriciteit geproduceerd worden, gelijk aan de geprojecteerde vraag op 
+jaarbasis in 2030. Met de 100 MWh aan batterijcapaciteit kan het grootste deel van 
+de zonne-energie verschoven worden naar de avond en nacht als dat nodig is. 
+Biodiesel zal waarschijnlijk nog wel nodig zijn om op dag- of seizoenbasis de 
+hernieuwbare bronnen aan te vullen. De kosten voor de additionele zon PV en 
+batterijopslag komt met huidige kosten uit op 15,4 miljoen USD per jaar, wat minder 
+is dan de meerkosten voor het gebruik van biodiesel in combinatie met het hybride 
+plan van CGB. De kosten van zon PV en batterijopslagsystemen worden verwacht 
+nog verder te dalen de komende jaren, waardoor de jaarlijkse kosten nog lager 
+ 
+(Bio)dieselkosten per jaar [miljoen USD]
+
+ 
+TNO-rapport | TNO 2021 R11513  21 / 60
+Huidige materialen en configuraties zijn ontworpen voor extremere omstandigheden 
+dan wat voor OTEC nodig is, waardoor de kosten ervan relatief hoog liggen. Voor 
+de pijpleidingen kan plastic gebruikt worden als alternatief voor beton of staal 
+(Bluerise en Topsector Water, 2014). Voor de warmtewisselaars kan met de relatief 
+lage temperatuurverschillen gebruik gemaakt worden van aluminium of plastic in 
+plaats van titanium, wat een duur materiaal is (Bluerise en Topsector Water, 2014). 
+Voor zowel pijpleidingen als de warmtewisselaars is verder onderzoek nodig, de 
+sector schat dat een R&D programma van 3-4 jaar hiervoor nodig te hebben. 
+Voorbereidend onderzoek is uitgevoerd aan de TU Delft in samenwerking met 
+industrie middels een kleinschalig OTEC test set-up. Verdere ondersteuning voor 
+een R&D programma vanuit de overheid kan ervoor zorgen dat meer 
+mogelijkheden voor OTEC installaties met lagere kosten in kaart gebracht worden.  
+ 
+De scope van Allseas was beperkt tot een 3 MW onshore project. Er zijn meer 
+opties mogelijk voor OTEC, waarbij de business case anders zal zijn dan een 
+onshore installatie. Zo kan het koude zeewater na gebruik in de OTEC installatie 
+gebruikt worden voor het leveren van koeling. Daarmee krijgt de pijpleiding 
+infrastructuur een tweede toepassing en kunnen kosten worden gedeeld. Sea 
+Water Air Conditioning (SWAC) is een al commerciële technologie waar varianten 
+van toegepast worden in onder andere Monaco, Marseille en de Orkney eilanden 
+(ETIPOCEAN, 2019). De vraag naar koeling is een belangrijk deel van de 
+elektriciteitsvraag op Bonaire, waarmee alternatieven zoals SWAC kunnen 
+concurreren. Er is door de startup Bluerise ook gekeken naar een gecombineerde 
+OTEC/SWAC installatie op Curaçao. Voor Bonaire is er nog geen ontwerp, 
+waardoor de exacte kosten en baten niet duidelijk zijn. Er kan geleerd worden van 
+ontwerpen voor Curaçao en andere projecten waar de sector ervaring mee heeft. 
+Een haalbaarheidsstudie gevolgd door een Front-End-Engineering Design (FEED), 
+offshore onderzoek, milieueffectrapportage (MER) en vergunningverlening neemt 
+9
+naar schatting een jaar in beslag en kost rond de 400 duizend euro . 
+Overheidssteun voor dit onderzoek zal het projectrisico voor marktpartijen verlagen 
+en de kans dat het onderzoek opgepakt wordt door de marktpartijen laten stijgen. 
+Na deze fase kan het project verder met engineering, constructie en installatie, 
+waar 1,5-2 jaar voor nodig zal zijn. 
+ 
+Voor een dergelijk haalbaarheidsonderzoek is het ook van belang om rekening te 
+houden met de effecten van SWAC op de elektriciteitsvraag. SWAC kan leiden tot 
+een daling in de elektriciteitsvraag of een verandering in het 
+elektriciteitsvraagprofiel. Als bestaande assets minder kunnen produceren hierdoor 
+kunnen de productiekosten van elektriciteit stijgen. Als er echter minder 
+geïnvesteerd moet worden in nieuwe capaciteit kunnen de gemiddelde 
+productiekosten juist dalen. Het is onduidelijk wat de impact precies zal zijn, 
+vandaar dat het meegenomen moet worden in een haalbaarheidsonderzoek. 
+ 
+Een ander alternatief is een offshore OTEC installatie. Door de installatie te 
+verplaatsen naar zee wordt de benodigde pijplengte verkort van ca. 3 km naar ca. 1 
+km. Ook kan de pijpleiding met minder dikke wanden ontworpen worden omdat de 
+constructie dan recht onder het platform hangt. De kosten van de pijpleiding zijn tot 
+1/3 van de investeringskosten voor een OTEC installatie, waardoor een reductie in 
+de lengte en dikte tot significante kostenreductie kan leiden. Er komen echter wel 
+ 
+9
+  Inschatting onafhankelijk expert OTEC. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  23 / 60
+Tabel 2.2: Overzicht kosten OTEC route voor richting 100% hernieuwbaar. 
+Variant Zon, wind en OTEC 
+batterijopslag 
+Referentiejaar 2030 2030 
+Jaarlijkse elektriciteitsvraag [GWh] 161,2 161,2 
+Nieuwe capaciteit zon PV [MW] 89 52 
+Nieuwe capaciteit wind [MW] 50-70 50 
+Nieuwe capaciteit 272 170 
+batterijopslagsystemen [MWh] 
+Nieuwe capaciteit OTEC [MW] - 10 
+Investeringskosten [M$] 287-322 353 
+Operationele kosten [M$/jaar] 9,1-9,9 12,3 
+WACC 7,1% 7,1% 
+Productiekosten [USD/kWh] 0,31-0,34 0,38 
+ 
+Schelleman en van Weijsten (2016) hebben ook een case doorgerekend met een 
+aandeel hernieuwbaar van 100% met alleen OTEC. In dit scenario gaan ze ervan 
+uit dat alle bestaande productiecapaciteit aan het einde van de levensduur 
+vervangen wordt door OTEC. Gezien de bestaande capaciteit en de vergevorderde 
+plannen om te investeren in meer zon PV en windenergie, zien wij dit op korte 
+termijn niet als een waarschijnlijk scenario. Het vervangen van deze capaciteit zal 
+onnodige additionele kosten geven. Daarom zijn we voor de OTEC case uitgegaan 
+van de situatie waar OTEC gecombineerd wordt met windenergie en zon PV. Om 
+het op de lange termijn mogelijk te maken om een elektriciteitssysteem volledig op 
+OTEC te draaien is bovendien eerst opschaling van de techniek nodig. De opties 
+die hier bekeken zijn met centrales van 3 MW en 10 MW passen in een 
+opschalingstraject voor OTEC. 
+ 
+Met opschaling kan de betrouwbaarheid van centrales ook bewezen worden. Een 
+elektriciteitssysteem met alleen OTEC is meteen ook erg afhankelijk van de OTEC 
+centrale, die ook onderhouden moet worden en mogelijk onverwachtse uitval heeft. 
+Hiervoor moet er voldoende back-up capaciteit zijn om het elektriciteitssysteem te 
+voorzien van elektriciteit wanneer de OTEC centrale niet beschikbaar is. 
+Schelleman en Weijsten houden geen rekening met deze benodigde back-up 
+capaciteit in hun berekeningen, waardoor de kosten in hun 100% OTEC scenario 
+laag uitkomen. 
+2.2.1.5 Waterstof 
+Op de lange termijn (na 2030) is het wellicht mogelijk om een kleinschalige 
+waterstof elektrolyse-installatie te implementeren om het dieselverbruik en de 
+bijbehorende CO2-uitstoot te verminderen, en zo een weg te banen naar 
+hernieuwbare brandstoffen en een 100% duurzaam elektriciteitssysteem. Dit zou 
+ook de flexibiliteit van het energiesysteem vergroten en een deel van de 
+afschakeling (curtailment) van zonne- en windenergie voorkomen. Opslag van 
+hernieuwbare energie in de vorm van groene waterstof kan worden gebruikt om het 
+seizoenseffect te minimaliseren, waarbij waterstof wordt geproduceerd en 
+opgeslagen wanneer er een overschot aan duurzame elektriciteitsproductie is en 
+wordt gebruikt voor energieopwekking tijdens de lage windmaanden. Waterstof kan 
+ook worden gebruikt als brandstof voor transport.  
+ 
+De kosten om flexibel elektriciteit op te wekken met waterstof zijn hoog, 
+voornamelijk vanwege het energetisch rendement van de conversie en reconversie, 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  25 / 60
+belangrijk om de impact van de operatie van een waterstof elektrolyse installatie op 
+het gehele elektriciteitssysteem te analyseren, zowel bij gebruik als basislast en als 
+flexibele inzet. De eerstgenoemde kan dan wel goedkoper waterstof produceren, 
+maar resulteert in meer vraag naar duurzame elektriciteit gedurende het jaar, ook in 
+periodes met weinig wind. Een kosten-optimalisatie modelanalyse zou nodig zijn 
+om de impact op lange termijn te onderzoeken.  
+Tabel 2.3: Techno-economische gegevens voor PEM en Alkaline-elektrolysers (Marsidi, 2018; 
+Marsidi, 2019; Hydrogenics et al., 2016; de Vita et al., 2018; NOW, 2018) 
+Type Proton Exchange Membrane Alkaline electrolysers 
+(PEM) electrolysers 
+Typische omvang (MW) 1 - 3 (kleinschalig)  0.5 – 5 (kleinschalig) 
+11
+Energie-efficiëntie  54-64%  61%-72% 
+TRL 8 (nog niet op volledige industriële 9 (commercieel beschikbaar) 
+schaal) 
+12 13
+CAPEX  2020 2030 2050 2020 2030 2050 
+(€ /kWe-input) 
+2015 1500 1,000 550 1300 750 500 
+OPEX  2020 2030 2050 2020 2030 2050 
+(€ /kWe-input/jaar) 
+2015 60 48 32 55 40 35 
+14 15
+Levensduur  20-30 jaar 20-40 jaar 
+2.2.1.6 Vraagsturing 
+De output van variabele hernieuwbare energie uit zon en wind is moeilijk te 
+beheersen (op curtailment na) en moeilijk met hoge nauwkeurigheid te voorspellen. 
+Energieopslag in chemicaliën (bijvoorbeeld batterijen of waterstof) is een manier om 
+de flexibiliteit van het systeem te vergroten. Deze opties zijn hierboven beschreven 
+voor Bonaire. Aan de vraagzijde is het ook mogelijk om piekbelastingen te 
+verminderen en het overschot aan geproduceerde hernieuwbare elektriciteit 
+effectief te benutten. 
+ 
+Vraagsturing kan helpen om voldoende vaste capaciteit te garanderen, aan 
+flexibiliteitsbehoeften te voldoen en systeemstabiliteit te waarborgen. Vraagsturing 
+verwijst met name naar de mogelijkheid om de elektriciteitsverbruiksprofielen te 
+beïnvloeden. Er kan gestuurd worden aan de hand van afspraken gemaakt met 
+(grote) afnemers in ruil voor compensatiebetalingen. Typische vraag die kan 
+worden onderbroken of verschoven binnen vraagresponsprogramma's op Bonaire 
+zijn: airconditioning, koudeopslag en waterverwarmingsvraag van commerciële 
+(bijvoorbeeld hotels) of residentiële gebruikers, waterpomp- en ontziltingsfaciliteiten 
+en het opladen van elektrische voertuigen (EV's). Daarnaast kan er met 
+verschillende elektriciteitstarieven het verbruik verschoven worden van piek- naar 
+ 
+11 3
+  De energie-efficiëntie wordt gedefinieerd als het aantal kg of m waterstof die per 
+elektriciteitsinput (kWh) kan worden geproduceerd. Bij het toevoegen van een brandstofcel om 
+waterstof in elektriciteit om te zetten moet rekening worden gehouden met conversieverliezen, 
+d.w.z. retourefficiëntie van opslag. 
+12
+  CAPEX voor PEM-elektrolysers verwijst alleen naar apparatuurkosten. De civiele kosten 
+worden geschat op ongeveer 100.000 euro en de aansluiting op het net is 50.000 
+(laagspanning) (Hydrogenics et al., 2016). 
+13
+  De cell stacks van alkaline electrolysers omvat ongeveer 30% van de totale apparatuurkosten 
+(Hydrogenics et al., 2016).   
+14
+  Cell stacks hebben een levensduur van 7 jaar en zullen naar verwachting toenemen naar 10 
+jaar (SA, 2014). 
+15
+  De cell stacks hebben een levensduur van 9 tot 15 jaar (Fraunhofer, 2014). 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  27 / 60
+De Nederlandse overheid is van plan om vanaf 2030 de verkoop van nieuwe 
+voertuigen met een verbrandingsmotor in Nederland te verbieden. Ook andere 
+landen beginnen maatregelen te nemen. Het is onduidelijk hoe dit op Bonaire 
+uitpakt, maar gezien de externe druk om de CO -uitstoot te verminderen en de 
+2
+voordelen van het gebruik van EV's als flexibele vraag, is elektrisch vervoer de 
+meest aantrekkelijke optie voor het huidige energiesysteem op Bonaire. Als op 
+Bonaire een waterstof elektrolyser zou worden geïnstalleerd, zou waterstof ook 
+kunnen worden gebruikt als transportbrandstof voor brandstofcel-elektrische 
+voertuigen (FCEV's). Dit zou ook gunstig zijn voor het gebruik van de waterstof 
+elektrolyser als basislastproductie. Er zou wel infrastructuur voor het tanken van 
+waterstof nodig zijn. Bij het importeren van biodiesel kunnen bestaande 
+dieselvoertuigen rijden op biodieselmengsels. Alle bestaande personenauto’s 
+kunnen rijden op een mengsel met tot 7% biodiesel en in sommige gevallen al tot 
+30% biodiesel (CE Delft, 2013). Desalniettemin zou de afhankelijkheid van 
+brandstofimport blijven bestaan met hoge logistieke kosten. Biobrandstoffen kunnen 
+ook worden gebruikt voor scheepvaart en luchtvaart, maar dat valt buiten de scope 
+van dit rapport.  
+ 
+De overgang naar een elektrisch vervoerssysteem heeft een invloed op het 
+16
+elektriciteitssysteem. Op Bonaire rijden momenteel zo’n 16.000 auto’s . Onderzoek 
+op Saba geeft een inschatting van ongeveer 800 kWh aan elektriciteitsverbruik per 
+EV per jaar (Allen et al., 2019). Dat komt voor Bonaire uit op 12,8 GWh per jaar als 
+al deze auto’s vervangen worden door elektrische exemplaren, ongeveer 11% van 
+de huidige elektriciteitsvraag. Gezien dat Bonaire groter is dan Saba is het goed 
+mogelijk dat het gemiddelde elektriciteitsverbruik voor EV’s hoger ligt, maar exacte 
+data over energiegebruik in de mobiliteit ontbreekt. De impact op de 
+elektriciteitsvraag is significant en dient daarom beter uitgezocht worden. De groei 
+in elektriciteitsvraag is echter wel beperkt vergeleken met de projecties van WEB 
+voor de groei in elektriciteitsvraag los van elektrisch vervoer (+43% in 2030 
+vergeleken met 2019 in het basis scenario en +169% in 2030 in het hoge groei 
+scenario, zie ook Figuur 2.2). 
+ 
+De installatie van een EV-laadinfrastructuur kan ook de flexibiliteit van het 
+energiesysteem vergroten. Centrale laadpalen hebben de voorkeur boven laden 
+thuis om zo de piek in de elektriciteitsvraag te kunnen beïnvloeden. Omdat de 
+vraagpiek 's avonds plaatsvindt, zou het thuis opladen van elektrische auto's op 
+deze tijden voor meer druk op het systeem zorgen. Tegelijkertijd moet er wetgeving 
+komen en duidelijkheid over de rollen van stakeholders. Op dit moment zijn EV's 
+nog niet (of nauwelijks) beschikbaar op Bonaire. Momenteel wordt er op Bonaire 
+een pilot overwogen om een aantal praktische zaken van elektrisch vervoer in kaart 
+te brengen (WEB, 2021).  
+ 
+Op basis van onderzoeken op Aruba en Curaçao voor vervoer met schonere 
+brandstoffen en elektrificatie is geconcludeerd dat de aanschafkosten van 
+elektrische auto’s op deze eilanden nog niet betaalbaar zijn (ASDC, 2021). Op dit 
+moment is er geen beleidsprikkel om het gebruik van EV's in Caribisch Nederland 
+te stimuleren. Ook is het aantal dealers voor EV's beperkt. Bonaire heeft geen EV-
+dealers en op Aruba zijn er twee (ASDC, 2021). Op Aruba zijn er ook EV-
+laadstations ontwikkeld door private partijen bij  supermarkten en hotels. De meeste 
+ 
+16
+  Data uit 2019: https://bonairegov.com/inwoners/verkeerswet-bonaire. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  29 / 60
+3 St. Eustatius 
+3.1 Huidige situatie en verwachte ontwikkelingen 
+De Statia Utility Company (STUCO) is op St. Eustatius eigenaar van de 
+productiefaciliteiten voor elektriciteit en water, evenals de distributienetwerken. 
+Voordat het besluit werd genomen om over te gaan op duurzame 
+elektriciteitsproductie werd de elektriciteitsopwekking gerealiseerd met behulp van 
+dieselgeneratoren met een vermogen van 3,3 MW en een totaal jaarlijks 
+elektriciteitsverbruik van 14 GWh met een groei van ongeveer 1% per jaar (ECN, 
+2016). Met het doel om STUCO minder afhankelijk te maken van geïmporteerde 
+stookolie voor de dieselgeneratoren, startte het bedrijf een programma om zonne-
+energieproductie in combinatie met elektriciteitsopslagsystemen te implementeren. 
+Het ministerie van Economische Zaken heeft een voorstudie gedaan die adviseerde 
+te investeren in zonne-energie of windenergie en heeft de middelen beschikbaar 
+gesteld in 2014.  
+ 
+In maart 2016 is een PV-installatie van 1,89 MW en operationele energieopslag van 
+571 kWh aan lithium-ion-batterijen in gebruik genomen (STUCO, 2016). De 
+batterijen dienen voornamelijk voor het balanceren van de netfrequentie. Het 
+systeem is geïmplementeerd door Sunshine/EcoEnergy (Curaçao). Volgens ECN 
+(2016) was de hernieuwbare energiefractie 23,7% met een penetratie van 89% 
+hernieuwbare energie (maximale hernieuwbare energiefractie op een moment), 
+afhankelijk van de intensiteit van de bestraling die een sterke intermitterende 
+levering veroorzaakt.  
+ 
+Een tweede fase volgde waarin 2,2 MW extra zonne-energie en 5,4 MW batterijen 
+toegevoegd zijn voor dag-nachtopslag en voor verbeteringen op het gebied van 
+netstabiliteit (voltage reguleren en als ondersteuning voor reactief vermogen). De 
+reactieve belasting wordt grotendeels opgevangen door het zonnepark, wat 
+resulteert in een stabieler net (zonne-energiecentrale factor 0,96). Dankzij de 
+zonnesystemen kunnen de dieselgeneratoren elke ochtend rond 9.30 uur 
+automatisch worden uitgeschakeld om zich te voeden met 100% duurzame stroom 
+en worden ze aan het einde van de dag gestart als de batterijen leeg zijn. 
+Momenteel wordt 38,4% van alle energie opgewekt door de zonnesystemen 
+(Verlaan Consulting, 2021). 
+ 
+De bevolking van St. Eustatius groeit met ongeveer 1% per jaar, zelfs tijdens de 
+Covid-pandemie. Onlangs is een waterkwaliteits- en vraagrapport opgesteld waarin 
+sterk wordt geadviseerd om de elektriciteitsproductiecapaciteit uit te breiden, 
+17
+aangezien de elektriciteitsvraag met meer dan 5% per jaar groeit (STUCO, 2021) 
+(zie Figuur 3.1). De verwachting is dat de piekvraag dit jaar wordt bereikt, zeker 
+nadat het Golden Rock Resort operationeel is, waardoor ook de bevolkingsgroei zal 
+toenemen (Verlaan Consulting, 2021). Momenteel bestaat de elektriciteitscentrale 
+van STUCO uit 8 dieselgeneratoren met een totaal vermogen van 5050 kW. De 
+piekvraag die de eenheden kunnen opvangen in een situatie waarin de twee 
+ 
+17
+  Volgens STUCO (2021) is de elektriciteitsvraag dit jaar met 8% gestegen en zal de komende 
+jaren verder toenemen. Dit komt vooral door de vraag vanuit het Golden Rock Resort en een 
+toename van wateraansluitingen en -vraag over het hele eiland. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  31 / 60
+zonnesystemen en de omvormers op basis van internationale normen. Omdat het 
+Golden Rock Resort klant is van STUCO, is het belangrijk dat STUCO voldoende 
+capaciteit heeft om de piekbelasting op te vangen in het geval dat het systeem op 
+het Golden Rock Resort uitvalt. Hiervoor is voldoende opslagcapaciteit nodig.  
+ 
+Verlaan Consulting (2021) heeft een studie uitgevoerd om mogelijkheden te 
+identificeren voor de uitbreiding van STUCO’s productie van elektrische energie in 
+de jaren 2021-2027, waarmee de substantiële groei van de elektriciteitsvraag en de 
+piekvraag wordt voorzien. De opties waren gericht op het behalen van een hoog 
+percentage hernieuwbare energie tegen een zo gunstig mogelijke kosteneffectiviteit 
+(Verlaan Consulting, 2021). De studie adviseerde vijf opties voor 
+elektriciteitsuitbreiding in Fase 3. De raad van commissarissen heeft aangegeven 
+dat optie 5 de voorkeursoptie is aangenomen, met 2,5 MW extra zonne-energie 
+(aangezien er voldoende ruimte is in de compound voor de integratie ervan) en 10 
+MWh batterijopslag (Verlaan Consulting, 2021). Zie het overzicht van optie 5 in 
+Tabel 3.1. De uitbreiding van de batterijcapaciteit is nodig omdat de opgewekte 
+elektriciteit van het nieuwe zonnepark opgeslagen moet worden en ook omdat de 
+huidige 5,9 MW aan batterijopslag de afgelopen 3 tot 4 jaar enige degradatie heeft 
+ondergaan. Naar verwachting zal in Fase 3 het aantal uren op 100% zonne-energie 
+worden uitgebreid. Omdat de dieselgeneratoren langer uitstaan kunnen ze langer 
+meegaan. Na deze fase kan 55% hernieuwbare energie worden bereikt in 2023, 
+hoger dan de huidige 38% (Verlaan Consulting, 2021). Het systeem zou ook in 
+staat zijn om voldoende elektriciteit te leveren als zich een situatie voordoet waarin 
+de twee grootste generatoren niet beschikbaar zijn (n-2 situatie).  
+ 
+De variabele productieprijs voor elektriciteit op St. Eustatius is per juli 2021 door de 
+ACM ingeschat op 0,2680 USD/kWh (ACM, 2021b). Dit is een stijging van 25% ten 
+opzichte van het voorgaande jaar toen het tarief werd ingeschat op 0,2152 
+USD/kWh (ACM, 2020a). De aanpassing heeft vooral te maken met veranderingen 
+in de brandstofprijzen, aangezien deze in 2020 sterk zijn gedaald en in 2021 weer 
+stijgen. Brandstofkosten maken vanaf juli 2021 ongeveer 44% uit van de 
+productieprijs. De productiekosten inclusief het derde zonnepark schatten we voor 
+2023 in op 0,27 USD/kWh, ongeveer gelijk aan de huidige productiekosten. De 
+productieprijs is ingeschat op basis van de huidige productiekosten volgens de 
+ACM, de investeringskosten en operationele kosten van het nieuwe zonnepark, een 
+WACC van 6% op basis van de meest recente ACM berekeningen en de 
+verwachtte elektriciteitsvraag in 2023, namelijk 17,6 GWh/year (Verlaan Consulting, 
+2021). We hebben aangenomen dat de productiekosten exclusief brandstofkosten 
+(0,1490 USD/kWh in 2021; 0,1284 USD/kWh in 2023) meegerekend worden en dat 
+de brandstofkosten dalen van 0,1190 (ACM, 2021b) naar 0,0864 USD/kWh op 
+basis van een toename van het aandeel hernieuwbaar (van de huidige 38% naar 
+55%).  
+ 
+STUCO geeft aan de middelen niet te hebben om te investeren in nieuwe capaciteit 
+en de overheid te gaan vragen voor steun. Ook is het van belang dat deze 
+uitbreiding op korte termijn wordt uitgevoerd om te voorkomen dat er onvoldoende 
+capaciteit beschikbaar is als de twee grootste dieselgeneratoren niet beschikbaar 
+zijn (een N-2 situatie). De snelle toename van de elektriciteitsvraag, ondanks de 
+COVID-19-pandemie benadrukt dit ook. Indien een investeringssubsidie van 7,85 
+miljoen USD wordt toegekend voor de optie zonne-energie voor Fase 3, daalt de 
+geschatte productiekosten in 2023 naar 0,22 USD/kWh. Met een lening met lage 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  33 / 60
+energievermogen in Fase 3 een uitbreiding van zonne-energie de voorkeur heeft. 
+Zonder snelle uitbreiding met een derde zonnepark bestaat het risico dat er de 
+komende niet voldoende capaciteit aanwezig is in het geval van een situatie waar 
+de twee grootste generatoren niet beschikbaar zijn (n-2 situatie) en het risico op 
+stroomuitval toenemen, tenzij er geïnvesteerd wordt in additionele capaciteit aan 
+dieselgeneratoren. 
+Tabel 3.2:  Overzicht kosten windenergie St. Eustatius. Bron: eigen berekeningen  
+op basis van Verlaan Consulting (2021) en ACM (2021b). 
+Variant Windenergie 
+Jaarlijkse elektriciteitsvraag 2027 [GWh] 18,6 
+Aandeel hernieuwbaar in 2027 65% 
+Nieuwe capaciteit windenergie [MW] 2,4 
+Nieuwe capaciteit batterijopslagsystemen [MWh] 5 
+Investeringskosten [M$] 11,35 
+Operationele kosten [M$/jaar] 0,1 
+WACC 6% 
+Productiekosten 2027 [USD/kWh] 0,26 
+ 
+Windenergie kan nog als een mogelijke optie worden beschouwd voor de volgende 
+investeringscyclus. Windenergie heeft een veel hogere capaciteitsfactor in 
+vergelijking met zon PV, ook omdat er ook ‘s nachts wordt opgewekt. Er zouden 
+dagen zijn met hogere en lagere windsnelheden, of nul wind, al duurt dit doorgaans 
+niet langer dan ongeveer 2 uur (Verlaan Consulting, 2021). Daarom zouden er nog 
+steeds batterijen nodig zijn om de intermitterende opwek af te vlakken. Bovendien 
+zijn windturbines minimaal 2 weken per jaar niet beschikbaar door de behoefte aan 
+onderhoud, waarbij schade door orkanen nog niet in meegenomen is. Rekening 
+houdend met schade door een orkaan uit categorie 4 of 5 kan de reparatie 
+ongeveer 3 maanden duren. Daarom overweegt Verlaan Consulting (2021) 5 MWh 
+batterijopslag om de n-2 case te dekken en een beschikbaarheid van elektriciteit 
+van 90% te garanderen voor een periode van 15 jaar.  
+ 
+De gemiddelde windsnelheid op St. Eustatius is ongeveer 6,8 m/s (ECN, 2014), dit 
+wordt beschouwd als klasse III (referentiewindsnelheid van 7,5 m/s). In termen van 
+maximale windsnelheden zou het echter klasse I zijn (ontworpen voor 10 m/s) of 
+hoger vanwege de ligging in de Caribische orkaangordel. ECN (2014) beveelt aan 
+om een klasse III turbine te installeren en het orkaanrisico te dekken door een 
+verzekering, aangezien de frequentie van het optreden van sterkere orkanen 
+relatief laag is en deze turbines een hogere jaarlijkse energieproductie hebben. De 
+kosten in Tabel 3.2 zijn gebaseerd op een dergelijke windturbine. Een klasse II-
+turbine (ontworpen voor 8,5 m/s) met een nominaal vermogen van minder dan 1 
+MW zou echter ook een goed alternatief kunnen zijn in het licht van het windregime 
+en de turbulentie-intensiteit, waardoor ook het schaderisico voor de turbine wordt 
+verkleind. Orkaanbestendige windturbines zullen doorgaans zo'n 10-20% duurder 
+zijn in investeringen en in O&M-kosten (interne TNO-communicatie 2021). 
+Verzekeringskosten zullen echter niet meer nodig zijn en minder dan 5 MWh 
+batterijopslag kan voldoende zijn, aangezien er een kleiner risico is op langdurig 
+uitval van de turbines en het doel om meer dan 90% beschikbaarheid van 
+elektriciteit te behalen hierdoor minder in gevaar komt. Toch zijn de 
+investeringskosten van een klasse III windturbine (met verzekering) aantrekkelijker, 
+wanneer geen rekening wordt gehouden met de kosten van het niet beschikbaar 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  35 / 60
+Gemiddelde elektriciteitsvraag en productie zon PV 
+en wind op St. Eustatius in 2027
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Elektriciteitsvraag Zon PV Wind
+ 
+Figuur 3.3:  Elektriciteitsvraag en -productie op een gemiddelde dag op St. Eustatius in 2027 met 
+een combinatie van windenergie en zon PV. 
+3.2.1.2 Naar 100% hernieuwbaar met windenergie, zon-PV en batterijen 
+Deze route is gebaseerd op de hierboven beschreven route, maar met 2,4 MW 
+extra windenergiecapaciteit op een andere locatie. Er wordt dus uitgegaan van zes 
+windturbines van 0,8 MW (Enercon E53) in plaats van drie. De opslagcapaciteit 
+wordt verhoogd met 1 MWh om de opslagbehoeften te dekken in geval van 
+orkaanschade aan de extra windturbines. Dit zou leiden tot een 100% duurzaam 
+elektriciteitssysteem. Momenteel is een overgedimensioneerd systeem nodig om 
+100% duurzame elektriciteit te realiseren. Dit resulteert in extra materiaalkosten en 
+afschakeling van duurzame elektriciteit. Desalniettemin is er voor 100% duurzame 
+elektriciteit op basis van zonne- en windenergie nog steeds een risico op tijdelijke 
+stroomuitval gedurende een langere periode zonder wind en zon. De kosten voor 
+deze route zijn weergegeven in Tabel 3.4. 
+Tabel 3.4:  Overzicht kosten 100% hernieuwbaar met windenergie, zon-PV en batterijopslag  
+St. Eustatius. Bron: eigen berekeningen op basis van Verlaan Consulting (2021)  
+en ACM (2021b). 
+Variant Windenergie, zon-PV 
+en batterijopslag 
+Jaarlijkse elektriciteitsvraag 2027 [GWh] 18,6 
+Aandeel hernieuwbaar in 2027 100% 
+Nieuwe capaciteit zon PV [MW] 2,5 
+Nieuwe capaciteit windenergie [MW] 4,8 
+Nieuwe capaciteit batterijopslagsystemen [MWh] 16 
+Investeringskosten [M$] 28,6 
+Operationele kosten [M$/jaar] 0,3 
+WACC 6% 
+Productiekosten 2027 [USD/kWh] 0,30 
+ 
+Deze route leidt tot een overgedimensioneerd energiesysteem, hetgeen resulteert 
+in extra kosten en afschakeling van duurzame elektriciteit. De productieprijs voor 
+ 
+Elektriciteitsvraag en -productie [MW]
+
+ 
+TNO-rapport | TNO 2021 R11513  37 / 60
+Projecties van dieselprijzen voor 2027 voorspellen wel een stijging (zie Figuur 3.4), 
+waardoor de relatieve meerkosten van biodiesel kunnen dalen. De werkelijke 
+jaarlijkse meerkosten zijn onzeker omdat zowel de toekomstige prijs van diesel als 
+die van biodiesel onzeker is. Het is ook nog onzeker of het importeren van 
+importeren van biodiesel op de kleine schaal van de vraag van St. Eustatius 
+mogelijk is en of het, als het mogelijk is, niet tot nog hogere brandstofkosten zal 
+leiden.  
+ 
+Net als op Bonaire wordt de productie van biodiesel op het eiland niet gezien als 
+een economisch en fysiek haalbare optie vanwege de behoefte aan geschikte 
+grond en de kleinschaligheid die nodig is. 
+ 
+Huidige en geprojecteerde (bio)dieselprijzen
+2.0
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+Huidig (ACM) Huidig (IMF en 2027 (IMF en 2027 (EIA) Biodiesel
+Wereldbank) Wereldbank) (huidig)
+ 
+Figuur 3.4:  Overzicht van huidige en geprojecteerde (bio)dieselprijzen. Bronnen: ACM (2021b), 
+Verlaan (2021), CGB (2021). 
+3.2.1.4 Waterstof 
+Ook op St. Eustatius kan waterstof worden ingezet om de flexibiliteit in het systeem 
+te vergroten en inperking te voorkomen. Op korte termijn is waterstof echter een 
+dure optie en zal naar verwachting na 2030 of 2035 verder worden ontwikkeld naar 
+haalbaarheidstoepassingen in een dergelijke context. Een nadeel van de 
+elektriciteitsmix op St. Eustatius is ook dat met zonne-energie als enige bron van 
+duurzame elektriciteit de hoeveelheid duurzame waterstof die geproduceerd kan 
+worden beperkt wordt door de beperkte vollasturen van de zonneparken. Hierdoor 
+wordt er relatief weinig waterstof geproduceerd uit een investering in een 
+elektrolyse installatie. Als er windenergie toegevoegd wordt aan de elektriciteitsmix 
+kan de uitganspositie voor waterstof verbeteren. Ook is het belangrijk om rekening 
+te houden met de uitdagingen op zo'n klein eiland die samenhangen met 
+onderhoud en de beschikbaarheid van reserveonderdelen en technische expertise. 
+Dit zou op St. Eustatius nog prominenter zijn dan op Bonaire gezien de kleine 
+omvang van het eiland. 
+3.2.1.5 Geothermie 
+Geothermie is al enkele jaren onderwerp van discussie, hoewel hier op St. 
+Eustatius niet actief naar gekeken is. Eerdere graafwerkzaamheden hebben al 
+potentieel voor geothermische energie aangetoond. Momenteel doet een Franse 
+groep veldonderzoek op St. Eustatius en Saba om de mogelijkheden te 
+ 
+(Bio)dieselprijs [USD/liter]
+
+ 
+TNO-rapport | TNO 2021 R11513  39 / 60
+3.3 Organisatorische en andere aspecten 
+Op St. Eustatius is voor de uitbreiding van de duurzame elektriciteitscapaciteit een 
+open aanbestedingsprocedure vereist, waarbij een deelnamevergoeding wordt 
+gevraagd en het voorstel naar een notaris wordt gestuurd. Er is één 
+elektriciteitstarief en dat is hetzelfde voor bedrijven en consumenten. Door de hoge 
+exploitatiekosten zijn subsidies nodig en moeten nieuwe investeringen gefinancierd 
+worden. Zo is er een sterke afhankelijkheid van subsidies om de opwekcapaciteit 
+van elektriciteit uit te breiden. Hetzelfde geldt voor water-gerelateerde projecten. 
+Financiering is nodig om betaalbare tarieven voor de consument te hebben. De 
+hierboven beschreven Fase 1 en Fase 2 ontvingen beide subsidies omdat de 
+tarieven te laag waren en het verwerven van een commerciële lening voor de 
+capaciteitsuitbreiding niet konden rechtvaardigen. Er is geen business case en de 
+tarieven zijn ook niet voldoende om reserves op te bouwen voor toekomstige 
+investeringen. Ook is STUCO, in tegenstelling tot WEB Bonaire, eigenaar van de 
+activa en betaalt ook de leverancier voor de levering, installatie en service. 
+Desondanks zijn de productiekosten gedaald sinds de installatie van zon-PV op St. 
+Eustatius (STUCO, 2021).   
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  41 / 60
+4.2.1.1 Naar 85-90% hernieuwbaar met windenergie 
+Pondera heeft voor Saba de mogelijkheden om 1-3 MW aan windenergie toe te 
+voegen onderzocht. Er is gekeken naar 3 scenario’s, met verschillende aantallen en 
+types windturbines (zie Tabel 4.1). Er is gekeken naar twee gebieden in de buurt 
+van de haven. Een van de twee gebieden is inmiddels als ongeschikt verklaard 
+(SEC, 2021) waardoor er voor de cases met 3-6 windturbines een alternatieve 
+tweede locatie gevonden zou moeten worden. Alle turbines zijn klasse I turbines, 
+gemaakt om eens per 50 jaar maximale snelheden van 50 m/s (250 km/h) te 
+weerstaan. De Vestas V117 is specifiek ontworpen als een ‘typhoon class’ turbine 
+die hoge windsnelheden kan weerstaan. De turbine is groter dan de 1-3 MW waar 
+Pondera naar zou kijken, waardoor de capaciteit van de bestaande kabels (3 MW) 
+uitgebreid zou moeten worden. Deze case is door Pondera meegenomen om de 
+potentiële voordelen van het uitbreiden van de capaciteit van de kabels te kunnen 
+wegen. Het uitbreiden van de capaciteit van de kabels is mogelijk niet nodig als er 
+voldoende batterijopslag aan de voet van de turbine geplaatst wordt om de levering 
+te allen tijde te beperken tot de maximale 3 MW. 
+Tabel 4.1: Overzicht scenario’s Pondera onderzoek en de windturbine eigenschappen. Bron: 
+Pondera (2021). 
+Scenario Klein Medium Groot 
+Type Windturbine  WES250 EWT DW54-X Vestas V117 
+Aantal turbines 6 3 1 
+Capaciteit per turbine [MW] 0,25 1,0 4,2 
+Maximale capaciteit [MW] 1,5 3,0 4,2 
+Rotor diameter [m] 30 54 117 
+Hub hoogte [m] 48 75 120 
+IEC class IB IA IB / S-T 
+ 
+Een samenvatting van de kosten van de drie scenario’s en de elektriciteitsproductie zijn gegeven 
+in  
+ 
+ 
+Tabel 4.2. De elektriciteitslevering wordt beperkt door de vraag, waardoor de 
+maximale elektriciteitslevering voor het medium en groot scenario lager uitvalt. 
+Pondera heeft dit vergelijk gemaakt op basis van de maandelijkse 
+elektriciteitsvraag, zonder de huidige batterijcapaciteit of uitbreiding hiervan mee te 
+nemen. Pondera geeft aan dat ze niet over de juiste data beschikten om een 
+berekening op uur-basis te doen, wat nodig is om de maximale levering van de 
+windturbines en de benodigde batterijcapaciteit te onderzoeken. 
+ 
+Ze geven ook aan dat er in het scenario met de grote windturbine mogelijk nog 
+meer afschakeling plaatsvindt bij hoge windsnelheden omdat de limiet van de kabel 
+bereikt zal zijn. Deze additionele afschakeling is ook niet meegenomen in het 
+bepalen van de maximale levering per jaar. De getallen die hier genoemd worden 
+dienen dus met de nodige voorzichtigheid gebruikt te worden. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  43 / 60
+van de windenergie. Met een WACC van 6% komen de additionele kosten voor 
+windenergie op basis van de kostengegevens uit  
+ 
+ 
+Tabel 4.2 uit op ongeveer 0,13-0,14 USD/kWh op basis van de huidige jaarlijkse 
+elektriciteitsvraag van 9,2 GWh/jaar. De productiekosten komen uit op 0,34 
+USD/kWh.  Hier komen de kosten voor additionele batterijcapaciteit nog bij. De 
+800.000 USD genoemd door Pondera leidt tot een verhoging van de 
+productiekosten naar 0,36 USD/kWh op basis van de huidige vraag Bij een 
+investering van 1,6 miljoen USD voor een verdubbeling van de huidige 
+batterijcapaciteit van 2,5 MWh naar 5 MWh (gebaseerd op kosteninschatting CGB 
+voor Bonaire) stijgen de productiekosten naar 0,37 USD/kWh.  
+ 
+Net als op St. Eustatius geeft SEC aan niet de middelen te hebben voor de 
+bovenstaande investeringen en ondersteuning te vragen aan de Rijksoverheid om 
+de investering te realiseren. In Tabel 4.3 is een overzicht gegeven van de impact 
+van een lage rente lening (1%) en een investeringssubsidie op de productiekosten. 
+De lage rente lening verlaagt de productiekosten naar 0,33 USD/kWh, de 
+investeringssubsidie verlaagt de productiekosten naar 0,24 USD/kWh. 
+ 
+Bij een groei van de elektriciteitsvraag van 2% per jaar komt de elektriciteitsvraag 
+uit op 12,4 GWh/jaar in 2030. Als de 85-90% hernieuwbaar nog altijd gerealiseerd 
+kan worden komen de productiekosten inclusief 2,5 MWh aan additionele 
+batterijopslagcapaciteit uit op 0,32-0,33 USD/kWh. Na de initiële stijging in 
+productiekosten kunnen deze weer dalen, Met de investering in windenergie is er 
+dus op de korte termijn een verhoging van de productiekosten, waarna die weer 
+dalen maar boven de huidige productiekosten blijven. 
+Tabel 4.3:  Overzicht kosten Pondera scenario's Saba op basis van de huidige elektriciteitsvraag. 
+Inclusief varianten met lage rente lening en investeringssubsidie. Bron: eigen 
+berekeningen op basis van Pondera (2021) en ACM (2021c). 
+Variant Medium Groot 
+Jaarlijkse elektriciteitsvraag [GWh] 9,2 9,2 
+Nieuwe capaciteit wind [MW] 3,0 4,2 
+Nieuwe capaciteit batterijopslagsystemen [MWh] 2,5 2,5 
+Investeringskosten [M$] 11,2 11,3 
+Operationele kosten [M$/jaar] 0,29 0,35 
+WACC 6% 6% 
+Productiekosten [USD/kWh] 0,37 0,37 
+Productiekosten met lage rente lening (1%) 0,33 0,33 
+[USD/kWh] 
+Productiekosten met 100% investeringssubsidie 0,24 0,24 
+[USD/kWh] 
+ 
+Het is onduidelijk of 2,5 MWh additionele batterijcapaciteit op jaarbasis voldoende is 
+om een aandeel van 85-90% hernieuwbaar zoals genoemd door Pondera te 
+realiseren. Hieronder volgt een analyse voor de benodigde batterijcapaciteit voor 
+het realiseren van een aandeel van 100% hernieuwbare elektriciteit op gemiddelde 
+dagen op Saba.  
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  45 / 60
+Gemiddelde elektriciteitsvraag en productie zon PV 
+en wind op Saba in 2030 - grote windturbine
+2.0
+1.5
+1.0
+0.5
+0.0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Elektriciteitsvraag Zon PV Wind
+ 
+Figuur 4.2:  Elektriciteitsvraag en -productie voor een gemiddelde dag met 100% hernieuwbare 
+elektriciteit op Saba in 2030, grote windturbine case. 
+ 
+De kosten van de bovenstaande scenario’s zijn doorgerekend op basis van de 
+kosten van de windenergie van Pondera (2021) en de kosteninschattingen voor zon 
+PV en batterijen voor Bonaire (zie paragraaf 2.2.1.2). De resultaten zijn te zien in 
+Tabel 4.4. De kosten voor het scenario met de grote windturbine liggen lager dan 
+die met de kleinere windturbines, omdat er minder investering benodigd is in meer 
+zon PV en batterijcapaciteit. Het productietarief is ook hier uitgerekend uitgaande 
+van dezelfde kosten voor de generatoren, het zonnepark en de toename door de 
+investering in windenergie. Het variabele deel voor brandstofkosten is niet 
+meegenomen. De productiekosten liggen voor de case met medium windturbines 
+0,09 USD/kWh hoger dan het huidige maximale productietarief van 0,3020 
+USD/kWh. Voor de case met de grotere turbine zijn de productiekosten 0,03 
+USD/kWh hoger dan de huidige productiekosten. 
+Tabel 4.4:  Overzicht kosten scenario's 100% duurzame elektriciteit Saba in 2030. Bron: eigen 
+berekeningen op basis van Pondera (2021) en ACM (2021c). 
+Variant Medium Groot 
+Jaarlijkse elektriciteitsvraag 2030 [GWh] 12,4 12,4 
+Nieuwe capaciteit zon PV [MW] 2,0 - 
+Nieuwe capaciteit wind [MW] 3,0 4,2 
+Nieuwe capaciteit batterijopslagsystemen [MWh] 10,9 5,9 
+Investeringskosten [M$] 18,8 13,4 
+Operationele kosten [M$/jaar] 0,6 0,5 
+WACC 6% 6% 
+Productiekosten [USD/kWh] 0,39 0,33 
+ 
+Elektriciteitsvraag en -productie [MW]
+
+ 
+TNO-rapport | TNO 2021 R11513  47 / 60
+De meeste voertuigen op Saba worden geïmporteerd uit Japan, wat resulteert in 
+ongeveer 2000-4000 USD in kosten voor verscheping (Allegn et al., 2019). De 
+totale kosten (total cost of ownership, TCO) van nieuwe en tweedehands 
+elektrische auto’s geïmporteerd uit Japan is niet significant anders dan vergelijkbare 
+auto’s met een verbrandingsmotor en soms zelfs lager (Allen et al., 2019). De TCO 
+van elektrische auto’s kan de komende jaren verder omlaag gaan door dalende 
+aanschafkosten voor elektrische voertuigen en een dalende elektriciteitsprijs op 
+Saba. De aanschafkosten voor elektrische voertuigen liggen doorgaans wel hoger, 
+wat een mogelijke barrière is voor het aanschaffen van EV’s voor de lokale 
+bevolking. Uit een vragenlijst uitgezet door Allen et al. (2019) blijkt dat 56% van de 
+respondenten minder dan 10.000 USD uit wil geven aan de volgende auto en 89% 
+maximaal 20.000 USD. 
+ 
+Behalve een vrijstelling van de importheffing (van 6%) is er geen actief beleid om 
+elektrisch vervoer te stimuleren op Saba (SEC en OL Saba, 2021). Op basis van de 
+aanschafkosten van nieuwe en tweedehands elektrische voertuigen uit Japan en de 
+bedragen die respondenten uit de vragenlijst van Allen et al. (2019) aangeven 
+bereid zijn te betalen valt het te verwachten dat de meeste geïmporteerde EV’s de 
+komende jaren tweedehands modellen zullen zijn. In Nederland is er een 
+subsidieregeling voor elektrische personenauto’s particulieren (SEPP) van €2000 
+per tweedehands auto (RVO, 2021). Als een vergelijkbare stimulering voor Saba 
+ingevoerd wordt dan zijn de geschatte kosten voor alle personenauto’s 1 miljoen 
+euro. Met een aanschafsubsidie van €4000 voor nieuwe pick-ups en trucks, 
+vergelijkbaar met de SEPP voor nieuwe EV’s, komt de subsidie om deze te 
+vervangen uit op 1,2 miljoen euro. 
+ 
+Naast technische en financiële barrières zijn er ook sociale barrières. Zo zijn er 
+zorgen over de steile, bergachtige wegen op Saba (Allen et al., 2019) en de kosten 
+van kleine trucks, waar elektrische alternatieven nog duurder zijn (SEC en OL 
+Saba, 2021). Sociale acceptatie kan gestimuleerd worden door 
+informatiecampagnes, bewoners ervaring op laten doen met EV’s, pilot projecten en 
+stapsgewijs elektrische voertuigen introduceren op Saba. Introductie van 
+elektrische voertuigen bij overheidsinstanties kan het vertrouwen geven aan 
+burgers over het gebruik van EV’s op Saba, kan er ervaring opdoen met de impact 
+van EV’s op het elektriciteitsnetwerk en kan EV’s introduceren op Saba die later als 
+tweedehands voertuigen verder verkocht kunnen worden. 
+ 
+Respondenten van de vragenlijst geven ook aan dat ze open staan voor openbaar 
+vervoer, wat nu niet bestaat op Saba (Allen et al., 2019). Het stimuleren van 
+elektrisch openbaar vervoer dient verder uitgezocht te worden om de impact en 
+kosten ervan in kaart te brengen. 
+4.3 Organisatorische en andere aspecten 
+Vergelijkbaar met St. Eustatius zijn de elektriciteitstarieven op Saba niet toereikend 
+om een buffer op te bouwen waarmee nieuwe investeringen gedaan kunnen 
+worden in het verduurzamen van de elektriciteitsmix. Voor investeringen wordt er 
+daarom gevraagd om een bijdrage van de Rijksoverheid. De recent geïnstalleerde 
+zonneparken zijn ook met dergelijke ondersteuning gerealiseerd. 
+ 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  49 / 60
+5 Conclusies en aanbevelingen 
+Op Bonaire leiden de huidige plannen voor verdere verduurzaming van de 
+elektriciteitsmix met zon PV, windenergie en batterijen naast verduurzaming 
+tot een verlaging van de productiekosten. 
+Met de plannen van CGB om te investeren in zon PV en nieuwe windturbines stijgt 
+het aandeel hernieuwbare elektriciteit van 29% naar 74%, waarna het verwacht 
+wordt weer wat te dalen richting 2030 door de groei van de elektriciteitsvraag en 
+een toename van de inzet van dieselgeneratoren. De productiekosten van CGB 
+dalen met dit plan van 0,287 USD/ kWh in 2022 naar 0,166 USD/kWh in 2030 bij 
+een dieselprijs van 100 USD/vat. 
+ 
+Het aandeel hernieuwbaar wordt door de benodigde minimale inzet van 
+dieselgeneratoren voor het bewaken van netstabiliteit beperkt. Deze rol zou vervuld 
+kunnen worden door de batterijsystemen, maar dit is volgens DNV nog geen 
+bewezen techniek voor netten zoals die van Bonaire. Als door ontwikkeling van de 
+batterijtechnologie deze rol wel vervuld kan worden door de batterijen kan het 
+aandeel hernieuwbare elektriciteit zonder additionele investeringen toenemen tot 
+77-83% en de gemiddelde productiekosten wat dalen naar 0,159 USD/kWh. 
+ 
+Er een subsidieaanvraag gedaan door WEB om de elektriciteitstarieven verder te 
+verlagen. Er zijn meerder varianten doorgerekend, zoals een investeringssubsidie 
+van maximaal 58,1 miljoen USD waarmee de productiekosten in 2030 dalen naar 
+0,135 USD/kWh. Een ander alternatief is een renteloze lening, waarmee de hoge 
+financieringskosten waar CGB mee rekent verlaagd kunnen worden. Het effect van 
+de renteloze lening is een daling van de productiekosten naar 0,153 USD/kWh. 
+ 
+Om het hybride plan te realiseren moeten er afspraken gemaakt worden met CGB 
+over nieuwe investeringen en een nieuwe PPA. Een alternatief is de mogelijkheden 
+te onderzoeken om andere partijen te laten investeren. Hierbij moeten er afspraken 
+met CGB gemaakt moeten worden over het power management systeem. 
+ 
+Op St. Eustatius kan het toevoegen van een derde zonnepark met ongeveer 
+gelijke productiekosten als de huidige productiekosten. Richting 2027 leidt 
+het plan tot iets lagere productiekosten. 
+Op St. Eustatius is de voorkeursoptie van STUCO om een derde zonnepark te 
+realiseren, waarmee het aandeel hernieuwbare elektriciteit stijgt van de huidige 
+38% naar 55% in 2023. De productiekosten van elektriciteit met het nieuwe 
+zonnepark blijven naar onze schatting in 2023 ongeveer gelijk aan de huidige 0,27 
+USD/kWh. Daarna dalen de productiekosten naar 0,26 USD/kWh in 2027 doordat 
+er meer zonne-energie ingezet kan worden bij een hogere elektriciteitsvraag en zo 
+de kosten van het plan verdeeld worden over meer kilowatturen. STUCO geeft aan 
+de financiële middelen niet te hebben voor de financiering van het project en zegt 
+daar ondersteuning van de overheid voor te willen vragen. Met een 
+investeringssubsidie van 7,85 miljoen USD in 2023 dalen de productiekosten naar 
+0,22 USD/kWh. Met een lening met lage rente (1%) dalen de geschatte 
+productiekosten naar 0,25 USD/kWh.  
+ 
+Het is van belang dat de capaciteitsuitbreiding op korte termijn gebeurt gezien de 
+snelle toename van de vraag en om het risico van stroomuitval door een N-2 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  51 / 60
+Tabel 5.1:  Overzicht kosten hybride plan Bonaire, Fase 3 zonnepark St. Eustatius en 
+windenergie Saba, inclusief varianten met een lage rente (1%) lening en 100% 
+investeringssubsidie. 
+Scenario Hybride plan Fase 3 Windenergie 
+Bonaire zonnepark St. Saba 
+Eustatius 
+Jaarlijkse elektriciteitsvraag [GWh] 131-161,2 17,6 9,2 
+Aandeel hernieuwbare elektriciteit  71-77% 55% 85-90% 
+Nieuwe capaciteit zon PV [MW] 6 2,5 - 
+Nieuwe capaciteit wind [MW] 24 - 3,0-4,2 
+Nieuwe capaciteit 8 10 2,5 
+batterijopslagsystemen [MWh] 
+Investeringskosten [M$] 58,1 7,85 11,2-11,3 
+Operationele kosten [M$/jaar] 1,5 0,1 0,29-0,35 
+WACC 7,1% 6% 6% 
+Productiekosten [USD/kWh] 0,16-0,20 0,27 0,37 
+Productiekosten met lage rente 0,15-0,18 0,26 0,33 
+lening (1%) [USD/kWh] 
+Productiekosten met 100% 0,14-0,16 0,22 0,24 
+investeringssubsidie [USD/kWh] 
+Huidige productiekosten 0,25-0,30 0,27 0,30 
+[USD/kWh] 
+ 
+De productiekosten stijgen als de elektriciteitsmix richting 100% 
+hernieuwbaar gaat. 
+Op Bonaire kan er op korte termijn 100% duurzaam elektriciteit bereikt worden met 
+de inzet van biodiesel. De meerkosten hiervan vergeleken met het gebruik van 
+diesel zijn vanaf 2023 11,6-15,4 miljoen USD per jaar, in combinatie met het 
+hybride plan van CGB waarmee het aandeel (bio)diesel in de elektriciteitsmix 
+significant daalt vanaf 2023. De productiekosten in 2030 stijgen van 0,166 
+USD/kWh naar 0,251 USD/kWh bij het gebruik van biodiesel. Bij dergelijke kosten 
+voor biodiesel is het naar onze schatting goedkoper om het aandeel biodiesel te 
+minimaliseren door grootschalig te investeren in zon PV en batterijsystemen. Zelfs 
+met huidige kosten is een investering in 25 MW zon PV en 25 MW/100MWh 
+batterijopslag is met kosten van 11,5 miljoen USD per jaar goedkoper dan het 
+gebruik van biodiesel. Biodiesel zal in zo’n scenario wel nog nodig zijn om variaties 
+op dag of seizoenbasis op te kunnen vangen. Op termijn kunnen variaties op dag-
+basis mogelijk ook opgevangen worden door het gebruik van de batterijen van 
+elektrische voertuigen voor zowel afname als teruglevering. Ook in dit geval is de 
+minimale benodigde inzet van generatoren voor netstabiliteit een beperkende factor 
+voor de hoeveelheid elektriciteit uit variabele energiebronnen dat het net op kan. 
+ 
+Om een elektriciteitssysteem te realiseren dat alleen gebruik maakt van zon PV, 
+windenergie en batterijen is veel additionele capaciteit nodig. In onze grove 
+inschattingen voor Bonaire is in 2030 89 MWp zon PV, 68 MW/272 MWh 
+batterijopslag en 50-70 MW windenergie nodig. Totale investeringen komen uit op 
+287-334 miljoen USD en de productiekosten op 0,31-0,34 USD/kWh. 
+ 
+Het toevoegen van OTEC verlaagt de benodigde investeringen in zon PV, 
+windenergie en batterijen in het bovenstaande scenario. Met een 10 MW OTEC 
+installatie is onze inschatting op basis van de huidige kosteninformatie dat de 
+productiekosten 0,04 USD/kWh hoger zullen zijn met OTEC. 
+ 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  53 / 60
+Op Saba kan er met een uitbreiding van windenergie, zon PV en batterijcapaciteit 
+een stap gezet worden richting 100% hernieuwbare elektriciteit in 2030. Bij de case 
+met 3 windturbines van 1 MW moet er nog 2 MW aan zon PV bijgeplaatst worden 
+om op gemiddelde dagen voldoende duurzame elektriciteit op te wekken. Voor de 
+case met een enkele windturbine van 4,2 MW is er geen additionele zon PV nodig, 
+maar mogelijk wel een investering in een uitbreiding van de aansluiting om een 
+groter deel van de opgewekte stroom het net in te kunnen voeden. In beide 
+gevallen is er wel additionele batterijopslag nodig om een deel van de overdag 
+opgewekte elektriciteit naar de avond te kunnen verschuiven. Door de besparing in 
+dieselkosten komen het totale productiekosten uit op 0,33-0,39 USD/kWh. Voor 
+gemiddelde dagen is deze capaciteit voldoende om 100% hernieuwbare elektriciteit 
+te leveren. In principe is de capaciteit voldoende om gedurende het hele jaar 
+voldoende hernieuwbare elektriciteit te produceren om de elektriciteitsvraag te 
+voorzien. Wel kan het dat er op  dagen of gedurende maanden met minder dan 
+gemiddelde condities of hogere vraag meer capaciteit nodig is om genoeg 
+elektriciteit te produceren om aan de vraag te voldoen. Dan is er additionele 
+capaciteit zon PV, windenergie en/of batterijcapaciteit nodig. Hiermee zullen de 
+productiekosten naar verwachting hoger uitvallen dan de huidige productiekosten. 
+Meer gedetailleerde modellering kan meer duidelijkheid en zekerheid geven over of 
+de additionele capaciteit voldoende is om een jaar lang 100% hernieuwbare 
+elektriciteit te kunnen leveren op Saba. 
+Tabel 5.4: Overzicht kosten scenario's 100% duurzame elektriciteit Saba in 2030. 
+Variant Medium Groot 
+Jaarlijkse elektriciteitsvraag 2030 [GWh] 12,4 12,4 
+Nieuwe capaciteit zon PV [MW] 2,0 - 
+Nieuwe capaciteit wind [MW] 3,0 4,2 
+Nieuwe capaciteit batterijopslagsystemen [MWh] 10,9 5,9 
+Investeringskosten [M$] 18,8 13,4 
+Operationele kosten [M$/jaar] 0,4 0,3 
+WACC 6% 6% 
+Productiekosten [USD/kWh] 0,39 0,33 
+ 
+De gevolgen van verduurzaming van de elektriciteitsmix op korte termijn zijn 
+redelijk goed in kaart gebracht. Wat er nodig is om op lange termijn een 
+transitie naar 100% hernieuwbaar te realiseren heeft nog minder aandacht 
+gekregen en kent meer onzekerheid. 
+Voor de eerstvolgende stap naar verdere verduurzaming van de elektriciteitsmix is 
+onderzoek gedaan door CGB, Verlaan en Pondera. Hierdoor is er redelijk goed 
+zicht op de impact van deze stappen. Voor de lange termijn is er op alle eilanden de 
+ambitie om geheel duurzaam te worden, maar deze ambitie is nog weinig concreet 
+gemaakt. 
+ 
+Met grove inschattingen hebben we hier geprobeerd meer inzicht te geven op de 
+verschillende opties om de elektriciteitsmix verder te verduurzamen richting 2030, 
+inclusief de kosten en de impact van deze opties. Deze inschattingen zijn 
+gebaseerd op de minimale benodigdheden om richting een 100% hernieuwbare 
+elektriciteitsmix te gaan. Om met hoge waarschijnlijkheid voldoende hernieuwbare 
+elektriciteit te hebben en een stabiel elektriciteitsnet te garanderen moeten mogelijk 
+additionele kosten gemaakt worden, die een invloed hebben op de totale 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  55 / 60
+ 
+De groei in elektriciteitsvraag is grof ingeschat op 4-11%. Er is weinig data 
+beschikbaar over het huidige energieverbruik in de mobiliteit in Caribisch 
+Nederland, waardoor exacte inschattingen van de groei in elektriciteitsvraag nog 
+lastig te maken zijn. In combinatie met zonne-energie opwek gedurende de dag 
+heeft gecentraliseerde laadinfrastructuur de voorkeur boven thuisladen. Zo kan er 
+voorkomen worden dat de piekvraag vergroot wordt door de vraag naar elektriciteit 
+voor EV laden en kan de benodigde batterijopslagcapaciteit voor het 
+elektriciteitssysteem verminderen. Gecentraliseerde laadinfrastructuur brengt wel 
+meer kosten met zich mee. Op de lange termijn kunnen de EV’s mogelijk een rol 
+spelen in het leveren van opslagcapaciteit en flexibiliteit aan het elektriciteitsnet, 
+maar hier is nog de nodige voorbereiding voor nodig. 
+ 
+Aanschafkosten en acceptatie van EV’s als geschikte toepassing op de eilanden 
+zijn de grootste barrières. Voor aanschafkosten kan een subsidieregeling zoals de 
+SEPP helpen. Ook kan de aantrekkelijkheid van EV’s vergroot worden door het 
+beprijzen van fossiele brandstoffen (accijns) of hogere belastingen op benzine en 
+diesel auto’s. Voor acceptatie is ervaring opdoen door middel van pilots een 
+mogelijkheid. 
+5.1 Aanbevelingen 
+Bekijk samen met de elektriciteitsbedrijven en openbare lichamen hoe er op 
+korte termijn geïnvesteerd kan worden in verdere verduurzaming van de 
+elektriciteitsmix. 
+Op Bonaire is CGB bereid te investeren en lopen er gesprekken met BBT over de 
+rol als BBT als investeerder. Er moeten afspraken gemaakt worden over het 
+verlengen van de power purchase agreement (PPA) van CGB. Investeringen door 
+CGB en BBT leiden naar verwachting naast een hoger aandeel hernieuwbare 
+elektriciteit ook tot een daling van de productiekosten op Bonaire. Op St. Eustatius 
+leidt de investering tot iets hogere productiekosten op de korte termijn, waarna de 
+productiekosten richting 2027 weer iets zullen dalen. Op Saba leidt de investering in 
+windenergie naar een significante stijging van de productiekosten. De investering 
+kan terugverdiend worden door de elektriciteitstarieven te verhogen, maar de 
+elektriciteitsbedrijven geven aan dit niet wenselijk te vinden. De 
+elektriciteitsbedrijven op St. Eustatius en Saba geven ook aan dat ze het kapitaal 
+niet hebben om de initiële investering te betalen, waar een oplossing voor 
+gevonden moet worden. Investeringssubsidies en leningen met lage rente kunnen 
+naast de financiering van de initiële investering ook leiden tot lagere 
+elektriciteitstarieven. 
+ 
+Onderzoek voor Bonaire de mogelijkheden om de komende jaren de 
+afhankelijkheid van generatoren voor systeemstabiliteit te verkleinen. 
+De minimale inzet van dieselgeneratoren om stabiliteit te garanderen is een 
+beperkende factor op Bonaire voor verdere verduurzaming met zon PV, 
+windenergie en batterijen. Als de minimale inzet afgeschaald kan worden door de 
+inzet van batterijsystemen om netstabiliteit te garanderen kan er op gemakkelijke 
+en goedkope manier verdere verduurzaming van de elektriciteitsmix gerealiseerd 
+worden. Op St. Eustatius en Saba draaien de elektriciteitssystemen voor grote 
+delen van de dag al op 100% zonne-energie en batterijen. Kennisuitwisselingen 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  57 / 60
+ 
+Op alle eilanden is de komende jaren groei in elektriciteitsvraag voorzien, waardoor 
+er op termijn meer investeringen in duurzame opwekcapaciteit benodigd zullen zijn. 
+Voor nieuwe investeringen moeten de bovenstaande overwegingen over kosten, 
+ruimtegebruik, importlogistiek en kostenverdeling ook meegenomen worden. 
+ 
+Stimuleer de overgang naar elektrisch vervoer. 
+Elektrisch vervoer lijkt de logische optie voor duurzame mobiliteit op Bonaire, St. 
+Eustatius en Saba. Er zijn nog weinig stappen gezet om elektrisch vervoer mogelijk 
+en aantrekkelijk te maken. Er zijn weinig prikkels voor de overstap naar EV’s, nog 
+geen infrastructuur, weinig beschikbaarheid van EV’s en onder bewoners weinig 
+bekendheid met en kennis over EV’s. Meer prikkels kunnen geïntroduceerd worden 
+in de vorm van ondersteuning voor de aanschaf en import van EV’s of een 
+verhoging van de kosten van het gebruik van benzine en diesel. Pilot projecten 
+kunnen meer duidelijkheid scheppen over de benodigde infrastructuur, de invloed 
+van EV’s op het elektriciteitssysteem en bekendheid onder de bewoners stimuleren. 
+Het overgaan op elektrisch vervoer zal tot een stijging van de elektriciteitsvraag 
+leiden, waar rekening mee gehouden moet worden bij het plannen van de 
+uitbreidingen van de elektriciteitssystemen. Verder onderzoek naar energieverbruik 
+in de mobiliteit en pilots kunnen meer duidelijk maken over de exacte implicaties 
+van de overstap naar elektrisch vervoer op de elektriciteitssystemen. 
+ 
+
+ 
+TNO-rapport | TNO 2021 R11513  59 / 60
+Contour Global (2021), Bonaire renewable energy capacity additions. Indicative 
+proposal, revision 5, 11 maart 2021. 
+ 
+De Vita, A., Capros, P., Evangelopoulou, S., Kannavou, M., Siskos, P., Zazias, G., 
+Boeve, S., Bons, M., Winkel, R., Cihlar, J., De Vos, L., Leemput, N., Mandatova, P. 
+(2018). Sectoral integration - long term perspective. 
+ 
+DNV GL (2021), Review of optimum fuel mix and indicative proposal 
+CountourGlobal Bonaire for renewable energy capacity additions. Memo aan WEB 
+Bonaire. 
+ 
+ECN (2000). Application of Sustainable Energy on the Island of Bonaire. Phase 1: 
+Inventory of Sustainable Energy Options. Energy research Centre of the 
+Netherlands. 
+ 
+ECN (2010). The possibilities with hydrogen on island environment. Aruba, 
+September 30, 2010. Energy research Centre of the Netherlands. 
+ECN (2014). Site Assessment and Technology Selection for St. Eustatius and 
+Saba. ECN-X--14-072. Energy research Centre of the Netherlands. 
+ 
+ECN (2016). Evaluation commercial offers for extension of the PV solar capacity at 
+the Dutch Caribbean island of Statia. ECN-E—16042. Energy research Centre of 
+the Netherlands. 
+ 
+ETIPOCEAN (2019), Powering homes today, powering nations tomorrow. 
+IANOS (2020). Decarbonising energy systems of geographical islands. H2020-LC-
+SC3-ES-4-2020 IA - Innovation Action. IntegrAted SolutioNs for the 
+decarbOnization and Smartification of islands. 
+ 
+IRENA (2012). Electricity Storage and Renewables for Island Power. A Guide for 
+Decision Makers. International Renewable Energy Agency. 
+ 
+IRENA (2014), Ocean Thermal Energy Conversion: Technology Brief. 
+ 
+IRENA (2015). Renewable desalination: Technology options for islands. 
+International Renewable Energy Agency. 
+ 
+Lensink, S. en Schoots, K. (red.) (2021), Eindadvies basisbedragen SDE++ 2021, 
+Den Haag: PBL. 
+ 
+Marcus Gioutsos, D. (2016). Determination of cost-optimal electricity system 
+configurations for the transition to sustainable energy systems on islands. Delft 
+University of Technology.  
+ 
+Marsidi, M. (2018). Technology Factsheet: Small scale Alkaline-electrolysis H2 
+installation. Found at: https://energy.nl/wp-content/uploads/2018/10/FINAL-
+Factsheet-Small-scale-H2-Alkalische-Elektrolyse.pdf 
+ 
+Marsidi, M. (2019). Technology Factsheet: Polymer Electrolyte Membrane (PEM) 
+Hydrogen Installation – Small-scale. Found at: https://energy.nl/wp-
+ 
+

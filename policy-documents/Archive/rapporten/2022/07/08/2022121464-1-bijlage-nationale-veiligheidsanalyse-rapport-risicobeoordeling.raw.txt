@@ -1,0 +1,3764 @@
+ 
+ 
+ 
+  
+NLR-CR-2022-040-PT-1 | juni 2022 
+Nationale Veiligheidsanalyse voor de 
+Nederlandse luchtvaart 
+Rapport risicobeoordeling 
+OPDRACHTGEVER:  Ministerie van Infrastructuur en Waterstaat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Koninklijke NLR - Nederlands Lucht- en Ruimtevaartcentrum 
+ 
+ 
+
+MANAGEMENTSAMENVATTING 
+ONGERUBRICEERD 
+ 
+ 
+Resultaten 
+Door experts uit verschillende vakgebieden in de luchtvaart zijn de risicoscenario’s 
+gerangschikt op basis van de door de experts geschatte grootte van het risico. Het 
+resultaat hiervan is een overzicht van de belangrijkste risico’s per domein. Voor elk 
+van de belangrijkste risico’s per domein zijn mogelijke beheersmaatregelen 
+opgesteld. Deze beheersmaatregelen hebben als doel het risico te verlagen. De 
+risicobeheersmaatregelen zijn beschreven in een afzonderlijk rapport (NLR-CR-
+2022-040-PT-2). 
+ 
+ 
+NLR 
+Anthony Fokkerweg 2 
+1059 CM  Amsterdam 
+p ) +31 88 511 3113 
+e ) info@nlr.nl  i ) www.nlr.nl 
+ 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Niets uit dit rapport mag worden vermenigvuldigd en/of openbaar gemaakt, op welke wijze dan ook, zonder 
+voorafgaande schriftelijke toestemming van de eigenaar en/of opdrachtgever. 
+OPDRACHTGEVER Ministerie van Infrastructuur en Waterstaat 
+CONTRACTNUMMER --- 
+EIGENAAR NLR 
+NLR DIVISIE Aerospace Operations 
+VERSPREIDING Beperkt 
+RUBRICERING TITEL ONGERUBRICEERD 
+GOEDGEKEURD DOOR: 
+AUTEUR REVIEWER BEHERENDE AFDELING 
+A.L.C. Roelen
+2 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Uit het risicobeoordelingsproces voor de kleine luchtvaart zijn de volgende vijf risicoscenario’s naar voren gekomen 
+die de meeste prioriteit zouden moeten krijgen: 
+• Geen goede vluchtvoorbereiding (GA.25)
+• Complex en versnipperd Nederland luchtruim (GA.12)
+• Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van zweefvliegclubs (GA.32)
+• Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog turbulentie) (GA.03)
+• Geen of beperkt omgevingsbewustzijn (GA.27)
+Uit het risicobeoordelingsproces voor de onbemande luchtvaart zijn de volgende zes risicoscenario’s naar voren 
+gekomen die de meeste prioriteit zouden moeten krijgen: 
+• Onvoldoende separatie tussen onbemande luchtvaartuigen en andere luchtruimgebruikers (inclusief andere
+onbemande luchtvaartuigen) (OL.03)
+• Luchtruimschending met een onbemand luchtvaartuig (militair en civiel) (OL.15)
+• Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door technische falen (OL.25)
+• Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door menselijke fouten (OL.17)
+• Operators van onbemande luchtvaartuigen in de open categorie zijn onvoldoende op de hoogte van de op de
+operatie van toepassing zijnde regelgeving en procedurevereisten (OL.10)
+• Onbemande luchtvaartuig operaties in de nabijheid van kleine luchtvaartoperaties (OL.16)
+Uit het risicobeoordelingsproces voor de luchtvaart in Caribisch Nederland zijn de volgende zes risicoscenario’s naar 
+voren gekomen die de meeste prioriteit zouden moeten krijgen: 
+• Beheer en onderhoud van luchthavens niet op orde waardoor die niet volledig in overeenstemming zijn of
+dreigen te zijn met ICAO Annex 14 'Aerodromes' (C-NL.01)
+• Er is geen aangewezen Search And Rescue (SAR) (C-NL.09)
+• Beperkt niveau just culture (C-NL.24)
+• Onvoldoende (kwaliteit) toezicht (C-NL.03)
+• Emergency plannen niet goed uitgerold en niet goed afgestemd tussen verschillende diensten (C-NL.25)
+• Doorwerking ICAO richtlijnen in BES regelgeving is niet volledig (C-NL.02)
+Voor elk van de belangrijkste risico’s per domein zijn mogelijke beheersmaatregelen opgesteld. Deze 
+beheersmaatregelen hebben als doel het risico te verlagen. De risicobeheersmaatregelen zijn beschreven in een 
+afzonderlijk rapport (NLR-CR-2022-040-PT-2). 
+4 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix E Resultaten brainstormsessie commerciële luchtvaart 67 
+Appendix F Resultaten brainstormsessie kleine luchtvaart 69 
+Appendix G Resultaten brainstormsessie onbemande luchtvaart 70 
+Appendix H Resultaten brainstormsessie Caribisch Nederland 71 
+Appendix I Geconsolideerde en initieel geprioriteerde risicoscenario’s – domein 
+commerciële luchtvaart 73 
+Appendix J Geconsolideerde en initieel geprioriteerde risicoscenario’s – domein kleine 
+luchtvaart 75 
+Appendix K Geconsolideerde en initieel geprioriteerde risicoscenario’s – domein 
+onbemande luchtvaart 77 
+Appendix L Geconsolideerde en initieel geprioriteerde gevaren Caribisch Nederland 79 
+Appendix M CICTT ongevalcategorieën 81 
+Appendix N Kwantificering risicoscenario’s 82 
+Appendix N.1Factsheets commerciële luchtvaart 82 
+Appendix N.2 Factsheets kleine luchtvaart 126 
+Appendix N.3 Factsheets onbemande luchtvaart 150 
+Appendix N.4 Factsheets Caribisch Nederland 163 
+Appendix O Risicobeoordeling 176 
+Appendix O.1 Resultaten puntentoekenning 176 
+Appendix O.1.1 Commerciële luchtvaart 176 
+Appendix O.1.2 Kleine luchtvaart 178 
+Appendix O.1.3 Onbemande luchtvaart 180 
+Appendix O.1.4 Caribisch Nederland 182 
+Appendix O.2 Resultaten paarsgewijze vergelijking 183 
+Appendix O.2.1 Kleine luchtvaart 183 
+Appendix O.2.2 Onbemande luchtvaart 183 
+Appendix O.2.3 Caribisch Nederland 183 
+Appendix P Afwijkingen uitvoering NVA ten opzichte van het in de ‘Handleiding NVA’ 
+beschreven stappenplan. 184 
+6 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ACRONYM DESCRIPTION 
+LVNL Luchtverkeersleiding Nederland 
+MLA Militaire LuchtvaartAutoriteit 
+NLVP Nederlands luchtvaartveiligheidsprogramma 
+NOTAM Notice to Airmen 
+NTSB National Transportation Safety Board 
+NVA Nationale Veiligheidsanalyse 
+OVV Onderzoeksraad voor Veiligheid 
+SAR Search and Rescue 
+SID Standard Instrument Departure 
+SMS Safety Management System 
+SORA Specific Operations Risk Assessment 
+VFR Visual Flight Rules 
+VMC Visual Meteorological Conditions 
+VNV Vereniging van Nederlandse Verkeersvliegers 
+VOP VliegtuigOpstelPlaats 
+8 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+worden beschreven in rapport NLR-CR-2022-040-PT-2. De stappen zijn uitgevoerd volgens de in de Handleiding NVA, 
+(rapport NLR-CR-2021-110) beschreven methodiek. De NVA volgt hiermee de richtlijnen voor Aviation Data Driven 
+Decision Making van de internationale organisatie voor burgerluchtvaart ICAO. Op onderdelen was het nodig om af te 
+wijken van de in de handleiding beschreven werkwijze. Daarbij is steeds voor een pragmatische oplossing gekozen. 
+Het op deze wijze vaststellen en beoordelen van nationale luchtvaartrisico’s is niet eerder gedaan in Nederland, en 
+ook in andere landen is er weinig ervaring mee. Een volledig overzicht van afwijkingen ten opzichte van de handleiding 
+is weergegeven in Appendix P. De in deze NVA opgedane ervaring kan gebruikt worden om de handleiding NVA aan te 
+passen. Hierdoor zal het uitvoeren van een volgende NVA eenvoudiger zijn.  
+1.2 Leeswijzer 
+Dit rapport geeft in de opeenvolgende hoofdstukken een beknopt verslag van de werkwijze en de verkregen 
+resultaten voor de stappen van het veiligheidsmanagementproces. De hoofdstukindeling volgt de opeenvolgende 
+stappen die in de handleiding NVA zijn beschreven. Detailresultaten zijn in de Appendices weergegeven. 
+1.3 Afbakening van de analyse 
+Omdat de NVA wordt uitgevoerd in het kader van het NLVP richt deze zich, net als het NLVP, uitsluitend op civiele 
+luchtvaart. Omdat civiele luchtvaart het luchtruim deelt met militaire vliegtuigen, en soms gebruik maakt van militaire 
+infrastructuur en militaire dienstverlening (op de luchthaven van Eindhoven bijvoorbeeld), kan de militaire luchtvaart 
+via de raakvlakken met de civiele luchtvaart invloed hebben op de veiligheid van de civiele luchtvaart. Voor de NVA 
+worden daarom die raakvlakken meegenomen in de risicoanalyse. Dit gebeurt onder andere door deelname van 
+vertegenwoordigers van de militaire luchtvaart (Militaire Luchtvaartautoriteit MLA en Commando Luchtstrijdkrachten 
+CLSK) aan klankbordgroepsessies. Ook is ‘Conflicterende luchtruimbehoefte (civiel, militair, algemeen)’ als apart 
+gevaar meegenomen in de analyse.  
+Geografisch is de afbakening beperkt tot Nederland, inclusief Caribisch Nederland, exclusief de autonome landen 
+Curaçao, Aruba en Sint Maarten in het Koninkrijk. 
+De afbakening beperkt zich tot luchtvaartveiligheid. Beveiliging valt buiten de afbakening van de NVA. Het Nationaal 
+Programma voor de Beveiliging van de Burgerluchtvaart gaat in op dat onderwerp. Arboveiligheid is buiten de 
+afbakening van de NVA. Alle activiteiten die in de ICAO Annexen zijn beschreven, met uitzondering van beveiliging, 
+vallen in de afbakening van de NVA. 
+De afbakening omvat het hele luchtvaartveiligheidssysteem zoals weergegeven in Figuur 2. De NVA is gericht op de 
+risico’s die niet in zijn geheel en/of niet optimaal op het niveau van een individuele luchtvaartorganisatie te beheersen 
+zijn, maar een samenwerking tussen luchtvaartorganisaties en/of overheden vereisen. Het Directoraat-generaal 
+Luchtvaart en Maritieme Zaken (DGLM) en de Inspectie Leefomgeving en Transport (ILT) zijn in de context van de NVA 
+aparte organisaties. Hoewel ze beide onderdeel zijn van hetzelfde ministerie hebben ze een andere rol in het 
+luchtvaartsysteem. Ook andere overheden (provincies en gemeentes) die een rol spelen in regelgeving en toezicht en 
+de politie vallen binnen de afbakening en worden gezien als aparte organisaties. 
+10 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+De NVA heeft betrekking op risico’s die op het moment van uitvoeren van de NVA aanwezig zijn of die naar 
+verwachting binnen 10 jaar kunnen optreden. Daarmee kijkt de NVA iets voorbij de tijdshorizon van het NLVP maar is 
+de tijdsperiode wel zodanig beperkt dat realistische schattingen van scenario’s mogelijk zijn. 
+1.4 Gevaar, risico en risicoscenario 
+De NVA maakt gebruik van de begrippen gevaar, risico en risicoscenario. In deze sectie wordt uitgelegd wat met deze 
+begrippen wordt bedoeld en hoe ze onderling samenhangen.  
+3
+Een gevaar is een conditie of een object dat een voorval of ongeval kan veroorzaken of hier aan kan bijdragen. 
+Een risicoscenario is een beschrijving van opeenvolgende gebeurtenissen die uitmondt in een ongewenste 
+gebeurtenis.  
+Een risico is een combinatie van de kans van optreden van het risicoscenario en de omvang van de ongewenste 
+gebeurtenis (risico = kans x effect). Risico is dus een karakteristiek van een risicoscenario. In het dagelijkse taalgebruik 
+wordt risico vaak als synoniem gebruikt van kans (“er is een risico op brand”) maar in de context van de NVA is de 
+definitie zoals hierboven beschreven van toepassing.  
+In figuur 3 is schematisch weergegeven hoe gevaren, risicoscenario’s en ongevallen met elkaar samenhangen. 
+Figuur 3: Samenhang tussen gevaren, risicoscenario’s en ongevallen 
+3
+ Engelse term hazard 
+12 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Een dergelijke prioritering op basis van type ongeval geeft zonder verdere analyse weinig aanknopingspunten om 
+effectieve risicobeheersmaatregelen te ontwikkelen. In de NVA wordt daarom het gevaar en daar uit volgende 
+risicoscenario als uitganspunt genomen voor prioritering, en niet het type ongeval. Door deze verschillende 
+uitgangspunten zijn de diverse risicolijsten niet hetzelfde, hoewel ze niet met elkaar strijdig hoeven te zijn. 
+1.5 Uitvoering, review en beoordeling 
+De NVA is uitgevoerd door een projectteam met medewerkers van het NLR en Ecorys, en is vanuit het ministerie van 
+Infrastructuur en Waterstaat begeleid door een commissie bestaande uit medewerkers van ILT en DGLM. De 
+begeleidingscommissie was verantwoordelijk voor het leveren van de benodigde data, kennis en expertise van de 
+overheid aan het projectteam NVA. De begeleidingscommissie heeft de rapporten die zijn opgeleverd door het 
+projectteam NVA ter review en advies verstrekt aan de expertgroep Luchtvaartveiligheid en de stuurgroep NLVP.  
+De expertgroep Luchtvaartveiligheid bestaat uit twee onafhankelijke externe experts. De expertgroep heeft de 
+kwaliteit van de (tussen)resultaten van de NVA beoordeeld en van commentaar voorzien.  
+Het projectteam NVA heeft het commentaar beoordeeld en verwerkt, waarbij in een ‘response matrix’ is vastgelegd 
+wat er met elk commentaar is gedaan. De aangepaste rapporten zijn opnieuw ter review aangeboden aan de 
+begeleidingscommissie en de expertgroep Luchtvaartveiligheid. Tevens zijn deze rapporten aan de deelnemers van de 
+klankbordgroepen verstrekt ter controle op feitelijke juistheid.  
+Bij de uitvoering van de NVA bleek de gegevensbasis (zie hoofdstuk 2) te beperkt om het merendeel van de 
+risicoscenario’s te kunnen kwantificeren. Hierdoor leunt de NVA in belangrijke mate op expertmening. Om een meer 
+op data gebaseerde NVA mogelijk te maken zal de komende jaren de gegevensbasis moeten worden verbeterd. De 
+NVA databibliotheek is hiervoor een eerste aanzet. Deze databibliotheek zal blijvend moeten worden aangevuld en 
+uitgebreid. 
+14 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Niet alle documenten bleken bruikbare informatie te bevatten voor identificatie van gevaren. Het ICAO GASP en HRC, 
+het Nederlands Luchtvaart Veiligheid Programma en Nederlands Actieplan voor Luchtvaart Veiligheid zijn wel 
+bestudeerd, maar uiteindelijk niet gebruikt voor de identificatie van gevaren.  
+2.3 Data en informatie voor de risicoanalyse 
+Om het risico van een risicoscenario uit te kunnen rekenen is het nodig om te weten hoe vaak een gevaar optreedt en 
+hoe vaak het optreden van het gevaar leidt tot een ongeval. Daarvoor zijn gegevens nodig over voorvallen, incidenten 
+en ongevallen. Data over Nederlandse voorvallen is beschikbaar via het AnalyseBureau Luchtvaartveiligheid (ABL). 
+Voor incidenten en ongevallen moeten veelal internationale gegevens worden gebruikt omdat incidenten en 
+ongevallen zo weinig voorkomen in Nederland. De ABL-gegevens hebben een aantal beperkingen, met name 
+onderrapportage en de vaak summiere beschrijving van de gebeurtenis. Deze beperkingen zijn inherent aan 
+informatie die volgt uit dit type rapportagesystemen en zien we ook in andere Europese landen en de Verenigde 
+Staten. Idealiter worden ook gegevens van ILT-inspecties gebruikt. Deze gegevens konden voor de NVA door ILT 
+echter niet op een werkbare manier beschikbaar worden gesteld. Bij ILT wordt gewerkt aan het opzetten van een 
+datawarehouse om de eigen gegevens beter te kunnen gebruiken. Bij de uitvoering van een volgende NVA kan daar 
+mogelijk gebruik van worden gemaakt. 
+Onbemande luchtvaart is een relatief nieuw fenomeen. De hoeveelheid gegevens over voorvallen, incidenten en 
+ongevallen in de kleine luchtvaart is daardoor gering. Bovendien is deze luchtvaart anders georganiseerd dan de kleine 
+en commerciële luchtvaart, waardoor gegevens minder centraal zijn vastgelegd. Risicobeoordeling voor de 
+onbemande luchtvaart op basis van gegevens is daardoor praktisch onmogelijk. 
+Veel van de geïdentificeerde gevaren zijn ‘latente factoren’ (zie sectie 1.4) die relatief ver verwijderd zijn van het 
+daadwerkelijke ongeval. De bijdrage van dit soort factoren aan een ongevalskans is vaak niet kwantitatief uit te 
+drukken op basis van gegevens omdat niet wordt vastgelegd hoe vaak deze factoren voorkomen en hoe vaak ze een 
+oorzaak zijn van ongevallen.  
+Vanwege de hierboven beschreven beperkingen is de risicoanalyse en risicobeoordeling uiteindelijk grotendeels 
+gebaseerd op expert mening. Expert mening is niet volledig objectief. Bij het verkrijgen en toepassen van expert 
+mening voor de NVA zijn de volgende regels gevolgd om de subjectiviteit te minimaliseren (zie ook sectie 3.4): 
+• Experts vertegenwoordigen verschillende technische en operationele disciplines.
+• De leiding van sessies waarin de expert mening wordt verkregen gebeurt door een moderator met
+luchtvaartkennis en kennis van risicoanalyses.
+• Experts doen mee op basis van hun expertise en niet als belangenbehartiger van de organisatie waarin ze
+werken.
+Om de kans van optreden van een bepaald risicoscenario uit te kunnen rekenen is blootstellingsdata nodig. Meestal 
+gaat het daarbij om het aantal vluchten dat binnen een bepaalde tijdsperiode (bijvoorbeeld een jaar) wordt 
+uitgevoerd. De kans van optreden per vlucht van een voorval wordt berekend door het aantal voorvallen te delen 
+door het aantal vluchten. Gegevens over aantallen vluchten in Nederland zijn beschikbaar via het Centraal Bureau 
+voor de Statistiek (CBS, https://www.cbs.nl/) : 
+• Luchtvaart; maandcijfers Nederlandse luchthavens van nationaal belang
+• Luchtvaart; vliegtuigbewegingen op kleine luchthavens.
+16 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+3 Gevaaridentificatie 
+Een gevaar is een conditie of een object dat een voorval of ongeval kan veroorzaken of hier aan kan bijdragen. 
+Gevaaridentificatie bestaat uit vijf activiteiten verdeeld over twee iteratieslagen. In de eerste iteratieslag stelt het 
+projectteam NVA een lijst van gevaren op. Die lijst is het resultaat van een reactieve, een proactieve en een 
+voorspellende activiteit. In de tweede iteratieslag vullen klankbordgroepen de gevarenlijst van het projectteam NVA 
+aan in brainstormsessies. 
+3.1 Reactieve gevaaridentificatie 
+Reactieve gevaaridentificatie is identificatie van gevaren door analyse van informatie over incidenten en ongevallen 
+die hebben plaatsgevonden. Om een lijst van de belangrijkste gevaren vast te stellen voor de commerciële en kleine 
+luchtvaart zijn er door het projectteam NVA zoekopdrachten uitgevoerd in de NLR Air Safety database inclusief de 
+door ICAO beheerde internationale database van ongevallen en incidenten (ADREP). ADREP bevat 
+5
+ongevallenonderzoeksresultaten van de ICAO verdragsstaten . In de ADREP database is gezocht naar ongevallen en 
+ernstige incidenten (conform de definities van ICAO) die hebben plaatsgevonden vanaf het jaar 2000. Voor ongevallen 
+met commerciële vliegtuigen is er geen geografische beperking toegepast. Voor ongevallen in de kleine luchtvaart is 
+de zoekopdracht beperkt tot Europa en de Verenigde Staten. In de analyse zijn alleen de ongevallen meegenomen 
+waarvoor de factoren die direct of indirect hebben bijgedragen aan het ongeval zijn geregistreerd. Deze factoren zijn 
+conform de ICAO ADREP taxonomie en zijn gebaseerd op officiële ongevalsonderzoeken van de National 
+Transportation Safety Board (NTSB), Onderzoeksraad voor Veiligheid (OVV), Air Accidents Investigation Branch (AAIB), 
+Bureau d’Enquêtes et d’Analyses (BEA), etc. De geïdentificeerde factoren zijn verder gegroepeerd en gerangschikt 
+naar frequentie van voorkomen. Hierbij is ook een cross-check uitgevoerd met de ‘Safety Issues’ die volgens het EASA 
+6
+Annual Safety Review 2021 het vaakst een rol speelden bij ongevallen of de hoogste risicoscore opleverden. De 
+resulterende gevarenlijst is weergegeven in appendix B. 
+De internationale database van ongevallen en incidenten bevat geen ongevallen van onbemande luchtvaartuigen. Ook 
+EASA geeft in het jaarlijkse veiligheidsoverzicht geen informatie over ongevallen en incidenten met onbemande 
+luchtvaartuigen. Onderzoeken van ongevallen met onbemande luchtvaartuigen die zijn beschreven in OVV 
+kwartaalrapportages en AAIB bulletins van de jaren 2017 tot en met 2021 zijn doorgelezen om vast te stellen of daarin 
+gevaren worden beschreven die niet zijn geïdentificeerd in de brainstormsessie onbemande luchtvaart (zie sectie 3.4). 
+Die analyse leverde geen aanvullende gevaren op.  
+5
+ Dit zijn alle landen die lid zijn van de Verenigde Naties, met uitzondering van Liechtenstein. 
+6
+ EASA Annual Safety Review 2021. https://www.easa.europa.eu/downloads/130515/en
+18 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+10 11
+‘Safety Report’ en de jaarrapportages van de AAIB . In deze overzichten worden ongevallen en incidenten dus niet 
+gecategoriseerd naar oorzaak maar naar gevolg. Ook de ‘High Risk Categories of Occurrences’ die ICAO weergeeft in het 
+12
+Global Aviation Safety Plan zijn beschreven als ongevalscategorieën. 
+3.3 Voorspellende gevaaridentificatie 
+De voorspellende gevaaridentificatie is gericht op het ontdekken van toekomstige gevaren die het gevolg kunnen zijn 
+van toekomstige veranderingen binnen of buiten het luchtvaartsysteem. Veranderingen die invloed kunnen hebben 
+op luchtvaartveiligheid kunnen zowel voortkomen uit gebeurtenissen en omstandigheden binnen het 
+luchtvaartsysteem als daarbuiten.  
+Het projectteam NVA heeft de beschikbare lijst van Areas of Change (AoCs) van het Future Aviation Safety Team 
+(FAST, zie tekstkader) geëvalueerd en daarbij vastgesteld welke AoCs het meest van toepassing zijn voor de 
+afbakening van de analyse en het relevante domein. Voor veranderingen die binnen de afbakening van de NVA passen 
+zijn de resulterende gevaren beschreven door het projectteam NVA. Daarbij is ook aangeven voor welk van de drie 
+domeinen het gevaar van toepassing is. Het resultaat van deze evaluatie is weergegeven in Appendix D. Gevaren met 
+de aanduiding ‘relevant’ zijn meegenomen in de verdere analyse.  
+Future Aviation Safety Team (FAST) 
+Het Future Aviation Safety Team, een multidisciplinaire groep luchtvaartprofessionals uit Europa en Noord-Amerika, is 
+in 1999 door het JAA Safety Strategy Initiative (JSSI) opgericht om toekomstige veiligheidsrisico’s in kaart te brengen. 
+FAST heeft een praktische methode ontwikkeld om mogelijke toekomstige bedreigingen voor de luchtvaartveiligheid te 
+identificeren. De FAST-aanpak gaat uit van het principe dat toekomstige gevaren de ongewenste consequenties zijn van 
+toekomstige veranderingen. Vanuit dat principe heeft FAST een lijst opgesteld met daarop ongeveer 150 voorzienbare 
+toekomstige veranderingen. Deze lijst van Areas of Change (AoC) is publiek toegankelijk (https://www.nlr.org/areas-of-
+change/) en wordt met enige regelmaat door FAST bijgewerkt. 
+3.4 Brainstormsessies met klankbordgroepen 
+Door middel van brainstormsessies met de klankbordgroepen met domeinexperts zijn gevaren geïdentificeerd voor 
+elk van de domeinen (commerciële luchtvaart, kleine luchtvaart, onbemande luchtvaart en Caribisch Nederland). Het 
+projectteam NVA heeft deze sessies voorbereid en geleid. Bij de samenstelling is per klankbordgroepen gestreefd naar 
+maximaal ongeveer tien domeinexperts met kennis van verschillende operationele, bestuurskundige en technisch-
+wetenschappelijk gebieden, inclusief vluchtuitvoering, luchtverkeersleiding, luchthavenmanagement, risico-analyse, 
+gegevensanalyse, regelgeving en toezicht.  
+Aan het begin van elke brainstormsessie was er een korte presentatie van het te beschouwen domein en het doel van 
+de NVA en zijn de spelregels voor het brainstormproces toegelicht. Tijdens de sessie zijn alle genoemde gevaren 
+genotuleerd. Conform de regels van het brainstormproces is alle inbreng vastgelegd en heeft geen analyse 
+10
+ https://www.icao.int/safety/pages/safety-report.aspx 
+11
+ https://www.gov.uk/government/news/annual-safety-review-2020 
+12
+ ICAO. (2019). Global Aviation Safety Plan 2020-2022. Doc 10004. International Civil Aviation Organization, Montreal.
+20 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+4 Risico-analyse 
+4.1 Opstellen risicoscenario’s 
+Om vast te kunnen stellen welk risico aan elk gevaar is gekoppeld moeten de gevaren worden gekoppeld aan 
+mogelijke gevolgen. Een gevaar kan leiden tot meerdere gevolgen. Neem bijvoorbeeld het gevaar ‘vermoeidheid van 
+piloten’. Dit gevaar kan, afhankelijk van de context, een factor zijn die leidt tot verschillende typen ongevallen, 
+bijvoorbeeld een botsing op de grond of een botsing in de lucht. Daarom is voor elk gevaar vastgesteld tot welk type 
+ongeval (zie tekstkader ICAO ongevalscategorieën en appendix M) het kan leiden.  
+De combinatie gevaar en ongevalstype is een risicoscenario. De eerste gebeurtenis in het scenario is daarbij het 
+optreden van het gevaar, de laatste gebeurtenis is het optreden van een ongewenste gebeurtenis beschreven als één 
+van de ongevalscategorieën. Het bijbehorende risico is een combinatie van de kans van optreden van het scenario en 
+de omvang van de (negatieve) gevolgen (risico = kans x effect).  
+4.2 Initiële prioritering 
+Risicoscenario’s waarvan het projectteam-NVA inschat dat het risico bijzonder klein is ten opzichte van de overige 
+risicoscenario’s zijn voor de verdere analyse uit de lijst geschrapt. Een voorbeeld van een op die manier geschrapte 
+gevaar-gevolgcombinatie is ‘Vliegtuig komt in de nabijheid van een weerballon – loss of control in flight’. Deze 
+risicoscenario’s zijn wel gedocumenteerd zodat ze beschikbaar blijven voor toekomstige NVA’s. 
+Ook zijn risicoscenario’s geschrapt die volgens de inschatting van het projectteam-NVA primair op het niveau van een 
+individuele organisatie zijn te beheersen, en daarom buiten de afbakening van de NVA vallen. Dit is in zekere mate 
+een subjectieve inschatting, omdat in feite bij elk risicoscenario wel een aspect van regelgeving of toezicht kan worden 
+benoemd.  
+Tenslotte is de lijst verder beperkt door risico’s te schrappen die niet effectief op een nationaal niveau zijn te 
+beheersen, maar een internationale aanpak vergen. Een voorbeeld is het risico dat wordt veroorzaakt door in de 
+atmosfeer terugkerend ruimteafval wat in botsing komt met een vliegtuig. Alle geschrapte risicoscenario’s zijn 
+gedocumenteerd in document ‘Lijst van risicoscenario’s die niet in de verdere analyse zijn meegenomen’ zodat ze 
+beschikbaar blijven voor toekomstige NVA’s. De initiële prioritering, inclusief motivatie, is vastgelegd in excel bestand 
+‘Risicoscenarios NVA versie 5 oktober voor begeleidingscommissie’. Dit bestand is opgenomen in de databilbliotheek. 
+De uit de consolidatie en initiële prioritering resulterende risicoscenario’s zijn weergegeven in Appendices I t/m L. 
+4.3 Opbouwen risicoportfolio 
+Ter voorbereiding op het schatten van kans en effect heeft het projectteam NVA specifieke zoekopdrachten (queries) 
+uitgevoerd in meerdere (incidenten) databases. Het NLR projectteam heeft daarbij, indien de gegevens beschikbaar 
+waren, teruggekeken tot een periode van tenminste vijf jaar. Ook zijn door andere partijen/organisaties uitgevoerde 
+22 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+het begin staat van de hier beschreven scenario’s kan ook leiden tot een reeks van gebeurtenissen die eindigt met een 
+minder ernstig gevolg. In onderstaande Figuur 4 is dit schematisch weergegeven voor het gevaar ‘runway conflict als 
+gevolg van een baankruising’. In dit voorbeeld is een botsing op de baan het meest ernstige geloofwaardige resultaat 
+van het gevaar.  
+ 
+Runway conflict als Verkeersleiding Piloot of 
+Botsing op 
+grijpt niet op tijd 
+gevolg van een bestuurder grijpt 
+de baan
+in
+baankruising niet op tijd in
+ja
+Veilige 
+nee
+voortzetting
+Veilige 
+voortzetting
+ 
+Figuur 4: Gevaar met mogelijk verschillende scenario’s. Het ‘worst credible’ scenario is in rood aangegeven en eindigt 
+met een botsing op de baan 
+ 
+In een risicomatrix valt de gebeurtenis ‘botsing op de baan’ in de effectklasse ‘catastrofaal’, de beide gebeurtenissen 
+15
+‘veilige voortzetting’ vallen voor dit voorbeeld in de effectklasse ‘groot’ . Omdat het meest ernstige geloofwaardige 
+effect voor alle scenario’s een luchtvaartongeval is (effectklasse ‘ catastrofaal’ of ‘zeer groot’) , moet om de grootte 
+van het risico te bepalen alleen nog de kans worden vastgesteld dat het risicoscenario optreedt. Dit is gedaan in twee 
+stappen: 
+1) de kans dat het gevaar optreedt 
+2) de kans dat het gevaar bij optreden resulteert in een ongeval. 
+ 
+De kans dat het gevaar optreedt (stap 1) is waar mogelijk bepaald aan de hand van in Nederland aan het ABL 
+gerapporteerde voorvallen. De kans is berekend door het aantal unieke voorvallen te delen door het aantal vluchten 
+in Nederland. Om de kans te berekenen dat het gevaar bij optreden resulteert in een ongeval (stap 2) is veelal gebruik 
+gemaakt van mondiale ongevalsdata. Dit is nodig omdat er zo weinig ongevallen gebeuren in Nederland dat het 
+berekenen van een kans op basis van uitsluitend Nederlandse ongevalsdata niet mogelijk is. De kans is berekend door 
+vast te stellen in welk percentage de voorvallen leiden tot een ongeval. Hierdoor ontstaat onzekerheid omdat de 
+situatie in andere delen van de wereld niet volledig vergelijkbaar is met de situatie in Nederland, en omdat ook 
+mondiaal niet alle voorvallen zullen zijn vastgelegd. Door de ongevalskansen op deze manier in twee stappen te 
+berekenen wordt een schatting van de ongevalskans verkregen die zo representatief mogelijk is voor de Nederlandse 
+situatie.  
+ 
+De resultaten van de kans-schattingen zijn weergegeven in Appendix N.  
+                                                                 
+15
+ Effectklassen zijn overgenomen uit ICAO Doc 9859, Safety Management Manual, 4e editie 
+24 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+De resulterende belangrijke risico’s per domein zijn weergegeven in sectie 5.3. Voor elk van de belangrijkste risico’s 
+per domein zijn mogelijke beheersmaatregelen opgesteld. Deze beheersmaatregelen hebben als doel het risico te 
+verlagen. De risicobeheersmaatregelen zijn beschreven in een afzonderlijk rapport.  
+In Handleiding NVA (rapport NLR-CR-2021-110) is beschreven dat de klankbordgroepen per domein de risicoscenario’s 
+rangschikken op grootte van het risico door middel van paarsgewijze vergelijking. Daarbij werd verondersteld dat het 
+mogelijk zou zijn in de gevarenlijsten clusters aan te brengen die als onafhankelijk van elkaar kunnen worden 
+beschouwd. Eerst zouden daarbij de clusters worden gerangschikt, en vervolgens de gevaren binnen die clusters. Het 
+clusteren tot min of meer onafhankelijke groepen bleek niet mogelijk. De reden is het gegeven dat veel van de 
+geïdentificeerde gevaren ver van de operatie staan en daardoor op veel verschillende ongevallenscenario’s invloed 
+hebben. Paarsgewijs vergelijken van ongeclusterde gevarenlijsten is praktisch niet mogelijk, omdat daarvoor 
+honderden gevarenparen met elkaar vergeleken moeten worden. Daarom is door het projectteam een alternatieve 
+aanpak voorgesteld waarbij deelnemers aan de klankbordgroepen punten toekennen aan de gevaren waarvan het 
+risico het hoogst is. Deze stap is als huiswerk door de deelnemers uitgevoerd. In de groepsessies zijn de 
+gecombineerde resultaten besproken, waarbij afhankelijk van de gecombineerde resultaten, paarsgewijze vergelijking 
+is gedaan voor een subset van scenario’s. 
+5.2 Risicomatrix 
+Voor de risicoscenario’s in het domein commerciële luchtvaart waarvoor voldoende gegevens beschikbaar zijn om een 
+-7 -8
+kans per vlucht op een ongeval vast te stellen, variëren die kansen van 7.2x10 (hoogste) tot 1.1x10 (laagste) per 
+vlucht. Dit is een betrekkelijk kleine spreiding. Deze kansen vallen in een risicomatrix in de categorieën ‘mogelijk’ en 
+17
+‘onwaarschijnlijk’ , zie Figuur 5.  
+Figuur 5: Kansklassen, met in rood aangegeven het bereik van de gekwantificeerde kansen voor het domein 
+commerciële luchtvaart. NB: Logaritmische schaal 
+17
+ Kansklassen zijn overgenomen uit ICAO Doc 9859, Safety Management Manual, 4e editie. 
+26 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Toenemende commerciële onbemande luchtvaartactiviteiten (COM.62) 
+Er is een sterke stijging in het aantal vluchten van onbemande luchtvaartuigen, en die stijging zal naar verwachting de 
+komende jaren doorzetten. De eisen om met drones in de open categorie te mogen vliegen zijn niet heel beperkend, 
+de risicobeperkende barrières zijn veelal zaken waar de drone-gebruiker zelf een verantwoordelijkheid heeft. Toezicht 
+zal moeilijk zijn vanwege het grote aantal drone-gebruikers en het feit dat drone operaties zich niet beperken tot een 
+aantal specifieke locaties. Ontwikkelaars en exploitanten van onbemande luchtvaartuigen hebben vaak geen 
+luchtvaartachtergrond en zijn daardoor minder risicobewust. Actie op nationaal niveau wordt zinvol geacht. 
+Luchtruimschendingen kleine luchtvaart en onbemande luchtvaart (COM.14) 
+De argumentatie om aan dit risicoscenario een hoge prioriteit toe te kennen komt grotendeels overeen met de 
+argumentatie voor COM.62. Er zijn de afgelopen jaren maatregelen genomen om luchtruimschendingen door kleine 
+luchtvaart te verminderen, maar de toename van het aantal incidenten na de aanpassingen rond Lelystad laten zien 
+dat de risicobeperkende barrières kwetsbaar zijn.  
+Gebrek aan kwaliteit van het toezicht op organisaties (COM.20) 
+Gebrek aan kwaliteit van het toezicht is een ‘latente factor’. Het gevaar staat relatief ver van het ongeval af, waardoor 
+het moeilijk is precies aan te geven hoe groot de invloed is op de ongevalskans. Dit risicoscenario krijgt een hoge 
+prioriteit omdat er een invloed is op de veiligheid van vrijwel alle aspecten van het luchtvaartsysteem. 
+Werkdruk bij huidig personeel door moeite met het aantrekken van voldoende gekwalificeerd personeel (COM.88) 
+Werkdruk is een ‘latente factor’. Het gevaar staat relatief ver van het ongeval af, waardoor het moeilijk is precies aan 
+te geven hoe groot de invloed is op de ongevalskans. Dit risicoscenario krijgt een hoge prioriteit omdat er een invloed 
+is op de werkzaamheden van uitvoerend personeel in alle risicodragende activiteiten (vluchtuitvoering, 
+luchtverkeersleiding, vliegtuigonderhoud, vliegtuigafhandeling). Naar verwachting gaat gebrek aan personeel de 
+komende jaren toenemen. Een gecoördineerde actie op nationaal niveau wordt zinvol geacht.  
+Gebrek aan, en onderhouden van just culture (inclusief just culture bij grondafhandeling en nieuw personeel) 
+(COM.21) 
+Gebrek aan een just culture is een ‘latente factor’. Het gevaar staat relatief ver van het ongeval af, waardoor het 
+moeilijk is precies aan te geven hoe groot de invloed is op de ongevalskans. Dit risicoscenario krijgt een hoge prioriteit 
+omdat er een invloed is op de werkzaamheden van uitvoerend personeel in alle risicodragende activiteiten 
+(vluchtuitvoering, luchtverkeersleiding, vliegtuigonderhoud, vliegtuigafhandeling). Het opbouwen van een juiste just 
+culture is een proces van lange termijn. Door één verkeerd voorbeeld, bijvoorbeeld waarbij een organisatie een 
+personeelslid toch bestraft voor een onopzettelijk vergrijp, kan het opgebouwde vertrouwen sectorbreed worden 
+weggenomen. Een gecoördineerde actie op nationaal niveau wordt daarom zinvol geacht. 
+Misdragende passagiers (COM.65) 
+Er is een toename van de frequentie van voorvallen met misdragende passagiers. Als COVID gerelateerde voorvallen 
+worden meegeteld was in 2020 sprake van een verdubbeling ten opzichte van 2019. Misdragende passagiers zijn niet 
+alleen een gevaar voor de vliegveiligheid, maar ook voor de persoonlijke veiligheid van overige passagiers en 
+bemanningsleden.  
+28 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van zweefvliegclubs (GA.32) 
+Er zijn op dit moment weinig barrières die bescherming bieden tegen het gevaar van laag vliegende motorvliegtuigen 
+in de nabijheid van lierbanen van zweefvliegclubs. NOTAMs kunnen informatie verschaffen over locaties met 
+zweefvliegactiviteiten, en zweefvliegvelden staan op vliegkaarten aangeduid met de letter G. Afgelopen jaren zijn er 
+verschillende incidenten geweest van laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van 
+18
+zweefvliegclubs. De OVV maakt melding van acht incidenten in 2021 . Er zijn technische maatregelen denkbaar 
+waarmee veel van dit soort incidenten zijn te voorkomen, maar er is wel een aanzet nodig om die door te voeren.  
+Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog turbulentie) (GA.03) 
+Het ‘see and avoid’ principe is in luchtruimklassen E en G het enige middel dat bescherming biedt tegen botsingen in 
+de lucht. De beperkingen van dat principe zijn al jaren bekend. Het relatief hoge aantal botsingen in de lucht van 
+general aviation vliegtuigen onderstreept de urgentie. Er zijn technische maatregelen denkbaar waarmee veel van dit 
+soort incidenten zijn te voorkomen, er is alleen aanzet nodig om die door te voeren.  
+Geen of beperkt omgevingsbewustzijn (GA.27) 
+Gebrek aan omgevingsbewustzijn (lack of situational awareness) is een containerbegrip dat alle mogelijke situaties 
+beschrijft waarbij het mentale beeld dat een piloot heeft van de omgeving niet overeenkomt met de werkelijke 
+situatie. Dit kan zowel in de lucht als op de grond gebeuren. Om een correct mentaal beeld op te kunnen bouwen 
+19
+moeten drie stappen succesvol worden doorlopen: waarnemen, begrijpen en projecteren . Vluchtvoorbereiding, 
+training en ervaring kunnen leiden tot een beter omgevingsbewustzijn. Beperkt omgevingsbewustzijn wordt gezien als 
+een toenemend probleem. Piloten nemen steeds minder de tijd om de vlucht goed voor te bereiden en er zijn ook 
+tijdens de vluchtuitvoering veel prikkels die het opbouwen van een goed omgevingsbewustzijn kunnen verhinderen. 
+Beperkt omgevingsbewustzijn kan leiden tot verschillende typen ongevallen. 
+De volgende risicoscenario’s zijn overwogen voor de shortlist, maar zijn er uiteindelijk niet op terecht gekomen: 
+Geringe vliegervaring piloten in de kleine luchtvaart (GA.29) 
+20
+Piloten met weinig vliegervaring lopen een grotere kans betrokken te raken bij ongevallen dan ervaren piloten . Het 
+is echter niet te voorkomen dat er onervaren piloten actief zijn. Maatregelen die gericht op ondersteunen van piloten 
+met weinig ervaring volgen al uit GA.25 en GA.27. Daarom is er voor gekozen om geen directe prioriteit aan dit 
+risicoscensario te geven.  
+Het identificeren van gevaren en risico's uit meldingen is niet mogelijk of niet volledig (GA.08) 
+De problematiek rond meldingen van voorvallen in de kleine luchtvaart kent twee aspecten. Enerzijds worden lang 
+niet alle voorvallen gemeld, anderzijds heerst het idee dat er met de gedane meldingen te weinig wordt gedaan. 
+Desalniettemin is er wel een goed beeld van belangrijke risico’s voor de kleine luchtvaart (zoals ook blijkt uit deze 
+NVA) er wordt er vooralsnog meer prioriteit gegeven aan het oplossen van deze bekende problemen dan aan het 
+verbeteren van het risicobeeld.  
+18
+ OVV. (2022). Kwartaalrapportage luchtvaart Q4 2021. 
+19
+ Stanton, N.A., Chamnbers, P.R.G., Piggott, J. (2001). Situational awareness and safety. Safety Science, Volume 39, Issue 3, p 189-204. 
+20
+ Li, G., Baker, S.P., Grabowski, J.G., Qiang, Y., McCarthy, M.L., Rebok, G.W. (2003). Age, flight experience and risk of crash involvement in a cohort of professional pilots. 
+American Journal of Epidemiology, Vol. 157, No. 10, p. 874-880.
+30 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Operators van onbemande luchtvaartuigen in de open categorie zijn onvoldoende op de hoogte van de op de operatie 
+van toepassing zijnde regelgeving en procedurevereisten (OL.10) 
+De regels (met name de beperkingen) voor het mogen vliegen met onbemande luchtvaartuigen vormen de primaire 
+beheersmaatregel tegen ongevallen. Als de bestuurders niet op de hoogte zijn van de regels is de belangrijkste 
+beheersmaatregel dus afwezig. Iedereen kan een drone kopen die qua prestaties meer kan dan de regelgeving voor de 
+open categorie toestaat. De politie is de handhaver omdat in de open categorie geen vluchtvergunning van de ILT 
+vereist is. De politie zal weinig aandacht geven aan controle van de kennis van de regelgeving. Vanwege het gebrek 
+aan beheersmaatregelen krijgt dit risicoscenario prioriteit.  
+Onbemande luchtvaartuig operaties in de nabijheid van kleine luchtvaartoperaties (OL.16) 
+Dit risicoscenario heeft overlap met OL.03. Het wordt toch belangrijk gevonden om specifieke aandacht te geven aan 
+onbemande luchtvaartuig operaties in de nabijheid van kleine luchtvaartoperaties omdat de vrees bestaat dat anders 
+oplossingsrichtingen worden nagestreefd die passend zijn voor de commerciële luchtvaart maar niet per se ook voor 
+de kleine luchtvaart.  
+De volgende risicoscenario’s zijn overwogen voor de shortlist, maar zijn er uiteindelijk niet op terecht gekomen: 
+Verlies van communicatie /besturing van het onbemand luchtvaartuig (OL.22) 
+Dit risicoscenario heeft een overlap met OL.17 en OL.25. Verwacht wordt dat beheersmaatregelen die volgen uit 
+OL.17 en OL.25 ook zullen bijdragen aan het verlagen van het risico voor OL.22. Daarom is vooralsnog geen prioriteit 
+gegeven aan dit scenario.  
+Beperkt zicht op uitvoering operaties in de open categorie (OL.14) 
+Dit risicoscenario heeft een overlap met OL.10. Verwacht wordt dat beheersmaatregelen die volgen uit OL.10 ook 
+zullen bijdragen aan het verlagen van het risico voor OL.14. Daarom is vooralsnog geen prioriteit gegeven aan dit 
+scenario. 
+5.3.4 Eindresultaat Caribisch Nederland 
+Uit het risicobeoordelingsproces voor de luchtvaart in Caribisch Nederland zijn de volgende zes risicoscenario’s naar 
+voren gekomen die de meeste prioriteit zouden moeten krijgen: 
+• Beheer en onderhoud van luchthavens niet op orde waardoor die niet volledig in overeenstemming zijn of
+dreigen te zijn met ICAO Annex 14 'Aerodromes' (C-NL.01)
+• Er is geen aangewezen Search And Rescue (SAR) (C-NL.09)
+• Beperkt niveau just culture (C-NL.24)
+• Onvoldoende (kwaliteit) toezicht (C-NL.03)
+• Emergency plannen niet goed uitgerold en niet goed afgestemd tussen verschillende diensten (C-NL.25)
+• Doorwerking ICAO richtlijnen in BES regelgeving is niet volledig (C-NL.02)
+De keuze voor de prioritering is hieronder toegelicht. 
+32 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+SMS systeem van luchtvaartorganisaties voldoet niet eisen ICAO Annex 19 (C-NL.11) 
+Een goed werkend veiligheidsmanagementsysteem is een belangrijk instrument voor het voortdurend verbeteren van 
+de veiligheid en zou daarom hoge prioriteit moeten krijgen. Dit risicoscenario is toch niet geselecteerd voor de 
+shortlist omdat wordt gedacht dat eerst de regelgeving (C-NL.02) en het toezicht (C-NL.03) op orde moet worden 
+gebracht voordat effectieve beheersmaatregelen voor veiligheidsmanagementsystemen kunnen worden 
+doorgevoerd.  
+Er wordt onvoldoende lering getrokken uit incidenten als gevolg van relatief weinig incidentmeldingen bij het ABL (C-
+NL.05) 
+De problematiek rond meldingen van voorvallen kent twee aspecten. Enerzijds worden lang niet alle voorvallen 
+gemeld, anderzijds heerst het idee dat er met de gedane meldingen te weinig wordt gedaan. Desalniettemin is er wel 
+een voldoende beeld van belangrijke risico’s voor de luchtvaart in Caribisch Nederland (zoals ook blijkt uit deze NVA) 
+er wordt er vooralsnog meer prioriteit gegeven aan het oplossen van deze bekende problemen dan aan het 
+verbeteren van het risicobeeld. 
+Luchtvaartsector Caribisch Nederland is dermate klein dat vitale diensten niet gesitueerd zijn op de eilanden en door 
+andere landen moeten worden geleverd (C-NL.12) 
+Het leveren van diensten door andere landen hoeft op zichzelf geen probleem te zijn. Het is echter onzeker of de 
+kwaliteit van de dienstverlening voldoende is. De primaire beheersmaatregel daarvoor is adequaat toezicht, maar de 
+kwaliteit daarvan wordt als onvoldoende ervaren. De kwaliteit van het toezicht is onderwerp van een apart scenario 
+(C-NL.03) waar prioriteit aan wordt gegeven. Daarom is het nu niet nodig om ook prioriteit te geven aan C-NL.12. 
+34 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix B Resultaat reactieve gevaaridentificatie 
+Commerciële luchtvaart 
+• Lange landing flare of incorrecte landing flare (hard landing)
+• Gladde start/landingsbaan door regen of sneeuw/ijs [1]
+• Sterke zijwind
+• Niet volgen van Standard Operating Procedures (SOPs)
+• Turbulentie [1]
+• Vliegtuig onderhoud (matig, verkeer/niet uitgevoerd)
+• IJsvorming op vleugels en andere kritieke delen [1]
+• Dalen onder de Minimum descent altitude/ Decision height/altitude (DH/DA) zonder visuele referentie of
+zicht op landingsbaan
+• Incorrecte besturing van het vliegtuig [1]
+• Te hoge staartwind
+• Windshear [1]
+• Slecht zicht
+• Motorstoring
+• Te hoge of te lage vliegsnelheid
+• Verkeerde beslissingen van vliegers
+• Verkeerde vliegtuigprestatie data gebruikt of verkeerde invoer van gegevens [1]
+• Geen goede vluchtvoorbereiding
+• GPWS/TAWS waarschuwingen genegeerd
+• Vermoeidheid van vliegers [1]
+• Vliegers afgeleid van taken
+• Slechte Crew Resource Management (CRM) [1]
+• Geen omgevingsbewustzijn
+• Matige/incomplete training van vliegers [1]
+Kleine luchtvaart 
+• Te lage vliegsnelheid
+• Problemen met of incorrecte besturing van het vliegtuig [2]
+• Brandstoftekort
+• Incorrecte landing flare (hard landing)
+• Sterke zijwind [2]
+• Verkeerde berekening van benodigde brandstof
+• Vliegen op verkeerde hoogte
+• Niet op het glijpad tijdens de nadering [2]
+• Bevriezing van carburateur
+• Geen goede vluchtvoorbereiding [2]
+• Te hoge staartwind
+• Klaring van obstakels onvoldoende
+• Motorstoring [2]
+• Pre-flight check niet uitgevoerd
+• Lage wolkenbasis
+• Gladde start/landingsbaan door regen of sneeuw/ijs
+• IJsafzetting [2]
+• Inadequate see-and-avoid
+• Te laag vliegen
+• Geen of beperkte omgevingsbewustzijn
+• Desoriëntatie
+• Geringe vliegervaring [2]
+• Gebruik van alcohol en drugs
+36 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix C Resultaten proactieve 
+gevaaridentificatie 
+Appendix C.1 Lijst van geïdentificeerde gevaren 
+Abrupte manoeuvre van het vliegtuig. 
+Onjuiste positie van de vliegtuigtrap. 
+Falen van een van de vliegtuigsystemen. 
+Vliegtuig komt in de nabijheid van een weerballon. 
+Luchtruimschending. 
+Brand in de Auxiliary Power Unit (APU). 
+Ontkoppeling van de automatische piloot. 
+Onregelmatigheden bij het beladen of lossen van bagage of vracht. 
+Overschrijding van rolhoek van het vliegtuig. 
+Vogelaanvaring / botsing met een dier. 
+Verwarring over callsign. 
+Onjuist plaatsen of vastzetten van bagage of vracht in het vrachtruim. 
+Niet of onvolledig afwerken van een checklist. 
+Conflicterend verkeer tijdens de pushback. 
+Gebarsten cockpitruit. 
+Verlenging van duty-tijd van de vliegtuigbemanning. 
+Verwonding van cabinepersoneel. 
+Vervoer gevaarlijke stoffen. 
+Afwijking van instructies of procedures. 
+Afwijking van de Standard Instrument Departure (SID). 
+Afwijking van de taxiroute of taxi-instructies. 
+Geopende deur tijdens taxiën of opstijgen. 
+Nabijheid van een drone. 
+Overmatig stof in het luchtverversingssysteem van het vliegtuig. 
+Storing van de Electronic Flight Bag. 
+Vermoeidheid. 
+Eerste hulp kit niet toegankelijk tijdens de vlucht. 
+Storing van de vleugelkleppen. 
+Storing van het Flight Management Systeem (FMS). 
+FOD op de start/landingsbaan. 
+Brandstofproblemen tijdens de vlucht. 
+Brandstof tanken met passagiers aan boord van het vliegtuig. 
+Gallyoven is vuil / raakt oververhit. 
+Doorstart vanwege windcondities. 
+Grondvoertuig wijkt af van de procedures. 
+Hoge temperatuur is de vliegtuigcabine. 
+Onjuist gebruik van de wielblokken. 
+Onjuiste radiofrequentie / onjuiste hoogtemeterinstelling. 
+Onjuiste plaatsing van kinderen of huisdieren in de vliegtuigcabine. 
+38 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+Appendix C.2 Clusterplots 
+ 
+ 
+ 
+ 
+40 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+48 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+Appendix D Resultaten voorspellende 
+gevaaridentificatie 
+ 
+AoC 
+Area of change Oordeel Gevaar (domein) 
+22
+Nr 
+Onjuiste interpretatie door operator 
+287 Increasingly autonomous aviation systems.  Relevant van door het systeem gepresenteerde 
+informatie. (C, GA, D) 
+Onjuiste interpretatie door operator 
+Increasing network and device 
+286 Relevant van door het systeem gepresenteerde 
+connectedness via the Internet of Things.  
+informatie. (C, GA, D) 
+New manufacturing technologies: additive 
+Onverwacht falen van vliegtuigsysteem 
+285 manufacturing (3D printing) of aircraft Relevant 
+of vliegtuigonderdeel (C, GA, D). 
+parts.  
+Wake Turbulence Separation Vliegtuigverstoring door zogturbulentie. 
+284 Relevant 
+Recategorization.  (C, GA) 
+Decreased ability of pilots to prepare and 
+Onjuiste reactie van de piloot op een 
+283 execute flights deviating from standard Relevant 
+abnormale situatie (C, GA) 
+operating procedures.  
+Increasing reliance on procedural solutions Onjuiste reactie van de piloot op een 
+282 Relevant 
+for operational safety.  abnormale situatie. (C, GA) 
+Te algemeen, 
+Simplified certification standards for light geen specifiek 
+281  
+general aviation aircraft.  gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Dramatic increases in the fleets of 737 and geen specifiek 
+280  
+A320 derivatives.  gevaar relevant 
+voor NVA. 
+Increasing implementation of Auto Ground 
+Onjuiste reactie van de piloot op een 
+279 Collision Avoidance Systems (Auto-GCAS on Relevant 
+abnormale situatie. (C). 
+civilian airliners).  
+Increasing disparity between future pilot 
+Noodgedwongen lager gekwalificeerde 
+supply and demand especially among the 
+278 Relevant piloten als gevolg van personeelstekort 
+“feeder supply” of crew experienced in 
+(C). 
+smaller commercial aircraft operations.  
+Introduction of stratospheric aerial 
+Niet te 
+platforms for Communication, Navigation, 
+277 verwachten  
+and Surveillance (CNS) Air Traffic 
+binnen 10 jaar. 
+Management functions.  
+Downsized vertical fins due to introduction Niet te 
+276 of active flow control rudders for increased verwachten  
+yaw control.  binnen 10 jaar. 
+Te algemeen, 
+Introduction of touch-screen displays and 
+geen specifiek 
+275 voice recognition to the commercial flight  
+gevaar relevant 
+deck.  
+voor NVA. 
+                                                                 
+22
+ Omdat de FAST AoC lijst periodiek wordt bijgewerkt (waarbij AoCs kunnen worden toegevoegd, geschrapt, opnieuw geformuleerd of samengevoegd) tellen de 
+nummers niet gelijkmatig door maar verspringen soms. Nummers die lijken te ontbreken vertegenwoordigen AoCs die niet meer relevant zijn of zijn samengevoegd met 
+andere AoCs. 
+58 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+AoC 
+Area of change Oordeel Gevaar (domein) 
+22
+Nr 
+Shift in the demographics of newly-hired air Noodgedwongen lager gekwalificeerde 
+259 traffic controllers compared with retiree Relevant luchtverkeersleiders als gevolg van 
+skills and interests.  personeelstekort (C, GA, D). 
+Te algemeen, 
+Reluctance among operators to implement geen specifiek 
+257  
+voluntary proactive safety mitigations.  gevaar relevant 
+voor NVA. 
+Decreasing availability of qualified 
+Onterecht vrijgeven van een vliegtuig 
+256 maintenance staff at stations other than Relevant 
+op een buitenstation (C). 
+home base of operation.  
+Te algemeen, 
+geen specifiek 
+255 New pilot licensing standards.   
+gevaar relevant 
+voor NVA. 
+Noodgedwongen lager gekwalificeerd 
+onderhoudspersoneel als gevolg van 
+personeelstekort (C, GA).  
+254 Aging maintenance workforce.  Relevant 
+ 
+Hoge werklast onderhoudspersoneel (C, 
+GA). 
+Smaller organizations and owners operating Gebrek aan onderdelen en ‘approved 
+252 Relevant 
+aging aircraft.  data’ voor oudere vliegtuigen (C, GA) 
+Te algemeen, 
+Introduction of new training methodologies geen specifiek 
+251  
+for maintenance staff.  gevaar relevant 
+voor NVA. 
+Te algemeen, 
+geen specifiek 
+250 Shortage of rare-earth elements.   
+gevaar relevant 
+voor NVA. 
+Communicatiestoornis ATM-flight crew 
+(C, GA).  
+Increasing demands for limited radio 
+249 Relevant  
+frequency bandwidth.  
+Communicatiestoornis operator-drone 
+(D). 
+New aircraft recovery systems in general Onjuiste reactie van de piloot op een 
+247 Relevant 
+aviation and commercial aircraft.  abnormale situatie. (C, GA). 
+World wide climate change trending Extreem veel water op de baan door 
+246 Relevant 
+towards warmer temperatures.  plotselinge hevige regenval (C, GA). 
+Te algemeen, 
+geen specifiek 
+245 Worldwide implementation of SMS.  
+gevaar relevant 
+voor NVA. 
+Niet te 
+High-density passenger cabin 
+244 verwachten  
+configurations.  
+binnen tien jaar. 
+Novel technologies to move aircraft from Niet volledig afronden van motor run-
+243 Relevant 
+gate-to-runway and runway-to-gate.  up en checklists vóór het opstijgen (C) 
+Increasing single-engine taxi operations or 
+Niet volledig afronden van motor run-
+242 taxi on only inboard engines of 4-engine Relevant 
+up en checklists vóór het opstijgen (C) 
+aircraft.  
+Operational tempo and economic 
+Vermoeidheid van 
+241 considerations affecting fatigue among Relevant 
+onderhoudspersoneel (C) 
+maintenance personnel  
+60 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+AoC 
+Area of change Oordeel Gevaar (domein) 
+22
+Nr 
+Te algemeen, 
+New surface traffic flow management geen specifiek 
+174 
+technologies. gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Increasing manufacturer sales price 
+geen specifiek 
+170 incentives due to expanding competitive 
+gevaar relevant 
+environment. 
+voor NVA. 
+Increasing numbers of migratory birds near 
+161 Relevant Vogelaanvaring (C, GA). 
+airports. 
+Beveiliging valt 
+buiten de 
+afbakening van de 
+NVA. Het 
+Nationaal 
+Increasing frequency of hostile acts against 
+148 Programma voor 
+the aviation system. 
+de Beveiliging van 
+de 
+Burgerluchtvaart 
+gaat in op dat 
+onderwerp. 
+Changing management and labour Verlies van technische expertise van 
+144 Relevant 
+relationships in aviation. onderhoudspersoneel (C, GA) 
+Misverstand tussen luchtverkeersleiding 
+en vliegtuigbemanning of tussen piloten 
+142 Language barriers in aviation. Relevant 
+onderling als gevolg van verschillende 
+moedertalen (C, GA) 
+141 Changes in aviation fuel composition. Relevant Motorstoring (C, GA). 
+Te algemeen, 
+Increasingly stringent noise and emissions geen specifiek 
+139 
+constraints on aviation operations. gevaar relevant 
+voor NVA. 
+Increased need to monitor incident and Safety managers worden overweldigd 
+138 Relevant 
+accident precursor trends. met data (C, GA, D) 
+Te algemeen, 
+Increasing use of Commercial Off The Shelf geen specifiek 
+136 
+(COTS) products in aviation. gevaar relevant 
+voor NVA. 
+Niet relevant, 
+Assessment of user fees within the aviation 
+133 heeft betrekking 
+system to recover costs of operation. 
+op VS. 
+Te algemeen, 
+geen specifiek 
+129 Growth in aviation system throughput. 
+gevaar relevant 
+voor NVA. 
+Te algemeen, 
+geen specifiek 
+125 Operation of low-cost airlines. 
+gevaar relevant 
+voor NVA. 
+Accelerated transition of pilots from simple Afnemende vliegvaardigheden van 
+122 Relevant 
+to complex aircraft. nieuwe piloten (C). 
+Niet te 
+119 Increasing numbers of Light Sport Aircraft. verwachten 
+binnen 10 jaar. 
+62 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+AoC 
+Area of change Oordeel Gevaar (domein) 
+22
+Nr 
+gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Technologies and procedures enabling geen specifiek 
+82 
+reduced separation. gevaar relevant 
+voor NVA. 
+Verlies van kennis over ontwerp, 
+Reduction in numbers of aviation personnel 
+gebruik, onderhoud, beperkingen en 
+80 familiar with previous generation Relevant 
+mogelijkheden van technologie van 
+technology and practices. 
+voorgaande generaties (C, GA). 
+Increasing size of maintenance, ATM, and Safety managers worden overweldigd 
+78 Relevant 
+operations databases. met data (C, GA, D) 
+Te algemeen, 
+Increasing complexities within future air geen specifiek 
+73 
+transportation systems. gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Evolution in lines of authority, command 
+geen specifiek 
+69 and responsibilities within the air transport 
+gevaar relevant 
+system. 
+voor NVA. 
+Te algemeen, 
+geen specifiek 
+68 Global organizational models. 
+gevaar relevant 
+voor NVA. 
+Economic incentives to form partnerships Verminderd veiligheidsbewustzijn door 
+67 Relevant 
+and outsource organizational activities. uitbesteden van taken (C, GA, D) 
+Societal pressure to find individuals and Afnemende rapportagebereidheid door 
+66 organizations criminally liable for errors in Relevant angst voor strafrechtelijke vervolging (C, 
+design and operations. GA, D). 
+Te algemeen, 
+Remote Virtual Tower (RVT) operational geen specifiek 
+64 
+concepts. gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Shift toward performance-based solutions geen specifiek 
+58 
+and regulations. gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Trend toward privatization of government geen specifiek 
+ 53 
+ATC systems and airports. gevaar relevant 
+voor NVA. 
+Delegation of responsibility from the Onvoldoende toezicht door delegeren 
+51 regulating authority to the manufacturing, Relevant van toezichtsactiviteiten naar 
+operating or maintaining organization. operationele partijen (C, GA, D). 
+Te algemeen, 
+Changing human factors assumptions for geen specifiek 
+47 
+implementing technology. gevaar relevant 
+voor NVA. 
+Te algemeen, 
+Highly-integrated, interdependent aircraft geen specifiek 
+43 
+systems. gevaar relevant 
+voor NVA. 
+Ongoing electronic component Te algemeen, 
+41 
+miniaturization.. geen specifiek 
+64 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+AoC 
+Area of change Oordeel Gevaar (domein) 
+22
+Nr 
+Niet te 
+Introduction of new runway-independent 
+5 verwachten 
+aircraft concepts. 
+binnen 10 jaar. 
+Changes in design roles and responsibilities Onvoldoende onafhankelijke toetsing in 
+3 Relevant 
+among manufacturing organizations. certificatieproces (C, GA, D) 
+Te algemeen, 
+Introduction of new aircraft aerodynamic geen specifiek 
+1 
+and propulsion configurations. gevaar relevant 
+voor NVA. 
+66 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+47. Druk vanuit buitenland (EASA, FAA) op beleid en toezicht (inclusief cetrificatie). 
+48. Ongeautoriseerd gebruik van radio frequentie. 
+49. Search and Rescue (SAR) op Noordzee met safety in het geding. 
+50. Kwaliteit van het onderzoek en de aanbevelingen van de Onderzoeksraad voor de Veiligheid. 
+51. Opleving van plekken waar bemande en onbemande luchtverkeer mag en kan opstijgen.  
+52. Toenemende toepassing van gepersonaliseerd vervoer. 
+53. Geluidshinder van luchtvaart. 
+54. Bird strikes. 
+55. Gebruik van verschillende definities voor bird strikes. 
+56. Convergerende banen. 
+57. Runway incursions en baankruisingen. 
+58. Pushbacks. 
+59. Verschillende definities van KPIs en criteria. 
+60. Kwaliteit en volledigheid van meldingen. 
+61. Te weinig data van melding om er wat mee te kunnen. 
+62. Birdstrikes: Ruimte en inrichting rondom luchthaven. 
+63. Lessons learned van voorval analyses worden niet breed genoeg gedeeld. 
+64. Het melden van follow-ups en corrections naar aanleiding van een melding. 
+65. Er wordt te weinig gedaan met incident statistieken. 
+66. Er komt te weinig terug uit meldingen. 
+67. De invloed van de (moeilijke) ontwikkeling van ECCAIRS op de meldingsbereidheid. 
+68. Weinig guidance uit ECCAIRS en hoe je moet melden. 
+69. Geen consistente classification taxonomy in ECCAIRS. 
+70. Europese database gaat over naar ECCAIRS, gaat langzaam. 
+71. Caribisch gebied is ver van bed show. 
+72. Invloed van security threats in Caribisch gebied op de veiligheid. 
+73. Interactie tussen commercieel vliegverkeer Caribisch Nederland met lokaal (niet-commercieel) vliegverkeer. 
+74. Personeel met familie in Caribisch gebied zijn kwetsbaar voor security. 
+75. Personal Electronic Devices (PED) aan boord van vliegtuigen. 
+76. 5G mast in naderingspad. 
+77. Spanningsveld tussen geluid en uitstoot en veiligheid. 
+78. Space weather. 
+79. Afhankelijkheid van GPS in combinatie met wegvallen van conventionele navigatie hulpmiddelen. 
+80. Gebrek aan just culture, onderhouden van just culture bij nieuw personeel. 
+81. Andere opleiding van jongere generatie, meer bekend met digitale en snellere wereld. 
+82. Verslapping van aandacht op een back-up voor toenemende digitalisering. 
+83. Het uitblijven van regelgeving dat toezicht op grond afhandelaren mogelijk maakt. 
+84. Het uitblijven van formeel toezicht op grond afhandelaren.  
+85. Groot verschil in grondafhandeling tussen NL en buitenlandse velden. 
+86. Complex en versnipperd Nederland luchtruim. 
+87. De inpassing van militair luchtruim in Nederland. 
+88. Pluraliteit van (nieuwe) commerciële werkzaamheden op zee. 
+89. Noordzee steeds drukker. 
+90. Bedrijfsvoering Low cost carriers (drukken van kosten ten koste van veiligheid). 
+91. De activiteiten van low cost carriers uit andere landen. 
+92. Reduced crew operaties. 
+93. Obstakels in voorterrein van de baan. 
+94. Beperkte boring van kennisniveau in relatie tot ervaring. 
+95. Focus op Schiphol waardoor minder aandacht voor regionale velden. 
+96. Aandacht gaat teveel naar Lelystad. 
+97. Security batches voor software worden steeds ingewikkelder. 
+98. Intelligente phishing mails. 
+99. Pluraliteit aan apps, software 
+100. Overload aan updates van software. 
+101. Verlening voor vergunningen voor gebouwen en plaatsen van obstakels. 
+102. Overvliegen van conflictgebieden in wereld. 
+68 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix G Resultaten brainstormsessie 
+onbemande luchtvaart 
+Deelnemers waren twaalf experts van KNVvL, Rijkswaterstaat, DCRO, ILT, Dutch Drone Platform, Defensie/MLA en 
+DARPAS. Het NLR leidde de sessie en verzorgde de notulen. 
+Geïdentificeerde gevaren: 
+1. Matige vindbaarheid van relevante regelgeving.
+2. De regels voor de gecertificeerde categorie zijn nog in ontwikkeling, daardoor zijn die nog niet helder voor de
+operators, dat geldt ook over de overgang naar die nieuwe regelgeving.
+3. Als gevolg van onduidelijke regels en kaders kunnen operators buiten het zicht van de testcentra gaan
+experimenteren en innoveren.
+4. De regels voor een veilige vluchtuitvoering bereiken de hobby vliegers in de Open categorie niet voldoende.
+5. Onduidelijke eisen voor vergunningverlening met lange doorlooptijden bij de ILT.
+6. Uitvoering van de SORA is complex en er ontbreekt een duidelijke uitleg hoe een SORA uitgevoerd dient te
+worden.
+7. beperkt zicht op uitvoering operaties in de open categorie.
+8. Beperkte handhaving in de open categorie.
+9. Beperkte toezicht op de specifieke categorie.
+10. Beperkte risicoperceptie bij operators in de onbemande luchtvaart.
+11. LVNL’s GoDrone app geeft aan dat gevlogen kan worden met drones in de buurt van zweefvliegvelden (genoemde
+laterale afstand is 3 km).
+12. Door versnippering in de markt wordt relatief weinig ervaring opgebouwd in de vluchtuitvoering.
+13. Beperkte focus LVNL op de onbemande luchtvaart.
+14. Verlies van onbemande luchtvaartuigen door menselijke fouten.
+15. Een lage meldingsbereidheid in de onbemande luchtvaart.
+16. Operators en bestuurders van onbemande luchtvaartuigen weten niet wanneer ze moeten melden.
+17. Ogenschijnlijk gebrek aan focus en pro-activiteit bij DGLM omtrent toekomstige operaties in de gecertificeerde
+categorie.
+18. De regelgeving van de MLA inzake onbemande luchtvaartoperaties van Defensie zijn niet in lijn met de nieuwe
+Europees regelgeving inzake onbemande luchtvaart.
+19. Regelgeving inzake staatsoperaties niet harmonieus met omringende landen (geldt voor alle verschillen in
+regelgevingen tussen EU lidstaten).
+20. De kwaliteit en leerpunten van de opleidingen in de open categorie is beperkt.
+21. Te veel eisen aan opleiding en trainingen in de open categorie kan de bereidheid tot het volgen daarvan
+ondermijnen.
+22. het gebrek aan eisen aan scholing en opleiding voor onderhoudspersoneel van onbemande luchtvaartuigen.
+23. Het testen en experimenteren in de onbemande luchtvaart gebeurt buiten het zicht.
+24. Toekomstige gevaren als gevolg van de luchtruimherziening.
+25. Botsingen tussen drones en objecten of mensen in stedelijk gebied bij de operatie <250gram.
+26. De implementatie van de U-Space regelgeving is nog niet goed geregeld.
+27. U-Space dienstverlening door organisaties die daar technisch toe in staat zijn, maar geen tot weinig ervaring met
+de luchtvaart hebben en ook geen volwaardig veiligheidsmanagement systeem.
+28. Drone gebruikers in de open categorie weten vaak niet dat aan vliegen in de stedelijke omgeving aan strikte
+voorwaarden zijn verbonden of in veel gebieden helemaal niet zijn toegestaan.
+29. Externe veiligheidsrisico’s voor niet betrokken personen, bebouwing en zelfs kritieke infrastructuur worden
+onvoldoende of vaak zelfs helemaal niet meegenomen in risico analyses.
+30. Operationele drone data is onvoldoende beschikbaar om betrouwbaar in te kunnen schatten hoe vaak bepaalde
+risico’s (en oorzaken daarvan) zich in een bepaalde periode voor zullen doen.
+31. Door de afwezigheid van voldoende operationele en veiligheidsdata kan het mogelijk zijn dat bepaalde gevaren
+niet geïdentificeerd worden (terwijl ze wel bestaan).
+32. Drone vluchten in gebieden en op hoogten waar de militaire luchtvaart oefeningen uitvoert.
+33. Drone vluchten nabij regionale velden die door de kleine luchtvaart worden gebruikt.
+70 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+46. Flamingos en drones: effect van drones op flamingos.
+47. Just culture niet voldoende.
+48. Emergency plannen niet goed uitgerold en niet goed afgestemd tussen verschillende diensten.
+49. Niet volledig als luchtvaartautoriteit kunnen fungeren op de BES.
+50. Toelating van airlines op Bonaire niet goed geregeld.
+51. NL politiek neemt besluiten met NL in achterhoofd. Onvoldoende oog voor actualisering regelgeving m.b.t. BES.
+52. EU blacklist van operators is niet van toepassing op BES.
+53. Luchtvervoer op BES heeft andere status dan in NL.
+54. Uitvallen van luchtvervoer heeft andere gevolgen dan in NL. Veel ontheffingen om het gaande te houden, regels
+worden anders toegepast.
+55. Veel seizoenswerkers.
+56. Gemiddeld opleidingsniveau is anders.
+57. Vertraging in op orde brengen van BES regelgeving (bv 10-10-10).
+58. Drugs wordt verstopt, minder controle, security risico.
+59. Cybersecurity staat daar ook in de kinderschoenen.
+60. Toekomstig gevaar: niet goed voorbereid op toekomstig drone toepassing met passagiers.
+61. Toekomstig gevaar: Elektrisch vliegen boven water.
+62. Infrastructuur van Bonaire niet conform ICAO Annex 14 (Aerodromes).
+63. Geen geld voor beheer en onderhoud, langdurig voor de Luchthavens en AFISO verkeerstoren is niet goed.
+64. Groeiende achterstanden, vooral Bonaire Airport.
+65. Door gebrek aan kennis onduidelijk of SMS systeem van luchthavens goed werkt.
+66. SAR operatie bij luchthaven is niet geregeld (St. Eustatius, Saba, Bonaire).
+67. Verouderde regelgeving m.b.t. Annex 14.
+68. Verouderde regelgeving m.b.t. ANS (Air Navigation Services), weinig samenwerking tussen landen.
+69. Slechte functionerende overheidsdiensten (CAA, maar ook beleid).
+72 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ Gevaar Ongevalscategorie 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+COM.57 Incompliance als gevolg van teveel wet- en regelgeving GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+USOS 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+COM.58 Incompliance door conflicterende wet- en regelgeving GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+USOS 
+Beperkte regulering op aantallen vluchten in de kleine 
+COM.59 AMAN, MAC 
+luchtvaart 
+COM.61 Druk op lage turn-around tijd ARC, RAMP, LOC-I, RE, USOS 
+Toenemende commerciële, onbemande 
+COM.62 AMAN, MAC 
+luchtvaartactiviteiten 
+COM.63 Botsingen van grondvoertuigen met vliegtuigen GCOL, RAMP 
+COM.65 Unruly passengers CABIN, F-NI 
+De voorbereiding van de take-off wordt niet adequaat 
+COM.67 MAC, RE, USOS 
+uitgevoerd door elektrisch taxiën 
+COM.68 Ongeautoriseerd gebruik van radio frequentie AMAN, MAC, GCOL, RAMP, RI 
+ARC, AMAN, MAC, CTOL, CFIT, GCOL, 
+COM.69 Toenemende drukte op de grond en in de lucht na Corona 
+RAMP, LOC-G, LOC-I, RE, RI, USOS 
+COM.70 Conflict als gevolg van convergerend baangebruik MAC 
+Misverstand tussen luchtverkeersleiding en 
+COM.75 vliegtuigbemanning of tussen piloten onderling als gevolg van AMAN, MAC, GCOL, RI 
+verschillende moedertalen. 
+ARC, AMAN, MAC, CABIN, CTOL, 
+COM.77 Safety managers worden overweldigd met data. CFIT, F-NI, GCOL, RAMP, LOC-I, LOLI, 
+LALT, RE, RI, USOS 
+ARC, AMAN, MAC, CABIN, CTOL, 
+Verminderd veiligheidsbewustzijn door uitbesteden van 
+COM.79 CFIT, F-NI, GCOL, RAMP, LOC-G, LOC-
+taken. 
+I, RE, RI, USOS 
+COM.82 GA piloot wijkt onbedoeld af van vertrek of naderingsroute AMAN, MAC 
+Noodgedwongen lager gekwalificeerd onderhoudspersoneel 
+COM.85 ARC, LOC-G, LOC-I 
+als gevolg van personeelstekort. 
+Werkdruk bij huidige personeel door moeite met het 
+COM.88   
+aantrekken van voldoende gekwalificeerd personeel  
+COM.89 Complexe baancombinatiewisselingen GCOL, RAMP, RI 
+ARC, AMAN, MAC, CTOL, CFIT, GCOL, 
+COM.90 Late baanwissel 
+RI, USOS 
+ 
+  
+74 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ Gevaar Ongevalscategorie 
+ARC, AMAN, MAC, CTOL, CFIT, GCOL, 
+GA.33 Onleesbare NOTAMS.  RAMP, LOC-G, LOC-I, LALT, RE, RI, 
+USOS 
+Niet optimale samenwerking luchtverkeersleiders en GA 
+GA.34 AMAN, MAC 
+piloten op Lelystad airport 
+GA.35 Beperkte flight information services door Dutch-mil. ARC, AMAN, MAC, CFIT, LOC-I 
+ARC, AMAN, MAC, CTOL, CFIT, GCOL, 
+Ontbreken van een periodieke competentiecheck voor 
+GA.36 RAMP, LOC-G, LOC-I, LALT, RE, RI, 
+instructeurs 
+USOS 
+GA.37 Verstoring van GNSS systemen. MAC, CFIT 
+GA.39 Interactie civiel – militair  AMAN, MAC, GCOL, RI 
+GA.40 Communicatiestoring ATM-flight crew AMAN, MAC, GCOL, RI 
+GA.41 GA piloot wijkt onbedoeld af van vertrek of naderingsroute. AMAN, MAC, CTOL 
+Gebrek aan onderdelen en ‘approved data’ voor oudere 
+GA.42 LOC-G, LOC-I 
+vliegtuigen. 
+Communicatieproblemen in de operatie als gevolg van 
+GA.44 AMAN, MAC, GCOL, RAMP, RI 
+gesproken en begrepen talen. 
+Onjuiste interpretatie door operator van door het systeem ARC, AMAN, MAC, CTOL, CFIT, GCOL, 
+GA.45 
+gepresenteerde informatie.  RAMP, LOC-G, LOC-I, RE, RI, USOS 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+GA.46 Safety managers worden overweldigd met data. 
+LOC-I, LALT 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+GA.48 Verminderd veiligheidsbewustzijn door uitbesteden van taken. GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+USOS 
+GA.52 Onwel worden van piloten tijdens operatie ARC, CTOL, LOC-G, LOC-I, RE, USOS 
+ 
+  
+76 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Gevaar Ongevalscategorie 
+Onduidelijke eisen voor vergunningverlening met lange ARC, AMAN, MAC, CTOL, CFIT, LOC-I, 
+F.5
+doorlooptijden bij de ILT. LALT 
+De kwaliteit en leerpunten van de opleidingen in de open ARC, AMAN, MAC, CTOL, CFIT, LOC-I, 
+F.20
+categorie zijn beperkt. LALT 
+Te veel eisen aan opleiding en trainingen in de open categorie ARC, AMAN, MAC, CTOL, CFIT, LOC-I, 
+F.21
+kan de bereidheid tot het volgen daarvan ondermijnen. LALT 
+78 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+ Gevaar Ongevalscategorie 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+Taalbarrière tussen lokaal personeel en Europese Nederlandse 
+C-NL.23 GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+betrokkenen. 
+USOS 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+C-NL.24 Beperkt niveau just culture GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+USOS 
+Emergency plannen niet goed uitgerold en niet goed 
+C-NL.25  
+afgestemd tussen verschillende diensten 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+Veel ontheffingen nodig om continuïteit te waarborgen, regels 
+C-NL.26 GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+worden anders toegepast 
+USOS 
+ARC, AMAN, MAC, CTOL, CFIT, F-NI, 
+Beperkte kennis van medewerkers op en rond luchthaven als 
+C-NL.27 GCOL, RAMP, LOC-G, LOC-I, RE, RI, 
+gevolg van seizoensarbeid. 
+USOS 
+ 
+ 
+  
+80 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+Appendix N Kwantificering risicoscenario’s 
+Appendix N.1 Factsheets commerciële luchtvaart 
+ 
+COM.01 Vogelaanvaringen 
+Beschrijving risicoscenario 
+Een aanvaring met een vogel tijdens de start of landing kan schade aan het vliegtuig of de motoren veroorzaken. 
+Hierdoor kan de controle over het vliegtuig worden verloren, wat kan resulteren in een ongeval in de categorie loss 
+of control in flight (LOC-I), abnormal runway contact (ARC) of undershoot/overshoot (USOS). Het vliegtuig kan door 
+het verlies van controle ook van de baan raken tijdens de start of landing (runway excursion RE). Het verlies van 
+controle kan ook ontstaan als het vliegtuig nog over de baan rijdt (loss of control ground LOC-G). Daarnaast kan een 
+vogelaanvaring ook leiden tot een abrupte manoeuvre (AMAN) wanneer de vlieger probeert de vogelaanvaring te 
+voorkomen door ze te ontwijken en het leidt tot een ongeval. 
+ 
+Het verjagen van vogels op een luchthaven is een taak van de luchthaven samen met de overheid. De luchthaven 
+zal op het luchthavengebied een wildlife management programma voeren waarin actief vogels worden geweerd en 
+verjaard (conform ICAO Annex 14). Een groot gedeelte van het leefgebied van de vogels valt buiten de luchthaven. 
+De (lokale) overheid heeft hierin een belangrijke functie. 
+Kans van optreden gevaar  
+Er zijn verschillende schattingen voor de kans op een vogelaanvaring. Volgens rapport NLR-CR-99322 varieert de 
+kans op een vogelaanvaring tussen 1 en 10 aanvaringen per 10000 bewegingen. Gemiddeld zijn er 5 
+-4 
+vogelaanvaringen per 1000 bewegingen voor alle luchthavens wereldwijd (5x10 per beweging). Dat komt overeen 
+-3 
+met 10 per 10000 vluchten (1x10 per vlucht). 
+ABL rapporteert over vogelaanvaringen in het Dashboard luchtvaartvoorvallen. Niet alle meldingen zijn een 
+feitelijke vogelaanvaring: in sommige gevallen wordt er melding gemaakt van aangetroffen vogelresten, of wordt er 
+voor vogels gewaarschuwd. 
+ 
+ABL data vogelaanvaringen
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2017 2018 2019 2020
+ 
+Figuur N.1: Frequentie van aan ABL gemelde vogelaanvaringen per 10000 vluchten. De bovenste lijn representeert 
+vogelaanvaringen inclusief mogelijke vogelaanvaringen, de onderste lijn representeert vogelaanvaringen 
+ 
+82 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.02 Onregelmatigheden in belading vliegtuig 
+Beschrijving risicoscenario 
+Een verkeerd beladen vliegtuig kan verschillende problemen ondervinden. Bij een verkeerde ligging van het 
+zwaartepunt kan het vliegtuig mogelijk onbestuurbaar worden, dat kan leiden tot een LOC-I of LOC-G. Als het 
+vliegtuig te zwaar beladen is kan het moeite hebben om de wielen van de grond te krijgen tijdens de start binnen 
+de beschikbare baanlengte (RE) en mogelijk ook bepaalde obstakels niet meer klaren (collision with obstacles 
+during take-off and landing CTOL). Schuivende lading kan tijdens de landing problemen veroorzaken (ARC). 
+Kans van optreden gevaar 
+De frequentie van aan ABL gemelde beladingsproblemen is weergegeven in Figuur N.2. Er lijkt een sterke afname in 
+het aantal meldingen gedurende de periode van 2016-2020. Het valt niet uit te sluiten dat de rapportage niet 
+geheel compleet is vanaf 2018 of dat er een andere manier van rapportering is die niet door de query wordt 
+gevonden. Vooralsnog wordt aangenomen een gemiddelde frequentie over de gehele periode representatief is 
+voor de kans van optreden van beladingsproblemen. Gemiddeld waren er 0.64 incidenten per 10000 vluchten. Dat 
+-5
+geeft een kans van optreden van het gevaar van 6.4x10 per vlucht. 
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.2: Frequentie beladingsproblemen gemeld aan ABL 
+Kans op een ongeval 
+Data uit de NLR air safety database geven aan dat circa 0.1% van alle incidenten met onregelmatigheden in de 
+-5 -8
+belading resulteert in een ongeval. Dit komt overeen met een kans van 6.4x10 x 0.1% = 6.4x10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – 
+catastrofaal. Deze risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen. • Van Es, G.W.H. 2007. Analysis of aircraft weight and
+• Grondafhandelaren balance related safety occurrences. NLR-TP-2007-153
+• ABL database
+84 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.12 Laseraanstraling 
+Beschrijving risicoscenario 
+Piloten kunnen in de cockpit door lasers worden aangestraald vanaf de grond. Dit kan als hinderlijk worden 
+beschouwd door de vliegers en in extreme gevallen kan een vlieger tijdelijk verblind worden of (tijdelijk) niet instaat 
+zijn om haar/zijn taken uit te voeren. Indien beide vliegers verblind raken kunnen ze moeite hebben om het 
+vliegtuig te landen. Volgens incidentdata uit de NLR safety database vindt meer dan 85% van de laserincidenten 
+plaats tijdens de nadering en landing. Hierdoor kan er verlies van controle van het vliegtuig ontstaan (LOC-I) of een 
+Abnormal Runway Contact (ARC) of Undershoot/Overshoot (USOS). Het vliegtuig kan als gevolg van de 
+laseraanstralingen van vliegers in een situatie terechtkomen waardoor het vliegtuig te steil gaat naderen en tegen 
+de grond botst (Controlled flight into terrain CFIT). 
+Kans van optreden gevaar 
+De ABL data voor de periode 2016-2020 is in weergegeven in Figuur N.4. Deze figuur laat de frequentie van 
+gerapporteerde laseraanstralingen per 10000 vluchten zien voor het commerciële vliegverkeer. Aangezien vliegers 
+laseraanstralingen als zeer hinderlijk ervaren is de verwachting dat het aantal rapportages redelijk compleet zal zijn. 
+Voor de periode 2016-2018 is de frequentie vergelijkbaar met die van bijvoorbeeld de Verenigde Staten Amerika 
+(4.2 per 10,000 vluchten, bron: https://www.faa.gov/about/initiatives/lasers/laws/). In 2019 en zeker in 2020 is de 
+frequentie een stuk lager. Voor 2020 valt dit deels te verklaren uit het feit dat dit jaar veel lagere verkeervolumes 
+kende door de Covid-19 pandemie. Voor de lagere waarde in 2019 is geen goede verklaring beschikbaar. In de 
+Verenigde Staten is overigens geen dalende trend waarneembaar in 2019 en 2020. Voor de periode 2016-2020 is de 
+-4 
+gemiddelde frequentie in Nederland 3.60x10 per vlucht. 
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.4: Frequentie van aan ABL gemelde voorvallen van laseraanstralingen 
+Kans op een ongeval 
+86 
+Kans per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.13 Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zogturbulentie) 
+Beschrijving risicoscenario 
+De horizontale of verticale afstand tussen vliegtuigen tijdens de vlucht wordt aangeduid als separatie. In 
+gecontroleerd luchtruim is de minimale onderlinge separatie tussen vliegtuigen voorgeschreven. De 
+luchtverkeersleiding verantwoordelijk voor het handhaven van de minimale onderlinge separatie tussen vliegtuigen 
+in gecontroleerd luchtruim. Separatieminima zijn, vanwege het gevaar van zogturbulentie, afhankelijk van de 
+vliegtuiggrootte. In het ongecontroleerde deel van het Nederlandse luchtruim wordt geen luchtverkeersleiding 
+gegeven en daarom wordt het luchtverkeer niet onderling gesepareerd. Het waarborgen van separatie tussen 
+luchtverkeer valt in ongecontroleerd luchtruim onder de verantwoordelijkheid van de gezagvoerder. Commerciële 
+luchtvaart vindt voornamelijk plaats in gecontroleerd luchtruim. 
+Onvoldoende separatie kan resulteren in een midair collision (MAC) of runway incursion RI. Het MAC-risico is vrij 
+duidelijk en direct gerelateerd aan onvoldoende separatie. Een runway incursion kan optreden als door 
+onvoldoende separatie tussen landende vliegtuigen er nog een vliegtuig op de baan rijdt terwijl een ander vliegtuig 
+aan het landen is. Dit zou door onvoldoende separatie kunnen worden veroorzaakt maar meestal is het trage 
+verlaten van de baan de oorzaak. 
+Zogturbulentie kan resulteren in LOC-I, ARC en USOS: Dit kan tijdens de start , landing en en-route gebeuren. 
+Diverse factoren spellen hierbij een rol zoals de typen vliegtuigen die achter elkaar vliegen en wind. 
+Kans van optreden gevaar 
+De frequentie voor het meldingen over verlies van separatie is op basis van ABL-data weergegeven in Figuur N.5. De 
+-4
+trend lijkt constant. Gemiddeld zijn er 6.1 incidenten per 10000 vluchten (=6.1x10 ). 
+8
+7
+6
+5
+4
+3
+2
+1
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.5: Frequentie van voorvallen gemeld aan ABL over het verlies van separatie 
+De frequentie voor runway incursions is op basis van ABL-data weergegeven in Figuur N.6. Er is geen duidelijke 
+opwaartse of neerwaartse trend waarneembaar. Circa 45% wordt veroorzaakt doordat een ander vliegtuig de baan 
+-4
+blokkeert. Gemiddeld zijn er 4 runway incursions per 10000 vluchten (4x10 ). Op basis hiervan wordt een aantal 
+-4
+geschat van circa 1.8 runway incursions per 10000 vluchten (1.8x10 per vlucht) als gevolg van een geblokkeerde 
+baan. 
+88 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Kans op een ongeval 
+Uit gegevens van de NLR air safety database blijkt dat circa 0,05% van alle separatie-incidenten resulteert in een 
+-4 -7
+MAC (0.05% x 6.1x10 = 2.9 10 per vlucht). 
+Uit gegevens van de NLR air safety database blijkt dat circa 0.1% van alle RI-incidenten resulteert in een RI ongeval 
+-4 -7
+(0.1% x 1.8x10 = 1.8 10 per vlucht). 
+Uit gegevens van de NLR air safety database blijkt dat circa 1% van alle zogturbulentie-incidenten resulteert in een 
+-5 -7
+ongeval zoals LOC-I, ARC, of USOS (1% x 2.5x10 = 2.5 10 per vlucht). 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • IVA Schiphol (NLR-CR-2017-313)
+• Luchtverkeersleiding • NLR air safety database
+• Luchthavenexploitant • ABL database
+90 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.16 Verminderende cognitieve vaardigheden als gevolg van gebruik van alcohol, medicijnen of drugs 
+Beschrijving risicoscenario 
+Door het gebruik alcohol, medicijnen of drugs, kunnen de cognitieve vaardigheden van de vlieger afnemen. Dit kan 
+resulteren in veel verschillende typen ongevallen. 
+Kans van optreden gevaar 
+Er zijn geen gegevens beschikbaar over het aantal vliegers per jaar in Nederland dat tijdens de actieve dienst onder 
+invloed van alcohol, medicijnen of drugs verkeert. 
+Een kans per vlucht voor de Nederlandse context kan op basis van de beschikbare data en gevonden referenties niet 
+worden bepaald. 
+Kans op een ongeval 
+In 2014 heeft de NTSB een analyse gedaan van alle fatale ongevallen in de Verenigde Staten in de periode 1990 – 
+2012 waarbij de piloot onder invloed was van alcohol, drugs of medicijnen. Hoewel de meeste ongevallen tot de 
+domein kleine luchtvaart behoren, waren er 14 ongevallen in de geregelde commerciële luchtvaart (Part 121). 
+Gedurende die periode waren er 225.674.679 vluchten. Hierdoor wordt de kans op een fataal ongeval waarbij de 
+-8
+piloot onder invloed was van alcohol, drugs of medicijnen geschat op 6.2x10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • NTSB. 2014. Drug Use Trends in Aviation: Assessing the
+• Marechaussee Risk of Pilot Impairment. NTSB/SS-14/01.
+• KLPD • NTSB/FAA, movement statistics.
+• ILT
+92 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.20 Gebrek aan kwaliteit van het toezicht op organisaties. 
+Beschrijving risicoscenario 
+Toelating en toezicht is gericht op het borgen dat luchtvaartorganisaties voldoen aan de wet- en regelgeving. Het 
+voldoen aan wet- en regelgeving is een belangrijk aspect van veilige luchtvaart. Daarnaast dient het toezicht als 
+terugkoppelingsmechanisme naar beleid. De OVV concludeerde in 2017 dat de vakinhoudelijke kennis en de 
+capaciteit van de ILT onvoldoende zijn om effectief toezicht te houden op de veiligheid van het vliegverkeer op en 
+rondom Schiphol. In de Systeemmonitor luchtvaartveiligheid met peildatum 1 januari 2020 werd geconcludeerd dat 
+internationale kaders voor het toezicht niet volledig waren geïmplementeerd. 
+Toezicht is een vorm van samenwerking tussen de toezichthouder en de ondertoezichtstaanden. Samenwerking 
+vraag om een interactief proces waarbij de toezichthouder in gesprek gaat met organisaties en mogelijk het eigen 
+handelen daarop aanpast of ervan leert. Dus niet alleen het handelen van de ondertoezichtstaande partij verandert 
+als gevolg van het toezicht, maar mogelijk ook het handelen van de toezichthouder. Toezicht houden is een vak, en 
+als dat vak goed wordt uitgevoerd wordt de ondertoezichtstaande organisatie voortdurend uitgedaagd en 
+geprikkeld om zichzelf te verbeteren. Dat is in het belang van de maatschappij, maar ook in het belang van de 
+ondertoezichtstaande partij. 
+Gebrek aan kwaliteit van het toezicht kan er toe leiden dat organisaties niet voldoen aan wet en regelgeving en dat 
+signalen over onveiligheid niet worden opgepikt. Dit kan bijdragen aan vrijwel alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan op basis van de beschikbare data niet worden bepaald. Uit de 
+systeemmonitor luchtvaartveiligheid blijkt dat verbeteringen in het toezicht in Nederland mogelijk zijn, maar dit is 
+niet te vertalen naar een kans per vlucht. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. Er zijn 
+geen relevante referenties bekend. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • IenW. (2021). Systeemmonitor Luchtvaartveiligheid
+• Luchtverkeersleiding • OVV. (2017). Veiligheid vliegverkeer Schiphol.
+• ABL
+• ISMS
+• ILT
+• DGLM
+94 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.27 Conflicterende luchtruimbehoefte (civiel, militair, algemeen) 
+Beschrijving risicoscenario 
+Luchtruimgebruikers hebben afhankelijk van de type operatie (civiel, militair of algemeen) een andere behoefte aan 
+luchtruim. De situatie zou kunnen ontstaan dat het luchtruim niet passend is voor het gewenste gebruik. Het gevolg 
+hiervan kan zijn dat luchtruimgebruikers buiten het toegestane gebied komen en in conflict komen met andere 
+gebruikers. Dit zou potentieel kunnen leiden tot een MAC of een AMAN. In dit risicoscenario staat een conflict tussen 
+commercieel vliegverkeer met militaire luchtvaart, kleine luchtvaart en onbemande luchtvaart centraal. 
+ Kans van optreden gevaar 
+De kans van optreden van het gevaar kan op basis van de beschikbare data en gevonden referenties niet worden 
+gegeven. 
+Een mogelijke indicator is het aantal luchtruimschendingen van gecontroleerd luchtruim. Dit betreft alle oorzaken 
+dus de luchtruimschendingen als gevolg een niet passende luchtruimbehoefte is een deel hiervan. 
+Luchtruimschendingen van kleine en onbemande vliegtuigen zijn onderdeel van COM.14. Luchtruimschendingen van 
+militair verkeer zijn niet bekend. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• ABL Dashboard Luchtvaartvoorvallen,
+• Luchtvaartmaatschappijen
+https://dashboards.ilt.rijkscloud.nl/luchtvaartvoorvallen/
+• Kleine luchtvaart operators
+• CBS
+• Militaire luchtvaart
+• ILT, Staat van Schiphol 2020
+• Luchtverkeersleiding
+• Onbemande luchtvaartoperators
+• DGLM
+• ILT
+• Energiemaatschappijen (windmolens)
+• Bouwsector
+96 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.33 De gebrekkige kwaliteit van het controleren van gevaarlijke vracht 
+Beschrijving risicoscenario 
+Het veiligheidsrisico van een gebrekkige kwaliteit van het controleren van gevaarlijke vracht is vooral brandgevaar. 
+Denk bijvoorbeeld aan een controle of de juiste verpakkingen zijn gebruikt en de juiste labels zijn toegepast. 
+Gebrekkige kwaliteit van het controleren van gevaarlijke vracht kan mogelijk leiden tot brand aan boord (fire – non 
+impact F-NI). 
+Kans van optreden gevaar 
+De ABL dataset bevat een aantal voorvallen die betrekking hebben op gevaarlijke vracht. Of gebrekkige kwaliteit van 
+het controleren bij deze voorvallen een rol speelde kon niet altijd worden vastgesteld door gebrek aan informatie. De 
+frequentie van aan het ABL gemelde voorvallen die betrekking hebben op gevaarlijke vracht cargo is weergegeven in 
+Figuur N.9. 
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.9: Frequentie van voorvallen gemeld aan ABL over gevaarlijke vracht 
+Er lijkt een sterke afname in het aantal meldingen gedurende de periode van 2016-2020. Het valt niet uit te sluiten 
+dat de rapportage niet geheel compleet is vanaf 2018 of dat er een andere manier van rapportering is die niet door 
+de query wordt herkend. Vooralsnog wordt aangenomen een gemiddelde frequentie over de gehele periode 
+representatief is voor de kans van optreden van beladingsproblemen. Gemiddeld waren er 1.6 incidenten per 10000 
+-4 
+vluchten (1.6x10 per vlucht). Dit betreft alle meldingen en is dus niet beperkt tot gevallen waar gebrekkige controle 
+een factor was. De kans is daarom een overschatting van de werkelijke kans voor dit risicoscenario. 
+Kans op een ongeval 
+Door het projectteam NVA wordt op basis van expert mening geschat dat 0.05% van alle incidenten resulteert in een 
+-4 -8 
+ongeval. De kans op een ongeval wordt daarmee 0.05% x 1.6x10 = 8.0x10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • ABL database
+• Grondafhandelaren
+98 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.35 Communicatieproblemen tussen luchtverkeersleiding en piloten 
+Beschrijving risicoscenario 
+Communicatieproblemen tussen luchtverkeersleiding en piloten kunnen resulteren in verschillende risicoscenario’s, 
+afhankelijk van het probleem en de vluchtfase. Vliegers kunnen bijvoorbeeld de klaring van een ander vliegtuig 
+overnemen en daardoor gaan starten, vliegers kunnen een klaring verkeerd begrepen hebben zonder dat de 
+verkeersleider dit opmerkt. Andere voorbeelden zijn een overbelaste frequentie, gebruik van de verkeerde 
+radiofrequentie en uitvallen van communicatieapparatuur. Dit kan leiden tot ongevallen van de categorieën MAC, RI, 
+ARC en RE. De laatste twee hebben te maken met het geven of interpreteren van onjuiste informatie over wind en 
+baangesteldheid. Verkeersleiders zijn hier niet altijd direct verantwoordelijk voor aangezien ze vaak informatie van 
+derden doorgeven. 
+Kans van optreden gevaar 
+Queries in de ABL dataset leverde groot aantal gerapporteerde voorvallen op waarin communicatieproblemen tussen 
+de verkeersleiding en vlieger werden gemeld. De frequentie van het aantal gemelde incidenten is weergegeven in 
+Figuur N.10. Tussen 2016 en 2019 lijkt er een redelijk stabiele frequentie van het aantal gemelde incidenten. Alleen 
+in 2020 is er een sterk toename. Of dit een trend is of dat dit een andere oorzaak heeft is onduidelijk. De 
+verkeervolumes zijn door de pandemie in 2020 juist veel lager waardoor verwacht kan worden dat bepaalde 
+communicatieproblemen minder vaak optreden. Vooralsnog wordt aangenomen een gemiddelde frequentie over de 
+gehele periode representatief is voor de kans van optreden van communicatieproblemen. Gemiddeld waren er 11 
+-3 
+incidenten per 10000 vluchten (1.1x10 per vlucht). 
+25
+20
+15
+10
+5
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.10: Frequentie van voorvallen gemeld aan ABL waarin communicatieproblemen als een factor werd vermeld 
+Kans op een ongeval 
+Data uit de NLR Air Safety database laten zien dat circa 0.01% van communicatieproblemen resulteert in een 
+-3 -7
+ongeval. De kans op een ongeval is dus 0.01% x 1.1x10 = 1.1x10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • ABL database
+• Luchtverkeersleiding • NLR air safety database
+100 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.37 Afwijking van de Standard Instrument Departure (SID) 
+Beschrijving risicoscenario 
+Afwijking van de voorgeschreven SID kunnen tot MAC ongevallen leiden indien het vliegtuig zich naar een ander 
+vliegtuig beweegt en er wordt niet ingegrepen door de vliegers en/of de luchtverkeersleiding. Daarnaast kan het 
+leiden tot een AMAN, indien vliegers ingrijpen om een MAC te voorkomen. 
+Kans van optreden gevaar 
+Queries in de ABL dataset leverde een aantal voorvallen op waarbij afwijkingen van SIDs een factor was. De 
+frequentie van het aantal gemelde voorvallen is weergegeven in Figuur N.12. Gemiddeld over de gehele periode zijn 
+-4 
+dit 5.9 voorvallen per 10000 vluchten (5.9x10 per vlucht) . 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.12: Frequentie voorvallen met SID afwijkingen gemeld aan ABL 
+Kans op een ongeval 
+Data uit de NLR Air Safety database (een combinatie van geschatte SID-deviaties per vlucht, data over totaal aantal 
+vluchten en aantallen ongevallen waarin SID-deviatie een oorzaak of bijdragende factor is) laten zien dat 0.01% van 
+-4 -8
+SID afwijkingen resulteert in een ongeval (MAC of AMAN). De kans op een ongeval is dus 0.01% x 5.9x10 = 5.9x10 
+per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • ABL database
+• Luchtverkeersleiding • NLR air safety database
+102 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.39 FOD op de start/landingsbaan. 
+Beschrijving risicoscenario 
+FOD op de starts of landingsbaan kan schade aan het vliegtuig veroorzaken, bijvoorbeeld aan de motor, vleugel en 
+banden. Dit kan leiden tot veel verschillende ongevalstypen: AMAN, CTOL, FI-N, LOC-G, LOC-I, RE, en USOS. 
+Kans van optreden gevaar 
+Figuur N.13 laat de frequentie zien van aan het ABL gerapporteerde FOD voorvallen tussen 2016 en 2020. Er is geen 
+-4 
+duidelijke trend waarneembaar. Gemiddeld waren er 1.1 FOD voorvallen per 10000 vluchten (1.1x10 per vlucht). 
+1.8
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.13: Frequentie van FOD voorvallen gemeld aan ABL. 
+Kans op een ongeval 
+Data uit de NLR air safety database laat zien dat circa 0.1% van alle FOD voorvallen resulteert in een ongeval. De 
+-4 -7
+ongevalskans is dus 0.1% x 1.1x10 = 1.1x10 per vlucht 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchthavens • ABL database
+• Luchtvaartmaatschappijen • NLR air safety database
+• Grondafhandelaars
+104 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.43 Onopgemerkte schade aan vliegtuig veroorzaakt op de VOP 
+Beschrijving risicoscenario 
+Tijdens het grondafhandelingsproces (dit betreft onder meer passagiersafhandeling, bagageafhandeling en vliegtuig-
+servicing) van een vliegtuig op een vliegtuigopstelplaats (VOP) kan schade ontstaan aan een vliegtuig. Wanneer deze 
+schade onopgemerkt blijft, kan deze schade invloed hebben op de vliegveiligheid. Schade aan het vliegtuig kan 
+lijden tot een verlies van controle in de lucht (LOC-I) verlies van controle op de grond (LOC-G), botsing met een 
+obstakel tijdens de take-off of landing (CTOL), een undershoot of overshoot (USOS) of kan er toe leiden dat het 
+vliegtuig van de baan raakt (runway excursion RE).  
+ 
+Bij de grondafhandeling zijn verschillende partijen betrokken. De grondafhandelaar voert de werkzaamheden uit in 
+opdracht van een luchtvaartmaatschappij. De luchthaven stelt de infrastructuur (en soms ook materieel) ter 
+beschikking en stelt daarnaast eisen met betrekking tot toegang en de veiligheid op de luchthaven. 
+Kans van optreden gevaar  
+In de periode 2014 – 2020 zijn aan ABL 500 voorvallen gerapporteerd van vliegtuigschade als gevolg van 
+-4 
+grondafhandeling. Dit komt overeen met gemiddeld 3.2 voorvallen per 10000 vluchten (3.2x10 per vlucht). 
+Aangenomen wordt dat dit getal representatief is voor het commerciële luchtverkeer in Nederland. 
+ 
+Volgens de gegevens van NLR-CLR-2021-067 is een stijgende trend aanwezig in het aantal incidenten op de VOP. Dit 
+hangt waarschijnlijk samen met de toenemende drukte op de grond als gevolg van het groeiende aantal 
+vliegbewegingen tot en met 2019.  
+ 
+In de periode tussen 2014 en 2020 zijn er vijf voorvallen (1% van alle vliegtuigschades als gevolg van 
+grondafhandeling) geïdentificeerd in de aan ABL gerapporteerde voorvallen van vliegtuigschade als gevolg van 
+grondafhandeling waarin een vliegtuig een vlucht heeft gemaakt met schade die zo groot was dat het vliegtuig 
+-4 -6 
+eigenlijk niet had mogen vertrekken. Dat komt overeen met een kans van 0.01 x 3.2x10 = 3.2x10 per vlucht. 
+Kans op een ongeval 
+De kans van optreden van een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet 
+worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker.  
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen 
+• Balk, A.D., Roelen, A.L.C., Smeltink, J.W., Heerma van 
+• Grondafhandelaren Voss, G.J.J., Tanis, J. 2021. Onderzoek vestigingseisen 
+grondafhandeling Schiphol. NLR-CR-2021-067. 
+• Luchthavens 
+ 
+  
+106 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.46 Onstabiele nadering 
+Beschrijving risicoscenario 
+Onstabiele naderingen die niet worden afgebroken maar worden doorgezet kunnen leiden tot ongevallen van het 
+type ARC, USOS, LOC-I, LOC-G en RE.  
+ 
+De piloten hebben de grootste invloed op de stabiliteit van de nadering, maar ATC kan ook invloed hebben, 
+bijvoorbeeld door vliegtuigen kort te laten indraaien of door een krappenaderingsvolgorde. 
+Kans van optreden gevaar  
+Het ABL dashboard en het CBS geven de volgende informatie over de frequentie van onstabiele naderingen die niet 
+worden afgebroken:  
+ 
+ Aantal gerapporteerde Aantal vluchten  Kans per vlucht 
+Jaar voorvallen (ABL dashboard) (CBS handelsverkeer) 
+2018 43 282273 1.52E-04 
+2019 44 283015 1.56E-04 
+2020 20 129113 1.54E-04 
+2021 (t/m nov) 23 134597 1.70E-04 
+totaal 130 828998 1.56E-04 
+ 
+-4
+Op basis van deze informatie is de kans op een onstabiele nadering die niet wordt afgebroken 1.56x10 per vlucht. 
+ 
+Kans op een ongeval 
+In NLR rapport NLR-CR-2006-520 zijn kansen berekend voor ongevalscenarios waarin onstabiele naderingen een rol 
+spelen. De kansen zijn gebaseerd op wereldwijde gegevens van commerciële vluchten met grote 
+verkeersvliegtuigen in de periode 1985-2005.  
+ 
+-7
+Onstabiele nadering – loss of control inflight: 3.21 x 10 per vlucht 
+-7
+Onstabiele nadering – runway excursion: 2.36 x 10 per vlucht 
+-8
+Onstabiele nadering – abnormal runway contact: 6.52 x 10 per vlucht 
+ 
+-7
+De totale kans op een ongeval na een onstabiele nadering is de som van deze kansen: 6.22x10 per vlucht.  
+ 
+Hierbij moet opgemerkt worden dat deze kansen zijn berekend op basis van relatief oude wereldwijde gegevens. 
+Voor Nederland zijn de kansen nu zeer waarschijnlijk lager.  
+Risico 
+Op basis van bovenstaande analyse mening wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is onzeker.  
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • Roelen, A.L.C., van Doorn, B.A., Smeltink, J.W., Verbeek, 
+M.J., Wever, R. 2006. Quantification of Event Sequence 
+• Luchtverkeersleiding 
+Diagrams for a causal risk model of commercial air 
+transport. NLR-CR-2006-520. 
+• ABL Dashboard Luchtvaartvoorvallen, 
+https://dashboards.ilt.rijkscloud.nl/luchtvaartvoorvallen/ 
+• ABL database 
+ 
+  
+108 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.50 Geen omgevingsbewustzijn bij vliegers 
+Beschrijving risicoscenario 
+Gebrek aan omgevingsbewustzijn (lack of situational awareness) is een containerbegrip dat alle mogelijk situaties 
+beschrijft waarbij het mentale beeld van de omgeving van de vlieger niet overeenkomt met de werkelijke situatie. 
+Dit kan zowel in de lucht als op de grond gebeuren. 
+Kans van optreden gevaar  
+De kans van optreden van het gevaar kan op basis van de beschikbare data en gevonden referenties niet worden 
+bepaald.  
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • ABL database 
+• Luchtverkeersleiding • NLR air safety database 
+ 
+COM.52 Sterke zijwind 
+Beschrijving risicoscenario 
+Sterke zijwind kan problemen opleveren met het besturen van het vliegtuig tijdens de start en vooral tijdens de 
+landing. Vaak gaat een sterke zijwind gepaard met windstoten. Dit kan in een uiterst geval (bijvoorbeeld met een 
+grote zijwaartse beweging) ervoor zorgen dat tijdens de landing een landingspoot afbreekt of beschadigd raakt. 
+Ook kan de vleugeltip of de motorgondel de grond raken in sterke zijwindcondities [NLR-CR-2017-313]. Dus sterke 
+zijwind kan leiden tot een abnormal runway contact (ARC), verlies van controle in de lucht (LOC-I) of een 
+undershoot (USOS). Daarnaast kan er verlies van controle ontstaan zodra het vliegtuig op de baan staat (LOC-G) wat 
+tot een runway exursion (RE) kan leiden. 
+Kans van optreden gevaar  
+In Integrale Veiligheidsanalyse Schiphol [NLR-CR-2017-313] is vastgesteld hoe vaak op Schiphol starts en landingen 
+met sterke zijwind worden uitgevoerd. Uit data over de periode 2009-2016 blijkt dat in 0.2% van de 
+vliegbewegingen er sprake is van zijwind groter dan 20 knopen, wat overeenkomt met een kans per vlucht van 
+-3
+4x10 . Aangenomen wordt dat dit representatief is voor de commerciële luchtvaart in Nederland.  
+Kans op een ongeval 
+-7
+Volgens NLR rapport NLR-TP-2001-217 is de kans op een ongeval als gevolg van sterke zijwind 7.1 x10 per vlucht. 
+Deze kans is gebaseerd op ongevallen in Verenigde Staten in de periode 1983-1995 en heeft betrekking op 
+commerciële luchtvaart.  
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • IVA Schiphol (NLR-CR-2017-313). 
+• Luchtverkeersleiding • Van Es, G.W.H., Van der Geest, P.J., Nieuwpoort, T.M.H. 
+2001. Safety aspects of aircraft operations in crosswind. 
+NLR-TP-2001-217. 
+ 
+  
+110 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.58 Incompliance als gevolg van conflicterende wet- en regelgeving 
+Beschrijving risicoscenario 
+Als gevolg van de diverse doelen die worden nagestreefd met regelgeving is het soms onvermijdelijk dat de wet- en 
+regelgeving conflicterend is. Bijvoorbeeld regelgeving met betrekking tot geluidsbelasting versus regelgeving voor 
+luchtvaartveiligheid. Hierdoor bestaat het gevaar dat een organisatie niet-compliant is met een deel van de 
+regelgeving, waardoor mogelijk een onveilige vliegoperatie kan ontstaan. 
+ Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen
+• Luchtverkeersleiding
+• Luchthavens
+• Grondhafhandelaren
+• Onderhoudsbedrijven
+• Min IenW
+COM.59 Beperkte regulering op aantallen vluchten in de kleine luchtvaart 
+Beschrijving risicoscenario 
+In de commerciële luchtvaart zijn de aantallen vluchten gereguleerd, onder andere door de afgifte van slots. In de 
+kleine luchtvaart is dit veel minder het geval, waardoor er onverwacht veel vliegtuigen in een bepaald deel van het 
+luchtruim kunnen vliegen. Dit kan leiden tot ongevallen van het type MAC en AMAN. 
+ Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen
+• Kleine luchtvaart
+• Luchtverkeersleiding
+• Min IenW
+112 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.63 Botsingen van grondvoertuigen met vliegtuigen 
+Beschrijving risicoscenario 
+Botsingen van grondvoertuigen met vliegtuigen tijdens de taxifase of op het platform kunnen leiden tot schade aan 
+het vliegtuig en in uitzonderlijke gevallen tot letsel en dodelijke slachtoffers (ongevallen in de categorieën GCOL en 
+RAMP). Het gaat in dit risicoscenario om de directe gevolgen van botsing. Het risico als gevolg van onopgemerkte 
+schade wordt behandeld in COM.43. 
+Kans van optreden gevaar 
+De kans van optreden van dit gevaar is geschat aan de hand van een ABL dataset met gerapporteerde voorvallen 
+over incidenten tussen grondvoertuigen en vliegtuigen op Nederlandse luchthavens en/of met vliegtuigen van 
+Nederlandse luchtvaartmaatschappijen op buitenlandse luchthavens in de periode 2014 - 2016 (Figuur N.15). Deze 
+dataset is in het kader van een afstudeeropdracht aan de TU Delft verzameld en geanalyseerd. 
+3.74
+4.00
+3.49
+3.50
+3.00
+2.61
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+2014 2015 2016
+Jaar
+Figuur N.15: Frequentie meldingen aan ABL over voorvallen tussen grondvoertuigen en vliegtuigen in de periode 
+2014-2016 
+Er is een opwaartse trend waarneembaar die waarschijnlijk een gevolg is van de toenemende drukte op de grond 
+door gevolg van de groei van het aantal vliegbewegingen. De verwachting is dan ook dat deze trend zich heeft 
+-4
+doorgezet tot en met 2019. Tussen 2014 en 2016 waren er gemiddeld 3.3 voorvallen per 10000 vluchten (3.3x10 
+per vlucht). Het aantal tussen 2016-2020 zal dus naar verwachting hoger liggen. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van bovenstaande analyse en expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – 
+zeer groot. Deze risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • NLR Air Safety database
+• Grondafhandelaren • Meesen, R.J. Taxiway occurrence analysis. NLR/TUD
+Internship report.
+• Luchthavens
+• Data export ABL | Ground handling incidents 2014-
+2016
+114 
+Frequentie per 10000 vluchten 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.67 De voorbereiding van de take-off wordt niet adequaat uitgevoerd door elektrisch taxiën 
+Beschrijving risicoscenario 
+Er zijn een aantal technologieën in ontwikkeling die het mogelijk maken om met behulp van elektrische motoren 
+van- en naar de startbaan te taxiën. De hoofdmotoren van het vliegtuigen worden daarbij niet gebruikt, wat gunstig 
+is voor geluid en milieu. Het verandert echter ook de vluchtvoorbereiding. Vliegtuigmotoren hebben noodzakelijke 
+opwarmtijden, variërend van twee tot vijf minuten, voordat een aan een take-off kan worden begonnen. Hierdoor 
+kan de werkdruk van de piloten vlak voor de take-off toenemen. 
+Kans van optreden gevaar 
+Elektrisch taxiën wordt in de Nederlandse commerciële luchtvaart nog niet toegepast. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen
+• Luchthavens
+• Grondafhandelaren
+• Luchtverkeersleiding
+COM.68 Ongeautoriseerd gebruik van radiofrequentie 
+Beschrijving risicoscenario 
+Ongeautoriseerd gebruik van de radiofrequentie verstoort de lucht-grond spraakcommunicatie en kan leiden tot 
+gevaarlijke situaties. Lucht-grondcommunicatie verwijst naar radiocommunicatie tussen twee of meer vliegtuigen, 
+of de uitwisseling van gegevens of verbale informatie tussen vliegtuigen en luchtverkeersleiding. Optreden van het 
+gevaar kan resulteren in het missen van cruciale, of het verkrijgen van onjuiste klaringen en verkeersinformatie. Het 
+missen of onjuist interpreteren van dergelijke informatie kan leiden tot verschillende ongevalstypes waarbij 
+klaringen of vectors voor separatie een rol spelen: RI, RAMP, G-COL, MAC, AMAN. 
+Zie COM.35 Communicatieproblemen tussen luchtverkeersleiding en piloten voor een risicoscenario dat een 
+abstractieniveau hoger ligt. 
+Note: Link met EASA Risk portfolio: ID nr. SI-2018 & SI-2027 
+Kans van optreden gevaar 
+In de ABL database zijn geen voorvallen gevonden die betrekking hebben op ongeautoriseerd gebruik van 
+radiofrequenties. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtverkeersleiding • ABL database
+• Grondafhandelaren
+• Piloten
+• Luchtvaartmaatschappijen.
+116 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+COM.70 Conflict als gevolg van convergerend baangebruik 
+Beschrijving risicoscenario 
+Convergerende banen zijn banen die elkaar (in het verlengde) kruisen. Convergerende banen zijn van elkaar 
+afhankelijk als een doorstart wordt uitgevoerd op de ene baan, terwijl een vliegtuig vertrekt op de andere baan of als 
+op een andere baan tegelijkertijd een doorstart wordt uitgevoerd of als een vliegtuig nadert op de ene baan, terwijl 
+op de convergerende baan een doorstart wordt gemaakt. Doordat de banen elkaar in het verlengde kruisen ontstaat 
+het risico op een MAC-ongeval. Door de ligging van het banenstelsel op Schiphol, in combinatie met het operationeel 
+gebruik van de banen, is soms sprake van de inzet van convergerende banen op Schiphol. Dit scenario is alleen van 
+toepassing op Schiphol en niet op de overige Nederlandse luchthavens. 
+ 
+Het gebruik van convergerende baangebruik op Schiphol is onderwerp geweest van diversie onderzoeken (OVV 2017, 
+OVV 2020, ILT 2021). Hieruit blijkt dat de op Schiphol gevolgde procedures voor convergerend baangebruik voldoen 
+aan de algemene ICAO regelgeving voor starten en landen. Er is echter geen specifieke ICAO regelgeving voor 
+convergerend baangebruik. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan door analyse van vluchtbewegingen op Schiphol worden bepaald.  
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • OVV. (2017). Veiligheid vliegverkeer Schiphol. 
+• Luchtverkeersleiding • OVV. (2020). Verminderde separatie na doorstart.  
+• Luchthavenexploitanten • ILT. (2021) Kruisend luchtverkeer op Schiphol. Inspectie 
+Leefomgeving en transport.  
+• ISMS 
+ 
+  
+118 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.79 Verminderd veiligheidsbewustzijn door uitbesteden van taken. 
+Beschrijving risicoscenario 
+Veiligheidsbewustzijn betekent dat een individu of een collectief (een verzameling individuen binnen een entiteit) 
+zich bewust is van het effect van zijn/haar handelen op de veiligheid. Uitbesteden van taken door middel van 
+contracting of subcontracting kan leiden tot een verminderd veiligheidsbewustzijn. Daarom worden voor het 
+uitbesteden van taken vaak aanvullende eisen gesteld in de regelgeving. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Alle partijen die voor veiligheid relevante taken,
+operaties of processen uitbesteden aan derde
+partijen.
+COM.82 Piloot uit de kleine luchtvaart wijkt af van vertrek of naderingsroute (zie GA.41) 
+Beschrijving risicoscenario 
+Dit gevaar kan op twee manieren tot stand komen: 
+1. Een piloot vertrekt van een regionaal vliegveld (GA), wijkt af van voorgeschreven vertrek of naderingsroutes,
+vliegt ongeautoriseerd een gecontroleerd deel van de luchtruim binnen, en komt in conflict met een commercieel
+vliegtuig. Het resultaat is feitelijk een luchtruimschending, die wordt behandeld in COM.14 Luchtruimschending
+kleine luchtvaart / onbemande luchtvaart.
+2. Op de luchthavens waar commercieel vliegverkeer plaatsvindt, vindt doorgaans ook activiteiten plaats die vallen
+onder de noemer ‘kleine luchtvaart’. De start- en naderingsroutes voor de kleine luchtvaart liggen in de buurt of
+zijn identiek als die voor de commerciële luchtvaart. Indien een piloot in de kleine luchtvaart afwijkt van de route
+kan een conflict ontstaan met een commercieel vliegtuig. Vanuit het perspectief van het commerciële vliegtuig kan
+dit leiden tot een AMAN (als gevolg van een uitwijkmanoeuvre) of in het uiterste geval tot een MAC.
+Kans van optreden gevaar 
+Queries in de ABL dataset leverde een aantal resultaten op van gevallen waarbij er een GA vliegtuig van de vertrek 
+of naderingsroute afweek. Het is onzeker of de set compleet is. Onderrapportering is mogelijk en ook ontbreken er 
+vaak details waardoor het niet mogelijk is om alle relevante voorvallen te traceren (onduidelijk of de afwijking 
+tijdens de start of landing plaatsvond). Figuur N.18 laat de frequentie voor de periode 2016-2020 zien voor alle 
+gemelde afwijkingen. Er lijkt een neergaande trend waarneembaar. Er zijn echter indicaties dat dit komt door 
+eerdere genoemde beperkingen in de data. Gemiddeld is de frequentie 0.4 per 10000 vluchten. 
+120 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.85 Noodgedwongen lager gekwalificeerd onderhoudspersoneel als gevolg van personeelstekort 
+Beschrijving risicoscenario 
+Goed gekwalificeerd onderhoudspersoneel vermindert de kans op foutieve of incomplete uitvoering van 
+onderhoudstaken. Als gevolg van krapte op de arbeidsmarkt is het soms moeilijk om voldoende gekwalificeerd 
+personeel te vinden. Dit kan er toe leiden dat lager gekwalificeerd personeel wordt ingezet om (onder supervisie) 
+bepaalde taken uit te voeren. Dit leidt mogelijk tot meer onderhoudsfouten en daar uit volgende veiligheidsrisico’s. 
+Kans van optreden gevaar 
+e
+De arbeidsmarkt laat zich in 2021 kenmerken door een krapte. Er zijn vanaf het 2 kwartaal van 2021 meer 
+23
+vacatures dan werklozen in Nederland . Deze situatie is nog prangender als gekeken wordt naar de beroepsgroep: 
+‘technisch personeel’. Het UWV publiceert een ‘spanningsindicator’ 
+(https://www.werk.nl/arbeidsmarktinformatie/dashboards/spanningsindicator) waarin het geschatte aantal 
+openstaande vacatures wordt gedeeld door het aantal personen dat op hetzelfde moment korter dan zes maanden 
+WW ontvangt. In Figuur N.19 is de spanningsindicator voor technische beroepen weergegeven voor de periode 
+2017-2021. Er is geen reden om te verwachten dat de krapte snel minder wordt, gezien de beperkte instroom in 
+technische studies. 
+Figuur N.19: Spanningsindicator technische beroepen [bron: UWV] 
+Een tekort aan gekwalificeerd onderhoudspersoneel werkt niet één op één door in ‘noodgedwongen’ lager 
+gekwalificeerd personeel. Er zijn ook andere keuzes te maken zoals werkdruk omhoog of lagere 
+(productie)capaciteit. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • CBS
+• Onderhoudsbedrijven • UWV Arbeidsmarktspanningsindicator
+• Piloten • UWV. 2018. Factsheet Technische beroepen
+23
+ https://www.cbs.nl/nl-nl/visualisaties/dashboard-arbeidsmarkt/spanning-op-de-arbeidsmarkt  
+122 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+COM.89 Complexe baancombinatiewisselingen 
+Beschrijving risicoscenario 
+Dit vooral een Schiphol-specifiek risicoscenario, hoewel ook op andere vliegvelden baanwisselingen plaatsvinden. 
+Een verandering in een baancombinatie leidt tot veranderingen in de verkeersstromen. De operationele impact van 
+de veranderde verkeersstromen voor ATC is aanzienlijk, vooral wanneer de druk op de operatie hoog is, bijvoorbeeld 
+tijdens piekuren. Frequente veranderingen in baancombinaties worden gezien als een belangrijke bijdrage aan de 
+complexiteit van het werk en werkbelasting voor luchtverkeersleiders. De OVV (OVV, 2017) stelt dat deze gevolgen 
+van baancombinatiewijzigingen de kans op fouten door luchtverkeersleiders en piloten vergroten. Dit kan leiden tot 
+ongevallen van de type MAC, GCOL, RAMP, RI en LOC-I. 
+Kans van optreden gevaar 
+De belangrijkste redenen om de baancombinatie te wijzigen zijn veranderde meteorologische omstandigheden, 
+voorschriften voor geluidbeperking voor de omgeving, baanomstandigheden, beschikbaarheid van 
+landingshulpmiddelen en capaciteitsvraag. Verreweg de meeste zijn het gevolg van een wisselwerking tussen de 
+afspraken voor geluidbeperking voor de omgeving en het hub-and-spoke model dat op Schiphol gehanteerd wordt. 
+LVNL houdt bij hoe vaak er van baancombinatie wordt gewisseld. 
+In de actualisatie van de Integrale veiligheidsanalyse Schiphol (NLR-CR-2019-415) is het gemiddelde aantal 
+baancombinatiewisselingen per jaar weergegeven, zoals gepubliceerd door de LVNL, zie Figuur N.21. 
+Figuur N.21: Gemiddeld aantal baancombinatiewisselingen per dag voor de periode 2010-2018 [Bron: LVNL] 
+-2
+Op basis van deze figuur wordt de kans op een baancombinatiewisseling op Schiphol geschat op 1.6x10 per vlucht. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtvaartmaatschappijen • Actualisatie van de Integrale Veiligheidsanalyse Schiphol
+(NLR-CR-2019-415)
+• luchthavenexploitanten
+• OVV. 2017. Veiligheid vliegverkeer Schiphol
+• Piloten
+• Luchtverkeersleiding
+• Airport operations
+124 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix N.2  Factsheets kleine luchtvaart 
+GA.1 Vogelaanvaringen 
+Beschrijving risicoscenario 
+Wanneer een vliegtuig geraakt wordt door een vogel of meerdere vogels kan het zijn dat het vliegtuig dusdanige 
+schade oploopt dat het vliegtuig niet meer te besturen is of gedwongen wordt een noodlanding te maken. De meeste 
+GA vliegtuigen zijn eenmotorig en zouden bij een motorstoring als gevolg van een vogelaanvaring een noodlanding 
+moeten maken. 
+Kans van optreden gevaar 
+Queries in de ABL dataset leverde een aantal resultaten op van gevallen waarbij er een general aviation vliegtuig werd 
+geraakt door een vogel. Figuur N.23 laat de frequentie voor de periode 2016-2020 zien. Er is geen duidelijke trend 
+waarneembaar. Alleen de frequentie in 2020 lijkt wat af te wijken. Gemiddeld is de frequentie 1.5 per 10000 vluchten. 
+Waarschijnlijk worden niet alle vogelaanvaringen in de kleine luchtvaart goed gerapporteerd aan ABL. Gegevens uit de 
+Verenigde Staten duiden op een kans die twee keer hoger is. Vooralsnog wordt echter uitgegaan van de kans die volgt 
+uit de ABL-data. 
+3
+2.5
+2
+1.5
+1
+0.5
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.23: Frequentie vogelaanvaringen met GA vliegtuigen 
+Kans op een ongeval 
+Op basis van data uit de Verenigde Staten is bepaald dat circa 1.5% van alle vogelaanvaringen met kleine vliegtuigen 
+-4 -6
+resulteert in een ongeval. De kans op een ongeval als gevolg van een vogelaanvaring is 1.5% x 1.5x10 = 2.2 10 per 
+vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchthavens • ABL database
+• Vliegbedrijven/vliegclubs • NLR air safety database
+• Vliegtuiggebruikers • FAA Wildlife strike database
+(https://wildlife.faa.gov/home)
+• Luchtverkeersleiding
+126 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.24: Frequentie van aan ABL gerapporteerde voorvallen over separatieverlies 
+Het aantal meldingen aan ABL van runway incursions als gevolg van een bezette baan is te gering om een trendanalyse 
+uit te voeren. De frequentie van het aantal aan ABL gemelde voorvallen over de periode 2016-2020 is 0.05 per 10000 
+-6
+vluchten (5x10 per vlucht) . 
+Zogturbulentie kan leiden tot een LOC-I, ARC en een USOS. Het aantal meldingen aan ABL van zogturbulentie is te 
+gering om een trendanalyse uit te voeren. De frequentie van het aantal aan ABL gemelde wake vortex voorvallen over 
+de periode 2016-2020 is 0.05 per 10000 vluchten. 
+Kans op een ongeval 
+Uit gegevens van de NLR air safety database blijkt dat 0.05% van alle voorvallen van separatieverlies resulteert in een 
+-7
+MAC. De ongevalskans is 0.05% x 3.5x10-4 = 1.7 10 per vlucht. 
+Uit gegevens van de NLR air safety database blijkt dat 0.1% van alle voorvallen van separatieverlies resulteert in een 
+-6 -9
+RI ongeval. De ongevalskans is 0.1% x 5x10 = 5 10 per vlucht. 
+Uit gegevens van de NLR air safety database blijkt dat circa 1% van alle wake vortex voorvallen resulteert in een 
+-6 -8
+ongeval zoals LOC-I, ARC, of USOS. De ongevalskans is 1% x 5x10 = 5.0 10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegclubs • ABL database
+• Vliegtuiggebruikers • NLR air safety database
+• Luchtverkeersleiding
+• Luchthavenexploitant
+128 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+GA.5 Gladde start/landingsbaan/taxibaan door regen of sneeuw/ijs 
+Beschrijving risicoscenario 
+Gladde banen kunnen problemen opleveren tijdens de start of landing. Wanneer het vliegtuig afremt op een gladde 
+baan is er meer afstand nog om het vliegtuig te stoppen tijdens de landing of een afgebroken start. Dit is een gevolg 
+van de verminderde stroefheid van de remmende banden op het gladde oppervlak. Ook kan het tijdens 
+zijwindoperaties lastig zijn om het vliegtuig op de baan te houden aangezien de banden op een gladde baan minder 
+dwarskrachten kunnen leveren. Een RE ongeval kan het gevolg zijn. Voor veruit de meeste GA vliegtuigen is er 
+slechts beperkte of soms geen informatie beschikbaar over de effecten van een gladde baan op de start en landing 
+prestaties. Als deze er wel is, is dat alleen voor natte banen zonder daarbij duidelijk aan te geven hoe nat de baan 
+dan is. Voor sneeuw en ijs zijn er nog gegevens beschikbaar. Zijwindlimitaties worden normaal niet gegeven voor GA 
+vliegtuigen. Er kan een gedemonstreerde zijwind worden opgegeven door de fabrikant van een GA vliegtuig maar 
+deze is uitsluitend voor droge banen. 
+Kans van optreden gevaar  
+Queries in de ABL dataset leverde een aantal resultaten op van gevallen waarbij er een GA vliegtuig van de baan af 
+ging. In geen van de gevonden gevallen was het duidelijk wat de baanconditie was en of deze een rol had gespeeld. 
+Van een aantal kan met zekerheid gezegd worden dat deze niet op een besneeuwde op beijsde baan hadden kunnen 
+plaatsvinden gezien de maand waarin het voorval optrad. Het is onwaarschijnlijk dat GA operaties doorgang vinden 
+wanneer de baan is met sneeuw of ijs. De verwachting is dat dit in Nederland niet of nauwelijks gebeurt. Figuur N.26 
+laat de frequentie voor de periode 2016-2020 zien voor alle gemelde RE runway excursions (dus voor alle 
+baancondities). Er is geen duidelijke trend waarneembaar. Alleen de frequentie in 2016 lijkt wat af te wijken. 
+Gemiddeld is de frequentie 0.50 per 10000 vluchten. De frequentie van runway excursions door gladde banen zal 
+waarschijnlijk lager zijn.  
+ 
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+ 
+Figuur N.26: Frequentie runway excursions met GA vliegtuigen 
+ 
+Kans op een ongeval 
+Op basis van data uit de Verenigde Staten is bepaald dat circa 13% van alle runway excursions met GA vliegtuigen 
+resulteert in een ongeval en dat bij 2.2% daarvan een gladde baan een factor was. De kans is op een ongeval door 
+-5 -7
+een gladde baan is 2.2% x 13% x 5x10 = 1.3 10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchthavenexploitant • ABL database 
+• Vliegbedrijven/vliegscholen/vliegclubs • NLR air safety database 
+• KNVvL en AOPA 
+130 
+Freqientie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.08 Het identificeren van gevaren en risico’s uit meldingen is niet mogelijk of niet volledig 
+Beschrijving risicoscenario 
+Het identificeren van risico’s uit meldingen is een belangrijk element van goed veiligheidsmanagement. Indien risico-
+identificatie uit voorvalmeldingen niet mogelijk of volledig kan de veiligheid niet goed worden beheerst. Dit kan 
+bijdragen aan alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan op basis van de beschikbare data niet worden bepaald. Er zijn geen 
+relevante referenties bekend. 
+Kans op een ongeval 
+De kans van optreden van een ongeval als gevolg van het gevaar kan op basis van de beschikbare data niet worden 
+bepaald. Er zijn geen relevante referenties bekend. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs
+• Luchtverkeersleiding.
+• Luchthavens en vliegvelden
+• ABL
+• Onderhoudsbedrijven
+• ILT
+GA.09 Gebrek aan kwaliteit van het toezicht op organisaties 
+Beschrijving risicoscenario 
+Toelating en toezicht is gericht op het borgen dat luchtvaartorganisaties voldoen aan de wet- en regelgeving. Het 
+voldoen aan wet- en regelgeving is een belangrijk aspect van veilige luchtvaart. Daarnaast dient het toezicht als 
+terugkoppelingsmechanisme naar beleid. Gebrek aan kwaliteit van toezicht kan zo bijdragen aan alle typen 
+ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan op basis van de beschikbare data niet worden bepaald. Uit de 
+systeemmonitor luchtvaartveiligheid blijkt dat verbeteringen van het toezicht in Nederland mogelijk zijn, maar dit is 
+niet te vertalen naar een kans per vlucht. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan op basis van de beschikbare data en referenties niet worden 
+bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Systeemmonitor luchtvaartveiligheid
+• Vliegbedrijven/vliegscholen/vliegclubs
+• Luchtverkeersleiding
+• Luchthavens en vliegvelden
+• Onderhoudsbedrijven
+• ILT
+• DGLM
+132 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.14 Beperkt kennisniveau over wetgeving en operationele risico’s in delen van de kleine luchtvaart 
+Beschrijving risicoscenario 
+Bij de operationele partijen in de kleine luchtvaart zijn grote verschillen in het kennisniveau van wetgeving en 
+operationele risico’s. Dat geldt ook voor het vliegtuigonderhoud. In de praktijk blijkt dat de partijen die betrokken 
+zijn bij de uitvoering van het onderhoud en de operatie niet altijd scherp hebben welke eisen geldig zijn. Hierdoor is 
+de luchtwaardigheid en operationele veiligheid misschien niet altijd voldoende geborgd. Dit kan bijdragen aan alle 
+typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• IenW
+• Vliegbedrijven/vliegscholen/vliegclubs
+• KNVvL
+• AOPA
+GA.15 Non-compliance door complexe wetgeving 
+Beschrijving risicoscenario 
+Als gevolg van de complexiteit van de regelgeving, en de voortdurende wijzigingen van de regelgeving, is het 
+vooral voor kleine luchtvaartorganisaties vaak lastig om volledig op de hoogte te zijn van de regelgeving. Hierdoor 
+bestaat het gevaar de een organisatie niet compliant is met de meest recente regelgeving, wat mogelijk kan leiden 
+tot onveilige vliegoperaties. Dit kan bijdragen aan ongevallen van het type ARC, CTOL, CFIT, LOG-G, LOC-I, LALT, 
+RE, USOS. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden 
+bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs
+• Onderhoudsbedrijven
+• ILT
+• EASA
+134 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.21 Gebrek aan coördinatie GA-piloten – luchtverkeersleiders in de nabijheid van een gecontroleerd deel van 
+het luchtruim 
+Beschrijving risicoscenario 
+Gebrek aan coördinatie tussen GA-piloten en luchtverkeersleiders in de nabijheid van een gecontroleerd deel van 
+het luchtruim kan leiden tot een luchtruimschending (zie GA.04) of kan direct leiden tot vliegtuigen die te dicht bij 
+elkaar komen. Dit kan uitmonden in een botsing in de lucht (MAC ongeval). 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Luchthavens en vliegvelden
+• Vliegbedrijven/vliegscholen/vliegclubs
+• KNVvL
+• AOPA
+• Luchtverkeersleiding
+GA.23 Geen radiocontact tussen vliegtuig en luchtverkeersleiding (b.v. door verkeerde frequentie invoer) 
+Beschrijving risicoscenario 
+Als er geen radiocontact is tussen een vliegtuig en de luchtverkeersleiding kan de piloot van het vliegtuig de intenties 
+niet kenbaar maken, en kan de luchtverkeersleiding geen informatie of adviezen of instructies geven aan de piloot. 
+Overige piloten die de radio uitluisteren kunnen zich geen mentaal beeld vormen van de positie en de intenties van 
+het vliegtuig zonder radiocontact. Dit kan leiden tot een MAC-ongeval. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs
+• Luchtverkeersleiding
+• KNVvL
+• AOPA
+136 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.27 Geen of beperkt omgevingsbewustzijn 
+Beschrijving risicoscenario 
+Gebrek aan omgevingsbewustzijn (lack of situational awareness) is een containerbegrip dat alle mogelijke situaties 
+beschrijft waarbij het mentale beeld dat een piloot heeft van de omgeving niet overeenkomt met de werkelijke 
+situatie. Dit kan zowel in de lucht als op de grond gebeuren. Dit kan bijdragen aan ongevallen van het type MAC, 
+CFIT, RAMP, RI. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze risicoschatting is 
+zeer onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs
+• Luchtverkeersleiding
+• KNVvL
+• AOPA
+GA.28 Desoriëntatie van vliegers 
+Beschrijving risicoscenario 
+Een gedesoriënteerde piloot heeft geen goed beeld van de positie of de stand van het vliegtuig. Desoriëntatie kan 
+verschillende oorzaken hebben. Een van de belangrijkste oorzaken is het wegvallen van visuele referenties zoals een 
+zichtbare horizon. Het onbedoeld binnenvliegen van een gebied met IMC zal snel tot desoriëntatie leiden, tenzij de 
+vlieger getraind is in instrumentvliegen. Ook psychische oorzaken zoals angstaanvallen of fysiologische oorzaken 
+zoals verstoring van het evenwichtsorgaan kunnen leiden tot desoriëntatie. Desoriëntatie met betrekking tot de 
+positie kan leiden tot MAC, CTOL, CFIT of RI ongevallen, desoriëntatie met betrekking tot de stand van het vliegtuig 
+kan leiden tot LOC-I. 
+Kans van optreden gevaar 
+Volgens de Australische ongevallenonderzoeksorganisatie ATSB is de kans dat een piloot op enig moment in de 
+carrière desoriëntatie ervaren 90 tot 100 procent. Hierbij is geen onderscheid gemaakt tussen commerciële ne 
+kleine luchtvaart. 
+Kans op een ongeval 
+Volgens de Australische ongevallenonderzoeksorganisatie ATSB speelt desoriëntatie een rol bij 6 tot 32 procent van 
+alle luchtvaartongevallen. Hierbij is geen onderscheid gemaakt tussen commerciële en kleine luchtvaart. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze risicoschatting is 
+onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs • ATSB. (2007). An overview of spatial disorientation as a
+• KNMI factor in aviation accidents and incidents, ATSB
+Transport Safety Investigation Report B2007/0063.
+• KNVvL
+Australian Transport Safety Bureau.
+• AOPA
+138 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.31 Geen goed functionerend communicatiekanaal tussen overheid en sector 
+Beschrijving risicoscenario 
+In de kleine luchtvaart is een grote behoefte aan betere communicatie van de overheid naar de gebruikers. De 
+communicatie naar de sector vanuit ILT wordt als matig ervaren. Gebruikers hebben moeite om de juiste informatie 
+te vinden. De informatiebehoefte van de gebruikers in de kleine luchtvaart wordt niet vervult met de website van 
+ILT. Er is ook beperkte communicatie tussen de sector en het Openbaar Ministerie waardoor men elkaar niet kent en 
+elkaars standpunten onvoldoende begrijpt. Dit is mogelijk een van de oorzaken van de beperkte meldingsbereidheid 
+in de kleine luchtvaart. Dit kan bijdragen aan alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• IenW
+• Openbaar ministerie
+• Provincies en gemeenten
+• Luchthaven en vliegscholen
+• Vliegbedrijven/vliegscholen/vliegclubs
+• AOPA
+• KNVvL
+GA.32 Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van zweefvliegclubs 
+Beschrijving risicoscenario 
+Op de luchtvaartkaart staan verschillende takken van luchtsport met een symbool op de kaart op de plekken waar 
+de betreffende luchtsport wordt beoefend. Ook in het AIP staat deze informatie. Veel luchtsporttoestellen zijn prima 
+te zien en de VFR basisregel ‘see and avoid’ is een primaire beheersmaatregel. Maar een specifiek gevaar schuilt in 
+de elementen die niet zijn te zien, of heel slecht. Een voorbeeld hiervan is een lierkabel die bij het zweefvliegen, 
+paragliding en deltavliegen wordt gebruikt. Het toestel dat aan de lierkabel omhoog wordt getrokken is vaak goed 
+zichtbaar, maar de lierkabel zeker niet. Het doorkruisen van deze gebieden door overig vliegverkeer kan leiden tot 
+een botsing van een vliegtuig met de lierkabel (MAC). 
+Kans van optreden gevaar 
+De OVV heeft in 2021 acht meldingen ontvangen over motorvliegtuigen die over of nabij luchtvaartterreinen vlogen, 
+terwijl daar op dat moment zweefvliegactiviteiten plaatsvonden. Bij sommige van deze voorvallen, die op zes 
+verschillende locaties plaatsvonden, was sprake van een (potentieel) gevaarlijke situatie (OVV 2022). De kans van 
+optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – catastrofaal. Deze risicoschatting is 
+onzeker. 
+Betrokken partijen Referenties 
+• OVV. (2022). Kwartaalrapportage luchtvaart, oktober –
+• KNVvL
+december 2021.
+• Vliegclubs
+• Vliegvelden
+• Luchtverkeersleiding
+140 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.35 Beperkte flight information services door DutchMil 
+Beschrijving risicoscenario 
+De Flight information services door Dutch Mil is soms beperkt. Een mogelijke oorzaak is tekort aan gekwalificeerd 
+personeel. Dutch Mil kan niet altijd antwoorden en kan niet altijd de service verlenen op het gebied van proactieve 
+veiligheidsbeheersing die door de gebruikers gewenst wordt. Dit kan leiden tot ongevallen van het type ARC, AMAN, 
+MAC, CFIT, LOC-I. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• LVNL
+• Dutch Mil
+• Vliegbedrijven/vliegscholen/vliegclubs
+GA.36 Ontbreken van een periodieke competentiecheck voor instructeurs 
+Beschrijving risicoscenario 
+Vlieginstructeurs (voor Light Aircraft Pilot License LAPL en Private Pilot License PPL) moeten volgens EASA-regels 
+periodiek een refresher cursus volgen om zijn/haar instructiebevoegdheid te behouden. Er zijn zorgen over de 
+frequentie en inhoud van deze cursussen. Vertegenwoordigers van de kleine luchtvaart zijn bezorgd dat de meest 
+recente inzichten en kennis bij te weinig gebruikers terecht komt. Dit kan bijdragen aan bijna alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs
+• ILT
+• KNVvL
+• AOPA
+142 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.40 Communicatieproblemen tussen luchtverkeersleiding en piloten 
+Beschrijving risicoscenario 
+Communicatieproblemen tussen luchtverkeersleiding en piloten kunnen resulteren in verschillende risicoscenario’s, 
+afhankelijk van het probleem en de vluchtfase. Vliegers kunnen bijvoorbeeld de klaring van een ander vliegtuig 
+overnemen en daardoor gaan starten, vliegers kunnen een klaring verkeerd begrepen hebben zonder dat de 
+verkeersleider dit opmerkt. Andere voorbeelden zijn een overbelaste frequentie, verkeerde radio frequentie 
+gebruikt, uitvallen van communicatie apparatuur etc. Dit kan leiden tot een MAC, een RI, een ARC of een RE. De 
+laatste twee hebben te maken met het geven of interpreteren van onjuiste informatie over wind en baangesteldheid. 
+Verkeersleiders zijn hier niet altijd direct verantwoordelijk voor aangezien ze vaak informatie van derden doorgeven. 
+Kans van optreden gevaar 
+Queries in de ABL dataset leverde aantal gevallen op waarin communicatieproblemen tussen de verkeersleiding en 
+vlieger werden gemeld. De frequentie van het aantal gemelde voorvallen is weergegeven in Figuur N.27. Tussen 2016 
+en 2018 lijkt er een redelijk stabiele frequentie van het aantal gemelde voorvallen. Vanaf 2019 is er een sterke 
+toename. De oorzaak is onduidelijk. De verkeervolumes zijn door de pandemie in 2020 juist veel lager waardoor 
+verwacht kan worden dat bepaalde communicatieproblemen minder vaak optreden. Vooralsnog worden de data van 
+-4 
+2016-2020 gebruikt om een frequentie te schatten. Deze is 4.9 per 10000 vluchten (4.9 x10 per vlucht. 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+2015 2016 2017 2018 2019 2020 2021
+Jaar
+Figuur N.27: Frequentie GA voorvallen met communicatieproblemen 
+Kans op een ongeval 
+Data uit de NLR air safety database laten zien dat wereldwijd 0.01% van communicatieproblemen resulteert in een 
+-4 -8
+ongeval. De kans op een ongeval is dus 0.01% x 4.9 x10 = 4.9x10 per vlucht. 
+Risico 
+Op basis van bovenstaande analyse wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Vliegbedrijven/vliegscholen/vliegclubs • ABL database
+• Luchtverkeersleiding • NLR air safety database
+144 
+Frequentie per 10000 vluchten
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.42 Gebrek aan onderdelen en ‘approved data’ voor oudere vliegtuigen 
+Beschrijving risicoscenario 
+Een deel van de vloot in de kleine luchtvaart bestaat uit vliegtuigen die relatief lang geleden zijn ontworpen en of 
+gebouwd. Het Nederlandse luchtvaartregister bevat ongeveer 140 luchtvaartuigen die vóór 1980 zijn ingeschreven 
+(status februari 2022). Daarbij is het mogelijk dat de oorspronkelijk ontwerper/bouwer van het vliegtuig niet meer 
+bestaat, dat onderdelen niet meer worden geproduceerd, of ‘approved data’ (bijvoorbeeld onderhoudshandboeken) 
+niet worden geactualiseerd. Door gebrek aan onderdelen en ‘approved data’ kunnen technische defecten optreden 
+en of niet tijdig worden ontdekt, wat kan leiden tot LOC-G of LOC-I ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• ILT
+• Onderhoudsbedrijven
+• Vliegbedrijven, vliegscholen en vliegclubs
+• Typecertificaathouders
+GA.44 Communicatieproblemen in de operatie als gevolg van gesproken en begrepen talen 
+Beschrijving risicoscenario 
+Het spreken van verschillende moedertalen is één van de factoren die kan bijdragen aan communicatieproblemen 
+tussen de luchtverkeersleiding en piloten of tussen piloten onderling. Hoewel de voertaal in de luchtvaart Engels is, 
+zijn niet alle piloten even taalvaardig. Dit kan leiden tot ongevallen van het type MAC, GCOL, ARC en RI. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtverkeersleidingsorganisaties
+• Vliegbedrijven, vliegscholen en vliegclubs
+• Luchthavens en vliegvelden
+• KNVvL
+• AOPA
+146 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+GA.48 Verminderd veiligheidsbewustzijn door uitbesteden van taken 
+Beschrijving risicoscenario 
+Veiligheidsbewustzijn betekent dat een individu of een collectief (een verzameling individuen binnen een entiteit) 
+zich bewust is van het effect van zijn/haar handelen op de veiligheid. Kleine luchtvaartorganisaties besteden vaak 
+taken uit omdat de organisatie niet over geschikt personeel en/of faciliteiten beschikt om bepaalde taken uit te 
+voeren. Vliegbedrijven besteden bijvoorbeeld vaak het onderhoud van vliegtuigen uit aan gespecialiseerde 
+onderhoudsbedrijven. Bij het uitbesteden van taken (via contracting of subcontracting) bestaat de kans dat de 
+opdrachtgevende partij zich minder bewust is van de veiligheidsissues die mogelijk relevant zijn voor de 
+gecontracteerde partij en vice versa. Dit kan bijdragen aan bijna alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Onderhoudsbedrijven
+• Vliegbedrijven, vliegscholen en vliegclubs
+• ILT
+148 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix N.3 Factsheets onbemande luchtvaart 
+OL.01 Vogelaanvaringen 
+Beschrijving risicoscenario 
+Wanneer een onbemand luchtvaartuig geraakt wordt door een vogel of meerdere vogels kan het dusdanige schade 
+oplopen dat het niet meer te besturen is of de bestuurder gedwongen wordt het onbemande luchtvaartuig een 
+noodlanding te laten maken. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – zeer groot. Deze risicoschatting is 
+onzeker. 
+Betrokken partijen Referenties 
+• Bestuurders van onbemande luchtvaartuigen
+• Vliegscholen voor onbemande luchtvaart
+• Belangenorganisaties voor onbemande
+luchtvaart
+OL.3 Onvoldoende separatie tussen onbemande luchtvaartuigen en 
+andere luchtruimgebruikers (inclusief andere onbemande 
+luchtvaartuigen) 
+Beschrijving risicoscenario 
+Onvoldoende separatie tussen onbemande luchtvaartuigen en andere luchtruimgebruikers is een potentieel risico 
+voor de veiligheid van het luchtverkeer voor zowel recreatieve vluchten als voor commercieel verkeer. Ze kunnen 
+leiden tot AMAN en MAC ongevallen. 
+Kans van optreden gevaar 
+Het Commando Luchtstrijdkrachten (CLSK) monitort droneactiviteiten in de omgeving van een aantal luchthavens in 
+Nederland. In de Control Zones (CTRs) van Schiphol en Eindhoven zijn in drie weken in 2021 in totaal 1580 
+dronebewegingen gedetecteerd, waarvan 766 in de CTR Schiphol en 814 in de CTR Eindhoven. Bij 21% van deze 
+dronebewegingen werd hoger gevlogen dan 120 m. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – zeer groot. Deze risicoschatting is 
+zeer onzeker. 
+Betrokken partijen Referenties 
+• Luchtverkeersleiding • CLSK dronedetectiedata
+• Operator onbemande luchtvaartuigen
+• Luchtvaartmaatschappijen
+150 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+OL.06 Gebrek aan kwaliteit van het toezicht op organisaties en individuen (specifiek en gecertificeerde categorie) 
+Beschrijving risicoscenario 
+Toelating en toezicht is gericht op het borgen dat luchtvaartorganisaties voldoen aan de wet- en regelgeving. Het 
+voldoen aan wet- en regelgeving is een belangrijk aspect van veilige luchtvaart. Daarnaast dient het toezicht als 
+terugkoppelingsmechanisme naar beleid en vergunningverlening. Gebrek aan kwaliteit van toezicht kan zo bijdragen 
+aan alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan op basis van de beschikbare data niet worden bepaald. Uit de 
+systeemmonitor luchtvaartveiligheid blijkt dat verbeteringen in het toezicht in Nederland mogelijk zijn, maar dit is 
+niet te vertalen naar een kans per vlucht. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• ILT • Ministerie van Infrastructuur en Waterstaat (2021)
+• RDW Systeemmonitor luchtvaartveiligheid, Peildatum 1
+januari 2021, Eerste editie.
+OL.08 Suboptimale U-SPACE dienstverlening als gevolg van onervaren sector 
+Beschrijving risicoscenario 
+U-space is het verkeersleidingsysteem voor drones dat bestaat uit services/diensten die worden aangeboden en een
+set aan afspraken, protocollen, communicatiemiddelen en standaarden die er gezamenlijk voor moeten zorgen dat
+de groei van het onbemande luchtverkeer in de toekomst ordentelijk gaat verlopen. In de Luchtvaartnota voor
+2020-2050 worden drones meermalen genoemd en wordt aangegeven dat de Rijksoverheid innovatie rondom
+drones in het luchtruim stimuleert. Na publicatie van nieuwe EC-regelgeving zal het Ministerie van IenW de nodige
+activiteiten in gang zetten om deze uit te rollen en te komen tot operationele initiële U-space in 2025, rekening
+houdend met de resultaten van Europese onderzoeksprojecten en het Europese voorstel voor een operationeel
+concept, CORUS.
+U-Space is in eerste instantie voorzien op lagere hoogte in luchtruim met weinig tot geen bemand verkeer. Dat
+betekent betrokkenheid van provincies en gemeenten. In principe is het mogelijk voor bijvoorbeeld gemeenten om
+zich te registreren als U-Space Service Provider, mits aan de certificatie eisen voldaan wordt. Voor de technische
+uitvoering zou dan gebruik gemaakt kunnen worden van software leveranciers van U-Space systemen. Onduidelijk is
+nog hoe de veiligheid gegarandeerd kan blijven en hoe het toezicht voor dergelijke constructies ingericht kan
+worden.
+Suboptimale U-SPACE dienstverlening als gevolg van onervaren sector kan er toe leiden dat de onderlinge afstand 
+tussen onbemande luchtvaartuigen en tussen onbemande luchtvaartuigen en overige luchtvaartuigen onvoldoende 
+wordt bewaakt, wat zou kunnen leiden tot mid-air collision. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• LVNL • NLR. (2020). Projectplan 2021 - 2025 voor
+implementatie U-space in Nederland. NLR-TR-2020-249.
+• Min IenW
+• Aspirant U-space dienstverleners
+152 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+OL.10 Operators van onbemande luchtvaartuigen in de open categorie zijn onvoldoende op de hoogte van de op 
+de operatie van toepassing zijnde regelgeving en procedurevereisten 
+Beschrijving risicoscenario 
+Een operator van een onbemand luchtvaartuig kan ‘de weg kwijt raken’ in alle verschillende nationale en 
+internationale documenten en richtlijnen. Omdat zaken nog steeds veranderen is de geldigheid van de documenten 
+niet altijd evident. Wat is geldig/ relevant voor een specifieke operatie, hoe en waar kan een operator dat vinden? 
+De versnippering van dergelijke informatie is een gevaar. Een gevolg van het onvoldoende op de hoogte zijn van de 
+op de operatie van toepassing zijnde regelgeving en procedurevereisten kan zijn dat er bedoeld of onbedoeld buiten 
+de regels wordt gevlogen. Iedereen kan een drone kopen die qua prestaties meer kan dan de regelgeving voor de 
+open categorie toestaat. Als dan de regels niet voldoende bekend zijn, kan dat leiden tot ongevallen van het type 
+MAC. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als mogelijk – zeer groot. Deze risicoschatting is 
+onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Operators van onbemande luchtvaartuigen
+• Belangenorganisaties voor onbemande
+luchtvaart
+• Vliegscholen voor onbemande luchtvaart
+OL.11 Testen en experimenteren in de onbemande luchtvaart gebeurt buiten het zicht van autoriteiten 
+Beschrijving risicoscenario 
+Bedrijven die opereren met onbemande vliegtuigen zwaarder dan 150 kg ervaren weinig mogelijkheden voor 
+innovaties en testen. De nieuwe Europese regelgeving is lastig toe te passen voor testcentra. Bedrijven lopen tegen 
+beperkingen aan, terwijl de kosten hoog zijn. Het gevaar bestaat dat bedrijven en hierdoor, al dan niet met opzet, 
+buiten het zicht van de autoriteiten en/of in afwijking van de regels gaan testen en experimenteren. Dit kan leiden 
+tot ongevallen van het type AMAN, ARC, MAC, CTOL, CFIT, LOC-I en LALT. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Operators van onbemande luchtvaartuigen
+• Belangenorganisaties voor onbemande luchtvaart
+154 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+OL.14 Beperkt zicht op uitvoering operaties in de open categorie 
+Beschrijving risicoscenario 
+Sinds 31 december 2020 gelden Europese regels voor het vliegen met onbemande luchtvaartuigen. ILT is voor de 
+open categorie niet direct betrokken bij vergunningverlening en toezicht. Toegang tot de open categorie verloopt via 
+een online kennistest. Wanneer deze met goed gevolg is wordt door de RDW een Bewijs van voltooiing verkregen. 
+Dit bewijs geldt ook in andere EU landen en is vijf jaar geldig. Dit bewijs is voldoende om te mogen vliegen in de 
+subcategorieën A1 en A3. Om met zwaardere drones en dichterbij mensen te mogen vliegen is een aanvullende 
+schriftelijke toets nodig bij een erkend opleidingsinstituut en een verklaring dat een praktische zelfopleiding is 
+voltooid. In dat geval verstrekt de RDW een Vaardigheidsbewijs, dat ook vijf jaar geldig is. Omdat in de open 
+categorie geen vluchtvergunning van de ILT vereist is, is de politie de handhaver. 
+Omdat ILT niet direct betrokken is bij vergunningverlening, toezicht en handhaving van operaties in de open 
+categorie heeft ILT daar ook maar een beperkt zicht op. ILT is wel betrokken bij vergunningverlening, toezicht en 
+handhaving van operaties in de specifieke en gecertificeerde categorie, maar kan dus niet direct een koppeling 
+maken tussen risico’s en risicobeheersing in die categorieën en de open categorie. Dit kan bijdragen aan vrijwel alle 
+soorten ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – zeer groot. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• ILT • Uitvoeringsverordening (EU) 2019/947 van de
+• RDW Commissie van 24 mei 2019 inzake de regels en
+procedures voor de exploitatie van onbemande
+• Politie
+luchtvaartuigen.
+• Bestuurders van onbemande luchtvaartuigen in
+de open categorie
+OL.15 Luchtruimschending met een onbemand luchtvaartuig (militair en civiel) 
+Beschrijving risicoscenario 
+Luchtruimschendingen door onbemande luchtvaartuigen zijn een risico voor de veiligheid van bemand militair en 
+civiel luchtverkeer. Ze kunnen leiden tot MAC ongevallen. 
+Kans van optreden gevaar 
+Het Commando Luchtstrijdkrachten (CLSK) monitort droneactiviteiten in de omgeving van een aantal luchthavens 
+in Nederland. In de Control Zones (CTRs) van Schiphol en Eindhoven zijn in drie weken in 2021 in totaal 1580 
+dronebewegingen gedetecteerd, waarvan 766 in de CTR Schiphol en 814 in de CTR Eindhoven. Bij 21% van deze 
+dronebewegingen werd hoger gevlogen dan 120 m. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden 
+bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• CLSK
+• Min IenW
+• Operators van onbemande luchtvaartuigen
+• Belangenorganisaties voor onbemande
+luchtvaart
+• Politie
+• Vliegscholen voor onbemande luchtvaart
+156 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+OL.18 De kwaliteit van de uitvoering van een SORA is onvoldoende als gevolg van de complexiteit 
+Beschrijving risicoscenario 
+Het uitvoeren van een Specific Operations Risk Assessment (SORA) vergt enige kennis op het gebied van techniek, 
+operaties, risicoanalyse en het bijbehorende begrippenkader. Vooral bij kleinere organisaties is die kennis soms 
+beperkt aanwezig en wordt de beschikbare documentatie over hoe een SORA uitgevoerd moet worden als 
+onvoldoende ervaren. Het is daardoor voor kleine organisaties moeilijk om de SORA correct uit te voeren. Dit kan 
+leiden tot verkeerde uitvoering van de SORA en verkeerde resultaten. Dit kan bijdragen aan vrijwel alle soorten 
+ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW • EASA. (2019). Acceptable Means of Compliance (AMC)
+And Guidance Material (GM) to Commission
+• Operators van onbemande luchtvaartuigen
+Implementing Regulation (EU) 2019/947, Issue 1 9,
+• Belangenorganisaties voor onbemande
+October 2019.
+luchtvaart
+OL.19 Extreme weersomstandigheden (inclusief blikseminslag) 
+Beschrijving risicoscenario 
+Door extreme weersomstandigheden, zoals sterke wind en turbulentie, hevige neerslag of onweer kan een 
+onbemand luchtvaartuig onbestuurbaar raken. Dit kan leiden tot AMAN, LOC-I of USOS ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Bestuurders van onbemande luchtvaartuigen.
+• KNMI
+• Vliegscholen voor onbemande luchtvaart
+158 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+.OL.22 Verlies van communicatie /besturing van het onbemand luchtvaartuig 
+Beschrijving risicoscenario 
+Wanneer de verbinding tussen het onbemande vliegtuig en de bestuurder op de grond wegvalt is de bestuurder niet 
+meer in staat het onbemande luchtvaartuig te besturen. Vanaf 1 januari 2023 moeten drones in de open categorie 
+zijn voorzien van een CE-label. C1 t/m C4 geclassificeerde drones zijn voorzien van een lost link procedure, die er 
+voor moet zorgen dat het toestel bij wegvallen van de radioverbinding zelf terugvliegt. Verlies van communicatie kan 
+leiden tot MAC en LOC-I ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Fabrikanten van onbemande luchtvaartuigen
+• ILT
+• Operators van onbemande luchtvaartuigen
+• Vliegscholen voor onbemande luchtvaart
+OL.24 Verminderd veiligheidsbewustzijn door uitbesteden van taken 
+Beschrijving risicoscenario 
+Veiligheidsbewustzijn betekent dat een individu of een collectief (een verzameling individuen binnen een entiteit) 
+zich bewust is van het effect van zijn/haar handelen op de veiligheid. Operators van onbemande luchtvaartuigen 
+kunnen taken uitbesteden omdat het individu of de organisatie niet over geschikt personeel en/of faciliteiten 
+beschikt om bepaalde taken uit te voeren. Bij het uitbesteden van taken (via contracting of subcontracting) bestaat 
+de kans dat de opdrachtgevende partij zich minder bewust is van de veiligheidsissues die mogelijk relevant zijn voor 
+de gecontracteerde partij en vice versa. Dit kan bijdragen aan vrijwel alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Fabrikanten van onbemande luchtvaartuigen
+• ILT
+• Operators van onbemande luchtvaartuigen
+• Vliegscholen voor onbemande luchtvaart
+160 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+F.20 De kwaliteit en leerpunten van de opleidingen in de open categorie is beperkt
+Beschrijving risicoscenario 
+Veel van deze opleidingen worden via internet gedaan en beperken zich tot theorie. Een certificaat behaald in 
+andere EU landen is ook geldig in Nederland. Dat kan leiden tot ongewenste situaties. Beperkte invulling van 
+opleiding en training kan leiden tot beperkte kennis voor een veilige vliegoperatie bij bestuurders van onbemande 
+luchtvaartuigen in de open categorie. Dit kan bijdragen aan vrijwel alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• RDW
+• Vliegscholen voor onbemande luchtvaart
+• Belangenorganisaties voor onbemande
+luchtvaart
+F.21 Te veel eisen aan opleiding en trainingen in de open categorie kan de bereidheid tot het volgen daarvan
+ondermijnen 
+Beschrijving risicoscenario 
+Te veel eisen aan opleidingen en trainingen kan er toe leiden dat kandidaten afhaken voordat de opleiding is 
+afgerond of niet eens aan de opleiding gaan beginnen terwijl ze toch met onbemande luchtvaartuigen in de open 
+categorie gaan vliegen Dit kan ertoe leiden dat drone bezitters gaan vliegen zonder de juiste training te hebben 
+gevolgd, wat kan bijdragen aan vrijwel alle typen ongevallen. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• RDW
+• Vliegscholen voor onbemande luchtvaart
+• Belangenorganisaties voor onbemande
+luchtvaart
+162 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+C-NL.03 Onvoldoende (kwaliteit) toezicht
+Beschrijving risicoscenario 
+Vanuit de luchtvaartwet BES is ILT toezichthouder op de luchtvaartterreinen en verantwoordelijk voor certificering 
+van deze terreinen op inrichting, uitrusting, gebruik en het hebben van een veiligheidssysteem. Daarnaast is ILT 
+toezichthouder op het KNMI (Koninklijk Nederlands Meteorologisch Instituut) als aangewezen 
+luchtvaartmeteorologische dienstverlener voor Caribisch Nederland. Luchtverkeersleidingsdiensten in Caribisch 
+Nederland worden verzorgd door Curacao en St. Maarten. Dat zijn aparte landen, en het toezicht op die 
+luchtverkeersleidingsdiensten wordt door die landen uitgevoerd. ILT is daarvan afhankelijk. Voor de samenwerking 
+tussen ILT en Curacao is er geen formele overeenkomst. ILT heeft dus geen mandaat om op te treden bij 
+geconstateerde tekortkomingen in het toezicht op de luchtverkeersleiding. 
+Toelating en toezicht is gericht op het borgen dat luchtvaartorganisaties voldoen aan de wet- en regelgeving. Het 
+voldoen aan wet- en regelgeving is een belangrijk aspect van veilige luchtvaart. Daarnaast dient het toezicht als 
+terugkoppelingsmechanisme naar beleid. Gebrek aan kwaliteit van toezicht kan zo bijdragen aan alle typen 
+ongevallen. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Lokaal bestuur
+• CCAA
+C-NL.04 Regelgeving en beleid van de rijksoverheid houdt te weinig rekening met de speciale karakteristieken
+van Caribisch Nederland 
+Beschrijving risicoscenario 
+Nederland draagt zorg voor een juiste doorwerking van de ICAO-verplichtingen in de Luchtvaartwet BES en de 
+daaronder hangende lagere regelgeving (algemene maatregelen van bestuur en ministeriële regelingen). 
+Daarnaast zijn bepaalde delen van de Wet luchtvaart en de daaronder hangende regelgeving ook van toepassing in 
+Caribisch Nederland en zijn enkele EU-verordeningen in nationale regelgeving van overeenkomstige toepassing 
+verklaard in Caribisch Nederland. De bevoegdheden van toezichthouders in Caribisch Nederland zijn vastgelegd in 
+de Luchtvaartwet BES. Omdat de luchtvaart in Caribisch Nederland een relatief klein volume heeft en geografisch 
+ver verwijderd is van Europa wordt in beleid en regelgeving zelden rekening gehouden met de specifieke 
+karakteristieken van Caribisch Nederland. Hierdoor worden specifieke gevaren mogelijk onvoldoende afgedekt 
+met regelgeving, wat kan leiden tot ongevallen in de categorieën ARC, AMAN, MAC, CTOL, F-NI, GCOL, RAMP, LOC-
+G, LOC-I, RE, RI en USOS. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze risicoschatting is 
+zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Lokaal bestuur
+164 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+C-NL.08 Runway conflict als gevolg van een baankruising
+Beschrijving risicoscenario 
+De configuratie van drie luchthavens is zodanig dat baankruisingen niet mogelijk zijn. Er zijn wel conflicten mogelijk 
+doordat een vliegtuig de baan oprijdt terwijl een ander vliegtuig bezig is met een start of landing (RI). 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is vrij zeker. 
+Betrokken partijen Referenties 
+• Luchthavens
+• Luchtvaartmaatschappijen
+• Luchtverkeersleiding
+C-NL.09 Er is geen aangewezen Search And Rescue (SAR)
+Beschrijving risicoscenario 
+Er bestaat op de BES-eilanden geen aangewezen Search and Rescue (SAR) organisatie, waardoor onvoldoende is 
+geborgd dat bij een luchtvaartongeval op zee hulp adequaat kan worden geboden. Er is wel een 
+luchthavenbrandweer, maar die kan alleen op land handelend optreden Omdat bij de BES-eilanden de kans groot is 
+dat bij een vliegtuigongeval het vliegtuig in zee terecht komt is een adequate SAR-organisatie van levensbelang. 
+Afwezigheid van een aangewezen SAR-organisatie leidt niet tot ongevallen, maar leidt wel tot grotere gevolgen 
+(meer slachtoffers) na een ongeval. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Lokaal bestuur
+• Luchthavens
+• Kustwacht
+166 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+C-NL.12 Luchtvaartsector Caribisch Nederland is dermate klein dat vitale diensten niet gesitueerd zijn op de
+eilanden en door andere landen moeten worden geleverd 
+Beschrijving risicoscenario 
+Omdat BES eilanden klein zijn en weinig bewoners hebben, is er een gebrek aan voldoende opgeleide mensen en 
+middelen. Vitale diensten, zoals toezicht, luchtverkeersleiding en SAR moeten door andere landen of door 
+Europees Nederland geleverd worden. De hiervoor beoogde coördinatie en samenwerking is niet altijd goed 
+geregeld. Ook bij goede bestaande afspraken vormen interfaces een mogelijke bron van veiligheidsrisico’s. Dit kan 
+leiden tot ongevallen in de categorieën ARC, AMAN, MAC, CTOL, F-NI, GCOL, RAMP, LOC-G, LOC-I, RE, RI en USOS. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min Ien W
+• Lokaal bestuur
+• Luchthavens
+• DC-ANSP
+• CCAA
+C-NL.13 Extreme weersomstandigheden (inclusief orkanen)
+Beschrijving risicoscenario 
+Extreme weersomstandigheden (harde wind, grote hoeveelheden neerslag) kunnen het luchtverkeer hinderen. Dat 
+kan leiden tot ongevallen van het type ARC, LOC-I en RE. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Meteorologische dienstverleners
+• Lokaal bestuur
+• Luchthavens
+• Luchtvaartmaatschappijen
+168 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+C-NL.16 Beperkte kennis regelgeving lokale autoriteiten 
+Beschrijving risicoscenario 
+Lokale autoriteiten zijn niet volledig op de hoogte van de bestaande luchtvaartregelgeving. Hierdoor wordt soms 
+afgeweken van de bestaande procedures of wordt niet ingegrepen als er in strijd met de regelgeving wordt 
+gehandeld. Dit kan leiden tot ongevallen in de categorieën ARC, AMAN, MAC, CTOL, F-NI, GCOL, RAMP, LOC-G, LOC-
+I, RE, RI en USOS. 
+ 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar  
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald.  
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald.  
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+ 
+• Min IenW 
+• Lokaal bestuur 
+ 
+C-NL.17 Beperkte kennis regelgeving toeristen inzake drone operaties 
+Beschrijving risicoscenario 
+Doordat toeristen vaak niet op de hoogte zijn van de regelgeving voor het vliegen met drones kunnen drones in 
+botsing komen met vliegtuigen. Ook kunnen vogelgroepen worden verstoord (bijvoorbeeld flamingo’s op Bonaire) 
+die vervolgens in botsing kunnen komen met vliegtuigen. Dit kan leiden tot LOC-I ongevallen. 
+ 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar  
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald.  
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald.  
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+ 
+• Min IenW 
+• Lokaal bestuur 
+ 
+  
+170 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+C-NL.21 Valwinden bij dronegebruik op stranden
+Beschrijving risicoscenario 
+Door valwinden kunnen dronebestuurders de controle over de drone verliezen. Hierdoor is het mogelijk dat de drone 
+in botsing komt met personen op het strand. 
+Dit scenario is van toepassing op Bonaire. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – zeer groot. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Lokaal bestuur
+• Operators van onbemande luchtvaartuigen
+C-NL.22 Cultuurverschillen tussen locals en directheid van Nederlanders
+Beschrijving risicoscenario 
+Bewoners van de eilanden kennen elkaar vaak goed en zijn minder geneigd elkaar aan te spreken op gedrag dan 
+Europese Nederlanders. Deze en andere cultuurverschillen tussen lokale medewerkers op de luchthaven en 
+medewerkers ‘van buiten’ (andere Caribische eilanden of Europees Nederland) kunnen leiden tot onderling onbegrip 
+en samenwerkingsproblemen waardoor bestaande procedures niet worden gevolgd. Dit kan leiden tot vrijwel alle 
+ongevalstypen. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Luchtvaartmaatschappijen
+• Luchthavens
+• Grondafhandelaars
+• Lokaal bestuur
+172 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+C-NL.25 Emergency plannen niet goed uitgerold en niet goed afgestemd tussen verschillende diensten
+Beschrijving risicoscenario 
+Buiten de normale reacties van hulpdiensten (politie, brandweer ambulance) is er vrijwel niets geregeld voor 
+handelingen onmiddellijk na een ongeval. Het gaat daarbij om zaken als opvang van slachtoffers, assistentie aan 
+naaste familie, zekerstellen van bewijsmateriaal, etc. Er is ook geen regelgeving voor ongevallenonderzoek op de 
+BES-eilanden. Afwezigheid van adequate noodplannen leidt niet direct tot ongevallen, maar leidt wel tot mogelijk 
+grotere gevolgen (meer slachtoffers) na een ongeval. Door onvolledig ongevallenonderzoek worden risico’s 
+onvoldoende geïdentificeerd, waardoor deze ook niet kunnen worden beheerst. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als onwaarschijnlijk – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Lokaal bestuur
+• Luchthavens
+• OVV
+C-NL.26 Veel ontheffingen nodig om continuïteit te waarborgen, regels worden anders toegepast
+Beschrijving risicoscenario 
+Luchtvervoer is voor de BES-eilanden een basisbehoefte. Omdat het luchtvervoer essentieel is voor de eilanden 
+heeft uitvallen van het luchtvervoer andere gevolgen dan in Nederland. Bijvoorbeeld met betrekking tot de 
+beschikbaarheid van medische goederen. Daarom worden relatief veel ontheffingen toegepast om het luchtvervoer 
+gaande te houden. Dit kan leiden tot veiligheidserosie. Relevante ongevalstypen zijn ARC, AMAN, MAC, CTOL, F-NI, 
+GCOL, RAMP, LOC-G, LOC-I, RE, RI en USOS. 
+Dit scenario is van toepassing op Bonaire, Saba en St. Eustatius. 
+Kans van optreden gevaar 
+De kans van optreden van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Kans op een ongeval 
+De kans op een ongeval als gevolg van het gevaar kan met de beschikbare data en referenties niet worden bepaald. 
+Risico 
+Op basis van expert mening wordt het risico (kans – ernst) geschat als verwaarloosbaar – catastrofaal. Deze 
+risicoschatting is zeer onzeker. 
+Betrokken partijen Referenties 
+• Min IenW
+• Lokaal bestuur
+174 
+
+Expert 9
+Expert 8
+Expet 7
+Expert 6
+Expert 5
+Expert 4
+Expert 3
+Expert 2
+Expert 1
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix O Risicobeoordeling 
+Appendix O.1 Resultaten puntentoekenning 
+Appendix O.1.1 Commerciële luchtvaart 
+Id Naam ScoreScoreScoreScoreScoreScoreScoreScoreScore Totaal
+COM.01 Vogelaanvaringen 30 15 30 15 50 50 40 35 5 270
+COM.62 Toenemende commerciële, onbemande 
+luchtvaartactiviteiten 30 20 30 10 50 30 30 10 210
+COM.14 Luchtruimschending kleine luchtvaart / 
+onbemande luchtvaart 30 50 5 10 10 20 30 15 170
+COM.20 Gebrek aan kwaliteit van het toezicht op 
+organisaties 15 20 10 15 30 30 35 5 160
+COM.88 Werkdruk bij huidige personeel door moeite met 
+het aantrekken van voldoende gekwalificeerd 
+personeel 5 20 50 30 30 5 140
+COM.21 Gebrek aan, en onderhouden van just culture 
+(inclusief grondafhandeling en nieuw personeel)
+30 30 10 10 20 30 5 135
+COM.65 Unruly passengers 15 10 10 20 30 30 10 125
+COM.27 Conflicterende luchtruimbehoefte (civiel, 
+militair, algemeen) 30 20 35 10 95
+COM.28 Complex en versnipperd Nederland luchtruim. 30 10 35 15 90
+COM.34 Runway conflict als gevolg van een baankruising 15 50 5 10 80
+COM.03 Conflicterend verkeer tijdens de pushback. 15 50 10 75
+COM.26 Het uitblijven van formeel toezicht op 
+grondafhandelaren. 10 15 5 15 5 50
+COM.61 Druk op lage turn-around tijd 20 30 50
+COM.56 Brandrisico door elektrische voertuigen op de 
+luchthaven 30 10 40
+COM.29 Hoge verkeersdrukte vliegverkeer boven 
+Noordzee 10 30 40
+COM.59 Beperkte regulering op aantallen vluchten in de 
+kleine luchtvaart 30 5 35
+COM.57 Incompliance als gevolg van teveel wet- en 
+regelgeving 15 10 10 35
+COM.12 Laseraanstraling 20 10 5 35
+COM.17 Het identificeren van risico's uit meldingen is niet 
+mogelijk of niet volledig 15 15 30
+COM.58 Incompliance door conflicterende wet- en 
+regelgeving 10 5 10 25
+COM.46 Onstabiele nadering 10 10 5 25
+COM.39 FOD op de start/landingsbaan. 20 5 25
+COM.63 Botsingen van grondvoertuigen met vliegtuigen 20 5 25
+COM.47 Te hoge staartwind 10 10 20
+COM.69 Toenemende drukte op de grond en in de lucht na 
+Corona 15 5 20
+COM.82 GA piloot wijkt af van vertrek of naderingsroute 5 10 5 20
+176 
+
+Expert 10
+Expert 9
+Expert 8
+Expert 7
+Expert 6
+Expert 5
+Expert 4
+Expert 3
+Expert 2
+Expert 1
+NLR-CR-2022-040-PT-1  |  juni 2022 
+ 
+ 
+ 
+ 
+Appendix O.1.2 Kleine luchtvaart 
+Id Naam Score Score Score Score Score Score Score Score Score Score Totaal
+GA.25 Geen goede vluchtvoorbereiding 50 10 5 13 5 30 25 10 45 193
+GA.12 Complex en versnipperd Nederland 
+luchtruim.
+25 25 5 13 20 50 10 10 30 188
+GA.32 Laag vliegende motorvliegtuigen in de 
+nabijheid van de lierbanen van 10 10 17 7 50 40 25 159
+zweefvliegclubs.
+GA.03 Onvoldoende separatie tussen 
+vliegtuigen (inclusief gevolg zog 25 20 15 3 20 50 133
+turbulentie)
+GA.27 Geen of beperkt omgevingsbewustzijn 5 5 7 5 30 35 20 107
+GA.29 Geringe vliegervaring piloten in de kleine 
+25 5 5 5 20 30 5 10 105
+luchtvaart
+GA.08 Het identificeren van gevaren en risico's 
+uit meldingen is niet mogelijk of niet 50 10 2 13 5 10 10 100
+volledig.
+GA.15 Non compliance door complexe 
+25 5 2 8 10 15 20 15 100
+wetgeving
+GA.35 Beperkte flight information services door 
+5 10 10 7 20 35 10 97
+Dutch-MIL
+GA.04 Luchtruimschending kleine luchtvaart / 
+5 5 15 14 25 20 10 94
+onbemande luchtvaart
+GA.06 Gebruik van ongecontroleerde informatie 
+via smartphone of tablet door piloot 
+20 5 3 5 10 20 20 10 93
+tijdens de vluchtvoorbereiding en de 
+vlucht
+GA.09 Gebrek aan kwaliteit van het toezicht op 
+10 2 10 5 50 10 5 92
+organisaties.
+GA.33 Onleesbare NOTAMS. 10 5 10 7 25 10 20 87
+GA.13 Beperkt kennisniveau over operationele 
+luchtvaart bij beleidsmakers op lager 5 5 10 5 5 40 70
+bestuurlijk niveau. 
+GA.23 Geen radiocontact tussen vliegtuig en 
+luchtverkeersleiding (bv door verkeerde 5 2 7 6 50 70
+frequentie invoer)
+GA.14 Beperkt kennisniveau over wetgeving en 
+operationele risico’s in delen van de 10 5 7 20 4 20 66
+kleine luchtvaart.
+GA.30 Beperkte borging van veiligheid aan de 
+voorkant van besluiten op lager 25 10 2 2 5 5 10 59
+gemeentelijk niveau.
+GA.48 Verminderd veiligheidsbewustzijn door 
+0 2 2 2 10 10 30 56
+uitbesteden van taken.
+GA.34 Niet optimale samenwerking 
+luchtverkeersleiders en GA piloten op 5 10 3 5 30 53
+Lelystad airport
+GA.01 Vogelaanvaringen 10 20 13 5 1 49
+ 
+  
+178 
+
+Expert 12
+Expert 11
+Expert 10
+Expert 9
+Expert 8
+Expert 7
+Expert 6
+Expert 5
+Expert 4
+Expert 3
+Expert 2
+Expert 1
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix O.1.3 Onbemande luchtvaart 
+Id Naam ScoreScoreScoreScoreScoreScoreScoreScoreScoreScoreScoreScore Totaa
+OL.03 Onvoldoende separatie tussen 
+onbemande luchtvaartuigen en andere 
+12 15 30 3 10 20 30 10 42 10 35 217
+luchtruimgebruikers (inclusief andere 
+onbemande luchtvaartuigen)
+OL.15 Luchtruimschending met een onbemand 
+luchtvaartuig (militair en civiel) 9 13 45 10 20 20 20 12 30 17 10 10 216
+OL.14 Beperkt zicht op uitvoering operaties in 
+8 15 20 10 10 20 40 13 30 13 10 5 194
+de open categorie.
+OL.10 Operators van onbemande 
+luchtvaartuigen in de open categorie zijn 
+onvoldoende op de hoogte van de op de 8 15 15 9 5 25 20 25 20 10 20 20 192
+operatie van toepassing zijnde 
+regelgeving en procedurevereisten
+OL.25 Verlies (loss-of-control, fly-away) van 
+onbemande luchtvaartuigen door 10 5 10 10 5 15 40 13 40 17 0 20 185
+technische falen
+OL.17 Verlies (loss-of-control, fly-away) van 
+onbemande luchtvaartuigen door 9 8 10 10 5 20 40 5 30 13 10 10 170
+menselijke fouten.
+OL.22 Verlies van communicatie /besturing van 
+25 20 10 2 10 5 10 30 17 10 30 169
+het onbemand luchtvaartuig.
+OL.16 Onbemande luchtvaartuig operaties in de 
+nabijheid van kleine luchtvaartoperaties 5 8 20 6 5 5 30 10 30 17 10 20 166
+OL.08 Suboptimale U-SPACE dienstverlening als 
+13 13 2 10 20 0 20 5 10 30 5 128
+gevolg van onervaren sector
+OL.09 Trage implementatie van U-SPACE 
+5 5 0 10 20 0 15 20 10 30 5 120
+regelgeving
+OL.20 Beperkte risicoperceptie bij operators in 
+20 15 10 10 10 1 15 10 10 10 111
+de onbemande luchtvaart.
+OL.18 De kwaliteit van de uitvoering van een 
+SORA is onvoldoende als gevolg van de 7 5 20 30 5 5 10 8 5 10 0 105
+complexiteit
+OL.13 Door een gebrek aan centraal opgeslagen 
+operationele data van onbemande 
+3 5 3 10 10 5 10 17 10 30 103
+luchtvaartoperaties is risico management 
+suboptimaal
+F.5 Onduidelijke eisen voor 
+vergunningverlening met lange 6 6 2 30 20 5 8 3 10 5 95
+doorlooptijden bij de ILT.
+OL.05 Het identificeren van risico's uit 
+meldingen is niet mogelijk of niet 15 15 5 5 5 1 5 10 10 20 91
+volledig.
+180 
+
+Expert 3
+Expert 2
+Expert 1
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix O.1.4 Caribisch Nederland 
+Totaal
+Id Naam Score Score Score
+C-NL.01 Beheer en onderhoud van luchthavens niet op orde waardoor die 
+niet volledig in overeenstemming zijn of dreigen te zijn met ICAO 50 10 25 85
+Annex 14 'Aerodromes'
+C-NL.09 Er is geen dedicated Search And Rescue (SAR). 40 5 25 70
+C-NL.24 Beperkt niveau just culture 40 20 5 65
+C-NL.11 SMS systeem van luchtvaartorganisaties voldoet niet eisen ICAO 
+30 20 10 60
+Annex 19
+C-NL.05 Er wordt onvoldoende lering getrokken uit incidenten als gevolg 
+30 10 15 55
+van relatief weinig incidentmeldingen bij het ABL
+C-NL.02 Doorwerking ICAO richtlijnen in BES regelgeving is niet volledig 20 10 20 50
+C-NL.03 Onvoldoende (kwaliteit) toezicht 15 25 40
+C-NL.12 Luchtvaartsector Caribisch Nederland dermate klein, wat tot 
+gevolg heeft dat vitale diensten niet gesitueerd zijn op de 30 5 2 37
+eilanden en door andere landen moeten worden geleverd.
+C-NL.25 Emergency plannen niet goed uitgerold en niet goed afgestemd 
+10 15 10 35
+tussen verschillende diensten
+C-NL.10 Er is onvoldoende gekwalificeerd personeel beschikbaar 15 15 30
+C-NL.18 Toelating van airlines op Bonaire niet goed geregeld. 15 15 30
+C-NL.22 Cultuurverschillen tussen locals en directheid van Nederlanders
+20 3 23
+C-NL.04 Regelgeving en beleid van de rijksoverheid houdt te weinig 
+rekening met de speciale karakteristieken van Caribisch 5 15 20
+Nederland
+C-NL.14 Beperkte beschikbaarheid infrastructuur en diensten als gevolg 
+5 15 20
+van de nasleep van extreme weersomstandigheden
+C-NL.13 Extreme weersomstandigheden (inclusief orkanen) 10 10 20
+C-NL.17 Beperkte kennis regelgeving toeristen inzake drone operaties 10 10 20
+C-NL.16 Beperkte kennis regelgeving lokale autoriteiten 15 3 18
+C-NL.19 In besluiten worden andere onderwerpen dan veiligheid steeds 
+10 5 15
+belangrijker
+C-NL.07 Crosswind landingsbaan 5 5 10
+C-NL.23 Taalbarrière tussen lokaal personeel en Europese Nederlandse 
+10 10
+betrokkenen.
+C-NL.27 Beperkte kennis van medewerkers op en rond luchthaven als 
+10 10
+gevolg van seizoensarbeid.
+C-NL.15 Dieren, inclusief vogels in de nabijheid van luchthavens en 
+5 4 9
+vliegverkeer
+C-NL.21 Valwinden bij dronegebruik op stranden 5 3 8
+C-NL.08 Runway conflict als gevolg van een baankruising 5 5
+C-NL.26 Veel ontheffingen nodig om continuiteit te waarborgen, regels 
+5 5
+worden anders toegepast
+182 
+
+NLR-CR-2022-040-PT-1  |  juni 2022 
+Appendix P Afwijkingen uitvoering NVA ten 
+opzichte van het in de ‘Handleiding 
+NVA’ beschreven stappenplan. 
+Bij de uitvoering van de NVA is in een aantal stappen afgeweken van de werkwijze zoals deze in de handleiding NVA is 
+beschreven. De afwijkingen zijn het gevolg van voortschrijdend inzicht tijdens de uitvoering. Hierbij is het doel van de 
+NVA leidend. Hieronder volgt een overzicht van de afwijkingen.  
+Stap 1: Verzamelen eerste data 
+Uitgevoerd volgens de handleiding. 
+Stap 2: Gevaaridentificatie 
+Bij de identificatie van gevaren en de risicobeoordeling is geen gebruik gemaakt van inspectieresultaten van ILT omdat 
+deze gegevens niet op een werkbare manier beschikbaar konden worden gesteld. Bij ILT wordt gewerkt aan het 
+opzetten van een datawarehouse om de eigen gegevens beter te kunnen. Bij de uitvoering van een volgende NVA kan 
+daar mogelijk gebruik van worden gemaakt. 
+Voor identificatie van gevaren die specifiek zijn voor Caribisch Nederland is een extra brainstormsessie gehouden, die 
+niet in de handleiding is beschreven. Daarvoor is een klankbordgroep samengesteld die bestaat uit 
+vertegenwoordigers van DGLM, ILT en NLR. Dit is gedaan omdat er bij de uitvoering van de gevaaridentificatie volgens 
+de in de handleiding beschreven stappen vrijwel geen gevaren werden geïdentificeerd die specifiek zijn voor Caribisch 
+Nederland.  
+Stap 2 resulteert daarom in vier lijsten met gevaren (commerciële luchtvaart, kleine luchtvaart, onbemande luchtvaart 
+en Caribisch Nederland) in plaats van drie.  
+Stap 3: Risicoanalyse 
+Stap 3a: Opstellen risico-scenario’s 
+Risico-scenario’s zijn beschreven als een combinatie van gevaar en mogelijke ongevalscategorieën die het gevolg 
+kunnen zijn van het gevaar. Causale tussenstappen zijn niet beschreven. In de handleiding is beschreven dat het aantal 
+stappen van begin tot eind maximaal tien is. De scenariobeschrijving is beperkt tot twee stappen omdat veel van de 
+geïdentificeerde gevaren zo ver van de operatie staan dat het praktisch onmogelijk is om alle verschillende paden die 
+tot een ongeval kunnen leiden in kaart te brengen. Een typisch voorbeeld is het gevaar ‘Beperkt kennisniveau over 
+wetgeving en operationele risico’s in de onbemande luchtvaart’. Dit is een inherent gevolg van feit dat de NVA zich 
+richt op gevaren die niet op het niveau van een individuele organisatie zijn te beheersen. Bij het opstellen van de 
+handleiding was dit gevolg niet voorzien.  
+Stap 3d : Vaststellen van kans en effect 
+Het projectteam-NVA heeft voor de risicoscenario’s waarvoor voldoende informatie beschikbaar is kwantitatieve 
+schattingen gemaakt van de kans dat het gevaar optreedt en de kans dat een ongeval optreedt als gevolg van het 
+gevaar. Voor de effectschatting is dus de classificatie ‘ongeval’ gebruikt. Hoewel effectclassificatie niet expliciet in de 
+handleiding is beschreven wijkt deze werkwijze af van de meestal in risk assessment toegepast werkwijze. De reden is 
+het gegeven dat veel van de geïdentificeerde gevaren zover van de operatie staan, dat een klassieke inschatting in 
+termen van ernst van de gevolgen (catastrofaal, zeer groot, groot, klein, zeer klein) weinig zinvol is. Voor vrijwel alle 
+184 
+
+Koninklijke NLR - Nederlands 
+Lucht- en Ruimtevaartcentrum 
+Het onderzoekscentrum Koninklijke NLR werkt op objectieve en 
+onafhankelijke wijze met zijn partners aan een betere wereld van 
+morgen. NLR biedt daarbij innovatieve oplossingen en technische 
+expertise en zorgt voor een sterke concurrentiepositie van het 
+bedrijfsleven.
+NLR is ruim 100 jaar een kennisorganisatie met de 
+diepgewortelde wil om te blijven vernieuwen en zet zich in 
+voor een duurzame, veilige, efficiënte en effectieve lucht- 
+en ruimtevaart. 
+De combinatie van diepgaand inzicht in de klantbehoefte, 
+multidisciplinaire expertise en toonaangevende 
+onderzoeksfaciliteiten, maakt snel innoveren mogelijk. NLR 
+vormt in binnen- en buitenland de spilfunctie tussen 
+wetenschap, bedrijfsleven en overheid, en overbrugt de 
+kloof tussen fundamenteel onderzoek en toepassingen in de 
+praktijk. Daarnaast werkt NLR als Groot Technologisch 
+Instituut ruim tien jaar in de TO2-federatie samen aan 
+toegepast onderzoek in Nederland. 
+Vanuit de hoofdvestigingen in Amsterdam en Marknesse en 
+twee satellietvestigingen, draagt NLR bij aan een veilige en 
+duurzame maatschappij en werkt met partners in vele 
+(defensie)programma’s, onder andere aan complexe 
+composieten constructies voor verkeersvliegtuigen en aan 
+doelgericht gebruik van het F-35-jachtvliegtuig. Daarnaast 
+geeft NLR invulling aan Nederlandse en Europese 
+(klimaat)doelstellingen conform de Luchtvaartnota, de 
+European Green Deal, Flightpath 2050, en door deelname 
+aan programma’s zoals Clean Sky en SESAR. 
+Voor meer informatie bezoek: www.nlr.nl 
+Postal address Royal NLR 
+PO Box 90502 Anthony Fokkerweg 2 Voorsterweg 31 
+1006 BM  Amsterdam, The Netherlands 1059 CM  Amsterdam, The Netherlands 8316 PR  Marknesse, The Netherlands 
+e ) info@nlr.nl  i ) www.nlr.org p ) +31 88 511 3113 p ) +31 88 511 4444 
+Royal NLR - Netherlands Aerospace Centre Chamber of Commerce No. 41150373. VAT No.  NL002760551B01 
+

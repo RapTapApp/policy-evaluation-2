@@ -1,0 +1,1194 @@
+ 
+ 
+ 
+  
+NLR-CR-2021-485 | mei 2022 
+Methodiek voor het bepalen van 
+indicatoren en streefwaarden bij 
+nationale risicobeheersmaatregelen 
+voor de luchtvaartveiligheid 
+OPDRACHTGEVER:  Ministerie van Infrastructuur en Waterstaat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Koninklijke NLR - Nederlands Lucht- en Ruimtevaartcentrum 
+ 
+ 
+
+MANAGEMENTSAMENVATTING 
+ONGERUBRICEERD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NLR 
+Anthony Fokkerweg 2 
+ 
+1059 CM  Amsterdam 
+p ) +31 88 511 3113 
+e ) info@nlr.nl  i ) www.nlr.nl 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NLR-CR-2021-485  |  mei 2022 
+Niets uit dit rapport mag worden vermenigvuldigd en/of openbaar gemaakt, op welke wijze dan ook, zonder 
+voorafgaande schriftelijke toestemming van de eigenaar en/of opdrachtgever. 
+OPDRACHTGEVER Ministerie van Infrastructuur en Waterstaat 
+CONTRACTNUMMER 31172515 
+EIGENAAR NLR 
+NLR DIVISIE Aerospace Operations 
+VERSPREIDING Beperkt 
+RUBRICERING TITEL ONGERUBRICEERD 
+GOEDGEKEURD DOOR: 
+AUTEUR REVIEWER BEHERENDE AFDELING 
+2 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Afkortingen 
+ACRONIEM OMSCHRIJVING 
+ABL Analysebureau luchtvaartvoorvallen 
+DGLM Directoraat-Generaal Luchtvaart en Maritieme zaken 
+EASA European Aviation Safety Agency 
+EPAS European Plan for Aviation Safety 
+EU Europese Unie 
+EUR-RASP Regional Aviation Safety Plan van de ICAO regio EURopa 
+GASP Global Aviation Safety Plan 
+ICAO International Civil Aviation Organization 
+IenW Ministerie van Infrastructuur en Waterstaat 
+ILT Inspectie Leefomgeving en Transport 
+ISMS Integral Safety Management System 
+NALV Nederlands Actieplan voor Luchtvaartveiligheid 
+NLR Koninklijk Nederlands Lucht- en Ruimtevaartcentrum 
+NLVP Nederlands Luchtvaartveiligheidsprogramma 
+NVA Nationale Veiligheidsanalyse 
+NVIS Nationale Veiligheidsindicatoren en Streefwaarden 
+VMS Veiligheidsmanagementsysteem 
+ 
+ 
+  
+4 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ 
+Figuur 2: Visualisatie van het cyclisch veiligheidsmanagementproces dat wordt toegepast in het kader van het NLVP  
+ Doelstelling 
+Dit document bevat een methodiek voor het opstellen van nationale veiligheidsindicatoren en streefwaarden (NVIS) 
+voor het monitoren van de effectiviteit van nationale risicobeheersmaatregelen die komen uit de NVA. De methodiek 
+wordt verder aangeduid als ‘methodiek NVIS’. De toepassing van de methodiek (geen onderdeel van dit document) 
+wordt aangeduid met ‘de NVIS’. De indicatoren en streefwaarden die zullen worden verkregen via toepassing van de 
+methodiek NVIS zijn input voor het NALV.  
+ 
+De focus ligt op indicatoren en streefwaarden met betrekking tot de effectiviteit van risicobeheersmaatregelen die 
+volgen uit de NVA, maar de methodiek is ook van toepassing op andere nationale risicobeheersmaatregelen. Het 
+identificeren van indicatoren voor het monitoren van de veiligheid van de Nederlandse luchtvaart in bredere zin zijn 
+buiten de scope van de methodiek NVIS gelaten omdat die worden opgepakt in andere IenW initiatieven. 
+ 
+De methodiek NVIS is ontwikkeld door het Koninklijk Nederlands Lucht- en Ruimtevaartcentrum (NLR) met input van 
+experts en stakeholders, werkzaam bij overheidsorganisaties en relevante organisaties uit de domeinen van de 
+ 1
+Nederlandse luchtvaart. Ze is geschreven voor een team (in deze methodiek aangeduid als ‘projectteam NVIS’) dat 
+de methodiek onder de regie van IenW gaat toepassen.  
+ Internationale kaders 
+Zowel de NVA als de NVIS leveren input aan het NALV. Deze paragraaf schetst de internationale kaders waarin dat 
+plaatsvindt. Die kaders worden gevormd door: 
+• Op globaal niveau (ICAO lidstaten): het Global Aviation Safety Plan (GASP), Doc 10004, van ICAO, [9].  
+• Op regionaal niveau (55 lidstaten uit de ICAO regio Europa): het EUR Regional Aviation Safety Plan (EUR-
+RASP) van ICAO en EASA, [11].  
+• Op EASA niveau (31 lidstaten van EASA): het European Plan for Aviation Safety (EPAS) van EASA, [4].  
+                                                                 
+1
+ Zie paragraaf 1.5 voor een mogelijke invulling. 
+6 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ 
+Figuur 3: De NVA levert input aan hoofdstukken d) en e) van het NALV in de vorm van risicobeheersmaatregelen. IenW 
+consolideert deze risicobeheersmaatregelen en koppelt ze aan HRC/SI, Goals en Targets uit de GASP. De 
+geconsolideerde risicobeheersmaatregelen, en indien beschikbaar de eraan gekoppelde HRC/SI, Goals en Targets, zijn 
+input voor de NVIS. Voor iedere risicobeheersmaatregel stelt de NVIS indicatoren en streefwaarden op, die worden 
+toegevoegd aan het NALV 
+ Aansluiting op nationale activiteiten 
+De veiligheidsborging zoals beschreven in het NLVP bestaat uit twee soorten activiteiten:  
+• Toezicht van de Inspectie Leefomgeving en Transport (ILT) dat is ingericht om de continue naleving van de 
+luchtvaartorganisaties te borgen; en  
+• Monitoren van de nationale veiligheidsprestaties en het proces om een acceptabel niveau van veiligheid vast 
+te stellen.  
+Het onderwerp van dit document valt binnen de tweede soort van activiteiten: het vaststellen van nationale 
+veiligheidsindicatoren en bijbehorende streefwaarden (NVIS) om te kunnen monitoren of de risicobeheers-
+maatregelen in de praktijk effectief zijn. Binnen de eerste soort vallen ook activiteiten zoals het toezicht op de 
+veiligheidsmanagementsystemen van sectorpartijen, het toezicht op Schiphol, en de publicatie van de Staat van 
+Schiphol, [12]. Binnen de tweede soort valt onder andere de Systeemmonitor luchtvaartveiligheid, [17].  
+ 
+Figuur 4 toont de vier pijlers van het veiligheidsmanagementsysteem van Nederland met de kernactiviteiten, conform 
+ICAO Annex 19 en het NLVP. De grijze blokken zijn de paragrafen in het NLVP. De groene blokken laten ter illustratie 
+de positionering van enkele daaronder vallende initiatieven zien (zonder compleet te zijn).  
+8 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+verkeer), [2]. Het doel is dat de partijen de veiligheid verder verbeteren door op de raakvlakken van hun activiteiten 
+intensiever samen te werken. Dit gebeurt mede op basis van de ervaringen op Schiphol met het integraal 
+veiligheidsmanagement. Het ISMS is een van de spelers in de beheersing van risico’s uit de NVA. De NVA en de NVIS 
+zullen moeten bijdragen aan het realiseren van de nationale veiligheidsdoelen en uitvoering van het NLVP en het 
+NALV.  
+ 
+Staat van Schiphol  
+De Staat van Schiphol, [12], uitgegeven door de Inspectie Leefomgeving en Transport (ILT), geeft een beeld van de 
+situatie op en rond Schiphol op het gebied van veiligheid op de luchthaven en met aandacht voor de effecten van de 
+luchtvaart op de omgeving en omwonenden van Schiphol. De Staat van Schiphol heeft tot doel meer inzicht te geven 
+in de trends met betrekking tot het functioneren van het veiligheidssysteem op Schiphol. Om de veiligheid in de 
+vliegoperatie beter te monitoren presenteert de Staat van Schiphol in het hoofdstuk Veilig Vliegen een 
+samenhangende set van indicatoren die inzicht geven in risicofactoren die een rol kunnen spelen in een incident of 
+ongeval. Het hoofdstuk legt de focus op monitoren en het levert geen streefwaarden, maar geeft wel aan hoe er 
+wordt bijgestuurd door ILT. 
+ 
+ABL-dashboard en ABL factsheets 
+Het Analysebureau luchtvaartvoorvallen (ABL) registreert en analyseert de verplichte meldingen van voorvallen in de 
+Nederlandse burgerluchtvaart. Doel van het ABL is om samen met de sector vroegtijdig trends te signaleren zodat 
+betrokken partijen acties kunnen ondernemen om de vliegveiligheid te verbeteren. Het Dashboard Luchtvaart-
+voorvallen, [1], visualiseert trends over tijd voor een aantal veiligheidsindicatoren (zoals runway incursions, 
+vogelaanvaringen en luchtruimschendingen). Het dashboard laat het aantal meldingen over voorvallen per maand zien 
+en wordt elk kwartaal bijgewerkt. Het ABL geeft periodiek factsheets uit, [1]. Hierin komen diverse onderwerpen 
+uitgebreid aan bod die belangrijk zijn voor de luchtvaartveiligheid. Dat kunnen onderwerpen uit het dashboard zijn, 
+maar ook bredere of juist meer specifieke onderwerpen. De actualiteit, signalen uit de sector en eigen inzicht binnen 
+het ABL zijn hierbij leidend. Factsheets beschrijven de resultaten van onderzoeken naar de inhoud van de meldingen, 
+inclusief eventuele verbanden en oorzaken. In het kader van NVA en NVIS zou het doel van ABL moeten worden 
+uitgebreid tot het voorzien van NVA en NVIS van data. 
+ 
+Systeemmonitor luchtvaartveiligheid 
+De Systeemmonitor, [17], uitgegeven door IenW, beschrijft het functioneren van het veiligheidssysteem van de 
+overheid (regelgeving en kaders, toelating en toezicht en reflectie), het veiligheidssysteem van de sectorpartijen 
+(inrichting (vlieg)operatie) en de onderlinge samenwerking. De Systeemmonitor beschrijft indicatoren op het 
+systeemniveau. Het betreft dus de uitvoering van de ondersteunende activiteiten en niet de uitkomst van de operatie 
+zelf. De Systeemmonitor heeft tot doel meer inzicht te geven in de trends met betrekking tot het functioneren van het 
+veiligheidssysteem. De indicatoren in de Systeemmonitor zijn niet bedoeld om te sturen op een veiligheidsniveau of 
+veiligheids-doelstellingen, al wordt wel de ambitie uitgesproken om een continue aantoonbare verbetering te laten 
+zien. 
+ Spelers in de NVIS 
+De belangrijke spelers rondom het sturen, uitvoeren en reviewen van de NVIS zijn: 
+• De stuurgroep NLVP: deze groep bestaat uit vertegenwoordigers vanuit IenW (zowel ILT als DGLM 
+(Directoraat-Generaal Luchtvaart en Maritieme zaken)), en is de formele opdrachtgever van de NVIS. De 
+10 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Indeling van dit document 
+Hoofdstuk 2 geeft terminologie en uitleg over enkele basisprincipes van indicatoren en streefwaarden, zoals 
+kwaliteitscriteria.  
+ 
+Hoofdstuk 3 beschrijft de stappen die uitgevoerd moeten worden om tot het gewenste resultaat van de NVIS te 
+komen: 
+• In Sectie 3.1: Stap 1: Vastleggen van het doel van de risicobeheersmaatregel; 
+• In Sectie 3.2: Stap 2: Identificeren van mogelijke indicatoren;  
+• In Sectie 3.3: Stap 3: Beoordelen en selecteren van indicatoren; 
+• In Sectie 3.4: Stap 4: Vaststellen van streefwaarden; 
+• In Sectie 3.5: Stap 5: Reviewen en rapporteren. 
+ 
+Hoofdstuk 4 beschrijft de mogelijke organisatie van de NVIS en Hoofdstuk 5 geeft een referentielijst. 
+ 
+Het document eindigt met vijf bijlages: 
+• Appendix A geeft een lijst van begrippen, inclusief de termen die internationaal worden gebruikt; 
+• Appendices B en C geven informatie over het verzamelen en verwerken van data; 
+• Appendix D presenteert een uitgewerkt voorbeeld van toepassing van de methodiek NVIS; 
+• Appendix E geeft een template van een response matrix voor reviewcommentaar.  
+ 
+12 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+risico of de effectiviteit van risicobeheersmaatregelen. De gevoeligheid van een indicator is daarmee een belangrijke 
+voorwaarde voor het kunnen sturen op de waarde die deze geeft. Dit houdt in dat er een juist detailniveau is, dat het 
+bereik voldoende is om alle variatie te meten, en dat de maat frequent genoeg gemeten kan worden om die variaties 
+vast te leggen. 
+ 
+Rationeel 
+Een indicator is rationeel als deze meet wat hij beoogt te meten. Rationeel betekent dat het verband tussen de 
+indicator en dat wat gemeten moet worden gebaseerd is op (empirische) onderbouwing of een logische redenering. Er 
+is een duidelijke onderbouwing van hoe de indicator aansluit op de doelstelling.  
+ 
+Ondubbelzinnig 
+Een indicator is ondubbelzinnig als uit de omschrijving van de indicator duidelijk is wat gemeten wordt. Ondubbel-
+zinnig betekent dat maar één uitleg mogelijk is, opdat daar geen verwarring over kan ontstaan en geen andere zaken 
+gemeten worden dan benodigd is voor het bereiken van de doelstelling. De interpretatie van de indicator moet niet 
+afhankelijk zijn van cultuur, kennis of ervaringen.  
+ 
+Meetbaar 
+Een indicator is meetbaar als deze in een maat en eenheid is uit te drukken. De meetbaarheid van een indicator hangt 
+ook af van de beschikbaarheid van data. Een indicator is meetbaar indien ondersteunende data beschikbaar is of 
+beschikbaar kan worden gemaakt. In de context van het NLVP en het NALV worden indicatoren ingezet om het 
+verloop van risico’s en de effectiviteit van risicobeheersmaatregelen te monitoren. Hiervoor is het noodzakelijk 
+meetbare indicatoren te formuleren die betrekking hebben op de doelen. Dat maakt ook statistische analyse mogelijk.  
+ 
+Reproduceerbaar 
+Een indicator is reproduceerbaar als er minimale variabiliteit is bij meting onder dezelfde omstandigheden. Een 
+indicator kan in beginsel meetbaar zijn, maar dat betekent nog niet dat de onderliggende data nauwkeurig, 
+betrouwbaar en reproduceerbaar is. Een indicator is nauwkeurig en betrouwbaar als de meetresultaten zich 
+verhouden tot de werkelijke waarde. Het gaat daarmee om de kwaliteit van de data en de betrouwbaarheid van de 
+meetinstrumenten. Het vraagt ook om mogelijkheden om de nauwkeurigheid te bepalen: de onzekerheidsmarge is 
+bekend en begrepen. 
+ 
+Acceptabel 
+Of de toepassing van een bepaalde indicator succesvol is, hangt af van de acceptatie door de direct betrokkenen. Een 
+indicator is acceptabel als de personen dan wel organisaties die ermee moeten werken (of die te maken krijgen met 
+de gevolgen van toepassing van de indicator, in het bijzonder de luchtvaartsector en de burger) de beschrijving en 
+toepassing accepteren. In het identificeren en formuleren van de indicator dient rekening gehouden te worden met 
+de mogelijkheden en beperkingen van de betrokken organisaties. 
+ 
+Manipulatiebestendig 
+Manipulatie is het bewust handelen om de indicatorwaarde anders te doen laten uitvallen zonder dat de 
+onderliggende factoren veranderen. Een indicator die vatbaar is voor manipulatie kan een waarde geven die geen 
+correcte afspiegeling is van de werkelijkheid. Daarmee verliest de (gemanipuleerde) waarde van de indicator zijn 
+validiteit. Het is belangrijk dat de mogelijkheid tot manipulatie van de waardes van een indicator zoveel mogelijk 
+wordt voorkomen. Omdat veel indicatoren in zekere mate te manipuleren zijn, gaat het er bij dit criterium ook om hoe 
+eenvoudig dat is en hoe sterk de controlemechanismen zijn van de waardes die een indicator geeft. Het proces 
+waarmee de waardebepaling tot stand komt is ook bepalend voor de manipulatiebestendigheid. 
+14 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+uitgedrukt moet in overeenstemming zijn met de te verwachten onzekerheid van de vastgestelde of vast te stellen 
+indicatorwaarden. Zo kan bij het stellen van de ambitie samen met deskundigen gekeken worden naar de huidige 
+trend en naar indicatorwaarden met betrouwbaarheidsintervallen om een realistische en haalbare streefwaarde te 
+definiëren. Streefwaarden moeten tijdsgebonden zijn zodat duidelijk is op welk moment in de tijd een bepaalde 
+streefwaarde behaald zou moeten zijn. Dit bepaalt mede hoe scherp moet worden bijgestuurd indien de actuele 
+indicatorwaarde afwijkt van de streefwaarde. 
+ 
+Streefwaarden kunnen absoluut of relatief zijn. Een absolute streefwaarde staat op zich zelf. Een voorbeeld van een 
+absolute streefwaarde is een afgegeven of geambieerd maximum niveau (bijvoorbeeld een uitstoot van maximaal 100 
+megaton CO2 in 2030). Een relatieve streefwaarde is een vergelijking ten opzichte van een ander niveau of een andere 
+situatie. Een relatieve streefwaarde is bijvoorbeeld een vergelijking met een ander jaar (bijvoorbeeld ‘49% minder 
+CO2-uitstoot in 2030 ten opzichte van 1990’), andere organisaties (bijvoorbeeld ‘horen bij de top-drie van Europa’), of 
+kan een trend weergegeven (bijvoorbeeld ‘gemiddelde afname’). 
+ 
+De streefwaarden zijn gekoppeld aan een of meer streefdatums zodat het duidelijk is wat bereikt moet worden op 
+welk moment. Tijdens het monitoren en bijsturen moet men er rekening mee houden dat onbedoelde neveneffecten 
+kunnen ontstaan, zoals: 
+• Teveel focus op de streefwaarde als getal, en niet op het realiseren van een effectieve risicobeheers-
+maatregel; 
+• Zelfingenomenheid of gemakzucht wanneer de streefwaarde is bereikt;  
+• Spanningen of conflicterende belangen tussen organisaties en geen samenwerking naar een gezamenlijk 
+doel. 
+Indien tijdens het monitoren en bijsturen een van deze effecten optreedt zal overwogen moeten worden op een 
+andere manier bij te sturen, of om de streefwaarde bij te stellen. 
+ 
+Streefwaarden kunnen afhankelijk zijn van het ambitieniveau en kunnen (daarom) per domein (commerciële, kleine, 
+onbemande luchtvaart) verschillend zijn.  
+ 
+16 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Stap 1: Vastleggen van het doel van de 
+risicobeheersmaatregelen 
+Methodiek voor vastleggen van het doel van de risicobeheersmaatregelen 
+Deze stap bestaat uit de volgende activiteiten: 
+1a: Identificeren van het doel van de risicobeheersmaatregelen 
+1b: Samenvatten van de risicobeheersmaatregelen 
+ 
+1a. Identificeren van het doel van de risicobeheersmaatregelen  
+Input voor de NVIS is een of meerdere risicobeheersmaatregelen. Deze kunnen komen uit de NVA, maar er kan ook 
+sprake zijn van aanvullende maatregelen, of aangepaste versies van de maatregelen uit de NVA. Om de effectiviteit 
+van de risicobeheersmaatregelen te kunnen meten (met indicatoren en streefwaarden) is het nodig om het doel van 
+de maatregelen te kennen. Veelal staat dit doel genoteerd in het brondocument van de maatregel, maar het kan 
+voorkomen dat dat doel niet ondubbelzinnig staat gedocumenteerd. In zo’n geval dient het projectteam NVIS navraag 
+te doen bij de auteurs van de beschrijving van de risicobeheersmaatregel in kwestie. In het geval van de NVA staat het 
+doel beschreven in de ‘factsheet’ van een risicobeheersmaatregel.  
+ 
+Het projectteam NVIS identificeert en formuleert voor iedere risicobeheersmaatregel het beoogde doel. In eerste 
+instantie is het doel van de risicobeheersmaatregel natuurlijk het reduceren van het risico waarvoor de maatregel is 
+opgesteld. Vaak is echter ook een subdoel vast te stellen. Een maatregel om het risico van luchtruimschendingen te 
+reduceren kan bijvoorbeeld een voorlichtingscampagne zijn over de inrichting van het luchtruim. Het bovenliggende 
+doel van de maatregel is het reduceren van het aantal luchtruimschendingen, maar het subdoel is het vergroten van 
+de kennis van luchtruimgebruikers over de luchtruimindeling. Het projectteam legt zowel het subdoel als het 
+bovenliggende doel vast. In het geval dat de risicobeheersmaatregel al gekoppeld is aan het NALV (zie paragraaf 1.3) 
+zou het hoofddoel het mitigeren van een HRC/SI kunnen zijn, en het doel van de risicobeheersmaatregel een subdoel. 
+In het voorbeeld van hierboven is het vergroten van de kennis dan een subsubdoel. 
+ 
+Bij complexe risicobeheersmaatregelen is het, met het oog op de wens om te sturen en het resultaat van stuuracties 
+te kunnen monitoren, nuttig om het doel van de risicobeheersmaatregel op een logische manier te “staffelen”, zodat 
+concrete subdoelen geformuleerd kunnen worden waaraan sub-indicatoren en streefwaarden kunnen worden 
+gekoppeld, zie Figuur 6. In sommige gevallen zijn voor één risico (of HRC/SI) meerdere risicobeheersmaatregelen 
+beschreven. Dat levert dan een eerste niveau van staffelen, met het verlagen van het risico bovenaan, en de doelen 
+van de verschillende risicobeheersmaatregelen als eerste niveau daaronder. Subdoelen moeten daarbij zodanig 
+worden gekozen dat duidelijk is wat gedaan moet worden om het uiteindelijke doel van de risicobeheersmaatregel te 
+bereiken. Als het doel niet concreet genoeg en met de juiste diepgang is omschreven, ontstaat onduidelijkheid over de 
+toepassing van een indicator. Bovendien is het sturen op streefwaarden met een te hoog abstractieniveau nauwelijks 
+te doen omdat de relatie tussen mogelijke interventies en de geformuleerde streefwaarde vaak onduidelijk is.  
+ 
+18 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Inhoudsindicatoren sluiten meestal aan bij het uiteindelijke doel van de maatregel: het beheersen van een bepaald 
+risico. Procesindicatoren sluiten vaak beter aan bij subdoelen.  
+ 
+Stap 2a1: Verzamelen van bestaande indicatoren 
+Veel van de nationale risicobeheersmaatregelen zijn niet geheel nieuw en zijn soms al opgenomen in actieplannen van 
+de overheid en/of sectorpartijen. In veel gevallen zijn er dan ook al indicatoren beschikbaar om de effectiviteit van die 
+maatregelen te meten. Het projectteam NVIS bekijkt de verschillende nationale en internationale actieplannen en 
+identificeert welke van de daarin genoemde indicatoren relevant zijn voor de risicobeheersmaatregelen. Het 
+projectteam NVIS tekent daarbij aan in hoeverre deze indicatoren aansluiten bij de risicobeheersmaatregelen en waar 
+ze mogelijk de lading niet dekken. Daarnaast identificeert het projectteam NVIS welke middelen en/of instrumenten al 
+gebruikt worden of beschikbaar zijn om de waarde van die indicatoren te bepalen.  
+ 
+Stap 2a2: Identificatie van indicatoren in werksessies met inhoudelijk deskundigen 
+Het projectteam NVIS bereidt werksessies voor met inhoudelijk deskundigen van de overheid en sectorpartijen en 
+stuurt de sessies aan. De sessies zijn bedoeld voor het gericht stellen van vragen gerelateerd aan de identificatie van 
+indicatoren voor de risicobeheersmaatregelen. De discussie wordt ondersteund door visualisaties van doel en 
+subdoelen zoals in Figuur 6, door elk (sub)doel na te lopen en te beoordelen of daarvoor een indicator geïdentificeerd 
+kan worden. Gelet op de mogelijke diversiteit in risicobeheersmaatregelen moet het projectteam NVIS het 
+expertisegebied van de genodigden bij de sessies laten aansluiten bij het soort risicobeheersmaatregelen op de 
+agenda. Bijvoorbeeld, een combinatie van expertise in operaties, risico’s, procedures, techniek, human factors, 
+gedrag, statistiek, veiligheidscultuur, wet- en regelgeving, toezicht en handhaving.  
+ 
+Indien nodig kan enige structuur worden aangebracht in de werksessies door de risicobeheersmaatregelen op een 
+bepaalde manier te categoriseren. Het is dan mogelijk om risicobeheersmaatregelen per categorie te behandelen, 
+omdat die soms ook naar een bepaalde categorie van indicatoren kunnen wijzen, en dan sturing geven aan de 
+identificatie van de indicatoren zelf. Voorbeelden van categorieën zijn: 
+• Op basis van aspect van de operatie: procedures, beschikbaarheid, competentie, communicatie, technische 
+interface, motivatie; 
+• Op basis van fases van risicobeheersing: ontwikkeling, implementatie, activatie, instandhouding; 
+3
+• Op basis van aspecten van toezicht: systeemtoezicht, producttoezicht, thematoezicht . 
+ 
+Stap 2a3: Identificatie van indicatoren aan de hand van barrières in risicoscenario’s 
+Om meer inzicht te krijgen in het verloop van risico’s worden deze vaak beschreven in de vorm van risicoscenario’s. 
+Een risicoscenario beschrijft hoe een ongewenste gebeurtenis zich ontwikkelt en escaleert tot een ongeval. Om die 
+ontwikkeling te doorbreken zijn er allerlei ‘barrières’ zoals maatregelen en controlemechanismen. Deze barrières zijn 
+bedoeld om de mogelijke uitkomsten van risicoscenario’s te veranderen: een ongeval voorkomen of de gevolgen 
+beperken. 
+ 
+De bowtie methode, [15], wordt door veel organisaties gebruikt om te analyseren en te communiceren hoe 
+risicoscenario's met een hoog risico zich ontwikkelen. Als er bowties beschikbaar zijn voor de risicoscenario’s die 
+beheerst moeten worden kunnen die helpen om proces- en inhoudsindicatoren te bepalen. Een bowtie beschrijft 
+plausibele risicoscenario's rond een bepaald gevaar, plus manieren waarop de organisatie verhindert dat die 
+risicoscenario's zich voordoen (Figuur 7). In het midden van de bowtie staat een ‘top event’: een toestand gekoppeld 
+                                                                 
+3
+ Systeemtoezicht is de controle op de veiligheidssystemen en de veiligheidscultuur bij bedrijven. Producttoezicht is de controle van bijvoorbeeld een vliegtuig of start of 
+landingsbaan op een luchthaven. Thematoezicht is controle op een specifiek onderdeel, bijv. het vervoer van gevaarlijke stoffen of onzorgvuldige vluchtvoorbereiding. 
+Bron: https://www.ilent.nl/onderwerpen/toezicht-luchtvaart. 
+20 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Stap 2a4: Identificatie van indicatoren aan de hand van beschikbare data 
+Een aanvullende aanpak is een data-gedreven aanpak door te bekijken welke data beschikbaar is, en of vanuit daar 
+een indicator gevonden kan worden die aansluit bij de risicobeheersmaatregel. Het gaat hier om data die beschikbaar 
+is of beschikbaar gemaakt kan worden voor IenW voor toepassing binnen het NALV. Voordeel van deze aanpak is dat 
+de indicator automatisch meetbaar is. Wel is belangrijk om te verifiëren (zie ook stap 3) dat de indicator 
+representatief is voor het doel: het meten van de effectiviteit van de risicobeheersmaatregel. 
+ 
+Een van de verschillen tussen de domeinen van de luchtvaart is de beschikbaarheid van data. Voor de commerciële 
+luchtvaart is er over het algemeen veel data beschikbaar, vanwege de grotere aantallen vluchten in dit domein, maar 
+ook vanwege meer stringente regelgeving om data te verzamelen. Voor de kleine en de onbemande luchtvaart is 
+minder data beschikbaar, en is de databeschikbaarheid niet gecentraliseerd. Deze verschillen kunnen aanleiding zijn 
+om verschillende indicatoren te kiezen voor eenzelfde risicobeheersmaatregel voor verschillende domeinen. 
+ 
+Stap 2a5: Identificatie van indicatoren aan de hand van implementatievraag / verificatievraag / validatievraag 
+Deze methode splitst de effectiviteitsvraag van een risicobeheersmaatregel op in drie subvragen:  
+• Implementatievraag: In hoeverre is de maatregel daadwerkelijk geïmplementeerd (wat is de status)?  
+• Verificatievraag: In hoeverre wordt de maatregel daadwerkelijk gebruikt?  
+• Validatievraag: In hoeverre wordt het beoogde doel van de maatregel bereikt; in hoeverre draagt de 
+maatregel bij aan het reduceren van het risiconiveau? 
+ 
+Het projectteam NVIS bekijkt de risicobeheersmaatregelen en bijbehorende implementatieplannen en stelt vast op 
+welke wijze de implementatiestatus beoordeeld kan worden. Vervolgens stelt het projectteam NVIS voor elk van de 
+drie vragen vast welke indicatoren, instrumenten, gegevens e.d. geschikt zijn om de betreffende vraag te kunnen 
+beantwoorden. In eerste instantie zijn dit indicatoren die reeds geïdentificeerd zijn in stappen 2a1-2a4, maar deze 
+worden aangevuld en aangescherpt zodat indicatoren zijn bepaald voor elk van de drie vragen. De indicatoren voor de 
+implementatie of de verificatievraag zullen meestal eerder van een waarde kunnen voorzien dan indicatoren voor de 
+validatievraag. Het proces van monitoren en bijsturen kan zich in het begin meer richten op de eerste, en later op de 
+laatste. Als de risicobeheersmaatregel van een erg samengesteld karakter is kunnen de drie vragen ook gesteld 
+worden voor submaatregelen. 
+ 
+Bij het opstellen van indicatoren voor de validatievraag moet het projectteam inschatten in wat voor zin een 
+specifieke risicobeheersmaatregel bijdraagt aan een verandering van het risiconiveau (dus effectief is). Hierbij wordt 
+rekening gehouden met mogelijke effecten op het risiconiveau als gevolg van andere maatregelen of omgevings-
+condities. Bij het vaststellen van de indicatoren voor een risicobeheersmaatregel kan met name deze validatievraag 
+complex zijn om te beantwoorden. Het effect van een maatregel op een risiconiveau kan soms niet los gezien worden 
+van de effecten van andere risicobeheersmaatregelen en mogelijke externe invloeden zoals verkeersdrukte, 
+weerscondities, systeemveranderingen, en autonome veiligheidsverbetering.  
+ 
+2b: Beschrijven van de indicatoren 
+Het resultaat van stap 2a is een aantal mogelijke indicatoren voor het meten van de effectiviteit van de risicobeheers-
+maatregelen. In stap 2b verzamelt het projectteam NVIS deze mogelijke indicatoren, verwijdert doublures en scherpt 
+5
+de indicatoren aan tot een long list van complementaire indicatoren .  
+ 
+                                                                 
+5
+ Het aantal indicatoren is niet van te voren aan te geven, maar denk aan ongeveer 5 per risicobeheersmaatregel. 
+22 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Voldoet (redelijk) goed Voldoet enigszins Voldoet niet (zo) goed 
+ 
+Het toetsen van indicatoren aan criteria is in zekere mate subjectief omdat formuleringen op verschillende manieren 
+kunnen worden geïnterpreteerd, en aanvullende informatie de beoordeling beïnvloedt. Of een indicator aan een 
+bepaald criterium voldoet is mede afhankelijk van het perspectief waaruit het criterium benaderd wordt. Voor de 
+kwaliteit van de indicator dient het projectteam deze criteria te benaderen vanuit verschillende kennisachtergronden. 
+ 
+Tabel 1: Rapportage over indicator en toetsing tegen kwaliteitscriteria. De score per criterium wordt met behulp van 
+een kleurcode in de onderste rij weergegeven. Criterium Hanteerbaar wordt apart behandeld 
+Risicobeheersmaatregel #  
+Gevaar De beschrijving van het bijbehorende gevaar (risico) (uit stap 1b) 
+Doel  Beoogde doel van de maatregel (uit stap 1b) 
+Beschrijving Beschrijving van de maatregel (de inhoud) (uit stap 1b) 
+Betrokkenen Betrokken partijen (uit stap 1b) 
+Indicator(en)  
+Definitie Definitie of beschrijving van de indicator (uit stap 2b) 
+Eenheid Eenheid waarin wordt gemeten en voorwaarden voor de berekening (uit stap 2b) 
+Databron en meetmethode Waar of hoe de data verzameld moet worden (uit Stap 2b) 
+Toetsing Beschrijving en onderbouwing van de toetsing en uitkomst per criterium 
+Ratio- Ondubbel- Meet- Reprodu- Accep- Manipulatie- Tijd- Kosten- Een-
+Gevoelig 
+neel zinnig baar ceerbaar tabel bestendig geldig efficiënt voudig 
+ 
+Een enkele indicator voldoet meestal niet aan alle criteria. In het kader van de NVIS zijn de indicatoren bedoeld om de 
+effectiviteit van risicobeheersmaatregelen te monitoren en bij te sturen; daarom is het in ieder geval belangrijk dat 
+een indicator (enigszins) voldoet aan criteria Gevoelig en Rationeel. Ook de criteria Ondubbelzinnig, Meetbaar en 
+Reproduceerbaar zijn voor dit doel van meer belang dan bijvoorbeeld Kostenefficiënt of Eenvoudig. Als er relatief veel 
+indicatoren voor een risicobeheersmaatregel beschikbaar zijn (bijvoorbeeld meer dan drie) zal deze volgorde 
+meegewogen worden in het bepalen van een selectie. 
+ 
+Tot slot verifieert het projectteam NVIS of de set voldoet aan de uitgangspunten genoemd boven stap 2a1: 
+• De set van indicatoren moet zinvol, eenvoudig, en niet te uitgebreid zijn zodat het Hanteerbaar blijft; 
+• De set moet niet alleen makkelijk meetbare of kwantificeerbare indicatoren bevatten, maar moet 
+daadwerkelijk iets zeggen over de effectiviteit van de risicobeheersmaatregelen; 
+• De set moet bestaan uit proces- en inhoudsindicatoren. 
+ 
+3b: Klankbordgroepen voor het bespreken van indicatoren 
+Het projectteam NVIS organiseert een sessie met klankbordgroepen voor de vier domeinen (commerciële luchtvaart, 
+kleine luchtvaart, onbemande luchtvaart en Caribisch Nederland) en de overheid om de concept indicatoren te 
+beoordelen op kwaliteit, acceptabiliteit, haalbaarheid en hanteerbaarheid. Een klankbordgroep bestaat uit experts uit 
+het domein en de overheid (DGLM, ILT, andere partijen). Afhankelijk van de risicobeheersmaatregel kunnen 
+klankbordgroepen worden gecombineerd. Een moderator leidt de werksessie, bijgestaan door een notulist. De 
+moderator is iemand met ervaring in veiligheidsborging en modereren van werksessies. Het projectteam NVIS 
+presenteert in de klankbordgroep voor elke risicobeheersmaatregel de concept indicator(en), inclusief de 
+onderbouwing. De experts reflecteren op de definitie, de onderbouwing, de beschikbaarheid van data en middelen, 
+de haalbaarheid voor monitoring (inclusief draagvlak voor het aanleveren van data door een bepaalde partij), en de 
+algehele acceptatie en hanteerbaarheid van de indicatoren. Het resultaat van de sessie is adviserend. 
+24 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Hiertoe maakt het projectteam NVIS eerst een inschatting van de huidige waarde van de indicator. Daarna gaat het 
+projectteam na welke veiligheidsambitie en doelstellingen door de beleidsafdeling van IenW zijn geformuleerd, 
+bijvoorbeeld aan de hand van het NLVP. Daarnaast identificeert het projectteam de door ICAO en de Europese Unie 
+gespecificeerde veiligheidsambitie en veiligheidsdoelstellingen (zoals in het EASA European Plan for Aviation Safety). 
+Dit vormt het referentiekader op basis waarvan streefwaarden mede kunnen worden bepaald. Deze bepaling gaat met 
+behulp van verschillende methoden, hieronder beschreven. In stappen 4a1 en 4a2 wordt onderscheid gemaakt tussen 
+indicatoren gericht op validatievraag, implementatievraag of verificatievraag. Dit refereert aan de resultaten van stap 
+2a5. Bij elke streefwaarde wordt een tijdsindicatie voor het behalen van de streefwaarde bepaald, en waar nodig 
+worden streefwaarden opgedeeld in een serie van streefwaarden met bijbehorende tijdsindicaties. De uiteindelijke 
+vaststelling van de streefwaarden is een bestuurlijke keuze.  
+ 
+Stap 4a1: Streefwaarden voor Indicatoren gericht op validatievraag 
+Voor indicatoren die gericht zijn op de validatievraag (dat is: in hoeverre wordt het beoogde doel van de maatregel 
+bereikt; in hoeverre draagt de maatregel bij aan het reduceren van het risiconiveau) maakt het projectteam NVIS 
+gebruik van de in stap 2b bepaalde historische of actuele gegevens die de Nederlandse, Europese of wereldwijde 
+trend weergeven. De streefwaarde wordt op basis van deze waarde of trend gedefinieerd, afhankelijk van het 
+ambitieniveau. Een daling of stijging van een trend kan daarbij ook gezien worden als streefwaarde. 
+ 
+Bij het bepalen van een streefwaarde op basis van historische of actuele gegevens van derden gaat het projectteam 
+NVIS de volgende drie zaken na:  
+• Wat zijn de definities/taxonomie bij datavergaring door derden? Als leveranciers van data/gegevens een 
+verschillende definitie hanteren voor een bepaald incident of voorval dan in Nederland gebruikelijk is, dan zal 
+de data van deze incidenten waarschijnlijk niet direct bruikbaar zijn in de Nederlandse context.  
+• De omstandigheden waarin deze data zijn verzameld. Er dient nagegaan te worden wanneer, hoe en onder 
+welke omstandigheden de data voor de indicator is geregistreerd en verzameld. Dit is belangrijk indien 
+dezelfde soort data van verschillende leveranciers vergeleken, beoordeeld en gebruikt moeten worden.  
+• De operationele context waarvoor de data representatief zijn. Operationele omstandigheden of procedures 
+kunnen de representativiteit van de benchmarking beïnvloeden, met name bij verschillen tussen 
+luchtvaartmaatschappijen, luchtverkeersleidingsorganisaties en luchthavens.  
+Het projectteam NVIS combineert data alleen als de definitie of omstandigheid overeen komt, of als de data van de 
+ene definitie of omstandigheid naar de andere vertaald kan worden. 
+ 
+Stap 4a2: Streefwaarden voor Indicatoren gericht op implementatie of verificatievraag 
+Voor indicatoren die zijn afgeleid van de implementatievraag (In hoeverre is de risicobeheersmaatregel daadwerkelijk 
+geïmplementeerd?) of de verificatievraag (In hoeverre wordt de risicobeheersmaatregel daadwerkelijk gebruikt) stelt 
+het projectteam NVIS streefwaarden op. Deze streefwaarden zijn voortgangswaarden, tussenresultaten of 
+planningsdoelen gekoppeld aan relatieve of absolute streefdatums. De voortgangswaarde kan relatief zijn ten 
+opzichte van de totale populatie (bijvoorbeeld “over twee jaar is in 80% van de organisaties de maatregel ingevoerd”) 
+of relatief ten opzichte van het volledige implementatieproces (bijvoorbeeld “over twee jaar is het implementatie-
+proces voor twee derde uitgevoerd”), of absoluut (bijvoorbeeld “over twee jaar is specifiek doel A geïmplementeerd”). 
+Om deze streefwaarden te bepalen zoekt het projectteam NVIS, voor zover dat past binnen de ter beschikking staande 
+tijd en middelen, vergelijkbare projecten die eerder zijn uitgevoerd. Het projectteam NVIS beperkt zich daarbij niet tot 
+luchtvaart, maar zoekt nadrukkelijk ook naar ervaringen in andere domeinen. Het projectteam NVIS zoekt naar 
+implementatieprocessen met overeenkomstige karakteristieken, bijvoorbeeld op het gebied van complexiteit, soort 
+maatregel, organisatievorm, techniek, etc. Het projectteam NVIS gebruikt de ervaringen van die projecten (successen 
+en mislukkingen) om realistische streefwaarden op te stellen die passen bij de vastgestelde ambitie. 
+26 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Stap 5: Reviewen en rapporteren 
+Uit stappen 3 en 4 volgt een lijst indicatoren met streefwaarden om de effectiviteit van de risicobeheersmaatregelen 
+te kunnen monitoren en bij te sturen wanneer nodig. In stap 5 vindt een evaluatie plaats met als doel het geheel van 
+indicatoren, streefwaarden en risicobeheersmaatregelen in samenhang te beoordelen op kwaliteit en haalbaarheid, 
+en daarmee acceptatie voor de toepassing te bereiken. Tot slot wordt alles vastgelegd in een rapportage. 
+ 
+Hiertoe wordt het voorstel voor de indicatoren en streefwaarden door de begeleidingscommissie ter review 
+aangeboden aan de expertgroep Luchtvaartveiligheid. Zij voert een evaluatie uit gebaseerd op de expert inschatting 
+van haar leden: heeft het projectteam NVIS de juiste set indicatoren en streefwaarden opgesteld om de effectiviteit 
+van risicobeheersmaatregelen te kunnen monitoren, en voldoen de indicatoren en streefwaarden aan de gestelde 
+kwaliteitseisen?  
+ 
+De expertgroep Luchtvaartveiligheid beoordeelt de voorgestelde indicatoren en streefwaarden op kwaliteit, 
+transparantie, uitlegbaarheid en haalbaarheid. Indien nodig kunnen de volgende vragen worden gebruikt als leidraad: 
+• In hoeverre is de selectie en onderbouwing van de indicatoren en streefwaarden transparant en uitlegbaar? 
+• Is de set van indicatoren zinvol, eenvoudig en hanteerbaar in zijn geheel? 
+• Voldoen de beschreven indicatoren en streefwaarden aan de kwaliteitseisen? 
+• Maakt de formulering van de indicatoren duidelijk wat wordt gemeten en hoe vaak? 
+• Hoe goed is de samenhang tussen indicatoren en streefwaarden beschreven? 
+• Zijn onbedoelde neveneffecten van de indicatoren en streefwaarden (zie paragraaf 2.3) geïdentificeerd en 
+gemitigeerd? 
+• Hoe realistisch zijn de gekozen streefwaarden in de tijd? 
+• In hoeverre zijn veranderingen die invloed kunnen hebben op de set indicatoren en streefwaarden 
+beoordeeld?  
+• Hoe zijn conflicterende belangen tussen organisaties en in de samenwerking naar het bereiken van het doel 
+van de risicobeheersmaatregelen gewogen bij het identificeren van de indicatoren en formuleren van de 
+streefwaarden? 
+ 
+Het commentaar uit de review en het advies betreffende de beoordeling van de voorgestelde indicatoren en 
+streefwaarden worden door de expertgroep Luchtvaartveiligheid gedeeld met de begeleidingscommissie en het 
+projectteam NVIS. Het projectteam NVIS neemt elke opmerking in behandeling en bepaalt of commentaar al dan niet 
+wordt overgenomen in de definitieve set van indicatoren en streefwaarden. Het projectteam NVIS legt het 
+commentaar en hoe het wordt overgenomen vast in een response matrix (Appendix E). 
+ 
+Na verwerking van het commentaar wordt het voorstel voor indicatoren en streefwaarden definitief gemaakt. Het 
+advies van de expertgroep Luchtvaartveiligheid wordt als bijlage toegevoegd. De begeleidingscommissie biedt het 
+geheel ter vaststelling aan de stuurgroep NLVP aan. 
+ 
+28 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+dossierhouder aangesteld die verantwoordelijk is voor het maken en uitvoeren van een plan van aanpak voor die 
+maatregel en voor het monitoren en bijsturen als de effectiviteit van de aanpak achterblijft.  
+ 
+De NVIS levert input aan het NALV in de vorm van nationale veiligheidsindicatoren en streefwaarden voor het 
+monitoren van de effectiviteit van een of meerdere risicobeheersmaatregelen. Deze input zal binnen de context van 
+het NALV gebruikt worden door de respectievelijke dossierhouders van de risicobeheersmaatregelen om de 
+effectiviteit te kunnen monitoren en bij te sturen. Er kan een projectteam NVIS worden aangesteld voor iedere 
+risicobeheersmaatregel afzonderlijk, of voor een cluster van (bijvoorbeeld gelijksoortige) risicobeheersmaatregelen, of 
+voor alle risicobeheersmaatregelen samen. Ook is het mogelijk dat de NVIS-taken worden toebedeeld aan een reeds 
+bestaand projectteam binnen IenW; bijvoorbeeld het projectteam van ILT en DGLM dat zich bezig houdt met de 
+opstelling en ontwikkeling van het NALV. Het eindproduct van de NVIS is dan ook een of meerdere rapporten met 
+nationale indicatoren en streefwaarden voor een of meerdere risicobeheersmaatregelen. Voor de leesbaarheid wordt 
+verder in dit hoofdstuk steeds gesproken over één projectteam NVIS. 
+ 
+De stuurgroep NLVP, bestaande uit vertegenwoordigers vanuit ILT en DGLM, is de formele opdrachtgever van zowel 
+het NALV als de NVIS. Daarnaast stelt de stuurgroep NLVP de begeleidingscommissie NVIS aan. De stuurgroep NLVP 
+wordt ten minste betrokken bij de start van de NVIS, en na afronding van de prefinale versie van het eindproduct van 
+de NVIS. De stuurgroep NLVP stelt het eindproduct vast mede op basis van het advies van de expertgroep Luchtvaart-
+veiligheid. 
+ 
+7
+De opdracht wordt vanuit het ministerie van Infrastructuur en Waterstaat begeleid door een begeleidingscommissie 
+NVIS, bestaande uit deskundigen van ILT en DGLM. De begeleidingscommissie is verantwoordelijk voor de aansturing 
+van het project NVIS, zowel op proces als op inhoud. De begeleidingscommissie NVIS legt de verbinding tussen 
+belangrijke spelers in de organisatie: de stuurgroep NLVP, het projectteam NVIS (de opdrachtnemer) en de 
+expertgroep Luchtvaartveiligheid. De begeleidingscommissie overhandigt de rapporten van het projectteam NVIS ter 
+8
+review en advies aan de expertgroep Luchtvaartveiligheid . De begeleidingscommissie betrekt de stuurgroep NLVP op 
+de juiste momenten. Tot slot zorgt de begeleidingscommissie ervoor dat de overheid data, kennis en expertise levert 
+aan het projectteam NVIS. 
+ 
+In sommige omstandigheden kan het nodig zijn om van de werkwijze zoals beschreven in dit document af te wijken. 
+Het vaststellen van indicatoren en streefwaarden is geen recht-toe-recht-aan proces en in de praktijk kunnen zaken 
+anders uitpakken dan voorzien. In zulke gevallen dient het projectteam NVIS samen met de begeleidingscommissie 
+een alternatieve aanpak af te spreken, en in geval van grote wijzigingen af te stemmen met de stuurgroep NLVP. De 
+afwijking wordt gedocumenteerd, tezamen met een motivatie, en aan het eind van het project geëvalueerd. 
+  
+                                                                 
+7
+ Als de NVIS-taken worden toebedeeld aan een reeds bestaand projectteam binnen IenW, bijvoorbeeld het projectteam van ILT en DGLM dat zich bezig houdt met de 
+opstelling en ontwikkeling van het NALV, dan zal de rol van begeleidingscommissie NVIS mogelijk anders zijn dan zoals hier beschreven. 
+8
+ De inrichting van een Expertgroep Luchtvaartveiligheid is één van de acties die volgen uit de Luchtvaartnota 2020-2050, [14]. 
+30 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Review en advies 
+De expertgroep Luchtvaartveiligheid beoordeelt de kwaliteit van de (tussen)resultaten van de NVIS en voorziet de 
+stuurgroep NLVP van advies in het vaststellen van de resultaten. In de expertgroep Luchtvaartveiligheid zitten 
+onafhankelijke externe experts, bijvoorbeeld hoogleraren, die toezien op de kwaliteit en neutraliteit van de analyses 
+en resultaten van de NVIS. IenW bepaalt de samenstelling van de expertgroep mede in het licht van de 
+Uitvoeringsagenda Luchtvaartnota, [14]. De expertgroep Luchtvaartveiligheid beoordeelt ten minste de kwaliteit van 
+het rapport Indicatoren en streefwaarden voor risicobeheersmaatregelen, het resultaat van stap 5. 
+ 
+De begeleidingscommissie stuurt het rapport naar de expertgroep Luchtvaartveiligheid en ontvangt en bespreekt het 
+commentaar. De adviezen van de expertgroep Luchtvaartveiligheid worden als bijlage aan de rapporten toegevoegd 
+bij publicatie met het oog op de transparantie. 
+ Planning 
+Het projectteam NVIS voert de stappen uit de methodiek NVIS uit en levert als resultaat een rapport op: Rapport 
+indicatoren en streefwaarden voor risicobeheersmaatregelen. 
+ 
+Tabel 2 geeft de geschatte doorlooptijd per stap in de methodiek; Figuur 9 geeft een schematische weergave van de 
+geschatte doorlooptijd, met een oplevering in week 27 na de start. Deze schatting is indicatief en onder aanname van 
+ongeveer 40 (aan de start bekende) risicobeheersmaatregelen waarvoor indicatoren opgesteld dienen te worden, met 
+ongeveer 2 à 3 indicatoren per maatregel, en een projectteam NVIS van 3 personen die voldoende uren beschikbaar 
+hebben om eraan te kunnen werken. Stappen waarin de klankbordgroepen zijn betrokken hebben een doorlooptijd 
+van vier weken vanwege de tijd die benodigd is voor het plannen, voorbereiden en verwerken van de sessies. De 
+planning en organisatie van de klankbordgroepen kan al beginnen voordat de inhoudelijke voorbereiding is afgerond. 
+Voor het uitvoeren van een review krijgen de betrokkenen twee weken. De projectteam NVIS heeft vervolgens twee 
+weken de tijd om het reviewcommentaar te verwerken. 
+ 
+Als de daadwerkelijke aantallen afwijken dan dient de planning navenant te worden bijgesteld. 
+ 
+De doorlooptijd is slechts een indicatie omdat ze mede afhankelijk is van de ter beschikking gestelde middelen. Het 
+aantal iteraties wordt onder meer bepaald door het ‘gemak’ waarmee indicatoren kunnen worden geïdentificeerd en 
+de beschikbare data.  
+ 
+Tabel 2: Doorlooptijd per stap in de NVIS 
+Stap Geschatte doorlooptijd 
+Voorbereiding van en houden van kick-off meeting, opstellen projectplan (plan 
+van aanpak, planning, resources, tijdlijn), samenstelling projectteam, 
+1 week 
+begeleidingscommissie en klankbordgroepen.  
+ 
+Stap 1: Vastleggen van het doel van de risicobeheersmaatregelen 
+ 1a. Identificeren van doel van risicobeheersmaatregelen 2 weken 
+ 1b. Samenvatten van de risicobeheersmaatregelen 
+32 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+5 Referentielijst 
+[1]  Analysebureau luchtvaartvoorvallen, Factsheets en Dashboards, 
+https://www.ilent.nl/onderwerpen/voorvallen-luchtvaart/analysebureau-luchtvaartvoorvallen 
+[2]  Convenant Veiligheidsverbetering Schiphol Ontwikkeling integraal veiligheidsmanagementsysteem 
+Schiphol en Analysebureau Luchtvaartvoorvallen, Staatscourant 2018, 38844 
+[3]  Cooke, R.M., Goossens, L.H.J. (2000). Procedures guide for structured expert judgement, 
+EURATOM document EUR 18820EN, European Communities 
+[4]  EASA EPAS. The European Plan for Aviation Safety (EPAS 2022-2026), 
+https://www.easa.europa.eu/document-library/general-publications/european-plan-aviation-safety-
+2022-2026#group-easa-downloads  
+[5]  Hale, A. (2009). Why safety performance indicators? Safety Science, 47(4), 479–480 
+[6]  Handleiding Nationale Veiligheidsanalyse: Stappenplan voor het uitvoeren van een Nationale 
+Veiligheidsanalyse voor de Nederlandse burgerluchtvaart, NLR-CR-2021-110 
+[7]  ICAO (2016). Annex 19 Safety Management. Second edition 
+[8]  ICAO (2018). Doc 9859 Safety Management Manual. Fourth edition 
+[9]  ICAO GASP. Doc 10004, Global Aviation Safety Plan 2020-2022, 
+https://www.icao.int/publications/Documents/10004_en.pdf  
+[10]  ICAO. Doc 10131. Manual on the Development of Regional and National Aviation Safety Plans, 
+https://www.icao.int/MID/Documents/2020/SEIG1/Doc.10131%20%20Manual%20on%20 
+the%20Develop.%20of%20Regional%20and%20National%20Aviation%20Safety%20Plan. 
+1st%20Edition.en.pdf 
+[11]  ICAO & EASA, EUR-RASP: EUR Regional Aviation Safety Plan 2022-2024, 15 December 2021 
+[12]  Inspectie Leefomgeving en Transport. (2021). Staat van Schiphol 2020 
+[13]  Joint sector ISMS Roadmap: Veiligheid in de Nederlandse luchtvaartsector, 
+https://integralsafetyschiphol.nl/  
+[14]  Ministerie van Infrastructuur en Waterstaat (2020). Luchtvaartnota 2020-2050 
+[15]  Ministerie van Infrastructuur en Waterstaat (2020). Nederlands Luchtvaartveiligheidsprogramma 2020-
+2024—Continu verbeteren van veiligheid door beheersen van risico’s 
+[16]  Ministerie van Infrastructuur en Waterstaat (2021). Communicatieplan NLVP 
+[17]  Ministerie van Infrastructuur en Waterstaat. (2021). Systeemmonitor luchtvaartveiligheid, Peildatum 1 
+januari 2021, Eerste editie 
+[18]  NLR (2021). Data voor de Nationale Veiligheidsanalyse, NLR-TR-2020-379 
+[19]  NLR (2021). Indicatoren en streefwaarden: Kwaliteitscriteria voor en uitdagingen bij het opstellen van 
+indicatoren, NLR-TR-2021-273 
+[20]  Øien, K., Utne, I. B., & Herrera, I. A. (2011). Building safety indicators: Part 1–theoretical foundation. 
+Safety Science, 49(2), 148–161 
+[21]  Reason, J. (1990). Human error. Cambridge university press 
+[22]  Schulman, P. R. (2020). Organizational structure and safety culture: Conceptual and practical 
+challenges. Safety Science, 126, 104669 
+[23]  Shell (1996). Primrose M. J.; Bentley P.D.; van der Graaf G.C.; Sykes R.M. The HSE Management System 
+in Practice-implementation. SPE Health, Safety and Environment in Oil and Gas Exploration and 
+Production Conference, 9-12 June, New Orleans, Louisiana 
+34 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+De GASP Indicatoren staan geformuleerd in Tabel I-4-1 van [9]. 
+[Engels: GASP Indicator; bron: [9], [10]) 
+Specifieke set van vijf Hoog-risico categorieën van voorvallen (HRC), aangewezen 
+door ICAO in het GASP voor 2020-2022. De HRCs in het GASP 2020-2022 zijn: 
+• gecontroleerde vlucht in het terrein;  
+GASP Hoog-risico categorie • verlies van controle tijdens de vlucht;  
+van voorvallen 
+• botsingen in de lucht;  
+• landingsbaan excursies; en  
+• runway incursions. 
+[Engels: GASP High-risk category of occurrence, HRC; bron: [9], [10]) 
+Een conditie of een object dat een voorval of ongeval kan veroorzaken of hier aan 
+Gevaar 
+kan bijdragen. [Engels: Hazard; bron: ICAO [8], [10]] 
+Een op gegevens gebaseerde parameter die wordt gebruikt voor het toezicht op 
+Indicator of 
+en de beoordeling van de veiligheidsprestaties.  
+Veiligheidsprestatieindicator 
+[Engels: Safety Performance Indicator; bron: ICAO [8], [10]] 
+De kleine luchtvaart waar de NVIS betrekking op heeft, ook wel general aviation of 
+algemene luchtvaart genoemd, betreft alle Nederlandse luchtvaartactiviteiten 
+buiten commerciële lijnvluchten, charters, militaire en onbemande luchtvaart. Het 
+Kleine luchtvaart 
+betreft een groep van luchtruimgebruikers die uiteenloopt van recreatieve 
+gebruikers tot kleine commerciële gebruikers, zoals rondvluchtbedrijven of 
+reclamevluchten. 
+Luchtvaartorganisatie Organisatie die na toelating luchtvaartactiviteiten mag ondernemen. 
+Risico dat niet in zijn geheel en/of niet optimaal op het niveau van een individuele 
+Nationaal veiligheidsrisico luchtvaartorganisatie te beheersen is, maar een samenwerking tussen 
+luchtvaartorganisaties en/of overheden vereist. 
+De onbemande luchtvaart waar de NVIS betrekking op heeft, betreft elk 
+Onbemande luchtvaart luchtvaartuig waarmee vluchten worden uitgevoerd of dat is ontworpen om 
+vluchten autonoom of op afstand bestuurd uit te voeren zonder piloot aan boord. 
+Een ongeval is een voorval dat voorkomt uit de operatie van een vliegtuig, en 
+waarbij: 
+a. de persoon dodelijk of ernstig gewond raakt; 
+b. het vliegtuig ernstige schade of constructieve schade oploopt; of 
+Ongeval 
+c. het vliegtuig wordt vermist of niet bereikt kan worden. 
+Hierbij wordt een verwonding die binnen dertig dagen na het ongeval tot de dood 
+leidt, door ICAO gedefinieerd als een dodelijke verwonding. 
+[Engels: Accident; bron: [7]] 
+Een of meer acties om risico's in verband met factoren die tot een veiligheids-
+voorval bijdragen, weg te nemen of te beperken, of om een vastgestelde 
+Risicobeheersmaatregel 
+veiligheidstekortkoming te verhelpen.  
+[Engels: Safety Enhancement Initiative (SEI); bron: ICAO [10]] 
+De geplande of beoogde doelstelling van de staat of dienstverlener voor een 
+Streefwaarde of 
+veiligheidsprestatie-indicator over een bepaalde periode die overeenstemt met de 
+Veiligheidsprestatie 
+veiligheidsdoelstellingen.  
+streefwaarde 
+[Engels: Safety Performance Target; bron: ICAO [8], [10]] 
+36 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Databronnen en datakwaliteit 
+Databronnen 
+Voor het bepalen van de waarde van een indicator of het vaststellen van een streefwaarde is het nodig om te 
+identificeren welke databronnen hiervoor gebruikt kunnen worden en hoeveel waarde aan een bron kan worden 
+toegekend. De databronnen die beschikbaar en bruikbaar zijn hangen sterk af van de specifieke indicator. In NLR-TR-
+2020-379, [18], staan in Appendix A en B lijsten met databronnen met operationele- en veiligheidsdata en contextuele 
+informatie. Deze databronnen zijn geïdentificeerd ten behoeve van de uitvoering van een Nationale Veiligheidsanalyse 
+(NVA), maar zijn mogelijk ook te gebruiken bij het kwantificeren van de indicatoren en het vaststellen van de basis 
+voor streefwaarden in het kader van de NVIS.  
+ 
+(Criteria voor) het beoordelen van databronnen 
+De beschikbaarheid van gegevens van goede kwaliteit is essentieel voor het kwantificeren van een indicator of het 
+vaststellen van een streefwaarde. Het gaat hierbij niet alleen om specifieke veiligheidsgegevens zoals 
+voorvalmeldingen en incidentgegevens, maar ook om contextuele gegevens zoals aantallen vluchten, weerscondities 
+of vlootgegevens. De contextuele gegevens kunnen onder meer gebruikt worden voor het normaliseren van 
+veiligheidsgegevens.  
+ 
+Het projectteam NVIS moet de kwaliteit van de databronnen die zij benut beoordelen en vastleggen op basis van deze 
+kwaliteitscriteria voor de databronnen zoals beschreven in Tabel B-1. De kwaliteit van de data(bronnen) wordt 
+bepaald door de mate waarin data actueel, nauwkeurig, betrouwbaar, representatief, en volledig is en voldoende 
+informatie en detailniveau bevat om een kwalitatief goede analyse uit te kunnen voeren. Het projectteam NVIS zal 
+een databron op deze criteria beoordelen. Er zijn een aantal vragen geformuleerd als leidraad om de kwaliteit van de 
+data(bron) voor het betreffende criterium te beoordelen. 
+ 
+Referentie [18] beschrijft de waarde van databronnen voor een veiligheidsanalyse en adviezen voor het combineren 
+van verschillende soorten bronnen. De beschouwing van verschillende type data en adviezen in die referentie zijn ook 
+van toepassing op de NVIS, omdat dezelfde soorten objectieve en subjectieve data(bronnen) kunnen worden benut 
+voor het vaststellen van streefwaarden en het kwantificeren van de indicatorwaarde. Het projectteam NVIS wordt 
+aangeraden deze referentie te raadplegen tijdens de beoordeling van databronnen.  
+ 
+Tabel B-1: Kwaliteitscriteria voor databronnen. Bron: [18]  
+Kwaliteitscriteria Definitie en leidraad 
+Mate van hoe actueel de beschikbare data is. Welke tijdsperiode beslaat de data? Hoe 
+Actualiteit 
+recent of oud is de data? 
+Mate van hoe statistisch betrouwbaar of geloofwaardig de data is. Wat is de statistische 
+betrouwbaarheid van data of steekproef? Zijn de betrouwbaarheidsintervallen bekend? 
+In welke mate is de data te controleren op herkomst en feiten? Welk deel van de 
+Betrouwbaarheid 
+data(bron) bevat objectieve of subjectieve data? Wat is het aandeel objectieve/ 
+subjectieve data? Wat zijn de kwalificaties van de rapporteur (in geval van subjectieve 
+data)? 
+Mate waarin de data actueel aangevuld wordt. Hoe vaak wordt deze data bijgewerkt? 
+Continuïteit 
+Wanneer is deze data voor het laatste bijgewerkt? Wordt de data real time of near real 
+38 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Proces voor selecteren, verzamelen, 
+verwerken van data 
+De NVIS volgt de ICAO richtlijnen voor Aviation Data Driven Decision Making (AD3M) bij het selecteren, verzamelen en 
+verwerken van relevante data in het kader van de NVIS. De stappen zijn weergegeven in de onderstaande Figuur C-1. 
+ 
+ 
+Figuur C-1: Proces voor selecteren, verzamelen en verwerken van data  
+ 
+Stap 1: Identificeren van informatiebehoefte 
+Het projectteam NVIS stelt per indicator de informatiebehoefte of gegevensbasis op voor het kwantificeren van de 
+indicator (stap 2b van de methodiek). Tijdens het opstellen van een streefwaarde voor de indicator (stap 4a van de 
+methodiek) kan het projectteam NVIS gebruik maken van een referentiewaarde of trend, waarvoor ook een 
+informatiebehoefte of gegevensbasis moet worden opgesteld.  
+ 
+Stap 2: Identificeren van informatiebronnen 
+Het projectteam NVIS identificeert welke bronnen beschikbaar en bruikbaar zijn om te voorzien in de informatie-
+behoefte. Dit is onderdeel van stap 2b en 4a in de NVIS methodiek. Het projectteam NVIS dient waar nodig bij partijen 
+een verzoek in om specifieke data aan te leveren. Mogelijke databronnen die het projectteam NVIS kan benutten zijn 
+beschreven in Appendix B. Het projectteam NVIS betrekt de klankbordgroepen van de drie domeinen bij het 
+identificeren van informatiebronnen, omdat de klankbordgroepen mogelijk data uit de eigen de organisatie 
+beschikbaar kunnen stellen.  
+ 
+Expert mening, mits gestructureerd verzameld, is ook een belangrijke bron van data. Kwantificering en aggregatie van 
+de kennis van deskundigen wordt vaak gebruikt voor de beoordeling van variabelen waarvoor andere adequate 
+gegevens ontbreken. Formele procedures worden toegepast om het oordeel van deskundigen te verkrijgen en te 
+verwerken, vooral wanneer de kwaliteit en de transparantie van de resultaten belangrijk zijn. Het algemene doel van 
+deze formele methoden is te komen tot een rationele consensus in de resulterende beoordelingen. Indien 
+systematisch een beroep wordt gedaan op deskundigen die over de nodige kennis en ervaring op het betrokken 
+vakgebied beschikken, kan het oordeel van deskundigen een aanvaardbare kwantificeringsnauwkeurigheid opleveren, 
+[3]. De deskundigen moeten analytische vaardigheden combineren met het vermogen om een oordeel te vellen over 
+onbekende (bijvoorbeeld toekomstige) activiteiten.  
+40 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Uitgewerkt voorbeeld 
+Deze appendix geeft een uitgewerkt voorbeeld van toepassing van de methodiek NVIS beschreven in dit document.  
+ 
+Disclaimer: Het voorbeeld is bedoeld als illustratie van de verschillende stappen. Het beschreven risico, de 
+risicobeheersmaatregelen en de resulterende indicatoren en streefwaarden zijn fictief. De genoemde 
+stakeholders, de begeleidingscommissie NVIS en de stuurgroep NLVP zijn niet daadwerkelijk betrokken geweest in 
+de beslismomenten. 
+ 
+Risico en risicobeheersmaatregel 
+Risico: Botsing tussen een commerciële draagraket (commerciële ruimtevaart) en een ander luchtvaartuig. 
+Risicobeheersmaatregel: Voor de lancering wordt het luchtruim vrijgemaakt van ander verkeer. Het lanceerbedrijf 
+dient daartoe een verzoek in bij de ANSP, die het verzoek inplant en een NOTAM doet uitgaan om het andere verkeer 
+op de hoogte te brengen van de tijdelijke luchtruimsluiting.  
+ 
+Stap 1: Vastleggen van het doel van de risicobeheersmaatregelen 
+Stap 1a: Identificeren van het doel van de risicobeheersmaatregelen 
+Het doel van de risicobeheersmaatregel is het voorkomen van een botsing tussen een draagraket en een ander 
+luchtvaartuig. Er zijn geen subdoelen vastgesteld. 
+Het doel past onder GASP Doelstelling 1: “Operationele veiligheidsrisico's voortdurend verminderen”. Het door ICAO 
+vastgestelde GASP Doel (Target 1.1) daarvoor is “Handhaving van een dalende trend van het globale ongevallencijfer”. 
+De bijbehorende GASP Hoog-risico categorie van voorvallen (HRC) is “botsingen in de lucht” (mid-air collision (MAC)). 
+ 
+Stap 1b: Samenvatten van de risicobeheersmaatregelen 
+• Beschrijving van het risico: Botsing tussen een commerciële draagraket en een ander luchtvaartuig. 
+• Beoogde doel: Voorkomen van een botsing tussen een draagraket en een ander luchtvaartuig. 
+• Beschrijving van de risicobeheersmaatregel: Voor de lancering wordt het luchtruim vrijgemaakt van ander 
+verkeer. Het lanceerbedrijf dient daartoe een verzoek in bij de ANSP, die het verzoek inplant en een NOTAM 
+doet uitgaan om het andere verkeer op de hoogte te brengen van de tijdelijke luchtruimsluiting. De 
+maatregel is per 1-6-2022 van kracht bij iedere lancering. 
+• Betrokken partijen: Lanceerbedrijf, ANSP (planner en tactisch), Luchtruimgebruikers (commerciële en kleine 
+luchtvaart), Vergunningverlener en toezichthouder, Luchtvaartpolitie. 
+Stap 2: Identificeren van mogelijke indicatoren 
+Stap 2a: Identificeren van mogelijke indicatoren 
+Stap 2a1: Verzamelen van bestaande indicatoren 
+Bij navraag bij de betrokken partijen en na beschouwing van actuele nationale en internationale actieplannen voor 
+luchtvaartveiligheid zijn geen bestaande indicatoren voor dit risico gevonden.  
+ 
+Stap 2a2: Identificatie van indicatoren in werksessies met inhoudelijk deskundigen 
+In een werksessie met inhoudelijk deskundigen van betrokken partijen (zie notulen <datum>, [Ref1]) zijn de volgende 
+indicatoren geïdentificeerd:  
+I-01 Gemeten afwijking van draagraket van geplande koers 
+I-02 Aantal botsingen per lancering tussen draagraket en ander luchtvaartuig 
+I-03 Aantal luchtruimschendingen door luchtvaartuigen per keer dat het luchtruim gesloten is 
+ 
+42 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Stap 2b: Beschrijven van indicatoren 
+In Stap 2a zijn 13 indicatoren geïdentificeerd. Het projectteam NVIS heeft de indicatoren verzameld en geanalyseerd 
+om te komen tot een gevarieerde lijst van complementaire indicatoren. 
+ 
+ID Indicator Analyse 
+I-01 Gemeten afwijking van draagraket van geplande koers Unieke indicator => I-A 
+I-02 Aantal botsingen per lancering tussen draagraket en ander Combineren met I-13 => I-B 
+luchtvaartuig 
+I-03 Aantal luchtruimschendingen door luchtvaartuigen per keer dat Combineren met I-06, I-09 => I-C 
+het luchtruim gesloten is 
+I-04 Aantal lanceringen zonder vergunningaanvraag Combineren met I-11 => I-D 
+I-05 Aantal tijdig uitgegeven NOTAMs per lancering Combineren met I-12 => I-E 
+I-06 Aantal luchtruimschendingen per luchtruimsluiting of lancering Combineren met I-03, I-09 => I-C 
+I-07 Percentage vliegers/vluchten waarbij de betreffende NOTAM Unieke indicator => I-F 
+bekend is 
+I-08 Aantal keren dat draagraket bij te grote afwijking van vliegbaan of Unieke indicator => I-G 
+bijna-botsing is vernietigd 
+I-09 Aantal luchtruimschendingen van gesloten luchtruim per jaar Combineren met I-03, I-06 => I-C 
+I-10 Door autoriteit goedgekeurde procedure voor aanvraag Unieke indicator => I-H 
+vergunning en luchtruimsluiting ingebed in bedrijfsproces van het 
+lanceerbedrijf; per 1-6-2022 opgenomen in operations manual 
+I-11 Aantal vergunningaanvragen, tijdig en volledig ingediend, per Combineren met I-04 => I-D 
+lancering  
+I-12 Aantal uitgegeven NOTAMs en luchtruimsluitingen, per lancering Combineren met I-05 => I-E 
+I-13 Aantal botsingen tussen een draagraket en een luchtvaartuig per Combineren met I-02 => I-B 
+jaar 
+ 
+De analyse leidt tot de volgende longlist:  
+ 
+ID Definitie Eenheid Data Meetfrequentie 
+I-A Gemeten afwijking van draagraket NM Radardata, beschikbaar bij Eens per maand 
+van geplande koers (nautische ANSP en draagraket 
+mijlen) vliegbaandata bij lanceerbedrijf 
+I-B Aantal botsingen per lancering Aantal per Radardata, beschikbaar bij Eens per jaar 
+tussen draagraket en ander lancering ANSP, Ongevalsdata; wereld-
+luchtvaartuig wijde data beschikbaar bij 
+toezichthouders en instanties 
+(ICAO, IATA, EASA, FAA, NASA, 
+etc.) 
+I-C Aantal luchtruimschendingen van Aantal per Data ANSP, toezichthouder Eens per maand 
+gesloten luchtruim per jaar jaar 
+I-D Aantal vergunningaanvragen, tijdig Aantal per Toezichthouder Eens per maand 
+en volledig ingediend, per lancering  lancering 
+I-E Aantal tijdig uitgegeven NOTAMs Aantal per ANSP Eens per maand 
+per lancering lancering 
+I-F Percentage vliegers/vluchten Aantal per Expert mening (vliegers, Eens per maand 
+waarbij de betreffende NOTAM jaar verkeersleiders) 
+bekend is 
+I-G Aantal keren dat draagraket bij te Aantal per Data ANSP, toezichthouder Eens per jaar 
+grote afwijking van vliegbaan of lancering 
+bijna-botsing is vernietigd 
+I-H Door autoriteit goedgekeurde Geïmplemen- Toezichthouder Eens per maand 
+procedure voor aanvraag teerd of niet totdat procedure 
+vergunning en luchtruimsluiting 
+44 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+daarom is de score op kostenefficiënt goed. Er hebben zich wereldwijd nog geen botsingen 
+voorgedaan tussen commerciële draagraketten en andere luchtvaartuigen, daarom scoort 
+deze indicator niet goed op gevoelig. Omdat botsingen verplicht worden gemeld is de 
+indicator reproduceerbaar en manipulatiebestendig. De definitie van een botsing kan 
+theoretisch gezien veranderen in de tijd, maar dat wordt niet verwacht. Daarom is de 
+indicator ook tijdgeldig. 
+Ratio- Ondubbel- Meet- Reprodu- Accep- Manipulatie- Tijd- Kosten- Een-
+Gevoelig 
+neel zinnig baar ceerbaar tabel bestendig geldig efficiënt voudig 
+ 
+Indicator I-C 
+Definitie Aantal luchtruimschendingen van gesloten luchtruim per jaar 
+Eenheid Aantal per jaar 
+Databron en Data ANSP, toezichthouder. Meetfrequentie: Eens per maand 
+meetmethode 
+Toetsing Dit is een bestaande indicator die al wordt gebruikt door ANSP en toezichthouder. Hij 
+scoort goed op alle criteria. Het advies is om, net zoals ook al wordt gedaan, verschillende 
+categorieën (A, B, C, D) te onderscheiden die de ernst van de luchtruimschending 
+weergeven. 
+Ratio- Ondubbel- Meet- Reprodu- Accep- Manipulatie- Tijd- Kosten- Een-
+Gevoelig 
+neel zinnig baar ceerbaar tabel bestendig geldig efficiënt voudig 
+ 
+Indicator I-D 
+Definitie Aantal vergunningaanvragen, tijdig en volledig ingediend, per lancering 
+Eenheid Aantal per lancering 
+Databron en Toezichthouder. Meetfrequentie: Eens per maand 
+meetmethode 
+Toetsing Deze indicator meet het percentage lanceringen waarvoor een vergunning voor tijdelijke 
+luchtruimsluiting wordt aangevraagd. De termen tijdig en volledig zijn niet geheel 
+ondubbelzinnig of eenvoudig en daarom is de indicator niet geheel reproduceerbaar en 
+manipulatiebestendig, maar los daarvan is deze indicator meetbaar, tijdgeldig en kosten-
+efficiënt. Het is een rationele indicator voor de verificatievraag of de risicobeheers-
+maatregel wordt toegepast, en in die context is hij ook gevoelig voor veranderingen in de 
+mate van toepassing en acceptabel. 
+Ratio- Ondubbel- Meet- Reprodu- Accep- Manipulatie- Tijd- Kosten- Een-
+Gevoelig 
+neel zinnig baar ceerbaar tabel bestendig geldig efficiënt voudig 
+ 
+Indicator I-E 
+Definitie Aantal tijdig uitgegeven NOTAMs per lancering 
+Eenheid Aantal per lancering 
+Databron en ANSP. Meetfrequentie: Eens per maand 
+meetmethode 
+Toetsing Deze indicator meet het percentage lanceringen waarvoor een NOTAM tijdig wordt 
+uitgegeven. De term tijdig, en het feit dat niet wordt gespecificeerd dat de NOTAM als 
+onderwerp een luchtruimsluiting heeft, maken de indicator niet geheel ondubbelzinnig of 
+eenvoudig en daarom niet geheel reproduceerbaar, manipulatiebestendig en acceptabel, 
+maar los daarvan is deze indicator meetbaar, tijdgeldig en kostenefficiënt. Het is een 
+46 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+Databron en Toezichthouder. Meetfrequentie: Eens per maand totdat procedure geïmplementeerd is 
+meetmethode 
+Toetsing Deze indicator meet of de procedure voor aanvraag vergunning en luchtruimsluiting is 
+opgenomen in de operations manual van het lanceerbedrijf. Het is een rationele indicator 
+voor de implementatievraag of (het betreffende deel van) de risicobeheersmaatregel is 
+geïmplementeerd, en in die context is hij ook gevoelig voor veranderingen in de mate van 
+toepassing. Op de andere criteria scoort hij ook goed. 
+Ratio- Ondubbel- Meet- Reprodu- Accep- Manipulatie- Tijd- Kosten- Een-
+Gevoelig 
+neel zinnig baar ceerbaar tabel bestendig geldig efficiënt voudig 
+ 
+Op grond van deze beoordeling heeft het projectteam, in overleg met de begeleidingscommissie NVIS, bepaald dat de 
+indicatoren I-B en I-G worden geschrapt omdat deze niet voldoende gevoelig zijn voor veranderingen. Indicator I-A 
+wordt ook geschrapt vanwege de lage correlatie met de risicobeheersmaatregel en de lage score op indicator 
+gevoelig. Indicator I-F is een twijfelgeval, daarom wordt deze wel meegenomen naar de Klankbordgroepsessies, 
+samen met I-C, I-D, I-E, I-H. 
+ 
+3b: Klankbordgroepen voor het bespreken van indicatoren 
+Op <datum> heeft er een Klankbordgroepsessie plaatsgevonden met vertegenwoordigers van Lanceerbedrijf, ANSP 
+(planner en tactisch), Luchtruimgebruikers (commerciële en kleine luchtvaart), Vergunningverlener en toezichthouder, 
+Luchtvaartpolitie (zie notulen <datum>, [Ref3]), waarin de overgebleven indicatoren zijn gepresenteerd, en 
+beoordeeld op kwaliteit, acceptabiliteit, haalbaarheid en hanteerbaarheid. De experts waren van mening dat indicator 
+I-F mogelijk niet haalbaar is omdat er geen data of meetmethoden beschikbaar zijn om vast te stellen of een NOTAM 
+wel of niet gelezen is door de vliegers/verkeersleiders. Het advies is echter om de vier indicatoren I-C, I-D, I-E en I-H 
+wel te behouden. 
+ 
+3c: Review door begeleidingscommissie en vaststellen van indicatoren 
+Op <datum> heeft het projectteam NVIS indicatoren I-C, I-D, I-E en I-H met onderbouwing en beoordeling ter review 
+aangeboden aan de begeleidingscommissie. De begeleidingscommissie heeft de voorgestelde indicatoren, de 
+onderbouwing en de beoordeling tegen de criteria op kwaliteit en neutraliteit van de analyses en resultaten 
+beoordeeld en deze zonder verdere aanpassingen geaccordeerd. De begeleidingscommissie heeft de indicatoren ter 
+vaststelling aan de stuurgroep NLVP aangeboden. 
+ 
+Stap 4: Vaststellen van streefwaarden 
+4a: Opstellen van streefwaarden. 
+De bij de risicobeheersmaatregel behorende GASP Doelstelling is het voortdurend verminderen van operationele 
+veiligheidsrisico's. Het door ICAO vastgestelde GASP Doel (Target 1.1) daarvoor is “Handhaving van een dalende trend 
+van het globale ongevallencijfer”. De bijbehorende GASP Hoog-risico categorie van voorvallen (HRC) is “botsingen in 
+de lucht” (mid-air collision (MAC)). Dit vertaalt zich naar de streefwaarde van een dalende trend van het aantal 
+ongevallen als gevolg van botsingen tussen een draagraket (commerciële ruimtevaart) en een ander luchtvaartuig, en 
+in een dalende trend in het aantal luchtruimschendingen. Op nationaal niveau zijn de verwachtingen bij overheid, 
+sector en de maatschappij echter scherper, aangezien het risico is geïdentificeerd met prioriteit.  
+Indicator I-H relateert aan een implementatievraag; indicatoren I-D en I-E relateren aan de verificatievraag; indicator I-
+C relateert aan de validatievraag. Stap 4a1 wordt daarom toegepast op indicator I-C, en stap 4a2 wordt toegepast op 
+de andere drie indicatoren. 
+ 
+ 
+48 
+
+NLR-CR-2021-485  |  mei 2022 
+ 
+ 
+ 
+ 
+ Response matrix 
+Reviewcommentaar wordt voorzien van een toelichting in een response matrix. 
+ 
+Tabel E-1: Response matrix 
+Nr.  Organisatie die Sectie waarop Toelichting commentaar Reactie projectteam 
+commentaar geeft commentaar betrekking heeft NVIS 
+1     
+2     
+ 
+ 
+50 
+
