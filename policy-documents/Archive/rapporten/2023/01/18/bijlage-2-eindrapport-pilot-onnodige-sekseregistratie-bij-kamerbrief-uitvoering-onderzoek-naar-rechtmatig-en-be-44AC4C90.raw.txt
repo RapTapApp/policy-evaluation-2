@@ -1,0 +1,1386 @@
+Eindrapport
+Pilot Onnodige Sekseregistratie
+Samen maken we onderwijs en ontwikkeling mogelijk
+
+Bevindingen en conclusies •  In theorie is het mogelijk om persoonsgegevens via de BAP op te halen uit de BRP en 
+binnen DUO te gebruiken zonder dat die gegevens in de systemen van DUO worden 
+Dit rapport maakt onderheid tussen de registratie van seksegegevens en het gebruik van geregistreerd. Dit geldt ook voor de verzameling van persoonsgegevens uit de BRP voor 
+seksegegevens in de communicatie. De hier bedoelde registratie betreft vooral het registre- gegevenslevering of beleidsinformatie. Hiervan moeten forse consequenties worden 
+ren van gegevens óver de burger, in het kader van de uitvoering van wet- en regelgeving en verwacht, onder meer op technisch en op financieel vlak. Dit maakt het niet registreren van 
+van daaraan gerelateerde gegevensleveringen. De communicatie betreft de communicatie sekse in de BAP vooralsnog geen reële optie.
+mét de burger.
+Bevindingen en conclusies met betrekking tot de communicatie met de burger
+Bevindingen en conclusies met betrekking tot de registratie van seksegegevens
+•  Het lijkt mogelijk om in veel uitingen naar de klant de sekse achterwege te laten. Dit kan bij 
+•  Bij de registratie van gegevens over de burger maakt DUO gebruik van de Basisregistratie zowel de fysieke uitgaande post als de digitale uitingen. Bijvoorbeeld in persoonlijke 
+Personen (BRP). Binnen DUO is hier het systeem Basisadministratie Personen (BAP) aan berichten, beschikkingen, online formulieren en in de “Mijn” omgevingen (Mijn DUO, Mijn 
+gekoppeld. De BAP fungeert als centrale toegangspoort naar de BRP voor de DUO-interne Diploma’s). 
+systemen die persoonsgegevens gebruiken en als centrale plaats voor de registratie van •  De directie Onderwijsvolgers (OVG) heeft in september 2019 een analyse uitgevoerd naar 
+personen die wel een relatie met DUO hebben maar (nog) niet in de BRP vindbaar zijn. welke communicatieproducten nog voorzien kunnen worden van genderneutrale commu-
+•  Het gegeven ‘geslacht’ is (nu nog) nodig in het identificatieproces, wanneer een persoon nicatie, inclusief een impactbepaling. Dit geldt bijvoorbeeld voor mailverkeer, klantscher-
+geen BSN (burgerservicenummer) heeft of wanneer het BSN niet DigiD geverifieerd is. Dit men, IDG brieven (Interactieve Documenten Generator) en/of medewerkersschermen. 
+om te voldoen aan de vergewisplicht (art. 12 Wet Algemene Bepalingen •  De directie Registers en Examens (RnE) heeft in de loop van de pilot besloten om de sekse 
+Burgerservicenummer - Wabb). DUO hanteert (naast de geboortedatum) het geslacht als niet langer te tonen in de uittreksels van Mijn diploma’s (voorheen Diplomaregister).
+gegeven om zich ervan te vergewissen dat het aangeboden burgerservicenummer inderdaad 
+hoort bij de bewuste persoon. Het gegeven ‘geslacht’ heeft de voorkeur boven bijvoorbeeld 
+‘naam’ omdat geslacht, anders dan naam, geen twijfel oplevert geeft over de schrijfwijze. Aanbevelingen 
+•  Het gegeven ‘geslacht’ is in het datamodel voor de BAP in technische zin een ‘verplicht 
+gegeven’. Dat brengt met zich mee dat een verwijdering van dat gegeven een bijzonder •  Zorg voor een overheidsbreed uitvoeringsbeleid voor sekseregistratie. DUO kan op het 
+forse en kostbare aanpassing zou zijn. gebied van (onnodige) sekseregistratie niet los van de RvIG en andere overheidsinstanties 
+•  De Rijksdienst voor Identiteitsgegevens (RvIG), de beheerder van de BRP, heeft handelen.
+autorisatiebesluiten opgesteld voor DUO. Hierin is vastgelegd welke persoonsgegevens uit •  Onderzoek de mogelijkheid voor registratie van de sociale sekse in de BRP, zodat deze 
+de BRP beschikbaar zijn voor DUO. DUO heeft, geheel in lijn met de AVG, de beschikking gebruikt kan worden in gegevensleveringen voor onderzoeken die juist niet de juridische 
+over enkel de minimale set gegevens van een persoon die nodig is om onderwijswet- en sekse willen meten. Hiermee wordt voorkomen dat iedere overheidsinstantie een eigen 
+regelgeving uit te voeren. oplossing realiseert en dat de burger bij elke instantie afzonderlijk moet aangeven wat de 
+•  DUO verzorgt een groot aantal gegevensleveringen ten behoeve van beleidsdoeleinden, sociale sekse is.
+onderzoeksdoeleinden en toepassingen waarin het gegeven ‘geslacht’ (of met andere •  Ontwerp een algemene aanschrijfwijze en aanhef voor de communicatie met de burger. De 
+woorden de juridische sekse) is opgenomen. Het volledig achterwege laten van de sekse burger moet daarin zelf een keuze kunnen vastleggen tussen een genderneutrale of 
+maakt emancipatiebeleid onmogelijk. inclusieve variant of een meer traditionele.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 3
+
+Inhoudsopgave
+MANAGEMENTSAMENVATTING .......................................................................2 4.7. Verzamelen en beheren van onderwijsgegevens in diverse registraties ..20
+4.8. Verrijking van onderwijsgegevens tot InformatieProducten IP ....................22
+Aanleiding ............................................................................................................ 2 4.9. Fungeren als Nationaal Europass Centrum Nederland ............................23
+Doel van de pilot .................................................................................................. 2 4.10. DUO communicatie ..................................................................................... 23
+Bevindingen en conclusies .................................................................................. 3 4.11. DUO HRM ..................................................................................................... 25
+Aanbevelingen ..................................................................................................... 3 4.12. Aanvullende bevindingen .......................................................................... 26
+Aanbevelingen op basis van de praktijkervaringen met de toolkit ‘Onnodige 4.13. Samenvatting en conclusies DUO .............................................................. 26
+sekseregistratie’ ................................................................................................... 4
+Mogelijke vervolgstappen voor uitvoering ...................................................... 4 5. AANBEVELINGEN EN VERVOLGSTAPPEN ......................................................28
+1. INLEIDING ......................................................................................................6 5.1. Algemeen ....................................................................................................... 28
+5.2. Aanbevelingen binnen DUO .......................................................................... 29
+2. AANLEIDING EN CONTEXT .............................................................................7 5.3. Aanbevelingen voor het inventariseren ..................................................... 29
+5.4. Aanbevelingen ten aanzien van de Toolkit onnodige sekseregistratie .....30
+2.1. Aanleiding ..................................................................................................... 7 5.5 Vervolgstappen  ............................................................................................. 30
+2.2. Context .......................................................................................................... 7
+2.3. Scope van de Pilot bij DUO ........................................................................... 8 BIJLAGEN
+3. AANPAK ..........................................................................................................10 Bijlage 1 Resultatentabellen – Onderdeel Bekostiging Onderwijs Instellingen
+Bijlage 2 Resultatentabellen - Onderwijsvolgers
+4.1. DUO Compliance AVG en Privacy .................................................................. 12 Bijlage 3 Resultaten - onderdeel Erkennen van Diploma’s, beheren Diplomabank
+4.2. Bekostiging van Onderwijs Instellingen (OI) .............................................. 13 Bijlage 4 Resultatentabel – onderdeel Facet
+4.3. OVG - verstrekken van studiefinanciering, tegemoetkoming schoolkosten Bijlage 5 Resultatentabel – onderdeel ROD
+en innen van lesgelden en studieschulden ........................................................ 15 Bijlage 6 Resultatentabel IP
+4.4. Erkennen van diploma’s, beheren diplomabank ......................................... 17 Bijlage 7 Resultatentabel HRM
+4.5. Organiseren van school- en staatsexamens ............................................... 19
+4.6. Aanmelding en selectie en hoger onderwijs .............................................. 19
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 5
+
+zich sociaal presenteren als ‘non-binair’ (niet (alleen) man of vrouw) en mannelijke langs drie sporen:
+lichaamskenmerken bezitten. De aanduidingen sekse en geslacht worden in dit rapport 1. het opstellen van een afwegingskader;
+afwisselend gebruikt, en in de regel wordt daarmee de juridische sekse bedoeld. 2. het bevorderen van kennis en bewustwording;
+3. het uitvoeren van onderzoek en ontwikkelen van handreikingen.
+Dit rapport bevat inleidende hoofdstukken over de aanleiding en de context, en over de 
+gevolgde aanpak. De kern van het rapport bevat de resultaten en conclusies per Op 3 juli 2020 is vervolgens een Voortgangsbrief aanpak onnodige sekseregistratie verstuurd . 
+hoofdproduct van DUO. Daarna zijn aanbevelingen opgenomen. Bij het rapport hoort een De voornaamste taak van OCW (directie Emancipatie) was in de afgelopen periode, naast het 
+uitgebreide set van resultatentabellen. In het rapport zelf zijn deze samengevat en opstellen van bovengenoemde Kamerbrieven, het laten ontwikkelen van een afwegingskader 
+beschreven. De tabellen in de bijlagen vormen een meer uitgebreide verslaglegging en sekseregistratie en een online toolkit. Bij deze voortgangsbrief is het Eindrapport afwegings-
+kunnen dienen als basis voor verdere uitvoering binnen DUO. kader gevoegd, opgesteld in opdracht van OCW door de Universiteit Utrecht. Daarnaast heeft 
+OCW (directie Emancipatie) een online toolkit laten ontwikkelen door Atria en Transgender 
+Netwerk Nederland. 
+2. Aanleiding en context De pilot die is uitgevoerd binnen DUO kent twee doelen:
+1. Analyse van de registratie en het gebruik van seksegegevens binnen DUO.  
+Waar registreert en/of gebruikt DUO seksegegevens en waar is dit niet (langer) nodig?
+2.1. Aanleiding
+2. V erzamelen van praktijkervaringen met de Toolkit ‘Onnodige sekseregistratie’.  
+In het Regeerakkoord uit 2017, van het voorgaande kabinet Rutte, is toegezegd dat onnodige De analyse wordt uitgevoerd met behulp van de toolkit ‘Onnodige sekseregistratie’ van Atria en 
+registratie van geslacht, waar mogelijk, wordt beperkt. Sekseregistratie is vaak een Transgender Netwerk Nederland (TNN). Aan DUO is gevraagd om praktijkervaringen te verzamelen voor 
+vanzelfsprekendheid en lijkt een beleefdheidsvorm of zelfs -norm. Maar het is een onbewuste andere organisaties die de Toolkit willen gebruiken om onnodige sekseregistratie terug te dringen en 
+norm, die bijdraagt aan het in stand houden van stereotypen en gendernormen. Door sekse voor suggesties aan Atria en TNN voor eventuele bijstelling van of toelichting op de Toolkit.
+te registreren kan de boodschap worden afgegeven dat het uitmaakt of het om een man of 
+een vrouw gaat, terwijl dat in veel situaties niet het geval is. Daarnaast ervaren transgender- 
+en intersekse personen belemmeringen bij de registratie van geslacht. Bovendien is het 2.2. Context
+vanuit het oogpunt van de basisprincipes van de AVG belangrijk om geslacht alleen te 
+registreren wanneer dat verplicht en daarmee nodig is. 2.2.1. Regeerakkoord
+In het regeerakkoord 2017-2021 ‘Vertrouwen in de toekomst’ is toegezegd dat onnodige 
+4
+Op 1 april 2019 heeft de minister van OCW, mede namens de minister voor Rechts- geslachtsregistratie waar mogelijk wordt beperkt. In de Kamerbrief van 1 april 2019 wordt 
+bescherming en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, een hieraan invulling gegeven met een aanpak op dit dossier conform een driesporenbeleid (zie 
+3
+kamerbrief met de aanpak van onnodige sekseregistratie gestuurd . Hierin is beschreven dat 2.1).
+de minister van OCW maatschappelijke partners, overheden en private partijen ondersteunt 
+3 4 
+Eerste Kamer Voortgangsbrief aanpak onnodige sekseregistratie | Kamerstuk | Rijksoverheid.nl Zie: Kamerbrief over onnodige sekseregistratie | Kamerstuk | Rijksoverheid.nl
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 7
+
+2.3.1. Afbakening ten opzichte van andere trajecten
+Amendement Van Ginneken
+Tijdens de uitvoering van de pilot werd DUO langs een ander spoor verzocht een globale 
+impactbepaling te doen van uitvoeringsgevolgen van het amendement Van Ginneken bij de 
+7
+Transgenderwet . Kort samengevat betreft dit het globaal bepalen van de impact voor DUO 
+wanneer in de BRP voor geslacht de waarde ‘X’ mogelijk wordt gemaakt. Dat is niet hetzelfde 
+onderwerp als (de pilot) onnodige sekseregistratie, maar het betreft deels ook de processen 
+en systemen die van belang zijn voor POS. In de eerste plaats betreft dat dan de BRP en 
+binnen DUO de BAP. Aangezien de BRP een basisregistratie is heeft DUO de plicht om de 
+gegevens te hanteren zoals de BRP ze registreert. DUO kan niet eigenstandig besluiten om 
+voor bepaalde gegevens andere waarden te hanteren. Keerzijde is dan uiteraard dat indien 
+besloten wordt om in BRP de waarde ‘X’ mogelijk te maken voor geslacht, DUO dan ook alle 
+daarvoor benodigde aanpassingen zal moeten doorvoeren. De motie Van Ginneken is niet 
+rechtstreeks een onderwerp voor de pilot, maar heeft indirect wel focus gebracht in het 
+denken over de relatie BRP – BAP en sekseregistratie. 
+Toekomstvisie Domein Persoon DUO
+Relevant vanwege de registratie van persoonsgegevens is de Toekomstvisie Domein Persoon 
+binnen DUO. In het kort gaat deze visie erover dat DUO in de toekomst een Domein Identiteit 
+vormt, als opvolger van het huidige Domein Persoon. Het Domein Identiteit wordt ontwor-
+pen om identificerende gegevens te vertalen naar een persoons-ID, waarmee intern gegevens 
+en processen aan elkaar gekoppeld kunnen worden. Pas bij de output wordt het persoons-ID 
+terug vertaald naar de daadwerkelijke persoon met behulp van gegevens uit BRP of gegevens 
+die binnen DUO geregistreerd staan. In de tussentijdse verwerking gaat het om de relevante 
+gegevens betreffende die persoon, niet om wie die persoon is. In de visie neemt DUO het 
+standpunt in geen gegevens te willen beheren die reeds (door een bij wet aangewezen 
+organisatie) beheerd worden. Enkelvoudig beheer en directe afname bij de bron vormt de 
+meest effectieve wijze om tot gegevensminimalisatie te komen. Zolang directe afname 
+vanwege technische beperkingen niet tot de mogelijkheden behoort maakt DUO gebruik van 
+proxy’s die door de bronhouder (als een extensie van de basisregistratie) beheerd worden. 
+7 
+Detail 2022D02346 | Tweede Kamer der Staten-Generaal
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 9
+
+Verzorgen van proces van aanmelding, selectie en plaatsing hoger onderwijs Ja Voor elke hoofdtaak is onder leiding van de betreffende deelnemer aan deze pilot de analyse 
+naar het gebruik van de sekse gedaan. Dit vond plaats via online interviews en op basis van 
+Verzamelen en beheren van onderwijsgegevens in diverse registraties
+Ja
+de verstrekte informatie uit verschillende documenten. De hoofdlijn voor de analyse is:
+Verrijken van onderwijsgegevens tot informatieproducten
+Ja
+Fungeren als Nationaal Europass Centrum Nederland.
+Ja
+Met behulp van de Toolkit onnodige sekseregistratie inventariseren:
+Verzamelen en beheren van gegevens in het landelijk register kinderopvang 
+Nee
+ a. Waar geslacht wordt geregistreerd,
+en peuterspeelzalen
+ b. Welke sekseregistraties onnodig zijn, 
+Inburgering
+Nee
+ c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet, 
+Wet op het Financieel Toezicht (WFT)
+Nee
+ d.  Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er, gebruik 
+daarvoor de OS-checklist
+DUO Bedrijfsvoering Binnen Scope POS
+Door deze analyse wordt inzichtelijk gemaakt wat er komt kijken bij het beperken van 
+Communicatie (Scope is ook de communicatie binnen de hoofdproducten)
+Ja
+onnodige registratie van geslacht en wat de kosten hiervan zijn.
+Human Resources (personeel van DUO)
+Ja
+Compliance, AVG en Privacy Ja
+Voor een eenduidige vastlegging van de resultaten van de interviews is door het team 
+onderstaande tabel gemaakt. 
+Hoofdtaak: ....
+8
+Flow Interface Omschrijving en doel van het gebruik van het Nodig of Indien Onnodig hoe Indien Nodig welke alternatieven 
+geslacht Onnodig? verminderen (zie OS checklist)
+Maatregelen Kosten Maatregelen Kosten
+Onnodig? M2M Bijv. Geslacht komt centraal van RvIG BRP in de eigen computer 
+systemen. 
+H2H Bijv. In het klantcontact vragen ambtenaren naar het geslacht
+Verwerking en opslag Bijv. Het geslacht wordt opgeslagen in systeem xyz?
+Output M2M Bijv. Doorleveringen aan CBS….
+M2H Bijv. Geslacht wordt getoond in Webportaal 
+H2H Bijv. Bij telefonische identificatie van burger
+8
+ M= Machine H = Human; Dit zijn binnen ICT gangbare begrippen om de communicatie tussen computers of tussen mensen en computers aan te duiden. 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 11
+
+4.2. Bekostiging van Onderwijs Instellingen (OI) 4.  Deelproces Ontheffing benoeming eigen wachtgelder: digitale aanvragen bevatten 
+ontslagdocumenten. En in de beschikkingen komt bij de betrokkene (= ex-werknemer) dhr/
+Binnen dit hoofdproduct zijn onderstaande deelprocessen geanalyseerd met als belangrijkste mw. te staan. Beschikkingen worden bewaard in digitaal archief. Inclusief die aanduiding 
+inzichten: dus. De ontslagdocumenten worden wel vernietigd. Dit proces houdt per 1-8-2022 op te 
+bestaan wegens wetswijziging.
+1. V oor de processen bij BKP (Bekostiging en Planning) geldt algemeen dat daar waar buiten 
+de systemen om brieven/beschikkingen worden aangemaakt (ad hoc of in handmatig 5. Deelproces V erantwoorden: in de papieren jaarverslagen van besturen van scholen/
+proces) c.q. per mail wordt gecommuniceerd, de aanhef/aanspreekvorm de beleefdheids- instellingen staan aanduidingen dhr/mw. Betreft bestuursleden en personeelsleden. Geen 
+vorm is, zoals gebruikelijk binnen DUO. Dus, ‘geachte heer/mevrouw’ indien geen naam gebruik, geen registratie door DUO. Verslagen worden gescand en digitaal gearchiveerd.  
+bekend is of gericht wanneer het geslacht van geadresseerde wel bekend (geacht) is. Voor  
+deze vorm van gebruik wordt een algemene (DUO-brede) instructie of communicatie Het digitale proces voor wat betreft de Wet Normering Topinkomens (WNT) kent een vrij 
+schrijfwijze aanbevolen (in lijn met de aanbevelingen uit de Toolkit). invulbaar veld “naam” van personen waarvan WNT info is opgenomen. In dat veld komt 
+soms de aanduiding dhr/mw mee. Aanpassing van het veld is niet mogelijk, toevoegen van 
+2. In het BKP deelproces Statustoek enning (de eerste stap van het hoofdproces Bekostiging een extra invulinstructie is alleen mogelijk door tussenkomst van ministerie van BZK. De 
+en Planning) wordt bij het afnemen van de bestanden van GM (Gegevens Magazijn) het WNT-taxonomie is door dat ministerie bepaald en door meerdere gebruikers overgeno-
+gegeven geslacht/sekse van onderwijsdeelnemers NIET opgevraagd. Dat betekent dat men. In deze is DUO (OI) dus afhankelijk van de activiteit bij dat ministerie c.q. het 
+DUO/OI/BKP niet over dat gegeven beschikt, het verder niet gebruikt en dus ook niet Rijksbrede beleid dat voor onnodige sekse registratie wordt uitgerold
+opslaat. Dit geldt voor alle onderdelen van het geautomatiseerde proces Bekostigen 
+binnen BKP.  6.  Proces aanvragen schoolstichting MRvNS (Meer Ruimte voor Nieuwe Scholen; zowel voor 
+ Europees als Caraïbisch Nederland). Betreft veel mailverkeer met, indien bekend, aanhef op 
+Wel wordt bij de aanbieding van de verzamelbeschikking (het OFB) dat het eindproduct is geslacht. In de aanvragen komen aanduidingen voor met dhr. of mw. (bestuursleden) en 
+van het gehele bekostigingsproces, in de aanbiedingsbrief aan het bevoegd gezag van een van bestuursleden in spe wordt een VOG (Verklaring omtrent gedrag) gevraagd als 
+instelling ‘geachte heer/mevrouw’ gebruikt. Het aanpassen van deze communicatievorm onderdeel van aanvraag. Als onderbouwing van de aanvragen worden ouderverklaringen 
+kan op gelijke wijze als onder 1 beschreven. Hierbij is echter wel een (kleine) technische (voor CN met aanduiding geslacht kind) gevraagd. De ouderverklaringen worden geregi-
+aanpassing van het bekostigingssysteem noodzakelijk. streerd in Excelsheet voor controledoeleinden. Voor allemaal geldt: persoonsgegevens, 
+inclusief seksegegevens, die digitaal binnenkomen via cockpit worden vernietigd na 
+3.  Deelproces Klant (algemene taken ICO): vooral gebruik bij communicatie met ’zakelijke’ afhandeling van de aanvraag. Daar waar de aanvraag (of een deel daarvan) op papier wordt 
+klanten. Vooral vertegenwoordigers van schoolbesturen, in een enkel geval ook een gebruikt (bijv. ter controle van de VOG) wordt deze ook na afhandeling vernietigd. Tijdens 
+(andere) burger. *Zie opmerking 1. Veel telefonisch verkeer: vastleggen klantgegevens in afhandeling liggen de VOG’s in de kluis bij DAM (het serviceteam Document- en 
+SuperOffice, indien bekend dan ook dhr/mw. Soms wordt het in het gesprek gevraagd. Archiefmanagement).
+Opslag: mailarchief, SuperOffice. Er worden geen sekse gegevens opgevraagd op 
+e-formulieren. 7.  Deelproces specifieke uitkeringen educatie en voortijdig schoolverlaten (VSV): er worden in 
+het kader van de specifieke uitkeringen aan de gemeenten en contactscholen en de uitvraag 
+van VSV gegevens, overzichten bijgehouden van de contactpersonen (van scholen en 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 13
+
+overzichten nodig. Nadere analyse op detailniveau moet uitwijzen of dit inderdaad aan de orde Om te bepalen of binnen OVG sprake is van onnodige sekseregistratie of dat het gebruik 
+is en zo ja wat de impact daarvan is. Aansluiten bij toekomstig Rijksbreed beleid is een pre. daarvan onevenredig is wordt hieronder per doel de toepassing ervan uitgelegd en de 
+noodzaak daarvoor samengevat. 
+4.3. OVG - verstrekken van studiefinanciering, tegemoetkoming 4.3.1. Identificatie
+schoolkosten en innen van lesgelden en studieschulden DUO-breed geldt in het algemeen dat bij de dienstverlening aan burgers het kenmerk 
+‘geslacht’ van belang is voor het identificatieproces. Het gaat hierbij derhalve om de juridi-
+Voor het verstrekken van Studiefinanciering, tegemoetkoming schoolkosten en het innen van sche sekse, zoals vastgelegd in de BRP. Voor de identificatie zijn diverse zoekpaden beschik -
+lesgelden en studieschulden bestaat bij DUO de directie Onderwijsvolgers (hierna OVG). Voor baar; het kenmerk ‘geslacht’ is voor een aantal zoekpaden verplicht. Het kent de waarden M, 
+de primaire processen van OVG is de registratie van persoonsgegevens, en dus ook het V en O, voor man, vrouw en onbekend, conform de BRP. Voor OVG wordt het geslachtsken-
+geslachtskenmerk (m/v/o) centraal geregeld in de Basis Administratie Persoon (hierna BAP). merk intern geraadpleegd voor de identificatie van de persoon én vergeleken met de opgave 
+Het geslacht is binnen de BAP en de Basisregistratie Personen (hierna BRP) een verplicht van de aanvrager indien deze persoon niet in het bezit is van een BSN. Het achterwege laten 
+attribuut. Eigenaar van de BAP is DUO Domein Persoon, een onderdeel van Service Eenheid van het kenmerk ‘geslacht’ bij de aanvraag leidt tot verhoogde kans op problematische 
+Gegevens van de directie RNE (Registers en Examens). Het betreft een generiek domein voor identificatie. Hierbij is vooral het onterecht niet onderscheiden van twee verschillende 
+alle DUO processen die persoonsgegevens gebruiken. De persoonsgegevens worden personen een ernstige fout, omdat dit leidt tot een datalek. Bij het onterecht niet onderken-
+verkregen vanuit de BRP, indien de persoon in het bezit is van een BSN. De BRP bevat nen dat een persoon reeds geregistreerd is, is een groot risico de kans op dubbele dienstver-
+persoonsgegevens van Nederland (ingezetene) en van personen die Nederland hebben lening, waardoor voor de burger vervelende schulden kunnen ontstaan. In elk geval kan de 
+verlaten (niet ingezetene). De BRP registreert de juridische sekse (en geen sociale sekse). identificatie veel uitzoekwerk met zich meebrengen, wat een stagnerende werking kan 
+hebben voor:
+De aanvragers met een BSN kunnen digitaal worden bediend door in te loggen met DigiD of 
+eIDAS. NB: OVG processen registreren naast de persoonsgegevens van de aanvrager ook A. het aanmeldproces voor aanvragers die niet in het bezit zijn van een BSN én
+persoonsgegevens van ouders (m.b.t opvragen inkomen bij aanvraag aanvullende beurs) en B. voor het achteraf koppelen van een onderwijsnummer aan een BSN. 
+van partner en kinderen (m.b.t. aanvragen éénoudertoeslag). OVG is verantwoordelijk voor 
+het uitvoeren van de wetgeving WSF2000, WSFBES de WTOS, Les- en Cursusgeld, de Met betrekking tot A
+Lerarenbeurs en een aantal overige subsidieregelingen voor financiering leraren. Geen van de Voor deze aanvragers wordt eerst gecontroleerd in de BAP én BRP of ze wellicht toch in het 
+wetten en subsidie regelingen schrijft expliciet de registratie of gebruik van het geslachtsken- bezit zijn van een BSN. Het geslachtskenmerk dat bevraagd wordt op het formulier wordt 
+merk voor. OVG gebruikt gegevens over de sekse voor doelen waarvoor de wet dit niet gebruikt ten behoeve van de identificatie. Dit kan helpen voorkomen dat een persoon 
+expliciet voorschrijft te weten voor: tweemaal geregistreerd wordt. Het correct beoordelen hiervan levert meer handmatig werk 
+en een grotere foutkans op indien het geslachtskenmerk niet is opgegeven door de 
+1. Identificatie aanvrager.
+2. Communicatie
+3. Onderzoek
+4. Statistiek
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 15
+
+Conclusie Advies 
+Registratie van sekse ten behoeve van (externe) communicatie is niet altijd evenredig. Echter Verwijder het geslachtskenmerk op de medewerkersschermen (zie ook doel communicatie 
+in een aantal gevallen is er sprake van een wat meer formele relatie met de klant in de hiervoor), en in de DWH leveringen indien mogelijk. Voorzie medewerkers van een raadpleeg-
+communicatie. Bijvoorbeeld in de berichtgeving vanuit een Bezwaar & Beroep proces of een functie waarmee in uitzonderlijke gevallen het geslacht in de BAP geraadpleegd kan worden. 
+klachtafhandeling. Door de klant met meneer/mevrouw aan te spreken wordt toenadering Impact sekse achterwege laten in onderzoek
+gezocht. Het is niet eenvoudig hiervoor een alternatief te vinden.
+Bron Uren
+Advies
+DWH leveringen 120
+Verwijder de ’geslacht’ aanhef op alle output naar de klant (zogenaamde externe output). 
+Overweeg of in het Klachtenproces of B&B proces de klant een keuze kan worden aangebo-
+den, hoe de klant wil worden aangesproken in de communicatie in bijvoorbeeld het door de 4.3.4. Statistiek
+klant in te vullen (web)formulier. Het hanteren van de juiste aanspreekvorm zal leiden tot een 
+betere relatie. Vanuit OVG worden gegevens aangeleverd aan het Centraal Bureau voor de Statistiek (CBS), 
+Betreffende de interne output, naar de medewerker, geldt een ander advies. Bespreek binnen in het kader van de wettelijke taken van het CBS.
+Management OVG én in overleg met Management Service Eenheid Gegevens de optie om de Het CBS levert informatie en data inzicht in maatschappelijke vraagstukken waarmee tevens 
+geslachtsaanduiding niet meer standaard te tonen op de medewerkersschermen, waarbij het maatschappelijk debat, beleidsontwikkeling en de besluitvorming van de overheid 
+medewerkers van DUO die geautoriseerd zijn voor toegang tot persoonsgegevens de worden gevoed. 
+geslachtsaanduiding wel kunnen achterhalen via een raadpleegfunctie. Daarmee kan dan in Inzicht in sekse kan daarbij noodzakelijk zijn. 
+uitzonderlijke gevallen het geslacht in de BAP geraadpleegd worden. Overweeg hierbij of het 
+niet meer tonen van het geslacht op de schermen, zolang het geslachtskenmerk van een Advies Het vraagstuk of het nodig is dat DUO de geslachtskenmerken aan het CBS levert is 
+persoon in de BAP een verplicht gegeven is, bijdraagt aan het terugdringen van het gebruik. buiten scope. Deze vraag moet door het CBS beantwoord worden. Uitgangspunt is dat deze 
+Voor de aanpak van het gender neutraal communiceren is een Rijksbrede aanpak gewenst. DUO brede analyse geen oordeel geeft over de evenredigheid van de sekseregistratie aan 
+externe partijen. 
+4.3.3. Onderzoek
+De afdelingen Handhaving en Inspectie (hierna H&I) en Persoonsgebonden Innen (hierna PGI) 4.4. Erkennen van diploma’s, beheren diplomabank
+raadplegen de sekseregistratie voor het uitvoeren voor onderzoek. PGI kan het geslachtsken-
+merk raadplegen op een medewerkersscherm. H&I krijgt het geslachtskenmerk aangeleverd Binnen dit hoofdproduct zijn onderstaande onderdelen geanalyseerd aan de hand van de 
+via Datawarehouse (hierna DWH). Het gegeven ‘geslacht’ is daarbij niet altijd noodzakelijk Toolkit Onnodige Sekseregistratie met als belangrijkste inzichten:
+maar is voor het onderzoek in een aantal gevallen wenselijk om over te beschikken. H&I wil 
+hiervan op de hoogte zijn bij huisbezoek in het kader van controle op misbruik van de 1.   Bij Mijn diploma’s (voorheen bekend als Diplomaregister) werd het geslacht getoond op 
+uitwonende beurs. PGI gebruikt de sekse bij het traceren van debiteuren via social media. het digitaal uittreksel. Sinds eind maart 2022 wordt dit niet langer gedaan, mede naar 
+aanleiding van de Pilot onnodige sekseregistratie. Bij EMREX staat het geslacht in het 
+ELMO bericht (EU standaard berichten opmaak). NB EMREX is een onafhankelijk 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 17
+
+4.4.1. Samenvatting en conclusies 4.5. Organiseren van school- en staatsexamens
+Bij verschillende processen binnen DUO/Internationale Diensten komt het voor dat sekse/ De huidige computersystemen voor het domein Examens zijn op leeftijd en worden vervan-
+geslachtgegevens worden uitgevraagd, gebruikt of geregistreerd. In een aantal gevallen is gen binnen het programma Modernisering Examens (MEX). Zij vallen daarmee buiten de 
+daarvoor een wettelijke basis aanwezig en in aantal gevallen ook niet. Bij Mijn Diploma’s en scope van deze POS opdracht. Bij de al nieuw gebouwde MEX onderdelen, zoals BUS, wordt 
+Correctieverzoek vloeit registratie voort uit de wet. De vraag is wel of deze registratie nog nog achteraf onderzoek gedaan naar registratie en gebruik van de sekse. In de nieuwe MEX 
+gewenst is. Het is echter niet aan DUO om daarover te besluiten. Zowel de diplomamodellen systemen en processen die nu worden ontworpen of gebouwd wordt de sekseregistratie 
+VO als MBO bevatten geen sekse, het getuigschrift HO ook niet. De ingezette lijn is dat conform OS checklist meegenomen.
+gefaseerd overgegaan wordt op een neutrale aanhef zoals Geachte klant of Beste A. de Vries. Bij het examensysteem Facet en de nieuwe MEX examensystemen is het terugdringen van de 
+sekseregistratie en het gebruik ervan voldoende geborgd. In de communicatie met de klanten 
+Mijn diploma’s wil graag zoveel mogelijk aansluiten op de originele diploma’s, hetgeen een en in de uitwisseling tussen systemen wordt de sekse niet gebruikt of enkel met een duide-
+argument kan zijn om het geslacht niet meer te registreren en de wetgeving daarop aan te lijke (vaak wettelijke) onderbouwing. Het geslacht wordt niet vermeld op diploma’s en of 
+passen. certificaten, zie afbeelding:
+Met ingang van april 2022 is het geslacht voor iedereen niet meer zichtbaar in de online 
+omgeving Mijn diploma’s. Hieronder een aantal voor examens relevante wettelijke bepalingen waaruit volgt dat het 
+geslacht wordt geregistreerd als identificerend gegeven behorend bij diplomagegevens van 
+Bij Verklaring afgelegd examen en Vervangend opleidingsdocument bestaat ook een wettelijke basis kandidaten staatsexamen voortgezet onderwijs:
+om de sekse te registreren. Hierbij is aan te bevelen om nader te onderzoeken of de registra- •  Artikel 15 Besluit register onderwijsdeelnemers (BRO) / in combinatie lezen met de artikelen 
+tie van het geslacht noodzakelijk is voor identificatie. 16, onderdeel p en 17, lid 2 sub f, BRO
+• Artikel 22, lid 1 en 3 BRO
+Bij Diplomabeschrijving, Kinderopvangpersoneel, Kinderopvangpersoneel Nederland, Legalisatie, • Artikel 47 BRO
+Onderwijs Ondersteunend Personeel, Onderwijsbevoegdheid, Ontheffing of erkenning, Uitgebreide • Artikel 49 BRO
+Statusverklaring, Titulatuur, en Verklaring van onderwijsbevoegdheid bestaat geen wettelijke • Artikel 43, lid 3, 4 en 5 BRO
+grondslag om sekse te registreren. Er kunnen daarom ook verschillende stappen worden 
+gezet om dit te verminderen. Hierbij kan gedacht worden aan het verwijderen van de sekse 
+op aanvraagformulieren, het niet meer registreren daarvan in RDE, en het herschrijven van de 4.6. Aanmelding en selectie en hoger onderwijs
+brieven aan de zaakwaarnemer. Indien het nodig is dat de sekse wordt geregistreerd kan dat 
+alleen als daarvoor een wettelijke grondslag bestaat of alsnog gerealiseerd wordt. DUO heeft een beperkte wettelijke taak rondom de aanmelding en selectie in het Hoger 
+onderwijs. De verantwoordelijkheid van de taak ligt bij de instellingen, DUO levert enkele 
+ondersteunende taken:
+•  Identificeren van de persoon in geval de student niet middels DigiD binnenkomt
+•  Leveren van BRP-gegevens, waaronder geslacht
+•  Leveren van vooropleidingsgegevens
+•  Leveren van indicatie soort collegegeld
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 19
+
+Input Juridisch: er zijn wetten waarin staat dat het geslacht gevraagd en geregistreerd moet worden. 
+•  In Mijn DUO en andere digitale kanalen kan DUO waar mogelijk het tonen van sekse Denk bijvoorbeeld aan de Wet Register Onderwijsdeelnemers (ROD): artikel 9 lid 2 sub c. 
+gerelateerde informatie achterwege laten.
+•  In Mijn DUO of andere digitale kanalen is het niet nodig om geslacht op te vragen als men Communicatie
+met DigiD inlogt. Als men met eIDAS inlogt is de toegang ook alleen mogelijk als RvIG de Digitale kanalen
+persoon via het BSN Koppelregister (BSNk) uniek weet te koppelen aan een BSN. In deze •  Het klantportaal Mijn DUO is alleen toegankelijk met DigiD of eIDAS (alleen met BSN). DUO 
+gevallen kan DUO het gegeven geslacht uit BRP betrekken. vraagt hier geen sekse op, de identiteit is al vastgesteld. Mocht DUO op termijn ook eIDAS 
+•  Bij het papieren kanaal kan een BSN door een uitvoeringsmedewerker worden gecontro- gaan gebruiken voor digitale dienstverlening aan Europese onderdanen zonder BSN, dan 
+leerd op andere gegevens dan geslacht en geboortedatum. Op het formulier kunnen we in kan het ontbreken van een geslacht een aandachtspunt worden.
+zo’n geval het geslacht laten vervallen. •  Lastiger wordt het proces als een student zijn ouders handmatig opgeeft. Of een debiteur 
+•  Bij het papieren kanaal is het geslacht nodig op het moment dat een persoon op het zijn partner opgeeft. In die gevallen is geen sprake van DigiD van de personen die het 
+formulier niet te vinden is in BRP. Dat kan niet vervallen. betreft, en kan DUO de huidige implementatie van de vergewisplicht niet uitvoeren.
+•  Bij inschrijving via Studielink is het geslacht nodig bij buitenlandse studenten zonder BSN. 
+Indien in de uitwisseling tussen instelling en DUO (eventueel via Studielink) het geslacht M2M-kanalen
+niet meer aanwezig is in de set die naar DUO wordt gestuurd voor personen met een BSN, •  Studielink: bij buitenlandse studenten geen BSN, dus input geslacht nu nodig.
+raakt dit aan de vergewisplicht en de tooling die DUO generiek gebruikt om personen te •  Bij studenten met BSN zou in theorie geen geslacht meer doorgegeven hoeven te worden. 
+identificeren, en te controleren of een dergelijk persoon zónder BSN al geregistreerd is in DUO geeft echter invulling aan de vergewisplicht (Art. 12 Wabb) door middel van controle 
+de Basisadministratie Persoon. van het BSN mét geboortedatum en geslacht. Bovendien levert het eventueel wegvallen 
+van het gegeven ‘geslacht’ problemen op met de HQI tooling (High Quality Identify) die 
+Registratie in BAP DUO inzet, zie hieronder.
+•  Dit blijft nodig. Niet alleen vanwege juridische aspecten (de wet vraagt het) maar ook om in 
+later stadium onderzoek te kunnen doen. Bijvoorbeeld: hoeveel mannen doen een Papieren kanalen
+opleiding die momenteel vooral door vrouwen wordt gevolgd en is gender gericht beleid •  Als BSN is opgegeven kan de uitvoeringsmedewerker mogelijk op een ander gegeven 
+daarop gewenst? controleren om te zien of hij de juiste persoon in BAP of BRP kan vinden.
+•  Verder kan in BRP momenteel niet worden achterhaald hoe het geslacht daarin was •  Ook zonder BSN kan een persoon, op basis van opgegeven gegevens, gezocht worden in de 
+geregistreerd ten tijde van de dienstverlening. Alleen het actuele geslacht is beschikbaar. BRP. Als de persoon echter niet vindbaar is, heeft domein Persoon het geslacht nodig om 
+•  BRP kent drie waarden voor geslacht: M, V en O (Man, Vrouw, Onbekend). Andere waarden de persoon te registreren, aangezien geslacht een verplicht attribuut is in de BAP.
+dan deze moeten zeer zorgvuldig worden overwogen; de impact is naar alle waarschijnlijk-
+heid zeer groot. Dat komt ook naar voren in de globale impactbepaling van het amende- Procesmatig in de primaire dienstverlening
+ment Van Ginneken (in het kader van de Transgenderwet), waarin wordt voorgesteld om de Het geslacht wordt voor meerdere doeleinden geregistreerd:
+waarde X te gaan gebruiken in de BRP. • Ten behoeve van identificatie.
+•  Nu wordt volgens Wet Algemene Bepalingen BSN bij gebruik van BSN (wanneer dit niet 
+Binnen DUO spelen meerdere aspecten rondom het registreren van sekse. gekoppeld is middels DigiD) gecontroleerd of de geboortedatum en het geslacht overeen-
+komen. Hetzelfde gebeurt bij gebruik van het onderwijsnummer.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 21
+
+4.8.1. Samenvatting en conclusies De gebruiker heeft zelf volledig de controle over de persoonsgegevens waaronder de sekse 
+binnen Europass. Gebruikers kunnen dit achteraf aanpassen, alsook met wie en voor hoelang 
+Bij de afdeling Informatieproducten worden in de 1-cijferbestanden met onderwijsdeelne- zij die gegevens willen delen (voor bijvoorbeeld een sollicitatie).
+mers en examens en de bestanden met personeelsgegevens sekse/geslachtgegevens 
+geregistreerd en gebruikt. Het gebruik van deze gegevens gebeurt altijd voor beleidsonder-
+zoek, en vaak ten behoeve van positief beleid of het in kaart brengen van (on)gelijkheid. 4.10. DUO communicatie
+ 
+Maatregelen De afdeling Communicatie registreert zelf geen geslacht en kan vanuit haar verantwoordelijk-
+Het niet gebruiken van het sekse/geslacht gegeven is bij IP geen optie gezien het belang van heid niets zeggen over welke geslachtsregistratie binnen DUO wel of niet noodzakelijk is. De 
+het gegeven voor beleidsonderzoek. Het is goed mogelijk om andere opties naast man/vrouw afdeling is wel betrokken bij het uitvragen van de sekse van klanten en bij het gebruik van de 
+op te nemen in de bestanden en te gebruiken, mits dit gegeven in de BAP wordt geregi- sekse in externe communicatie. De analyse vanuit Communicatie heeft daarom alleen 
+streerd. Hieraan zijn nauwelijks kosten verbonden voor IP (uiteraard los van de kosten van betrekking op de input en de output van de sekseregistratie. Met input wordt bedoeld ‘hoe 
+aanpassing van de BAP en invoering van de gegevens daarin). Kosten verbonden aan krijgen we het geslacht aangeleverd’ en met output wordt bedoeld ‘hoe gebruiken we het 
+eventuele acties om het gegeven geslacht te verwijderen uit de open data bestanden op de geslacht in de communicatie met de klant’.
+website van DUO zijn nog niet geschat vanwege het nog lopende onderzoek. 
+Input (exclusief ophalen uit de registers)
+Binnen DUO is de afdeling Communicatie betrokken bij het beheer van en de redactie op de 
+4.9. Fungeren als Nationaal Europass Centrum Nederland klantenformulieren, zoals: aanvraagformulieren, wijzigingsformulieren en machtigingsformu-
+lieren. Bij iedere DUO hoofdtaak hoort een eigen set formulieren. De werkgroep 
+Het Nationaal Europass Centrum van Nederland is sinds 2005 gevestigd bij DUO (de afdeling ‘Communicatiemiddelen’ is op dit moment een overzicht aan het creëren van die sets. 
+Internationale Diensten van de directie RenE). Het Nationaal Europass Centrum is verant- Uitzondering hierop is het organisatieonderdeel OI/BKP (zie 5.1), dat zelf verantwoordelijk is 
+woordelijk voor promotie en voorlichting van Europass in Nederland en doet actief mee aan voor het beheer van de inhoud van de e-formulieren. De webredactie doet daarop overigens 
+de ontwikkeling van Europass door deelname aan werkgroepen en projecten. De medewer- wel een redactionele slag.
+kers belast met de Europass taken zijn in dienst bij DUO, maar voeren deze taak, in opdracht 
+van OCW, uit voor de Europese Commissie. Dat doen ze samen met diverse partijen in het In principe vraagt DUO op alle formulieren naar het geslacht door de aankruisopties man/
+onderwijsveld en bedrijfsleven in Nederland. Dat geheel vormt het Europass consortium, vrouw. Dit is niet van toepassing bij OI/BKP. Alleen voor de OVG-formulieren is er al een 
+waarvan DUO de voorzitter is. richtlijn voor de geslachtsvraag: alleen bij een initiële aanvraag mag naar het geslacht worden 
+gevraagd. Dus wel op een aanvraagformulier voor studiefinanciering, maar bijvoorbeeld niet 
+Binnen deze taak wordt door DUO zelf geen registratie of gebruik van het persoonsgegeven op een wijzigingsformulier. Voor de overige hoofdtaken is er geen richtlijn en wordt er op 
+geslacht gedaan. Echter in de online Europass tool wordt door de gebruikers zelf wel het ieder formulier naar het geslacht gevraagd.
+geslacht gebruikt en vastgelegd. De gebruiker maakt hierbinnen voor zichzelf een profiel aan 
+waarbij, in lijn met aanbevelingen van de Toolkit Onnodige Sekseregistratie, gekozen kan 
+worden of en hoe het geslacht moet worden geregistreerd en daarna moet terugkomen op 
+bijvoorbeeld de Europass CV en/of de andere Europass communicatie producten.   
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 23
+
+voor een Piet of Marie gekozen wordt, maar ook voor een Yasmin of William. Laatste punt invulveld. De DUO afdeling Personeelsbeheer haalt deze informatie van het ID-bewijs of het 
+van aandacht van de inclusieve schrijfwijzer is de samenstelling van een stel. In voorbeeldtek- ingevulde RIN-formulier. Op het RIN-formulier wordt dus wel naar het geslacht gevraagd. 
+sten kan er niet uitsluitend worden uitgegaan van man/vrouw stellen.
+Naast P-Direkt en SAP wordt bij de afdeling HRM gebruik gemaakt van het wervings- en 
+selectiesysteem Connexys. Bij het invullen van het online sollicitatieformulier wordt niet naar 
+4.11. DUO HRM het geslacht gevraagd. Connexys is een systeem dat DUO niet zelf in beheer heeft; het wordt 
+afgenomen via het UBRijk (Uitvoeringsorganisatie Bedrijfsvoering Rijk, onderdeel van het 
+Binnen de afdelingen HRM en Personeelsbeheer (DFS-BV-APK) van DUO wordt gebruik ministerie van BZK).
+gemaakt van de systemen P-Direkt, SAP, RIN B.V en Connexys. P-Direkt valt buiten de scope 
+van deze opdracht. Hierover heeft de directie Emancipatie rechtstreeks contact binnen de In de communicatie aan medewerkers wordt in de arbeidsovereenkomsten, stageovereen-
+Rijksoverheid. komsten, brieven en besluiten in de aanhef het geslacht gebruikt. Voor de eed/belofte en 
+jubilea wordt een brief of besluit opgemaakt waarin het geslacht wordt benoemd in de 
+Bij de indiensttreding van een nieuwe medewerker/stagiair(e) vult deze persoon op verzoek adressering etc. Daarnaast wordt voor de HR-dashboard ook het geslacht gebruikt. Deze 
+van de afdeling HRM een aantal formulieren in. Op geen enkel formulier wordt naar het informatie wordt uit SAP verkregen.
+geslacht gevraagd. Naast de formulieren levert de nieuwe medewerker/stagiair(e) een kopie 
+van een geldig ID-bewijs aan waarop het geslacht staat vermeld. De afdeling 4.11.1. Samenvatting en conclusies
+Personeelsbeheer voert de nieuwe medewerkers op in P-Direkt (zie afbeelding) waarbij het 
+geslacht moet worden geregistreerd aangezien dit een verplicht invulveld is. Hierbij bestaat Bij een aantal processen binnen DUO/HR komt het voor dat sekse/geslachtgegevens 
+echter ook de waarde ‘genderneutraal’. DUO HRM registreert het geslacht verder zelf niet. geregistreerd dan wel gebruikt worden. Registratie vloeit voort uit het gebruik van P-Direkt: 
+sekseregistratie is een verplicht invulveld. Het is aan P-Direkt (dat buiten de scope van de 
+Voor de medewerkers die alleen worden opgevoerd in SAP (te weten: uitzendkrachten, pilot valt) om te bepalen of hiervoor een wettelijke basis aanwezig is.
+externen en gedetacheerden) wordt de informatie aangeleverd door IUC, Randstad of HRM. Om bedrijfs- en managementinformatie (dashboard) aan te kunnen blijven leveren (bijv. 
+De afdeling Personeelsbeheer ontvangt de benodigde informatie, dus ook het geslacht, om verhouding m/v, aantal m/v in managementfuncties) blijft het voor HR noodzakelijk om in 
+de tijdelijke medewerker te kunnen opvoeren in SAP. In SAP wordt bij de persoonsgegevens P-Direkt/SAP het geslacht te registreren. P-Direkt heeft naast man/vrouw een tweetal 
+het geslacht geregistreerd, aangezien dit net als in P-Direkt, een verplicht invulveld is. invulvelden genderneutraal en ongespecificeerd toegevoegd. HR zal samen met de afdeling 
+Personeelsbeheer bekijken hoe deze twee nieuwe invulvelden kunnen worden geïntegreerd 
+Op het moment dat DUO een besluit neemt over de wijze van sekseregistratie kan het en hoe deze informatie aangeleverd kan worden vanuit de nieuwe medewerker of stagiair.
+gekozen besluit door de afdeling SAPCC worden doorgevoerd in SAP. Deze aanpassing kan 
+gevolgen hebben voor de interne afnemers die SAP gebruiken om (management)informatie HR maakt in brieven/besluiten/overeenkomsten bij de adressering en aanhef nog gebruik van 
+te verkrijgen dan wel om informatie te ontvangen (bijv. BIC, ICT-autorisatie, Facilitaire Dienst de aanhef ‘de heer/mevrouw’. De vraag is of dit nog gewenst is. Hierbij is aan te bevelen om 
+(Rijkspas), Adresboek (intern) en de Rijksbrede adressengids). te onderzoeken hoe over te gaan op een neutrale aanhef zoals bijvoorbeeld ‘Geachte 
+medewerker’ of ‘Beste J. Leeraar’.
+Voor alle medewerkers die worden opgevoerd in P-Direkt of SAP wordt via RIN B.V. een uniek 
+RijksIdentificatieNummer (RIN) aangevraagd. Ook in dit systeem is het geslacht een verplicht 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 25
+
+Aanmelden en selectie hoger onderwijs Communicatie
+Bij de aanmelding en selectie Hoger Onderwijs levert DUO enkele ondersteunende taken. De afdeling Communicatie van DUO heeft een ondersteunende rol bij de communicatie met 
+Wanneer de persoon zich meldt middels DigiD is het BSN beschikbaar en geverifieerd, en klanten. Dat geldt bij de inkomende communicatie zoals aanvraagformulieren en wijzigings-
+levert DUO een aantal persoonsgegevens waaronder geslacht aan de instelling. Zonder DigiD formulieren, en bij de uitgaande communicatie, zowel bij het handmatig opstellen van 
+moet de instellingen het gegeven ‘geslacht’ aan DUO leveren teneinde registratie mogelijk te brieven als bij het automatisch genereren van berichten. Ook heeft de afdeling de ‘DUO 
+maken en een onderwijsnummer uit te reiken. In een later stadium kan dan alsnog de schrijfwijzer’ gepubliceerd. Als vervolg op de pilot kan worden gedacht aan het bijstellen 
+koppeling met een BSN volgen. daarvan. De schrijfwijzer van P-Direkt, zoals aangehaald in deze paragraaf, biedt mogelijke 
+voorbeelden.
+Verzamelen en beheren van onderwijsgegevens
+In deze paragraaf worden het Domein Persoon en het systeem BAP beschreven. BAP is de HRM
+Basisadministratie Persoon van DUO. Het persoonsgegeven ‘geslacht’ is hier noodzakelijk DUO maakt gebruik van P-Direkt, beheerd door het ministerie van BZK. Sekseregistratie is 
+voor een goede identificatie en het voldoen aan de vergewisplicht die verbonden is aan het daarin verplicht. Voor bedrijfs- en managementinformatie blijft registratie van geslacht 
+gebruiken van een burgerservicenummer (‘klopt het nummer en hoort dit nummer bij de nodig. In diverse documenten maakt DUO nog gebruik van de aanhef de heer/mevrouw. 
+bedoelde persoon?). Veel afnemende processen hebben het gegeven ‘geslacht’ nodig voor Aanbeveling is om te onderzoeken hoe over te gaan op een neutrale aanhef.
+het uitvoeren van de wet- en regelgeving, en het gegeven is nodig voor gegevensleveringen 
+en informatieproducten. Aanvullende bevindingen
+De Europese Commissie stelt een institutioneel gendergelijkheidsplan (gender equality plan 
+Verrijking onderwijsgegevens tot informatieproducten of GEP) verplicht voor financiering vanuit Horizon Europe, het kaderprogramma voor 
+De afdeling Informatieproducten verzorgt een groot aantal gegevensleveringen en informa- onderzoek en innovatie. Dat is geen verplichting, maar vanuit financieel oogpunt wel zachte 
+tieproducten, onder meer voor beleidsonderzoek en -evaluatie en als basis voor planningen. dwang. Sekseregistratie is dan nodig voor financiering vanuit dat kaderprogramma, en tevens 
+Het gegeven ‘geslacht’ speelt daarin een belangrijke rol en kan niet worden verwijderd. Het moet er in een GEP aandacht zijn non-binaire en transgender personen. 
+eventueel hanteren van andere opties dan man/vrouw zou mogelijk zijn tegen relatief geringe 
+kosten. Voorwaarde is dan wel dat de eventuele andere opties geregistreerd zijn in het 
+systeem BAP.
+Nationaal Europass Centrum Nederland
+In opdracht van OCW voert de afdeling Internatonale Diensten van DUO de Nederlandse 
+taken met betrekking tot Europass uit voor de Europese Commissie. DUO kent bij deze 
+taakuitvoering geen eigen registratie of gebruik van het persoonsgegeven ‘geslacht’. In de 
+online Europass-tool heeft de gebruiker zelf de volledige controle over registratie en gebruik 
+van persoonsgegevens waaronder sekse.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 27
+
+5.2. Aanbevelingen binnen DUO 5.3. Aanbevelingen voor het inventariseren
+Hier staan aanbevelingen die betrekking hebben op mogelijke vervolgacties binnen of vanuit Hier zijn aanbevelingen en best practices vermeld zoals DUO die tijdens de pilot heeft 
+DUO. verzameld voor andere organisaties die gaan onderzoeken en inventariseren wat er plaats-
+vindt binnen de eigen organisatie ten aanzien van registratie en gebruik van seksegegevens.
+DUO voert een groot aantal (onderwijs-) specifieke wetten en regelingen uit, en dient zich 
+daarbij te houden aan generieke wetgeving. Voor deze pilot zijn daarbij onder meer de AVG Het heeft het POS team goed op weg geholpen om een onderscheid te maken tussen 
+en de Wet algemene bepalingen burgerservicenummer van belang. Op een aantal punten situaties waarin ‘geslacht’ nodig is voor de identificatie van een persoon of voor beleids- en 
+heeft DUO mogelijk al ruimte om registratie en gebruik van het gegeven ‘geslacht’ terug te onderzoeksdoeleinden enerzijds, en situaties waarin het hoofdzakelijk gaat om communica-
+dringen. Als het een wijziging is van geringe omvang zou DUO dat bijvoorbeeld samen met tie met de burger. In de laatstgenoemde situaties zien we vaak meer ruimte om geslacht of 
+andere wijzigingen al kunnen meenemen. sekse achterwege te laten. Het beperken of achterwege laten van registratie van ‘geslacht’ 
+Aanbevolen wordt om dit per hoofdtaak nader te beoordelen en op te pakken. Voor grotere bleek, tijdens de pilot, voor DUO veel ingrijpender te zijn, onder meer doordat het gegeven in 
+wijzigingen is afstemming met OCW nodig. veel wet- en regelgeving voorkomt. 
+Daarnaast is het goed om in overleg met het bestuursdepartement OCW te onderzoeken of Registratie van persoonsgegevens, en in het geval van POS specifiek juridische sekse of 
+het gebruik van seksegegevens in de onderwijswetgeving naar huidige inzichten passend is. geslacht, is vaak nodig voor identificatie, en in de uitvoering van wet- en regelgeving. 
+Het aanpassen van de onderwijs wet- en regelgeving is aan OCW, het is aan DUO om daarvan Daarnaast is het gegeven (juridische) sekse of geslacht nodig voor een groot aantal informa-
+de uitvoeringsgevolgen te bepalen. Uiteraard moet er bij eventuele aanpassingen ook oog tieproducten voor beleids- en onderzoeksdoeleinden en gegevensleveringen. 
+zijn voor de middelen en de beschikbare capaciteit. DUO is een organisatie die veel wet- en regelgeving uitvoert. Daarvoor heeft DUO veel 
+gegevens nodig, waaronder persoonsgegevens. Nog afgezien van uitkomsten als het 
+Na de herziening van de Nederlandse ID-kaart, voorzien in 2024 of 2025, zal de aanduiding verstrekken van studiefinanciering, en naderhand het innen van ontstane studieschulden, en 
+van het geslacht daarop niet langer aanwezig zijn. Op het paspoort blijft de aanduiding het aan de scholen en onderwijsinstellingen toekennen van bekostiging levert DUO ook veel 
+vooralsnog wel aanwezig, in verband met Europese regelgeving. Bij gebruik van DigiD levert informatieproducten op. DUO kent vanwege al dergelijke processen een groot aantal 
+het ontbreken van de geslachtsaanduiding op de ID-kaart geen problemen op. Onder meer in gegevensverwerkingen.
+Duitsland is het geslacht nu al niet meer aanwezig op de ID-kaart. Bij het aanvragen van DUO is gehouden aan de verplichting vanuit de AVG tot het bijhouden van een register van 
+studiefinanciering door een student zonder DigiD maar met een Duitse ID-kaart levert dat verwerkingsactiviteiten (verwerkingsregister), vanwege de omvang van de organisatie én 
+problemen op bij de identificatie. De problemen doen zich voor bij de instellingen, omdat zij vanwege de gegevensverwerkingen.
+het gegeven ‘geslacht’ aan DUO moeten leveren. Het wordt aanbevolen om af te stemmen •  Elke organisatie met meer dan 250 medewerkers is volgens de AVG verplicht om een 
+tussen het bestuursdepartement OCW en DUO hoe met deze situatie om te gaan en tot een verwerkingsregister te hebben.
+definitieve oplossing te komen. Daarbij moeten ook de instellingen nauw betrokken worden. •  Elke organisatie, ongeacht omvang, die persoonsgegevens verwerkt op meer dan inciden-
+tele basis is verplicht een verwerkingsregister te hebben. De Autoriteit Persoonsgegevens 
+stelt daarbij: “In de praktijk zijn verwerkingen zelden incidenteel. Denk bijvoorbeeld aan de 
+persoonsgegevens van medewerkers die u verwerkt. Of van uw klanten, cliënten, patiënten 
+of inwoners.”
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 29
+
+Hieronder wordt een indicatie gegeven van de te verwachten omvang met T-shirt maten Categorie II – Beleidsonderwerpen; afstemming en nader onderzoek vereist
+Small, Medium, Large, Extra Large (S, M, L en XL).
+Onderwerp Omvang
+Categorie I – Door DUO door te voeren of al onderhanden
+Onderzoeken of gebruik van het gegeven geslacht in de Wet op het hoger onderwijs en Onderzoek: 
+wetenschappelijk onderzoek kan worden geschrapt, en wat de impact hiervan zou zijn. M
+Onderwerp Omvang Onderzoeken of registratie van geslacht (wettelijke basis) kan worden geschrapt voor Onderzoek: 
+Mijn diploma’s. S/M
+OI/ Bekostiging: vervang in brieven en bij de aanbieding van de bekostigingsbeschikking S
+(OFB) de aanduiding ‘heer/mevrouw’ door een aanduiding in lijn met de Toolkit. Onderzoeken of registratie van geslacht (wettelijke basis) nodig is voor (de identificatie S/M
+bij de aanvraag van) Verklaring Afgelegd Examen en Vervangend Opleidings Document
+OI/Bekostiging: pas waar van toepassing werkinstructies en overzichten aan om S
+onnodige sekseregistratie te verwijderen. Met OCW en instellingen onderzoeken van de situatie waarin een aankomende S/M
+buitenlandse student zich identificeert met een ID-kaart zonder geslachtsaanduiding 
+Bij OVG zijn al aanpassingen doorgevoerd in de communicatie met de klant, maar in de M
+(zoals de Duitse ID-kaart), en tot een oplossing komen. 
+communicatie met de klant en met de medewerker zijn er nog verdere verbetermogelijk-
+heden aanwezig. De geraamde omvang noodzaakt wel tot een beoordeling in relatie tot 
+de portfolioplanning. 
+Categorie III – Overheidsbreed
+Bij OVG – Onderzoek: Doe nader onderzoek naar het eventueel verwijderen van het S
+geslachtskenmerk op de reguliere medewerkersschermen en in de DWH- leveringen. 
+Medewerkers kunnen dan van een afzonderlijke raadpleegfunctie worden voorzien om 
+Onderwerp Omvang
+in gevallen waarin dat nodig is het geslacht in de BAP te raadplegen.
+In BRP een keuzemogelijkheid realiseren voor aanschrijfnaam. Onderzoek is toegezegd XL
+Bij Examens wordt bij het ontwikkelen van nieuwe onderdelen voor het traject S
+door staatssecretaris BZK, onderwerp wordt nader onderzocht in samenhang met 
+‘Modernisering Examenlandschap’ volledig gewerkt volgens de OS-checklist uit de 
+andere wijzigingen in BRP-stelsel.
+Toolkit. Voor al ontwikkelde onderdelen wordt onderzoek gedaan naar eventueel 
+In BRP verband onderzoek verrichten naar kosten en baten van registratie van sociale Onderzoek: 
+onnodige registratie en gebruik van sekse.
+sekse XL
+Communicatie: onderzoek de huidige situatie nader voor wat betreft formulieren, S
+Een organisatie heeft de plicht om zich ervan te vergewissen dat een BSN betrekking Onderzoek: 
+handmatige brieven en systeembrieven. Pas waar van toepassing de schrijfwijzer verder 
+heeft op de bedoelde persoon. De gebruikelijke controle daarvoor is de combinatie L
+aan en stel een advies op voor de aanhef in systeembrieven.
+BSN-geboortedatum-geslacht. Onderzoek, bijvoorbeeld in Manifestgroep-verband of in 
+HR: vervang waar mogelijk het gebruik van ‘de heer/mevrouw’ in brieven/ besluiten/ S
+BRP-verband of er een controle mogelijk en uitvoerbaar is zonder het gegeven geslacht 
+overeenkomsten bij de adressering en aanhef door bijvoorbeeld ‘geachte medewerker’ 
+die een vergelijkbare mate van zekerheid oplevert.
+of ‘beste <naam>’.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 31
+
+ 
+ 
+ 
+Het geslacht wordt zoals gebruikt Niet nodig Sekse gegeven < 50 uur   
+in de aanhef bij communicatie weglakken bij 
+Verwerking en 
+landt in mailbox (dienstpostbus) archivering (cf. 
+en in het archief (centraal) bij richtlijnen AVG).  
+opslag 
+DMT.  
+ 
+Bijv. Doorleveringen aan CBS…. n.v.t.     
+ 
+M2M 
+ 
+Bijv. Geslacht wordt getoond in n.v.t.     
+Webportaal 
+M2H 
+ 
+ 
+Output 
+Bij telefonisch contact met de Niet nodig In werkinstructie    
+aanvrager wordt het gegeven voor opnemen: niet meer 
+zover bekend gebruikt in de doen.  
+H2H 
+aanspreekvorm.  
+ 
+ 
+ 
+*Zie ook algemene opmerking bij deelproces algemene taken Klant/ICO. Voorkeur voor algemene (DUO) brede richtlijn op dit punt.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         33 
+
+De gegevens omtrent geslacht 
+worden gebruikt om betrokkenen 
+bij de zaak/het verzoek te 
+identificeren zodat er geen 
+onbevoegden 
+deelnemen/betrokken raken.  
+De bezwaren, beroepen en      
+aanvragen WOB worden  
+geregistreerd in e-docs. Daarna  
+wordt bij team B&B in Blueriq de  
+zaak/het verzoek, vastgelegd. Bij de archivering van de 
+Van bezwaren en beroepen stukken na afloop van de 
+worden van de gegevens van zaak worden cf. de AVG 
+gemachtigden, (niet relevante) 
+Verwerking en 
+medebelanghebbenden,  DUO- persoonsgegevens gelakt. 
+opslag 
+medewerkers en RCE Ook het gegeven omtrent 
+medewerkers (die de zaak geslacht is daar vaak 
+behandelen) in Blueriq CSV onderdeel van (niet 
+bestanden aangemaakt. De altijd).  
+gegevens worden dus 
+geregistreerd per zaak.  
+Voor de WOB verzoeken gebeurt 
+dit niet.  
+ n.v.t.     
+M2M 
+      
+ n.v.t. 
+M2H 
+ 
+Bijv. Bij communicatie met Deels Als Klein, <   
+partijen wordt het gegeven nodig aanhef/beleefdheidsvorm 50 uur 
+Output 
+gebruikt ter identificatie (mede niet gebruiken wanneer 
+M/V), als niet nodig. Werkinstructie 
+H2H 
+aanhef/beleefdheidsvorm, en ter hierop aanpassen.  
+duiding van personen (ook als 
+M/V).  
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         35 
+
+sekse van de directeur van de gaan? De aanduiding (eigen 
+school. Ter identificatie wijzigen naar M/V/O ?  beheer).  
+(controle).  
+ 
+Bijv. Het geslacht wordt Mailbox en     
+Verwerking en 
+opgeslagen in systeem xyz? procesdossier 
+ 
+opslag 
+ 
+ n.v.t.     
+M2M 
+ 
+ n.v.t.     
+M2H 
+ 
+Output Doorlevering CBS, maar Nodig (beleid en   Zie boven.   
+wederom op niveau aantallen statistiek) 
+(niet op de persoon 
+H2H 
+herleidbaar).  
+ 
+ 
+DUO Hoofdtaak: BEKOSTIGING MRvNS  
+Indien Onnodig hoe Indien Nodig welke 
+Omschrijving en doel 
+verminderen alternatieven  
+Nodig of  
+4
+Flow Interface van het gebruik van het 
+Onnodig (zie OS checklist) 
+geslacht 
+Maatregelen Kosten Maatregelen Kosten 
+ n.v.t.     
+M2M 
+Deelproces Meer-ruimte- Nodig op basis   Maatregelen die al getroffen n.v.t. 
+voor-nieuwe-scholen van wettelijke   zijn: gegevens worden alleen 
+(stichten van scholen) teams bekostigingstaak   beschikbaar gemaakt voor 
+Input 
+VZP/verantwoorden. Bij de en wet- en Eventueel aanpassen Kosten behandelaars van de 
+H2M 
+digitale aanvragen voor MRvNS regelgeving ouderverklaring- onbekend, aanvragen (autorisaties en 
+moet een aantal verplichte MRvNS.*** formulier (zowel voor maar wachtwoorden), de gegevens 
+bijlagen worden ge-upload. In EN als CN). worden z.s.m. na afhandeling 
+ 
+4
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         37 
+
+Geen alternatieven 
+voorhanden.  
+Er is veel mailverkeer. Daarin Niet nodig In werkinstructie    
+wordt geduid en aangesproken opnemen dat het 
+met sekse gegeven (gericht).  sekse gegeven zo min 
+H2H 
+mogelijk moet 
+worden gebruikt.  
+Het gegeven is slechts tijdelijk in    Zie boven. n.v.t. 
+bezit van DUO. Nadat de 
+aanvragen zijn afgehandeld en 
+de besluiten rechtsgeldig zijn 
+Verwerking en 
+geworden worden de 
+onderliggende bijlagen met deze 
+opslag 
+gegevens vernietigd. Tijdelijke 
+opslag: cockpit (aanvraag) en 
+beveiligde opslag op g-schijf. 
+Opslag papier in kluis bij archief.  
+n.v.t.      
+M2M 
+n.v.t.      
+M2H 
+ 
+Mailverkeer, soms Niet nodig In werkinstructie   n.v.t. 
+Output 
+telefoongesprekken voor opnemen dat het 
+H2H verduidelijking of extra gegeven zo min 
+informatie/documenten.  mogelijk moet 
+worden gebruikt. 
+ 
+*** 
+Overzicht wet en regelgeving MRvNS VO, Po en VO-bes en PO-bes.  
+PO: overleggen VOG o.b.v. artikel 5 van de regeling voorzieningenplanning PO. Het artikel stoelt op artikel 74A van de WPO (wet primair onderwijs). 
+Overleggen ouderverklaring ov artikel 7 van de regeling voorzieningenplanning PO. Het artikel stoelt ook op artikel 74A van de WPO.  
+PO-BES: overleggen VOG o.b.v. artikel 4 van de regeling voorzieningenplanning PO CN 2021. Dat artikel stoelt op artikel 72a WPO-BES. Overleggen 
+ouderverklaring o.b.v. artikel 6 van de regeling voorzieningenplanning PO CN 2021.  Dat artikel stoelt op artikel 72a WPO-BES 
+VO: overleggen VOG op basis van artikel 6 van de regeling voorzieningenplanning 2020 VO. Dat artikel stoelt op artikel 68 WVO. Overleggen 
+ouderverklaring o.b.v. artikel 9 van de regeling voorzieningenplanning 2020 VO. dat artikel stoelt ook op artikel 68 WVO.  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         39 
+
+ 
+  De formulieren en Klein, n.v.t.  
+Opslag van aanvragen en brieven worden na Structureel 
+beschikkingen/antwoordbrieven in afhandeling digitaal (tot 1-8-
+digitaal archief.  gearchiveerd. Hierbij 2022): kosten 
+I.v.m. controleslagen door worden bv de extra 
+collega’s: opslag in diverse aanvullende stukken handeling(en).  
+mailboxen. al geschoond Schatting: 50-
+(persoonsgegevens 100 uur 
+worden onleesbaar 
+Verwerking en 
+gemaakt), dit kan ook 
+voor het sekse-
+opslag 
+gegeven.  
+En na afloop van 
+controleslag door 
+collega’s de mailboxen 
+moeten worden 
+geschoond van dit 
+gegeven (of de 
+stukken).  
+ 
+n.v.t. n.v.t. n.v.t. n.v.t. n.v.t.  
+M2M 
+ 
+n.v.t. N.v.t. n.v.t. n.v.t. n.v.t.  
+M2H 
+ 
+In de brieven (niet-automatisch  In werkinstructie/ Geen n.v.t.  
+Output aangemaakt) wordt de aanhef uitvoeringsbeleid 
+gebruikt (geachte heer/mevrouw opnemen: aanhef 
+of gericht) en wordt het voormalig brief en duiding 
+H2H 
+personeelslid in kwestie ook betrokkene neutraal 
+geduid met geslacht/sekse.  maken. 
+ 
+ 
+ 
+*Deelproces OEW zal per 1-8-2022 in verband met een wetswijziging (WPO) komen te vervallen. Er komt geen ander proces voor in de plaats.  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         41 
+
+DUO Hoofdtaak: BEKOSTIGING Status Toekenning 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel van 
+Nodig of  
+7
+Flow Interface het gebruik van het verminderen (zie OS checklist) 
+Onnodig 
+geslacht Maatregelen Kosten Maatregelen Kosten 
+      
+Hoofdproces Bekostigen  
+“Statustoekenning” is  n.v.t. 
+gebaseerd op gegevens uit de 
+registers die via 
+gegevensmagazijn (GM) worden 
+opgevraagd.  
+In de uitvraag van OI aan GM 
+wordt alleen gevraagd naar 
+M2M 
+gegevens die nodig zijn voor het 
+Input 
+proces statustoekenning t.b.v. 
+bekostiging (alle 
+onderwijssectoren). In die 
+uitvraag komt het gegeven 
+sekse/geslacht nergens voor. 
+Reden is dat het niet nodig is voor 
+het vervolg, namelijk bekostigen.  
+ 
+ n.v.t.     
+H2M 
+ n.v.t.     
+H2H 
+ n.v.t.     
+Verwerking en 
+ 
+opslag 
+De verzamelbeschikking (OFB) Nee Aanpassing naar ‘geacht 200 uur   
+bevat een aanhef ‘geachte bestuur’ 
+Output M2M 
+heer/mevrouw’. 
+ 
+ 
+7
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         43 
+
+Uitvoeringstoetsen worden Niet nodig Zie boven. N.v.t.   
+via/door OCW openbaar gemaakt (OCW) 
+M2H 
+op een website. 
+ n.v.t.     
+H2H 
+*regietaak op uitvoeringstoets ligt formeel bij BS, dus wellicht buiten scope, maar OI voert de toetsen uit (net als, bv RNE, OVG, examens,  SF etc..) 
+ 
+DUO Hoofdtaak: BEKOSTIGING Verantwoorden 
+Omschrijving en doel Nodig Indien Onnodig hoe Indien Nodig welke alternatieven  
+9
+Flow Interface van het gebruik van het of  verminderen (zie OS checklist) 
+geslacht Onnodig Maatregelen Kosten Maatregelen Kosten 
+ n.v.t.     
+M2M 
+ 
+Deelproces *Verantwoorden: Niet nodig In handleiding bij proces Klein, IvhO is eigenaar van het proces.  
+bij het indienen van de papieren jaarverslagen (extern) inclusief In het OAC (Onderwijs 
+jaarverslagen (alle sectoren) opnemen dat gegevens verwerking, Accountants Protocol) zou 
+komt het voor dat in de m.b.t. geslacht/sekse opslag en wellicht iets opgenomen kunnen 
+verslagen en bijlagen moeten worden output: worden?  
+geslacht/sekse gegevens zijn vermeden/weggelakt.  <50 uur. 
+opgenomen. Dat zijn duidingen  
+bij bijv. bestuursleden die het 
+Input 
+verslag ondertekenen of de 
+H2M 
+functievermelding van 
+personeelsleden (bv ihkv de 
+WNT). Het gebruik van sekse 
+geslachtgegeven is niet 
+verplicht; het gegeven wordt niet 
+opgevraagd.    
+De gegevens worden door DUO 
+NIET gelezen of gebruikt.  
+ 
+ 
+9
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         45 
+
+informatie die b.v. ook op de 
+websites van de 
+scholen/instellingen is te vinden.  
+*Het proces verantwoorden bestaat uit nog 2 onderdelen, nl. het indienen van de jaarrekening met XBRL en het indienen van de assurancerapporten. 
+Beide processen zijn volledig digitaal en kennen geen vermelding van geslacht/sekse gegevens. 
+ 
+DUO Hoofdtaak: BEKOSTIGING W&R 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel van Nodig 
+10
+Flow Interface het gebruik van het of  verminderen (zie OS checklist) 
+geslacht Onnodig Maatregelen Kosten Maatregelen Kosten 
+ n.v.t.     
+M2M 
+ n.v.t.     
+H2M 
+Deelproces beoordelen Niet nodig Afspraak maken met Klein <   
+bezwaarschriften/schrijven behandelend juristen 50 uur 
+VOI’s. in dit proces worden door (B&B) dat de 
+de wet- en regelgeving-experts sekse/geslacht 
+ingekomen bezwaarschriften gegevens worden 
+beoordeeld en wordt er voor de gelakt voordat het VOI 
+Input 
+juristen van B&B een formulier VOI naar W&R komt.  
+ingevuld met het standpunt van  
+H2H 
+DUO/OI.  Indien nodig: in 
+In bezwaarschriften komen sekse werkinstructie W&R 
+en geslacht gegeven voor. In opnemen deze 
+adressering, aanhef en soms m.b.t. gegevens niet te 
+betrokken (ex) personeelsleden.  gebruiken c.q. weg te 
+ lakken.   
+ 
+De bezwaarschriften met VOI Niet nodig Zie boven -   
+Verwerking en 
+worden via mail (intern) gedeeld. 
+opslag 
+Beperkt en met aandacht voor 
+ 
+10
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         47 
+
+ 
+ n.v.t.     
+M2M 
+ 
+ n.v.t.     
+Output M2H 
+ 
+Zie boven. Niet nodig Zie boven -   
+H2H 
+ 
+ 
+*regulier klantcontact vindt in de vorm van (vooral) brieven en mails bij meerdere teams binnen OI/BKP incidenteel plaats. De brieven worden niet door 
+een systeem aangemaakt (redelijk free format dus). De aanhef en adressering kan bij dit contact ook gegevens omtrent sekse/geslacht bevatten.  
+Dat betekent dat de richtlijnen niet alleen voor ICO, maar voor heel BKP moeten worden aangescherpt. Maakt de actie niet duurder.    
+  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         49 
+
+Het geslacht kan opgenomen Nodig onder andere voor personen   
+ worden in Blueriq die niet in de BAP geregistreerd 
+staan. 
+Doorleveringen aan CBS CBS: nodig n.v.t.  
+En diversen bv CJIB, SWZ. NB leveringen naar buiten, buiten   
+ scope   
+M2M 
+Mijn DUO    
+Onnodig   
+Aanpassen   
+Bijv. Geslacht wordt toegepast naar Onnodig  Advies Zie onder 
+berichtgeving Klant,   Aanpassen.  
+     
+    
+ (uitzonderingen daargelaten bijv. het n.v.t.  
+Output  correct aanschrijven van de klant   
+ tijdens  B&B proces)   
+M2H 
+ Alternatief zou kunnen zijn dat klant   
+ in het webformulier een keuze krijgt   
+ hoe hij/zij aangeschreven wil worden.   
+ Beslispunt    
+    
+Of medewerkers schermen Beslispunt Advies is verder Zie onder 
+beoordelen 
+Bijv. Bij telefonische identificatie Onnodig Advies Zie onder 
+H2H van burger aanpassen in 
+Instructies  
+** op basis van analyse OVG gender neutraal (zie hst 5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         51 
+
+(klachten ontvangen via   
+webformulier)  
+ 
+ 
+n.v.t.   Zie hierboven n.v.t. 
+M2H 
+alternatief  
+Geslacht wordt gebruikt in Nodig, voor correct aanschrijven Zie hierboven n.v.t. 
+H2H aanschrijving van afgehandelde alternatief 
+klacht 
+ 
+De scope en taken van OVG betreft uitvoering van onderstaande wetten.  
+ 
+Wet  Ondersteuning door systeem Uitfaseren per/naar 
+WSF2000 SFS  - 
+ Flits  2022/SFS 
+ WVU 2022/SFS 
+ DWT 2023/SFS 
+ Combuis Ja In analyse 
+ Debiteur volg systeem ? /SFS 
+WSFBES SFS - 
+Les en Cursusgeld SFS - 
+ FLITS 2022/SFS 
+ DWT 2023/SFS 
+ HAVIK  In analyse 
+ EER In analyse 
+WTOS TSV 2025/SFS 
+ FLITS 2022/SFS 
+ DWT 2023/SFS 
+ AVA 2025/SFS 
+ BAK 2025/SFS 
+Lerarenbeurs e.a. ABL - 
+ SAP   
+Overige Leraren Subsidies Acces applicatie Stoppen of naar ABL 
+per? 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         53 
+
+Samengevat: 
+Communicatie Bron  Uren 
+Extern  Analyse Gender neutraal 5600 
+communiceren 
+ Update Contentbeheer  150  
+ Update ABL   50 
+Intern Medewerkersschermen (intern  900 
+communicatie) 
+ Service naar  900  
+medewerkersschermen 
+ Totaal 7.600 
+ 
+Uit Analyse OVG Gender neutraal communiceren.  
+Aspect Aan te passen  Uren  
+SFS  klantschermen raadplegen en invoer 5000  (basis 
+ vertoetsen 64,5 
+mededelen bouwdagen) 
+berichten medewerkersschermen 
+SEK Blauwe knop 300  
+Mijn duo 
+Mijn gegevens (oude client) 
+Aanvraag scholieren 
+Aanvraag LLLK 
+IDG 
+SEK Portalen 100  
+MIJN DUO aanpassen welkomstzin 
+EIDAS aanpassen welkomstzin 
+landingspagina 
+SEK DUO.nl (30 pagina’s, 2x rekenhulp,12x 150  
+wizard) 
+ABL 4 à 5 regelingen 100  
+E-mail KANA: aanpassen aanhef 16  
+Telefonie Instructie medewerkers gender neutraal pm 
+communiceren 
+ Totaal Ongeveer 5.600  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         55 
+
+Bijlage 3 Resultaten – onderdeel Erkennen van Diploma’s, beheren Diplomabank 
+Inventarisatie (onnodige) sekseregistratie Internationale Diensten 
+ 
+Mijn diploma’s 
+a. Wordt het geslacht geregistreerd? 
+Ja, het geslacht wordt uit de BAP gehaald en wordt getoond op het digitaal uittreksel. (Kanttekening: tijdens de pilot is deze situatie gewijzigd, het 
+geslacht wordt niet meer getoond.) Bij EMREX staat het geslacht in het ELMO bericht. Bij DR services wordt geen geslacht meegestuurd in het bericht. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+De wettelijke basis ligt in het besluit register onderwijsdeelnemers artikel 15 lid c 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Bij OCW signaal neerleggen of dit nog gewenst is. Zowel de diplomamodellen VO als MBO bevatten ook geen sekse, het getuigschrift HO ook niet. 
+Aangezien Mijn diploma’s zoveel mogelijk wil aansluiten op de originele diploma’s, is dit een argument om de registratie van het geslacht uit het besluit 
+te schrappen 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+Niet meer tonen op het uittreksel. Voor EMREX geldt: ELMO bericht aanpassen. 
+ 
+Verklaring afgelegd examen  
+a. Wordt het geslacht geregistreerd? 
+Nee, niet op de VAE zelf  maar wel op het onlineaanvraagformulier, en het wordt geregistreerd in RDI 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Er ligt een wettelijke basis in het eindexamenbesluit VO artikel 54 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Desondanks onderzoeken of de registratie van het geslacht noodzakelijk is voor identificatie.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+Vervangend opleidingsdocument 
+a. Wordt het geslacht geregistreerd? 
+Nee niet op de VOD zelf, maar wel op het onlineaanvraagformulier en registratie in RDI 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Er ligt een wettelijke basis in het eindexamenbesluit VO artikel 54 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Desondanks onderzoeken of de registratie van het geslacht noodzakelijk is voor identificatie.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         57 
+
+- Geen registratie in RDE.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Kinderopvangpersoneel Nederland 
+a. Wordt het geslacht geregistreerd? 
+Ja,; 
+- op het fysieke) aanvraagformulier. 
+- in RDE 
+- in brieven aan zaakwaarnemer (vb: Naar aanleiding van uw aanvraag ten behoeve van #if($klant.geslacht == 'M')de heer 
+#else#if ($klant.geslacht=='V') mevrouw #else de heer/mevrouw #end#end$klant.opgemaakteVoorletters 
+$!klant.voorvoegsel $klant.achternaam voor erkenning van zijn/haar beroepskwalificatie om te mogen werken in de 
+kinderopvang deel ik u het volgende mee. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van (fysiek) aanvraagformulier. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Legalisatie 
+a. Wordt het geslacht geregistreerd? 
+Ja,; 
+- op (fysiek aanvraagformulier) 
+- registratie in RDE. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt.  
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van (fysiek) aanvraagformulier. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Onderwijs Ondersteunend Personeel 
+a. Wordt het geslacht geregistreerd? 
+Ja: 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         59 
+
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van aanvraagformulieren. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+- 
+ 
+Uitgebreide Statusverklaring 
+a. Wordt het geslacht geregistreerd? 
+Niet op de statusverklaring zelf, maar wel: 
+- op het aanvraagformulier 
+- in RDE 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van aanvraagformulieren. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+- 
+ 
+Titulatuur 
+a. Wordt het geslacht geregistreerd? 
+Ja,: 
+- Op het aanvraagformulier 
+- in RDE. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van aanvraagformulieren. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+- 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         61 
+
+Bijlage 4 Resultatentabel - Onderdeel Facet 
+DUO Hoofdtaak: Organiseren van school-, staats- en inburgeringsexamens FACET 
+Indien Onnodig hoe Indien Nodig welke 
+Omschrijving en doel 
+Nodig of  verminderen alternatieven  
+13
+Flow Interface van het gebruik van het 
+Onnodig (zie OS checklist) 
+geslacht 
+Maatregelen Kosten Maatregelen Kosten 
+Vanuit scholen en commerciële n.v.t. n.v.t. In de facet db is nu opslag 0,- 
+opleidingsinstituten wordt via van M, V, of onbekend 
+geautomatiseerde koppeling mogelijk.  
+M2M 
+aangeleverd van de verschillende Nodig   
+LAS’en aan de db van Facet voor  Bij de invoer controle 
+elke individuele kandidaat Doorleveren worden alle andere opties 
+aan Cito van dan m/v automatisch 
+Een examinator voert gegevens 
+in het portaal “centrale gegevens voor onbekend. Het gegeven 
+statistieken wordt verder niet gebruikt 
+eindtoets” of  portaal van Facet. 
+Via online web formulier of waarmee of getoond aan de 
+onderzoeken kandidaat alleen gebruikt 
+middels upload van een csv 
+en analyses voor statistieken. Vanuit 
+excel bestand. Voor elke 
+individuele kandidaat naar  de organisaties die de 
+Input 
+verschillen analyses uitvoeren is niet 
+H2M 
+tussen jongens de vraag gekomen om 
+en meisjes naar m/v de optie non 
+ binair of geen van deze 
+Wet SLOA, opties te registreren in de 
+artikel 3, lid 1 Facet db. Een vrij 
+invoerveld is zeer 
+onwenselijk omdat er geen 
+controle is op invoer. 
+De helpdesk Facet bij DUO heeft Onnodig Zie hieronder de 0k n.v.t. n.v.t. 
+H2H contact met scholen en de DUO  argumentatie en 
+helpdesk medewerker registreert  
+ 
+13
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         63 
+
+ instelling m/v is niet 
+Het geslacht wordt gebruikt om relevant en kan worden 
+de contactpersonen op scholen weggelaten in de 
+persoonlijker aan te kunnen aanhef van de brief, uit 
+schrijven / spreken / informeren. het overzicht en uit het 
+web scherm. Dat zou 
+100 uur werk zijn 
+Het geslacht wordt niet gebruikt n.v.t. n.v.t. n.v.t. n.v.t. n.v.t. 
+H2H 
+in het telefonische contact. 
+ 
+ 
+ 
+  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         65 
+
+ 
+ 
+In leveringen aan IP voor Nodig   Het betreft hier wettelijke  
+M2M 
+bijvoorbeeld de 1 cijfer (wettelijk leveringen 
+bestanden PO, VO, MBO en HO, geregeld) 
+CBS en de Inspectie. 
+Overige (incidentele) leveringen, Misschien   Wettelijke grondslag voor  
+bijvoorbeeld aan ADR  niet nodig levering is aanwezig. Specifiek op 
+geslacht is de vraag 
+In Mijn DUO zit STI, waar de Is algemene     
+M2H 
+Output 
+(aankomende) student kan inzien richtlijn mijn 
+welk collegegeld hij/zij  moet DUO. Buiten 
+gaan betalen. In STI zit geen invloed ROD 
+geslachtsaanduiding, maar wel in 
+Mijn DUO. Hier staat 
+‘goedemorgen meneer/mevrouw 
+<geslachtsnaam>’ 
+Communicatie met      
+contactpersonen van HO-
+H2H 
+instellingen 
+ 
+  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         67 
+
+Geslacht is onderdeel van de Dit is nodig omdat deze   Andere mogelijkheden geen 
+gegevens over bestanden dienen als naast man/vrouw kunnen extra 
+onderwijspersoneel, geleverd grondslag voor worden opgenomen in het kosten 
+door RNE uit het zakelijk (beleids)onderzoek. bestand. Dit is afhankelijk 
+portaal. Bevoegd Gezag van welke gegevens door 
+levert de gegevens aan in het Bevoegd Gezag worden 
+portaal. aangeleverd. 
+n.v.t.      
+H2M 
+n.v.t.      
+H2H 
+Het geslacht wordt Dit is nodig omdat deze   Andere mogelijkheden geen 
+Verwerking en 
+opgeslagen in de PaaS bestanden dienen als naast man/vrouw kunnen extra 
+opslag 
+omgeving van IP. grondslag voor worden opgenomen in de kosten 
+ 
+ (beleids)onderzoek. bestanden. 
+Geslacht is onderdeel van de Nodig en wettelijk   Andere mogelijkheden geen 
+M2M 
+1cijferbestanden PO, VO, geregeld in de Wet naast man/vrouw kunnen extra 
+MBO, HO, en NBI, die Registers zonder meer worden kosten 
+geleverd worden aan het CBS Onderwijsdeelnemers opgenomen in de 
+en de Inspectie v.h. (WRO). De gegevens 1cijferbestanden. Dit is 
+Onderwijs. worden geleverd echter afhankelijk van de 
+inclusief BSN aan CBS. wens van de ontvangende 
+BSN wordt niet partij. 
+geleverd door IP, maar 
+aan het bestand 
+gekoppeld door RNE. 
+Output 
+De Inspectie krijgt het 
+cfi-omnummer.  
+Geslacht is onderdeel van het Nodig en is wettelijk   Deze gegevens worden aan onbekend 
+personeelsbestand dat geregeld in de WPO, DUO geleverd vanuit de 
+geleverd wordt aan CBS en WEC, WVO, WEB, salarisadministraties van de 
+de Inspectie v.h. Onderwijs. WHW.  scholen/bevoegd gezag. Het 
+is niet mogelijk om de 
+kosten in te schatten voor 
+de salarisadministraties om 
+hun systemen aan te 
+passen om meer 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         69 
+
+kader van in opdracht van OCW nog een keer goed nagaan 
+beleidsonderzoeken (in uit, met DPIA en een of geslacht een onmisbare 
+opdracht van OCW).  verwerkings- variabele is voor de 
+overeenkomst. De betreffende analyse. 
+Bij het trekken van gegevens worden   Altijd goed doorvragen bij 
+geaggregeerd. De 
+steekproeven voor enquêtes het betreffende bureau 
+van onderzoeksbureaus levering is altijd waarom geslacht wordt 
+wordt geslacht soms gebruikt gepseudonimiseerd.  opgevraagd. Is het echt 
+om de steekproef nodig voor het onderwerp 
+gebalanceerd te maken (of van onderzoek 
+hoe de aanvrager hem wil). (bijvoorbeeld vrouwen 
+DUO Groningen zet de minder vaak naar 
+vragenlijsten uit (voor de technische opleiding dan 
+adressen). mannen) of is het voor 
+Onderzoeksbureaus kunnen algemeen gebruik/ 
+voor analyse-doeleinden het standaard. 
+steekproefbestand 
+ontvangen. 
+ 
+Geslacht kan voorkomen in Niet nodig conform Dit is afhankelijk van geen extra   
+de naamgeving in het afwegingskader. de keuzes bij kosten 
+bestand WNT dat wordt BKP/productie1. 
+gestuurd naar het CBS, de 
+Inspectie en OCW/FEZ. 
+Diverse informatieproducten Nodig voor   Andere mogelijkheden n.v.t. 
+voor OCW op geaggregeerd beleidsonderzoek op naast man/vrouw kunnen 
+niveau. basis van art. 5 WRO in zonder meer worden 
+het kader van opgenomen in het bestand. 
+beleidsvoorbereiding Dit is echter afhankelijk van 
+van de Minister.   de wens van de 
+ontvangende partij. 
+Geslacht komt voor in Onnodig conform Bij alle bestanden PM. Dit is   
+M2H 
+verschillende tabellen op afwegingskader. Er is nagaan waar geslacht afhankelijk 
+websites DUO Open geen zicht op wie deze in voorkomt. van een 
+lopend  
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         71 
+
+Bijlage 7 Resultatentabel – HRM 
+DUO Hoofdtaak: HRM 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel Nodig 
+16
+Flow Interface van het gebruik van het of  verminderen (zie OS checklist) 
+geslacht Onnodig Maatregelen Kosten Maatregelen Kosten 
+      
+Het geslacht wordt geregistreerd Nodig  Onbekend 
+in P-Direkt en daarna   
+doorgeschreven naar SAP.    
+  De keuzemogelijkheden in P-direkt 
+  en SAP zouden uitgebreid kunnen 
+  worden met meerdere opties 
+  (non-binair / zeg ik liever niet). 
+  Daarnaast zou de medewerker de 
+  mogelijkheid moet krijgen om aan 
+  te geven of hij/zij in 
+  brieven/overeenkomsten wil 
+M2M 
+  worden aangeschreven met de 
+Input 
+ Nodig heer / mevrouw / voornaam 
+Voor het aanmaken van het /voorletters en achternaam. Een 
+unieke RijksIdentificatieNummer soortgelijke optie is er al wel 
+(RIN) maakt de afdeling gecreëerd voor het voeren van 
+e
+Personeelsbeheer gebruik van het een 2 naam naast je 
+RIN B.V. Ook in dit systeem moet geboortenaam. 
+het geslacht worden geregistreerd    
+ 
+P-Direkt valt buiten de scope!  
+ 
+     Onbekend 
+Nieuwe medewerkers vullen Idem als hierboven 
+H2M 
+diverse formulieren in maar op  
+ 
+16
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         73 
+
+Het geslacht wordt opgeslagen in Nodig     
+P-Direkt/SAP aangezien dit een 
+Verwerking en 
+verplicht veld is bij het registreren 
+van een nieuwe medewerker.  
+opslag 
+ 
+ 
+Vanuit P-Direkt (1e systeem Nodig     
+waarin het geslacht wordt 
+geregistreerd) wordt het geslacht 
+M2M 
+doorgeschreven naar SAP.  
+ 
+ 
+Het geslacht wordt alleen getoond Nodig     
+in P-Direkt/SAP. Alle 
+managementinformatie (denk aan 
+Output 
+m/v verhouding) wordt 
+M2H 
+gegenereerd uit SAP.  
+ 
+ 
+In arbeidsovereenkomsten, Niet nodig   Macht der gewoonte/van oudsher.  
+stageovereenkomsten, brieven en Waarbij je je ook hier kunt 
+besluiten wordt de medewerker afvragen om de medewerker te 
+H2H 
+aangeschreven met de vragen hoe hij/zij wil worden 
+heer/mevrouw. aangeschreven.  
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         75 
+
