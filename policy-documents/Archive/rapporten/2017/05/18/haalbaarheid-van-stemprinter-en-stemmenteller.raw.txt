@@ -1,0 +1,3132 @@
+ 
+ 
+Rapportage Onderzoek ‘Haalbaarheid van 
+stemprinter en stemmenteller’ 
+ 
+ 
+Auteur: Atos Consulting 
+Versie: 1.0 
+Documentdatum: mei 2017 
+Atos, het Atos logo, Atos Consulting, Atos Worldgrid, Worldline, BlueKiwi, Bull, Canopy the Open Cloud Company, Yunano, 
+Zero Email, Zero Email Certified en The Zero Email Company zijn geregistreerde handelsmerken van de Atos groep. Mei 2017 
+© Copyright 2017, Atos Consulting N.V. 
+Alle rechten voorbehouden. Reproductie, geheel of gedeeltelijk, zonder schriftelijke toestemming van Atos is verboden. 
+Wanneer u vragen of opmerkingen heeft over dit document kunt u deze richten aan Atos Consulting,  
+
+ 
+ Vertrouwelijk 
+ 
+ 
+1 Inleiding 
+Deze rapportage bevat het resultaat van de opdracht die Atos Consulting (hierna te noemen Atos) 
+heeft uitgevoerd in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
+(hierna te noemen BZK), inhoudende een onderzoek om na te gaan of de specificaties voor een 
+stemprinter en stemmenteller te realiseren zijn.  
+1.1 Aanleiding 
+De Nederlandse overheid onderzoekt de haalbaarheid van de invoering van het elektronische 
+stemmen en tellen in het stemlokaal met behulp van een stemprinter en stemmenteller. 
+ 
+De onafhankelijke Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal heeft aan 
+de minister van Binnenlandse Zaken en Koninkrijksrelaties geadviseerd over de specificaties voor 
+de stemprinter en stemmenteller. Er moet onderzocht worden of de specificaties te realiseren zijn. 
+Zo nee, waarom niet en zo ja, tegen welke kosten. Een antwoord op die vragen is nodig om tot 
+een finaal oordeel te kunnen komen over de haalbaarheid van de invoering van de stemprinter en 
+stemmenteller die door de commissie Van Beek is geadviseerd. 
+1.2 Onderzoeksvragen 
+Het onderzoek moet antwoord geven op de volgende vragen: 
+• Kunnen stemprinters en/of stemmentellers worden ontwikkeld die voldoen aan de 
+specificaties? 
+• Hoeveel zou dat kunnen kosten (zowel aan initiële kosten als structurele kosten)? 
+• Hoeveel tijd kan de ontwikkeling en productie in beslag gaan nemen? 
+1.3 Aanpak en activiteiten 
+Om antwoord te krijgen op de onderzoeksvragen is een marktuitvraag uitgevoerd. Daarvoor is de 
+volgende aanpak gevolgd. 
+ 
+Stap 1 
+Op basis van de specificaties voor een stemprinter en stemmenteller (en bijbehorende bijlagen) is 
+een (zowel Nederlands- als Engelstalig) beantwoordingsdocument opgesteld. Het 
+beantwoordingsdocument is als bijlage A gevoegd bij deze rapportage.  
+ 
+De beantwoording bestaat uit drie delen.  
+• Deel 1: Specificaties stemprinter en stemmenteller 
+De specificaties voor de stemprinter en de stemmenteller zijn onderverdeeld in meerdere 
+categorieën. Per categorie kan worden aangegeven of de specificaties niet haalbaar zijn en als 
+Paraaf Paraaf 
+ 
+3 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Onderstaand overzicht geeft aan wat de respons is geweest op de uitvraag: 
+ 
+Informatie met Aantal Toelichting 
+betrekking tot de 
+haalbaarheidsstudie 
+Benaderde marktpartijen 23 9 leveranciers van scanners/printers, 10 leveranciers van 
+stemapparatuur en 4 system integrators. 
+ 
+Zelf aangemeld 1 Een marktpartij heeft zelf via de online advertenties kennis 
+genomen van de studie en zich aangemeld voor deelname. 
+Aantal marktpartijen dat een 6 Vier marktpartijen hebben hun beantwoording conform het 
+antwoord heeft ingediend opgestelde beantwoordingsdocument ingediend. 
+Eén van deze vier marktpartijen heeft daarnaast een alternatieve 
+oplossing ingediend. 
+Twee marktpartijen hebben alleen een alternatieve oplossing 
+ingediend zonder gebruikmaking van het opgestelde 
+beantwoordingsdocument en zonder referentie aan de 
+specificaties. 
+Bedankt voor deelname 14  6 leveranciers van scanners/printers, 5 leveranciers van 
+stemapparatuur en 3 system integrators hebben met opgaaf van 
+redenen afgezien van deelname. Vermelde redenen waren: 
+• Behoort niet tot productlijn/niet de juiste productkennis 
+• Acht dit meer iets voor een system integrator waarbij 
+betreffende marktpartij in de toekomst eventueel zou kunnen 
+bijdragen 
+• Onvoldoende capaciteit beschikbaar voor deze (gedetailleerde) 
+studie/andere prioriteiten 
+• Focus op Noord-Amerika 
+Geen reactie  4 Van 1 leverancier van scanners/printers, 2 leveranciers van 
+stemapparatuur en 1 system integrator is geen reactie 
+ 
+ontvangen, ook niet na herhaaldelijk telefonisch en mail contact. 
+ 
+Stap 5 
+De ontvangen beantwoordingsdocumenten hebben aanleiding gegeven tot het stellen van enkele 
+nadere vragen. In de periode van 1 tot en met 16 december 2016 zijn deze vragen beantwoord. 
+ 
+Stap 6 
+De ontvangen beantwoordingsdocumenten en antwoorden op nadere vragen zijn geanalyseerd en 
+geverifieerd. Paragraaf 3.2 licht de gevolgde werkwijze toe. 
+1.4 Bijlage 
+Bij het rapport hoort de volgende bijlage: 
+• Bijlage A: Onderzoek ‘Haalbaarheid van stemprinter en stemmenteller’ 
+Beantwoordingsdocument. 
+ 
+Paraaf Paraaf 
+ 
+5 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+ 
+De stemmenteller wordt door leden van het stembureau bediend als het elektronisch tellen van de 
+stembiljetten in het stemlokaal plaatsvindt. Indien daar aanleiding toe is - bijvoorbeeld als er een 
+verschil is tussen het aantal toegelaten kiezers en het aantal uitgebrachte stemmen – dan kan 
+door het stembureau opnieuw een telling met de stemmenteller plaatsvinden. In het geval het 
+centraal stembureau tot een hertelling besluit en bij die hertelling de papieren stembiljetten 
+elektronisch worden geteld, dan zal de bediening van de stemmenteller plaatsvinden door daartoe 
+aangewezen personen.  
+ 
+De stemmenteller moet stembiljetten kunnen tellen die door een stemprinter zijn geprint. 
+Daarnaast moet de stemmenteller ook stembiljetten kunnen tellen die handmatig zijn ingevuld. 
+De stemmenteller moet derhalve zowel stembiljetten kunnen tellen die door een stemprinter zijn 
+geprint als een handmatig ingevuld stembiljet, maar niet beide door elkaar voor eenzelfde 
+stemming. 
+ 
+De stemmenteller moet het mogelijk maken om de stembiljetten nauwkeurig te tellen. Verder zou 
+het tellen met de stemmenteller sneller moeten verlopen dan het handmatig tellen van de 
+(huidige) papieren stembiljetten.  
+Paraaf Paraaf 
+ 
+7 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+K. Beveiliging - compromitterende straling 
+L. Beleid ten aanzien van beveiliging 
+M. Ontwikkelproces van stemprinters, stemmentellers en elektronische tokens 
+N. Doorvoeren van wijzigingen aan de stemprinter, de stemmenteller en elektronisch tokens 
+O. Fysieke distributie en onderhoud 
+P. Ondersteuning 
+ 
+Er is gevraagd om per categorie aan te geven of de specificaties niet haalbaar zijn en als dat het 
+geval is wat daar de reden voor is. Tevens is gevraagd om aannames die zijn gehanteerd bij het 
+beoordelen van de haalbaarheid expliciet te vermelden. In het geval de specificatie haalbaar 
+wordt geacht, is geen nadere onderbouwing gevraagd.  
+ 
+Over enkele specificaties zijn gerichte inhoudelijke vragen gesteld. Dit is gebeurd om inhoudelijk 
+te kunnen toetsen of de juiste veronderstellingen ten grondslag liggen aan het gegeven oordeel 
+over de haalbaarheid.  
+ 
+Analyse en verificatie 
+De verificatie en analyse van de ontvangen reacties heeft als volgt plaatsgevonden: 
+1. als alle specificaties in de categorie haalbaar worden geacht door de marktpartij en de 
+marktpartij heeft geen aannames, opmerkingen, et cetera vermeld, dan is in de analyse “geen 
+opmerkingen” vermeld;  
+2. zijn over de specificaties van een categorie een of meerdere inhoudelijke vragen gesteld, dan 
+is in de analyse gecontroleerd:  
+• of de marktpartij het antwoord overtuigend heeft onderbouwd en  
+• of de marktpartij bronvermeldingen heeft gegeven van documenten waar de 
+onderbouwing zich op baseert. Atos heeft geverifieerd of de opgegeven bronnen 
+daadwerkelijk de onderbouwing geven die door de marktpartij is vermeld. 
+3. als een of meer van de specificaties van een categorie niet haalbaar worden geacht door de 
+marktpartij, behoort daarvoor een onderbouwing te zijn geleverd. In de analyse is 
+gecontroleerd of de markpartij het niet haalbaar achten overtuigend heeft onderbouwd. 
+ 
+De volgende paragrafen bevatten, per categorie van specificaties, het resultaat van de 
+marktuitvraag en de analyse daarvan. De opbouw per paragraaf is steeds dezelfde, dat wil 
+zeggen: 
+• Korte toelichting op de specificaties in de betreffende categorie, zodat duidelijk is waar de 
+specificaties betrekking op hebben.  
+• De door marktpartijen gegeven antwoorden.  
+• Tabel waarin het oordeel over de haalbaarheid van de categorie van specificaties per 
+marktpartij is vermeld. 
+ 
+  
+Paraaf Paraaf 
+ 
+9 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+ 
+Marktpartij B gaat uit van de leveranciers binnen haar samenwerkingsverband. Dat betekent dat 
+de ontwikkeling en productie in Europa maar buiten Nederland wordt voorzien en onderhoud door 
+een Europese partij. Marktpartij C voorziet de ontwikkeling en productie van hardware buiten 
+Europa en onderhoud in Europa. Marktpartij D voorziet de ontwikkeling, productie en het 
+onderhoud in Nederland.  
+ 
+Haalbaarheid 
+ 
+Marktpartij Analyse 
+Haalbaarheid 
+volgens 
+ Marktpartij Atos   
+A Nee Nee De marktpartij acht de specificatie dat de broncode openbaar moet 
+zijn, niet haalbaar. Zij stelt dat deze eis waarschijnlijk het aantal 
+en de kwaliteit van aanbieders van de stemprinter en 
+stemmenteller zal beperken, omdat het tot gevolg kan hebben dat 
+aanbieders hun producten niet meer kunnen verkopen. Zonder 
+doorlopende inkomsten kunnen zij geen vakkundige ingenieurs in 
+dienst houden wat hun vermogen tot het leveren van garanties en 
+productverbeteringen zal belemmeren. Deze veronderstellingen 
+zijn verder niet onderbouwd.  
+B Ja Nee Hoewel de marktpartij alle specificaties haalbaar acht, blijkt uit 
+beantwoordingen bij paragraaf 3.3.8 en 3.3.10 over het openbaar 
+moeten zijn van broncodes, dat de marktpartij dat niet haalbaar 
+acht. OCR-programmatuur van derden, nodig voor het herkennen 
+van stemkeuzen, bevat volgens marktpartij B commercieel 
+vertrouwelijke methoden en algoritmen en kan derhalve niet 
+openbaar gemaakt worden. Atos concludeert daarom dat de 
+specificatie op het onderdeel openbaar moeten zijn van de 
+broncode voor deze marktpartij niet haalbaar is. 
+C Nee Nee Omdat de betrokken hardwareleverancier geen broncode verstrekt, 
+acht de marktpartij de specificatie dat de broncode openbaar moet 
+zijn, niet haalbaar. Uit de beantwoordingen bij paragraaf 3.3.10 
+blijkt ook dat van standaardcomponenten geen broncodes 
+beschikbaar zullen zijn. 
+D Ja Nee De marktpartij stelt dat alle specificaties haalbaar zijn. Daarbij 
+merkt zij op dat door het toepassen van de NATO-norm SDIP-27/1 
+1
+A bepaalde aspecten die TEMPEST gerelateerd zijn (zoals 
+testplannen voor het meten van compromitterende straling, 
+meetapparatuur en de meetwaarden) niet openbaar gemaakt 
+mogen worden. Hoewel de marktpartij alle specificaties haalbaar 
+acht, kan met inachtneming van de opmerking over het niet 
+openbaar kunnen maken van hiervoor genoemde TEMPEST-
+gerelateerde aspecten geconcludeerd worden, dat niet zeker is dat 
+de specificatie haalbaar is.  
+ 
+3.3.2 Documentatie over stemprinter en stemmenteller 
+Gespecificeerd is dat de documentatie te allen tijde volledig, actueel en begrijpelijk moet zijn. 
+Tevens wordt vereist dat de documentatie in de Nederlandse taal dient te zijn gesteld. 
+ 
+                                                
+1
+ TEMPEST: Transient Electromagnetic Pulse Surveillance Technology: technologie die zich bezighoudt met het afvangen van 
+de elektromagnetische straling van technische apparaten om te beschermen tegen afluisteren  
+Paraaf Paraaf 
+ 
+11 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+van aan elkaar te koppelen losse delen) voor de stemprinter en stemmenteller. Ook het afbouwen 
+kan binnen 5 minuten, mits stembureauleden hiervoor zijn getraind en voorzien van instructies. 
+ 
+Marktpartij C geeft aan dat het binnen 5 minuten gereed maken en afbouwen mogelijk is, zowel 
+voor de stemprinter als de stemmenteller. De apparaten kunnen worden voorzien van wielen, 
+zodat ze ondanks het verwachte gewicht door 1 persoon verplaatst kunnen worden. Voor optillen 
+van stemprinter en stemmenteller zijn echter wel meerdere personen nodig. Voor het opstarten 
+inclusief zelftest van de stemprinter en stemmenteller komt hier naar schatting van marktpartij C 
+nog maximaal 5 minuten bij. Hoewel marktpartij C aangeeft dat de specificaties haalbaar zijn, is 
+dat op deze punten dus niet het geval. 
+ 
+Marktpartij D geeft aan dat gereed maken binnen 5 minuten door 1 persoon haalbaar is voor de 
+stemprinter. Hierbij wordt er van uitgegaan dat de stemprinter uit één deel bestaat. Voor de 
+stemmenteller wordt dit echter niet haalbaar geacht. Als de stemmenteller zo geïntegreerd 
+mogelijk is, zal het wellicht nog mogelijk zijn deze binnen 5 minuten gereed te maken, echter de 
+stemmenteller heeft een zodanig verwacht gewicht dat twee mensen nodig zijn om te tillen. Om 
+dezelfde reden is het afbouwen van de stemmenteller binnen 5 minuten wel mogelijk, maar niet 
+door 1 persoon. Voor de stemprinter wordt het binnen 5 minuten door 1 persoon afbouwen wel 
+haalbaar geacht. De marktpartij geeft aan dat opstarten inclusief zelftest minstens 45 seconden 
+en maximaal 3 minuten duurt en door een geoefende gebruiker deels parallel gedaan kan worden 
+aan het klaarmaken voor gebruik. Atos acht het onzeker of daarmee binnen de gevraagde 
+maximum tijd van 5 minuten wordt gebleven. 
+ 
+Onderbouwing en verificatie 
+Marktpartijen B, C en D hebben hun antwoorden onderbouwd. Marktpartij B baseert zich op eigen 
+ervaringen met stemcomputers, onder andere in een land buiten Europa, geldautomaten en 
+andere automaten uit de bancaire sector. Marktpartij C baseert zich op eigen ervaringen, onder 
+andere in een land buiten Europa met stemcomputers en op reguliere opstarttijden van een A4 
+2
+MFD voor de stemprinter en een A3 MFD voor de stemmenteller. Marktpartij D baseert zich op 
+eigen ervaringen en op ervaringen met stemprinters in een West-Europees land. Atos heeft 
+kunnen verifiëren dat marktpartijen B, C en D ervaringen hebben in de vermelde landen, maar 
+niet kunnen vaststellen of de genoemde tijden voor gereed maken, afbouw en configuratie juist 
+zijn. Verdere verificatie van de antwoorden door Atos heeft niet kunnen plaatsvinden door het 
+ontbreken van bronvermeldingen onafhankelijk van de marktpartij zelf, waardoor niet is 
+vastgesteld of de antwoorden juist zijn. 
+ 
+Snelheid van configureren van stemprinter en stemmenteller 
+Marktpartijen B, C en D hebben de vraag naar de mogelijke configuratiesnelheid beantwoord. 
+Marktpartij A heeft deze vraag niet beantwoord. 
+ 
+Zowel voor het configureren van een stemprinter en stemmenteller met verkiezingsgegevens als 
+voor een complete software update, verwacht marktpartij B 5 minuten nodig te hebben. Zij neemt 
+daarbij aan dat de stemprinter en stemmenteller al is opgestart, de gebruiker geoefend is en de 
+snelheid waarmee data wordt overgedragen van het externe medium 60 MB/s is. Deze snelheid 
+                                                
+2
+ MFD: multi-function device, een apparaat dat kan printen, scannen en kopiëren 
+Paraaf Paraaf 
+ 
+13 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+3.3.4 Functionaliteit en bediening stemprinter 
+De specificaties in deze categorie gaan onder andere over:  
+• het gebruik van een touchscreen, een fysiek toetsenbord en audio-ondersteuning; 
+• de wijze waarop de gebruikersinterface de stappen ondersteunt die de kiezer moet doorlopen 
+om een keuze te maken en te bevestigen; 
+• het printen van het papieren stembiljet;  
+• het gebruik van het elektronisch token voor activering van de stemprinter voor het maken 
+van een stemkeuze; 
+• dat per token precies één stembiljet wordt geprint en dat het stembiljet uitsluitend de 
+uitgebrachte stem bevat. 
+Bij deze categorie zijn inhoudelijke vragen gesteld, te weten over: 
+• Snelheid printen stembiljet 
+Een element in deze categorie specificaties is de maximaal benodigde printtijd van 3 seconden 
+voor een stembiljet, zonder merkbare opwarmtijd. Marktpartijen is gevraagd welke tijd zij 
+nodig achten om een stembiljet af te drukken. 
+• Nauwkeurigheid van de stemprinter 
+Een element in deze categorie specificaties is de nauwkeurigheid van de stemprinter. 
+Marktpartijen is gevraagd hoe wordt afgedwongen dat met een token altijd maar 1 stembiljet 
+kan worden geprint en dat altijd de stemkeuze die de kiezer heeft bevestigd wordt geprint 
+(met foutmarge 0) en waar en voor welke toepassing de marktpartij dergelijke mechanismen 
+eerder heeft toegepast. 
+• Waarborgen van het stemgeheim 
+Een element in deze categorie specificaties is een zodanige opstelling en constructie van de 
+stemprinter dat niemand anders dan de kiezer kan zien welke stemkeuze door de kiezer 
+wordt/is gemaakt. Marktpartijen is gevraagd hoe bij een opstelling van drie stemprinters 
+naast elkaar in een stemlokaal wordt gerealiseerd dat de kiezers niet over en weer kunnen 
+zien welke keuze een kiezer maakt. 
+ 
+Snelheid printen stembiljet 
+De vraag over de benodigde tijd om een stembiljet te printen is door marktpartijen B, C en D 
+beantwoord. Marktpartij A heeft de vraag niet beantwoord. 
+ 
+Marktpartij B geeft aan dat de printtijd 2 seconden bedraagt uitgaande van laser printtechnologie 
+voor A4-formaat papier. Daarbij wordt uitgegaan van ongeveer 10 seconden wachttijd tussen de 
+printopdracht en het starten van de printer. Deze partij stelt dat de tijd pas precies kan worden 
+bepaald tijdens de ontwikkelfase. De specificatie stelt een maximum printtijd van 3 seconden, 
+inclusief opstarttijd. Uit het antwoord blijkt niet dat dit haalbaar zal zijn. 
+ 
+Marktpartij C noemt ook enkele seconden als printtijd. Zij maakt het voorbehoud dat de 
+opstarttijd voor de 1e pagina voor dubbelzijdig printen op een gangbaar A4 printer 15 seconden 
+is. Na hoeveel tijd de printer weer 15 seconden opstarttijd nodig heeft, hangt af van de tijd die in 
+het apparaat wordt ingesteld voordat de printer in energiebesparingsstand gaat. Ook hier blijkt de 
+gespecificeerde maximum printtijd niet haalbaar.  
+ 
+Paraaf Paraaf 
+ 
+15 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Onderbouwing en verificatie 
+Marktpartijen B, C en D hebben hun antwoorden beperkt onderbouwd en niet expliciet gemaakt 
+hoe de programmatuur afdwingt dat 1 token altijd leidt tot precies 1 stembiljet. Marktpartij B 
+verwijst naar wereldwijde ervaringen met stemcomputers, waaronder een specifiek traject in een 
+land buiten Europa, waarin ze deze werkwijze heeft toegepast. Marktpartij C verwijst naar haar 
+standaard printapparatuur. Marktpartij D verwijst naar haar uitgebreide ervaring met afgedrukte 
+stembiljetten in verschillende landen, waaronder een met name genoemd referentieproject. Zij 
+vermeldt daarnaast dat haar systemen voorafgaand aan de certificering aan zeer omvangrijke 
+nauwkeurigheidstests worden onderworpen. 
+Atos heeft kunnen verifiëren dat marktpartijen B, C en D ervaringen hebben in de vermelde 
+landen, maar niet kunnen vaststellen of de genoemde mechanismen zijn toegepast en effectief 
+zijn. Verdere verificatie van de antwoorden door Atos heeft niet kunnen plaatsvinden door het 
+ontbreken van bronvermeldingen onafhankelijk van de marktpartij zelf. 
+ 
+Waarborgen van het stemgeheim 
+De vraag hoe te realiseren is dat de kiezers niet over en weer kunnen zien welke keuze een kiezer 
+maakt op de stemprinter, is door marktpartijen B, C en D beantwoord. Marktpartij A heeft de 
+vraag niet beantwoord. Om het stemgeheim te waarborgen noemen marktpartijen B, C en D alle 
+als ontwerp om de stemprinter te voorzien van verticale panelen of privacyschermen. Daarnaast 
+noemt marktpartij D het opstellen van een voorschrift voor een optimale stembureau-indeling ter 
+bevordering van privacy. 
+ 
+Onderbouwing en verificatie 
+Marktpartijen B, C en D hebben hun antwoorden onderbouwd. Marktpartijen B en C verwijzen 
+naar meerdere ervaringen met stemcomputers, waaronder bij een specifiek traject in een land 
+buiten Europa. Marktpartij D verwijst eveneens naar een specifiek traject in een land buiten 
+Europa. Atos heeft kunnen verifiëren dat marktpartijen B, C en D ervaringen hebben in de 
+vermelde landen, maar niet kunnen vaststellen of de genoemde ontwerpen zijn toegepast anders 
+dan op basis van door de marktpartijen aangeleverde foto’s. 
+ 
+Haalbaarheid 
+ 
+Marktpartij Haalbaarheid volgens Analyse 
+ Marktpartij Atos   
+A Ja Nee Marktpartij A heeft de vragen over de benodigde printtijd voor een 
+stembiljet, nauwkeurigheid en waarborgen van het stemgeheim 
+niet beantwoord. Hoewel de marktpartij alle specificaties haalbaar 
+acht, meent Atos dat dit onzeker is. Marktpartij A gaat, evenals 
+marktpartij B en C, uit van standaardcomponenten voor de printer. 
+De specificatie dat het printen van een stembiljet maximaal 3 
+seconden (inclusief opstarttijd) mag duren, acht zowel marktpartij 
+B als C niet haalbaar. Het is aannemelijk dat dit ook voor 
+marktpartij A niet haalbaar is.  
+B Ja Nee Hoewel de marktpartij alle specificaties haalbaar acht, blijkt uit het 
+antwoord op de vraag over de benodigde printtijd, dat de 
+specificatie dat dit maximaal 3 seconden (inclusief opstarttijd) mag 
+duren, niet haalbaar wordt geacht. Daarnaast is de vraag over de 
+nauwkeurigheid van de stemprinter beperkt onderbouwd, waarmee 
+Atos de haalbaarheid van met name de specificatie dat altijd de 
+Paraaf Paraaf 
+ 
+17 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+ 
+Nauwkeurigheid stemmenteller 
+A. Marktpartijen A en D geven aan dat het haalbaar is om maximaal 1% van de gescande 
+stembiljetten onterecht als niet te tellen door te voeren. Marktpartij B geeft aan dat het onder 
+optimale condities haalbaar is, maar in de praktijk niet, bijvoorbeeld door vlekken in het 
+papier. Marktpartij C geeft aan dat het haalbaar zou kunnen zijn, maar dat testen nodig zijn 
+met voorgevouwen en ongevouwen stembiljetten om de nauwkeurigheid vast te stellen. Ook 
+marktpartij A stelt dat nog uitgebreide testen nodig zijn om te garanderen dat de foutmarge 
+maximaal 1% is. 
+ 
+B. Marktpartijen B en C geven aan dat een foutmarge van 0% op foutief herkennen van een 
+stem niet haalbaar is, omdat niet het hele proces kan worden beheerst. Als oorzaken worden 
+genoemd vlekjes op het stembiljet, omgevingsfactoren, verkeerd gebruik en onverwachte 
+situaties voor de stemmenteller. Marktpartij A heeft deze vraag niet beantwoord. 
+ 
+Zowel marktpartij B als D merkt op dat het streven om nooit een stem foutief te herkennen 
+(nauwkeurigheidspecificatie B) een ongunstige invloed heeft op het aantal stemmen dat zal 
+worden aangemerkt als niet te tellen (nauwkeurigheidspecificatie A), en andersom. 
+Programmatuur die strikte regels hanteert om te bepalen wat de keuze van de kiezer was, 
+zodat een stem nooit foutief herkend wordt, zal veel stemmen als niet te tellen beoordelen, 
+terwijl de stemkeuze voor de mens wel herkenbaar is. Markpartij D trekt daarom de conclusie 
+dat 0% foutief herkennen haalbaar is, maar niet zonder dat het aantal als niet te tellen 
+beoordeelde stemmen heel hoog wordt. Andersom kan de kans op het onterecht doorvoeren 
+van herkenbare stemmen als niet te tellen laag worden gehouden door minder strikte regels 
+voor het herkennen te hanteren, maar dit zal het percentage foutief herkende stemmen 
+verhogen.  
+ 
+Voor met de stemprinter geprinte stembiljetten geldt dat een hogere nauwkeurigheid te 
+realiseren is dan voor handmatig door de kiezer ingevulde stembiljetten, omdat de karakters 
+met een constante kwaliteit worden geprint en beter te herkennen zijn. 
+ 
+ 
+C. Dat ongetelde stembiljetten niet in de uitvoerbak met getelde stembiljetten terecht mogen 
+komen achten marktpartijen B en D haalbaar. Marktpartij D geeft daarbij aan dat er strakke 
+en eenduidig gedefinieerde criteria worden opgesteld op basis waarvan biljetten naar twee 
+uitvoerbakken kunnen worden gesorteerd. Voor marktpartij C is dit niet haalbaar omdat de 
+stemmenteller die deze marktpartij op het oog heeft niet twee uitvoerbakken heeft. 
+Marktpartij A heeft deze vraag niet beantwoord. 
+ 
+D. Marktpartijen B, C en D achten het niet haalbaar dat de stemmenteller het stembiljet nooit 
+zodanig beschadigt dat de stemkeuze niet meer te beoordelen is. Oorzaken zijn de manier 
+van invoeren, conditie van het stembiljet en het vastlopen in de stemmenteller. Marktpartij D 
+merkt op dat voor door de stemprinter afgedrukte stembiljetten de kans lager is dat het 
+stembiljet zo onleesbaar wordt dat het niet meer handmatig beoordeeld kan worden, omdat 
+meer stemkeuzegegevens op het biljet kunnen worden geprint (zoals volledige lijst- en 
+Paraaf Paraaf 
+ 
+19 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Marktpartijen A, B en C geven aan dat er geen verschil in telsnelheid is tussen stembiljetten 
+waarop de stemkeuze door de kiezer met de hand is ingevuld en stembiljetten die door een 
+stemprinter zijn geprint. Marktpartij D geeft aan dat een door een stemprinter geprint stembiljet 
+met herkenningsprogrammatuur mogelijk sneller te verwerken is dan een door de kiezer ingevuld 
+stembiljet. Marktpartij D vermeldt dat diverse factoren van invloed kunnen zijn op de snelheid, 
+zoals kwaliteit, conditie en afmetingen van het papier, contrast papier met bedrukking, 
+stembiljetontwerp, de soort herkenningstechnologie en dubbel- of enkelzijdig scannen. 
+ 
+Onderbouwing en verificatie 
+Alle marktpartijen hebben de gegeven antwoorden onderbouwd. Marktpartij A verwijst naar eigen 
+ervaringen in een bepaald land. Marktpartij B verwijst naar eigen ervaringen. Marktpartij C 
+baseert haar telsnelheden op het timen met stopwatch in een gecontroleerde 
+laboratoriumomgeving en verwijst naar productspecificaties. Marktpartij D verwijst naar 
+ervaringen met scantechnologie in bepaalde landen. 
+Atos heeft kunnen verifiëren dat marktpartijen A en D ervaringen hebben in de vermelde landen, 
+maar niet kunnen vaststellen dat de vermelde telsnelheden juist zijn. De door marktpartij C 
+vermelde telsnelheden van bestaande apparaattypes heeft Atos kunnen verifiëren in de 
+productspecificaties. Verdere verificatie van de antwoorden door Atos heeft niet kunnen 
+plaatsvinden door het ontbreken van bronvermeldingen die afkomstig zijn van een onafhankelijke 
+partij.  
+ 
+Haalbaarheid 
+ 
+Marktpartij Haalbaarheid Analyse 
+volgens 
+ Marktpartij Atos   
+A Nee Nee Marktpartij A gaat niet uit van de twee gespecificeerde 
+uitvoerbakken, te weten één voor getelde en één voor ongetelde 
+stemmen. Ook wordt er van uitgegaan dat er geen volgnummer op 
+het stembiljet wordt geprint. In plaats daarvan wordt er uitgegaan 
+van een standaard scanner die alle stembiljetten scant en 
+doorvoert naar dezelfde uitvoerbak. De beoordeling – ook van 
+stembiljetten die niet automatisch geteld kunnen worden - vindt 
+vervolgens plaats aan de hand van de digitale scans.  
+B Ja Nee De gespecificeerde nauwkeurigheid van tellen is onder ideale 
+condities haalbaar, maar in de praktijk niet volledig. Zie onder 
+‘Nauwkeurigheid van de stemmenteller’. 
+C Nee Nee De gespecificeerde nauwkeurigheid van tellen is onder ideale 
+condities haalbaar, maar in de praktijk waarschijnlijk niet. Zie 
+onder ‘Nauwkeurigheid van de stemmenteller’. 
+Daarnaast biedt de stemmenteller die deze marktpartij voor ogen 
+heeft geen ondersteuning voor het printen van een volgnummer en 
+evenmin voor het verdelen van gescande stembiljetten over twee 
+uitvoerbakken voor getelde en ongetelde stembiljetten. Marktpartij 
+C stelt in plaats daarvan voor dat de niet getelde stembiljetten 
+steeds handmatig worden uitgenomen. 
+Paraaf Paraaf 
+ 
+21 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Invloed voorvouw en echtheidskenmerk 
+Marktpartijen B, C en D hebben de vragen over de invloed van het voorvouwen en 
+echtheidskenmerk beantwoord. Marktpartij A heeft deze vragen niet beantwoord. 
+ 
+Marktpartij B meldt dat de voorvouw gevolgen kan hebben omdat de geprinte tekst dicht bij de 
+vouwlijn mogelijk minder van kwaliteit zal zijn. Dat kan ook gevolgen hebben voor de 
+nauwkeurigheid van het tellen. Bij het ontwerpen van het stembiljet dient hier rekening mee te 
+worden gehouden. Marktpartij B meldt dat scanners zo ontwikkeld zijn dat een echtheidskenmerk 
+geen negatieve gevolgen kan hebben op de correcte werking.  
+ 
+Marktpartij C geeft aan dat de specificaties haalbaar zijn, omdat de printer respectievelijk scanner 
+die men voor ogen heeft rekening houdt met voorvouw en echtheidskenmerk.  
+ 
+Marktpartij D stelt dat het voorvouwen van een stembiljet geen invloed heeft op het correct 
+functioneren van de stemprinter. Wel geeft ook deze partij aan dat in het ontwerp van het 
+stembiljet rekening moet worden gehouden met de positie van de vouwlijn en positie van het 
+echtheidskenmerk voor het correct functioneren van de stemmenteller. Het echtheidskenmerk 
+moet een vaste positie op het stembiljet hebben en op deze positie mogen door de stemprinter 
+geen teksten worden geprint. Dit om te bewerkstelligen dat de stemmenteller de positie van het 
+echtheidskenmerk kan negeren.  
+ 
+Onderbouwing en verificatie 
+• Volgens marktpartijen C en D heeft het voorvouwen van een stembiljet geen invloed op het 
+correct functioneren van de printer. Zij verwijzen daarbij respectievelijk naar 
+productspecificaties van de voorgestelde standaard printer en naar de vele toepassingen op 
+zogenaamd ‘fanfold’ papier van de ingezette technologie. 
+• Marktpartijen B, C en D geven alle aan dat het echtheidskenmerk zoals gespecificeerd geen 
+invloed zal hebben op de nauwkeurigheid of snelheid van tellen door de stemmenteller. 
+Marktpartij D stelt daarbij wel een voorwaarde aan het ontwerp van het stembiljet. 
+Marktpartijen B en C verwijzen naar productspecificaties van de voorgestelde standaard 
+printers.  
+De verwijzing naar de genoemde productspecificaties, de toepassing van thermisch printen in 
+combinatie met voorgevouwen papier en enkele van de genoemde publiek gepubliceerde 
+toepassingen heeft Atos kunnen verifiëren.  
+ 
+Paraaf Paraaf 
+ 
+23 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+en 152 kg. Inclusief transportbehuizing ligt het gewicht van één stemprinter tussen 18 en 67 kg 
+en van één stemmenteller tussen 23 en 167 kg.  
+ 
+Onderbouwing en verificatie 
+De marktpartijen hebben hun antwoorden gedeeltelijk onderbouwd. Marktpartij B baseert haar 
+antwoord op de eigen ervaringen met stemcomputers, scanners en betaalautomaatonderdelen. 
+Marktpartij C baseert haar antwoord op specifieke bestaande apparaattypes en verwijst naar de 
+bijbehorende productspecificaties. Marktpartij D baseert zich op de componenten die men voor 
+ogen heeft. De vermelde gewichten van bestaande apparaattypes heeft Atos kunnen verifiëren in 
+de productspecificaties. Verdere verificatie van de antwoorden door Atos heeft niet kunnen 
+plaatsvinden door het ontbreken van bronvermeldingen die afkomstig zijn van een onafhankelijke 
+partij.  
+ 
+Haalbaarheid 
+ 
+Marktpartij Analyse 
+Haalbaarheid 
+volgens 
+ Marktpartij Atos   
+A Ja Ja Geen opmerkingen. 
+B Ja Ja Geen opmerkingen. 
+C Ja Ja Geen opmerkingen. 
+D Ja Ja Marktpartij D geeft aan dat de specificaties haalbaar zijn, maar dat 
+om te voldoen aan het gespecificeerde maximale geluidsniveau 
+van 42 dBa aanvullende geluidsisolerende maatregelen ten 
+opzichte van de bestaande oplossing nodig zijn.  
+3.3.8 Standaarden en normen 
+De specificaties in deze categorie gaan over: 
+• het gebruik van open standaarden; 
+• het gebruik van open source programmatuur, dat wil zeggen software waarvan de broncode 
+publiekelijk beschikbaar is; 
+• het voldoen aan een aantal standaarden ten aanzien van kwaliteitszorg (ISO-9001), 
+informatiebeveiliging (ISO 27001), energie-efficiëntie (Energy Star), toegankelijkheid van de 
+user interface (WAI richtlijnen) en toepasselijke wet- en regelgeving. 
+In een specifieke vraag is de marktpartijen gevraagd toe te lichten waarop zij hun antwoord over 
+de haalbaarheid van het gebruik van open source programmatuur baseren. 
+ 
+Open Source 
+Alle marktpartijen hebben de vraag over de haalbaarheid van het gebruik van open source 
+beantwoord.  
+ 
+Marktpartij A maakt hetzelfde voorbehoud bij het publiekelijk beschikbaar stellen van alle 
+broncode als genoemd in paragraaf 3.3.1. en geeft aan dat open source programmatuur 
+economisch niet haalbaar is. Zij noemt hiervoor een aantal factoren:  
+Paraaf Paraaf 
+ 
+25 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Marktpartij Haalbaarheid volgens Analyse 
+ Marktpartij Atos   
+D Ja Onzeker De specificaties ten aanzien van het gebruik van Open Source 
+programmatuur zijn volgens marktpartij D haalbaar, echter Atos 
+heeft deze uitspraak niet volledig kunnen verifiëren. 
+ 
+3.3.9 Prestaties 
+De specificaties in deze categorie gaan vooral over de operationele beschikbaarheid en levensduur 
+van de apparatuur. Het gaat onder andere om specificaties ten aanzien van: 
+• de minimale operationele beschikbaarheid van de apparatuur op een verkiezingsdag van 
+99.8%; 
+• het benodigde onderhoud; 
+• de minimale levensduur in termen van jaren, aantal geprinte stembiljetten, aantal geprinte 
+telstroken en aantal gescande stembiljetten;  
+• energiegebruik; 
+• beschikbaarheid van identieke reserveonderdelen. 
+Ten aanzien van het laatste punt, de beschikbaarheid van identieke reserveonderdelen, is de 
+specificatie dat gedurende een periode van 8 jaar identieke onderdelen beschikbaar moeten zijn. 
+Die specificatie is nodig omdat zowel de Common Criteria certificering (voor de stemprinter en 
+stemmenteller) als SDIP 27/1 level A (voor de stemprinter) eisen dat iedere individuele 
+stemprinter en stemmenteller identiek is aan de geëvalueerde versies. Een andere reden is het 
+voorkomen dat er verschillende versies van stemprinters en stemmentellers in omloop zouden 
+zijn. Dat beperkt de beheerlasten en de complexiteit bij het voorbereiden van een verkiezing. De 
+marktpartijen is gevraagd hun antwoord over de haalbaarheid van het voor 8 jaar beschikbaar 
+hebben van identieke reserve onderdelen  te onderbouwen. 
+ 
+Reserveonderdelen voor stemprinter en stemmenteller 
+Alle marktpartijen hebben de vraag over beschikbaarheid van reserveonderdelen beantwoord. 
+ 
+Marktpartij A acht de specificatie ten aanzien van het hebben van identieke reserveonderdelen 
+gedurende acht jaar theoretisch haalbaar, echter adviseert gebruik te maken van standaard, 
+commercieel verkrijgbare hardwarecomponenten zoals printers, scanners en laptops. Deze 
+kunnen makkelijker worden vervangen en er kan gedurende de gebruiksperiode gebruik worden 
+gemaakt van technologische verbeteringen en vernieuwingen. De marktpartij werkt niet uit welke 
+impact hercertificering en vervanging van apparatuur in deze opzet zal hebben op kosten en 
+doorlooptijden. 
+ 
+Marktpartij B geeft aan dat vooral gebruik gemaakt zal worden van standaardcomponenten. De 
+gewenste beschikbaarheid van reserveonderdelen moet als ontwerpeis worden meegenomen voor 
+de te selecteren componenten. 
+ 
+Marktpartij C geeft aan dat het gevraagde standaard ondersteuningsbeleid is. 
+ 
+Paraaf Paraaf 
+ 
+27 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+3.3.10 Beveiliging - Common Criteria 
+De specificaties in deze categorie gaan over het volgens Common Criteria certificeren van de 
+stemprinter en stemmenteller conform daarvoor opgestelde en gecertificeerde Protection Profiles. 
+De Protection Profiles geven het kader voor de beveiligingsmaatregelen die moeten worden 
+toegepast op de stemprinter en stemmenteller. De Protection Profiles gaan er onder meer van uit 
+dat 
+• de stemprinter/stemmenteller beschermd zijn tegen manipulatie; 
+• het niet mogelijk moet zijn om beveiligingsmaatregelen te omzeilen. 
+ 
+Bij drie elementen uit de specificaties is een vraag gesteld:  
+• Gebruik van standaardaardcomponenten  
+Een element uit de Common Criteria certificering is dat het evaluerend laboratorium een 
+broncode-analyse zal moeten uitvoeren van alle onderdelen van een stemprinter en 
+stemmenteller. Hiervoor moet de broncode van alle onderdelen van een stemprinter en 
+stemmenteller voor de evaluator beschikbaar zijn. Marktpartijen is gevraagd de haalbaarheid 
+hiervan te onderbouwen.  
+• Methodieken voor het verwijderen van de stemkeuze 
+Een element uit de Protection Pofiles is dat na het printen van het stembiljet, de informatie 
+over de stemkeuzes moeten worden gewist op zo’n manier dat met gebruik van hulpmiddelen 
+geen sporen van de keuzes van de kiezer meer te achterhalen zijn. Fabrikanten van systemen 
+of componenten richten zich doorgaans op het voorkomen van dataverlies. Voor het 
+ontwikkelen van een stemprinter is juist géén permanente opslag gewenst. Marktpartijen is 
+gevraagd de haalbaarheid hiervan te onderbouwen.  
+• Inbraakdetectie van de stemprinter en stemmenteller 
+Een element uit de Protection Profiles is dat er een mechanisme voor inbraakdetectie moet 
+zijn dat een inbraak in de stemprinter en stemmenteller detecteert en dat het vervolgens 
+onmogelijk maakt de stemprinter/stemmenteller te gebruiken voor het printen van 
+stembiljetten c.q. het tellen ervan. De inbraakdetectie moet bestand zijn tegen aanvallen met 
+een hoog aanvalsniveau. Marktpartijen is gevraagd de haalbaarheid hiervan te onderbouwen.  
+ 
+Gebruik van standaardcomponenten 
+Marktpartijen is gevraagd voor welke onderdelen van de stemprinter en stemmenteller ze 
+standaard- dan wel maatwerkcomponenten voorzien en of voor standaardcomponenten de 
+broncodes en hardware diagrammen beschikbaar zijn.  
+Alle marktpartijen hebben deze vraag beantwoord. 
+ 
+Marktpartij A gaat uit van het gebruik van standaardcomponenten omdat deze makkelijker 
+kunnen worden vervangen en er kan gedurende de gebruiksperiode, na certificering, gebruik 
+worden gemaakt van technologische verbeteringen en vernieuwingen. Ze doet geen uitspraak 
+over beschikbaarheid van broncodes of hardware diagrammen daarvan. De specificatie over 
+beschikbaarheid van alle broncodes wordt dus niet haalbaar geacht. 
+ 
+Marktpartij B gaat uit van standaardcomponenten voor onderdelen waarvoor geen specifieke 
+eisen gelden (touchscreen, fysieke knoppen, koptelefoon, smartcardlezer, printer en 
+noodstroomvoorziening). Er wordt uitgegaan van maatwerk voor de scanner om stembiljetten te 
+Paraaf Paraaf 
+ 
+29 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Atos heeft kunnen vaststellen dat het specifieke project dat marktpartij D noemt heeft 
+plaatsgevonden. Of de genoemde verwijdermethodiek is toegepast kon niet geverifieerd worden 
+omdat de rapporten van het controleorgaan waarnaar wordt verwezen, geheim zijn. Atos heeft de 
+functionaliteit die marktpartij C noemt, kunnen verifiëren in de productspecificaties, maar de 
+adequate werking daarvan niet kunnen vaststellen.  
+ 
+Inbraakdetectie van de stemprinter en stemmenteller  
+De Protection Profiles voor de stemprinter en stemmenteller bevatten de eis dat er een 
+mechanisme voor inbraakdetectie moet zijn dat een inbraak in de stemprinter en stemmenteller 
+detecteert en dat het vervolgens onmogelijk maakt de stemprinter/stemmenteller te gebruiken 
+voor het printen van stembiljetten c.q. het tellen ervan. De inbraakdetectie moet bestand zijn 
+tegen aanvallen met een hoog aanvalsniveau. Marktpartijen is gevraagd of dergelijke 
+mechanismen bekend zijn en of deze bestand zijn tegen aanvallen met een hoog aanvalsniveau. 
+ 
+Marktpartijen B, C en D hebben deze vraag beantwoord. Marktpartij A heeft deze vraag niet 
+beantwoord.  
+ 
+Marktpartij B en D zeggen dergelijke mechanismen te kennen en verwijzen naar toepassingen in 
+stemcomputers, geldautomaten en apparaten om monitor, toetsenbord en muis te delen. Deze 
+apparaten zijn getest op het bestand zijn tegen een hoog aanvalspotentieel. De marktpartijen 
+hebben geen uitspraak gedaan of deze apparaten Common Criteria gecertificeerd zijn op EAL-4+ 
+niveau. Marktpartij C zegt deze mechanismen niet te kennen maar de toepassing daarvan wel 
+haalbaar te achten. 
+ 
+Onderbouwing en verificatie 
+Marktpartijen B en D hebben hun antwoorden onderbouwd. Marktpartij B verwijst naar eigen 
+ervaringen met genoemde toepassingen, marktpartij D verwijst naar apparaten om monitor, 
+toetsenbord en muis te delen die EAL4+ gecertificeerd zijn. Atos heeft de verwijzing van 
+3
+marktpartij D kunnen verifiëren bij de Common Criteria Portal en vastgesteld dat genoemde 
+apparaten op EAL4+ niveau gecertificeerd zijn. Deze producten zijn qua omvang veel kleiner dan 
+een stemprinter/stemmenteller en ook technisch minder complex. Daarnaast gelden voor 
+stemprinters en stemmentellers hogere fysieke beveiligingsvereisten. Uit de certificaten voor de 
+genoemde producten blijkt ook dat deze niet getest zijn op bestand zijn tegen een hoog 
+aanvalspotentieel. Verificatie van de antwoorden van marktpartij B door Atos heeft niet kunnen 
+plaatsvinden door het ontbreken van bronvermeldingen onafhankelijk van de marktpartij zelf. 
+ 
+  
+                                                
+3
+ Certification Report EAL 4+ Evaluation of High Security Labs Secure DVI KVM Switch. 
+https://www.commoncriteriaportal.org/files/epfiles/383-4-195%20CR%20v1.0e.pdf 
+Certification Report EAL 4+ Evaluation of Belkin® Secure DVI KVM Switch 
+https://www.commoncriteriaportal.org/files/epfiles/belkin-cert-eng.pdf  
+Paraaf Paraaf 
+ 
+31 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Marktpartij Analyse 
+Haalbaarheid 
+volgens 
+ Marktpartij Atos   
+gesproken beperkt het schema het beschikbaar stellen van deze 
+documentatie tot de marktpartij, de evaluator en de sponsor (deze 
+rol kan de overheid vervullen). Openbaar maken zal daardoor 
+mogelijk moeilijk te realiseren zijn.  
+Wat betreft fysieke bescherming van de stemprinter en 
+stemmenteller, blijkt dat marktpartij D een inbraakdetectie voor 
+fysieke bescherming haalbaar acht. Voor de producten waaraan de 
+marktpartij refereert, gelden echter minder stringente fysieke 
+beveiligingsvereisten.  
+Hoewel de marktpartij de specificaties haalbaar acht en de 
+antwoorden laten zien dat zij zich verdiept heeft in een aantal 
+aspecten dat nodig is voor Common Criteria certificering, acht 
+Atos een EAL4+ Common Criteria certificering niet haalbaar omdat 
+de marktpartij geen ervaring lijkt te hebben met Common Criteria 
+certificering. Common Criteria-experts zijn van mening dat het 
+hebben van ervaring met Common Criteria certificering op een 
+niveau van EAL4 of hoger noodzakelijk is om een stemprinter en 
+stemmenteller te ontwikkelen die Common Criteria gecertificeerd 
+zullen kunnen worden. 
+3.3.11 Beveiliging - compromitterende straling 
+De specificaties in deze categorie geven aan dat de stemprinter dient te voldoen aan de NATO 
+standaard SDIP-27/1 Level A voor bescherming tegen compromitterende straling, het 
+zogenaamde TEMPEST gedrag. Daarnaast beschrijven de specificaties enkele specifieke 
+aandachtspunten om aan de NATO norm te kunnen voldoen, zoals dat de bescherming van de 
+stemprinter tegen compromitterende straling bestand moet zijn tegen omstandigheden bij opslag, 
+transport en gebruik in een stemlokaal en dat bij het vervangen van (defecte) componenten er 
+opnieuw een test in een meetlaboratorium moet plaatsvinden. Bij de specificaties behoort een 
+bijlage met richtlijnen die inzicht geeft hoe de stemprinter kan worden geconstrueerd, zodanig dat 
+het gewenste TEMPEST gedrag wordt gerealiseerd. 
+ 
+Haalbaarheid 
+ 
+Marktpartij Haalbaarheid volgens Opmerking 
+ Marktpartij Atos   
+A Ja - Omdat onderbouwing van de haalbaarheid door marktpartijen niet 
+beschikbaar is, heeft Atos geen analyse gedaan en de haalbaarheid 
+B Ja - 
+van deze specificatie kunnen beoordelen. 
+C Ja - 
+D Ja - 
+ 
+Opmerkingen door marktpartijen 
+• Marktpartijen B en C merken op dat voldoen aan de NATO norm voor bescherming tegen 
+compromitterende straling hoge kosten met zich meebrengt. 
+• Marktpartij D geeft aan dat zij het gespecificeerde bescherming tegen compromitterende 
+straling kan realiseren, maar daarbij op onderdelen zal afwijken van de bijlage bij de 
+specificatie ‘Richtlijnen voorkoming compromitterende straling’ als kan worden aangetoond 
+dat ook zonder een richtlijn daaruit te volgen aan de specificaties kan worden voldaan. 
+Paraaf Paraaf 
+ 
+33 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Haalbaarheid 
+Marktpartij Haalbaarheid volgens Analyse 
+ Marktpartij Atos   
+A Ja Ja Geen opmerkingen. 
+B Ja Ja Geen opmerkingen. 
+C Ja Ja Geen opmerkingen. 
+D Ja Ja De specificaties stellen dat de testomgeving toegankelijk moet zijn 
+voor personen die daartoe door de overheid zijn aangewezen. Door 
+marktpartij D wordt aangenomen dat voor toegang door de 
+overheid tot de testomgeving die voor SDIP-27/1 A testen wordt 
+gebruikt de overheid daartoe bevoegde medewerkers van de 
+Nederlandse TEMPEST autoriteit aanwijst. Naar het oordeel van 
+Atos leidt deze aanname niet tot problemen met de haalbaarheid 
+van de specificaties. 
+ 
+3.3.14 Doorvoeren van wijzigingen aan de stemprinter, de stemmenteller en  
+elektronisch tokens 
+De specificaties in deze categorie gaan over de wijze waarop wijzigingen aan de apparatuur 
+worden doorgevoerd. De specificaties betreffen onder andere: 
+• toestemming bij wijzigingen door de overheid die als opdrachtgever optreedt; 
+• de inrichting van een continu proces om maatregelen tegen nieuwe beveiligingsrisico’s door te 
+voeren; 
+• testen en certificeren van wijzigingen; 
+• de wijze waarop softwarewijzigingen worden gedistribueerd, waarvoor gebruik van DVD’s is 
+gespecificeerd.  
+Haalbaarheid 
+ 
+Marktpartij Haalbaarheid volgens Analyse 
+ Marktpartij Atos   
+A Ja Ja Geen opmerkingen. 
+B Ja Ja Geen opmerkingen. 
+C Ja Onzeker De manier van programmatuur upgrades die men voor ogen heeft 
+gebruikt USB of netwerkverbinding. De specificatie gaat uit van 
+gebruik van DVD’s. Marktpartij C weet niet of dat haalbaar is. Atos 
+acht de haalbaarheid daarom onzeker. 
+D Ja Ja De marktpartij verwacht dat op enig moment in de 
+gebruiksperiode van de apparatuur DVD’s worden uitgefaseerd en 
+merkt op dat er dus een tijdige laatste bestelling DVD’s nodig zal 
+zijn om in de behoefte aan DVD’s te blijven voorzien. Naar het 
+oordeel van Atos leidt deze opmerking niet tot problemen met de 
+haalbaarheid van de specificaties. 
+ 
+Paraaf Paraaf 
+ 
+35 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Haalbaarheid 
+ 
+Marktpartij Haalbaarheid volgens Analyse 
+ Marktpartij Atos   
+A Ja Ja Geen opmerkingen. 
+B Ja Ja Geen opmerkingen. 
+C Ja Ja Geen opmerkingen. 
+D Ja Ja Geen opmerkingen. 
+ 
+Marktpartijen B, C en D hebben hun antwoord toegelicht met een concrete referentie. 
+• Marktpartijen B en C refereren aan ondersteuning van een nationale verkiezing in een West-
+Europees land.  
+• Marktpartij D voert als referentie een recente nationale verkiezing op in een land buiten 
+Europa.  
+Onderbouwing en verificatie 
+Atos heeft geverifieerd dat de marktpartijen inderdaad de door hen genoemde verkiezingen 
+hebben ondersteund. In hoeverre de geleverde ondersteuning in die landen heeft voldaan aan wat 
+de betreffende landen hebben gespecificeerd is door Atos niet verifieerd.  
+ 
+3.4 Doorlooptijden en kosten 
+Indien de Nederlandse overheid besluit tot invoering van stemprinters en stemmentellers dan is 
+de aanname dat dit geleidelijk zal gebeuren, conform hetgeen de commissie Van Beek heeft 
+geadviseerd. De commissie Van Beek gaat uit van het uitvoeren van (een aantal) experimenten 
+voordat de stemprinter en stemmenteller landelijk worden ingevoerd. Voor het kunnen houden 
+van experimenten is een wettelijke grondslag noodzakelijk.  
+ 
+In het beantwoordingsdocument is aangegeven dat de doorlooptijd voor de ontwikkeling, 
+productie en distributie van stemprinters en stemmentellers voor een eerste experiment moet 
+worden berekend vanaf het moment dat de opdracht is gegeven (door het ondertekenen van een 
+contract) en loopt tot en met het moment dat stemprinters en alle stemmentellers worden 
+bezorgd bij de gemeenten. 
+ 
+Voor volgende experimenten en landelijke uitrol loopt de berekening vanaf het moment dat 
+overheid opdracht geeft voor het leveren van de betreffende stemprinters en stemmentellers tot 
+en met het moment van bezorging daarvan bij de gemeenten. 
+ 
+Te hanteren indicatieve aantallen ten behoeve van doorlooptijd- en kostenramingen 
+Ten behoeve van de raming van doorlooptijden en kosten is in onderstaande tabel indicatief het 
+aantal stemprinters en stemmentellers genoemd dat nodig zou kunnen zijn voor de experimenten. 
+Verder zijn indicatieve aantallen vermeld voor het geval in elk stembureau stemprinters en 
+stemmentellers gebruikt zouden worden. 
+ 
+Paraaf Paraaf 
+ 
+37 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+e
+I. Ontwikkeling, productie en distributie voor 1 experiment 
+Alle tijden in maanden 
+Marktpartij B Marktpartij C 
+Marktpartij D 
+Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd 
+stemprinter stemmenteller stemprinter stemmenteller stemprinter stemmenteller 
+(min-max) (min-max) (min-max) (min-max) (min-max) (min-max) 
+6
+6-9 9-12 ~13 ~13 15-21 15-21 
+ 
+ 
+Na experimenten geen Common Criteria hercertificering en geen testen/ 
+meten voor SDIP 27/1 Level A 
+Alle tijden in maanden 
+Marktpartij B Marktpartij C Marktpartij D 
+Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd 
+II. Ontwikkeling, 
+stemprinter stemmenteller stemprinter stemmenteller stemprinter stemmenteller 
+productie en distributie 
+(min-max) (min-max) (min-max) (min-max) (min-max) (min-max) 
+e Geen opgave Geen opgave 
+~5 ~5 4-5 4-5 
+2 experiment 
+e Geen opgave Geen opgave 
+~5 ~5 4-5 4-5 
+3 experiment 
+Alle gemeenten/openbare 
+Geen opgave Geen opgave 
+~5 ~5 4-5 4-5 
+lichamen 
+ 
+ 
+Na experimenten wel Common Criteria hercertificering en wel testen/ 
+meten voor SDIP 27/1 Level A 
+Alle tijden in maanden 
+Marktpartij B Marktpartij C Marktpartij D 
+Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd Doorlooptijd 
+III. Ontwikkeling, 
+stemprinter stemmenteller stemprinter stemmenteller stemprinter stemmenteller 
+productie en distributie 
+(min-max) (min-max) (min-max) (min-max) (min-max) (min-max) 
+e Geen opgave Geen opgave 
+~13   ~13   5,5-6,5 5,5-6,5 
+2 experiment 
+e Geen opgave Geen opgave 
+~13   ~13   5,5-6,5 5,5-6,5 
+3 experiment 
+Alle gemeenten/openbare 
+Geen opgave Geen opgave 
+~13   ~13   5,5-6,5 5,5-6,5 
+lichamen 
+ 
+ 
+                                                
+6
+ Hier en in andere tabellen betekent het symbool ~ ‘ongeveer’. 
+Paraaf Paraaf 
+ 
+39 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+beschikbaar is niet haalbaar zijn. De afgegeven doorlooptijden betreffen uitsluitend 
+ontwikkeling van de oplossing.  
+• Marktpartij C 
+o gaat uit van EAL3 Common Criteria certificering in plaats van de gevraagde EAL4+ 
+certificering en in-huis testen door één van betrokken partijen in de samenwerking; 
+o geeft doorlooptijden waarin acceptatietesten door de overheid, volgens de 
+specificaties 3-5 maanden voor het eerste experiment en 2 maanden voor latere 
+experimenten en de landelijke uitrol, niet zijn meegenomen. 
+• Na ieder experiment vindt een evaluatie plaats. Marktpartij D neemt in haar opgave aan dat 
+deze evaluaties geen aanleiding zullen zijn voor majeure wijzigingen in de functionaliteit  van 
+stemprinter en stemmenteller zoals geëvalueerd of voor majeure wijzigingen in de protection 
+profile voor de stemprinter en stemmenteller. 
+• Marktpartij D zegt in de opgegeven doorlooptijden rekening gehouden te hebben met een 
+doorlooptijd van 1 à 2 weken voor acceptatietesten door de overheid. De doorlooptijd van de 
+acceptatietesten door de overheid zullen echter (veel) langer duren. Het 
+beantwoordingsdocument gaat uit van minimaal 3 tot maximaal 5 maanden. Het is niet aan 
+een marktpartij om te bepalen hoe lang een opdrachtgever doet over een acceptatietraject en 
+hoe dat traject wordt vormgegeven.  
+• Common Criteria en SDIP 27/A certificering dekken slechts een beperkt deel van de 
+specificaties af. Daarnaast kan overheidstoezicht tijdens het productieproces niet in de plaats 
+komen van een gedegen en gestructureerde acceptatietest. 
+Verificatie en beoordeling 
+Marktpartij A heeft in haar beantwoording geen doorlooptijden gegeven.  
+  
+Marktpartij B heeft enkele indicatieve doorlooptijden gegeven. De afgegeven doorlooptijden 
+betreffen uitsluitend de ontwikkeling van de oplossing. Atos heeft deze doorlooptijden niet kunnen 
+verifiëren. De marktpartij houdt in haar opgaven geen rekening met andere onderdelen van de 
+doorlooptijd dan ontwikkeling, zoals Common Criteria Certificering, SDIP 27/1 testen en 
+acceptatietesten door de overheid. De volledige doorlooptijden zullen dus aanmerkelijk hoger 
+uitvallen dan de opgegeven waarden. 
+ 
+Atos heeft de door marktpartij C afgegeven doorlooptijden niet kunnen verifiëren. De gegeven 
+doorlooptijden zijn exclusief doorlooptijd voor acceptatietesten door de overheid, volgens de 
+beantwoordingsdocument 3-5 maanden voor het eerste experiment en 2 maanden voor latere 
+experimenten en de landelijke uitrol. Deze moeten dus bij de afgegeven doorlooptijden worden 
+opgeteld. 
+ 
+Marktpartij D verwijst voor onderdelen van haar opgave van doorlooptijden naar niet nader 
+gespecificeerde ervaringen in andere landen. Atos heeft deze doorlooptijden dus niet kunnen 
+verifiëren. De marktpartij heeft in de bepaling van de afgegeven doorlooptijden rekening 
+gehouden met een doorlooptijd van 1 à 2 weken voor acceptatietesten door de overheid. Het 
+beantwoordingsdocument gaat echter uit van 3-5 maanden voor het eerste experiment en 2 
+maanden voor volgende experimenten en de landelijke uitrol. De markpartij is van mening dat 
+een gebruikelijke doorlooptijd van 1 à 2 weken voor acceptatietesten meer dan toereikend is, 
+omdat een zeer intensieve Common Criteria type certificering en een SDIP 27/a certificeringstest 
+Paraaf Paraaf 
+ 
+41 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Na experimenten geen Common Criteria hercertificering en geen testen/ 
+Alle bedragen in Euro meten voor SDIP 27/1 Level A 
+inclusief BTW 
+Marktpartij C Marktpartij D 
+II. Ontwikkeling, Kosten per Kosten per Kosten per Kosten per Kosten per Kosten per 
+productie en 
+stemprinter stemmenteller token stemprinter stemmenteller token 
+distributie 
+e
+4.092-8.196 4.401-8.802 50-100 5.428 13.949 2,18 
+2 experiment 
+e
+4.092-8.196 4.401-8.802 50-100 5.426 13.950 2,18 
+3 experiment 
+Alle gemeenten/ 
+4.092-8.196 4.401-8.802 50-100 5.298 12.108 1,82 
+openbare lichamen 
+ 
+ 
+Na experimenten wel Common Criteria hercertificering en wel testen/ 
+Alle bedragen in Euro meten voor SDIP 27/1 Level A 
+inclusief BTW Marktpartij C Marktpartij D 
+III. Ontwikkeling, 
+Kosten per Kosten per Kosten per Kosten per Kosten per Kosten per 
+productie en 
+stemprinter stemmenteller token stemprinter stemmenteller token 
+distributie 
+e
+6.138-12.294 6.602-13.203 75-150 5.578 13.949 2,18 
+2 experiment 
+e 6.138-12.294 6.602-13.203 75-150 5.576 13.950 2,18 
+3 experiment 
+Alle gemeenten/ 
+6.138-12.294 6.602-13.203 75-150 5.448 12.108 1,82 
+openbare lichamen 
+ 
+ 
+Alle bedragen in Euro Marktpartij C Marktpartij D 
+inclusief BTW 
+Kosten per Kosten per Kosten per Kosten per 
+IV. Onderhoud en 
+ondersteuning 
+stemprinter stemmenteller stemprinter stemmenteller 
+e
+750 750 148,91 148,91 
+1 experiment 
+e
+650 650 49,85 49,85 
+2 experiment 
+e
+600 600 40,35 40,35 
+3 experiment 
+Alle gemeenten/ 
+500 500 33,04 33,04 
+openbare lichamen 
+ 
+De vermelde kosten van de verschillende marktpartijen zijn niet (volledig) met elkaar te 
+vergelijken, omdat ze verschillende aannames en voorbehouden hanteren. De volgende 
+kanttekeningen zijn te maken: 
+• Marktpartij C geeft aan dat de kosten uitgaan van een EAL3 Common Criteria certificering, in 
+plaats van de gevraagde EAL4+ certificering. 
+• Marktpartij D geeft aan dat: 
+o alle ontwikkelkosten (met uitzondering van de kosten voor Common Criteria-certificering) 
+zijn verrekend in de kosten van het eerste experiment; 
+o in de kosten voor onderhoud en ondersteuning vanaf het tweede experiment er van wordt 
+uitgegaan dat ook de apparatuur vanuit eerdere experimenten wordt onderhouden; 
+o de kosten voor de initiële Common Criteria certificering van 1.149.500 euro (inclusief 
+BTW) voor stemprinter en stemmenteller samen, niet zijn opgenomen in de opgave; 
+Paraaf Paraaf 
+ 
+43 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+4 Alternatieven die door marktpartijen zijn aangedragen 
+4.1 Marktpartij D 
+Zoals eerder in deze rapportage vermeld, heeft marktpartij D een alternatief aangedragen voor de 
+stemprinter en stemmenteller bestaande uit één stemprinter en één stemmenteller per 
+stembureau. Dit alternatief is gebaseerd op andere specificaties dan de specificaties die voor de 
+stemprinter en stemmenteller zijn opgesteld door de Deskundigengroep Elektronisch stemmen en 
+tellen in het stemlokaal, die ten grondslag liggen aan de uitgevoerde marktuitvraag.  
+ 
+Hieronder zijn de karakteristieken van dit alternatief in beeld gebracht. Daarbij wordt ook vermeld 
+waarom de Deskundigengroep Elektronisch stemmen en tellen en/of de commissie Van Beek voor 
+de specificaties van de stemprinter en stemmenteller andere keuzes hebben geadviseerd aan de 
+minister van BZK.  
+4.1.1 Karakteristieken alternatief marktpartij D 
+1. De stemprinter is via een vaste kabel gekoppeld aan een zogenaamde voorzitterseenheid en 
+wordt bediend door het stembureau. De kiezer hoeft dus de stemprinter niet te bedienen met 
+gebruikmaking van een token.  
+ 
+De Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal heeft uitdrukkelijk de 
+keuze gemaakt om de stemprinter niet te laten bedienen door leden van het stemlokaal. Die 
+keuze heeft de Deskundigengroep gemaakt omdat bediening door het stembureau zal leiden 
+tot discussies over mogelijke doorbrekingen van het stemgeheim. Er zou namelijk kunnen 
+worden betoogd dat het stembureau kan “meekijken” en zo kan achterhalen welke keuzes de 
+kiezer maakt. Deze discussie speelde ook (in beperkte mate) bij de stemmachines die tot 
+2008 werden gebruikt en door het stembureau werden bediend. Verder heeft een verbinding 
+tussen stembureau en stemprinter het risico dat op deze interface ingebroken kan worden 
+waardoor er een (extra) mogelijkheid bestaat om de keuze van de kiezer te achterhalen en/of 
+om de werking van de stemprinter te manipuleren.  
+ 
+2. De stemprinter bevat een aanraakscherm dat zo groot is, 27 inch ipv de gespecificeerde 24 
+inch, dat 80 kandidaten op één scherm getoond kunnen worden. Er zijn dan minder stappen 
+nodig om de schermen te doorlopen. Hierdoor en doordat het stembureau de stemprinter 
+bedient, kan in 1 stemlokaal volstaan worden met 1 stemprinter. 
+ 
+De Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal heeft, voor het 
+opstellen van de specificaties, een test laten uitvoeren om te kunnen bepalen hoe de 
+gebruikersinterface voor de stemprinter er uit zou moeten zien. Die test heeft uitgewezen dat 
+het tonen van 80 kandidaten op één scherm niet op voorhand de beste oplossing is. De 
+voorkeur gaat uit naar een grotere weergave van teksten en de mogelijkheid foto’s van 
+kandidaten te tonen. 
+Paraaf Paraaf 
+ 
+45 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+transport naar de stemlokalen door de gemeenten te laten configureren en te testen zodat er 
+nog voldoende tijd is, voor de dag van stemming, om eventuele problemen op te lossen. 
+ 
+6. De stemprinter en stemmenteller bevatten geen log waarin alle gebeurtenissen en gegevens 
+die zijn verwerkt (met uitzondering van naar stemkeuze te herleiden gegevens) worden 
+opgeslagen ten behoeve van een analyse van de goede werking van de stemprinter en 
+stemmenteller na afloop van een verkiezing. In plaats daarvan kunnen deze gegevens in het 
+vluchtige geheugen worden opgeslagen en na sluiten stemming/telling worden afgedrukt.  
+ 
+De Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal heeft gespecificeerd 
+dat er een log van gebeurtenissen moet worden bijgehouden zodat een analyse van de goede 
+werking van stemprinters en stemmentellers mogelijk is. Dat is uiteraard voor de 
+transparantie en controleerbaarheid van essentieel belang.  
+ 
+Als de gebeurtenissen alleen in het vluchtige geheugen worden opgeslagen, zullen deze 
+gebeurtenissen bijvoorbeeld bij stroomuitval verloren gaan waardoor probleemanalyse 
+achteraf niet meer mogelijk is.  
+ 
+7. Het stembiljet heeft het formaat van een “boarding pass”. 
+ 
+De Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal heeft geadviseerd om 
+rekening te houden met mogelijke verschillende formaten voor het stembiljet, bijvoorbeeld 
+ook met een stembiljet op A4 formaat.  
+ 
+8. Een noodstroomvoorziening is niet nodig om een stemprinter of stemmenteller gecontroleerd 
+uit te schakelen.  
+ 
+Het niet hebben van een noodstroomvoorziening kan er toe leiden dat een stemprinter 
+vastloopt op een stembiljet dat net wordt geprint en een stemmenteller zal half doorgevoerde 
+stembiljetten bevatten. Stemprinters en stemmenteller in die situatie weer op gang krijgen 
+zonder apparatuur en stembiljetten onherstelbaar te beschadigen is bijzonder lastig, zeker 
+voor daarop niet geoefende stembureauleden. Dat is de reden waarom de Deskundigengroep 
+Elektronisch stemmen en tellen in het stemlokaal heeft geadviseerd dat een stemprinter en 
+stemmenteller bij stroomuitval nog minstens 10 minuten moeten functioneren alvorens 
+zichzelf af te sluiten en uit te schakelen. 
+  
+Paraaf Paraaf 
+ 
+47 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+ 
+Marktpartij D 
+Tijden in maanden, tenzij anders aangegeven 
+Doorlooptijd Doorlooptijd 
+IV. Doorlooptijd voor specifieke onderdelen voor stemprinter en 
+stemprinter stemmenteller 
+stemmenteller 
+(min-max) (min-max) 
+het maken van systeemontwerpen en systeemdocumentatie die voldoet 
+5-8 5-8 
+aan de Common Criteria vereisten 
+het uitvoeren van testen door het evaluerend laboratorium voor de 
+6-7 6-7 
+Common Criteria certificering 
+het op prototypes van een stemprinter uitvoeren van testen/metingen 
+1 week NVT 
+om vast te stellen dat aan SDIP 27/1 Level A norm wordt voldaan 
+de individuele meting van een exemplaar van de stemprinter om vast te 
+> 30/dag NVT 
+stellen dat aan SDIP 27/1 Level A norm wordt voldaan 
+maken en testen van een software update om stemprinters en 
+stemmentellers te beschermen tegen de laatst bekende 
+2-5 2-5 
+veiligheidsrisico’s, inclusief een eventuele Common Criteria 
+hercertificering 
+na landelijke invoering ten behoeve van een verkiezing maken en naar 
+gemeenten/openbare lichamen verspreiden van DVD’s met software 
+updates en verkiezingsgegevens, inclusief het daarover zetten van een 
+1-1,5 week 
+digitale handtekening, te rekenen vanaf het door de bevoegde autoriteit 
+vaststellen van de verkiezingsgegevens tot het bij de laatste 
+gemeente/openbaar lichaam aankomen van de DVD’s 
+na landelijke invoering ten behoeve van een verkiezing aan 
+gemeenten/openbare lichamen leveren van stembiljetten, te rekenen 
+vanaf het door de overheid vaststellen van het te gebruiken 2-5 weken NVT 
+echtheidskenmerk tot het bij de laatste gemeente/openbaar lichaam 
+aankomen van de stembiljetten. 
+  
+Voor deze doorlooptijden is dezelfde aanname van toepassing als marktpartij D maakt bij de 
+oplossing die wel voldoet aan de specificaties, namelijk dat er geen majeure wijzigingen in 
+functionaliteit of protection profiles zullen zijn naar aanleiding van de evaluaties van de 
+experimenten.  
+Daarnaast neemt marktpartij D aan dat de overheid bereid is een alternatieve geheugendrager 
+(dus geen DVD’s) te beoordelen op basis van een aanvullende analyse van voor- en nadelen. Het 
+door marktpartij D voorgestelde alternatief maakt gebruik van 1 geheugenmodule, bevattende 
+software en configuratiegegevens van de verkiezing, per stembureau, met 3 reserves per 
+gemeente. 
+ 
+Hieronder zijn de door marktpartij D vermelde kosten voor deze alternatieve oplossing gegeven. 
+Alle vermelde kosten zijn in Euro inclusief Nederlandse BTW (21%). 
+ 
+I. Ontwikkeling, productie en distributie 
+e
+voor 1 experiment 
+Alle bedragen in Euro inclusief BTW 
+Marktpartij D 
+Kosten per Kosten per Kosten per 
+stemprinter stemmenteller token 
+26.733 26.964 3,03 
+ 
+Paraaf Paraaf 
+ 
+49 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+• de kosten voor het onderhoud van de documentatie zijn niet inbegrepen in de kostenopgave. 
+De kosten zullen variëren tussen 1.200 euro en maximaal 12.000 euro (inclusief BTW) per 
+verkiezing voor de stemprinter en stemmenteller samen; 
+• 1 stemprinter per stembureau benodigd, met 12,5% reserve; 
+• 1 stemmenteller per stembureau benodigd, met 10% reserve; 
+• 2 autorisatietokens per stembureau benodigd, met 10% reserve. 
+De specificaties gaan bij landelijke invoering uit van tussen de 9.000 en 10.000 stembureaus 
+waarvoor 35.000 stemprinters, 12.500 stemmentellers en 2.200.000 tokens nodig zijn. Het door 
+deze marktpartij gepresenteerde alternatief gaat dus uit van aanzienlijk lagere aantallen 
+benodigde stemprinters en tokens dan in de opgave conform de specificaties. 
+ 
+Verificatie en beoordeling 
+Marktpartij D verwijst voor onderdelen van haar opgave van doorlooptijden naar niet nader 
+gespecificeerde ervaringen in andere landen. Atos heeft deze doorlooptijden dus niet kunnen 
+verifiëren. De marktpartij heeft in de bepaling van de afgegeven doorlooptijden rekening 
+gehouden met een doorlooptijd van 1 à 2 weken voor acceptatietesten door de overheid. Het 
+beantwoordingsdocument gaat echter uit van 3-5 maanden voor het eerste experiment en 2 
+maanden voor volgende experimenten en de landelijke uitrol. De markpartij is van mening dat 
+een gebruikelijke doorlooptijd van 1 à 2 weken voor acceptatietesten meer dan toereikend is, 
+omdat een zeer intensieve Common Criteria type certificering en een SDIP 27/a certificeringstest 
+per stemprinter is doorlopen. Tevens geven zij aan dat zij over een ISO9001:2015 gecertificeerd 
+kwaliteitssysteem beschikken en de productie in Nederland plaats vindt in een ABDO 
+gecertificeerde productieomgeving, waardoor aangenomen wordt dat er tijdens het 
+productieproces overheidstoezicht is of kan zijn. Dit toezicht waarborgt dat er conform alle 
+relevante product- en productie-eisen wordt geproduceerd. De toegevoegde waarde van al deze 
+kwalificatie-eisen is er volgens de marktpartij juist op gericht om dan minder omvangrijk en 
+intensief te hoeven acceptatietesten. Atos heeft de door de marktpartij genoemde doorlooptijd 
+van 1 à 2 weken voor acceptatietesten niet kunnen verifiëren maar acht deze niet realistisch. 
+Common Criteria en SDIP 27/A certificering dekken slechts een beperkt deel van de specificaties 
+af. Daarnaast kan overheidstoezicht tijdens het productieproces niet in de plaats komen van een 
+gedegen en gestructureerde acceptatietest.  
+ 
+Zoals getoond in tabel IV geeft marktpartij D doorlooptijden voor het uitvoeren van testen door 
+het evaluerend laboratorium voor de Common Criteria certificering. Deze doorlooptijden zijn 
+onderdeel van de doorlooptijden in tabellen I en III. Atos oordeelt dat deze doorlooptijden 
+haalbaar zijn voor ervaren ontwikkelaars. Aangezien marktpartij D echter geen of weinig ervaring 
+lijkt te hebben met Common Criteria certificering, zullen de doorlooptijden naar verwachting 
+hoger uitvallen. 
+ 
+Atos heeft de kostenopgave van marktpartij D niet kunnen verifiëren. De marktpartij heeft in de 
+kostenopgave de kosten voor Common Criteria certificering en hercertificering verbijzonderd. 
+Gebaseerd op een Common Criteria-expert die Atos heeft geraadpleegd, acht Atos deze kosten 
+een realistische inschatting voor het totaal van de externe kosten voor het evaluerend 
+laboratorium en de interne kosten voor de marktpartij zelf voor bijvoorbeeld systeemontwerpen 
+en -documentatie.  
+Paraaf Paraaf 
+ 
+51 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+4.4 Alternatieven voor individuele specificaties 
+De marktpartijen hebben bij sommige specificaties suggesties en adviezen aangedragen om af te 
+wijken van de specificatie. Waar het in de vorige paragraaf gaat om een samenhangend 
+alternatief voor stemprinter en stemmenteller dat op een groot aantal punten afwijkt van de 
+specificaties, betreft het hier alternatieven voor individuele specificaties. In deze paragraaf zijn 
+deze suggesties en adviezen verzameld. 
+ 
+1. Marktpartij A beveelt aan om barcodes op het stembiljet toe te staan om informatie over een 
+specifieke verkiezing aan de stemmenteller over te brengen. De marktpartij geeft aan dat een 
+dergelijke barcode geen enkele informatie over de kiezer overbrengt, dus de vertrouwelijkheid 
+van de stemkeuze niet in gevaar brengt.  
+ 
+De commissie Van Beek heeft geadviseerd op het stembiljet geen barcodes te printen, omdat 
+een barcode door de kiezer niet is te lezen c.q. begrijpen. De kiezer moet er dan op 
+vertrouwen dat de barcode en de leesbare tekst identiek zijn. Door het niet afdrukken van 
+een barcode wordt bovendien voorkomen dat er (als gevolg van programmeerfouten of 
+manipulatie) verschillen zijn tussen de barcode en de leesbare tekst op het stembiljet.  
+ 
+2. Marktpartij B beschrijft een alternatief waarbij een stemmenteller geïntegreerd is met de 
+stembus. De kiezer neemt zelf het stembiljet uit de printer en voert het in de scanner 
+(stemmenteller) in. Als de stemmenteller de stemkeuze herkent, wordt het resultaat 
+versleuteld opgeslagen en het stembiljet in de stembus geplaatst. Als de stemmenteller de 
+stemkeuze niet herkent, wordt dat gesignaleerd zodat een medewerker van het stembureau 
+kan onderzoeken wat het probleem is en een passende maatregel nemen, bijvoorbeeld een 
+nieuw token uitreiken aan de kiezer. De marktpartij geeft aan dat deze oplossing enkele 
+voordelen heeft: 
+• Er is geen apart telproces na afloop van de stemperiode. Dit bespaart dus op handmatig 
+werk voor medewerkers van het stembureau en er zijn ook geen kostbare bulk scanners 
+nodig. 
+• De resultaten van de stemming zijn onmiddellijk na afloop van de stemming beschikbaar. 
+• Onherkenbare stemkeuzes worden gesignaleerd op een moment dat correctie nog 
+mogelijk is. 
+ 
+De commissie Van Beek adviseert om de kiezer niet zelf zijn stembiljet te laten scannen. 
+Voordeel van zelf scannen is uiteraard dat na afloop van de stemming de uitslag sneller 
+beschikbaar is. Dit voordeel weegt in de visie van de commissie Van Beek niet op tegen een 
+aantal nadelen.  
+• De zogenaamde compromitterende straling wordt niet alleen door een stemprinter 
+gegenereerd, maar ook tijdens het scanproces. Om te voorkomen dat op deze wijze het 
+stemgeheim wordt geschonden, zou ook de scanner moeten worden voorzien van 
+bescherming tegen compromitterende straling. Dit werkt kostenverhogend.  
+• Bij zelf scannen moeten maatregelen worden genomen om te voorkomen dat de stemmen 
+in volgorde van uitbrengen worden opgeslagen. Dan wordt het mogelijk te achterhalen 
+wat de kiezer heeft gestemd door de volgorde waarin kiezers zich hebben aangemeld te 
+vergelijken met de volgorde waarin de scanner de stemmen heeft geteld. Dit is te 
+Paraaf Paraaf 
+ 
+53 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ Vertrouwelijk 
+ 
+ 
+Bijlage A  Onderzoek ‘Haalbaarheid van stemprinter 
+en stemmenteller’ 
+Beantwoordingsdocument 
+Paraaf Paraaf 
+ 
+55 van 123 
+ Atos Consulting 
+© Copyright 2017, Atos Consulting N.V. 
+ 
+
+ 
+ 
+Inhoudsopgave 
+ 
+Inhoudsopgave .......................................................................................................................................................... 1 
+Invulformulier Basisgegevens (markt)partij .................................................................................................... 2 
+Begrippenlijst ............................................................................................................................................................. 3 
+Inleiding ....................................................................................................................................................................... 7 
+Invulinstructie ............................................................................................................................................................ 8 
+Korte introductie van de stemprinter en stemmenteller ............................................................................. 10 
+Verkiezingen in Nederland.................................................................................................................................... 13 
+Deel 1 - Specificaties stemprinter en stemmenteller ................................................................................... 15 
+Deel 2 - Specifieke vragen .................................................................................................................................... 44 
+Deel 3 – Vragen over doorlooptijd en kosten ................................................................................................. 60 
+ 
+  
+1 
+
+ 
+ 
+Begrippenlijst 
+ 
+Alertering 
+Melding van een beveiligingsprobleem in standaard programmatuur of apparatuur. 
+ 
+Apparatuur  
+Geheel van fysieke onderdelen die een stemprinter of stemmenteller vormen.  
+ 
+Blanco stem 
+Een door een kiezer uitgebrachte stem waarbij op het stembiljet geen kandidaat wordt gekozen of geen 
+antwoord wordt gegeven op een referendumvraag.   
+ 
+Calamiteit 
+Een gebeurtenis die ernstige gevolgen kan hebben voor de ontwikkeling, de productie, het onderhoud, de 
+ondersteuning van het gebruik en het gebruik zelf van de stemprinters en stemmentellers.  
+ 
+Common criteria (CC) 
+De Common Criteria vormen een instrument voor het evalueren en beoordelen van de informatiebeveiliging 
+van IT-producten en -systemen door een combinatie van de beoordeling van het betreffende product, de 
+documentatie van het systeem en testen in de praktijk. 
+ 
+Configureren 
+Het wijzigen van instellingen op de stemprinter of een stemmenteller, zoals verkiezingsgegevens. 
+ 
+Documentatie 
+Alle documenten die worden opgesteld voor het ontwikkelen, produceren, onderhouden, wijzigen, testen, 
+distribueren van de stemprinters, stemmentellers en elektronische tokens.  
+ 
+Elektronische token 
+Het middel in de vorm van een smartcard dat wordt gebruikt om een stemprinter of een stemmenteller te 
+kunnen gebruiken.  
+ 
+Experiment bij verkiezingen 
+Bij een experiment mag op grond van een specifieke experimentwet worden afgeweken van (onderdelen 
+van) de Kieswet. Als bij een verkiezing een experiment wordt gehouden dan telt de uitkomst mee voor de 
+uitslag van de betreffende verkiezing. Dit in tegenstelling tot een test.     
+ 
+Foutsituaties 
+Situaties die niet bij de goede werking van de stemprinter en stemmenteller horen. 
+ 
+Fysieke knoppen 
+Toetsen waarmee een stemprinter door een kiezer kan worden bediend om een stemkeuze te maken, 
+zonder gebruik te maken van het aanraakscherm. 
+ 
+Functionaliteit 
+De mogelijkheden die een gebruiker heeft met een stemprinter of een stemmenteller. 
+ 
+Gebruikersinterface 
+De wijze waarop de stemprinter of stemmenteller door een gebruiker wordt bediend. 
+ 
+3 
+
+ 
+ 
+ 
+Optical Character Recognition (OCR) 
+Uit een afbeelding door middel van patroonherkenning de tekens uit de afbeelding herkennen en opslaan. 
+ 
+Overheid 
+De instantie of instanties binnen de overheid die verantwoordelijk is/zijn voor de wet- en regelgeving. het 
+beleid, de organisatie en de uitvoering van verkiezingen.  
+ 
+Public Key Infrastructure (PKI) 
+Het geheel van apparatuur, programmatuur en procedures waarmee uitgifte en beheer van certificaten 
+wordt gerealiseerd zodat betrouwbare elektronische communicatie mogelijk is. 
+ 
+Protection profile 
+In een Protection Profile (PP) wordt een set implementatie-onafhankelijk beveiligingsvereisten en 
+doelstellingen voor een bepaald type IT-producten of -systemen gedefinieerd. 
+ 
+Raadgevend referendum 
+Een referendum is het voorleggen van een vraag met betrekking tot wet- en regelgeving aan de 
+kiesgerechtigden.  
+ 
+Referendumvraag 
+De vraag die bij een referendum op het stembiljet staat. De kiezer kan voor, tegen of blanco stemmen. 
+ 
+Stembiljet 
+Papier waar de stemkeuze van één kiezer voor één verkiezing op wordt of is weergegeven. Het stembiljet 
+bevat geen barcode.  
+ 
+Stembureau 
+Het stembureau is het orgaan dat in een stemlokaal toezicht houdt op het verloop van de verkiezing, de 
+uitgebrachte stemmen telt en een proces-verbaal opmaakt waarin verantwoording wordt afgelegd over het 
+verloop van de verkiezing en de uitkomst van de bij het stembureau uitgebrachte stemmen.  
+ 
+Stembureaunummer 
+Het nummer dat de gemeente aan een stembureau toekent. 
+ 
+Stemlokaal 
+De fysieke locatie waar een stembureau zitting houdt en waar voor een verkiezing een stem kan worden 
+uitgebracht. Binnen één gemeente kan de kiezer bij het de verkiezingen zelf bepalen waar hij/zij gaat 
+stemmen. Bij verkiezingen waar op 1 dag in alle gemeenten kan worden gestemd zijn er ca 10.000 
+stemlokalen in gebruik. De gemeenten bepalen waar een stemlokaal wordt ingericht. 
+ 
+Stemkeuze 
+De stem van de kiezer op een kandidaat van een partij of het antwoord op een referendumvraag. Een 
+blanco stem is ook een stemkeuze. 
+ 
+Stemmenteller 
+Computer waarmee stembiljetten worden geteld en het resultaat daarvan wordt geprint en op een extern 
+medium wordt opgeslagen.  
+5 
+
+ 
+ 
+Inleiding 
+ 
+Dit document bevat een beschrijving van de specificaties die zouden kunnen gelden voor een stemprinter 
+en een stemmenteller. De specificaties zijn opgesteld in het kader van een haalbaarheidsonderzoek dat 
+wordt uitgevoerd door de Nederlandse overheid. Dit onderzoek heeft tot doel om na te gaan of een 
+invoering van een stemprinter en een stemmenteller haalbaar is. Er wordt daarbij gekeken naar de 
+technische, financiële, organisatorisch en juridische haalbaarheid.  
+ 
+Een onderdeel van het haalbaarheidsonderzoek van de Nederlandse overheid is het vragen aan de markt of 
+het realiseren van de specificaties mogelijk is, zo nee waarom niet en zo ja tegen welke kosten en 
+doorlooptijd. 
+ 
+Deze marktuitvraag is uitdrukkelijk geen voorfase van een nog uit te voeren aanbesteding.  
+ 
+Dit document bevat een aantal bijlagen, te weten:  
+ 
+• Protection Profile stemprinter (Ballot printer Protection Profile) 
+ 
+• Protection Profile stemmenteller (Vote counter Protection Profile) 
+ 
+• Methode bepalen effectiviteit van maatregelen tegen compromitterende straling  
+(Ballot printer – performance of eavesdropping protection – radio-frequency emissions) 
+ 
+• Richtlijnen voorkoming compromitterende straling (Ballot printer – protection against eavesdropping 
+attacks – guidance for system designers) 
+ 
+• Verwijdermethoden  
+ 
+• Voorbeeld specificatie voor gebruikersinterface voor stemprinter 
+ 
+• Locaties stemlokalen in Nederland 
+ 
+• Verkiezingskalender Tweede Kamer 
+ 
+  
+7 
+
+ 
+ 
+4. Versturen van het ‘Beantwoordingsdocument’ naar onderzoeksteam 
+Het ingevulde beantwoordingsdocument en relevante bijlagen kunt u tot 16 september 2016 om 17:00 
+(CET) per e-mail versturen naar XXX. Als titel voor het mailbericht gebruikt u: ‘Beantwoording 
+vragenlijst onderzoek Stemprinter en stemmenteller’. 
+ 
+Contactgegevens 
+Dit onderzoek wordt uitgevoerd door Atos Consulting in opdracht van het ministerie van Binnenlandse 
+Zaken en Koninkrijksrelaties. Voor eventuele vragen met betrekking tot dit onderzoek kunt u contact 
+opnemen met: 
+ 
+Atos Consulting Onderzoeksteam 
+E-mail: XXX 
+ 
+  
+9 
+
+ 
+ 
+hertelling besluit en bij die hertelling de papieren stembiljetten elektronisch worden geteld, dan zal de 
+bediening van de stemmenteller plaatsvinden door andere daartoe aangewezen personen.  
+ 
+De stemmenteller moet stembiljetten kunnen tellen die door een stemprinter zijn geprint. Daarnaast moet 
+de stemmenteller ook stembiljetten kunnen tellen die handmatig zijn ingevuld. 
+De stemmenteller moet derhalve zowel stembiljetten kunnen tellen die door een stemprinter zijn geprint als 
+een handmatig ingevuld stembiljet, maar niet beide door elkaar voor eenzelfde stemming. 
+ 
+De stemmenteller moet het mogelijk maken om de stembiljetten nauwkeurig te tellen. Verder moet het 
+tellen met de stemmenteller sneller zijn dan het handmatig tellen van de (huidige) papieren stembiljetten.  
+ 
+Bij de stemmenteller wordt aan het principe dat het papier leidend is, invulling gegeven door een 
+handmatige steekproefcontrole uit te voeren op de juiste verwerking van de elektronisch getelde 
+stembiljetten. Als de uitkomst van deze controle daar aanleiding toe geeft moeten de stembiljetten alsnog 
+handmatig worden geteld.  
+ 
+Common Criteria certificering 
+ 
+De stemprinter en stemmenteller moeten Common Criteria gecertificeerd worden conform daarvoor 
+opgestelde en gecertificeerde Protection Profiles. Bij dit document zijn Protection Profiles bijgevoegd die zijn 
+opgesteld ten behoeve van het onderzoek van de Nederlandse overheid naar de haalbaarheid van de 
+stemprinter en stemmenteller. Deze Protection Profiles zijn niet gecertificeerd.  
+ 
+De Protection Profiles gaan uit van een bescherming tegen de meest geavanceerde aanvaller die de 
+Common Criteria onderkent, een zogenaamd “High Attack Potential”.  
+ 
+De Common Crriteria certificering van volledige systemen is zeker nog geen gemeengoed. Het aantal 
+bedrijven dat ervaring heeft met Common Criteria certificeringen is daarom relatief gering. Deskundigen op 
+het gebied van Common Criteria certificering zijn van mening dat het hebben van ervaring met Common 
+Criteria certificering op een niveau van EAL 4 of hoger noodzakelijk is om een stemprinter en stemmenteller 
+te ontwikkelen die Common Criteria gecertificeerd zullen kunnen worden.   
+Volgens de Common Criteria vinden voor de certificering controles en testen door het evaluerend 
+laboratorium plaats op prototypes. Door fouten of wijzigingen in het productieproces (bewust of onbewust) 
+is niet uit te sluiten dat de exemplaren die vervolgens worden geproduceerd om geleverd te worden niet 
+identiek zijn aan de prototypes die zijn gecertificeerd. Om dat risico uit te sluiten is in de Protection Profiles 
+bepaald dat, na de certificering, een evaluerend laboratorium voor elk geproduceerd exemplaar vaststelt 
+dat deze identiek is aan het geëvalueerde exemplaar. 
+ 
+Onafhankelijke instantie  
+ 
+Zou de Nederlandse overheid besluiten tot de invoering van de stemprinter en stemmenteller dan zullen de 
+specificaties die gelden voor deze systemen onderhouden moeten worden. Onafhankelijke deskundigen 
+zullen daar de overheid over adviseren. De onafhankelijke deskundigen zullen daartoe dreiging- en risico-
+analyses uitvoeren en op basis daarvan vaststellen of bijvoorbeeld de protection profiles voor de Common 
+Criteria aangepast dienen te worden. Indien er wijzigingen in de apparatuur en/of programmatuur van de 
+stemprinter en/of stemmenteller moeten worden aangebracht bepalen de onafhankelijke deskundigen of 
+een nieuwe certificering noodzakelijk is. 
+De uitkomsten van de toets worden door de overheid openbaar gemaakt. Ter voorkoming van 
+11 
+
+ 
+ 
+Verkiezingen in Nederland  
+ 
+Hieronder worden de verkiezingen vermeld waarvoor de stemprinter en stemmenteller gebruikt zullen 
+kunnen worden als wordt besloten die systemen in te voeren, te weten: 
+ 
+• Verkiezing van de gemeenteraden  
+Deze verkiezing vindt 1 keer per 4 jaar plaats. 
+• Verkiezing van de leden van Provinciale Staten  
+Deze verkiezing vindt 1 keer per 4 jaar plaats. 
+• De verkiezing van de Eilandsraden van Bonaire, Sint Eustatius en Saba 
+Deze verkiezing vindt alleen in deze drie openbare lichamen plaats 1 keer in de 4 jaar.  
+Deze verkiezing vindt op dezelfde dag plaats als de verkiezing van de Provinciale Staten in de 
+gemeenten. In de openbare lichamen wordt de verkiezing van de Provinciale Staten niet gehouden.  
+• De verkiezing van de besturen van de waterschappen 
+Deze verkiezing vindt 1 keer per 4 jaar plaats op dezelfde dag als de verkiezing van de leden van 
+Provinciale Staten. De verkiezing vindt niet plaats in de openbare lichamen Bonaire, Sint Eustatius en 
+Saba. 
+• De verkiezing van de leden van het Europees Parlement 
+Deze verkiezing vindt 1 keer in de 5 jaar plaats.  
+• De verkiezing van de leden van de Tweede Kamer 
+Deze verkiezing vindt in beginsel 1 keer in de 4 jaar plaats. Echter indien het kabinet valt kan er 
+tussentijds een verkiezing van de Tweede Kamer plaatsvinden. Ter illustratie hebben in de periode 2000 
+tot en met 2014 5 verkiezingen van de leden van de Tweede Kamer plaatsgevonden, te weten in 2002, 
+2003, 2006, 2010 en 2012.  
+• Landelijke raadgevende referenda 
+De wet raadgevend referendum maakt het mogelijk dat er landelijke raadgevende referenda worden 
+gehouden. Of en zo ja, hoeveel raadgevende referenda plaats vinden en wanneer is onvoorspelbaar. 
+Het is mogelijk dat er meerdere raadgevende referenda tegelijk plaatsvinden. Het is ook mogelijk dat er 
+raadgevende referenda plaatsvinden in combinatie met de verkiezingen die op basis van de Kieswet 
+plaatsvinden. Het is ook mogelijk dat tegelijk met een of meer raadgevende referenda ook een of meer 
+lokale referenda plaatsvinden.  
+• Lokale verkiezingen 
+Gemeenten kunnen besluiten lokale verkiezingen te houden voor bijvoorbeeld gebiedscommissies. In de 
+praktijk worden die verkiezingen veelal gehouden op de dag dat de verkiezingen gehouden worden voor 
+de gemeenteraden. 
+• Lokale referenda 
+Gemeenten kunnen besluiten lokale referenda te houden en wanneer die gehouden moeten worden.  
+ 
+De Nederlandse wet- en regelgeving bepaalt gedetailleerd welke formele stappen gezet moeten worden om 
+een verkiezing te organiseren en om de uitslag ervan formeel te kunnen bepalen.  
+De wet- en regelgeving bepaalt voor een aantal van deze stappen de (fatale) termijnen die moeten worden 
+aangehouden. Bij dit document is een aantal verkiezingskalenders bijgevoegd aan de hand waarvan de 
+tijdlijnen worden geïllustreerd die gelden bij verkiezingen. 
+ 
+In Nederland worden landelijke verkiezingen geëvalueerd door het ministerie van Binnenlandse Zaken en 
+Koninkrijksrelaties. De evaluaties zijn bedoeld om na te gaan hoe een verkiezing is verlopen en om te 
+bezien wat er bij toekomstige verkiezingen beter kan.  
+ 
+13 
+
+ 
+ 
+Deel 1 - Specificaties stemprinter en stemmenteller 
+ 
+Hieronder zijn de specificaties weergegeven voor de stemprinter en stemmenteller. De specificaties hebben 
+betrekking op:  
+A. Transparantie ten aanzien van stemprinter en stemmenteller 
+B. Documentatie over stemprinter en stemmenteller 
+C. Functionaliteit en bediening algemeen 
+D. Functionaliteit en bediening stemprinter 
+E. Functionaliteit en bediening stemmenteller 
+F. Stembiljet dat door stemprinter wordt geprint 
+G. Apparatuur 
+H. Standaarden en normen 
+I. Prestaties 
+J. Beveiliging - Common Criteria 
+K. Beveiliging - compromitterende straling 
+L. Beleid ten aanzien van beveiliging 
+M. Ontwikkelproces van stemprinters, stemmentellers en elektronische tokens 
+N. Doorvoeren van wijzigingen aan de stemprinter, de stemmenteller en elektronisch tokens 
+O. Fysieke distributie en onderhoud 
+P. Ondersteuning 
+ 
+Antwoordinstructie: 
+• Na elk onderdeel A tot en met P staat een kader met de vraag ‘Wat uit de voorgaande specificatie 
+acht u niet realiseerbaar en waarom niet?’. U wordt verzocht deze vraag per onderdeel van 
+specificaties te beantwoorden, waar nodig specifiek voor stemprinter en/of stemmenteller in een 
+separaat kader. 
+• Als u voor wat u realiseerbaar acht uitgaat van specifieke aannames, wordt u verzocht die te 
+vermelden in het antwoordkader. 
+ 
+ 
+A. Transparantie ten aanzien van stemprinter en stemmenteller   
+ 
+A1. De stemprinter en stemmenteller zijn zonder beperkingen te gebruiken. Licenties van gebruikte 
+standaardcomponenten mogen (bijvoorbeeld) niet leiden tot beperkingen bij het gebruik en de inzet van 
+stemprinters en stemmentellers. 
+ 
+A2. Uitgangspunten, ontwerpkeuzen etc. die worden gehanteerd cq gemaakt in het kader van de ontwikkeling, 
+de productie, het doorvoeren van wijzigingen, het onderhoud en de ondersteuning van het gebruik van de 
+stemprinters, stemmentellers en elektronische tokens worden altijd gedocumenteerd. Dit geldt ook in het 
+geval het gaat om toepassing van standaarden. Te maken keuzen worden altijd aan de overheid 
+voorgelegd.  
+ 
+A3. De locatie(s) die gebruikt worden voor het ontwikkelen, produceren, onderhouden, wijzigen, testen en 
+distribueren van de stemprinters, stemmentellers en elektronische tokens zijn toegankelijk voor 
+medewerkers van de overheid of voor personen die in opdracht van de overheid handelen. Verzoeken van 
+de overheid om de locaties te bezoeken kunnen niet geweigerd worden.  
+ 
+A4. Alles (w.o. ontwerpen, documentatie, de broncode van programmatuur, de ontwikkelomgeving, specificaties 
+van apparatuur, werkinstructies, registraties, etc.) dat zal worden ontwikkeld/ opgesteld/ gewijzigd/ 
+15 
+
+ 
+ 
+Stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+ 
+C. Functionaliteit en bediening algemeen 
+ 
+C1. De stemprinter en stemmenteller functioneren geheel op zichzelf (stand-alone) en zijn niet verbonden met 
+andere apparatuur, uitgezonderd de tijdelijke verbinding met elektronische tokens op het moment dat deze 
+worden gebruikt voor het activeren van de stemprinter en stemmenteller.  
+ 
+C2. Deze specificaties bevatten (bijlage ”Voorbeeld specificatie voor gebruikersinterface voor stemprinter”) een 
+indicatief voorbeeld van de gebruikersinterface voor de stemprinter inclusief indeling en opmaak stembiljet. 
+De gebruikersinterface voor de stemmenprinter en stemmenteller wordt ontworpen door de overheid 
+(inclusief de eigenschappen van de apparatuur voor de gebruikersinterface en de indeling en opmaak van 
+het door de stemprinter te printen stembiljet). Het ontwerpen gebeurt in meerdere iteraties waarbij 
+simulaties worden gebruikt om testen met gebruikers uit te voeren. De uitkomsten van de testen kunnen 
+tot aanpassing in het ontwerp leiden.    
+ 
+C3. De stemprinter en stemmenteller moet in de diversiteit van stemlokalen die in Nederland voorkomen 
+gebruikt kunnen worden. Een illustratie van de diversiteit aan stemlokalen is te vinden in de bijlage 
+“Locaties stemlokalen in Nederland” 
+ 
+C4. Eén stemprinter of één stemmenteller moet door 1 persoon binnen 5 minuten gereed gemaakt voor gebruik 
+en afgebouwd kunnen worden. Dit is inclusief de tijd die nodig is om de stemprinter of stemmenteller uit de 
+(transport-)behuizing te halen en weer in te pakken.  
+ 
+C5. Om een stemprinter van blanco stembiljettenpapier te voorzien, om een stemmenteller van papier te 
+voorzien voor het printen van het telresultaat en om (andere) verbruiksmaterialen te vervangen is geen 
+gereedschap nodig. 
+ 
+C6. Voor meldingen die door de stemprinter en stemmenteller worden gegeven geldt: 
+a) De status van een stemprinter en stemmenteller moet voor de gebruiker zichtbaar.  
+b) Foutmeldingen zijn geformuleerd in begrijpelijke processtappen zodat de gebruiker weet wat er moet 
+gebeuren.  
+c) Uit de melding moet eenduidig blijken of een probleem door een handeling van de gebruiker is te 
+verhelpen danwel wie moet worden ingeschakeld (voor een kiezer is dat het stembureau en voor het 
+stembureau of een medewerker van gemeente/openbaar lichaam is dat de service-organisatie).  
+d) De urgentie moet eenduidig uit de melding blijken, bijvoorbeeld door kleuren te gebruiken.  
+ 
+C7. De stemprinter en stemmenteller beschikken over de volgende beheer- en onderhoudfunctionaliteit: 
+a) Uitlezen van een elektronisch token waarna stemprinter en stemmenteller kunnen worden 
+geconfigureerd tbv een of meerdere verkiezingen. 
+b) Configureren door ambtenaren van de gemeente/openbaar lichaam van een stemprinter/stemmenteller 
+met de gegevens voor een of meerdere verkiezingen. De configuratie met verkiezingsgegevens kan 
+alleen plaatsvinden als de stemprinter/stemmenteller de vereiste samenstelling van apparatuur en 
+17 
+
+ 
+ 
+D. Functionaliteit en bediening stemprinter 
+ 
+D1. Ter verduidelijking van de hiernavolgende functionaliteiten is hieronder uitgeschreven hoe de kiezer met de 
+stemprinter een keuze zou kunnen maken.  
+a) De stemprinter kent de volgende vier wijzen van bedienen: 
+1. Aanraakschermmodus: de kiezer kan door het scherm aan te raken de geboden keuzes maken cq 
+bevestigen. Dit is voor een kiezer de standaard wijze van bedienen. 
+2. Aanraakschermmodus met audio-ondersteuning: de kiezer krijgt via de koptelefoon voorgelezen 
+hoe hij de stemprinter kan bedienen en welke opties er mogelijk zijn. Door vervolgens het scherm 
+aan te raken kan de kiezer de geboden keuzes maken cq bevestigen. 
+3. Scherm met fysieke knoppen modus: de kiezer bedient de stemprinter met de fysieke knoppen. De 
+keuzes en terugkoppeling worden aangeboden via het scherm.  
+4. Audio-interactiemodus: de kiezer bedient de stemprinter alleen met fysieke knoppen en via een 
+koptelefoon uitgesproken teksten. Via de koptelefoon wordt een instructie gegeven over de keuzes 
+die een kiezer kan maken en hoe de kiezer door de keuzen moet lopen en een keuze kan 
+bevestigen.  
+b) De kiezer krijgt na het invoeren van het elektronisch token voor de activering te zien/te horen voor 
+welke verkiezing een stemkeuze gemaakt kan worden. 
+c) Voor een lijstverkiezing moet een kiezer eerst een partij selecteren en vervolgens van die partij een 
+kandidaat. In plaats van een partij te selecteren kan de kiezer ook een keuze maken voor een blanco 
+stem. Op het aanraakscherm wordt er van uitgegaan dat kandidaten van een partij per 20 worden 
+weergegeven, met opties om indien van toepassing de volgende en/of vorige 20 weer te geven. 
+d) Voor een referendum krijgt de kiezer de referendumvraag te zien/horen en moet deze een keuze maken 
+uit de opties voor, tegen of blanco. 
+e) Alvorens een stembiljet te printen moet de stemkeuze eerst nog worden bevestigd. 
+f) De kiezer heeft totdat een stemkeuze is bevestigd de optie om een stap terug te gaan. 
+g) Na printen van het stembiljet moet de kiezer die niet werkt in de audio-interactiemodus  aangeven of 
+het geprinte stembiljet juist is of onjuist. Geeft de kiezer aan dat het stembiljet onjuist is, dan krijgt de 
+kiezer de melding om zich met het geprinte stembiljet te melden bij het stembureau. 
+h) Geeft de kiezer aan dat het stembiljet juist is, dan wordt aan de kiezer gevraagd of hij nog een 
+elektronisch token heeft om een volgende stemkeuze mee te maken. De kiezer kan alleen nog een 
+elektronisch token hebben als op 1 dag meer dan 1 verkiezing wordt gehouden of als de kiezer nog 
+volmachtstemmen kan uitbrengen. Geeft de kiezer aan niet nog een elektronisch token te hebben, dan 
+krijgt de kiezer het verzoek het geprinte stembiljet dan wel de geprinte stembiljetten in de fysieke 
+stembus te doen om zijn stem uit te brengen. 
+ 
+D2. De stemprinter beschikt over de volgende functionaliteit: 
+a) Uitlezen en inslikken van het elektronisch token waarmee de stemprinter door een kiezer wordt 
+geactiveerd voor het maken van een stemkeuze voor een verkiezing. 
+b) Maakt gebruik van een 24inch drukgevoelig aanraakscherm met landscape oriëntatie en anti-
+reflectiescherm. 
+c) Moet te bedienen zijn met het aanraakscherm en met fysieke knoppen. 
+d) Bij bediening met aanraakscherm mogelijkheid tot ondersteuning met audio. 
+e) Mogelijkheid tot bediening van de stemprinter met enkel de fysieke knoppen in combinatie met audio 
+zonder gebruik te maken van weergave op het aanraakscherm.  
+f) Tonen aan kiezer voor welke verkiezing een stemkeuze gemaakt kan worden. 
+g) Door de kiezer selecteren van een partij, waarbij alle partijen op 1 scherm worden getoond. 
+19 
+
+ 
+ 
+ 
+Stemprinter 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+NB. Over dit onderdeel worden ook de specifieke vragen 4, 10 en 12 gesteld. 
+ 
+ 
+E. Functionaliteit en bediening stemmenteller 
+ 
+De overheid ontwerpt de gebruikersinterface van de stemmenteller. Een indicatief voorbeeld van een 
+specificatie van de gebruikersinterface is hieronder weergegeven. Waar dat ter verduidelijking van de 
+specificatie een toegevoegde waarde heeft, is een grafische weergave opgenomen. 
+ 
+E1. Invoer stemmenteller 
+ 
+a) De stemmenteller kan stembiljetten verwerken die 
+gevouwen zijn geweest en handmatig zijn 
+opengevouwen.  
+ 
+ 
+ 
+ 
+ 
+b) Stembiljetten moeten stapelsgewijs ingevoerd kunnen 
+worden. Een stapel kan minimaal 1 en maximaal 500 
+stembiljetten bevatten. 
+ 
+ 
+ 
+ 
+ 
+ 
+c) De stemmenteller heeft een fysieke beperking die er 
+voor zorgt dat er niet meer stembiljetten ingevoerd 
+kunnen worden dan de maximale invoercapaciteit (zie 
+A).  
+d) De stemmenteller heeft een visuele markering voor de 
+maximale invoercapaciteit (zie B).  
+ 
+ 
+ 
+e) In een stapel stembiljetten die in de stemmenteller 
+wordt ingevoerd mogen de stembiljetten ten opzichte 
+van elkaar iets verschoven zijn. De stembiljetten in 
+een stapel hoeven enkel handmatig zonder 
+hulpmiddelen recht op elkaar gebracht te worden, 
+door met twee handen de stapel stembiljetten losjes 
+21 
+
+ 
+ 
+E2. Uitvoer stemmenteller  
+  
+a) De uitvoerbakken (op afbeelding aan de rechterkant)  
+hebben een kleurcodering. Groen voor de uitvoerbak 
+met de getelde stembiljetten en rood voor de bak met 
+de stembiljetten die ongeteld zijn doorgevoerd.  
+b) De uitvoerbak bak met de stembiljetten die ongeteld 
+zijn doorgevoerd moet deels transparant zijn, zodat 
+zichtbaar is dat er stembiljetten in de uitvoerbak 
+zitten. 
+ 
+c) De stapel nog te tellen stembiljetten in de invoerbak 
+ 
+en de stapels getelde en niet getelde stembiljetten in 
+ 
+de uitvoerbakken moeten voor de bediener van de 
+ 
+stemmenteller zichtbaar zijn. 
+ 
+ 
+ 
+d) De uitvoerbak met de stembiljetten die ongeteld zijn 
+doorgevoerd moet afgesloten zijn tot het moment dat 
+de bediener van de stemmenteller ingevoerd heeft dat 
+geen stembiljetten van een stembus meer te scannen 
+zijn. De andere situatie waarin de uitvoerbak open 
+gemaakt moet kunnen worden is als de stemmenteller 
+de melding geeft dat de uitvoerbak vol dreigt te raken.  
+ 
+ 
+ 
+ 
+ 
+e) De uitvoerbakken dienen een capaciteit te hebben van 
+ 
+in ieder geval 500 stembiljetten.  
+ 
+f) De stemmenteller geeft tijdens het telproces 
+ 
+terugkoppeling over het aantal getelde en het aantal 
+ 
+ongeteld doorgevoerde stembiljetten. 
+ 
+  
+ 
+g) De stembiljetten moeten met de zijde waarop de 
+stemkeuze staat naar onder uitgevoerd worden naar 
+de uitvoerbak. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E3. Telstrook met het telresultaat  
+  
+a) De telstrook heeft het formaat A4 of een ander kleiner  
+standaardformaat.  
+  
+b) De telstrook dient voor een lijstverkiezing de volgende  
+informatie te bevatten:  
+• Het nummer van het stembureau waarvan de  
+ 
+stembiljetten zijn geteld;  
+23 
+
+ 
+ 
+ 
+E4. Meldingen van de stemmenteller  
+  
+a) De stemmenteller heeft een display voor meldingen  
+aan de bediener van de stemmenteller.  
+ 
+b) De stemmenteller dient “zorgen” over het functioneren 
+van de stemmenteller bij de bediener van de 
+stemmenteller weg te nemen door tijdens het 
+elektronisch telproces stapsgewijs positieve feedback 
+te geven over de voortgang. 
+ 
+ 
+ 
+ 
+ 
+c) Detecteert de stemmenteller een storing, dan wordt 
+het telproces gepauzeerd en de status via een display 
+gemeld aan de bediener van de stemmenteller.  
+ 
+ 
+ 
+E5. De stemmenteller beschikt over de volgende functionaliteit: 
+a) Maakt voor het herkennen van een stemkeuze en andere gegevens op een stembiljet gebruik van 
+Optical Character Recognition (OCR).  
+b) De stemmenteller dient minimaal 1 invoerbak en 2 uitvoerbakken te hebben: 1 invoerbak voor te 
+scannen en tellen stembiljetten, 1 uitvoerbak voor de stembiljetten die door de stemmenteller zijn 
+geteld en 1 uitvoerbak voor stembiljetten die ongeteld zijn doorgevoerd.  
+c) Uitlezen van een elektronische token waarna de stemmenteller voor het tellen van stembiljetten kan 
+worden gebruikt door het stembureau. 
+d) Het door de bediener van de stemmenteller invoeren van het stembureaunummer waarvoor 
+stembiljetten worden geteld. Standaard is dat het stembureaunummer dat bij de configuratie 
+voorafgaand aan de verkiezing is ingesteld. 
+e) Het door de bediener van de stemmenteller selecteren van de verkiezing en de bijbehorende datum 
+verkiezing waarvoor stembiljetten worden geteld. 
+f) Het (zo nodig tweezijdig) scannen van een stembiljet dat door een stemprinter is gegenereerd en het 
+scannen van een stembiljet waar de kiezer, bijvoorbeeld door het inkleuren of aankruisen van een 
+vakje, handmatig een keuze op heeft bepaald. 
+g) Om te zorgen dat stembiljetten allemaal op dezelfde wijze worden uitgevoerd moeten stembiljetten op 
+een voorgeschreven wijze worden ingevoerd zodat de stemmenteller een stembiljet niet hoeft te 
+kunnen (om)draaien als deze niet goed is ingevoerd. De stemmenteller moet detecteren dat het 
+stembiljet op de voorgeschreven wijze is ingevoerd. Indien dat niet het geval is, dan moet het 
+stembiljet doorgevoeren naar uitvoerbak voor niet getelde stembiljetten. 
+h) Controleren dat op een stembiljet de geselecteerde verkiezing en de bijbehorende datum van de 
+verkiezing is vermeld waarvoor het stembiljet geteld wordt. Indien op het stembiljet niet de verkiezing 
+en bijbehorende datum van de verkiezing is vermeld waarvoor wordt geteld, dan het stembiljet 
+doorvoeren naar uitvoerbak voor niet getelde stembiljetten. 
+25 
+
+ 
+ 
+bb) Afdrukken van het telresultaat op papier met als bijlage van elke geteld stembiljet het toegekende 
+volgnummer en de herkende stemkeuze. 
+cc) Opnieuw afdrukken van een (eerder) telresultaat op papier, inclusief bijlage met daarop van elke geteld 
+stembiljet het toegekende volgnummer en de herkende stemkeuze. 
+dd) Detecteren en melding geven (visueel en auditief) dat papier voor printen telresultaat op is en bijgevuld 
+moet worden. 
+ee) Detecteren en melding geven over problemen en/of foutsituaties. 
+ff) Bij stroomuitval melding geven en de programmatuur, waaronder het besturingssysteem, afsluiten en 
+daarna stemmenteller uitzetten. 
+ 
+E6. De stemmenteller moet de volgende nauwkeurigheid hebben: 
+a) De stemmenteller mag maximaal 1% van de gescande stembiljetten met een te herkennen stemkeuze 
+onterecht doorvoeren naar de uitvoerbak met niet getelde stembiljetten. 
+b) De stemmenteller mag niet onterecht een stemkeuze herkennen.  
+c) Er mogen geen stembiljetten in de uitvoerbak voor getelde stembiljetten terecht komen die niet door de 
+stemmenteller geteld zijn.  
+d) De stemmenteller mag stembiljetten niet zodanig beschadigen dat visuele beoordeling van het 
+stembiljet door het stembureau niet meer mogelijk is.  
+e) De stemmenteller mag niets aan gescande stembiljetten veranderen, met uitzondering van het op 
+getelde stembiljetten afdrukken van een volgnummer. 
+ 
+Stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+NB. Over dit onderdeel worden ook de specifieke vragen 5 en 6 gesteld. 
+ 
+ 
+F. Stembiljet dat door stemprinter wordt geprint 
+ 
+F1. Het stembiljet dat door de stemprinter wordt geprint heeft een door de overheid te bepalen formaat. 
+Uitgegaan kan worden van A4 of een kleiner standaardformaat.  
+ 
+F2. Het stembiljet heeft een echtheidskenmerk. Voor het echtheidskenmerk van een stembiljet kan worden 
+uitgegaan van een hologramfolie met bedrukking of een perforatie. Het echtheidskenmerk mag de werking 
+van een stemprinter en stemmenteller niet negatief beïnvloeden. Het echtheidskenmerk moet visueel door 
+een mens zonder hulpmiddelen te controleren zijn. De vorm van de hologramfolie (en/of de bedrukking) 
+danwel de vorm van de perforatie kan per verkiezing verschillen en wordt door de overheid bepaald.  
+ 
+F3. Het stembiljet bevat geen barcode.  
+ 
+F4. Het papier waarop de keuze van de kiezer wordt geprint is voorgevouwen. 
+ 
+27 
+
+ 
+ 
+NB. Over dit onderdeel wordt ook de specifieke vraag 13 gesteld. 
+ 
+ 
+H. Standaarden en normen 
+ 
+H1. Uitsluitend open standaarden worden toegepast.  
+ 
+H2. De programmatuur – ook de maatwerk programmatuur - is uitsluitend open source. De ontwikkelde 
+maatwerk programmatuur wordt eigendom van de overheid.  
+ 
+H3. Voor de elektronische representatie van verkiezingsgegevens en telresultaten wordt het EML-NL formaat 
+gebruikt (zie https://www.kiesraad.nl/artikel/eml-standaard).  
+ 
+H4. De werkzaamheden voor de ontwikkeling, onderhoud en ondersteuning van stemprinters, stemmentellers 
+en elektronische tokens moet plaatsvinden onder een geldige ISO 9001 certificering. Deze ISO-9001-
+certificering moet ook het onderhouden en ondersteunen van ICT-systemen omvatten. Het ISO-certificaat 
+moet zijn afgegeven door een daartoe geaccrediteerde auditor.  
+ 
+H5. De werkzaamheden voor de ontwikkeling, onderhoud en ondersteuning van stemprinters, stemmentellers 
+en elektronische tokens moet plaatsvinden onder een geldig ISO 27001 certificering voor de 
+informatiebeveiliging, die het onderhouden en ondersteunen van ICT-systemen omvat. Het ISO-certificaat 
+moet zijn afgegeven door een daartoe geaccrediteerde auditor.  
+ 
+H6. De apparatuur is CE-gemarkeerd of aantoonbaar gelijkwaardig en voldoet aan alle van toepassing zijnde 
+Europese richtlijnen en Nederlandse regelgeving m.b.t. gezondheid, veiligheid, welzijn, omgeving en milieu, 
+waaronder ook RoHS II.  
+ 
+H7. De apparatuur moet voldoen aan de eisen van Energy Star, conform het besluit van de Europese Commissie 
+2009/489/EG over energie-efficiëntie voor computerapparatuur. 
+ 
+H8. De gebruikersinterface voldoet aan de richtlijnen van het Web Accessibility Initiative (WAI). 
+ 
+Stemprinter 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+Stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+NB. Over dit onderdeel wordt ook de specifieke vraag 2 gesteld. 
+ 
+ 
+29 
+
+ 
+ 
+Stemprinter 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+Stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+NB. Over dit onderdeel wordt ook de specifieke vraag 15 gesteld. 
+ 
+ 
+J. Beveiliging - Common Criteria 
+ 
+J1. De stemprinter en stemmenteller moeten Common Criteria gecertificeerd worden conform daarvoor 
+opgestelde en gecertificeerde Protection Profiles. Bij dit document zijn Protection Profiles bijgevoegd die nog 
+niet zijn gecertificeerd. 
+ 
+J2. De Protection Profiles geven het kader voor de beveiligingsmaatregelen die moeten worden toegepast op de 
+stemprinter en stemmenteller. De Protection Profiles gaan ervan uit dat:  
+a) De stemprinter/stemmenteller beschermd zijn tegen manipulatie; 
+b) Het niet mogelijk moet zijn om beveiligingsmaatregelen te omzeilen. 
+ 
+J3. Omdat de Common Criteria systematiek voor leken niet toegankelijk is, is hieronder (niet limitatief) een 
+aantal bepalende beveiligingsmaatregelen uit de Protection Profiles opgesomd. Achter elke 
+beveiligingsmaatregel is tussen haakjes de afkorting van de maatregel vermeld die verwijst naar hoofdstuk 
+6 (Security Requirements) in de Protection Profiles.   
+a) De stemprinter en stemmenteller hebben een beveiligingsmechanisme dat detecteert of geprobeerd 
+wordt de (fysieke) beveiliging te doorbreken. Wordt een dergelijke poging gedetecteerd dan komen de 
+stemprinter en stemmenteller in een status die het onmogelijk maakt de systemen te gebruiken voor 
+het printen van stembiljetten en het tellen ervan (FAU_ARP.1//FPT_PHP.2/FPT_PHP.3). 
+b) De stemprinter/stemmenteller hebben een zelftestmechanisme waarmee de systemen als ze aanstaan 
+de goede werking van programmatuur en apparatuur vaststellen (FPT_TST.1); 
+c) Er is een mogelijkheid de authenticiteit van programmatuur en apparatuur vast te stellen. Voor 
+programmatuur moet dan gedacht worden aan oplossingen zoals een Trusted Platform Module 
+(FPT_TST.1).   
+d) De log is beschermd tegen ongeautoriseerd wijzigen en verwijderen (FAU_STG.1); 
+e) Als de log vol raakt komen de stemprinter en stemmenteller in een status die het onmogelijk maakt de 
+systemen te gebruiken voor het printen van stembiljetten en het tellen ervan (FAU_STG.4). 
+f) De authenticiteit van de log is vast te stellen aan de hand van een digitale handtekening (FPD_DAU.1). 
+g) Uit ondermeer elektromagnetische straling, geluid, stroomverbruik en afgifte van hitte van een 
+stemprinter mag een keuze die een kiezer maakt op een stemprinter niet te achterhalen zijn 
+(FPT_EMSEC.1). 
+h) De informatie over keuzes die kiezers maken op de stemprinter mogen niet (permanent) worden 
+opgeslagen. Onderkend wordt dat om het stembiljet te printen het vermoedelijk onontkoombaar zal zijn 
+dat informatie over de gemaakte keuzes tijdelijk opgeslagen wordt. In dat geval zal na het printen van 
+31 
+
+ 
+ 
+Stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+NB. Over dit onderdeel worden ook de specifieke vragen 1, 3 en 14 gesteld. 
+ 
+ 
+K. Beveiliging - compromitterende straling 
+ 
+K1. De stemprinter moet voldoen aan de NATO-norm SDIP-27/1 Level A. 
+ 
+K2. De te maken stemkeuzes zijn relatief beperkt. Bij een referendum zijn dat er maar 3 en bij een 
+lijstverkiezing een tiental lijsten en bij elke lijst enkele tientallen kandidaten. Daarbij kan een afluisteraar 
+maar geïnteresseerd zijn in 1 gegeven, heeft een kiezer een bepaalde stemkeuze gemaakt of juist niet. Het 
+moet niet mogelijk zijn uit de aan- of juist afwezigheid van een karakteristiek stralingsbeeld het al dan niet 
+maken een bepaalde stemkeuze door een kiezer te achterhalen. Dat aspect moet in de invulling van SDIP-
+27/1 Level A in de definitie van te meten mogelijke compromitterende straling (zogenaamde RED signals) 
+worden meegenomen. Bij het bepalen wat een succesvolle afluisterpoging is, moet de bij dit document 
+gevoegde uitwerking worden gevolgd. 
+ 
+K3. De bescherming tegen compromitterende straling moet bestand zijn tegen het verwachte gebruik van een 
+stemprinter in opslag, bij verkiezingen en vervoer van en naar het stemlokaal. Dit moet worden aangetoond 
+met een SDIP-27/1 Level A certficeringsmeting van prototypes die zijn onderworpen aan behandelingen 
+(trillingen, vallen, temperatuurwisselingen, vochtigheidwisselingen, aanraking met stof en vuil, gebruik van 
+de bewegende delen gedurende de verwachte gebruiksduur, etc) die representatief zijn voor het verwachte 
+gebruik.  
+ 
+K4. De bij dit document gevoegde bijlage “Richtlijnen voorkomen van compromitterende straling Ballot printer – 
+protection against eavesdropping attacks – guidance for system designers” geeft inzage in de wijze waarop 
+de stemprinter zou moeten worden ontworpen. Dat houdt bijvoorbeeld voor het scherm van een 
+stemprinter en de aansturing van het scherm in dat zo weinig mogelijk omzettingen van het videosignaal 
+moeten plaatsvinden, er bij voorkeur gebruik gemaakt wordt van een Displayport verbinding en geen VGA, 
+DVI en HDMI verbindingen. Compromitterende straling die niet preventief weggenomen kan worden door 
+het inzetten van stralingsarme componenten en verbindingen, moeten met afschermende maatregelen 
+worden tegengehouden. Dat betreft dan ondermeer een metalen behuizing, het met metaal omwikkelen van 
+interne kabels en verbindingen en het plaatsen van filters op kabels.  
+ 
+K5. De RF-lezer om draadloze elektronische tokens uit te lezen dient uitgeschakeld te worden als een kiezer een 
+stemkeuze kan maken en het stembiljet kan printen. De RF-lezer dient pas weer ingeschakeld te worden als 
+de keuzes en sporen daarvan uit de stemprinter zijn gewist. 
+ 
+K6. Een defecte stemprinter wordt vervangen door een ander exemplaar die aan SDIP-27/1 Level A voldoet. 
+Dat is nodig omdat een reparatie van een stemprinter of vervanging van componenten kan leiden tot 
+compromitterende straling en een meting moet plaatsvinden conform SDIP-27/1 Level A. Zo’n test kan niet 
+op locatie bij een gemeente worden uitgevoerd, maar moet in een speciale afgeschermde meetkamer 
+plaatsvinden bij een daartoe geaccrediteerde instantie. 
+ 
+33 
+
+ 
+ 
+L6. Op locaties die worden gebruikt voor ontwikkelen, onderhoud en ondersteuning van stemprinters, 
+stemmentellers en elektronische tokens zijn maatregelen genomen om het risico te minimaliseren van 
+brand, explosies, rook, stof, trillingen, chemische reacties, wateroverlast, langdurige stroomuitval, 
+interferentie via de elektriciteitsvoorziening, blikseminslag, elektromagnetische straling en aanslagen. 
+Hieronder vallen in ieder geval de volgende maatregelen: 
+a) Ruimten met apparatuur, programmatuur, documentatie, registraties en andere gegevens die worden 
+gebruikt voor het ontwikkelen, onderhoud en ondersteuning van stemprinters, stemmentellers en 
+elektronische tokens zijn voorzien van een door de brandweer goedgekeurde brandmeld- en een 
+brandblusinstallatie;  
+b) Ruimten met stemprinters, stemmentellers, onderdelen daarvan en elektronische tokens zijn voorzien 
+van maatregelen om waterschade te voorkomen; 
+c) Bij stroomuitval dient in ieder geval de toegangscontrole en de alarminstallatie van de locaties die 
+worden gebruikt voor het ontwikkelen, onderhoud en ondersteuning van stemprinters, stemmentellers 
+en elektronische tokens onverkort te blijven functioneren. 
+ 
+L7. Toegangscontrole van eigen personeel of ingehuurde medewerkers tot locaties die worden gebruikt voor 
+ontwikkelen, onderhoud en ondersteuning van stemprinters, stemmentellers en elektronische tokens vindt 
+plaats met minimaal een persoonlijke toegangskaart die voorzien is van een foto van de medewerker. Van 
+de uitgegeven en ingehouden toegangskaarten wordt een registratie bijgehouden. 
+ 
+L8. Toegangscontrole van bezoekers tot locaties die worden gebruikt voor ontwikkelen, onderhoud en 
+ondersteuning van stemprinters, stemmentellers en elektronische tokens vindt plaats met minimaal een 
+toegangskaart die zichtbaar gedragen moet worden en waaruit blijkt dat sprake is van een bezoeker.  
+a) Bezoekers moeten altijd vergezeld zijn door eigen personeel.  
+b) Iedere bezoeker identificeert zich met een geldig legitimatiebewijs. 
+c) Er vindt registratie plaats van de bezoekers van het gebouw, zowel bij binnenkomst als vertrek. 
+ 
+L9. Als ongeautoriseerd toegang wordt verkregen tot de locaties die worden gebruikt voor ontwikkelen, 
+onderhoud en ondersteuning van stemprinters, stemmentellers en elektronische tokens wordt dit 
+onmiddellijk gevolgd door tegenmaatregelen. 
+ 
+L10. Beveiligingspersoneel ziet erop toe dat een toegangskaart alleen door de rechtmatige houder gebruikt wordt 
+en dat personen die het gebouw en terrein uitgaan zich aan de beveiligingsvoorschriften houden. 
+ 
+L11. In een sluitende administratie wordt bijgehouden op welke tijdstippen welke toegangspassen zijn gebruikt 
+om toegang te krijgen tot de ruimten die worden gebruikt voor ontwikkelen, onderhoud en ondersteuning 
+van stemprinters, stemmentellers en elektronische tokens. 
+ 
+L12. Buiten de tijden dat er gewerkt wordt, dienen ruimten die worden gebruikt voor ontwikkelen, onderhoud en 
+ondersteuning van stemprinters, stemmentellers en elektronische tokens afgesloten te zijn en de 
+alarminstallatie van de betreffende ruimte dient ingeschakeld te zijn. 
+ 
+L13. De locatie(s) die gebruikt worden voor ontwikkelen, onderhoud en ondersteuning van stemprinters, 
+stemmentellers en elektronische tokens zijn beveiligd, zodat personen het terrein niet ongemerkt kunnen 
+betreden en verlaten. 
+ 
+L14. In de locaties en ruimten die worden gebruikt voor ontwikkelen, onderhoud en ondersteuning van 
+stemprinters, stemmentellers en elektronische tokens zijn brand- en rookmelders geïnstalleerd zodat een 
+eventuele brand tijdig gedetecteerd wordt en bestreden kan worden. 
+35 
+
+ 
+ 
+• BSI-PP-0004-2002T Protection Profile – Secure Signature Creation Device Type 1, Version 1.05; 
+• BSI-PP-0005-2002T Protection Profile – Secure Signature Creation Device Type 2, Version 1.04; 
+• BSI-PP-0006-2002T Protection Profile – Secure Signature Creation Device Type 3, Version 1.05; 
+a) BSI-PP-0036-2008: Cryptographic Modules Security Level “Enhanced” Version 1.01. 
+e) De gebruikte cryptografische algoritmen, handtekening algoritmen en de lengte van sleutels worden 
+afgestemd met de overheid. De gebruikte algoritmen moeten gepubliceerd en daarmee voor iedereen 
+toegankelijk zijn. 
+ 
+Stemprinter en stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+ 
+M. Ontwikkelproces van stemprinters, stemmentellers en elektronische tokens 
+ 
+M1. Voor het ontwikkelen en het onderhouden van de stemprinters en stemmentellers moet een 
+ontwikkelomgeving beschikbaar zijn. De ontwikkelomgeving bevat alle apparatuur en programmatuur die 
+nodig is om de programmatuur van stemprinters en stemmentellers te kunnen aanpassen.  
+ 
+M2. Bij de ontwikkeling en wijziging van programmatuur dienen de volgende Programmeerrichtlijnen te worden 
+gehanteerd: 
+a) Er wordt defensief programmeren toepast. Defensief programmeren houdt in dat wordt geborgd dat alle 
+voorkomende gebeurtenissen op een voorspelbare wijze worden verwerkt dan wel tot een 
+gespecificeerde foutafhandeling leiden. Er mogen bij de afhandeling van gebruikersacties en berichten 
+geen situaties optreden die leiden tot ongewenst en niet gespecificeerd gedrag;  
+b) Er wordt gebruik gemaakt van gepubliceerde best practices voor programmeren. Dat betreft best 
+practices die algemeen zijn (en dus toepasbaar voor alle programmeertalen) danwel best practices die 
+specifiek zijn voor een specifieke programmeertaal. De overheid moet instemmen met de gebruikte best 
+practices; 
+c) Er wordt gebruik gemaakt modulair programmeren met goed gedefinieerde interfaces; 
+d) Er wordt in de broncode betekenisvol commentaar gebruikt, die een programmeur helpt de werking van 
+de broncode te doorgronden; 
+e) Er wordt gebruik gemaakt van gedocumenteerde naamconventies voor modules, procedures, functies, 
+variabelen en andere onderdelen van de programmatuur en op het toepassen daarvan vindt een 
+controle plaats;  
+f) Er wordt geen gebruik gemaakt van programmatuur die de code wijzigt (self modifying code), anders 
+dan ten behoeve van het updaten van programmatuur. Er wordt geen gebruik gemaakt van 
+programmatuurconstructies die kunnen leiden tot het ongewenst wijzigen van code; 
+g) De programmatuur, of onderdelen daarvan, accepteert alleen gespecificeerde invoer, en geen andere 
+invoer dan de gespecificeerde invoer. Alle invoer die niet expliciet voldoet aan het opgestelde ontwerp, 
+zowel van buitenaf als in de programmatuur zelf, wordt niet alleen expliciet geweigerd voor verdere 
+verwerking, maar de reden van weigering wordt ook gelogd; 
+h) De programmatuur zal bij invoer die aan het ontwerp voldoet, altijd tot gewenst gedrag leiden; 
+i) De programmatuur bevat geen constructies of componenten die niet strikt noodzakelijk zijn voor het 
+toepassen van de functionaliteit en/of het realiseren van de gestelde eisen; 
+37 
+
+ 
+ 
+ 
+M9. Voor het testen van stemprinters, stemmentellers en elektronische tokens moet een testomgeving 
+beschikbaar zijn die representatief is. De representativiteit van de testomgeving dient aan de hand van het 
+versie- en configuratiebeheer te worden aangetoond. 
+ 
+M10. In de testomgeving worden in ieder geval de (acceptatie)testen uitgevoerd die de overheid nodig acht. 
+ 
+M11. De testomgeving kan op werkdagen minimaal van 08.00 uur  tot 18.00 uur worden gebruikt voor testen. In 
+geval van calamiteiten, incidenten en/of problemen moet de testomgeving ook buiten deze uren voor de 
+beschikbaar zijn. 
+ 
+M12. De testomgeving moet toegankelijk zijn voor personen die daartoe door de overheid zijn aangewezen. 
+ 
+M13. In de fysieke ruimte waar de testomgeving is opgesteld kunnen minimaal 10 medewerkers tegelijk testen 
+uitvoeren. De fysieke ruimte is voorzien van het nodige meubilair om de medewerkers de testen te kunnen 
+laten uitvoeren. 
+ 
+M14. Het moet voor de overheid mogelijk zijn om eigen apparatuur en programmatuur, zoals laptops en 
+testhulpmiddelen te gebruiken in de testomgeving. 
+ 
+Stemprinter en stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+ 
+N. Doorvoeren van wijzigingen aan de stemprinter, de stemmenteller en elektronisch tokens 
+ 
+N1. Voor het doorvoeren van wijzigingen in apparatuur en programmatuur (van welke aard ook) van de 
+stemprinters en stemmentellers is vooraf schriftelijke toestemming nodig van de overheid. 
+ 
+N2. Uitsluitend na instemming van de overheid worden door de overheid geaccepteerde wijzigingen toegepast 
+op stemprinters en stemmentellers. 
+ 
+N3. Er dient rekening mee te worden gehouden dat voorafgaand aan elke verkiezing een software update nodig 
+is om stemprinters en stemmentellers te beschermen tegen de laatst bekende veiligheidsrisico’s. Ook 
+wijzigingen die voortkomen uit de evaluatie van een verkiezing worden zo mogelijk in een software update 
+voor een volgende verkiezing meegenomen. Omdat niet van elke verkiezing de verkiezingsdag vooraf 
+meerjarig bekend is (namelijk bij een tussentijdse Tweede Kamer verkiezing en bij een raadgevend 
+referendum) kunnen deze updates niet altijd vooraf worden ingepland. Er zal derhalve een continu proces 
+moeten zijn van het oplossen van de laatst bekende veiligheidsrisico’s die worden verwerkt in een op de 
+plank liggende verzamel software update. Dat geldt ook voor de wijzigingen.  
+ 
+N4. De op de plank liggende verzamel software update zal bij elke toevoeging van wijzigingen en oplossingen 
+voor bekende veiligheidsproblemen steeds moeten worden bijgewerkt en getest. Indien de onafhankelijke 
+instantie van deskundigen genoemd in hoofdstuk 3 daartoe besluit moet de stemprinter/stemmenteller ook 
+nog worden gecertificeerd. Een door de overheid geaccepteerde op de plank liggende verzamel software 
+39 
+
+ 
+ 
+die door de gemeente of openbare lichaam met de aldaar beschikbare elektronische tokens in gebruik kan 
+worden genomen. Hiertoe heeft de deskundige medewerker reserve onderdelen van stemmentellers bij 
+zich, evenals complete vervangende stemprinters en stemmentellers. Na de revisie worden de log en 
+verkiezingsgegevens van de stemprinters en stemmentellers verwijderd. 
+ 
+O6. Verbruiksmaterialen voor stemprinters en stemmentellers moeten gedurende 8 jaar geleverd kunnen 
+worden. 
+ 
+Stemprinter en stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+ 
+ 
+P. Ondersteuning 
+ 
+P1. Er dient van uit te worden gegaan dat er een aantal registraties zal moeten worden opgezet en 
+onderhouden. Te denken valt bijvoorbeeld aan een registratie van contactpersonen per gemeente en 
+openbare lichaam is noodzakelijk; een registratie van de stemprinters, stemmentellers en elektronische 
+tokens per gemeente en openbaar lichaam.  
+ 
+P2. Om de contactgegevens te verkrijgen zal informatie bij gemeenten en openbare lichamen – dat zijn er circa 
+400 – opgevraagd moeten worden. Bij zo’n uitvraag van gegevens zal - indien de gevraagde reactie er niet 
+(tijdig) komt – meerdere malen gerappelleerd moeten worden door contact op te nemen (ook telefonisch) 
+met de gemeenten en openbaar lichamen.  
+ 
+P3. Er dient er vanuit te worden gegaan dat het verloop in contactpersonen groot zal zijn. Verder moet er 
+rekening mee worden gehouden dat gemeenten en openbare lichamen niet altijd spontaan wijzigingen 
+doorgeven. Daardoor zal voor elke verkiezing contact met gemeenten en openbare lichamen opgenomen 
+moeten worden om de contactgegevens bij te werken.  
+ 
+P4. Het verkrijgen en aannemen van contactgegevens met de nodige waarborgen te zijn omkleed zodat zeker 
+wordt gesteld dat de verkregen contactgegevens juist zijn.  
+ 
+P5. Een service-organisatie beantwoordt vragen van de gebruikers van stemprinters en stemmentellers en 
+ontvangt storingen/klachten en wikkelt deze af. 
+ 
+P6. Het beantwoorden van vragen en behandelen van meldingen en klachten door de service-organisatie 
+geschiedt in de Nederlandse taal en dient buiten verkiezingsdagen plaats te vinden op werkdagen (maandag 
+t/m vrijdag) van 08.00 uur tot 18.00 uur (Nederlandse tijd). De service-organisatie moet ten alle tijden 
+vragen, (storings)meldingen en klachten te kunnen ontvangen via e-mail. 
+ 
+P7. Aangenomen moet worden dat de service-organisatie op de dag van de stemming gebeld kan worden door 
+stembureauleden en ambtenaren van de gemeenten of openbare lichamen. Het telefoonnummer van de 
+service-organisatie moet tegen lokaal tarief gebeld kunnen worden en mag geen betaalnummer (0900-
+nummer) zijn.  
+ 
+41 
+
+ 
+ 
+P15. De persoon die de service-organisatie voor een storing belt, zal niet altijd een aangewezen contactpersoon 
+zijn van de gemeente of openbaar lichaam. In het geval er dan een bezoek gepland moet worden om een 
+storing te verhelpen dan wel een apparaat te vervangen, zal die afspraak met een contactpersoon van de 
+gemeente/openbaar lichaam gemaakt moeten worden. De aanname is dat het initiatief voor het maken van 
+de afspraak bij de contactpersoon van de gemeente/openbaar lichaam ligt, omdat daar het belang ligt om 
+de afspraak te maken. Daarmee wordt voorkomen dat de service-organisatie een contactpersoon moet zien 
+te bereiken om de afspraak voor een bezoek ingepland te krijgen.  
+ 
+P16. Een gemeente/openbaar lichaam moet nog voldoende tijd hebben om een stemprinter/stemmenteller 
+waarvan tijdens het voorbereiden van een verkiezing een storing is opgelost of die is vervangen te 
+configureren. Hiervoor moet minimaal een hele week voor de dag van de verkiezing  beschikbaar blijven. 
+Om dat te kunnen moeten gemeenten/openbare lichamen zich uiteraard tijdig melden met eventuele 
+problemen. De piek van eventuele problemen is te verwachten in de periode van 6 weken tot 1 week voor 
+een verkiezing waarin de stemprinter en stemmentellers met verkiezingsgegevens en een (beveiligings) 
+update van de software geconfigureerd moeten worden. De aanname is dat in die periode de helft van de 
+gemeenten 2 keer bezocht moeten worden door een deskundig medewerker die per dag 2 bezoekjes aan 
+gemeenten kan afleggen. Voor de ondersteuning van de openbare lichamen op Bonaire, Saba en Sint 
+Eustatius zal er ter plekke ondersteuning moeten zijn die op elk van de eilanden ondersteuning kan leveren. 
+In de gehele voorbereidingsperiode moet ook buiten de te verwachten piekperiode afdoende gekwalificeerde 
+medewerkers beschikbaar zijn om storingen te verhelpen.  
+ 
+De service-organisatie op de dag van een stemming 
+ 
+P17. Op een verkiezingsdag moet de service-organisatie telefonisch bereikbaar zijn van 5.00 (Nederlandse tijd) 
+tot en met 08:00 uur (Nederlandse tijd) de volgende dag. 
+ 
+P18. De service-organisatie moet voldoende capaciteit hebben om op een verkiezingsdag alle stembureauleden 
+die een vraag of probleem hebben snel en deskundig te woord te staan, zonder oplopende wachttijden. De 
+aanname is dat de helft van de stembureaus tweemaal contact opneemt en een gesprek gemiddeld 5 
+minuten duurt. 
+ 
+P19. In het geval dat het op een verkiezingsdag met telefonische ondersteuning van de service-organisatie niet 
+lukt een probleem met een stemprinter op te lossen, maar telefonisch de diagnose wordt gesteld dat een 
+deskundige medewerker dat wel kan, dan moet binnen 1 uur een deskundig medewerker ter plekke zijn. Er 
+wordt vanuit gegaan dat dit bij een kwart van de stembureau’s voorkomt en een medewerker per dag niet 
+meer dan 10 bezoekjes aan stembureaus kan afleggen. Om ook voor Bonaire, Saba en Sint Eustatius 
+binnen 1 uur ter plekke te kunnen zijn, zijn op elk eiland deskundige medewerkers nodig. 
+ 
+P20. Storingen die op de dag van de verkiezing niet opgelost kunnen worden, hebben daarna geen haast om 
+opgelost te worden. Het oplossen van die storingen - dan wel indien dat niet mogelijk is het vervangen van 
+stemprinter/stemmenteller - vindt plaats bij het bezoek van de gemeente/openbaar lichaam waarbij alle 
+stemprinters/stemmentellers een revisie doorlopen. 
+ 
+Stemprinter en stemmenteller 
+Wat uit de voorgaande specificatie acht u niet realiseerbaar en waarom niet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+[Klik hier om eventuele aannames te vermelden die u hanteert bij wat u realiseerbaar acht.] 
+ 
+43 
+
+ 
+ 
+ Alleen in te vullen bij standaardcomponenten 
+Component Standaard/ Op basis waarvan kan het Broncode en Indien niet beschikbaar: 
+maatwerk een standaardcomponent hardware hoe is dan een Common 
+zijn? (incl bronvermelding) diagrammen Criteria certificering op 
+beschikbaar? (incl niveau EAL 4+ mogelijk? 
+bronvermelding) 
+Printer    
+Ja Nee
+ 
+[Bronvermelding] 
+Verwerkings-   
+Ja Nee
+ 
+eenheid 
+[Bronvermelding] 
+Interne security    
+Ja Nee
+ 
+module (zie 
+[Bronvermelding] 
+paragraaf 1.4.5 
+van Protection 
+Profiles) 
+Noodstroom-   
+Ja Nee
+ 
+voorziening 
+[Bronvermelding] 
+Afsluitbare    
+Ja Nee
+ 
+(transport-) 
+[Bronvermelding] 
+behuizing 
+Besturings-   
+Ja Nee
+ 
+systeem 
+[Bronvermelding] 
+Overige    
+Ja Nee
+ 
+(standaard 
+[Bronvermelding] 
+en/of 
+maatwerk) 
+software 
+ 
+Tabel voor stemmenteller 
+ Alleen in te vullen bij standaardcomponenten 
+Component Standaard/ Op basis waarvan kan het Broncode en Indien niet beschikbaar: 
+maatwerk een standaardcomponent hardware hoe is dan een Common 
+zijn? (incl bronvermelding) diagrammen Criteria certificering op 
+beschikbaar? (incl niveau EAL 4+ mogelijk? 
+bronvermelding) 
+Touchscreen     
+Ja Nee
+ 
+[Bronvermelding] 
+Scanner om    
+Ja Nee
+ 
+stembiljetten te 
+[Bronvermelding] 
+digitaliseren 
+Smartcardlezer    
+Ja Nee
+ 
+[Bronvermelding] 
+Printer    
+Ja Nee
+ 
+[Bronvermelding] 
+45 
+
+ 
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Welke ervaring is er met de genoemde verwijdermethodieken, waar zijn deze verwijdermethodieken eerder 
+toegepast en hoe is vastgesteld dat deze methodieken correct werken: bronvermelding waar dat 
+geverifieerd kan worden? 
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+ 
+4. Nauwkeurigheid stemprinter 
+a. Op welke wijze wordt (technisch) afgedwongen dat als de stemprinter met 1 token door de kiezer wordt 
+geactiveerd, de kiezer altijd (foutmarge 0) precies 1 stembiljet kan printen?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Waar en waarvoor is een dergelijk mechanisme eerder toegepast en hoe is daarbij de foutmarge 
+vastgesteld? Geef een bronvermelding waar dat geverifieerd kan worden. 
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+b. Op welke wijze wordt (technisch) afgedwongen dat alleen (foutmarge 0) een door de kiezer bevestigde 
+stemkeuze wordt geprint op het stembiljet?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Waar en waarvoor is een dergelijk mechanisme eerder toegepast en hoe is daarbij de foutmarge 
+vastgesteld? Geef een bronvermelding waar dat geverifieerd kan worden. 
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+ 
+47 
+
+ 
+ 
+Bij door Bronvermelding 
+stemprinter geprint [Klik hier om uw antwoord te geven.] 
+stembiljet  
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+Zo niet, waarom niet? Welke aspecten kunnen de foutmarge beïnvloeden en wat is de invloed? Welke 
+mate van betrouwbaarheid/nauwkeurigheid is wel realiseerbaar en waarop is dat gebaseerd? Vermeld 
+toepassingen waar een dergelijke mate van betrouwbaarheid/nauwkeurigheid aantoonbaar is 
+gerealiseerd: bronvermelding waar dat geverifieerd kan worden. 
+ 
+Bij stembiljet met [Klik hier om uw antwoord te geven.] 
+hand ingevulde  
+stemkeuze Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Bij door [Klik hier om uw antwoord te geven.] 
+stemprinter geprint  
+stembiljet Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+c. Er mogen geen stembiljetten in de uitvoerbak voor getelde stembiljetten terecht komen die niet door de 
+stemmenteller geteld zijn (foutkans 0%).  
+Is een foutkans van 0% te realiseren? 
+Ja Nee
+ 
+Zo ja, waarop wordt dit antwoord gebaseerd? Vermeld toepassingen waar een dergelijke foutmarge 
+aantoonbaar is gerealiseerd: bronvermelding waar dat geverifieerd kan worden. 
+ 
+Bij stembiljet met [Klik hier om uw antwoord te geven.] 
+hand ingevulde  
+stemkeuze 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Bij door [Klik hier om uw antwoord te geven.] 
+stemprinter geprint  
+stembiljet 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+Zo niet, waarom niet? Welke aspecten kunnen de foutmarge beïnvloeden en wat is de invloed? Welke 
+mate van betrouwbaarheid/nauwkeurigheid is wel realiseerbaar en waarop is dat gebaseerd? Vermeld 
+toepassingen waar een dergelijke mate van betrouwbaarheid/nauwkeurigheid aantoonbaar is 
+gerealiseerd: bronvermelding waar dat geverifieerd kan worden. 
+ 
+49 
+
+ 
+ 
+e. De stemmenteller mag niets (foutmarge 0%) veranderen aan een stembiljet. 
+Is voor 100% te voorkomen dat er bij het scannen veranderingen optreden op het stembiljet?   
+Ja Nee
+ 
+Zo ja, waarop wordt dit antwoord gebaseerd? Vermeld toepassingen waar dergelijke mate van 
+betrouwbaarheid aantoonbaar is gerealiseerd: bronvermelding waar dat geverifieerd kan worden. 
+ 
+Bij stembiljet met [Klik hier om uw antwoord te geven.] 
+hand ingevulde  
+stemkeuze 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Bij door [Klik hier om uw antwoord te geven.] 
+stemprinter geprint  
+stembiljet 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+Zo niet, waarom niet? Welke veranderingen kunnen optreden bij het scannen van een stembiljet? Hoe 
+vaak zal dat optreden en waarop is dat gebaseerd: bronvermelding waar dat geverifieerd kan worden?  
+ 
+Bij stembiljet met [Klik hier om uw antwoord te geven.] 
+hand ingevulde  
+stemkeuze Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Bij door [Klik hier om uw antwoord te geven.] 
+stemprinter geprint  
+stembiljet Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+ 
+6. Snelheid tellen stembiljetten 
+Onderstaande vragen dienen separaat beantwoord te worden voor stembiljetten waarop de stemkeuze met 
+de hand is ingevuld en voor stembiljetten die door een stemprinter zijn geprint.  
+ 
+Hoeveel stembiljetten zou een stemmenteller per uur correct kunnen tellen? Voor het antwoord op deze 
+vraag moet uitgegaan worden van de wijze van tellen zoals beschreven in de specificaties onder 
+functionaliteit en bediening stemmenteller. Het tellen van een stembiljet omvat het uit de invoerbak halen 
+van een stembiljet, de stemkeuze herkennen, op het stembiljet printen van een volgnummer en het 
+doorvoeren van het stembiljet naar de uitvoerbak met getelde stembiljetten.  
+ 
+Bij stembiljet met hand [Klik hier om uw antwoord te geven.] 
+ingevulde stemkeuze  
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+51 
+
+ 
+ 
+Zo nee, waarom niet en hoeveel tijd gaat dit dan wel kosten en vermeld toepassingen waar een 
+dergelijke tijd voor gereedmaken aantoonbaar is gerealiseerd, met bronvermelding waar dat 
+geverifieerd kan worden? 
+ 
+Stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemprinter bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Stemmenteller 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemmenteller bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+b. Hoeveel tijd gaat het opstarten inclusief het uitvoeren van de door het protection profile voorgeschreven 
+zelftest (FPT_TST.1 uit Hoofdstuk 6 van de protection profiles) voor enerzijds een stemprinter en 
+anderzijds voor een stemmenteller vergen?  
+ 
+Opstarttijd stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Opstarttijd stemmenteller 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Komt deze tijd bovenop de bij a) genoemde 5 minuten of kan het binnen die 5 minuten worden 
+gerealiseerd?  
+ 
+Stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemmenteller 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Waarop wordt dit antwoord gebaseerd en vermeld toepassingen waar het uitvoeren van een zelftest is 
+gerealiseerd, met bronvermelding waar dat geverifieerd kan worden?  
+ 
+Stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemprinter bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+53 
+
+ 
+ 
+ 
+ 
+9. Snelheid configureren stemprinter en stemmenteller 
+a. Hoe lang kan het gaan duren om enerzijds een stemprinter en anderzijds om een stemmenteller die al 
+gereed is gemaakt voor gebruik en is opgestart (inclusief zelftest) te configureren voor een 
+verkiezingsdag? Bij het bepalen van de tijd dienen in ieder geval de volgende handelingen meegerekend 
+te worden:  
+• het laden van verkiezingsgegevens van 1 of meerdere verkiezingen op dezelfde verkiezingsdag en 
+het controleren daarvan; 
+• met een stemprinter, het maken van 5 test stemprints, inclusief het voor elke stemprint activeren 
+van de stemprinter met een token;  
+• met een stemmenteller, het proefscannen en tellen van 5 stemprints, inclusief het activeren van de 
+stemmenteller met een token. 
+De berekening van de tijdsduur moet transparant zijn. In het antwoord moet voor zowel een 
+stemprinter als voor een stemmenteller de berekening van de opgegeven tijd worden onderbouwd, met 
+een bronvermelding waar dat geverifieerd kan worden. 
+ 
+Stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemprinter bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Stemmenteller 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemmenteller bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+b. Hoeveel tijd komt er bovenop de bij a) genoemde tijd indien enerzijds een stemprinter en anderzijds 
+een stemmenteller naast verkiezingsgegevens tevens voorzien moeten worden van een op de plank 
+liggende verzamel software update (beveiliging gerelateerd en/of functionele wijzigingen)? Voor het 
+toepassen van de verzamel software update moet uit worden gegaan van de meest efficiënte wijze van 
+toepassen van een omvangrijke software update, bijvoorbeeld door het opnieuw laden van alle 
+programmatuur. 
+De berekening van de tijdsduur moet transparant zijn. In het antwoord moet voor zowel een 
+stemprinter als voor een stemmenteller de berekening van de opgegeven tijd worden onderbouwd, met 
+een bronvermelding waar dat geverifieerd kan worden. 
+ 
+Stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+Stemprinter bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+Stemmenteller 
+[Klik hier om uw antwoord te geven.] 
+ 
+55 
+
+ 
+ 
+ 
+Zijn er echtheidskenmerken die geen invloed kunnen hebben op de nauwkeurigheid en/of snelheid van 
+het tellen door een stemmenteller?  
+Ja Nee
+ 
+Zo ja, welke echtheidskenmerken zijn dat dan?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+ 
+12. Stemgeheim waarborgen bij stemprinter 
+Zie ook bijlage ‘Locaties stemlokalen in Nederland’, voor de diversiteit aan locaties waar stemprinters 
+worden gebruikt. 
+De aanname is dat in het merendeel van de stemlokalen 3 stemprinters naast elkaar zullen staan. Hoe 
+wordt gerealiseerd dat bij een dergelijke opstelling de kiezers niet over en weer kunnen zien welke keuze 
+een andere kiezer maakt?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Welke vormgeving en voorzieningen kan de stemprinter (inclusief de behuizing daarvan) hebben om het 
+stemgeheim te waarborgen?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Waar en waarvoor is die oplossing eerder toegepast, met bronvermelding waar dat geverifieerd kan 
+worden? 
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+Bronvermelding 
+[Klik hier om uw bron(nen) voor verificatie te vermelden.] 
+ 
+ 
+ 
+13. Gewicht van stemprinter en stemmenteller 
+Uitgaande van de specificaties: hoeveel zal een stemprinter en een stemmenteller, inclusief en exclusief 
+transportbehuizing, kunnen wegen (in kg)?  
+ 
+Gewicht stemprinter 
+[Klik hier om uw antwoord te geven.] 
+ 
+57 
+
+ 
+ 
+ 
+15. Reserveonderdelen stemprinter en stemmenteller 
+Is te realiseren dat voor 8 jaar identieke (reserve) onderdelen voor stemprinters en stemmentellers 
+beschikbaar kunnen zijn?  
+Ja Nee
+ 
+Zo ja, waarop is gebaseerd dat leveranciers van die onderdelen voor 8 jaar de onderdelen blijven leveren?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+Zo niet, hoe wordt dan voorkomen dat bij vervanging van onderdelen een nieuwe Common Criteria 
+certificering nodig is?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+ 
+ 
+16. Plaats waar werkzaamheden worden verricht voor stemprinter en stemmenteller 
+In welk(e) land/landen is voor de stemprinter en stemmenteller voorzien: 
+• de ontwikkeling, 
+• de productie,  
+• het onderhoud van de stemprinter en stemmenteller?  
+ 
+[Klik hier om uw antwoord te geven.] 
+ 
+  
+59 
+
+ 
+ 
+f. het maken van prototypes van een stemprinter en stemmenteller voor certificeringstesten ten behoeve 
+van Common Criteria certificering; 
+g. het maken van prototypes van een stemprinter voor de testen/metingen op basis van de SDIP 27/1 
+Level A; 
+h. het uitvoeren van testen door het evaluerend laboratorium voor de Common Criteria certificering; 
+i. het op prototypes van een stemprinter uitvoeren van testen/metingen om vast te stellen dat aan SDIP 
+27/1 Level A norm wordt voldaan; 
+j. het ondersteunen van acceptatietesten door de overheid. Voor de doorlooptijd van acceptatietesten kan 
+e
+voor de stemprinters en stemmentellers die voor het 1 experiment worden ontwikkeld worden 
+e e
+uitgegaan van minimaal 3 en maximaal 5 maanden en voor het 2 en 3 experiment en voor de 
+landelijke invoering 2 maanden. Acceptatietesten vangen pas aan na Common Criteria certificering en 
+afronding testen om vast te stellen dat aan SDIP 27/1 Level A norm wordt voldaan; 
+k. de individuele meting van elke stemprinter om vast te stellen dat aan SDIP 27/1 Level A norm wordt 
+voldaan; 
+l. distributie stemprinters, stemmentellers en elektronische tokens naar gemeenten / openbare lichamen. 
+ 
+Antwoordinstructie 
+U wordt gevraagd in de tabellen hieronder voor stemprinter en stemmenteller afzonderlijk achtereenvolgens 
+aan te geven: 
+V. Doorlooptijd voor ontwikkeling, productie en distributie, waarbij na experimenten geen Common 
+Criteria her-certificering en geen testen/meten voor SDIP 27/1 Level A nodig zijn 
+VI. Doorlooptijd voor ontwikkeling, productie en distributie, waarbij na experimenten wel Common 
+Criteria her-certificering en wel opnieuw testen/meten voor SDIP 27/1 Level A nodig zijn 
+VII. Doorlooptijd voor specifieke onderdelen voor stemprinter en stemmenteller 
+ 
+Vermeld daarbij steeds een bandbreedte (min-max in maanden) in doorlooptijd en de aannamen die u 
+hierbij hanteert. 
+61 
+
+ 
+ 
+III. Doorlooptijd voor specifieke onderdelen Doorlooptijd Doorlooptijd Aannamen 
+voor stemprinter en stemmenteller stemprinter stemmenteller 
+(min-max) (min-max) 
+het op prototypes van een stemprinter uitvoeren van  NVT  
+testen/metingen om vast te stellen dat aan SDIP 27/1 
+Level A norm wordt voldaan 
+de individuele meting van een exemplaar van de  NVT  
+stemprinter om vast te stellen dat aan SDIP 27/1 
+Level A norm wordt voldaan 
+maken en testen van een software update om    
+stemprinters en stemmentellers te beschermen tegen 
+de laatst bekende veiligheidsrisico’s, inclusief een 
+eventuele Common Criteria hercertificering 
+na landelijke invoering ten behoeve van een   
+verkiezing maken en naar gemeenten/openbare 
+lichamen verspreiden van DVD’s met software updates 
+en verkiezingsgegevens, inclusief het daarover zetten 
+van een digitale handtekening, te rekenen vanaf het 
+door de bevoegde autoriteit vaststellen van de 
+verkiezingsgegevens tot het bij de laatste 
+gemeente/openbaar lichaam aankomen van de DVD’s 
+na landelijke invoering ten behoeve van een  NVT  
+verkiezing aan gemeenten/openbare lichamen leveren 
+van stembiljetten, te rekenen vanaf het door de 
+overheid vaststellen van het te gebruiken 
+echtheidskenmerk tot het bij de laatste 
+gemeente/openbaar lichaam aankomen van de 
+stembiljetten. 
+ 
+ 
+63 
+
+ 
+ 
+b. maken en naar gemeenten/openbare lichamen verspreiden van DVD’s met software updates en 
+verkiezingsgegevens, inclusief het daarover zetten van een digitale handtekening; 
+c. aan gemeenten/openbare lichamen leveren van stembiljetten; 
+d. aan gemeenten/openbare lichamen leveren verbruiksmaterialen voor de stemprinter en stemmenteller; 
+e. ondersteuning aan gemeenten/openbare lichamen bij voorbereiding van de verkiezingen en het gebruik 
+van stemprinters, stemmentellers en elektronische tokens; 
+f. ter plekke bij gemeenten/openbare lichamen oplossen van problemen met stemprinters en 
+stemmentellers; 
+g. vervangen van defecte stemprinters en stemmentellers; 
+h. de revisie van stemprinters en stemmentellers na een verkiezing; 
+i. het uitvoering van een SDIP 27/1 Level A meting na het vervangen van onderdelen (niet zijnde 
+verbruiksmaterialen) van een stemprinter. 
+ 
+Antwoordinstructie 
+U wordt gevraagd in de tabellen hieronder voor stemprinter, stemmenteller en elektronisch token 
+afzonderlijk achtereenvolgens aan te geven: 
+I. Kosten voor ontwikkeling, productie en distributie, waarbij na experimenten geen Common Criteria 
+her-certificering en geen testen/meten voor SDIP 27/1 Level A nodig zijn 
+II. Kosten voor ontwikkeling, productie en distributie, waarbij na experimenten wel Common Criteria 
+her-certificering en wel opnieuw testen/meten voor SDIP 27/1 Level A nodig zijn 
+III. Onderhoud en ondersteuning (niet van toepassing voor elektronisch token) 
+ 
+Vermeld daarbij steeds een bandbreedte (min-max in euro’s of dollars) in kosten inclusief Nederlandse BTW 
+(21%) en de aannamen die u hierbij hanteert. 
+Geef ook duidelijk aan in welke valuta (euro’s of dollars) u de kosten weergeeft.
+ 
+65 
+
+ 
+ 
+ 
+e e e
+III. Onderhoud en 1 expe- 2 expe- 3 expe- Alle Aannamen 
+ondersteuning riment riment riment gemeenten/ 
+openbare 
+lichamen 
+Kosten per stemprinter       
+(min-max) 
+Kosten per stemmenteller      
+(min-max) 
+ 
+ 
+ 
+67 
+
