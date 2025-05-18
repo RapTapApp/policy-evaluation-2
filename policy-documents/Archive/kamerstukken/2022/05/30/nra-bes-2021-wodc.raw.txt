@@ -1,0 +1,3103 @@
+Cahier 2021-14 
+National Risk Assessment 
+Witwassen en Terrorismefinanciering 2021 
+Bonaire, Sint Eustatius en Saba 
+ 
+H.C.J. van der Veen 
+L.F. Heuts 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Inhoud 
+ Afkortingen — 5 
+ Samenvatting — 7 
+1  Inleiding — 14 
+  Aanleiding van het onderzoek — 14 
+  Wat is witwassen en terrorismefinanciering? — 15 
+  Doel en onderzoeksvragen — 16 
+  Focus rapportage op onderwerp witwassen — 17 
+  Lessen van de eerste NRA BES — 18 
+  Leeswijzer — 19 
+2  Onderzoeksmethodiek — 21 
+  Sleutelbegrippen van de NRA — 21 
+  Uitvoering NRA binnen ISO 31000 raamwerk — 22 
+  Ingezette methoden — 23 
+3  Wat maakt Caribisch Nederland kwetsbaar voor witwassen? — 34 
+  Geografische en demografische kenmerken — 34 
+  Sociaal-culturele kenmerken — 36 
+  Economische kenmerken — 37 
+  Criminaliteitsvormen die voorafgaan aan witwassen — 44 
+4  Inzicht in de grootste dreigingen op het terrein van witwassen — 48 
+  Identificatie van grootste witwasdreigingen — 48 
+  Inzicht in de grootste witwasdreigingen — 52 
+5  Weerbaarheid van het beleidsinstrumentarium — 60 
+  Organisatie van witwasbestrijding — 60 
+  Beschikbaar beleidsinstrumentarium — 62 
+  Internationale wet- en regelgeving — 63 
+  Wet- en regelgeving Caribisch Nederland — 64 
+  Overige beleidsinstrumenten — 65 
+  Wijziging van de Wwft BES — 67 
+  Verbetermogelijkheden weerbaarheid — 68 
+6  Grootste witwasrisico’s in Caribisch Nederland — 71 
+  Inschatting potentiële impact grootste witwasdreigingen — 71 
+  Inschatting weerbaarheid beschikbaar beleidsinstrumentarium — 73 
+  Grootste witwasrisico’s in Caribisch Nederland — 74 
+7  Conclusies — 79 
+  Beantwoording van onderzoeksvragen — 79 
+  Evaluatie van de tweede NRA BES — 86 
+  Lessen voor de volgende NRA — 90 
+ Summary — 91 
+ Literatuur — 98 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  3 
+
+ 
+Afkortingen 
+AFM Autoriteit Financiële Markten  
+AIVD Algemene Inlichtingen- en Veiligheidsdienst 
+AMLC Anti Money Laundering Center 
+bbp bruto binnenlands product 
+BES Bonaire, Sint Eustatius en Saba  
+BTWwft Bureau Toezicht Wwft  
+bv besloten vennootschap 
+CBA Centrale Bank van Aruba 
+CBCS Centrale Bank van Curaçao en Sint Maarten 
+CBS Centraal Bureau voor de Statistiek 
+Covid Coronavirus disease 
+DNB De Nederlandsche Bank  
+EU Europese Unie  
+FANO Feiten/casus, Aannemelijk, Niet aannemelijk, Onbekend 
+FATF Financial Action Task Force  
+FIU Financial Intelligence Unit 
+FIOD Fiscale Inlichtingen- en Opsporingsdienst 
+FTX Financiële Top X 
+GDR Group Decision Room 
+IND Immigratie- en Naturalisatiedienst 
+ISO 31000 Risico Management volgens de standaarden van de International 
+Organization for Standardization 
+KMar Koninklijke Marechaussee 
+KPCN Korps Politie Caribisch Nederland 
+LIEC Landelijk Informatie- en Expertise Centrum 
+MCA Multi Criteria Analyse 
+NCTV Nationaal Coördinator Terrorismebestrijding en Veiligheid 
+NOvA Nederlandse Orde van Advocaten 
+NRA National Risk Assessment  
+nv naamloze vennootschap 
+OESO Organisatie voor Economische Samenwerking en Ontwikkeling 
+OM Openbaar Ministerie 
+OT ongebruikelijke transactie 
+RIEC Regionaal Informatie- en Expertise Centrum 
+RPI resterende potentiële impact  
+RST Recherche Samenwerkingsteam 
+RTMG Risks, Trends and Methods Group 
+TIP Trafficking In Persons 
+TBO Team Bestrijding Ondermijning  
+UBO Ultimate Beneficial Owner  
+US United States 
+VT verdachte transactie 
+ 
+ 
+ 
+ 
+ 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  5 
+
+ 
+Samenvatting 
+Achtergrond onderzoek 
+Het Nederlandse beleid ter preventie en bestrijding van witwassen is gebaseerd op 
+de aanbevelingen door de Financial Action Task Force (FATF) en regelgeving van de 
+Europese Unie (EU). De FATF richt zich op het op mondiaal niveau voorkomen en 
+bestrijden van witwassen, de financiering van terrorisme en andere hieraan ver-
+wante bedreigingen voor de integriteit van het internationale financiële stelsel. 
+Leden van de FATF, waaronder Nederland, zijn gebonden aan de aanbevelingen 
+gericht op het nemen van preventieve en repressieve maatregelen door meldings-
+plichtige instellingen of ‘dienstverleners’, en maatregelen ten aanzien van nationale 
+rechtsstelsels en internationale samenwerking. Daarnaast ziet de FATF toe op de 
+juiste werking en de effectiviteit van het (wettelijke) regelstelsel.  
+ 
+In 2017 en 2019/2020 heeft het Wetenschappelijk Onderzoek- en Documentatie-
+centrum (WODC) een National Risk Assessment (NRA) op de terreinen witwassen  
+en terrorismefinanciering uitgevoerd voor het Europese deel van Nederland. In 
+2017/2018 voerde het WODC voor Caribisch Nederland – Bonaire, Sint Eustatius en 
+Saba (ofwel de BES-eilanden) – een afzonderlijke NRA op het terrein van witwassen 
+en terrorismefinanciering uit. 
+ 
+Voor Caribisch Nederland is nu een tweede NRA Witwassen en Terrorismefinan-
+ciering uitgevoerd, die als doel heeft de grootste risico’s op het terrein van wit-
+wassen en terrorismefinanciering in kaart te brengen. Het betreft de risico’s met  
+de ‘grootste resterende potentiële impact’ ofwel de impact die overblijft nadat 
+rekening is gehouden met de preventieve en/of mitigerende werking (de ‘weer-
+1
+baarheid’ ) van de beleidsinstrumenten die op deze dreigingen zijn gericht. Daar- 
+toe zijn de dreigingen met de grootste potentiële impact geïdentificeerd, is een 
+inschatting gemaakt van de impact die deze dreigingen kunnen hebben en is de 
+weerbaarheid van het beleidsinstrumentarium bepaald. Hiermee is de doelstelling 
+van deze tweede NRA BES iets breder dan de doelstelling van de eerste NRA BES, 
+waarin geen inschattingen van de potentiële impact en weerbaarheid zijn gemaakt. 
+Overeenkomstig met de eerste NRA is dat in het kader van het groeimodel voor de 
+Nederlandse NRA’s ook in deze NRA enkele geleerde lessen worden beschreven, 
+waarmee bij de uitvoering van de volgende NRA’s rekening kan worden gehouden. 
+ 
+Om een eerste beeld te krijgen van de bestaande dreigingen op het terrein van 
+witwassen en terrorismefinanciering op de BES-eilanden vonden in de eerste fase 
+van het onderzoek de volgende onderzoeksactiviteiten plaats: deskresearch, oriën-
+terende interviews en een enquête om bij organisaties met een taak bij de preventie 
+en bestrijding van witwassen en terrorismefinanciering in Caribisch Nederland 
+informatie te verzamelen over de prevalentie dan wel (on)aannemelijkheid van 
+witwas- en terrorismefinancieringdreigingen op de drie eilanden. Deze activiteiten 
+leidden tot veel informatie over het onderwerp witwassen in Caribisch Nederland, 
+maar leverden geen duidelijke signalen op over de prevalentie van terrorismefinan-
+ciering in Caribisch Nederland. Ook de geraadpleegde schriftelijke en online bronnen 
+                                               
+1
+  De weerbaarheid betreft de preventieve en mitigerende werking van het beleidsinstrumentarium, waarbij geldt: 
+hoe hoger de weerbaarheid, hoe beter de dreigingen worden tegengegaan. Het betreft zowel de inhoud/strekking 
+als de uitvoering van de beleidsinstrumenten.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  7 
+
+ 
+ Een contextanalyse waarin de specifieke kenmerken van Caribisch Nederland 
+worden geschetst die van invloed kunnen zijn op de prevalentie van witwassen. 
+Voor deze contextanalyse is een literatuurstudie verricht. 
+ Ten behoeve van een inventarisatie van dreigingen op het terrein van witwassen 
+2
+is een beknopte literatuurstudie verricht en is de FANO-enquête uitgezet onder 
+organisaties waarvan op voorhand werd verwacht dat deze in meer of mindere 
+mate kennis zouden hebben van witwassen in de Caribisch-Nederlandse context. 
+ In een eerste expertmeeting identificeerden experts voor de drie BES-eilanden 
+afzonderlijk de witwasdreigingen met de volgens hen grootste potentiële impact.  
+ In de periode na de eerste expertmeeting is in verdiepende interviews met 
+publieke partijen in zowel Caribisch als Europees Nederland en met private par-
+tijen in Caribisch Nederland nader ingegaan op de aard en mechanismen van de 
+geïdentificeerde grootste witwasdreigingen. 
+ In een tweede expertmeeting hebben experts de potentiële impact van de 
+grootste witwasdreigingen ingeschat. Voor Bonaire gebeurde dit in kwantitatieve 
+zin aan de hand van een Multi Criteria Analyse, voor Sint Eustatius en Saba vond 
+dit plaats via een plenaire bespreking in algemene zin. 
+ Een enquête onder publieke partijen met een taak bij het tegengaan van wit-
+wassen op de BES-eilanden leverde inzicht op in het beleidsinstrumentarium dat 
+beschikbaar is ter preventie en repressie van witwassen. Dit vormde input voor 
+de derde expertmeeting. 
+ In de derde expertmeeting beoordeelden experts de weerbaarheid van het 
+beschikbare beleidsinstrumentarium ter preventie en repressie van de grootste 
+witwasdreigingen. Voor Bonaire gebeurde dit in kwantitatieve zin, voor Sint 
+Eustatius en Saba vond dit plaats via een plenaire bespreking in algemene zin. 
+ Door het afzetten van de ingeschatte potentiële impact van de grootste witwas-
+dreigingen tegen de ingeschatte weerbaarheid is inzicht verkregen in de grootste 
+witwasrisico’s in Caribisch Nederland, met voor Bonaire een ordening naar hun 
+resterende potentiële impact. 
+ Tot slot zijn in de eindfase van het onderzoek drie validerende interviews afgeno-
+men bij in totaal vijf sleutelexperts met als belangrijkste doel na te gaan in 
+hoeverre zij (de rangorde van) de geïdentificeerde witwasrisico’s herkenden. 
+ 
+De Covid-19 pandemie maakte face-to-face interviews en een fysieke expertmeeting 
+in het BES-gebied die voor deze NRA waren voorzien, onmogelijk. Het veldwerk voor 
+deze NRA moest volledig online worden uitgevoerd. Een fysiek bezoek zou geholpen 
+hebben bij het kennisnemen van de omgeving waarin witwassen kan plaatsvinden 
+en waarin de opsporing, handhaving en toezicht gestalte moet krijgen. Het missen 
+van deze ervaringen bemoeilijkte het op waarde schatten van de verzamelde infor-
+matie en hiermee de rapportage van de onderzoeksresultaten. De mogelijkheid dat 
+er na fysieke face-to-face interviews en een fysieke expertmeeting scherpere resul-
+taten hadden kunnen worden gerapporteerd, kan niet worden uitgesloten. 
+Wat maakt Caribisch Nederland kwetsbaar voor witwassen? 
+Wat betreft geografische kenmerken kan de nabijheid van Midden- en Zuid-
+Amerikaanse landen en andere Caribische eilanden (die in relatie gebracht kunnen 
+worden met de productie van drugs, ineffectieve anti-witwasregelgeving en een 
+                                               
+2
+ De FANO-enquête had als doel in beeld te brengen 1. van welke witwasdreigingen feiten/casussen bekend zijn bij 
+in Caribisch en Europees Nederland gevestigde organisaties, 2. in hoeverre die organisaties de prevalentie van de 
+dreigingen al dan niet aannemelijk achten en 3. met welke dreigingen de organisaties onbekend zijn. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  9 
+
+ 
+ Corruptie. Volgens ander onderzoek komt ambtelijke en politieke corruptie voor 
+op Bonaire en Sint Eustatius, waarbij onder meer een relatie wordt gelegd met 
+sociaal-culturele kenmerken als patronage, nepotisme en cliëntelisme. Als 
+voorbeelden van corruptie op met name Bonaire worden genoemd: de ondoor-
+zichtige wijze van uitgifte van grond in erfpacht en het aanvragen en verlenen 
+van tewerkstellings- en verblijfsvergunningen. Voor Saba wordt het corruptie-
+probleem lager ingeschat. 
+Grootste witwasrisico’s Caribisch Nederland 
+Bonaire 
+Figuur S.1 brengt de expertinschattingen voor Bonaire van de potentiële impact en 
+de weerbaarheid voor de zeven witwasdreigingen die door experts als dreigingen 
+met de grootste potentiële impact zijn geïdentificeerd, samen. Risicovol zijn de 
+dreigingen met een hoge potentiële impact en een lage weerbaarheid.  
+ 
+Figuur S.1 Potentiële Impact afgezet tegen Weerbaarheid voor de zeven 
+grootste witwasdreigingen voor Bonaire 
+80
+A
+70
+60
+50
+G
+B
+E
+F
+C
+40
+D
+30
+20
+40 50 60 70 80
+Potentiële Impact
+ 
+A. Witwassen via banken (kredietinstellingen) D. Witwassen via het fysiek (ver)plaatsen van contant geld 
+met een vergunning van DNB  via de zee en/of lucht 
+B. Witwassen in vastgoed-/onroerendgoedsector E. Witwassen via rechtsvormen 
+C. Witwassen via ondergronds bankieren inclusief F. Witwassen via fingeren van bedrijfsomzet 
+geldtransactiekantoren die zonder DNB- G. Witwassen via loan back constructies  
+vergunning opereren 
+ 
+ 
+Uit de figuur blijkt dat deze risicovolle combinatie voor de witwasdreigingen niet 
+voorkomt; veel witwasdreigingen komen qua potentiële impact en weerbaarheid 
+dicht bij elkaar uit. Dit is echter niet het geval bij ‘Witwassen via banken (krediet-
+instellingen) met een vergunning van DNB’. Bij deze dreiging is sprake van een 
+relatief hoge potentiële impact en een relatief hoge weerbaarheid. Experts zijn van 
+mening dat deze dreiging grote schadelijke gevolgen kan hebben, maar dat het 
+beleidsinstrumentarium deze potentiële impact in relatief grote mate tegengaat. In 
+de figuur komt deze dreiging dan ook uit in een groen gebied. Bij ‘Witwassen via het 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  11 
+Weerbaarheid
+
+ 
+Voor deze eilanden zijn de dreigingen en de weerbaarheid van het beleidsinstru-
+mentarium kwalitatief besproken.  
+ 
+In vergelijking met Bonaire is de lijst van geïdentificeerde grootste witwasdreigingen 
+4
+voor Sint Eustatius en Saba iets korter. De experts waren eensluidend in hun 
+oordeel dat voor beide eilanden ‘Witwassen in de vastgoed-/onroerendgoedsector’ 
+het grootste witwasrisico vormt. Om deze reden staat dit risico bovenaan in tabel 
+S.2. De andere drie grootste witwasrisico’s voor deze eilanden zijn in willekeurige 
+volgorde weergegeven. Vanwege de verschillen in schaalgrootte, de kleinere 
+omvang van de lokale economie en de toeristische sector, en de beperktere 
+mogelijkheden om in vastgoed-/onroerendgoed te investeren, worden de witwas-
+dreigingen voor Sint Eustatius en Saba lager ingeschat dan voor Bonaire. 
+ 
+Tabel S.2 De vier grootste witwasrisico’s op Sint Eustatius en Saba  
+Witwassen in vastgoed-/onroerendgoedsector  
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 
+Witwassen via ondergronds bankieren incl. geldtransactiekantoren die zonder DNB-vergunning opereren 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht 
+ 
+ 
+ 
+                                               
+4
+  Experts hadden voor Sint Eustatius en Saba onvoldoende kennis van de mogelijke prevalentie van de dreigingen 
+‘Witwassen via loan back constructies’, ‘Witwassen via rechtsvormen’ en ‘Witwassen via fingeren van 
+bedrijfsomzet’ om deze als grootste witwasdreiging aan te merken. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  13 
+
+ 
+ Wat is witwassen en terrorismefinanciering? 
+Witwassen 
+Juridische en economische benadering 
+Bij witwassen kunnen een juridische en een economische benadering worden onder-
+ 
+scheiden. De juridische benadering van witwassen is gebaseerd op de artikelen 435a 
+tot en met 435d in het Wetboek van Strafrecht BES (WvSr BES). Deze artikelen 
+beschrijven de omstandigheden waarin iemand zich schuldig maakt aan witwassen. 
+Witwassen in juridische zin is het verbergen of verhullen van de werkelijke aard, 
+herkomst, vindplaats, vervreemding of verplaatsing van een voorwerp of het ver-
+bergen of verhullen wie de rechthebbende is of het voorwerp voorhanden heeft, 
+terwijl er wetenschap is of een redelijk vermoeden moet zijn van het feit dat het 
+‘voorwerp’ (alle zaken en alle vermogensrechten) onmiddellijk of middellijk afkom-
+9
+stig is uit een misdrijf. 
+ 
+Voor de NRA wordt de economische benadering, waarin het proces wordt beschre-
+ven, toegepast. De economische benadering richt zich op de wijze waarop vermogen 
+met criminele oorsprong in het legale geldcircuit wordt teruggebracht en in econo-
+mische zin wordt aangewend, zodanig dat de oorsprong van het geld wordt ver-
+10
+huld. In deze NRA is ook het zogenoemde consumptieve witwassen, het besteden 
+van crimineel verkregen middelen aan de eerste levensbehoeften, in het onderzoek 
+11
+meegenomen. Het witwasproces volgens de economische benadering kan onder-
+verdeeld worden in drie fasen die niet altijd allemaal doorlopen worden en elkaar 
+12 13
+ook niet altijd chronologisch opvolgen. De FATF onderscheidt de volgende fasen: 
+ Plaatsing. In deze fase plaatst een crimineel het wit te wassen geld in het finan-
+ciële systeem waarmee het een giraal karakter krijgt. Bij een criminaliteitsvorm 
+zoals drugshandel gaat het veelal om grote hoeveelheden contant geld die een 
+crimineel in het financiële systeem wil plaatsen. Bij sommige vormen van crimina-
+liteit bevindt het geld zich al in het financiële systeem, bijvoorbeeld in het geval 
+van fiscale fraude. 
+ Verhulling. In deze fase – die zowel tijdens als na de plaatsingsfase kan plaats-
+vinden – verhult een crimineel de eigen identiteit en/of de herkomst van het 
+criminele vermogen om zo de pakkans te minimaliseren. De aard van de ver-
+hullingsmethoden kan variëren van relatief eenvoudig tot zeer complex. 
+ Integratie. In deze laatste fase integreert een crimineel – al dan niet verhuld – 
+het crimineel verkregen geld in het financiële systeem, bijvoorbeeld via bestedin-
+gen aan het eigen levensonderhoud of investeringen in grootwaardeproducten of 
+onroerend goed. 
+Terrorismefinanciering 
+Artikel 435e van het WvSr BES gaat in op de strafbaarstelling van het financieren 
+van terrorisme. Hierin staat dat een persoon strafbaar handelt wanneer deze 
+financiële steun verleent aan het plegen van een terroristisch misdrijf of aan een 
+misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf. In het 
+                                               
+9
+ Zie literatuurlijst voor formele titels en vindplaats van wet- en regelgeving. 
+10  
+Soudijn en Akse (2012).
+11  
+In witwasonderzoek zijn voor- en tegenstanders te vinden voor het opnemen van consumptief witwassen als 
+ 
+object van onderzoek. Van Duyne et al. (2018) gaat op pagina 119-120 in op deze discussie.
+12
+ www.fatf-gafi.org/faq/moneylaundering/. 
+13
+  Daarnaast is een vier fasen model ontwikkeld, waarin rechtvaardiging een aparte fase is. Zie onder meer Van 
+Koningsveld (2013). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  15 
+
+ 
+2 Welke witwas- en terrorismefinancieringdreigingen worden door experts 
+aangemerkt als de dreigingen met de grootste potentiële impact? 
+3 Wat kan gezegd worden over de aard en mechanismen van de grootste witwas- 
+en terrorismefinancieringdreigingen en over de criminaliteitsvormen die hieraan 
+vooraf kunnen gaan? 
+4 Welk beleidsinstrumentarium is in Caribisch Nederland beschikbaar ter preventie 
+en bestrijding van de grootste witwas- en terrorismefinancieringdreigingen? 
+5 Wat kan gezegd worden over de weerbaarheid van het beschikbare beleidsinstru-
+mentarium ter preventie en bestrijding van de grootste witwas- en terrorisme-
+financieringdreigingen? 
+6 Welk risico van de witwas- en terrorismefinancieringdreigingen blijft er over 
+wanneer de potentiële impact van de dreigingen wordt afgezet tegen de 
+weerbaarheid van het bestaande beleidsinstrumentarium?  
+7 Welke witwas- en terrorismefinancieringdreigingen zijn in Caribisch Nederland 
+nog niet gesignaleerd maar zouden in de toekomst actueel kunnen worden? 
+8 In hoeverre kunnen beschikbare data van expertorganisaties worden gebruikt 
+voor een kwantitatieve data-analyse van de grootste witwas- en 
+terrorismefinancieringrisico’s? Welke nu ontbrekende data zijn nodig om beter 
+inzicht te krijgen in deze risico’s? 
+ 
+Voor het groeimodel van de NRA is het belangrijk om tijdens elke NRA de leer-
+momenten te detecteren en te expliciteren. Om deze leermomenten ook te kunnen 
+benutten is het cruciaal transparantie te betrachten over de analyses die voor de 
+NRA zijn uitgevoerd en de resultaten daarvan. Deze transparantie maakt het 
+mogelijk de analyses te repliceren. Dit is ook belangrijk met het oog op de weten-
+schappelijke verantwoording. Om deze reden wordt in deze NRA ook de volgende 
+onderzoeksvraag beantwoord: 
+ 
+9 Welke lessen/leerpunten zijn te benoemen voor volgende NRA’s? 
+  Focus rapportage op onderwerp witwassen 
+Om een eerste beeld te krijgen van de bestaande dreigingen op het terrein van 
+witwassen en terrorismefinanciering op de BES-eilanden vonden in de eerste fase 
+van het onderzoek de volgende onderzoeksactiviteiten plaats: deskresearch, oriën-
+terende interviews en een enquête die is uitgezet onder organisaties waarvan vooraf 
+verwacht werd dat deze in meer of mindere mate uit eigen ervaring kennis hebben 
+van de prevalentie dan wel (on)aannemelijkheid van witwassen en/of terrorisme-
+financiering op één of meer BES-eilanden (zie hoofdstuk 2 voor meer informatie). 
+Deze activiteiten leidden tot veel informatie over het onderwerp witwassen in 
+Caribisch Nederland, maar leverden geen duidelijke signalen op over de prevalentie 
+van terrorismefinanciering in Caribisch Nederland. Ook in de geraadpleegde schrif-
+telijke en online bronnen werden geen aanwijzingen gevonden voor het bestaan van 
+terrorismefinancieringdreigingen. De afwezigheid van signalen van terrorismefinan-
+cieringdreigingen betekent overigens niet noodzakelijkerwijs dat terrorismefinancie-
+ring op de BES-eilanden niet voorkomt. Omdat uit het onderzoek geen duidelijke 
+signalen van terrorismefinancieringdreigingen naar voren zijn gekomen, is ervoor 
+gekozen om in de voorliggende rapportage de nadruk te leggen op het onderwerp 
+witwassen. Dit betekent onder meer dat er voor het onderwerp ‘terrorismefinancie-
+ring’ geen expertmeetings plaatsvonden. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  17 
+
+ 
+aan de hand van een Multi Criteria Analyse (MCA) ingeschat respectievelijk de 
+weerbaarheid van het beleidsinstrumentarium per dreiging ingeschat (zie 
+hoofdstuk 2 voor meer informatie hierover). 
+ 
+Tot slot was een geleerde les in de eerste NRA BES dat in volgende NRA’s meer 
+veldwerk in het Caribisch gebied moet plaatsvinden, in de eerste plaats om eigen 
+ervaring te kunnen rapporteren over (wijzigingen in) de omgeving waarin witwassen 
+en terrorismefinanciering mogelijk plaatsvinden, in de tweede plaats omdat het 
+zinvol kan zijn om meer partijen te spreken die op de een of andere wijze betrokken 
+zijn bij de vastgoedmarkt van Bonaire. Ook zou de expertmeeting in Caribisch 
+Nederland kunnen plaatsvinden zodat ook de lokale opsporingsdiensten en andere 
+handhavers hieraan kunnen deelnemen. Ten tijde van de uitvoering van de tweede 
+NRA BES was sprake van de wereldwijde Covid-19 pandemie die een fysiek bezoek 
+aan de BES-eilanden en dus fysiek veldwerk in het Caribisch gebied onmogelijk 
+maakte. In plaats van het voorziene fysieke veldwerk werden online video inter-
+views en expertmeetings uitgevoerd. Vanwege het online karakter van de expert-
+meetings in deze tweede NRA BES was het echter wel mogelijk om zowel publieke 
+als private organisaties uit Caribisch Nederland als Europees Nederland te laten 
+deelnemen. Ook is een groot aantal online interviews afgenomen met publieke en 
+private organisaties in Caribisch en Europees Nederland. 
+ Leeswijzer 
+Hoofdstuk 2 gaat nader in op de onderzoeksmethoden die zijn ingezet bij de voor-
+liggende tweede NRA BES. Ook wordt een beschrijving gegeven van de sleutel-
+begrippen die in de NRA een belangrijke rol spelen en in deze rapportage gehan-
+teerd worden. 
+ 
+Hoofdstuk 3 beschrijft de Caribisch-Nederlandse kwetsbaarheden voor witwassen  
+en onderbouwt dit aan de hand van enkele geografische, demografische, sociaal-
+culturele, economische en criminologische kenmerken van Caribisch Nederland die 
+van invloed (kunnen) zijn op de prevalentie van witwassen. 
+ 
+In hoofdstuk 4 wordt een beschrijving gegeven van de witwasmethoden die in deze 
+NRA centraal staan. Het betreft methoden die criminelen kunnen hanteren bij het 
+witwassen van hun criminele opbrengsten. Dit hoofdstuk beschrijft ook de resultaten 
+van de eerste online expertmeeting, waarin de experts de witwasdreigingen met de 
+grootste potentiële impact identificeerden. 
+ 
+Hoofdstuk 5 gaat in op het beleidsinstrumentarium dat beschikbaar is voor de 
+preventie en bestrijding van de grootste witwasdreigingen. Het hoofdstuk besluit 
+met enkele mogelijkheden om de weerbaarheid van het beleidsinstrumentarium 
+verder te versterken. 
+ 
+Hoofdstuk 6 beschrijft de resultaten van de tweede en derde expertmeeting, waarin 
+experts een kwantitatieve inschatting maakten van respectievelijk de potentiële 
+impact van de grootste witwasdreigingen en de weerbaarheid van het beleids-
+instrumentarium. Het hoofdstuk besluit met het relateren van deze twee elementen 
+wat leidt tot de lijst van grootste witwasrisico’s in Caribisch Nederland, geordend 
+naar de resterende impact die de risico’s kunnen hebben. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  19 
+
+ 
+2 Onderzoeksmethodiek 
+Dit hoofdstuk beschrijft de onderzoeksaanpak die voor deze tweede NRA BES is 
+gekozen. Eerst worden de sleutelbegrippen in de NRA geïntroduceerd en gedefi-
+nieerd. Het plan voor het onderzoeksproces en de daarin toegepaste methoden 
+wordt beschreven aan de hand van de drie fasen die in de NRA worden onder-
+scheiden: de context-analyse, de risico-identificatie en de risicoanalyse. Deze  
+20
+fasen maken deel uit van het ISO 31000 raamwerk voor risicomanagement  
+dat – net als in de eerste NRA BES – als centraal kader is gekozen. 
+ Sleutelbegrippen van de NRA 
+In deze NRA is – net als in de eerste NRA BES – aangesloten bij de definities 
+21
+volgens de FATF Guidance voor de sleutelconcepten Dreigingen, Gevolgen en 
+Kwetsbaarheden: 
+ Dreigingen zijn in deze NRA alle methoden die (groepen) personen kunnen 
+gebruiken om crimineel verkregen geld wit te wassen. Dit betreft methoden 
+waarmee het criminele geld in het financiële systeem wordt geplaatst en/of 
+geïntegreerd, evenals de verhullingsmethoden die daarbij gehanteerd kunnen 
+worden om zo de pakkans te verkleinen. Bij de inzet van deze methoden kan 
+misbruik worden gemaakt van de diensten van financiële en niet-financiële 
+instellingen, zoals banken, notarissen en makelaars. 
+ Gevolgen betreffen de effecten die kunnen optreden als gevolg van het ‘actueel 
+worden’ van de Dreigingen. In de NRA worden deze gevolgen aangeduid als de 
+Potentiële Impact van de witwasdreigingen. Witwasdreigingen kunnen verschillen 
+in de mate waarin ze hun uitwerking hebben op de stabiliteit van het financiële 
+stelsel, het gezag en de rechtsorde, de reguliere economie, de maatschappelijke 
+orde, het imago van Caribisch Nederland in het buitenland en de subjectieve en 
+22
+objectieve veiligheid. 
+ Kwetsbaarheden zijn relatief vaststaande factoren die van invloed zijn op de 
+prevalentie van Dreigingen. In deze NRA gaat het om geografische, demogra-
+fische, economische, sociaal-culturele en criminologische contextfactoren die van 
+invloed kunnen zijn op de kans dat Dreigingen zich voordoen en/of die de 
+gevolgen van Dreigingen beïnvloeden. 
+ 
+Net als in de eerste NRA BES wordt aan de bovengenoemde sleutelconcepten het 
+element Weerbaarheid toegevoegd: 
+ Bij Weerbaarheid gaat het om de werking van het beleidsinstrumentarium dat  
+in Caribisch Nederland beschikbaar is voor de preventie en bestrijding van wit-
+wassen. Daarbij gaat het zowel om de inhoud/strekking van de beleidsinstru-
+menten als de uitvoering van die instrumenten. De Weerbaarheid kan zowel 
+bepalend zijn voor de kans dat Dreigingen zich voordoen als voor de hoogte van 
+de Potentiële Impact van de Dreigingen. Hierbij geldt: hoe hoger de weerbaar-
+heid, hoe beter de dreigingen worden tegengegaan. Terwijl Kwetsbaarheden 
+bestaan uit factoren die relatief ongevoelig zijn voor beleidsveranderingen, 
+                                               
+20
+ Risicomanagement volgens de standaarden van de International Organization for Standardization. 
+21
+ FATF (2013). 
+22
+  De hier opgesomde elementen vormen de criteria die zijn toegepast in de Multi Criteria Analyse waarmee in deze 
+NRA de omvang van de Potentiële Impact van de witwasdreigingen is bepaald. Meer hierover in paragraaf 2.2. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  21 
+
+ 
+Figuur 1 Het proces van risicomanagement gebaseerd op het ISO 31000 
+raamwerk, in lichtgroen de focus van de NRA 
+ 
+ 
+ Ingezette methoden 
+Om de onderzoeksvragen van deze tweede NRA BES te kunnen beantwoorden zijn 
+verschillende onderzoeksactiviteiten uitgevoerd. Per fase wordt aangegeven welke 
+onderzoeksactiviteiten er zijn verricht.  
+Fase contextanalyse 
+In de eerste NRA BES die in 2017/2018 is uitgevoerd, is een uitvoerige context-
+analyse uitgevoerd waarbij aandacht is besteed aan de verschillende factoren die 
+van invloed kunnen zijn op de prevalentie van witwassen in Caribisch Nederland. 
+Daarbij ging het onder meer om geografische, demografische, sociaal-culturele, 
+economische en criminologische kenmerken van Caribisch Nederland. Waar nodig  
+is de informatie over deze kenmerken in deze tweede NRA BES uitgebreid en 
+geüpdatet met informatie uit relevante openbare bronnen en wetenschappelijke 
+literatuur. 
+Fase risico-identificatie 
+1 Update longlist van witwasdreigingen 
+Ten behoeve van een update van de longlist van witwasdreigingen die in de eerste 
+27
+NRA BES is opgesteld, zijn recente (sinds 2018 verschenen) rapporten en open-
+bare bronnen geraadpleegd. Ook vonden in de startfase van het onderzoek oriën- 
+                                               
+27
+  Van der Veen en Heuts (2018). Deze longlist is opgesteld aan de hand van de lijst van geïdentificeerde 
+witwasdreigingen in de eerste Europees Nederlandse NRA Witwassen (Van der Veen & Heuts, 2017a), een 
+literatuurstudie gericht op witwassen in Caribisch Nederland, en interviews in Europees en Caribisch Nederland 
+met publieke en private partijen die een rol spelen bij de preventie en/of bestrijding van witwassen. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  23 
+Communicatie en consult 
+
+ 
+ overheidsdiensten of aan de overheid gelieerde organisaties die een rol spelen bij 
+de preventie en/of bestrijding van witwassen en terrorismefinanciering; 
+ private partijen die onder Wwft BES-toezicht vallen en koepel-/brancheorganisa-
+ties van die private partijen. 
+ 
+De FANO-enquêtes hadden als doel in beeld te brengen (1) van welke witwas- en 
+terrorismefinancieringdreigingen feiten/casussen bekend zijn bij in Caribisch en 
+Europees Nederland gevestigde organisaties (op basis van informatie die bij hun 
+organisatie via de eigen werkzaamheden beschikbaar is), en (2) in hoeverre die 
+organisaties de prevalentie van de dreigingen al dan niet aannemelijk achten.  
+In de enquête konden respondenten dreigingen die naar hun mening ontbraken, 
+toevoegen aan de longlist. 
+ 
+De enquêtes zijn opgebouwd aan de hand van de zogeheten FANO-systematiek. Aan 
+respondenten is gevraagd om voor Bonaire, Sint Eustatius en/of Saba in de longlist 
+van witwas- dan wel terrorismefinancieringdreigingen bij iedere dreiging een van de 
+volgende letters te markeren: 
+ een F indien er volgens de respondent sprake is van deze dreiging en er via  
+de eigen werkzaamheden één of meer Feiten/casussen bekend zijn bij de 
+respondent; 
+ een A indien het volgens de respondent Aannemelijk is dat deze dreiging speelt 
+maar er via de eigen werkzaamheden geen feiten/casussen bekend zijn bij de 
+respondent; 
+ een N indien het volgens de respondent Niet aannemelijk is dat deze dreiging 
+speelt op basis van de informatie waarover de respondent via de eigen werk-
+zaam-heden beschikt; 
+ een O indien het voor de respondent Onbekend is of een dreiging speelt, omdat 
+deze geen zicht heeft hierop via de eigen werkzaamheden of omdat deze de 
+dreiging niet kent. 
+ 
+Voor de witwas- en terrorismefinancieringdreigingen zijn voor elk van de drie BES-
+eilanden afzonderlijke longlists opgesteld. Om onnodig tijdsbeslag te voorkomen 
+voor respondenten die niet voor alle eilanden over informatie beschikken over de 
+dreigingen, is in de begeleidende mail van de FANO-enquêtes een screeningsvraag 
+opgenomen. Het antwoord daarop bepaalde de in te vullen onderdelen van de 
+30
+enquêtes. Onderstaande tabel 2 geeft een overzicht van de respons op de FANO-
+31
+enquêtes witwassen en terrorismefinanciering. 
+ 
+Tabel 2  Respons FANO-enquêtes 
+  Bonaire Sint Eustatius Saba 
+Aantal benaderde Aantal Aantal Aantal 
+ organisaties respondenten respondenten respondenten 
+FANO-enquête witwassen 28 13 7 7 
+FANO-enquête terrorismefinanciering 28 2 1 1 
+ 
+                                               
+30
+  Het ging om de volgende screeningsvraag: “Beschikt uw organisatie via de eigen werkzaamheden over enige 
+informatie over de prevalentie van witwassen/terrorismefinanciering op Bonaire, Sint Eustatius en/of Saba?”. De 
+antwoordcategorieën waren: (A) Ja, voor Bonaire, Sint Eustatius en Saba; (B) Ja, maar niet voor alle BES-
+eilanden; (C) Nee, mijn organisatie beschikt via de eigen werkzaamheden niet over informatie over de 
+prevalentie van witwassen/terrorismefinanciering op de BES-eilanden. 
+31
+  Respondenten die in de enquête bij alle dreigingen een ‘O’ invulden, stellen wij gelijk aan respondenten die bij 
+de screeningsvraag antwoord ‘C’ invulden. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  25 
+
+ 
+bespreking van witwasdreigingen ervoor dat de longlist werd aangevuld met één 
+witwasdreiging. 
+ 
+Vervolgens hebben de deelnemers afzonderlijk voor Bonaire, Sint Eustatius en Saba 
+uit de longlist maximaal tien dreigingen geselecteerd die naar hun oordeel binnen de 
+Caribisch-Nederlandse context het hoogst scoorden op impactpotentieel en preva-
+lentie. De deelnemers identificeerden voor Bonaire de meeste witwasdreigingen. De 
+kennis en ervaring van de deelnemers aan de expertmeeting concentreerde zich ook 
+vooral op Bonaire. Na een eerste identificatieronde zijn de resultaten besproken met 
+de deelnemers, waarna de definitieve tweede identificatieronde plaatsvond.  
+ 
+In de expertmeeting is evenals bij de daaropvolgende expertmeetings gebruik-
+gemaakt van de Delphi-methode die toegepast is binnen een Group Decision Room 
+(GDR) omgeving (meer hierover in box 1). De GDR in combinatie met de Delphi-
+methode wordt gekenmerkt door een afwisseling van ict – met individuele digitale 
+stemmingen van de experts – en groepsdiscussies en hielp bij het vormgeven en 
+structureren van de expertmeetings. Geprobeerd is binnen de beperkingen van  
+de beschikbare tijd de experts zoveel als mogelijk in de gelegenheid te stellen  
+hun oordelen toe te lichten, te onderbouwen, elkaar erover te bevragen en te 
+bediscussiëren.  
+ 
+Box 1 Delphi Methode en Group Decision Room 
+Delphi-methode 
+a
+De Delphi-methode is ontwikkeld in de jaren vijftig van de twintigste eeuw, aan 
+het begin van de Koude Oorlog, toen in een project voor de Amerikaanse lucht-
+macht bleek dat traditionele wetenschappelijke methoden onvoldoende basis 
+vormden voor de ontwikkeling van nieuwe technieken voor internationale oorlogs-
+voering. In de Delphi-methode worden in een iteratief proces oordelen van (een 
+groep van) experts gecombineerd bij besluitvorming over onderwerpen waarover 
+geen betrouwbare wetenschappelijk toetsbare inzichten bestaan. De leemtes in de 
+kennis worden gevuld door expertoordelen, -ervaringen en -intuïties. Door het 
+(anoniem) terugkoppelen hiervan en door nadere onderbouwing kunnen de 
+experts hun initiële oordeel herzien. Dit kan leiden tot verhoging van consensus 
+voor een oplossing. Het proces vindt plaats in een aantal rondes. Voordelen van 
+de Delphi-methode zijn:  
+ vergroting van de transparantie en systematisering van complexe besluit-
+vormingsprocessen;  
+ betere benutting van bestaande kennis en informatie, omdat alle experts hun 
+kennis en informatie delen;  
+ vaak leidt dit tot verhoging van de consensus voor de ‘beste’ oplossing.  
+Aan het toepassen van de Delphi-methode is het gevaar van groepsdenken 
+verbonden. Groepsdenken kan ontstaan wanneer de focus binnen een besluit-
+vormingsproces zodanig is gericht op het vinden van consensus dat dit ten koste 
+b
+gaat van de kwaliteit van de besluitvorming. Experts kunnen er onterecht van 
+uitgaan dat alle relevante facetten bij de besluitvorming zijn betrokken. 
+ 
+Group Decision Room (GDR) 
+Voor de expertmeetings is gebruikgemaakt van een GDR, waarbinnen de Delphi-
+methode is toegepast. Een GDR is een elektronisch vergadersysteem dat de deel-
+nemers in staat stelt in korte tijd een grote hoeveelheid aan ideeën en meningen 
+te genereren door een afwisseling van ict-techniek en plenaire discussies. In de 
+expertmeetings van deze NRA kregen de deelnemers tijdens de online meeting de 
+mogelijkheid om digitaal te stemmen ten behoeve van de risico-identificatie 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  27 
+
+ 
+dreigingen en de onderliggende delicten vergroot. Ook hebben de interviews geleid 
+tot een aanpassing van de lijst van de grootste witwasdreigingen, die aan het begin 
+van de tweede expertmeeting is besproken met de experts. 
+ 
+a
+Tabel 4 Verdiepende interviews  
+Publieke partijen Private partijen 
+Belastingdienst/Douane Caribisch Nederland Bank Bonaire I 
+BTWwft Bank Bonaire II 
+DNB Bonaire Hotel and Tourism Association 
+FIU-Nederland Handelaar in bouwmaterialen 
+Kadaster Bonaire Notaris Bonaire 
+Kamer van Koophandel en Nijverheid Bonaire Notaris Sint Maarten 
+KMar  
+KPCN  
+OM Caribisch Nederland  
+Openbaar Lichaam Bonaire  
+Openbaar Lichaam Saba  
+RST  
+a
+ Er is geprobeerd ook een interview af te nemen met het Openbaar Lichaam Sint Eustatius, maar het is ondanks enkele 
+reminders per mail niet gelukt om dit interview te plannen. 
+ 
+2 Tweede expertmeeting 
+Aan de tweede expertmeeting namen vertegenwoordigers van 11 organisaties deel 
+(zie bijlage 3). Het betrof in grote mate dezelfde personen die deelnamen aan de 
+33
+eerste expertmeeting. In de vorige subparagraaf kwam al aan bod dat de verdie-
+pende interviews hebben geleid tot een voorlopige aanpassing van de lijst van 
+grootste witwasdreigingen. De verdiepende interviews maakten inzichtelijk dat  
+het voor geïnterviewden lastig bleek om enkele afzonderlijke witwasdreigingen zo 
+precies van elkaar te onderscheiden als in de eerste expertmeeting was gedaan.  
+Dit gold met name voor vastgoedgerelateerde dreigingen, omdat in de praktijk 
+verschillende vastgoedgerelateerde witwasmethoden naast elkaar kunnen worden 
+ingezet. Omdat dit het inschatten van de potentiële impact door de deelnemende 
+experts erg lastig maakt, zijn de tien grootste witwasdreigingen geclusterd tot een 
+lijst van zes grootste witwasdreigingen (zie paragraaf 4.1 voor nadere informatie 
+hierover). Deze clustering is aan het begin van de tweede expertmeeting besproken 
+met en geaccordeerd door de experts. Deze bespreking leidde ook tot de aanvulling 
+van de lijst met een extra witwasdreiging. Nadat de experts in de tweede expert-
+meeting in gezamenlijkheid waren gekomen tot een definitieve lijst van zeven 
+grootste witwasdreigingen hebben de experts een inschatting gemaakt van de 
+potentiële impact van die dreigingen. Dit hebben zij gedaan aan de hand van een 
+Multi Criteria Analyse (box 2).  
+  
+                                               
+33
+  In vergelijking met de deelnemers aan de eerste expertmeeting waren er een paar verschillen: (1) andere 
+vertegenwoordigers van AFM en FIU-Nederland namen deel aan de meeting; en (2) er nam geen vertegen-
+woordiger van een Bonairiaanse bank deel aan de meeting (die wel uitgenodigd was). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  29 
+
+ 
+rijker en minder belangrijk achtten bij de bepaling van de potentiële impact van de 
+dreigingen. Van de gewichten die de experts toekenden, zijn de gemiddelde waar-
+den bepaald. Deze gemiddelde waarden vormden de toegepaste criteriumgewichten 
+die gebruikt zijn bij de berekening van de potentiële impact. 
+ 
+Tabel 5 Criteria MCA 
+Criteria 
+Verslechtering van de stabiliteit van het financiële stelsel 
+Ondermijning van gezag en rechtsorde 
+Aantasting van de reguliere economie 
+Ontregeling van de maatschappelijke orde 
+Inbreuk op het imago 
+Vermindering van de subjectieve/objectieve veiligheid 
+ 
+ 
+Vervolgens hebben de experts per dreiging en per criterium een inschatting 
+gemaakt van de mogelijke gevolgen van de witwasdreigingen op de bovenstaande 
+zes criteria (op een schaal van 0 tot en met 100). De deelnemers aan de tweede 
+expertmeeting hebben alleen voor Bonaire de potentiële impact van de grootste 
+witwasdreigingen aan de hand van een MCA ingeschat, omdat de deelnemers over 
+te weinig kennis van de witwasdreigingen op Sint Eustatius en Saba beschikten om 
+een dergelijke inschatting ook voor die eilanden te maken. In de tweede expert-
+meeting is voor die twee eilanden in algemene zin gesproken over de potentiële 
+impact van de grootste witwasdreigingen. 
+ 
+Bij het inschatten van de potentiële impact werd de experts gevraagd om rekening 
+te houden met de Caribisch-Nederlandse context waarbinnen de witwasdreigingen 
+zich kunnen voordoen. De experts is gevraagd geen inschatting te maken van de 
+potentiële impact van de witwasdreigingen indien zij hier naar hun eigen oordeel 
+34
+niet toe in staat waren. De resultaten van de eerste inschattingsronde zijn in real-
+time berekend en geprojecteerd en werden vervolgens in gezamenlijkheid bespro-
+ken. Hierna volgde de tweede en definitieve inschattingsronde waarin de experts de 
+mogelijkheid kregen om – als gevolg van de plenaire bespreking van de resultaten 
+van de eerste ronde – de toegekende scores aan te passen. 
+ 
+Box 3 Verschil in risicobepaling met de eerste NRA BES 
+In de eerste NRA BES hebben deelnemers aan een expertmeeting geen kwantita-
+tieve inschatting gemaakt van de potentiële impact aan de hand van een MCA. De 
+reden daarvan was dat het aantal deelnemers (6) aanmerkelijk kleiner was dan het 
+aantal deelnemers aan de expertmeeting(s) van de tweede NRA BES (10 tot 12 
+deelnemers). Het aggregeren van een dataset die gebaseerd is op de inschattingen 
+van een dergelijk klein aantal deelnemers, zou weinig meerwaarde hebben want het 
+zou leiden tot een zeer grove kwantitatieve meting. Om dezelfde reden hebben 
+experts in de eerste NRA BES ook geen kwantitatieve inschatting gemaakt van de 
+weerbaarheid van het beschikbare beleidsinstrumentarium. Vanwege het kleine 
+aantal deelnemers aan de expertmeeting van de eerste NRA BES bood de inzet van 
+een GDR ook onvoldoende meerwaarde om hiervan gebruik te maken. In de eerste 
+NRA BES speelde de Delphi-methode een beperkte rol.  
+                                               
+34  : 
+In de MCA is de Potentiële Impact van de dreigingen berekend door toepassing van de volgende formule
+∑   
+  , 
+ 𝑃𝑜𝑡𝑒𝑛𝑡𝑖 ë 𝐼𝑚𝑝𝑎𝑐𝑡    waarbij C en G staan voor de expertscores op de Criteria en de Gewichten, i 
+∑ 
+
+specificeert het criterium. De gebruikte criteria zijn opgenomen in tabel 5.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  31 
+𝑙𝑒
+
+ 
+mailenquête vormden de input voor de derde expertmeeting. De plenaire bespreking 
+van de verschillende beleidsinstrumenten heeft geleid tot een overzicht van het 
+bestaande beleidsinstrumentarium dat volgens experts een substantiële bijdrage 
+levert bij de preventie en repressie van witwassen op de BES-eilanden (zie hoofd-
+stuk 5). 
+ 
+Vervolgens werden de experts gevraagd om in de GDR omgeving voor de zeven 
+grootste witwasdreigingen met de grootste potentiële impact voor Bonaire een 
+inschatting te maken van de mate waarin het totale pakket aan bestaande beleids-
+instrumenten ter preventie en repressie van witwassen deze dreigingen tegengaat. 
+De experts konden hiertoe per witwasdreiging een weerbaarheidsscore toekennen 
+op een schaal van 0 tot en met 100, waarbij 0 staat voor geen enkele weerbaarheid 
+tegen de dreiging en 100 voor een totale weerbaarheid waarbij de strekking en 
+uitvoering van het beleidsinstrumentarium de witwasdreiging volledig wegnemen. 
+Na een eerste inschattingsronde vond een uitvoerige plenaire bespreking van de 
+resultaten plaats. Hierna kregen de experts de mogelijkheid om – in het geval dat 
+de plenaire bespreking tot nieuwe inzichten had geleid bij hen – de eerdere inschat-
+ting aan te passen in de tweede inschattingsronde. 
+ 
+Voor de kleinere BES-eilanden, Sint Eustatius en Saba, is evenals bij de potentiële 
+impact bepaling geen getalsmatige inschatting gemaakt, maar is volstaan met het 
+aangeven van een kwalificatie van de weerbaarheid in vergelijking met de inschat-
+tingen voor Bonaire. Aangegeven kon worden of de weerbaarheid per dreiging (veel) 
+groter, gelijk of (veel) kleiner uitvalt.  
+ 
+Na afloop van de derde expertmeeting zijn de expert-inschattingen van de poten-
+tiële impact van de grootste witwasdreigingen (tweede expertmeeting) en de 
+weerbaarheid van het beleidsinstrumentarium (derde expertmeeting) voor Bonaire 
+kwantitatief en voor Saba en Sint Eustatius kwalitatief tegen elkaar afgezet. Dit 
+leverde de uiteindelijke opbrengst van de NRA op: voor Bonaire een lijst met de 
+grootste witwasrisico’s, geordend naar de resterende impact die deze risico’s 
+kunnen hebben en voor de kleinere eilanden een kwalitatieve beschrijving van de 
+resterende impact. 
+5 Validerende interviews 
+In de eindfase van het onderzoek is de lijst van de grootste witwasrisico’s voor de 
+drie BES-eilanden voorgelegd en besproken met in totaal vijf vertegenwoordigers 
+van het OM Caribisch Nederland, de FIU-Nederland, het ministerie van Justitie en 
+Veiligheid en het ministerie van Financiën. In de interviews is de lijst nagelopen 
+waarbij gevraagd werd of zij de potentiële impact van de grootste witwasdreigingen, 
+de weerbaarheid van het beleidsinstrumentarium tegen deze dreigingen, de reste-
+rende risico’s en de rangorde daarin die in dit onderzoek is aangebracht herkenden. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  33 
+
+ 
+en Canadese studenten die onderwijs volgen aan de Saba University School of 
+Medicine, een medische faculteit die sinds 1992 op het eiland is gevestigd. 
+ 
+Tabel 7 laat zien dat er nauwelijks migratie plaatsvindt tussen Saba en Sint 
+Eustatius, die slechts op 30 kilometer afstand van elkaar liggen. Voor beide eilan- 
+den geldt dat minder dan 1% van de inwoners afkomstig is van het andere eiland. 
+ 
+Tabel 7 Geboorteland/-regio inwoners BES-eilanden op 1 januari 2020 
+Bonaire Sint Eustatius Saba 
+ 
+Totale aantal inwoners afkomstig uit 20.915 3.139 1.933 
+Caribisch Nederland    
+Bonaire 7.604 6 6 
+Sint Eustatius 22 1.082 3 
+Saba 6 11 514 
+Landen in het Koninkrijk der Nederlanden    
+Aruba 523 104 48 
+Curaçao 3.687 172 50 
+Sint Maarten (Nederlands deel) 48 420 304 
+Europees Nederland 3.196 189 101 
+Europa (excl. Europees Nederland)    
+Europese Unie 392 73 68 
+Overig 52 14 6 
+Noord-Amerika    
+Verenigde Staten van Amerika 389 68 193 
+Canada 45 4 54 
+Azië    
+China 322 40 13 
+Overig 148 16 121 
+Midden- en Zuid-Amerika    
+Colombia 941 29 94 
+Dominicaanse Republiek 1.311 291 99 
+Ecuador 76 2 0 
+Guyana 35 89 12 
+Haïti 177 21 26 
+Jamaica 61 47 27 
+Peru 565 13 1 
+Saint Kitts en Nevis 6 182 16 
+Suriname 327 43 19 
+Trinidad en Tobago 18 32 12 
+Venezuela 777 25 7 
+Overig 131 162 111 
+Afrika 48 4 27 
+Oceanië 8 0 1 
+Bron: CBS Statline (2021)  
+ 
+ 
+De nabijheid van Midden- en Zuid-Amerikaanse landen en andere Caribische 
+eilanden, risicolanden die in relatie gebracht kunnen worden met de productie van 
+39
+drugs, ineffectieve anti-witwasregelgeving en een strikt bankgeheim, kan in 
+beginsel van invloed zijn op de prevalentie van witwassen vanwege de illegale 
+aanvoer van drugs, wapens en mensen. De grote afstand van de BES-eilanden tot 
+                                               
+39
+  OESO (2019). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  35 
+
+ 
+43
+aanzienlijk. Overigens is het niet altijd de elite die de machtsrelatie initieert. Ook 
+andersom komt voor, bijvoorbeeld wanneer kandidaat-politici worden benaderd  
+44
+door burgers met de vraag wat een stem hen oplevert. Patronage en cliëntelisme 
+kunnen leiden tot een overlap van privérelaties en professionele contacten. Hierbij 
+komt dat de lage lonen en de heersende armoedeproblematiek het voor inwoners 
+van de BES-eilanden vaker dan voor inwoners van Europees Nederland noodzakelijk 
+maken meerdere banen te combineren. Een en ander kan er toe leiden dat er op de 
+BES-eilanden belangenverstrengeling en integriteitsschendingen zoals vriendjes-
+45
+politiek en corruptie kunnen optreden. De risico’s op deze ’kwalijke conflicterende 
+belangen’ worden het grootst geacht bij overheidsfunctionarissen, bestuurders en 
+46
+politici. Van der Zee en Hoebé geven in het Veiligheidsbeeld BES 2018 (2019) aan 
+dat patronage, cliëntelisme en nepotisme vaak worden geassocieerd met lokale 
+ambtenaren en bestuurders, maar volgens hen is de reputatie van de Rijksoverheid 
+ook niet brandschoon. Zo kan sprake zijn van snoepreisjes van Europees-Neder-
+landse ambtenaren, het ‘wegpromoveren’ van medewerkers met een vlekje en het 
+47
+binnenhalen van vertrouwelingen op bepaalde posten. In Caribisch Nederland 
+48
+werken politici veelal parttime. Naast hun politieke functie vervullen zij ook vaak 
+49
+een functie in het bedrijfsleven en/of hebben zij een andere publieke functie. 
+Hierdoor is er grote overlap tussen de economische en politieke elite op de BES-
+eilanden. Deze verwevenheid van functies blijkt ook uit de financiering van politieke 
+campagnes vanuit het bedrijfsleven waarover Veenendaal voor Bonaire rappor-
+50
+teert. Dit creëert extra mogelijkheden voor belangenconflicten.  
+ 
+Samengevat zorgen enkele sociaal-culturele kenmerken zoals de ons-kent-ons-, 
+zwijg-, angst- en belangencultuur waarbij er sprake is van patronage, nepotisme  
+en cliëntelisme volgens het ‘voor wat hoort wat’-principe, voor een vervaging van  
+de grenzen tussen privé relaties en professionele contacten. Dit kan in beginsel uit-
+werken in een verminderde meldings-en aangiftebereidheid van criminaliteit en in 
+belangenverstrengeling en integriteitsproblemen bij de lokale uitvoering van toe-
+zicht, opsporing en handhaving. 
+ Economische kenmerken 
+Algemeen 
+Caribisch Nederland heeft een aantal algemene economische kenmerken: 
+ Cash based economy. Op de BES-eilanden zijn betalingen met contact geld 
+gebruikelijk. Zo kan in veel winkels alleen met contant geld worden afgerekend, 
+krijgen werknemers in sommige sectoren hun salaris contant uitbetaald en 
+betaalt een deel van de bewoners de huur van de eigen woning geregeld met 
+contant geld. Een grote mate van contant geld gebruik in een economie wordt 
+                                               
+43
+  Nauta (2011). 
+44
+  Commissie Integer Openbaar Bestuur (2014).  
+45
+  Nauta (2015); Veenendaal (2017). 
+46  
+Commissie Integer Openbaar Bestuur (2014). 
+47
+  Van der Zee en Hoebé (2019). 
+48  
+Nauta (2015). 
+49
+ Veenendaal (2017). 
+50
+  Veenendaal (2017). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  37 
+
+ 
+Tabel 8 Bbp in Caribisch Nederland  
+2016 2017 2018 
+ 
+Bbp, waarde in werkelijke prijzen (in miljoenen US dollar) 
+Caribisch Nederland 666 670 680 
+Bonaire 487 480 505 
+Sint Eustatius 131 142 128 
+Saba 48 48 48 
+Bbp per hoofd van de bevolking (in US dollar) 
+Bonaire 25.300 24.800 25.400 
+Sint Eustatius 34.200 36.400 33.300 
+Saba 24.500 22.900 23.500 
+Bron: CBS (2021) 
+ 
+Financiële sector 
+Op Bonaire zijn veelal kredietinstellingen actief waarvan het hoofdkantoor elders is 
+gevestigd, met name op Curaçao. Er zijn op Bonaire vijf bijkantoren en één hoofd-
+vestiging van kredietinstellingen gevestigd (zie tabel 9). Op zowel Sint Eustatius als 
+Saba is momenteel één bijkantoor van een kredietinstelling gevestigd. 
+ 
+Tabel 9 Banken/kredietinstellingen in Caribisch Nederland 
+Sector    Bonaire Sint Eustatius Saba 
+Banken/kredietinstellingen met zetel op eiland 1 0 0 
+Banken/kredietinstellingen met bijkantoor op eiland * 6 1 1 
+ * De zetels van bijkantoren op Bonaire zijn gevestigd op Curaçao. De zetels van het bijkantoor op Sint Eustatius en Saba zijn 
+gevestigd op Sint Maarten. 
+Bron: DNB (23 april 2021) 
+ 
+ 
+Onderstaande tabel 10 geeft weer dat er op Bonaire twee geldtransactiekantoren en 
+op Sint Eustatius één geldtransactiekantoor zijn gevestigd. Verder heeft een inter-
+nationaal actief geldtransactiekantoor een DNB-vergunning voor het verlenen van 
+betaaldiensten op de BES-eilanden, maar deze wordt momenteel niet benut. De 
+geldtransactiekantoren op Bonaire zijn sinds enige tijd niet meer actief (maar 
+beschikken wel nog over een DNB-vergunning), omdat dit – zo kwam naar voren in 
+de verdiepende interviews – onvoldoende rendabel zou zijn voor deze partijen. De 
+afwezigheid van actieve geldtransactiekantoren kan ertoe leiden dat mensen zoeken 
+naar andere manieren om geldtransacties te verrichten, wat kansen biedt aan 
+(groepen) personen die onvergund geldtransactiekantoor-diensten verlenen. DNB 
+heeft signalen ontvangen die erop wijzen dat betaaldiensten op onvergunde wijze 
+worden verleend op Bonaire. Mogelijk is dit te relateren aan het grote aantal 
+Midden- en Zuid-Amerikanen dat illegaal op het eiland verblijft (zie ook paragraaf 
+3.1) en daardoor geen eigen bankrekening kan afsluiten bij een Bonairiaanse bank. 
+Om geld over te maken naar bijvoorbeeld familie in het land van herkomst zijn zij 
+mogelijk genoodzaakt gebruik te maken van alternatieve geldtransactiemethoden, 
+zoals fysieke verplaatsing van contant geld via de zee en/of lucht, ondergronds 
+bankieren zoals hawala-bankieren of de diensten van (groepen) personen die 
+onvergund geldtransactiekantoor-diensten verlenen (zie hoofdstuk 4 voor meer 
+informatie hierover).  
+ 
+ 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  39 
+
+ 
+Figuur 2 Aantal werknemersbanen op Bonaire 
+0 200 400 600 800 1000 1200 1400 1600 1800
+Horeca
+1.600
+Handel
+1.340
+Zakelijke dienstverlening 1.320
+Openbaar bestuur en overheidsdiensten 1.200
+Gezondheids- en welzijnszorg
+1.180
+Bouwnijverheid
+860
+Cultuur, recreatie en overige diensten 820
+Vervoer, informatie en communicatie 690
+Onderwijs
+560
+Verhuur en handel van onroerend goed
+290
+Financiële dienstverlening 260
+Industrie 250
+Energie, water en afvalbeheer 230
+Delfstoffenwinning
+50
+Landbouw, bosbouw en visserij 10
+ 
+Bron: CBS (2021) 
+ 
+ 
+Ondanks de Covid-19 pandemie is het aantal inschrijvingen in het handelsregister 
+van de Kamer van Koophandel en Nijverheid Bonaire sterk toegenomen, namelijk 
+van circa 4.800 in 2019 tot meer dan 5.200 in 2020. Er blijkt een aanzienlijke 
+discrepantie te bestaan tussen het aantal bedrijven dat in het handelsregister staat 
+ingeschreven en het aantal bedrijven dat bij de Belastingdienst bekend is. In de 
+interviews is naar voren gebracht dat mogelijk een deel van bedrijven uit het 
+handelsregister niet meer actief is. Momenteel wordt onderzocht hoe het handels-
+register kan worden opgeschoond.  
+ 
+Onderstaande tabel 12 laat zien dat de pandemie in 2020 niet heeft geleid tot een 
+groter aantal faillissementen, opheffingen en liquidaties dan in voorgaande jaren. 
+ 
+Tabel 12 Ontwikkeling aantal rechtsvormen op Bonaire 
+   2018 2019 2020 
+Totale aantal inschrijvingen 4.506 4.833 5.233 
+Totale aantal oprichtingen 577 620 566 
+Totale aantal faillissementen 1 2 3 
+Totale aantal opheffingen 170 266 165 
+Totale aantal liquidaties 71 42 47 
+Bron: Kamer van Koophandel en Nijverheid Bonaire (2021) 
+ 
+ 
+De stijging van het aantal inschrijvingen in de periode 2018-2020 wordt met name 
+veroorzaakt door een toename van het aantal besloten vennootschappen (bv’s) 
+(+478) en eenmanszaken (+189). Tabel 13 geeft dit weer. 
+ 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  41 
+
+ 
+Bonaire – waarbij personen met een Venezolaanse en Chinese nationaliteit 
+62
+betrokken waren – de legale herkomst van de middelen onduidelijk. In diverse 
+interviews voor deze NRA BES kwam naar voren dat dit ook geldt voor een aantal 
+van de vastgoedtransacties vanuit Europees Nederland en enkele Oost-Europese 
+landen zoals Rusland en Polen.  
+ 
+Mede onder invloed van de buitenlandse interesse voor het aankopen van vastgoed 
+stegen de afgelopen jaren de verkoopprijzen van woningen op Bonaire. Sinds 2011 
+was er een prijsstijging van bijna 50% en was er overall sprake van een toename 
+van het aantal verkochte woningen van meer dan 40%. Wel waren in deze periode 
+enorme jaarschommelingen in het aantal verkochte woningen. Tabel 14 geeft de 
+prijs- en volumeontwikkeling van de verkochte woningen op Bonaire sinds 2011. 
+Mede door de gestegen woningprijzen worden Bonairiaanse huishoudens met een 
+laag inkomen (zonder eigen woning), grotendeels noodgedwongen aangewezen op 
+63
+het huren van woningen in de particuliere huurmarkt. 
+ 
+Over Sint Eustatius en Saba zijn geen accurate statistieken beschikbaar over de 
+64
+voorraad van particuliere huurwoningen en koopwoningen. 
+ 
+Tabel 14  Prijsontwikkeling woningen en aantal verkochte woningen in 
+Bonaire 
+Prijsontwikkeling Ontwikkeling t.o.v. Aantal verkochte Ontwikkeling t.o.v. 
+(2011=100) een jaar eerder woningen een jaar eerder 
+ 
+2011 100 - 155  
+2012 102,7 2,7% 151 -2,6% 
+2013 102,3 -0,4% 168 11,3% 
+2014 102,2 0% 156 -7,1% 
+2015 95,2 -6,8% 150 -3,8% 
+2016 110,5 16,1% 215 43,3% 
+2017 109,4 -1,1% 214 -0,5% 
+2018 133 21,6% 327 52,8% 
+2019 135,5 1,9% 266 -18,7% 
+2020 148,1 9,3% 182 -31,6% 
+Bron: CBS (2021) 
+ 
+Werkloosheid en armoede 
+Op Sint Eustatius is sprake van de hoogste werkloosheid in Caribisch Nederland. In 
+2018 was 4,3% van de beroepsbevolking van dit eiland werkloos. De werkloosheids-
+65
+cijfers voor Bonaire en Saba bedragen voor 2018 respectievelijk 3,2% en 2,4%. 
+66
+Ter vergelijking: in Nederland lag in 2018 het werkloosheidspercentage op 3,8%. 
+ 
+Werk levert op de BES-eilanden echter lang niet altijd voldoende op om in de kosten 
+voor de basislevensbehoeften te kunnen voorzien. Sinds de staatskundige hervor-
+ming in 2010 stegen de kosten van levensonderhoud sterk en bleef tegelijkertijd de 
+loonontwikkeling achter. Circa de helft van de bevolking van de drie BES-eilanden 
+                                               
+62   
+Van der Zee en Hoebé (2019). 
+63
+  Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (2020). 
+64
+  Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (2020). 
+65
+  CBS Statline. 
+66
+  CBS Statline.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  43 
+
+ 
+Tabel 15 Aantal geregistreerde vermogensdelicten BES-eilanden in 2019 
+ Bonaire Sint Eustatius Saba 
+Woninginbraak  100 4 2 
+Inbraak toeristenaccommodatie 41 0 1 
+Bedrijfsinbraak 47 7 2 
+Diefstal van motorrijtuig 32 3 0 
+Diefstal uit auto bij duikplaats 44 0 0 
+Diefstal vanaf/uit voertuig overig 92 0 0 
+Diefstal vanuit toeristenaccommodatie 3 0 0 
+Diefstal overig 118 17 5 
+Verduistering 8 1 0 
+Bron: KPCN (2020)  
+ 
+Drugshandel 
+In het Veiligheidsbeeld BES 2018 wordt Bonaire genoemd als één van de doorvoer-
+havens van drugs uit Zuid-Amerika, met name cocaïne, naar onder andere Europa 
+75
+en de Verenigde Staten. Volgens de Raad voor de Rechtshandhaving wordt de 
+´Caribbean route´ vaak gebruikt door criminele drugsorganisaties uit Colombia en 
+Venezuela en daarnaast door Jamaicaanse en Dominicaanse bendes die sterke 
+76
+banden hebben met Spanje en de Canarische eilanden. Uit Europa worden 
+77
+cannabisproducten en synthetische drugs geïmporteerd. De aanscherping van 
+controles die andere landen in de regio uitvoeren ging gepaard met het populairder 
+78
+worden van de drugstransport via Bonaire. Het jaarverslag van het OM Caribisch 
+Nederland over 2019 bevestigt dat Bonaire nog steeds geldt als doorvoerhaven voor 
+79
+drugs. Het jaarverslag beschrijft een ‘spraakmakende zaak’ uit 2018 van cocaïne-
+smokkel vanuit Bonaire naar Nederland via een luchtbagagecontainer en brieven-
+post. Op Schiphol werd 60 kg cocaïne in beslag genomen. De zaak leidde tot het 
+opleggen van een gevangenisstraf van zes jaar. Bij het verzenden van de drugs per 
+brievenpost bleken drie medewerkers van het postkantoor betrokken te zijn; ook zij 
+werden veroordeeld tot een gevangenisstraf.  
+ 
+Voor Saba en Sint Eustatius zijn geen recente ontwikkelingen op het terrein van 
+drugshandel gevonden. Het jaarverslag van het OM Caribisch Nederland voor 2016 
+vermeldt dat beide eilanden hoofdzakelijk eindstations voor drugstransporten zijn.  
+ 
+Recente KPCN-cijfers van het aantal geregistreerde drugsdelicten en aanhoudingen 
+met betrekking tot aangetroffen drugs konden ten tijde van de voorliggende NRA 
+BES niet beschikbaar worden gesteld. In 2017 registreerde het KPCN voor Bonaire 
+circa dertig drugsdelicten en ongeveer twintig aanhoudingen. Op Saba werden in dat 
+jaar een paar drugsdelicten en aanhoudingen geregistreerd en op Sint Eustatius 
+werden in 2017 zowel geen drugsdelicten als aanhoudingen geregistreerd. Tabel 16 
+geeft dit weer. 
+ 
+  
+                                               
+75
+  Van der Zee en Hoebé (2019). 
+76
+  Raad voor de Rechtshandhaving (2020). 
+77
+  Liem, Meinema en Van der Zee (2019). 
+78
+  Analistennetwerk Nationale Veiligheid (2020). 
+79
+  OM Bonaire, Sint Eustatius en Saba (2020). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  45 
+
+ 
+kenmerken als patronage, nepotisme en cliëntelisme, die al in de paragraaf over 
+sociaal-culturele kenmerken van de BES-eilanden zijn beschreven. Als voorbeelden 
+van corruptie op de BES-eilanden worden genoemd: de ondoorzichtige wijze van 
+uitgifte van grond in erfpacht en het aanvragen en verlenen van tewerkstellings-  
+en verblijfsvergunningen. Hoewel er geen sprake lijkt te zijn van grootschalige 
+georganiseerde criminaliteit op de BES-eilanden, bestaat het vermoeden dat er wel 
+vertegenwoordigers van georganiseerde criminaliteit aanwezig zijn op Bonaire en 
+86
+dat zij, zoals bij georganiseerde criminaliteit gangbaar is, gebruikmaken van 
+omkoping. 
+ 
+In de eerste NRA BES kwam naar voren dat er bij het KPCN geen corruptiedelicten 
+87
+op de BES-eilanden waren geregistreerd in de voorafgaande jaren. Recentere 
+KPCN-cijfers over eventuele corruptiedelicten konden ten tijde van de voorliggende 
+NRA BES niet beschikbaar worden gesteld. Ook in het Veiligheidsbeeld BES 2018 
+88
+wordt gemeld dat cijfers over de mate waarin corruptie voorkomt, ontbreken.  
+ 
+Ten tijde van de eerste NRA BES werd gewerkt aan de totstandkoming van een 
+89
+themaregister voor corruptie op de BES-eilanden. Dit themaregister is op 1 januari 
+90
+2020 gerealiseerd. Tevens zijn sinds 2020 tijdelijk, voor de duur van drie jaar, 
+twee medewerkers van de Rijksrecherche gestationeerd op Bonaire. 
+ 
+ 
+ 
+                                               
+86
+  UNODC (2017). 
+87
+  Van der Veen en Heuts (2018). 
+88
+  Van der Zee en Hoebé (2019). 
+89
+  Van der Veen en Heuts (2018). 
+90
+  https://zoek.officielebekendmakingen.nl/stb-2019-475.html. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  47 
+
+ 
+juist onaannemelijkheid van de dreigingen. Hierbij is de deelnemers ook gevraagd 
+casus van de witwasdreigingen in te brengen. Dit leverde echter geen concrete 
+witwascasuïstiek op; wel bood het inzicht in een aantal casus waarbij mogelijk 
+sprake is van witwassen. De bespreking leidde ertoe dat sommige dreigingen 
+werden samengenomen: de dreigingen ‘witwassen via het fysiek (ver)plaatsen van 
+contant geld via de lucht’ en ‘witwassen via het fysiek (ver)plaatsen van contant 
+geld via de zee’ zijn samengevoegd tot één witwasdreiging, en de dreiging ‘witwas-
+sen via offshore vennootschappen’ werd onderdeel van de dreiging ‘witwassen via 
+rechtsvormen’. Hierna kregen de experts de mogelijkheid hun eerste oordelen aan 
+te passen en volgde de tweede en definitieve identificatieronde voor Bonaire. Ver-
+volgens vonden voor Sint Eustatius en Saba de eerste en tweede identificatierondes 
+(inclusief een bespreking van de resultaten van de eerste ronde) plaats.  
+ 
+Tabel 17 Grootste witwasdreigingen BES-eilanden 
+ Bonaire (n=11) Sint Eustatius (n=9) Saba (n=9) 
+ Aantal deelnemers Aantal deelnemers Aantal deelnemers 
+ Witwassen via besteding van grote 9 7 9 
+hoeveelheden contant geld in 
+vastgoed/onroerend goed 
+ Witwassen via ondergronds bankieren 9 6 5 
+(bijv. Hawala-bankieren) 
+ Witwassen via het fysiek (ver)plaatsen 8 6 5 
+van contant geld via de zee en/of lucht 
+ Witwassen via fingeren van bedrijfsomzet 7 4 2 
+ Witwassen via rechtsvormen (stichtingen, 6 3 2 
+bv’s, offshore, e.d.) 
+ Witwassen via banken 6 3 3 
+(kredietinstellingen) met een vergunning 
+van DNB (girale transacties/stortingen of 
+contante stortingen) 
+ Witwassen via aannemers (nieuwbouw / 5 3 - 
+vastgoed) 
+ Witwassen via projectontwikkelaars 4 5  
+ Witwassen via notarissen 4 4 5 
+ Witwassen via geldtransactiekantoren die 4 3 2 
+zonder DNB-vergunning opereren 
+ Witwassen via makelaars - - 2 
+ Witwassen via constructies bij - - 2 
+trustkantoren zonder DNB-vergunning 
+ 
+ 
+Tabel 17 geeft de resultaten van de tweede identificatieronde voor ieder eiland 
+92
+weer, waarbij de kolom ‘aantal deelnemers’ inzicht biedt in het aantal deelnemers 
+dat de betreffende dreiging heeft geïdentificeerd. Hoewel de BES-eilanden qua 
+contextkenmerken behoorlijk van elkaar verschillen (zie hoofdstuk 3), identifi-
+ceerden de experts voor de drie eilanden grotendeels dezelfde grootste witwas-
+dreigingen. Voor elk eiland zijn meerdere vastgoedgerelateerde witwasmethoden 
+aangemerkt als grootste witwasdreiging. ‘Witwassen via besteding van grote 
+hoeveelheden contant geld in vastgoed/onroerend goed’ is voor elk eiland het 
+vaakst geïdentificeerd als grootste witwasdreiging. Hierbij kan het, zo blijkt uit de 
+                                               
+92
+ Het totale overzicht van deze exercitie waarin ook de minder grote witwasdreigingen zijn opgenomen, is te 
+vinden in bijlage 5. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  49 
+
+ 
+Tabel 18 Definitieve lijst van zeven grootste witwasdreigingen BES-
+eilanden 
+1 Witwassen via banken (kredietinstellingen) met een vergunning van DNB (girale transacties/stortingen of 
+contante stortingen) 
+2 Witwassen in vastgoed-/onroerendgoedsector 
+• via dienstverleners die onder Wwft BES-toezicht vallen: notarissen en makelaars; 
+• via dienstverleners die niet onder Wwft BES-toezicht vallen: aannemers, projectontwikkelaars en handelaren 
+in bouwmaterialen; 
+• via besteding van grote hoeveelheden contant geld; 
+• via ABC-transacties. 
+3 Witwassen via ondergronds bankieren incl. geldtransactiekantoren die zonder DNB-vergunning opereren 
+4 Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht 
+5 Witwassen via rechtsvormen 
+6 Witwassen via fingeren van bedrijfsomzet 
+7 Witwassen via loan back constructies 
+ 
+ 
+Box 4 Weinig witwascasuïstiek maar veel verdachte transactie 
+dossiers 
+Uit de expertmeetings, interviews en deskresearch blijkt dat er sinds de eerste NRA 
+BES weinig daadwerkelijke witwascasuïstiek bekend is in Caribisch Nederland. Het 
+beperkt aantal casus wordt in dit hoofdstuk beknopt beschreven. Het feit dat er 
+weinig casuïstiek is, betekent echter niet dat witwassen niet of nauwelijks voorkomt 
+op de BES-eilanden. Uit de FANO-enquête, interviews en expertmeetings blijkt dat 
+de prevalentie van een groot aantal witwasdreigingen in meer of mindere mate 
+aannemelijk wordt geacht. Bij sommige witwasmethoden bestaan (zeer) sterke 
+vermoedens dat criminelen deze hanteren op (één van) de BES-eilanden.  
+ 
+De ongebruikelijke transacties (OT’s) die door de FIU-Nederland verdacht zijn 
+verklaard en waartoe een dossier is opgesteld, wijzen ook op de aannemelijkheid 
+van bepaalde witwasdreigingen op Bonaire, Sint Eustatius en/of Saba. Volgens het 
+jaarverslag van de FIU-Nederland over het jaar 2020 ontving deze organisatie dat 
+jaar 858 meldingen van OT’s in Caribisch Nederland, waarvan 107 transacties 
+verdacht zijn verklaard (VT’s). Verreweg de meeste OT’s zijn in 2020 door banken 
+gemeld (701). Verder heeft de Douane Caribisch Nederland relatief veel OT’s 
+gemeld (97). De overige meldingen kwamen van notarissen (22), handelaren in 
+voertuigen (16), belastingadviseurs (15), handelaren in edelstenen (6) en make-
+laars (1). Zowel het aantal OT’s als het aantal VT’s is in 2020 een stuk lager dan in 
+2019 (1.031 OT’s en 276 VT’s). De VT’s in 2020 zijn gebundeld in 31 dossiers. In 
+2019 lag het aantal dossiers op 26 dossiers (met een gezamenlijke waarde van 
+94
+meer dan 21 miljoen euro).  
+ 
+De FIU-Nederland heeft op verzoek van het WODC op geaggregeerde wijze een 
+overzicht gegeven van de potentiële witwasmethoden en vormen van criminaliteit in 
+de VT-dossiers voor de jaren 2019 en 2020 in Caribisch Nederland. De genoemde 
+aantallen hebben betrekking op het totaal voor alle BES-eilanden; aantallen per 
+eiland konden niet worden aangeleverd door de FIU-Nederland. 
+ 
+ 
+                                               
+94
+  FIU-Nederland (2020, 2021). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  51 
+
+ 
+kunnen op verschillende manieren misbruik maken van de diensten van banken: 
+misbruik van bancaire producten en diensten via geldstortingen of -transacties 
+95
+onder het niveau van registratie- en rapportage-drempels; het openen van 
+bankrekeningen waarbij gevolmachtigden (of stromannen) de identiteit van de 
+beheerders verhullen; het wisselen van bankbiljetten met een lage coupure voor 
+bankbiljetten met een hoge coupure; contant geld in het girale systeem inbrengen 
+en dergelijke. Witwassen via vergunde banken wordt bemoeilijkt voor criminelen 
+doordat de Wwft BES kredietinstellingen verplicht op basis van objectieve en/of 
+subjectieve indicatoren ongebruikelijke transacties aan de FIU-Nederland te melden; 
+ook dienen banken op basis van deze wet cliëntonderzoek te verrichten. 
+ 
+Binnen het witwasproces gericht op de integratie van crimineel geld kan een 
+crimineel misbruik maken van verschillende kanalen. Om contant crimineel geld  
+in het financiële systeem te plaatsen kan een crimineel misbruik maken van de 
+diensten van vergunde banken, en ook van bijvoorbeeld aannemers en handelaren 
+in bouwmaterialen. Kanalen die kunnen worden misbruikt om giraal crimineel geld 
+wit te wassen, zijn onder meer notarissen en makelaars. Bij misbruik van deze 
+kanalen worden – vanwege het girale karakter van transacties – veelal ook de 
+diensten van vergunde banken misbruikt. Witwassen via girale transacties via 
+vergunde banken kan dan ook vaak onderdeel zijn van andere witwasmethoden. 
+ 
+Concrete casuïstiek van witwassen via vergunde banken in Caribisch Nederland in 
+de afgelopen jaren is niet bekend, maar – zoals genoemd in box 4 – heeft de FIU-
+Nederland in de periode 2019-2020 in totaal 30 VT-dossiers opgesteld die mogelijk 
+betrekking hebben op deze witwasdreiging. 
+Witwassen in vastgoed-/onroerendgoedsector 
+De vastgoed-/onroerendgoedsector in Caribisch Nederland is gevoelig voor witwas-
+praktijken, zo blijkt uit het literatuuronderzoek, de expertmeetings en verdiepende 
+interviews. Onder de witwasdreiging ‘witwassen in vastgoed-/onroerendgoedsector’ 
+vallen verschillende witwasmethoden. Er kan worden witgewassen via dienstver-
+leners die onder Wwft BES-toezicht vallen (notarissen en makelaars), via dienst-
+verleners die niet onder Wwft BES-toezicht vallen (aannemers, projectontwikkelaars 
+96
+en handelaren in bouwmaterialen ), via besteding van grote hoeveelheden contant 
+geld (bijvoorbeeld bij dienstverleners die niet onder de reikwijdte van de Wwft BES 
+vallen) en via ABC-transacties. 
+ 
+Hoewel daadwerkelijke casuïstiek van witwassen in de vastgoed-/onroerendgoed-
+sector in de afgelopen jaren zeer beperkt is (de FIU-Nederland meldt één casus op 
+de eigen website, zie box 5), bestaan er sterke vermoedens dat crimineel geld wordt 
+witgewassen in deze sector. De FIU-Nederland heeft in de periode 2019-2020 in 
+totaal 29 VT-dossiers opgesteld die mogelijk betrekking hebben op witwassen in de 
+vastgoed-/onroerendgoedsector. Omdat investeerders in de Caribisch-Nederlandse 
+vastgoed-/onroerendgoedsector meestal Europees-Nederlanders of (in mindere 
+mate) Oost-Europeanen (meer specifiek: Russen en Polen) zijn, is het voor Caribisch 
+Nederlandse opsporingsdiensten lastig te achterhalen of het geld dat in de vast- 
+                                               
+95
+  Een overzicht van objectieve indicatoren waarbij in het kader van de Wwft BES een transactie gemeld dient  
+te worden aan het meldpunt ongebruikelijke transacties, is te vinden op de website van de FIU-Nederland. Zie: 
+https://bes.fiu-nederland.nl/nl/dienstverleners/kredietinstellingen-geldtransactiekantoren-ea/objectieve-
+indicatoren. 
+96
+  Vanaf 1 juli 2021 vallen handelaren in bouwmaterialen wel onder Wwft BES-toezicht. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  53 
+
+ 
+Box 5 Casus “Witwassen in vastgoed-/onroerendgoedsector” 
+De FIU-Nederland beschrijft op de eigen website een witwascasus waarbij crimineel 
+verkregen geld onder meer werd gebruikt voor de aankoop van onroerend goed op 
+Bonaire. Het betreft een casus van een producent van biodiesel die jarenlang op 
+verschillende manieren fraude heeft gepleegd en geld heeft witgewassen. Tijdens 
+een opsporingsonderzoek naar de valsheid in geschrifte werd ontdekt dat er moge-
+lijk ook sprake was van witwassen. Tijdens het opsporingsonderzoek bleken meer-
+dere meldingen van ongebruikelijke transacties bij de FIU-Nederland te zijn gedaan, 
+die varieerden van overboekingen naar bankrekeningen (derdengelden-rekeningen) 
+op Bonaire tot de contante aankoop van een auto door een van de bv’s van de ver-
+dachte. Daarnaast bleek een hoeveelheid bankbiljetten van € 500 door zijn onder-
+neming te zijn afgestort en was er een melding van de Douane over documenten 
+met betrekking tot de aankoop van onroerend goed op Bonaire. Het onderzoek  
+wees uit dat 2 miljoen euro op privé-bankrekeningen op Bonaire terechtkwam. Deze 
+bankrekeningen waren niet bekend bij de Nederlandse fiscus. Het geld werd onder 
+meer gebruikt voor de aankoop van onroerend goed op Bonaire. Dit leidde tot 
+vonnissen (ECLI:NL:RBOVE:2019:3019) in eerste aanleg voor valsheid in geschrifte 
+en (gewoonte-) witwassen van een bedrag van 3 miljoen euro, variërend van voor-
+waardelijke celstraffen voor ondersteunende handelingen tot 2,5 jaar gevangenis-
+straf, waarvan 10 maanden voorwaardelijk voor de directeur zelf. Het hoger beroep 
+loopt nog. 
+a
+ www.fiu-nederland.nl/nl/geld-uit-de-hoge-hoed-0. 
+ 
+Witwassen via ondergronds bankieren inclusief onvergunde geldtransactie-
+kantoren 
+Ondergronds bankieren is een vorm van financiële dienstverlening die buiten het 
+formele financiële stelsel wordt aangeboden en waarbij voornamelijk contant geld 
+naar het buitenland wordt overgeboekt. Onder de noemer ‘ondergronds bankieren’ 
+vallen niet alleen hawala-bankieren (zie hieronder) en soortgelijke vormen van 
+bankieren maar kunnen ook de diensten van onvergunde geldtransactiekantoren 
+worden geschaard. Voor criminelen hebben de verschillende vormen van onder-
+gronds bankieren een aantal voordelen. Zo kunnen internationale betalingen worden 
+gedaan zonder dat gebruik wordt gemaakt van de diensten van dienstverleners die 
+onder de reikwijdte van de Wwft BES vallen, waardoor het risico van een melding 
+als ongebruikelijke transactie kan worden vermeden. 
+ 
+Ondergronds bankieren kent in het Midden-Oosten en Verre Oosten een eeuwen-
+oude traditie en wordt ook wel aangeduid als ‘hawala’ (Midden-Oosten en India), 
+‘hundi’ (Pakistan) of ‘Fei–chien’ (China). Bij ondergronds bankieren wordt gebruik-
+gemaakt van een systeem dat gebaseerd is op vertrouwen en verrekening. Volgens 
+dit systeem zorgt een netwerk van bankiers ervoor dat ingelegd geld aan de ene 
+kant van de wereld aan de andere kant van de wereld uitbetaald kan worden. Het 
+geld wordt onderling door de bankiers verrekend, met als gevolg dat fysiek trans-
+port van contant geld bij deze vorm van ondergronds bankieren slechts in beperkte 
+98
+mate nodig is. Uit de verdiepende interviews wordt niet geheel duidelijk in 
+hoeverre en op welke wijze sprake is van ondergronds bankieren in Caribisch 
+Nederland. Genoemd is dat ondergronds bankieren mogelijk voorkomt binnen de 
+Chinese gemeenschap op de drie BES-eilanden en binnen de gemeenschap van 
+illegale Zuid-Amerikaanse werknemers op Bonaire. Harde bewijzen hiervan ont- 
+                                               
+ 
+98
+https://magazines.openbaarministerie.nl/inzicht/2019/03/ondergronds-bankieren. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  55 
+
+ 
+99
+kustlijn van Bonaire geïntensiveerd moet worden. Hoewel de Raad voor de 
+Rechtshandhaving dit opmerkt ten aanzien van het onderwerp ‘mensenhandel en 
+-smokkel’, biedt een slecht bewaakte kustlijn ook mogelijkheden voor fysieke 
+verplaatsing van contact geld via de zee. 
+ 
+Er bestaan zoals gezegd geen concrete casus van deze witwasdreiging. Wel heeft  
+de FIU-Nederland in de periode 2019-2020 één VT-dossier opgesteld dat mogelijk 
+betrekking heeft op witwassen via fysiek verplaatsen van contant geld via zee en/of 
+lucht. 
+Witwassen via rechtsvormen 
+Criminelen kunnen ten behoeve van het witwassen van het crimineel verkregen geld 
+gebruikmaken van rechtsvormen. Een crimineel kan tussenpersonen inzetten die 
+voor hem of haar rechtsvormen oprichten, waarmee de identiteit van de Ultimate 
+Beneficial Owner (UBO) van de rechtsvorm – in casu de crimineel – verhuld kan 
+worden. Hoe meer rechtsvormen een crimineel – al dan niet via tussenpersonen – 
+hanteert, hoe hoger de complexiteit van de witwasmethode. Criminelen kunnen 
+tussen de verschillende rechtsvormen ook betalingen (laten) verrichten, wat ook 
+weer mogelijkheden biedt om andersoortige witwasmethoden te hanteren. Zo kan 
+witwassen bijvoorbeeld plaatsvinden via over-/onderfacturering tussen verschillende 
+bv’s die in feite in handen zijn van dezelfde crimineel. Sommige rechtsvormen zijn 
+relatief eenvoudig op te richten, omdat er (nagenoeg) geen kapitaalvereiste aan 
+verbonden is, zoals eenmanszaken, stichtingen, bv's en cv's. Bij bepaalde rechts-
+vormen is een notariële akte ook niet vereist. Bij onder meer de oprichting van bv’s, 
+naamloze vennootschappen (nv’s) en stichtingen is dit wel vereist.  
+ 
+Offshore vennootschappen zijn ook een rechtsvorm waarmee in beginsel crimineel 
+verkregen geld witgewassen kan worden. Een offshore vennootschap is een naar 
+buitenlands recht opgerichte, rechtspersoonlijkheid bezittende privaatrechtelijke 
+kapitaalvennootschap die in het rechtsgebied van oprichting en/of statutaire vesti-
+ging geen economische bedrijvigheden mag ontplooien c.q. ontplooit en waarvan de 
+werkelijke gerechtigde(n) in een ander land woont (wonen) dan waar de vennoot-
+schap gevestigd is. Een offshore vennootschap bevat elementen die de anonimiteit 
+van de personen vergroten, zoals een minimum aan deponeringsverplichtingen in 
+100
+openbare registers. 
+ 
+In de verdiepende interviews kwam naar voren dat het in Caribisch Nederland 
+mogelijk zou zijn om de aandelenoverdracht bij bv’s en nv’s onderhands te laten 
+plaatsvinden, dus zonder dat daarbij een notaris een rol speelt. Dit zou een 
+crimineel in beginsel mogelijkheden bieden om op verhulde wijze bijvoorbeeld 
+vastgoed/onroerend goed dat ondergebracht is in een bv of nv, over te dragen naar 
+een ander persoon. Voorbeeld: persoon A draagt zijn aandelen van een bv – met 
+                                               
+99
+  Raad voor de Rechtshandhaving (2019). 
+100
+ Van Koningsveld (2015) noemt enkele bijkomende kenmerken van offshore vennootschappen (die niet voor elk 
+rechtsgebied hoeven te gelden): (1) de overheid in het land van oprichting heft geen directe belasting (wel dient 
+de offshore vennootschap jaarlijks een vaste vergoeding te betalen aan de overheid); (2) de offshore vennoot-
+schap heeft geen eigen fysiek kantoor(adres), personeel, communicatiemiddelen en dergelijke; (3) de offshore 
+vennootschap moet in het land van vestiging beschikken over een agent (registered agent) en kantooradres 
+(registered office); (4) de offshore vennootschap wordt beheerd en bestuurd door (een medewerker van) een 
+lokaal trust- of advocatenkantoor; (5) het gaat feitelijk vaak om ‘eenmansvennootschappen’ met transacties 
+tussen verbonden ondernemingen in dezelfde structuur. Volgens Van Koningsveld vallen publieke rechtsperso-
+nen, allerlei vormen van stichtingen en trusts niet onder het begrip offshore vennootschap. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  57 
+
+ 
+heeft geleend. Hoewel het bij de notaris of makelaar lijkt alsof persoon A een regu-
+liere hypotheek heeft afgesloten, heeft hij in werkelijkheid zijn eigen crimineel ver-
+kregen vermogen bij persoon B (bijvoorbeeld een familielid of vriend) ondergebracht 
+met de instructie om zogenaamd een privélening met persoon A overeen te komen. 
+Bij grote bedragen worden loan back constructies complexer van aard. In die geval-
+len wordt niet meer gebruikgemaakt van particuliere leners, maar worden er finan-
+ciële instellingen, bedrijven, trustkantoren en buitenlandse offshore vennootschap-
+pen bij betrokken. 
+ 
+Van deze witwasdreiging zijn geen casus bekend. Ook heeft de FIU-Nederland in de 
+periode 2019-2020 geen VT-dossiers opgesteld die mogelijk wijzen op de prevalen-
+tie van deze witwasdreiging. In de verdiepende interviews en tweede expertmeeting 
+kwam echter wel naar voren dat DNB signalen heeft ontvangen dat loan back con-
+structies voorkomen op Bonaire. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  59 
+
+ 
+interventie niet opportuun acht en de verdachte transacties ter beschikking stelt aan 
+andere overheidsdiensten conform de wettelijke mogelijkheden, kunnen ze een 
+bijdrage leveren aan andere, bijvoorbeeld bestuursrechtelijke of fiscaal-rechtelijke, 
+interventies. Naast deze operationele insteek kunnen zij ook worden gebruikt als 
+analysedata op zowel tactisch als strategisch niveau, bijvoorbeeld om meer inzicht 
+te krijgen in opvallende financiële gedragingen van een bepaald type verdachte of 
+om bij te dragen aan in- en overzicht ten aanzien van ondermijnings- en criminali-
+105
+teitsbeelden. 
+ 
+Het KPCN heeft tot taak te zorgen voor de handhaving van de rechtsorde en het 
+verlenen van hulp. De organisatie wordt bij een deel van haar taken ondersteund 
+door de KMar die op de BES-eilanden de volgende politietaken uitvoert: (1) het 
+bestrijden van criminaliteit samen met de lokale politie en de kustwacht, (2) grens-
+bewaking op de eilanden van Caribisch Nederland, (3) alle voorkomende politietaken 
+op Flamingo Airport op Bonaire, en (4) het verzorgen van basispolitiezorg op Saba 
+106
+en Sint Eustatius (samen met de politie). 
+ 
+Sinds 10 oktober 2010 hebben Curaçao, Sint Maarten en de BES-eilanden elk een 
+eigen OM met een eigen hoofdofficier van justitie. Het OM Caribish Nederland is 
+belast met de strafrechtelijke handhaving van de rechtsorde en met andere bij wet 
+vastgestelde taken. Deze hoofdtaak is te verdelen in de opsporing van strafbare 
+feiten, de vervolging van strafbare feiten en het toezicht op de uitvoering (executie) 
+107
+van strafvonnissen. Personen die worden verdacht van witwassen of terrorisme-
+financiering, kunnen door het OM Caribish Nederland worden vervolgd om daarna 
+eventueel te worden berecht. Het ontnemen van vermogen dat uit strafbare feiten  
+is verkregen, is ook de verantwoordelijkheid van het OM Caribish Nederland. Sinds 
+2020 is er binnen Caribish Nederland een officier van justitie aangesteld die zich 
+specifiek richt op het onderwerp witwassen. 
+ 
+Het RST is een samenwerkingsverband binnen het Koninkrijk der Nederlanden dat 
+verantwoordelijk is voor de bestrijding van zware en georganiseerde grensover-
+schrijdende criminaliteit op Aruba, Bonaire, Curaçao, Saba, Sint Maarten en Sint 
+Eustatius. Bij dit rechercheteam werken zowel rechercheurs van de politie die  
+vanuit Europees Nederland zijn uitgezonden als rechercheurs die afkomstig zijn  
+uit de verschillende korpsen van de eilanden. Sinds begin 2016 is het Team 
+Bestrijding Ondermijning (TBO) ondergebracht bij het RST. Het TBO, gevestigd  
+op Curaçao, is een specialistisch rechercheteam dat bestaat uit medewerkers van  
+de politie, de FIOD en het OM. De strategische partners van het TBO zijn de lokale 
+Landsrecherches die een taakstelling hebben gelijk aan de Rijksrecherche. 
+ 
+De Douane Caribisch Nederland, onderdeel van de Belastingdienst Caribisch 
+Nederland, speelt ook een rol bij het tegengaan van witwassen. De douane richt  
+zich enerzijds op particulieren als het gaat om de reizigersbagage en bij het even-
+tueel importeren van persoonlijke goederen, anderzijds op ondernemingen die 
+handelsgoederen, grond- en hulpstoffen naar Caribisch Nederland importeren.  
+De douane ziet ook toe op het grensoverschrijdend verkeer van liquide middelen. 
+ 
+De Belastingdienst Caribisch Nederland is ook een afzonderlijke entiteit met een 
+taak bij het tegengaan van witwassen in Caribisch Nederland. In dit kader zijn 
+                                               
+105
+ FIU-Nederland (2020). 
+106
+  www.defensie.nl/onderwerpen/taken-in-nederland/caribisch-gebied. 
+107
+ Leertouwer en Zaalberg (2015). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  61 
+
+ 
+rekening gehouden met wijzigingen van bestaande wet- en regelgeving of nieuwe 
+wet- en regelgeving en andere beleidsinstrumenten die na mei 2021 zijn of worden 
+ingevoerd. In deze NRA ligt daarom ook de focus op het beleidsinstrumentarium dat 
+tot en met mei 2021 bestond. In paragraaf 5.6 wordt wel uitvoerig ingegaan op de 
+wijziging van de Wwft BES die per 1 juli 2021 van kracht wordt. 
+ 
+Tabel 20 Beleidsinstrumentarium met substantiële bijdrage in preventie 
+en bestrijding witwassen 
+Internationale wet- en 
+a
+regelgeving Nationale wet- en regelgeving Overige beleidsinstrumenten 
+• FATF-instrumenten • Wet ter voorkoming van witwassen en • Beleidsregel AFM en DNB toepassing en 
+(aanbevelingen, financieren van terrorisme BES uitvoering Wfm BES en Wwft BES 2012  
+publicaties, e.d.) • Wet financiële markten BES  • Richtlijnen, handreikingen en 
+ • Wetboek van Strafrecht BES  beleidsplannen 
+• Wetboek van Strafvordering BES • Samenwerkingsverbanden:  
+• Belastingwet BES  tussen organisaties op Bonaire, Sint 
+• Douane- en accijnswet BES Eustatius en/of Saba 
+ met andere eilanden in het Koninkrijk 
+(Aruba, Curaçao en/of Sint Maarten)  
+ met organisaties in Europees Neder-
+land 
+a 
+Ook de Wet op het notarisambt BES, de Wet op de Kamers van Koophandel en Nijverheid BES, de Kadasterwet BES en de 
+Wet politiegegevens BES werden besproken in de derde expertmeeting. Naar het oordeel van de experts leveren deze 
+vooral een ondersteunende bijdrage. Deze zijn niet opgenomen in de lijst van beleidsinstrumenten met een directe 
+substantiële bijdrage bij de preventie en bestrijding van witwassen op de BES-eilanden.  
+ Internationale wet- en regelgeving 
+FATF-instrumenten 
+Het Caribisch-Nederlandse beleid ter preventie en bestrijding van witwassen is 
+gebaseerd op de aanbevelingen van de FATF. Leden van de FATF, waaronder Neder-
+land, zijn gebonden aan de aanbevelingen gericht op het nemen van preventieve en 
+repressieve maatregelen door meldingsplichtige dienstverleners, en maatregelen ten 
+aanzien van nationale rechtsstelsels en internationale samenwerking. Daarnaast ziet 
+de FATF toe op de juiste werking en de effectiviteit van die (wettelijke) regels. In dit 
+kader voert de FATF periodiek een landenevaluatie uit om na te gaan in hoeverre 
+het land tegemoetkomt aan de aanbevelingen. In 2020/2021 wordt voor Nederland 
+weer zo’n landenevaluatie uitgevoerd. 
+ 
+Beleid gebaseerd op de FATF-aanbevelingen biedt aangrijpingspunten voor de op-
+sporing, handhaving en het toezicht ten behoeve van de preventie en repressie van 
+witwassen. Anti-witwasbeleid richt zich veelal op het onaantrekkelijk maken van het 
+gebruik van bepaalde witwasmethoden en het voorkomen en bestrijden van nieuwe 
+witwasmethoden door criminelen, het zogenoemde waterbedeffect. Met het oog 
+hierop verschijnen er periodiek publicaties van de FATF, opgesteld binnen de Risks, 
+Trends and Methods Group (RTMG), om landen te ondersteunen bij het identificeren 
+en tegengaan van deze nieuw ontwikkelde witwasmethoden of nieuwe verschij-
+109
+ningvormen binnen gangbare witwasmethoden. 
+                                               
+109 
+ https://www.fatf-gafi.org/publications/methodsandtrends/?hf=10&b=0&s=desc(fatf_releasedate). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  63 
+
+ 
+Wetboek van Strafrecht BES (WvSr BES) en Wetboek van Strafvordering 
+(WvSv BES) 
+WvSr BES bepaalt wat de strafbare feiten zijn en welke straffen ervoor kunnen 
+worden uitgesproken, WvSv BES bepaalt hoe strafbare feiten vervolgd worden.  
+De artikelen 435a-435d van het WvSr BES beschrijven de omstandigheden waarin 
+iemand zich schuldig maakt aan witwassen. 
+Belastingwet BES en Douane- en accijnswet BES 
+De fiscale bepalingen zijn met name gebaseerd op de Belastingwet BES en de 
+111
+Douane- en accijnswet BES. De Belastingwet BES regelt de heffing en invordering 
+van de meeste rijksbelastingen in Caribisch Nederland. Fiscale fraude, een grond-
+delict van witwassen, wordt door middel van fiscale wetgeving tegengegaan. Verder 
+controleert de Belastingdienst Caribisch Nederland op basis van fiscale wetgeving op 
+onverklaarbaar vermogen. Het toezicht van de Douane Caribisch Nederland bij de 
+in-, uit- en doorvoer van goederen (onder meer) plaats op basis van de Douane- en 
+accijnswet BES. 
+ Overige beleidsinstrumenten 
+Richtlijnen, handreikingen en beleidsplannen 
+Onder de FATF instrumenten is al gewezen op de publicaties van de FATF. Deze 
+periodiek verschijnende publicaties bieden informatie over nieuwe witwasfeno-
+menen, -methoden of indicatoren voor de identificatie van deze witwasfenomenen  
+of -methoden. De Wwft BES-toezichthouders, opsporingsdiensten en andere hand-
+havers en de FIU-Nederland hanteren en ontwikkelen een grote diversiteit aan 
+richtlijnen, beleidsplannen en handreikingen, waaronder de Beleidsregel AFM en 
+DNB toepassing en uitvoering Wfm BES en Wwft BES 2012 (zie hieronder). In de 
+derde expertmeeting werd genoemd dat ook seminars een rol kunnen spelen bij de 
+voorlichting over de preventie en/of bestrijding van witwassen en over de inhoud 
+van wet- en regelgeving. Daarnaast kunnen seminars helpen bij het verspreiden van 
+handreikingen. 
+ 
+De Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012 
+richt zich op markttoegang en dienstverrichting van financiële ondernemingen 
+vanuit een vestiging in het buitenland, de geschiktheid van de dagelijkse beleids-
+bepalers en commissarissen, toetsingen van hun betrouwbaarheid en eventueel 
+conflicterende belangen, toezicht op de naleving van een integere beleidsuitoefe-
+ning, waaronder tegemoetkoming aan ‘Provisions and Guidelines on the Detection 
+and Deterrence of Money Laundering and Terrorist Financing’ van de CBCS, te 
+volgen procedures en maatregelen met betrekking tot het melden van incidenten  
+en op de harmonisatie van beleid van AFM, DNB en CBCS. 
+Samenwerkingsverbanden 
+Er zijn diverse samenwerkingsverbanden ingericht met het oog op de preventie en 
+repressie van witwassen op de BES-eilanden. Het betreft samenwerkingsverbanden 
+tussen organisaties op Bonaire, Sint Eustatius en/of Saba, met de andere eilanden 
+in het Koninkrijk (Aruba, Curaçao en/of Sint Maarten) en met organisaties in 
+Europees Nederland. Omdat de samenwerkingsverbanden vaak niet alleen in deze 
+kaders te plaatsen zijn, wordt hieronder dit onderscheid losgelaten. 
+                                               
+111
+ www.belastingdienst-cn.nl/bcn/nl/organisatie/taken-van-de-douane. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  65 
+
+ 
+ Ter versterking van de gezamenlijke aanpak van financieel-economische crimina-
+liteit ondertekenden OM Caribisch Nederland, het KPCN, de KMar, het RST, FIU-
+NL, de FIOD en het Afpakteam Curaçao in maart 2018 een samenwerkingscon-
+venant. Het convenant beoogt de informatie-uitwisseling tussen de diensten met 
+118
+betrekking tot de aanpak van fraude en witwassen te verbeteren. 
+ 
+Naast genoemde samenwerkingsverbanden worden momenteel de mogelijkheden 
+voor een Regionaal Informatie- en Expertise Centrum (RIEC) voor de BES-eilanden 
+verkend. In Europees Nederland bestaan er tien RIEC’s, die zijn opgericht met het 
+oog op de bestrijding van de georganiseerde, ondermijnende criminaliteit. Deze 
+organisaties verbinden de informatie, expertise en krachten van verschillende 
+overheidsinstanties, zoals gemeenten, provincies, het OM, de Nationale Politie, de 
+Belastingdienst, de Belastingdienst/Toeslagen, de Douane, de FIOD, de Inspectie 
+Sociale Zaken en Werkgelegenheid, de KMar en de Immigratie- en Naturalisatie-
+dienst (IND). Het Landelijk Informatie- en Expertise Centrum (LIEC) heeft een 
+119
+ondersteunende en faciliterende rol. 
+ Wijziging van de Wwft BES 
+In paragraaf 5.4 werd al opgemerkt dat de Wwft BES per 1 juli 2021 op ver-
+schillende onderdelen wijzigt. Daarmee komt de wet in lijn met de Europees-
+Nederlandse Wwft. In de memorie van toelichting bij de wijziging van de Wwft 
+120
+BES wordt een beschrijving gegeven van de verschillende wijzigingen. Deze 
+paragraaf beschrijft op beknopte wijze de meest relevante wijzigingen: 
+ Financiële instellingen worden verplicht om gedragslijnen, procedures en maat-
+regelen op te stellen om de risico’s op witwassen en terrorismefinanciering te 
+beperken en beheersen, de compliancefunctie te verankeren in de bedrijfsvoering 
+en ook op groepsniveau zorg te dragen voor naleving van de regels. Ook worden 
+zij verplicht de identificatie en beoordeling van hun risico’s op witwassen en 
+terrorismefinanciering vast te leggen, actueel te houden en op verzoek aan de 
+Wwft BES-toezichthouders te verstrekken.  
+ De reikwijdte van de Wwft BES wordt uitgebreid met handelaren in bouwmateria-
+len. Deze worden verplicht cliëntenonderzoek te verrichten en ongebruikelijke 
+transacties te melden bij contante betalingen boven de grens van USD 11.000. 
+ De Wwft BES en ook de Wfm BES worden aangepast zodat AFM, BTWwft en DNB 
+gegevens of inlichtingen kunnen verstrekken aan de Belastingdienst, de FIOD, de 
+KMar, KPCN, de FIU-Nederland en het OM Caribisch Nederland. De informatie-
+deling betreft het verstrekken van toezichtvertrouwelijke informatie die de toe-
+zichtautoriteit in het kader van haar toezichttaak op grond van de Wwft BES of  
+de Wfm BES heeft verkregen. Ook wordt een aparte grondslag gecreëerd voor de 
+FIU-Nederland om gegevens te delen met het OM Caribisch Nederland en andere 
+opsporingsautoriteiten. 
+ In de aangepaste Wwft BES wordt expliciet opgenomen dat de geheimhoudings-
+plicht waaraan notarissen en advocaten zijn gehouden uit hoofde van hun beroep 
+niet onverkort geldt voor hen die onder de reikwijdte van de Wwft BES vallen. 
+Daarnaast wordt ook geëxpliciteerd dat notarissen en advocaten niet gehouden 
+zijn aan de geheimhoudingsplicht bij het voldoen aan hun meldplicht aan de FIU-
+                                               
+118
+  www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/06/30/plan-van-aanpak-
+witwassen/plan-van-aanpak-witwassen.pdf. 
+119
+  Van der Veen en Heuts (2020a). 
+120
+  Kamerstuk 13 mei 2020. Memorie van toelichting wijziging van de Wwft BES. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  67 
+
+ 
+Specialistische politie- en justitiekennis en ervaring  
+In Caribisch Nederland is sprake van een gebrek aan kennis en data over financieel-
+economische criminaliteit bij lokale opsporingsdiensten en andere handhavers. Zo 
+122
+bleek al uit de eerste NRA BES en dit kwam in de interviews en de derde expert-
+meeting van de voorliggende NRA BES opnieuw naar voren. Met het oog hierop is 
+geïnvesteerd in een driejarig leergang voor medewerkers van het KPCN om deze 
+123
+specialistische kennis te vergroten. Daarnaast wordt in het RST samengewerkt 
+om zware en georganiseerde grensoverschrijdende criminaliteit te bestrijden, ook  
+op de BES-eilanden. Ook worden specialisten ingevlogen vanuit Europees Nederland 
+voor kortlopende projecten om de lokaal aanwezige kennis en expertise in Caribisch 
+Nederland aan te vullen. In andere gevallen werken specialisten via een tijdelijke 
+aanstelling een aantal jaren in Caribisch Nederland. Daarbij plaatsen sommige 
+geïnterviewden wel de kanttekening dat die personen na enkele jaren weer worden 
+vervangen door nieuwkomers, hetgeen mogelijk ingrijpt op de continuïteit van de 
+preventie en bestrijding van witwassen op de BES-eilanden. 
+Wet Bibob-achtig instrument 
+In de eerste NRA BES kwam aan bod dat een beleidsinstrument zoals de Wet 
+bevordering integriteitsbeoordelingen door het openbaar bestuur (Wet Bibob) in 
+124
+Europees Nederland momenteel ontbreekt op de BES-eilanden. Met dit instrument 
+kan de integriteit van houders en/of aanvragers van vergunningen en subsidies 
+worden getoetst. Met name op Bonaire kan dit nuttig zijn, meer specifiek als toets 
+richting ondernemers/investeerders op de Bonairiaanse vastgoedmarkt. In de derde 
+expertmeeting bleek dat er nog steeds een grote behoefte bestaat aan een dergelijk 
+instrument, en dat de mogelijkheden hiervoor momenteel worden onderzocht. 
+UBO-register 
+Om de mate van anonimiteit waarmee methoden om te kunnen witwassen of 
+terrorisme te financieren te beperken, is in Europees Nederland in 2020 het UBO-
+register in werking gesteld. In dit register worden UBO’s van vennootschappen en 
+andere juridische entiteiten geregistreerd. De verplichting om de UBO te registreren 
+geldt voor een groot deel van de juridische entiteiten in het handelsregister; dit 
+betreft onder meer bv’s, nv’s, stichtingen, verenigingen, coöperaties, commanditaire 
+ 125
+vennootschappen en vennootschappen onder firma’s. Nu het Europees-Neder-
+landse UBO-register is geïmplementeerd, zijn er volgens geïnterviewden en deel-
+nemers aan de expertmeetings aanwijzingen dat Europees-Nederlandse bedrijven 
+zich proberen in te schrijven bij de Kamers van Koophandel en Nijverheid op de 
+BES-eilanden, met name Bonaire.  
+Reikwijdte Wwft BES 
+In de vorige paragraaf kwam aan bod dat per 1 juli 2021 de reikwijdte van de Wwft 
+BES wordt uitgebreid met handelaren in bouwmaterialen. In de derde expertmeeting 
+werd genoemd dat aannemers en projectontwikkelaars ook onder de Wwft BES 
+zouden kunnen vallen, gezien het risico van witwassen in de vastgoed-/onroerend-
+goedsector op de BES-eilanden. In de eerste NRA BES kwam al aan bod dat de Wwft 
+126
+BES ook voor deze dienstverleners zou moeten kunnen gelden. Op Sint-Maarten 
+                                               
+122
+  Van der Veen en Heuts (2018). 
+123
+  Zie www.tweedekamer.nl/kamerstukken/detail?id=2020Z11556&did=2020D24837 en https://bonaire.nu/ 
+2021/06/08/eerste-leergang-finec-afgerond-met-groot-aantal-ketenpartners-in-caribisch-nederland/. 
+124
+  Van der Veen en Heuts (2018). 
+125
+  Van der Veen en Heuts (2020a). 
+126
+  Van der Veen en Heuts (2018). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  69 
+
+ 
+6 Grootste witwasrisico’s in Caribisch Nederland 
+Dit hoofdstuk beschrijft de resultaten van de tweede en derde expertmeeting. In de 
+tweede expertmeeting hebben experts voor Bonaire de potentiële impact van de 
+zeven grootste witwasdreigingen aan de hand van een Multi Criteria Analyse (MCA) 
+ingeschat. Dit hebben zij alleen gedaan voor Bonaire, omdat de meerderheid van de 
+experts in de interviews en de eerste expertmeeting had aangegeven de potentiële 
+impact van de witwasdreigingen die in het onderzoek centraal staan voor Sint 
+Eustatius en Saba, niet goed te kunnen inschatten vanwege beperkte kennis van  
+en ervaring met witwascasuïstiek voor deze kleinere BES-eilanden, onder meer 
+vanwege de Covid-19 maatregelen die in 2020 reizen naar deze eilanden bemoei-
+lijkten of onmogelijk maakten. Hierop is in de tweede expertmeeting besloten  
+voor Sint Eustatius en Saba geen MCA uit te voeren voor de bepaling van de 
+potentiële impact van de witwasdreigingen. In de tweede expertmeeting is voor  
+die eilanden in algemene zin gesproken over de potentiële impact van de grootste 
+witwasdreigingen. In de derde expertmeeting hebben experts voor de grootste 
+witwasdreigingen een inschatting gemaakt van de weerbaarheid van het beschik-
+bare beleidsinstrumentarium ofwel de mate waarin dat de potentiële impact van de 
+witwasdreigingen tegengaat. Ook hierbij geldt dat experts alleen voor Bonaire een 
+kwantitatieve inschatting van de weerbaarheid hebben gemaakt; voor Sint Eustatius 
+en Saba is de weerbaarheid in algemene zin en in vergelijking met de resultaten 
+voor Bonaire besproken. In de slotparagraaf van dit hoofdstuk worden de expert-
+inschattingen van de potentiële impact en de weerbaarheid tegen elkaar afgezet 
+hetgeen resulteert in een lijst met de grootste witwasrisico’s voor Caribisch Neder-
+land, met voor Bonaire een ordening naar het niveau van hun resterende potentiële 
+impact. 
+ Inschatting potentiële impact grootste witwasdreigingen 
+Bonaire 
+Nadat witwasexperts aan het begin van de tweede expertmeeting de definitieve lijst 
+van zeven grootste witwasdreigingen hadden vastgesteld, hebben zij voor Bonaire 
+128
+de potentiële impact van die dreigingen ingeschat aan de hand van een MCA. Als 
+eerste stap in de MCA is de experts gevraagd een gewicht toe te kennen aan de 
+verschillende criteria waarmee de MCA is opgebouwd. Daarmee werd duidelijk welke 
+criteria door hen belangrijker en minder belangrijk werden geacht bij het vaststellen 
+van de potentiële impact van de dreigingen (zie tabel 21). Volgens de experts zijn 
+‘verslechtering van de stabiliteit van het financiële stelstel’ en ‘ondermijning van 
+gezag en rechtsorde’ de belangrijkste criteria (score: 7,5 respectievelijk 7,1) voor 
+het meten van de impact die de witwasdreigingen kunnen hebben. ‘vermindering 
+van de subjectieve/objectieve veiligheid’ zien zij als het minst belangrijke criterium 
+(score 5,1). De criteriumgewichten zijn in twee rondes bepaald; na de eerste 
+inschatting volgde een plenaire bespreking, waarna de experts in de tweede ronde 
+de definitieve inschatting van de criteriagewichten maakten. 
+ 
+  
+                                               
+128
+ Er is gebruikgemaakt van de MCA-module die deel uitmaakt van de standaard software van GDR aanbieder 
+Spilter.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  71 
+
+ 
+lijst van grootste witwasdreigingen voor Sint Eustatius en Saba werd ingekort tot de 
+volgende vier dreigingen: 
+ Witwassen in vastgoed-/onroerendgoedsector. Vastgoedtransacties voor Sint 
+Eustatius en Saba verlopen via notarissen op Sint Maarten die ongebruikelijke 
+transacties niet melden aan de FIU-Nederland maar aan de FIU Sint Maarten. 
+Hierdoor is er minder zicht op de vastgoedmarkt op deze kleinere BES-eilanden. 
+Wel lijkt er een verschil te zijn tussen Sint Eustatius en Saba. Voor Sint Eustatius 
+lijken met vastgoedtransacties gemiddeld kleinere bedragen en hypothecaire 
+leningen gemoeid te zijn dan voor Saba. De experts zien deze dreiging als de 
+belangrijkste witwasdreiging, zowel voor Sint Eustatius als Saba.  
+ Witwassen via banken (kredietinstellingen) met een vergunning van DNB. Hoewel 
+er slechts een zeer beperkte aanwezigheid van banken op de kleinere BES-eilan-
+den is, zien de experts dit toch als een belangrijke witwasdreiging.  
+ Witwassen via ondergronds bankieren inclusief geldtransactiekantoren die zonder 
+DNB-vergunning opereren. Vanwege de slechts zeer beperkte aanwezigheid van 
+een formeel banksysteem op Sint Eustatius en Saba wordt aangenomen dat op de 
+beide eilanden deze mogelijkheid wordt benut en dat het hiermee gaat om een 
+witwasdreiging. 
+ Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht.  
+Er zijn aanwijzingen dat contant geld wordt overgebracht vanuit andere eilanden, 
+maar er is geen zicht op de mate waarin en of daarbij sprake is van witwasver-
+denkingen. Wel bestaat het vermoeden dat vooral lijndiensten kwetsbaar zijn 
+voor witwassen via fysieke verplaatsing van contant geld.  
+ 
+De kwalitatieve bespreking van de potentiële impact van deze vier witwasdreigingen 
+voor Saba en Sint Eustatius heeft niet geleid tot een duidelijke rangordening voor al 
+deze witwasdreigingen. Wel zien de experts witwassen via de vastgoed-/onroerend-
+goedsector als de belangrijkste witwasdreiging voor Sint Eustatius en Saba. Van-
+wege de verschillen in schaalgrootte, de kleinere omvang van de lokale economie en 
+de toeristische sector, en de beperktere mogelijkheden om in vastgoed-/onroerend-
+goed te investeren, worden de witwasdreigingen voor Sint Eustatius en Saba lager 
+ingeschat dan voor Bonaire. 
+ Inschatting weerbaarheid beschikbaar beleidsinstrumentarium 
+Bonaire 
+In de derde expertmeeting is aan de tien experts die aan deze meeting deelnamen, 
+gevraagd voor de zeven grootste witwasdreigingen voor Bonaire een inschatting te 
+maken van de mate waarin het totale pakket aan bestaande beleidsinstrumenten de 
+potentiële impact van de dreigingen tegengaat. Per witwasdreiging kon een score 
+van 0 tot 100 worden toebedeeld, waarbij geldt: hoe hoger de score, hoe hoger de 
+weerbaarheid. Na een eerste inschattingsronde vond een plenaire bespreking van de 
+resultaten plaats. Hierna kregen de experts de mogelijkheid om – in het geval dat 
+de plenaire bespreking tot nieuwe inzichten had geleid bij hen – de eerdere inschat-
+ting aan te passen in de tweede inschattingsronde.  
+ 
+De resultaten van de tweede en definitieve inschatting van de weerbaarheid worden 
+weergegeven in tabel 23. Bij één witwasdreiging scoort de weerbaarheid meer dan 
+70, namelijk bij ‘Witwassen via banken (kredietinstellingen) met een vergunning 
+van DNB’ (score 71). Dit betekent dat de mitigerende werking van het totale 
+beschikbare beleidsinstrumentarium – volgens experts – bij deze witwasdreiging 
+relatief groot is en dat 71% van de ingeschatte potentiële impact van deze witwas- 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  73 
+
+ 
+Figuur 3 Potentiële Impact afgezet tegen Weerbaarheid voor de zeven 
+grootste witwasdreigingen voor Bonaire 
+80
+A
+70
+60
+50
+G
+B
+E
+F
+C
+40
+D
+30
+20
+40 50 60 70 80
+Potentiële Impact
+ 
+A. Witwassen via banken (kredietinstellingen) D. Witwassen via het fysiek (ver)plaatsen van contant geld 
+met een vergunning van DNB  via de zee en/of lucht 
+B. Witwassen in vastgoed-/onroerendgoedsector E. Witwassen via rechtsvormen 
+C. Witwassen via ondergronds bankieren inclusief F. Witwassen via fingeren van bedrijfsomzet 
+geldtransactiekantoren die zonder DNB- G. Witwassen via loan back constructies  
+vergunning opereren 
+ 
+ 
+Uit de figuur blijkt dat deze risicovolle combinatie voor de witwasdreigingen niet 
+voorkomt; veel witwasdreigingen komen qua potentiële impact en weerbaarheid 
+dicht bij elkaar uit. Dit is echter niet het geval bij ‘Witwassen via banken (krediet-
+instellingen) met een vergunning van DNB’: bij deze dreiging is sprake van een 
+relatief hoge potentiële impact en een relatief hoge weerbaarheid. Dit betekent dat 
+experts van mening zijn dat deze dreiging grote schadelijke gevolgen kan hebben, 
+maar dat het beleidsinstrumentarium de impact die deze dreiging kan hebben, in 
+relatief grote mate tegengaat. In de figuur komt deze dreiging dan ook uit in een 
+groen gebied. Bij ‘Witwassen via het fysiek (ver)plaatsen van contant geld via de 
+zee en/of lucht’ is juist sprake van een lage inschatting van de potentiële impact  
+en weerbaarheid: experts vinden dat deze witwasdreiging – in vergelijking met de 
+andere dreigingen – minder grote schadelijke gevolgen kan hebben en dat het 
+beleidsinstrumentarium deze dreiging slechts beperkt tegengaat. Nog het dichtst bij 
+het rode deel van de figuur dat een hoog witwasrisico aangeeft, komt de dreiging 
+‘Witwassen in vastgoed/onroerendgoedsector’. Dit is terug te voeren op een relatief 
+hoge potentiële impact bij een middelmatige weerbaarheid tegen deze dreiging.  
+ 
+Figuur 3 geeft echter nog geen helder uitsluitsel over de mate waarin het beschik-
+bare beleidsinstrumentarium op Bonaire de potentiële impact van de zeven grootste 
+witwasdreigingen tegengaat. Om hier beter zicht op te krijgen is in een laatste 
+analysestap voor iedere dreiging nagegaan welke potentiële impact er overblijft 
+nadat rekening is gehouden met de mitigerende werking van het beleidsinstrumen-
+tarium, in casu de weerbaarheid van het beleidsinstrumentarium. Het resultaat 
+hiervan is de uiteindelijke lijst van de zeven grootste witwasrisico’s op Bonaire, 
+geordend naar de potentiële impact die overblijft nadat rekening is gehouden met 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  75 
+Weerbaarheid
+
+ 
+ ‘Witwassen via fingeren van bedrijfsomzet’ was in de eerste NRA BES ook één 
+van de grootste witwasrisico’s, maar dit werd wel geschaard onder een over-
+koepelend risico (‘Omzetmanipulatie, prijsmanipulatie en/of over- en onder-
+facturering bij (internationale) handelsstromen’). 
+ In de voorliggende NRA BES komen vier witwasrisico’s naar voren die in de 
+vorige NRA niet als grootste risico zijn aangemerkt, te weten: ‘Witwassen via 
+rechtsvormen’, ‘Witwassen via loan back constructies’, ‘Witwassen via onder-
+gronds bankieren inclusief geldtransactiekantoren die zonder DNB-vergunning 
+opereren’ en ‘Witwassen via het fysiek (ver)plaatsen van contant geld via de  
+zee en/of lucht’. 
+ In de eerste NRA BES kwamen twee witwasrisico’s naar voren die niet uit de 
+voorliggende NRA blijken: ‘Witwassen via geldtransacties/-stortingen via ver-
+gunde geldtransactiekantoren’ en ‘Witwassen via middelen die verkregen zijn via 
+criminaliteit, in het financiële systeem inbrengen via casino’s, online kansspelen 
+en/of loterijen’. 
+ 
+Enkele methodologische aanpassingen in het onderzoeksdesign van de voorlig-
+gende tweede NRA BES hebben mogelijk bijgedragen aan de hierboven beschreven 
+verschillen in resultaten met de eerste NRA BES. Zo is het aantal expertmeetings 
+opgehoogd van één naar drie, namen per expertmeeting meer experts deel (van  
+6 naar 10 tot 12) en hebben zowel experts vanuit Europees als Caribisch Neder-
+land deelgenomen. Hierdoor konden de dreigingen uitgebreider en meer diepgaand 
+worden besproken dan in de eerste NRA BES, wat heeft bijgedragen aan de cluste-
+ring van de dreigingen in de vastgoed-/onroerendgoedsector. In de tweede NRA 
+BES is in tegenstelling tot de eerste NRA BES gebruikgemaakt van de GDR-functio-
+naliteit die het mogelijk maakte een MCA uit te voeren. De toepassing van de MCA 
+voor Bonaire leidde tot een verbeterd inzicht in de mate waarin de toepassing van 
+de beschikbare beleidsinstrumenten de potentiële impact van de dreigingen tegen-
+gaat. Het meest duidelijk wordt dat voor ‘Witwassen via geldtransacties/-stortin-
+gen via vergunde kredietinstellingen’ waar vanwege de hoge weerbaarheids-
+inschatting van de experts nog een slechts beperkte resterende potentiële impact 
+overblijft. De resultaten van de MCA voor Bonaire en de kwantitatieve inschatting 
+van de weerbaarheid creëerden daarnaast een ijkpunt voor de kwalitatieve risico-
+analyse voor Sint Eustatius en Saba. Een ander verschil is dat vanwege Covid-19 
+veldwerk op de BES-eilanden niet mogelijk was en dat alle bijeenkomsten en 
+interviews online hebben plaatsgevonden. 
+a
+ 
+Het betrof de volgende zes witwasrisico’s: witwassen via de aanschaf van particuliere woningen, via de aanschaf van 
+resorts/vakantieparken, via projectontwikkeling van vastgoed, via de aanschaf van bedrijfspanden, via nieuwbouw van 
+vastgoed, en via het misbruik van de diensten van notarissen. 
+ 
+Sint Eustatius en Saba 
+Voor Sint Eustatius en Saba is het – vanwege het ontbreken van een kwantitatieve 
+inschatting van de potentiële impact en de weerbaarheid – niet mogelijk om een 
+MCA uit te voeren en een rangordening van grootste witwasrisico’s zoals die voor 
+Bonaire weer te geven. Voor deze eilanden zijn de dreigingen en de weerbaarheid 
+van het beleidsinstrumentarium kwalitatief besproken. De experts waren eens-
+luidend in hun oordeel dat voor beide eilanden ‘Witwassen in de vastgoed-/onroe-
+rendgoedsector’ het grootste witwasrisico vormt. Om deze reden staat dit risico 
+bovenaan in tabel 25. De andere drie grootste witwasrisico’s voor deze eilanden zijn 
+in willekeurige volgorde weergegeven.  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  77 
+
+ 
+7 Conclusies 
+Dit slothoofdstuk beschrijft allereerst de belangrijkste resultaten van deze tweede 
+NRA BES. Hierbij staat de beantwoording van de onderzoeksvragen centraal. Vervol-
+gens wordt – in het kader van het groeimodel van de NRA-onderzoeksmethodiek – 
+de NRA geëvalueerd, waarbij zowel de sterke punten als de verbeterpunten van de 
+gehanteerde onderzoeksmethodiek worden belicht. Tot slot komen in het hoofdstuk 
+enkele geleerde lessen aan bod waarvan gebruikgemaakt kan worden bij de vorm-
+geving van een volgende NRA. 
+ 
+In de tweede NRA BES lag – net als in de vorige NRA BES – de focus op witwassen 
+en niet op terrorismefinanciering omdat uit het onderzoek geen duidelijke signalen 
+van terrorismefinancieringdreigingen naar voren zijn gekomen. In de volgende 
+paragraaf komt in de formulering van de onderzoeksvragen daarom alleen het 
+onderwerp witwassen terug. 
+ Beantwoording van onderzoeksvragen 
+In deze paragraaf worden onderzoeksvragen beantwoord aan de hand van de 
+elementen waarmee de NRA voor de BES-eilanden is opgebouwd: de context-
+analyse, de risico-identificatie en de risicoanalyse. 
+Onderzoeksvraag 1: Welke contextfactoren zijn (mogelijk) van invloed op 
+de prevalentie van witwassen in Caribisch Nederland? 
+Wat betreft geografische kenmerken kan de nabijheid van Midden- en Zuid-
+Amerikaanse landen en andere Caribische eilanden (die in relatie gebracht kunnen 
+worden met de productie van drugs, ineffectieve anti-witwasregelgeving en een 
+strikt bankgeheim) in beginsel van invloed zijn op de prevalentie van witwassen in 
+Caribisch Nederland vanwege de illegale aanvoer van drugs, wapens en mensen. 
+Daarnaast heeft de grote afstand van de BES-eilanden tot Europees Nederland 
+gevolgen voor de inrichting van het toezicht door de in Europees Nederland geves-
+tigde drie Wwft BES-toezichthouders (AFM, BTWwft en DNB). Vanwege de beperkte 
+schaalgrootte is op Sint Eustatius en Saba lokaal basispolitiezorg beschikbaar. 
+Wanneer specialistische politiezorg nodig is, kan deze worden ingevlogen vanuit 
+Bonaire of Europees Nederland. 
+ 
+Sociaal-culturele kenmerken van Caribisch Nederland zoals de ons-kent-ons-, 
+zwijg-, angst- en belangencultuur waarbij er sprake is van patronage, nepotisme en 
+cliëntelisme volgens het ‘voor wat hoort wat’-principe, zorgen voor een vervaging 
+van de grenzen tussen privé relaties en professionele contacten. Dit kan in beginsel 
+uitwerken in een verminderde meldings- en aangiftebereidheid van criminaliteit en 
+in belangenverstrengeling en integriteitsproblemen bij de lokale uitvoering van toe-
+zicht, opsporing en handhaving. 
+ 
+Een economisch kenmerk van de BES-eilanden dat mogelijk samenhangt met de 
+prevalentie van witwassen, is de cashgerichtheid van de eilanden. Een grote mate 
+van contant geld gebruik in een economie wordt vaak geassocieerd met een scha-
+duweconomie en de prevalentie van witwassen. Andere relevante economische 
+kenmerken zijn de armoedeproblematiek en de informele leencultuur in Caribisch 
+Nederland. De kleinschaligheid van de BES-eilanden in combinatie met een cultuur 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  79 
+
+ 
+de grootste potentiële impact (score 67 van de 100) is ‘Witwassen in vastgoed-/ 
+onroerendgoedsector’. ‘Witwassen via fingeren van bedrijfsomzet’ scoort qua 
+potentiële impact het laagst (score 52 van de 100). 
+ 
+Tabel 26 Potentiële impact van de grootste witwasdreigingen Bonaire 
+Gemiddelde potentiële impact 
+ (schaal 0-100) 
+Witwassen in vastgoed-/onroerendgoedsector 67 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 66 
+Witwassen via rechtsvormen 62 
+Witwassen via ondergronds bankieren incl. geldtransactiekantoren die zonder 56 
+DNB-vergunning opereren 
+Witwassen via loan back constructies 54 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht 52 
+Witwassen via fingeren van bedrijfsomzet 52 
+ 
+ 
+Bij de algemene bespreking van de potentiële impact van de witwasdreigingen voor 
+Sint Eustatius en Saba gaven de experts aan dat zij – ondanks de eerdere vast-
+stelling van de grootste witwasdreigingen aan het begin van de tweede expert-
+meeting – onvoldoende kennis hebben van de mogelijke prevalentie van een aantal 
+witwasdreigingen. Het betreft de dreigingen ‘Witwassen via loan back constructies’, 
+‘Witwassen via rechtsvormen’ en ‘Witwassen via fingeren van bedrijfsomzet’. Bij 
+nader inzien was bij de experts te weinig bekend om deze als grootste witwasdrei-
+ging aan te merken. Dit leidde ertoe dat een inkorting van de definitieve lijst van 
+grootste witwasdreigingen voor Sint Eustatius en Saba: 
+ witwassen in vastgoed-/onroerendgoedsector; 
+ witwassen via banken (kredietinstellingen) met een vergunning van DNB; 
+ witwassen via ondergronds bankieren inclusief geldtransactiekantoren die zonder 
+DNB-vergunning opereren; 
+ witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht. 
+ 
+Hierbij was er een door de experts gedeeld oordeel over het aanmerken van ‘Wit-
+wassen in vastgoed-/onroerendgoedsector’ als belangrijkste witwasdreiging voor 
+zowel Sint Eustatius als Saba. Vanwege de verschillen in schaalgrootte, de kleinere 
+omvang van de lokale economie en de toeristische sector, en de beperktere 
+mogelijkheden om in vastgoed-/onroerendgoed te investeren, worden de witwas-
+dreigingen voor Sint Eustatius en Saba lager ingeschat dan voor Bonaire. 
+Onderzoeksvraag 3: Wat kan gezegd worden over de aard en mechanismen 
+van de grootste witwasdreigingen en over de criminaliteitsvormen die 
+hieraan vooraf kunnen gaan? 
+Om crimineel geld wit te wassen kan een veelheid aan methoden – al dan niet in 
+combinatie met elkaar – worden ingezet. Witwasmethoden kunnen plaatsvinden in 
+de verschillende fasen van het witwasproces. De FATF onderscheidt drie fasen, 
+namelijk de plaatsings-, verhullings-en integratiefase. In hoofdstuk 4 van dit rapport 
+is voor iedere geïdentificeerde witwasdreiging – voor zover mogelijk – ingegaan op 
+de aard en mechanismen van de dreiging. Door de afwezigheid van concrete wit-
+wascasuïstiek in Caribisch Nederland en de beperkte kennis van en ervaring met 
+casuïstiek bij de geraadpleegde experts heeft het onderzoek niet voor iedere drei-
+ging tot een even goed inzicht in de aard en mechanismen geleid. 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  81 
+
+ 
+dienst. Er bestaan vermoedens dat witwassen via het fingeren van bedrijfsomzet 
+plaatsvindt binnen kleine Chinese ondernemingen op de BES-eilanden, maar 
+harde bewijzen hiervoor ontbreken.  
+ Witwassen via loan back constructies. In het geval van witwassen via een loan 
+back constructie leent een crimineel zijn eigen crimineel verkregen vermogen aan 
+zichzelf waarbij hij de schijn ophoudt dat het geld aan iemand anders toebehoort. 
+DNB heeft signalen ontvangen dat loan back constructies voorkomen op Bonaire. 
+ 
+Wat betreft de criminaliteitsvormen die vooraf kunnen gaan aan witwassen in 
+Caribisch Nederland, is het een en ander al gezegd bij de beantwoording van de 
+eerste onderzoeksvraag. Het kan gaan om een scala aan vormen van vermogens-
+criminaliteit, drugscriminaliteit, mensensmokkel/-handel en corruptie. In 2020 
+stelde de FIU-Nederland voor de BES-eilanden enkele dossiers op met VT’s in relatie 
+tot deze voorafgaande vormen van criminaliteit. Het gaat om vijf drugsgerelateerde 
+dossiers, vier corruptiegerelateerde dossiers en één dossier voor zowel arbeidsuit-
+buiting als fraude. 
+Onderzoeksvraag 4: Welk beleidsinstrumentarium is in Caribisch Nederland 
+beschikbaar ter preventie en bestrijding van de grootste witwasdreigingen? 
+Het beschikbare beleidsinstrumentarium ter voorkoming en bestrijding van witwas-
+sen omvat alle relevante instrumenten die voortvloeien uit internationale en natio-
+nale wet- en regelgeving, wet- en regelgeving op gemeentelijk niveau, sectorale en 
+branchegerichte regelgeving, en regelgeving op organisatieniveau. Het begrip 
+‘beleidsinstrument’ is echter breder op te vatten dan alleen wet- en regelgeving.  
+ 
+Tabel 27 Beleidsinstrumentarium met substantiële bijdrage in preventie 
+en bestrijding witwassen 
+Internationale wet- en 
+regelgeving Nationale wet- en regelgeving Overige beleidsinstrumenten 
+• FATF-instrumenten • Wet ter voorkoming van witwassen en • Beleidsregel AFM en DNB toepassing en 
+(aanbevelingen, financieren van terrorisme BES uitvoering Wfm BES en Wwft BES 2012  
+publicaties, e.d.) • Wet financiële markten BES  • Richtlijnen, handreikingen en 
+ • Wetboek van Strafrecht BES  beleidsplannen 
+• Wetboek van Strafvordering BES • Samenwerkingsverbanden:  
+• Belastingwet BES  tussen organisaties op Bonaire, Sint 
+• Douane- en accijnswet BES Eustatius en/of Saba 
+ met organisaties in Europees 
+Nederland 
+ met andere eilanden in het Koninkrijk 
+(Aruba, Curaçao en/of Sint Maarten) 
+ 
+ 
+Via een enquête is een longlist met beleidsinstrumenten voorgelegd aan publieke 
+partijen die een rol spelen bij de preventie en/of bestrijding van witwassen in 
+Caribisch Nederland (zie bijlage 6 tabel B.17). In de enquête konden zij de longlist 
+aanvullen met volgens hen ontbrekende relevante beleidsinstrumenten. Aan het 
+begin van de derde expertmeeting zijn de bevindingen van de beleidsinstrumen-
+tarium-enquête in gezamenlijkheid besproken. Deze bespreking heeft het onder-
+staande overzicht van het beleidsinstrumentarium met een naar het oordeel van  
+de experts substantiële bijdrage in de preventie en bestrijding van witwassen 
+opgeleverd. Een belangrijke kanttekening bij de hierboven weergegeven tabel is  
+dat dit het beleidsinstrumentarium tot en met mei 2021 betreft. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  83 
+
+ 
+Onderzoeksvraag 6: Welk risico van de witwasdreigingen blijft er over 
+wanneer de potentiële impact van de dreigingen wordt afgezet tegen de 
+weerbaarheid van het bestaande beleidsinstrumentarium?  
+Om beter inzicht te krijgen in de mate waarin het beschikbare beleidsinstrumen-
+tarium op Bonaire de potentiële impact van de zeven grootste witwasdreigingen 
+tegengaat, is de resterende potentiële impact (RPI) berekend. Het resultaat hiervan 
+is de uiteindelijke lijst van de zeven grootste witwasrisico’s op Bonaire. De omvang 
+van de RPI bepaalt de omvang van het witwasrisico. De RPI-scores voor de zeven 
+grootste witwasrisico’s voor Bonaire hebben een spreiding van 19 tot en met 35  
+(op een schaal van 0 tot en met 100). Dit betekent dat een aanzienlijk deel van  
+de potentiële impact van de grootste witwasrisico’s wordt weggenomen door de 
+strekking en uitwerking van het beleidsinstrumentarium. Het witwasrisico ‘Witwas-
+sen in vastgoed-/onroerendgoedsector’ komt naar voren als grootste witwasrisico 
+voor Bonaire, vooral vanwege de hoge potentiële impact. Het risico ‘Witwassen via 
+banken (kredietinstellingen) met een vergunning van DNB’ bereikt de laagste RPI-
+score. Hoewel aan dit risico een hoge potentiële impact werd toegekend, werd de 
+weerbaarheid van het beleidsinstrumentarium relatief hoog ingeschat. Tabel 29 
+geeft dit weer. 
+ 
+Tabel 29  De zeven grootste witwasrisico’s op Bonaire 
+RPI-score 
+ 
+(schaal van 0-100) 
+Witwassen in vastgoed-/onroerendgoedsector 35 
+Witwassen via rechtsvormen 34 
+Witwassen via ondergronds bankieren incl. geldtransactiekantoren die zonder DNB- 34 
+vergunning opereren 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht 33 
+Witwassen via loan back constructies 29 
+Witwassen via fingeren van bedrijfsomzet 29 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 19 
+ 
+ 
+Voor Sint Eustatius en Saba is het – vanwege het ontbreken van een kwantita-
+tieve inschatting van de potentiële impact en de weerbaarheid – niet mogelijk om 
+een rangordening van grootste witwasrisico’s zoals die voor Bonaire weer te geven. 
+Wel waren de experts het erover eens dat ‘Witwassen in vastgoed/-onroerendgoed-
+sector’ voor Sint Eustatius en Saba – net als voor Bonaire – als belangrijkste wit-
+wasrisico moet worden aangemerkt. In tabel 30 staat daarom dit risico bovenaan. 
+De andere risico’s staan in willekeurige volgorde. 
+ 
+Tabel 30 De vier grootste witwasrisico’s op Sint Eustatius en Saba  
+Witwassen in vastgoed-/onroerendgoedsector  
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 
+Witwassen via ondergronds bankieren incl. geldtransactiekantoren die zonder DNB-vergunning opereren 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee en/of lucht 
+ 
+Onderzoeksvraag 7: Welke witwasdreigingen zijn in Caribisch Nederland 
+nog niet gesignaleerd maar zouden in de toekomst actueel kunnen worden? 
+Het onderzoek kan geen duidelijk antwoord bieden op de vraag welke witwasrisico’s 
+op de BES-eilanden nog niet zijn gesignaleerd maar in de toekomst mogelijk actueel 
+kunnen worden. In de interviews en expertmeetings van deze NRA is vooral stilge- 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  85 
+
+ 
+onderzoek. Het betrof publieke partijen in zowel Caribisch als Europees Neder-
+land. Daarnaast zijn diverse private partijen in Caribisch Nederland bij het 
+onderzoek betrokken.  
+ Transparante beschrijving van de toegepaste methodologie. De toegepaste 
+methodologie, waaronder de wijze van dataverzameling en de toegepaste MCA,  
+is transparant beschreven met het oog op het groeimodel van de NRA (leren van 
+ervaringen) en een verdere aanscherping van de toegepaste methodologie. 
+Beoogd is de reproduceerbaarheid van het onderzoek te maximaliseren. 
+ Meer aandacht voor onderbouwing en verdieping. Een geleerde les in de eerste 
+NRA BES was dat er in volgende NRA’s meer aandacht moest zijn voor 
+onderbouwing en verdieping van de witwasrisico’s. In deze tweede NRA BES is op 
+verschillende manieren meer aandacht hieraan besteed: 
+ Er is een FANO-enquête uitgezet onder organisaties waarvan vooraf verwacht 
+werd dat deze in meer of mindere mate uit eigen ervaring kennis hebben van 
+de prevalentie van witwassen en terrorismefinanciering op één of meer eilan-
+den in Caribisch Nederland. Aan hen is gevraagd om bij de toegestuurde long-
+list van dreigingen aan te geven of zij bekend zijn met feiten/casus van de 
+dreigingen en in hoeverre zij de prevalentie van de dreigingen al dan niet 
+aannemelijk achten op basis van de informatie die bij hun organisatie beschik-
+baar is. 
+ In de eerste NRA BES is slechts één expertmeeting uitgevoerd die zich ken-
+merkte door een volle programmering, waardoor er niet altijd voldoende tijd 
+was om stil te staan bij het onderbouwen van alle expertoordelen en het 
+uitwerken van casusvoorbeelden. Met het oog hierop zijn in de tweede NRA 
+BES er, evenals bij de in 2019/2020 uitgevoerde Europees-Nederlandse NRA’s, 
+drie expertmeetings georganiseerd. In de eerste expertmeeting is de gehele 
+longlist van witwasdreigingen inclusief de in de mailenquête toegevoegde 
+dreigingen uitgebreid besproken met alle deelnemers, waarbij ook gevraagd  
+is naar de bij hen bekende feiten/casus. Na de plenaire bespreking van de 
+witwasdreigingen identificeerden de experts de witwasdreigingen met de 
+volgens hen grootste potentiële impact.  
+ Om meer inzicht in de geïdentificeerde grootste witwasdreigingen te krijgen 
+zijn na afloop van de eerste expertmeeting verdiepende interviews afgenomen 
+met vertegenwoordigers van publieke en private organisaties waarvan vooraf 
+werd verwacht dat deze in meer of mindere mate kennis hebben van de betref-
+fende dreigingen. In de interviews is gevraagd naar de aard en mechanismen 
+van de witwasdreigingen en naar concrete voorbeelden van casussen van deze 
+dreigingen. De resultaten hiervan zijn besproken aan het begin van de tweede 
+expertmeeting, wat heeft geleid tot een aangepaste lijst van grootste witwas-
+dreigingen. 
+ In tegenstelling tot de eerste NRA BES hebben deelnemers in een tweede en 
+derde expertmeeting voor Bonaire de potentiële impact van de grootste wit-
+wasdreigingen via een MCA en de weerbaarheid van het beschikbare beleids-
+instrumentarium per dreiging kwantitatief ingeschat. Dit hebben zij alleen 
+gedaan voor Bonaire, omdat de meerderheid van de experts in de interviews 
+en de eerste expertmeeting had aangegeven de prevalentie van de witwas-
+dreigingen die in het onderzoek centraal staan voor Sint Eustatius en Saba, 
+niet goed te kunnen inschatten vanwege de lagere toezichts- en opsporings-
+intensiteit voor deze kleinere BES-eilanden en de Covid-19 maatregelen die in 
+2020 en 2021 reizen naar deze eilanden bemoeilijkten of onmogelijk maakten. 
+ Voorafgaande aan de derde expertmeeting is een longlist van beleidsinstru-
+menten door middel van een mailenquête voorgelegd aan de experts. Aan hen 
+werd gevraagd welke bijdrage de genoemde beleidsinstrumenten volgens hen 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  87 
+
+ 
+ Uit de verschillende onderzoeksactiviteiten blijkt dat kennis van en ervaring met 
+witwascasuïstiek in Caribisch Nederland dun is gezaaid. Op de BES-eilanden is 
+sprake van een gebrek aan kennis en data over financieel-economische crimi-
+naliteit bij lokale opsporingsdiensten en andere handhavers. Door de afwezigheid 
+van concrete witwascasuïstiek evenals de beperkte kennis van en ervaring met 
+casuïstiek bij de geraadpleegde experts heeft het onderzoek niet voor iedere 
+dreiging tot een even goed inzicht in de aard en mechanismen geleid. 
+ De NRA is met name gebaseerd op de oordelen en inschattingen van 
+vertegenwoordigers van toezichthouders, opsporingsdiensten, andere handhavers 
+en enkele meldingsplichtige instellingen in Caribisch Nederland met een taak bij 
+de preventie en repressie van witwassen. Hoewel geprobeerd is in de gekozen 
+onderzoeksaanpak de voorwaarden voor een betrouwbare dataverzameling te 
+optimaliseren, kan niet worden uitgesloten dat bij het identificeren van de 
+grootste witwasdreigingen, het inschatten van de potentiële impact daarvan  
+en het beoordelen van de weerbaarheid van het beleidsinstrumentarium ook 
+subjectieve elementen hebben meegespeeld en dat deze mogelijk (deels) op 
+perceptie/persoonlijke inschatting hebben plaatsgevonden. 
+ De Covid-19 pandemie maakte een fysiek bezoek aan de BES-eilanden en dus 
+fysiek veldwerk in het Caribisch gebied onmogelijk. Dit hinderde de uitvoering 
+van het onderzoek. Het maakte het lastig kennis te nemen van de (wijzigingen)  
+in de context sinds de eerste NRA BES. Ook bij het beoordelen van de potentiële 
+impact van de risico’s en de weerbaarheid had fysiek uitgevoerd veldwerk gehol-
+pen met het beoordelen van de validiteit en betrouwbaarheid van de onderzoeks-
+resultaten. Ten derde zorgde het online karakter van de expertmeetings ervoor 
+dat sommige deelnemers aan de meetings niet altijd even actief meededen in een 
+discussie, hetgeen in fysieke meetings mogelijk beter te voorkomen was. Tot slot 
+had de Covid-19 pandemie echter ook een positief gevolg voor het onderzoek: 
+dankzij het online karakter van de expertmeetings was het mogelijk om zowel 
+publieke als private organisaties uit Caribisch Nederland als Europees Nederland 
+te laten deelnemen.  
+ Vanwege de Covid-19 pandemie konden de toezichthouders die hun taak vanuit 
+Europees Nederland uitvoeren, geen fysieke bezoeken brengen aan de BES-
+eilanden. Hierdoor moest hun risico-oordeel worden gebaseerd op eerder opge-
+dane ervaringen en op nieuwe inzichten die via videobellen of andere communi-
+catie is opgedaan. Daarnaast bemoeilijkte de pandemie ook de opsporing en 
+handhaving ter plekke. Zo was reizen vanuit Bonaire naar de kleinere eilanden 
+slechts beperkt mogelijk voor specialistische politiediensten en voor het OM 
+Caribisch Nederland. Ook dit had z’n uitwerking op de informatiepositie. 
+ Een kwantitatieve datagedreven analyse voor de NRA BES lijkt gezien de gecon-
+stateerde gebrekkige informatie- en datapositie van centrale partijen bij de wit-
+wasbestrijding voor Caribisch Nederland voorlopig nog niet haalbaar. Hierbij is  
+het relevant te melden dat bij de in 2019/2020 uitgevoerde NRA’s voor Europees 
+Nederland, met een veel betere informatie- en datapositie, een dergelijke analyse 
+ook niet mogelijk bleek. Dit leidde tot de aanbeveling voor de uitvoering van een 
+dataverkennend onderzoek. Het onderzoek zou inzichtelijk moeten maken welke 
+informatie en data beschikbaar moeten worden gemaakt voor de uitvoering van 
+een meer datagedreven NRA witwassen. 
+ De hier voorliggende NRA richt zich op witwassen, terwijl de opdracht was een 
+NRA voor Caribisch Nederland uit te voeren voor zowel witwassen als terrorisme-
+financiering. In diverse onderzoeksfasen is nagegaan welke mogelijkheden er zijn 
+terrorismefinanciering in de NRA te betrekken. In de FANO-enquête, interviews en 
+in expertmeetings is hier aandacht aan besteed en dit leverde geen signalen op 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  89 
+
+ 
+Summary 
+Background  
+Dutch policy to prevent and combat money laundering is based on recommenda-
+tions by the Financial Action Task Force (FATF) and European Union (EU) directives 
+and regulations. The FATF focuses on preventing and combating money laundering, 
+terrorist financing and other related threats to the integrity of the international 
+financial system at a global level. Members of the FATF, including the Netherlands, 
+have committed themselves to implementing the 40 FATF recommendations on 
+taking preventive and repressive measures by obliged entities, and to implementing 
+measures to improve national legal and regulatory systems and international 
+cooperation. In addition, the FATF supervises the correct functioning and effective-
+ness of those (legal) measures. 
+ 
+In 2017 and 2019/2020, the WODC Research and Documentation Centre conducted 
+a National Risk Assessment (NRA) in the areas of money laundering and terrorist 
+financing for the European part of the Netherlands. In 2017/2018, the WODC 
+conducted a separate NRA for the Caribbean Netherlands – Bonaire, Sint Eustatius 
+and Saba (or the BES islands) – in the fields of money laundering and terrorist 
+financing. 
+ 
+A second NRA on Money Laundering and Terrorist Financing has now been carried 
+out for the Caribbean Netherlands, which aims to identify the greatest risks in the 
+field of money laundering and terrorist financing. This concerns the risks with the 
+'greatest residual potential impact', or the impact that remains after taking into 
+131
+account the preventive and/or mitigating effect (the 'resilience' ) of the policy 
+instruments that target these threats. To this end, the threats with the greatest 
+potential impact have been identified, and estimates have been made of the impact 
+that these threats may have and the resilience of the policy instruments. The objec-
+tive of this second NRA BES is therefore slightly broader than the objective of the 
+first NRA BES, in which no estimates of the potential impact and resilience have 
+been made. In line with the first NRA, this NRA also describes a number of lessons 
+learned in the context of the growth model for the Dutch NRAs, which can be taken 
+into account in the implementation of the following NRAs. 
+ 
+In order to obtain a first insight into existing threats in the field of money laundering 
+and terrorist financing on the BES islands, the following research activities took 
+place in the first stage of the study: desk research, exploratory interviews and a 
+survey that was sent out to organizations with a role in the prevention and com-
+bating of money laundering and terrorist financing in the Caribbean Netherlands  
+that aimed to collect information about the prevalence or (im)plausibility of money-
+laundering and terrorist financing threats on the three islands. These activities led  
+to a lot of information on the subject of money laundering in the Caribbean Nether-
+lands, but did not provide clear signals about the prevalence of terrorist financing in 
+the Caribbean Netherlands. The written and online sources consulted also did not 
+provide any indications of the existence of terrorist financing threats. Although the 
+                                               
+131  
+Resilience concerns the preventive and mitigating effect of the policy instruments, whereby the following applies: 
+the higher the resilience, the better the threats are countered. This concerns both the content/purpose and the 
+ 
+implementation of the policy instruments.
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  91 
+
+ 
+ For the purpose of an inventory of threats in the field of money laundering, a brief 
+132
+literature study was conducted and the FANO survey was conducted among 
+organizations that were expected to have knowledge of money laundering in the 
+Caribbean-Dutch context. 
+ In a first expert meeting, experts individually identified the money-laundering 
+threats with the greatest potential impact for the three BES islands. 
+ After the first expert meeting, in-depth interviews with public parties in both the 
+Caribbean and European Netherlands, and with private parties in the Caribbean 
+Netherlands were held to examine the nature and mechanisms of the identified 
+largest money-laundering threats. 
+ In a second expert meeting, experts estimated the potential impact of the largest 
+money-laundering threats. For Bonaire this was done in a quantitative sense on 
+the basis of a Multi Criteria Analysis, for Sint Eustatius and Saba this was done 
+through a plenary discussion in a general sense. 
+ A survey among public parties with a task in preventing and combating money 
+laundering on the BES islands provided insight into the policy instruments 
+available for the prevention and repression of money laundering. This formed 
+input for the third expert meeting. 
+ In the third expert meeting, experts assessed the resilience of the available policy 
+instruments for the prevention and repression of the largest money-laundering 
+threats. For Bonaire this was done in a quantitative sense, for Sint Eustatius and 
+Saba this took place through a plenary discussion in a general sense. 
+ By comparing the estimated potential impact of the largest money-laundering 
+threats against the estimated resilience, insight has been gained into the largest 
+money-laundering risks in the Caribbean Netherlands, with a ranking for Bonaire 
+according to their residual potential impact. 
+ Finally, in the last stage of the study, three validating interviews were conducted 
+with a total of five key experts with the main aim of examining to what extent 
+they recognized (the ranking of) the identified money-laundering risks. 
+ 
+The Covid-19 pandemic made face-to-face interviews and a physical expert meeting 
+in the BES area that had been foreseen for this NRA impossible. As a consequence 
+fieldwork for this NRA had to be done entirely online. A physical visit would have 
+helped to become acquainted with the environment in which money laundering can 
+take place and in which the investigation, law enforcement and supervision must 
+take shape. The lack of this experience formed a complication in valuing the 
+collected information and thus to report the research results. The possibility that 
+more clear-cut results could have been reported after conducting physical face-to-
+face interviews and a physical expert meeting cannot be ruled out. 
+What makes the Caribbean Netherlands vulnerable to money laundering? 
+In terms of geographic characteristics, the proximity to Central and South 
+American countries and other Caribbean islands (which are associated with drug 
+production, ineffective anti-money-laundering regulations and strict banking 
+secrecy) may in principle influence the prevalence of money laundering in the 
+Caribbean Netherlands because of the illegal supply of drugs, weapons and people. 
+In addition, the great distance between the BES islands and the European Nether- 
+                                               
+132
+  The purpose of the FANO survey was to identify 1. the facts/cases of which money-laundering threats are known 
+to organizations based in the Caribbean and European Netherlands, 2. the extent to which those organizations 
+consider the prevalence of the threats plausible or not, and 3. which threats are unknown to the organizations. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  93 
+
+ 
+corruption in Bonaire in particular are: the untransparent way of issuing land on 
+long-term lease and applying for and granting employment and residence 
+permits. For Saba, the corruption problem is estimated to be lower.  
+Largest money-laundering risks in the Caribbean Netherlands 
+Bonaire 
+Figure S.1 brings together the expert estimates for Bonaire of the potential impact 
+and resilience for the seven money-laundering threats identified by experts as 
+threats with the greatest potential impact. Threats with a high potential impact and 
+low resilience are risky. 
+ 
+Figure S.1 Potential Impact compared to Resilience for the seven largest 
+money-laundering threats for Bonaire 
+80
+A
+70
+60
+50
+G
+B
+E
+F
+C
+40
+D
+30
+20
+40 50 60 70 80
+Potential Impact
+ 
+A. Money laundering via banks (credit D. Money laundering through the physical placement or 
+institutions) licensed by DNB  transfer of cash by sea and/or air 
+B. Money laundering in real estate/realty sector E. Money laundering via legal entities  
+C. Money laundering via underground banking, F. Money laundering via falsification of company turnover 
+including money transfer offices that operate G. Money laundering via loan-back constructions  
+without a DNB license 
+ 
+ 
+The figure shows that this high-risk combination for money-laundering threats does 
+not occur; many money-laundering threats are close to each other in terms of 
+potential impact and resilience. However, this is not the case with 'Money laundering 
+via banks (credit institutions) licensed by DNB'. This threat has a relatively high 
+potential impact and relatively high resilience. Experts are of the opinion that this 
+threat can have major harmful consequences, but that the policy instruments 
+counteract this potential impact to a relatively large extent. In the figure, this threat 
+therefore results in a green area. ‘Money laundering through the physical placement 
+or transfer of cash by sea and/or air’ has low estimates for the potential impact and 
+resilience: experts believe that this money-laundering threat – in comparison with 
+the other threats – has less significant harmful consequences and that the policy 
+instruments only counteract this threat to a limited extent. Closest to the red part of 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  95 
+Resilience
+
+ 
+Compared to Bonaire, the list of identified largest money-laundering threats for Sint 
+135
+Eustatius and Saba is slightly shorter. The experts were unanimous in their 
+opinion that for both islands 'Money laundering in real estate/realty sector' repre-
+sents the largest money-laundering risk. For this reason, this risk is at the top of 
+table S.2. The other three largest money-laundering risks for these islands are listed 
+in no particular order. Due to the differences in scale, the smaller size of the local 
+economy and the tourism sector, and the more limited opportunities to invest in the 
+real estate/realty sector, the money-laundering threats for Sint Eustatius and Saba 
+are estimated to be lower than for Bonaire. 
+ 
+Tabel S.2 The four largest money-laundering risks for Sint Eustatius and 
+Saba  
+Money laundering in real estate/realty sector  
+Money laundering via banks (credit institutions) licensed by DNB  
+Money laundering via underground banking, including money transfer offices that operate without a DNB license  
+Money laundering through the physical placement or transfer of cash by sea and/or air 
+ 
+ 
+ 
+                                               
+135 
+ For Sint Eustatius and Saba, experts had insufficient knowledge of the possible prevalence of the threats 'Money 
+laundering via loan-back constructions', 'Money laundering via legal entities' and 'Money laundering via 
+falsification of company turnover ' to designate these as the largest money-laundering threat. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  97 
+
+ 
+Leertouwer, E.C., & Zaalberg, A. (2015). Achtergronden van de detentieratio in 
+Caribisch Nederland. Den Haag: WODC. Cahier 2015-12. 
+Lees, F.P. (1980). Loss Prevention in the Process Industries. Londen: Butterworth-
+Heinemann. 
+Liem, M.,  Meinema, B., & Zee, S. van der (2019). Hoe doen de buren dat? Verslag 
+van een zoektocht naar regionale good practices naar rechtshandhaving en 
+veiligheid in Caribisch Nederland. 
+Meindert, L., Briene, M., Merkus, E., Bergh, R. van den, & Vierbergen, F. (2017). 
+Onderzoek naar prijzen in Caribisch Nederland: Deel I: Eindrapport. Rotterdam: 
+Ecorys/Curconsult.  
+Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (2020). Staat van de 
+Woningmarkt. Jaarrapportage 2020. 
+Ministers van Financiën en Justitie en Veiligheid (2019). Plan van aanpak witwassen. 
+Juni 2019. 
+Mooij, A.J.M., Tijssens I., & Mark, J. van der (2013). Veiligheidsbeeld BES-eilanden 
+2013: Criminaliteit, regelovertreding en overlast op Bonaire, Sint Eustatius en 
+Saba. Zoetermeer: DLIO Zoetermeer. 
+Nationale ombudsman en de Kinderombudsman (2020). Het maakt uit waar je wieg 
+heeft gestaan. Rapportnr: 2020/030. Den Haag: Nationale Ombudsman en de 
+Kinderombudsman. 
+Nauta, O. (2011). Goed bestuur in de West: Institutionele en maatschappelijke 
+beperkingen voor goed bestuur in de Caribische rijksdelen. Oisterwijk: Uitgeverij 
+BOXPress. 
+Nauta, O. (2015). Vijf jaar Caribisch Nederland: Werking van de nieuwe bestuurlijke 
+structuur. Amsterdam: DSP.  
+Organisatie voor Economische Samenwerking en Ontwikkeling (2019). Indicatoren 
+van witwassen en terrorismefinanciering. Handboek voor medewerkers van de 
+Belastingdienst. Parijs: OESO. 
+Openbaar Ministerie Bonaire, Sint Eustatius & Saba (2020). Jaarverslag 2019. 
+Kralendijk: Openbaar Ministerie Bonaire, Sint Eustatius en Saba. 
+Pommer, E., & Bijl, R. (red.) (2015). Vijf jaar Caribisch Nederland: Gevolgen  
+voor de bevolking. SCP-publicatie 2015-23. Den Haag: Sociaal en Cultureel 
+Planbureau. 
+Raad voor de Rechtshandhaving (2017). Afpakteam Curaçao. Inspectieonderzoek 
+van de Raad voor de rechtshandhaving naar de taakuitoefening van het afpak-
+team in Curaçao. Willemstad: Raad voor de Rechtshandhaving. 
+Raad voor de Rechtshandhaving (2019). Inspectieonderzoek naar de aanpak van 
+mensenhandel en mensensmokkel. Willemstad: Raad voor de Rechtshandhaving. 
+Raad voor de Rechtshandhaving (2020). Aanpak drugscriminaliteit. 
+Inspectieonderzoek van de Raad voor de rechtshandhaving naar de wijze waarop 
+de aanpak van drugscriminaliteit in Curaçao en tussen de landen binnen het 
+Koninkrijk is vormgegeven. Willemstad: Raad voor de Rechtshandhaving. 
+Soudijn, M., & Akse, Th. (2012). Witwassen Criminaliteitsbeeldanalyse 2012. 
+Driebergen: KLPD. 
+Soudijn, M. (2017). Witwassen. Criminaliteitsbeeldanalyse 2016. Driebergen: Politie 
+Landelijke Eenheid Dienst Landelijke Informatieorganisatie. 
+Spies, J., Soons, A., Thodé, G.,Verhey, L., & Weekers, F. (2015). Vijf jaar verbon-
+den. Bonaire, Sint Eustatius, Saba en Europees Nederland: Evaluatie Caribisch 
+Nederland. Commissie evaluatie uitwerking nieuwe staatkundige structuur 
+Caribisch Nederland. 
+United Nations Office on Drugs and Crime (2017). The drug problem and organized 
+crime, illicit financial flows, corruption and terrorism. Wenen: UNODC. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  99 
+
+ 
+ www.fatf-gafi.org/faq/moneylaundering/ 
+ www.fiu-nederland.nl/nl/financiele-escapades-onder-de-zon 
+ www.fiu-nederland.nl/nl/geld-uit-de-hoge-hoed-0 
+ www.mot.cw/web/motweb/motweb.nsf/a61721b0b7293b3204257685006d44ed/3
+f138a325bb578a5042578200064a56a/$FILE/99._GT_Landsverordening_melding_
+ongebruikelijke_transacties%20_1_.pdf 
+ www.rand.org/topics/delphi-method.html 
+ www.tweedekamer.nl/kamerstukken/detail?id=2020Z11556&did=2020D24837 
+Vindplaatsen wet- en regelgeving 
+Titel Afkorting Vindplaats * 
+Wet ter voorkoming van witwassen en financieren van terrorisme BES Wwft BES Stb. 2020, 465 
+Wet financiële markten BES  Wfm BES Stb. 2020, 465 
+Wetboek van Strafrecht BES  WvSr BES Stb. 2020, 396 
+Wetboek van Strafvordering BES WvSv BES Stb. 2019, 142 
+Burgerlijk Wetboek BES Boek 2  Stb. 2019, 107 
+Belastingwet BES - Stb. 2019, 512 
+Douane- en accijnswet BES - Stb. 2019, 512 
+* De vindplaats heeft betrekking op de inwerkingtreding van de meest recente wijziging van de wet.  
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  101 
+
+ 
+Bijlage 2 Lijst van geïnterviewden 
+Met het oog op de anonimiteit van de respondenten wordt in deze lijst alleen de 
+naam van de organisaties waar respondenten werkzaam zijn, weergegeven. Per 
+organisatie wordt aangegeven hoeveel medewerkers geïnterviewd zijn. 
+ 
+Tabel B.1  Lijst van geïnterviewden 
+Oriënterende Verdiepende Validerende 
+ interviews interviews interviews 
+ Aantal geïnterviewden Aantal geïnterviewden Aantal geïnterviewden 
+AMLC/FIOD 2 - - 
+AFM 2 - - 
+Bank Bonaire I - 3 - 
+Bank Bonaire II - 1 - 
+Belastingdienst/Douane Caribisch - 2 - 
+Nederland 
+Bonaire Hotel and Tourism Association - 2 - 
+BTWwft 1 1 - 
+DNB 2 2 - 
+FIU-Nederland 2 1 1 
+FIU-Sint Maarten 1 - - 
+Handelaar in bouwmaterialen - 1 - 
+Kadaster Bonaire - 1 - 
+Kamer van Koophandel en Nijverheid - 2 - 
+Bonaire 
+KMar - 3 - 
+KPCN - 4 - 
+Onderzoeker ‘Veiligheidsbeeld BES 2018’ 1 - - 
+OM Caribisch Nederland 1 1 1 
+Openbaar Lichaam Bonaire - 1 - 
+Openbaar Lichaam Saba - 1 - 
+Notaris Bonaire - 1 - 
+Notaris Sint Maarten - 1 - 
+Ministerie van Financiën 2 - 1 
+Ministerie van Justitie en Veiligheid 3 - 1 
+RST - 1 - 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  103 
+
+ 
+Bijlage 4 FANO-enquêtes 
+FANO-enquête witwassen 
+Introductie 
+Via deze mailenquête willen wij achterhalen of uw organisatie via de eigen werk-
+zaamheden (dus niet via berichten uit de media, via andere organisaties of andere 
+bronnen) ervaring heeft met feiten/casussen van ‘dreigingen’ op het terrein van 
+witwassen. Bij ‘dreigingen’ gaat het om methoden die (kunnen) worden ingezet om 
+crimineel geld wit te wassen. 
+ 
+De enquête moet ook inzichtelijk maken in hoeverre uw organisatie de prevalentie 
+van de dreigingen al dan niet aannemelijk acht (op basis van informatie die bij uw 
+organisatie via de eigen werkzaamheden beschikbaar is). Dit geschiedt volgens de 
+zogeheten FANO-systematiek. 
+ 
+Aan u wordt gevraagd om voor Bonaire, Sint Eustatius en/of Saba (afhankelijk van 
+de beantwoording van de vragen in de begeleidende mail) in de longlist van 
+witwasdreigingen bij iedere dreiging een van de volgende letters te markeren: 
+ een F indien er volgens u sprake is van deze dreiging en er via de eigen werk-
+zaamheden één of meer Feiten/casussen bekend zijn bij uw organisatie; 
+ een A indien het volgens u Aannemelijk is dat deze dreiging speelt maar er via  
+de eigen werkzaamheden geen feiten/casussen bekend zijn bij uw organisatie; 
+ een N indien het volgens u Niet aannemelijk is dat deze dreiging speelt op basis 
+van de informatie waarover uw organisatie via de eigen werkzaamheden be-
+schikt; 
+ een O indien het voor u Onbekend is of een dreiging speelt, omdat uw organisatie 
+geen zicht heeft hierop via de eigen werkzaamheden, of omdat u de dreiging niet 
+kent. 
+ 
+U kunt uw keuze voor het betreffende vakje (F, A, N, O) markeren via een kruisje. 
+Doe dit voor elke dreiging in de tabel. Wanneer u dit bij een bepaalde dreiging niet 
+doet, dan interpreteren wij dit in de analysefase als een O (van Onbekend). Het is 
+de bedoeling dat u per dreiging slechts één keuze maakt. 
+ 
+Onderaan de beide longlisten bestaat de mogelijkheid om dreigingen die volgens u 
+ontbreken, toe te voegen. Indien u hier een toevoeging doet, wilt u dan ook aan-
+geven of het gaat om een dreiging waar uw organisatie via eigen werkzaamheden 
+ervaring mee heeft (F) of om een dreiging die u aannemelijk acht op basis van de 
+informatie waarover uw organisatie via de eigen werkzaamheden beschikt (A). 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  105 
+
+ 
+FANO-enquête terrorismefinanciering 
+Introductie 
+Via deze mailenquête willen wij achterhalen of uw organisatie via de eigen 
+werkzaamheden (dus niet via berichten uit de media, via andere organisaties of 
+andere bronnen) ervaring heeft met feiten/casussen van ‘dreigingen’ op het terrein 
+van terrorismefinanciering. Bij ‘dreigingen’ gaat het om methoden die (kunnen) 
+worden ingezet om terrorisme te financieren. 
+ 
+De enquête moet ook inzichtelijk maken in hoeverre uw organisatie de prevalentie 
+van de dreigingen al dan niet aannemelijk acht (op basis van informatie die bij uw 
+organisatie via de eigen werkzaamheden beschikbaar is). Dit geschiedt volgens de 
+zogeheten FANO-systematiek. 
+ 
+Aan u wordt gevraagd om voor Bonaire, Sint Eustatius en/of Saba (afhankelijk van 
+de beantwoording van de vragen in de begeleidende mail) in de longlist van 
+terrorismefinancieringdreigingen bij iedere dreiging een van de volgende letters te 
+markeren: 
+ een F indien er volgens u sprake is van deze dreiging en er via de eigen werk-
+zaamheden één of meer Feiten/casussen bekend zijn bij uw organisatie; 
+ een A indien het volgens u Aannemelijk is dat deze dreiging speelt maar er via  
+de eigen werkzaamheden geen feiten/casussen bekend zijn bij uw organisatie; 
+ een N indien het volgens u Niet aannemelijk is dat deze dreiging speelt op basis 
+van de informatie waarover uw organisatie via de eigen werkzaamheden be-
+schikt; 
+ een O indien het voor u Onbekend is of een dreiging speelt, omdat uw organisatie 
+geen zicht heeft hierop via de eigen werkzaamheden, of omdat u de dreiging niet 
+kent. 
+ 
+U kunt uw keuze voor het betreffende vakje (F, A, N, O) markeren via een kruisje. 
+Doe dit voor elke dreiging in de tabel. Wanneer u dit bij een bepaalde dreiging niet 
+doet, dan interpreteren wij dit in de analysefase als een O (van Onbekend). Het is 
+de bedoeling dat u per dreiging slechts één keuze maakt. 
+ 
+Onderaan de beide longlisten bestaat de mogelijkheid om dreigingen die volgens u 
+ontbreken, toe te voegen. Indien u hier een toevoeging doet, wilt u dan ook aan-
+geven of het gaat om een dreiging waar uw organisatie via eigen werkzaamheden 
+ervaring mee heeft (F) of om een dreiging die u aannemelijk acht op basis van de 
+informatie waarover uw organisatie via de eigen werkzaamheden beschikt (A). 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  107 
+
+ 
+Bijlage 5 Resultaten FANO-enquête witwassen 
+Tabel B.7  Respons FANO-enquêtes 
+FANO-enquête  Bonaire Sint Eustatius Saba 
+Aantal benaderde Aantal Aantal Aantal 
+ organisaties respondenten respondenten respondenten 
+Witwassen 28 13 7 7 
+Terrorismefinanciering 28 2 1 1 
+Bonaire 
+Tabel B.8  Witwasdreigingen waarvan feit/casus bekend is (n=13)  
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB (girale 6 
+transacties/ stortingen of contante stortingen) 
+Witwassen via notarissen 5 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de lucht 
+Witwassen via besteding van grote hoeveelheden contant geld in vastgoed/onroerend goed 4 
+Witwassen via loan back constructies 
+Witwassen via ABC-transacties 
+Witwassen via ondergronds bankieren (bijv. Hawala-bankieren) 3 
+Witwassen via loterijen 
+Witwassen via autohandelaren 
+Witwassen via geldtransactiekantoren die zonder DNB-vergunning opereren  2 
+Witwassen via makelaars  
+Witwassen via projectontwikkelaars 
+Witwassen via juweliers 
+Witwassen via rechtsvormen (stichtingen, bv’s, e.d.) 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee 
+Witwassen via besteding van grote hoeveelheden contant geld in andere 
+producten/goederen dan vastgoed/onroerend goed 
+Witwassen via constructies bij trustkantoren zonder DNB-vergunning 1 
+Witwassen via administratiekantoren 
+Witwassen via belastingadviseurs 
+Witwassen via advocaten 
+Witwassen via casino’s 
+Witwassen via offshore vennootschappen 
+Toegevoegd: Witwassen via horecaondernemingen 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  109 
+
+ 
+Tabel B.10 Witwasdreigingen met niet-aannemelijke prevalentie (n=13) 
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via geldtransactiekantoren met een DNB-vergunning 2 
+Witwassen via beleggingsinstellingen/-ondernemingen met een AFM-vergunning 
+Witwassen via verzekeraars 
+Witwassen via ondergronds bankieren (bijv. Hawala-bankieren) 1 
+Witwassen via geldtransactiekantoren die zonder DNB-vergunning opereren 
+Witwassen via constructies bij trustkantoren met een DNB-vergunning 
+Witwassen via beleggingsinstellingen/-ondernemingen zonder AFM-vergunning 
+Witwassen via accountants 
+Witwassen via administratiekantoren 
+Witwassen via belastingadviseurs 
+Witwassen via notarissen 
+Witwassen via advocaten 
+Witwassen via makelaars 
+Witwassen via projectontwikkelaars 
+Witwassen via verkopers van / handelaars in bouwmaterialen 
+Witwassen via autohandelaren 
+Witwassen via rechtsvormen (stichtingen, bv’s, e.d.) 
+Witwassen via offshore vennootschappen 
+Witwassen via virtuele valuta 
+Witwassen via besteding van grote hoeveelheden contant geld in vastgoed/onroerend goed 
+Witwassen via loan back constructies 
+Witwassen via ABC-transacties 
+Sint Eustatius 
+Tabel B.11 Witwasdreigingen waarvan feit/casus bekend is (n=7) 
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB (girale 3 
+transacties/ stortingen of contante stortingen) 
+Witwassen via loterijen 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  111 
+
+ 
+Tabel B.13 Witwasdreigingen met niet-aannemelijke prevalentie (n=7) 
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via constructies bij trustkantoren met een DNB-vergunning 3 
+Witwassen via beleggingsinstellingen/-ondernemingen met een AFM-vergunning 
+Witwassen via casino’s 
+Witwassen via autohandelaren 
+Witwassen via juweliers 
+Witwassen via constructies bij trustkantoren zonder DNB-vergunning 2 
+Witwassen via beleggingsinstellingen/-ondernemingen zonder AFM-vergunning 
+Witwassen via administratiekantoren 1 
+Witwassen via virtuele valuta 
+Witwassen via besteding van grote hoeveelheden contant geld in andere 
+producten/goederen dan vastgoed/onroerend goed 
+Saba 
+Tabel B.14 Witwasdreigingen waarvan feit/casus bekend is (n=7) 
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB (girale 1 
+transacties/ stortingen of contante stortingen) 
+Witwassen via loterijen 
+ 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  113 
+
+ 
+Tabel B.16 Witwasdreigingen met niet-aannemelijke prevalentie (n=7) 
+Aantal 
+Witwasdreiging respondenten 
+Witwassen via constructies bij trustkantoren met een DNB-vergunning 3 
+Witwassen via beleggingsinstellingen/-ondernemingen met een AFM-vergunning 
+Witwassen via casino’s 
+Witwassen via online kansspelen 
+Witwassen via autohandelaren 
+Witwassen via juweliers 
+Witwassen via geldtransactiekantoren met een DNB-vergunning 2 
+Witwassen via geldtransactiekantoren die zonder DNB-vergunning opereren 
+Witwassen via constructies bij trustkantoren zonder DNB-vergunning 
+Witwassen via beleggingsinstellingen/-ondernemingen zonder AFM-vergunning 
+Witwassen via offshore vennootschappen 
+Witwassen via administratiekantoren 1 
+Witwassen via virtuele valuta 
+ 
+ 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  115 
+
+ 
+Bijlage 7 Resultaten enquête 
+beleidsinstrumentarium 
+Tabel B.20 Welke bijdrage leveren bestaande beleidsinstrumenten aan de 
+preventie/bestrijding van witwassen? (n=7)* 
+ Levert geen Levert Onbekend met 
+substantiële substantiële beleids-
+bijdrage bijdrage instrument 
+• Wet ter voorkoming van witwassen en financieren 0 6 1 
+van terrorisme BES 
+• Wet financiële markten BES 0 6 1 
+• Wetboek van Strafrecht BES  1 6 0 
+• FATF aanbevelingen 0 5 2 
+• Samenwerkingsverbanden met andere eilanden in 0 5 2 
+het Koninkrijk (Aruba, Curaçao en/of Sint Maarten) 
+• Samenwerkingsverbanden tussen organisaties op 1 5 1 
+Bonaire, Sint Eustatius en/of Saba 
+• Wetboek van Strafvordering BES 1 5 1 
+• Richtlijnen, handreikingen en beleidsplannen van 0 4 3 
+toezichthouders, opsporingsdiensten en andere 
+handhavers 
+• Wet op het notarisambt BES 0 2 5 
+• Wet op de Kamers van Koophandel en Nijverheid 0 2 5 
+BES 
+• Belastingwet BES 2 2 3 
+• Samenwerkingsverbanden met andere (ei)landen 0 2 5 
+buiten de Caribische regio 
+• Loterijwet BES 0 1 6 
+• Kadasterwet BES 0 1 6 
+• Douane- en accijnswet BES 2 1 4 
+• Handelsregisterwet 2009 BES 0 0 7 
+• Samenwerkingsverbanden met andere (ei)landen in 1 0 6 
+de Caribische regio 
+• Sectorale regelgeving en voorwaarden (bijv. 1 0 6 
+algemene bankvoorwaarden) 
+* Hierbij is uitgegaan van de situatie in januari 2021 (het moment waarop de enquête is uitgezet). 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  117 
+
+ 
+Bijlage 8 Resultaten eerste expertmeeting 
+Tabel B.23 Identificatie grootste witwasdreigingen Bonaire (naar aantal 
+deelnemers) 
+e e
+ 1 ronde 2 ronde 
+(n=12) (n=11) 
+Witwassen via besteding van grote hoeveelheden contant geld in 9 9 
+vastgoed/onroerend goed 
+Witwassen via ondergronds bankieren (bijv. Hawala-bankieren) 8 9 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de lucht 3 8* 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee 3 8* 
+Witwassen via fingeren van bedrijfsomzet 6 7 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 8 6 
+(girale transacties/stortingen of contante stortingen) 
+Witwassen via rechtsvormen (stichtingen, bv’s, e.d.) 6 6 
+Witwassen via aannemers (nieuwbouw / vastgoed) 4 5 
+Witwassen via notarissen 8 4 
+Witwassen via projectontwikkelaars 6 4 
+Witwassen via geldtransactiekantoren die zonder DNB-vergunning opereren 3 4 
+Witwassen via makelaars 7 3 
+Witwassen via ABC-transacties 5 3 
+Witwassen via constructies bij trustkantoren zonder DNB-vergunning 2 3 
+Witwassen via autohandelaren 4 2 
+Witwassen via loan back constructies 3 2 
+Witwassen via loterijen 1 2 
+Witwassen via inzet van tussenpersonen (stromannen, katvangers) 4 1 
+Witwassen via verkopers van / handelaars in bouwmaterialen 3 1 
+Witwassen via handelsconstructies met diensten of goederen 2 1 
+Witwassen via besteding van grote hoeveelheden contant geld in andere 2 1 
+producten/goederen dan vastgoed/onroerend goed 
+Witwassen via administratiekantoren 2 1 
+Witwassen via virtuele valuta 1 1 
+Witwassen via juweliers 1 1 
+Witwassen via casino’s 1 1 
+Witwassen via beleggingsinstellingen/-ondernemingen zonder AFM- 1 1 
+vergunning 
+Witwassen via geldtransactiekantoren met een DNB-vergunning 2 0 
+Witwassen via online kansspelen 1 0 
+Witwassen via betaalkaarten (prepaidkaarten, telefoonkaarten, e.d.) 0 0 
+Witwassen via verzekeraars 0 0 
+Witwassen via advocaten 0 0 
+Witwassen via belastingadviseurs 0 0 
+Witwassen via accountants 0 0 
+Witwassen via beleggingsinstellingen/-ondernemingen met een AFM- 0 0 
+vergunning 
+Witwassen via constructies bij trustkantoren met een DNB-vergunning 0 0 
+Witwassen via offshore vennootschappen 2 ** 
+* Dit betreft een samenvoeging van de dreigingen ‘Witwassen via het fysiek (ver)plaatsen van contant geld via de lucht’ en 
+‘Witwassen via het fysiek (ver)plaatsen van contant geld via de zee’. 
+** Deze dreiging is onderdeel geworden van de dreiging ‘Witwassen via rechtsvormen (stichtingen, bv’s, e.d.)’. 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  119 
+
+ 
+Tabel B.25 Identificatie grootste witwasdreigingen Saba (naar aantal 
+deelnemers) 
+e e
+ 1 ronde  2 ronde 
+(n=9) (n=9) 
+Witwassen via besteding van grote hoeveelheden contant geld in 1 9 
+vastgoed/onroerend goed 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de zee 4 5* 
+Witwassen via het fysiek (ver)plaatsen van contant geld via de lucht 3 5* 
+Witwassen via ondergronds bankieren (bijv. Hawala-bankieren) 4 5 
+Witwassen via notarissen 2 5 
+Witwassen via banken (kredietinstellingen) met een vergunning van DNB 4 3 
+(girale transacties/stortingen of contante stortingen) 
+Witwassen via rechtsvormen (stichtingen, bv’s, e.d.) 2 2 
+Witwassen via makelaars 2 2 
+Witwassen via geldtransactiekantoren die zonder DNB-vergunning opereren 2 2 
+Witwassen via fingeren van bedrijfsomzet 1 2 
+Witwassen via constructies bij trustkantoren zonder DNB-vergunning 0 2 
+Witwassen via loterijen 2 1 
+Witwassen via besteding van grote hoeveelheden contant geld in andere 1 1 
+producten/goederen dan vastgoed/onroerend goed 
+Witwassen via administratiekantoren 1 1 
+Witwassen via aannemers (nieuwbouw / vastgoed) 0 1 
+Witwassen via projectontwikkelaars 0 1 
+Witwassen via beleggingsinstellingen/-ondernemingen zonder AFM- 0 1 
+vergunning 
+Witwassen via verkopers van / handelaars in bouwmaterialen 1 0 
+Witwassen via geldtransactiekantoren met een DNB-vergunning 1 0 
+Witwassen via inzet van tussenpersonen (stromannen, katvangers) 0 0 
+Witwassen via handelsconstructies met diensten of goederen 0 0 
+Witwassen via ABC-transacties 0 0 
+Witwassen via loan back constructies 0 0 
+Witwassen via betaalkaarten (prepaidkaarten, telefoonkaarten, e.d.) 0 0 
+Witwassen via virtuele valuta 0 0 
+Witwassen via juweliers 0 0 
+Witwassen via autohandelaren 0 0 
+Witwassen via online kansspelen 0 0 
+Witwassen via casino’s 0 0 
+Witwassen via verzekeraars 0 0 
+Witwassen via advocaten 0 0 
+Witwassen via belastingadviseurs 0 0 
+Witwassen via accountants 0 0 
+Witwassen via beleggingsinstellingen/-ondernemingen met een AFM- 0 0 
+vergunning 
+Witwassen via constructies bij trustkantoren met een DNB-vergunning 0 0 
+Witwassen via offshore vennootschappen 0 ** 
+* Dit betreft een samenvoeging van de dreigingen ‘Witwassen via het fysiek (ver)plaatsen van contant geld via de lucht’ en 
+‘Witwassen via het fysiek (ver)plaatsen van contant geld via de zee’. 
+** Deze dreiging is onderdeel geworden van de dreiging ‘Witwassen via rechtsvormen (stichtingen, bv’s, e.d.)’. 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  121 
+
+ 
+Inschatting potentiële impact grootste witwasdreigingen 
+e
+Tabel B.28 Potentiële impact grootste witwasdreigingen Bonaire (1 
+schattingsronde, op een schaal van 0-100) 
+Verslechtering Vermindering 
+stabiliteit Ondermijning Aantasting Ontregeling subjectieve/ Gemiddelde 
+financiële gezag en reguliere maatschap- Inbreuk op objectieve gewogen 
+ stelsel rechtsorde economie pelijke orde het imago veiligheid score 
+• Witwassen in vastgoed-/onroerend- 88,5 75,0 75,1 62,9 57,8 38,9 66,4 
+goedsector 
+• Witwassen via banken (krediet- 99,5 79,1 63,5 55,9 59,4 32,5 65,0 
+instellingen) met een vergunning 
+van DNB 
+• Witwassen via rechtsvormen 83,6 80,2 59,9 50,1 49,1 31,8 59,1 
+• Witwassen via ondergronds 74,2 70,8 53,7 53,2 38,0 42,6 55,4 
+bankieren incl. geldtransactie-
+kantoren die zonder DNB-
+vergunning opereren 
+• Witwassen via loan back 64,9 65,1 51,0 47,9 43,2 25,8 55,1 
+constructies 
+• Witwassen via het fysiek (ver)plaat- 66,0 69,2 57,7 48,8 47,5 41,1 50,2 
+sen van contant geld via de zee 
+en/of lucht 
+• Witwassen via fingeren van 68,2 62,5 56,8 47,5 37,6 28,4 49,6 
+bedrijfsomzet 
+ 
+e
+Tabel B.29 Potentiële impact grootste witwasdreigingen Bonaire (2 
+schattingsronde, op een schaal van 0-100) 
+Verslechtering Vermindering 
+stabiliteit Ondermijning Aantasting Ontregeling subjectieve/ Gemiddelde 
+financiële gezag en reguliere maatschap- Inbreuk op objectieve gewogen 
+ stelsel rechtsorde economie pelijke orde het imago veiligheid score 
+• Witwassen in vastgoed-/onroerend- 78,1 82,2 74,2 65,1 60,6 41,5 67,0 
+goedsector 
+• Witwassen via banken (krediet- 93,5 82,2 64,4 60,7 57,0 36,3 65,7 
+instellingen) met een vergunning 
+van DNB 
+• Witwassen via rechtsvormen 82,5 81,7 60,4 59,4 50,3 37,8 62,0 
+• Witwassen via ondergronds 77,0 67,9 55,5 56,3 43,9 37,0 56,3 
+bankieren incl. geldtransactie-
+kantoren die zonder DNB-
+vergunning opereren 
+• Witwassen via loan-back 68,2 68,2 53,7 51,5 46,3 35,5 53,9 
+constructies 
+• Witwassen via het fysiek (ver)plaat- 63,2 66,1 50,5 51,5 43,5 39,3 52,4 
+sen van contant geld via de zee 
+en/of lucht 
+• Witwassen via fingeren van 64,9 67,7 55,0 47,9 43,2 31,8 51,7 
+bedrijfsomzet 
+ 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2021-14  |  123 
+
