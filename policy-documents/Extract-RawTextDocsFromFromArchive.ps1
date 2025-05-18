@@ -229,12 +229,12 @@ function Export-RawTextFromSourceFile {
 try {
     Push-Location "$PSScriptRoot\.." # Set to repo root
 
-    $BatchProc = Initialize-BatchProcess -Size 100 -OnProcess {
+    $BatchProc = Initialize-BatchProcess -Size 300 -OnProcess {
 
         param([int] $BatchNr, [object[]] $BatchedItems)
 
         git add --all
-        git commit -m "Added batch #$BatchNr of policy-docs (total: $($BatchedItems.Count)"
+        git commit -m "Added batch #$BatchNr of raw text extracted policy-docs (total: $($BatchedItems.Count)"
         git push
     }
 
