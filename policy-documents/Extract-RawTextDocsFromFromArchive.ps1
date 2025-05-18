@@ -149,7 +149,7 @@ function Get-TargetInfoFromSourceFile {
         $Dir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
         $Dir_RelPath = [System.IO.Path]::GetRelativePath($RootPath, $Dir_AbsPath)
 
-        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.simple.txt'
+        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.raw.txt'
         $TargetPath = Join-Path $Dir_AbsPath -ChildPath $Target_Name
 
         [PSCustomObject] @{
@@ -178,7 +178,7 @@ function Export-RawTextFromSourceFile {
 
             $Target_TextWriter = [System.IO.File]::CreateText($TargetPath)
             try {
-                $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.SimpleTextExtractionStrategy]::new()
+                $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.LocationTextExtractionStrategy]::new()
 
                 $PageMax = $Source_PdfReader.NumberOfPages
                 for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
@@ -233,8 +233,6 @@ try {
 
         param([int] $BatchNr, [object[]] $BatchedItems)
 
-        throw 'stop'
-
         git add --all
         git commit -m "Added batch #$BatchNr of policy-docs (total: $($BatchedItems.Count)"
         git push
@@ -248,7 +246,15 @@ try {
 
 
     $Logging.Info_StartedExportingRawTexts()
-    Get-ChildItem -Filter *.pdf -File -Recurse |
+    Get-ChildItem -Path "$PSScriptRoot\Archive" -Directory |
+        Where-Object Name -In @(
+            'kamerstukken',
+            'rapporten',
+            'publicaties',
+            'jaarverslagen',
+            'beleidsnotas'
+        ) |
+        Get-ChildItem -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile |
         Export-RawTextFromSourceFile |
         ForEach-Object {
