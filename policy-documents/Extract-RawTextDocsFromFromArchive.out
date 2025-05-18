@@ -12314,3 +12314,154 @@ Exception calling ".ctor" with "1" argument(s): "Unknown encryption type R = 6"
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\01\25\besluit-wob-verzoek-mandaatregisters-bzk ]> wob-besluit-mandaatregisters-bzk-documenten.pdf[0m
 [32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\03\10\besluit-op-wob-verzoek-over-vervanging-onderzeebootcapaciteit ]> wobbesluit-kandidaat-werven-vervanging-onderzeebootcapaciteit.pdf[0m
 [94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 61; BatchedItems: 100]...[0m
+[main ec5d0b82] Added batch #61 of policy-docs (total: 100
+ 101 files changed, 159053 insertions(+)
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/02/16/agenda-rijksministerraad-16-februari-2024/agenda-rijksministerraad-20240216.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/02/16/geannoteerde-besluitenlijst-rijksministerraad-16-februari-2024/besluitenlijst-rijksministerraad-20240216.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/03/22/geannoteerde-besluitenlijst-ministerraad-22-maart-2024/besluitenlijst-ministerraad-20240322.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/03/28/geannoteerde-besluitenlijst-rijksministerraad-28-maart-2024/besluitenlijst-rijksministerraad-20240328.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/04/12/geannoteerde-besluitenlijst-ministerraad-12-april-2024/besluitenlijst-ministerraad-20240412.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/04/19/geannoteerde-besluitenlijst-ministerraad-19-april-2024/besluitenlijst-ministerraad-20240419.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/04/26/agenda-rijksministerraad-26-april-2024/agenda-rijksministerraad-20240426.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/04/26/geannoteerde-besluitenlijst-ministerraad-26-april-2024/besluitenlijst-ministerraad-20240426.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/04/26/geannoteerde-besluitenlijst-rijksministerraad-26-april-2024/besluitenlijst-rijksministerraad-20240426.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/05/08/geannoteerde-besluitenlijst-ministerraad-8-mei-2024/besluitenlijst-ministerraad-20240508-v2.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/05/24/geannoteerde-besluitenlijst-ministerraad-24-mei-2024/besluitenlijst-ministerraad-20240524.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/05/31/geannoteerde-besluitenlijst-ministerraad-31-mei-2024/besluitenlijst-ministerraad-20240531.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/06/07/geannoteerde-besluitenlijst-ministerraad-7-juni-2024/besluitenlijst-ministerraad-20240607.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/06/21/geannoteerde-besluitenlijst-ministerraad-21-juni-2024/besluitenlijst-ministerraad-20240621.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/06/21/geannoteerde-besluitenlijst-rijksministerraad-21-juni-2024/besluitenlijst-rijksministerraad-20240621.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/07/12/besluitenlijst-ministerraad-12-juli-2024/besluitenlijst-ministerraad-20240712.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/10/25/besluitenlijst-rijksministerraad-25-oktober-2024/besluitenlijst-rijksministerraad-20241025.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/11/22/besluitenlijst-ministerraad-22-november-2024/besluitenlijst-ministerraad-20241122.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/11/29/besluitenlijst-ministerraad-29-november-2024/besluitenlijst-ministerraad-20241129.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2024/11/29/besluitenlijst-rijksministerraad-29-november-2024/besluitenlijst-rijksministerraad-20241129.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/01/31/agenda-rijksministerraad-31-januari-2025/agenda-rijksministerraad-20250131.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/01/31/besluitenlijst-ministerraad-31-januari-2025/besluitenlijst-ministerraad-20250131.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/01/31/besluitenlijst-rijksministerraad-31-januari-2025/besluitenlijst-rijksministerraad-20250131.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/03/24/besluitenlijst-ministerraad-24-maart-2025/besluitenlijst-ministerraad-20250324.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/04/11/agenda-ministerraad-11-april-2025/agenda-ministerraad-20250411.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/04/11/besluitenlijst-ministerraad-11-april-2025/besluitenlijst-ministerraad-20250411.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/04/25/agenda-rijksministerraad-25-april-2025/agenda-rijksministerraad-20250425.raw.txt
+ create mode 100644 policy-documents/Archive/vergaderstukken/2025/04/25/besluitenlijst-rijksministerraad-25-april-2025/besluitenlijst-rijksministerraad-20250425.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2007/08/20/falende-staten/gentegreerderapportagefalendestaten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2007/08/20/wereldwijde-handel-in-drugs/gentegreerderapportagewereldwijdehandelindrugs.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/03/01/bijlage-wob-verzoek-kosten-lunch-diner-vergadering-4-ienm.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/03/01/bijlage-wob-verzoek-kosten-reis-en-verblijfskosten-15-ienm.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/03/01/bijlage-wob-verzoek-kosten-reis-en-verblijfskosten-6-ienm.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/05/25/vervolg-wob-verzoek-levering-luchtvaartmeteorologische-diensten-knmi-aan-lvnl-bijlage-1-van-2/beantwoording-vervolg-wob-brief-met-brief-knmi-2012-601-bijlage-1-van-2.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/07/30/wob-verzoek-rtl-dienstreizen-naar-gebiedsdelen-binnen-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/09/28/bijlagen-bij-wobverzoek-over-dienstreizen-overzeese-gebiedsdelen.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/besluit-wob-verzoek-over-stichting-cito-duo/overzicht-van-stukken-bij-wob-besluit-27-11-2012.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/besluit-wob-verzoek-over-stichting-cito-duo/wobbesluit-27-11-2012-duo-nr-15.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/besluit-wob-verzoek-over-stichting-cito-duo/wobbesluit-27-11-2012-duo-nr-16-tm-38.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/overzicht-van-stukken-bij-wob-besluit-27-11-2012.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-36-44.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-45-61.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-62-75.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-76-80.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2012/11/27/bijlagen-wob-verzoek-stichting-cito-ocw/wobbesluit-27-11-2012-ocw-nr-81-88.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/02/15/bijlage-bij-wob-verzoek-over-declaraties-en-rittenstaten-staatssecretaris-van-financie-D32338B1/set-staatssecretaris.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/07/23/samenvattend-auditrapport-2012-koninkrijksrelaties-iv/05-samenvattend-rapport-adr-2012-koninkrijksrelaties-iv.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/07/23/samenvattend-auditrapport-2012-ministerie-van-volksgezondheid-welzijn-en-sport-xvi/14-samenvattend-rapport-adr-2012-ministerie-van-volksgezondheid-welzijn-en-sport-xvi.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/09/05/bijlagen-wob-verzoek-subsidies-stichting-cito/overzicht-documenten-bij-wob-besluit-dd-5-9-2013.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/09/05/bijlagen-wob-verzoek-subsidies-stichting-cito/stukken-bij-besluit-op-wob-verzoek-d-d-05-09-2013-nrs-1-20.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/09/05/bijlagen-wob-verzoek-subsidies-stichting-cito/stukken-bij-besluit-op-wob-verzoek-d-d-05-09-2013-nrs21-51.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/09/17/liijst-incidenten-bij-derde-deelbesluit-wob-verzoek-cyberincidenten-bij-overheidsorgan-5407F841/totale-lijst-incidenten-2010-2013.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/10/14/bijlage-bij-wob-verzoek-inzake-het-opvragen-van-taxatiegegevens-van-percelen-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/10/14/wob-verzoek-inzake-het-opvragen-van-taxatiegegevens-van-percelen-op-bonaire.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/11/25/besluit-wob-verzoek-dienstreizen-nederlandse-ministeries-naar-overzeese-delen-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/11/25/besluit-wob-verzoek-over-dienstreizen-uitzendingen-en-opdrachten-naar-caribisch-deel-v-81BCEE56/besluit-wob-verzoek-over-dienstreizen-uitzendingen-en-opdrachten-naar-het-caribisch-deel-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/11/27/besluit-wob-verzoek-dienstreizen-vanuit-nederlandse-ministeries-naar-caribisch-deel-va-551CC5E3/wob-verzoek-dienstreizen-ienm-naar-caribisch-gebied.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/11/27/besluit-wob-verzoek-over-dienstreizen-vanuit-nederlandse-ministeries-naar-de-overzeese-delen-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/12/03/besluit-wob-verzoek-over-dienstreizen-vanuit-nederlandse-ministeries-naar-de-overzeese-delen-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/12/12/bijlagen-bij-besluit-wob-verzoek-rond-selectiviteitsbeleid-luchthaven-schiphol-en-luch-DED5FD22/wob-arkefly-13.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2013/12/20/besluit-wob-verzoek-dienstreizen-vanuit-nederlandse-ministeries-naar-caribisch-deel-van-het-koninkrijk.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/09/15/besluit-wob-verzoek-private-beveiliging/wob-verzoek-private-beveiliging-doc-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/09/24-bzk/besluit-wob-verzoek-vacatureteksten-en-functieprofielen-functies-in-de-documentaire-informatie-voorziening-div.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/10/01/samenvattend-auditrapport-2013-bes-fonds-h.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/10/01enheid-xv/samenvattend-auditrapport-2013-ministerie-van-sociale-zaken-en-werkgeleg.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/10/01n-sport-xvi/samenvattend-auditrapport-2013-ministerie-van-volksgezondheid-welzijn-e.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/10/01nkrijksrelaties-vii/samenvattend-auditrapport-2013-ministerie-van-binnenlandse-zaken-en-koni.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2014/10/01nschap-viii/samenvattend-auditrapport-2013-ministerie-van-onderwijs-cultuur-en-wete.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/01/12/besluit-wob-verzoek-private-beveiliging/wob-verzoek-private-beveiliging-doc-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/04/20/bijlagen-bij-besluit-wob-verzoek-ict-problemen-belastingdienst/bijlagen-11-23-bij-besluit-wob-verzoek-ict-problemen-belastingdienst.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/05/27/bijlage-11-1-bij-besluit-wob-verzoek-over-afspraken-van-de-staat-met-air-france-en-klm/besluit-wobverzoek-fusie-airfranceenklm-bijl11-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/07/30/bijlage-bij-besluit-wob-verzoek-over-kassafunctie-belastingdienst-caribisch-nederland/alle-documenten-in-een-pdf.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/11/04/besluit-wob-verzoek-declaraties-medewerkers-belastingdienst/besluit-inzake-declaraties-schalen-17-en-18-webversie-definitief.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2015/12/17/besluit-op-wob-verzoek-over-functioneren-politie-in-caribisch-gebied/eerste-deelbesluit.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2016/02/22-op-wob-verzoek-over-functioneren-politie-in-caribisch-gebied/tweede-deelbesluit.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2016/06/27/besluit-wob-verzoek-kosten-rijksvertegenwoordiger-bes/besluit-wob-verzoek-betalingen-rijksvertegenwoordiging-bes-eilanden2.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2017/04/19/besluit-op-wob-verzoek-over-begeleiding-studenten-uit-caribisch-nederland/Bijlagen_bij_Wob-verzoek_begeleiding_studerenden_uit_Caribisch_Nederland.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2017/04/19/besluit-op-wob-verzoek-over-begeleiding-studenten-uit-caribisch-nederland/Brief_Wob-verzoek_begeleiding_aan_studerenden_afkomstig_uit_Caribisch_Nederland_(geanonimiseerd).raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2017/04/19/besluit-op-wob-verzoek-over-begeleiding-studenten-uit-caribisch-nederland/Document_1_-_Beschrijvend_document__Begeleiding_studerenden_Caribisch_Nederland_2016-2017_(geanonimiseerd).raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2017/05/01/wob-verzoek-naar-documenten-over-integriteit-bij-douane/Bijlage7-16scanbesluit2017-67697.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2018/04/03/bijlagen-bij-besluit-op-wob-verzoek-handboeken-igz-igj-i.o.-4-van-5.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2019/06/03/besluit-op-wob-verzoek-over-de-proefbeoordeling-van-tachtig-zoogdiersoorten/Besluit_op_Wob-verzoek_over_de_proefbeoordeling_van_80_diersoorten_Geredigeerd.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2019/06/24/besluit-op-wob-verzoek-over-het-sinterklaasfeest-en-zwarte-piet/Ordner3.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2019/07/18/te-verstrekken-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/05/21/besluit-wob-verzoek-werkzaamheden-oefenterrein-wacawa/bijlagen-oefenterrein-wacawa.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/09/30/besluit-op-wob-verzoek-over-het-leenstelsel-en-de-vouchers-voor-nascholing/bijlagen-wob-verzoek-leenstelsel-en-vouchers-nascholing.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/01/besluit-wob-verzoek-voorwaarden-financiele-steun-sint-maarten/bijlagen-besluit-wob-verzoek-financiele-steun-sint-maarten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/26/besluit-op-wob-verzoek-over-land-information-manoeuvre-centre-limc/bijlage-4-wob-besluit-limc-map1-1-50.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/26/besluit-op-wob-verzoek-over-land-information-manoeuvre-centre-limc/bijlage-5-wob-besluit-limc-map1-51-83.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/26/besluit-op-wob-verzoek-over-land-information-manoeuvre-centre-limc/bijlage-7-wob-besluit-limc-map1-107-eind.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/26/besluit-op-wob-verzoek-over-land-information-manoeuvre-centre-limc/bijlage-8-wob-besluit-limc-map2-134-256.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/10/29/besluit-op-wob-verzoek-over-rapport-ketenen-van-het-verleden/bijlage-wob-besluit-rapport-ketenen-van-verleden.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/11/12/2e-deelbesluit-wob-verzoek-hulp-en-ondersteuning-aan-curacao-en-aruba-voor-aanpak-migr-61F2A8BE/documenten-wob-ondersteuning-migratieproblematiek-venezuela-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/11/12/2e-deelbesluit-wob-verzoek-hulp-en-ondersteuning-aan-curacao-en-aruba-voor-aanpak-migr-61F2A8BE/documenten-wob-ondersteuning-migratieproblematiek-venezuela-2.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/11/23/deelbesluit-2-op-wob-verzoek-over-wob-instructie-waarover-in-ministerraad-van-16-april-72075232/bijlagen-wobbesluit-Wobinstructie-waarover-ministerraad-16-april-2021-een-besluit-is-genomen.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/11/30/besluit-wob-verzoek-reisadvies-italie/wob-reisadvies-italie-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/12/15/2e-deelbesluit-wob-verzoek-migratie-en-bescherming-in-curacao/besluit-wob-migratie-curacao-documenten-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2021/12/23/2e-deelbesluit-wob-verzoek-chinabeleid/2e-deelbesluit-wob-chinabeleid-documenten-1.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/01/25/besluit-wob-verzoek-mandaatregisters-bzk/wob-besluit-mandaatregisters-bzk-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/03/10/besluit-op-wob-verzoek-over-vervanging-onderzeebootcapaciteit/wobbesluit-kandidaat-werven-vervanging-onderzeebootcapaciteit.raw.txt
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\03\14\besluit-op-wob-verzoek-inzake-zsm ]> Wob-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\03\30\besluit-op-wob-verzoek-over-algoritmen ]> bijlagen-wob-besluit-gebruik-en-werking-van-algoritmes.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\04\05\aanvullend-besluit-wob-verzoek-voorwaarden-financiele-steun-sint-maarten ]> besluit-wob-steun-sint-maarten-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\04\21\besluit-wob-verzoek-humanitaire-vluchten-uit-curacao-en-aruba-naar-venezuela ]> besluit-wob-vluchten-curacao-aruba.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ wob-verzoeken\2022\04\28\2e-deelbeslissing-op-bezwaar-wob-verzoek-rekenmodel-srm2 ]> deelbesluit-2-bezwaar-wob-srm2-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\05\23\besluit-wob-verzoek-beleid-correspondentie-met-bkr ]> wob-beleid-correspondentie-bkr-documenten-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\06\21\besluit-wob-verzoek-fatca-en-fatca-iga ]> wob-fatca-besluit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\07\11\besluit-woo-verzoek-inzetbaarheidsrapportages-defensie ]> woo-besluit-inzetgereedheidsrapportages.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\08\09\besluit-wob-verzoek-uitvoering-sancties-tegen-rusland ]> wob-bzk-sancties-rusland-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\08\19\besluit-woo-verzoek-parkietenbosdump-aruba ]> woo-parkieten-aruba-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\09\06\besluiten-defensie-wob-verzoeken-evacuaties-afghanistan ]> inventarislijst-woo-evacuatie-afghanistan.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\09\13\besluit-op-wob-verzoek-over-beleidsdeelneming-bonaire-brandstof-terminals-bv ]> bijlage2-wob-woo-over-beleidsdeelneming-bonaire-brandstof-terminals-bv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\09\13\besluit-op-wob-verzoek-over-beleidsdeelneming-bonaire-brandstof-terminals-bv ]> bijlage3-wob-woo-over-beleidsdeelneming-bonaire-brandstof-terminals-bv.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\10\25\2e-deelbesluit-woo-verzoek-consultatie-centrale-voorziening-biometrische-gegevens ]> woo-consultatie-voorziening-biometrische-gegevens-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\11\28\1e-deelbesluit-woo-verzoek-testfaciliteiten-en-laboratoria-rivm ]> woo-testfaciliteiten-en-laboratoria-rivm-documenten-2.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\12\08\besluit-woo-verzoek-steun-aruba-en-curacao-voor-migratieproblematiek ]> Inventarislijst.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2022\12\23\besluit-woo-verzoek-overleggen-chinabeleid ]> woo-chinabeleid-documenten-1-20.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\01\31\besluit-woo-verzoek-richtlijn-chatberichten ]> woo-richtlijnen-chatberichten-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\06\besluit-woo-verzoek-buitenlandtoelage-verenigde-staten ]> woo-buitenland-toelagen-vs.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\06\besluit-woo-verzoek-nota-over-staat-czsk ]> woo-nota-over-staat-czsk.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\18\1e-deelbesluiten-woo-verzoeken-excuses-slavernijverleden ]> woo-excuses-slavernijverleden-besluit.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\18\1e-deelbesluiten-woo-verzoeken-excuses-slavernijverleden ]> woo-excuses-slavernijverleden-documenten.pdf[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ woo-besluiten\2023\04\24\besluit-woo-verzoek-aanvragen-wet-meer-ruimte-voor-nieuwe-scholen ]> 2023-016-besluit.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 62; BatchedItems: 23]...[0m
+[main 18f6a900] Added batch #62 of policy-docs (total: 23
+ 24 files changed, 42411 insertions(+)
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/03/14/besluit-op-wob-verzoek-inzake-zsm/Wob-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/03/30/besluit-op-wob-verzoek-over-algoritmen/bijlagen-wob-besluit-gebruik-en-werking-van-algoritmes.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/04/05/aanvullend-besluit-wob-verzoek-voorwaarden-financiele-steun-sint-maarten/besluit-wob-steun-sint-maarten-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/04/21/besluit-wob-verzoek-humanitaire-vluchten-uit-curacao-en-aruba-naar-venezuela/besluit-wob-vluchten-curacao-aruba.raw.txt
+ create mode 100644 policy-documents/Archive/wob-verzoeken/2022/04/28/2e-deelbeslissing-op-bezwaar-wob-verzoek-rekenmodel-srm2/deelbesluit-2-bezwaar-wob-srm2-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/05/23/besluit-wob-verzoek-beleid-correspondentie-met-bkr/wob-beleid-correspondentie-bkr-documenten-2.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/06/21/besluit-wob-verzoek-fatca-en-fatca-iga/wob-fatca-besluit.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/07/11/besluit-woo-verzoek-inzetbaarheidsrapportages-defensie/woo-besluit-inzetgereedheidsrapportages.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/08/09/besluit-wob-verzoek-uitvoering-sancties-tegen-rusland/wob-bzk-sancties-rusland-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/08/19/besluit-woo-verzoek-parkietenbosdump-aruba/woo-parkieten-aruba-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/09/06/besluiten-defensie-wob-verzoeken-evacuaties-afghanistan/inventarislijst-woo-evacuatie-afghanistan.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/09/13/besluit-op-wob-verzoek-over-beleidsdeelneming-bonaire-brandstof-terminals-bv/bijlage2-wob-woo-over-beleidsdeelneming-bonaire-brandstof-terminals-bv.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/09/13/besluit-op-wob-verzoek-over-beleidsdeelneming-bonaire-brandstof-terminals-bv/bijlage3-wob-woo-over-beleidsdeelneming-bonaire-brandstof-terminals-bv.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/10/25/2e-deelbesluit-woo-verzoek-consultatie-centrale-voorziening-biometrische-gegevens/woo-consultatie-voorziening-biometrische-gegevens-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/11/28/1e-deelbesluit-woo-verzoek-testfaciliteiten-en-laboratoria-rivm/woo-testfaciliteiten-en-laboratoria-rivm-documenten-2.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/12/08/besluit-woo-verzoek-steun-aruba-en-curacao-voor-migratieproblematiek/Inventarislijst.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2022/12/23/besluit-woo-verzoek-overleggen-chinabeleid/woo-chinabeleid-documenten-1-20.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/01/31/besluit-woo-verzoek-richtlijn-chatberichten/woo-richtlijnen-chatberichten-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/04/06/besluit-woo-verzoek-buitenlandtoelage-verenigde-staten/woo-buitenland-toelagen-vs.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/04/06/besluit-woo-verzoek-nota-over-staat-czsk/woo-nota-over-staat-czsk.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/04/18/1e-deelbesluiten-woo-verzoeken-excuses-slavernijverleden/woo-excuses-slavernijverleden-besluit.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/04/18/1e-deelbesluiten-woo-verzoeken-excuses-slavernijverleden/woo-excuses-slavernijverleden-documenten.raw.txt
+ create mode 100644 policy-documents/Archive/woo-besluiten/2023/04/24/besluit-woo-verzoek-aanvragen-wet-meer-ruimte-voor-nieuwe-scholen/2023-016-besluit.raw.txt
