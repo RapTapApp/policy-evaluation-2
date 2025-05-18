@@ -46,26 +46,37 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + 'Started Exporting raw text from all pdf files...' + $R)
     }
 
-    Add-LoggingMethod 'Info_RawTextExportingFromFile' -Method {
+    Add-LoggingMethod 'Info_ExportingRawTextFromFile' -Method {
 
-        param([string] $dir_relpath, [string] $file)
+        param($file)
 
         $S = $PSStyle.Foreground.Green + $PSStyle.Bold
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Raw-text Exporting from file: $F[ $dir_relpath ]> $file" + $R)
+        Write-Information $($S + " * Exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
     Add-LoggingMethod 'Warn_TargetFileAllreadyExists' -Method {
 
-        param([string] $dir_relpath, [string] $file)
+        param($file)
 
         $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Target-file allready exists: $F[ $dir_relpath ]> $file" + $R)
+        Write-Warning $($S + " ! Target-file allready exists: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+    }
+
+    Add-LoggingMethod 'Warn_ExportRawTextFailed' -Method {
+
+        param($file, $err)
+
+        $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
+        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $R = $PSStyle.Reset
+
+        Write-Error $($S + " ! Failed exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err") -ea Continue
     }
 
 }
@@ -124,27 +135,26 @@ function Get-TargetInfoFromSourceFile {
 
     begin {
         $RootPath = Resolve-Path "$PSScriptRoot\Archive"
+
+        function Get-FileInfo([string] $FilePath, [string] $LoggedDir) {
+            return [PSCustomObject] @{
+                Name      = [System.IO.Path]::GetFileName($FilePath)
+                Path      = $FilePath
+                LoggedDir = $LoggedDir
+            }
+        }
     }
 
     process {
         $Dir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
         $Dir_RelPath = [System.IO.Path]::GetRelativePath($RootPath, $Dir_AbsPath)
 
-        $Source_Name = [System.IO.Path]::GetFileName($SourcePath)
-        $Source_Base = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath)
-        $Logging.Info_RawTextExportingFromFile($Dir_RelPath, $Source_Name)
+        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.raw.txt'
+        $TargetPath = Join-Path $Dir_AbsPath -ChildPath $Target_Name
 
-        $Target_Name = $Source_Base + '.raw.txt'
-        $Target_Path = Join-Path $Dir_AbsPath -ChildPath $Target_Name
-
-        if ($(Test-Path $Target_Path -PathType Leaf)) {
-            $Logging.Warn_FileAllreadyExists($Dir_RelPath, $Target_Name)
-
-        } else {
-            [PSCustomObject] @{
-                SourcePath = $SourcePath
-                TargetPath = $Target_Path
-            }
+        [PSCustomObject] @{
+            SourceFile = Get-FileInfo $SourcePath -LoggedDir $Dir_RelPath
+            TargetFile = Get-FileInfo $TargetPath -LoggedDir $Dir_RelPath
         }
     }
 }
@@ -157,35 +167,57 @@ function Export-RawTextFromSourceFile {
     [OutputType([string])]
     param(
         [Parameter(Mandatory, ValueFromPipelineByPropertyName)]
-        [string] $SourcePath,
+        [PSCustomObject] $SourceFile,
 
         [Parameter(Mandatory, ValueFromPipelineByPropertyName)]
-        [string] $TargetPath
+        [PSCustomObject] $TargetFile
     )
 
-    process {
-        $Source_Pdf = [iTextSharp.text.pdf.PdfReader]::new($SourcePath)
-        $Source_MaxPages = $Source_Pdf.NumberOfPages
+    begin {
+        function Export-RawText($Source_PdfReader, $TargetPath) {
 
-        try {
-            $Target_Text = [System.IO.File]::CreateText($TargetPath)
+            $Target_TextWriter = [System.IO.File]::CreateText($TargetPath)
+            try {
 
-            for ($PageNr = 1; $PageNr -le $Source_MaxPages; $PageNr++) {
+                $PageMax = $Source_PdfReader.NumberOfPages
+                for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
 
-                $PageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_Pdf, $PageNr)
+                    $PageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr)
 
-                $Target_Text.WriteLine($PageText)
-                $Target_Text.WriteLine()
+                    $Target_TextWriter.WriteLine($PageText)
+                    $Target_TextWriter.WriteLine()
 
-                $PageNr++
+                    $PageNr++
+                }
+
+            } finally {
+                $Target_TextWriter.Flush()
+                $Target_TextWriter.Close()
             }
-
-        } finally {
-            $Target_Text.Flush()
-            $Target_Text.Close()
         }
+    }
 
-        return $TargetPath
+    process {
+        if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
+            $Logging.Warn_TargetFileAllreadyExists($TargetFile)
+
+        } else {
+            $Logging.Info_ExportingRawTextFromFile($SourceFile)
+
+            try {
+                $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourcePath)
+
+                Export-RawText $Source_PdfReader -TargetPath $TargetFile.Path
+
+                return $TargetPath
+            } catch {
+                $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
+
+                if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
+                    Remove-Item $TargetFile.Path -Force
+                }
+            }
+        }
     }
 }
 #endregion

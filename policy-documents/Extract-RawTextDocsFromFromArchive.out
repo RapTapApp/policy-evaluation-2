@@ -79,3 +79,1110 @@
 [32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\09\16-rijksbegroting-2015 ]> xii-infrastructuur-en-milieu.pdf[0m
 [32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\09\16-rijksbegroting-2015 ]> xiii-economische-zaken.pdf[0m
 [32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\09\16-rijksbegroting-2015 ]> xv-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\09\16-rijksbegroting-2015 ]> xvi-volksgezondheid-welzijn-en-sport.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\09\16-rijksbegroting-2015 ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\10\07 ]> bijlage-1-antwoorden-op-vragen-hoofdstuk-xii.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2014\11\25 ]> 2e-suppletoire-begroting-2014-szw.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> iv-koninkrijksrelaties-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> ix-financien-en-nationale-schuld-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> j-deltafonds-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> v-buitenlandse-zaken-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> vi-veiligheid-en-justitie-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> x-defensie-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xii-infrastructuur-en-milieu-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xiii-economische-zaken-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15 ]> xviii-wonen-en-rijksdienst-rijksbegroting-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15\internetbijlagen-miljoenennota-2016 ]> miljoenennota-internetbijlagen.pdf[0m
+[94m[1m ! Batch process invoked: [37m[22m[3m [BatchNr: 1; BatchedItems: 100]...[0m
+[main 8b3a3a98] Added batch #1 of policy-docs (total: 100
+ 101 files changed, 326139 insertions(+)
+ create mode 100644 policy-documents/Archive/ambtsberichten/2002/12/05/congo-brazzaville-2002-12-05/cobra120502internet.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2003/10/03/guinee-2003-10-03/aabguinee9oktober2003-def.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2004/07/29/congo-brazzaville-2004-07-29/aab-congo-brazzaville-2004.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2005/02/28/eritrea-2005-02-28/aab-eritrea-2005r.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2006/03/29/eritrea-2009-03-29/aab-eritrea-2006-definitieve-versie.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2007/09/27/liberia-2007-09-27/aab-liberia-september-2007.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/01/24/eritrea-2008-01-24/aab-eritrea-24-01-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/09/04/colombia-2008-09-04/aab-colombia-04-09-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/09/30/eritrea-2008-09-30/aab-eritrea-200815dgn.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/10/03/liberia-2008-10-03/liberia-ambtsbericht-03-10-2008.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2008/12/02/liberia-2006-05-06/aab-liberia-mei-2006.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2009/05/29/liberia-2009-05-29-fgm.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2009/07/20/eritrea-2009-07-20/aab-eritrea-definitieve-tekst-20-7-2009-nieuw.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2010/09/23/eritrea-2010-09-23/aab-eritrea-sept-2010-definitieve-versie.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2011/12/05/eritrea-2011-11-30.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2015/10/08/ambtsbericht-nigeria-2015-10-08.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2023/01/20/bijlage-1-tekst-en-toelichting-nieuwe-ambtseed.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024.raw.txt
+ create mode 100644 policy-documents/Archive/ambtsberichten/2024/06/24/algemeen-ambtsbericht-colombia-juni-2024/algemeen-ambtsbericht-colombia-2024.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2006-memorie-van-toelichting-buitenlandse-zaken/begroting-memorie-van-toelichting2006.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2007-memorie-van-toelichting-buitenlandse-zaken/mvt2007toelichting.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2008-memorie-van-toelichting-buitenlandse-zaken-wetsvoorstel/res2006.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/06/19/begroting-2009-buitenlandse-zaken-memorie-van-toelichting/memorievantoelichting2009.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2009/09/15/memorie-van-toelichting-2010-buitenlandse-zaken/mvt-2010.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/30-miljard-monitor.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/f-diergezondheidsfonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/h-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/iib-overige-hoge-colleges-van-staat-en-de-kabinetten-van-de-gouverneurs/2b-overige-hoge-colleges-van-staat-en-de-kabinetten-van-de-gouverneurs.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/internetbijlagen-miljoenennota-2013.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/iv-koninkrijksrelaties/4-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/ix-financien-en-nationale-schuld/9-financien-en-nationale-schuld.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/j-deltafonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/v-buitenlandse-zaken/5-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/vi-veiligheid-en-justitie/6-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/vii-binnenlandse-zaken-en-koninkrijksrelaties/7-binnenlandse-zaken-en-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/viii-onderwijs-cultuur-en-wetenschap/8-onderwijs-cultuur-en-wetenschap.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/x-defensie/10-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xii-infrastructuur-en-milieu/12-infrastructuur-en-milieu.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xiii-economische-zaken-landbouw-en-innovatie/13-economische-zaken-landbouw-en-innovatie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xv-sociale-zaken-en-werkgelegenheid/15-sociale-zaken-en-werkgelegenheid.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2012/09/18/xvi-volksgezondheid-welzijn-en-sport/16-volksgezondheid-welzijn-en-sport.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/a-infrastructuurfonds-rijksbegroting-2014/a-infrastructuurfonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/b-gemeentefonds-rijksbegroting-2014/b-gemeentefonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/bzk-in-feiten-en-cijfers-2014/bzk-in-feiten-en-cijfers-2014-2.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/f-diergezondheidsfonds-rijksbegroting-2014/f-diergezondheidsfonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/h-bes-fonds-rijksbegroting-2014/h-bes-fonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/iib-overige-hoge-colleges-van-staat-en-kabinetten/iib-overige-hoge-colleges-van-staat-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/internetbijlagen-miljoenennota-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/iv-koninkrijksrelaties-rijksbegroting-2014/iv-koninkrijksrelaties-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/ix-financien-en-nationale-schuld-rijksbegroting-2014/ix-financien-en-nationale-schuld-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/j-deltafonds-rijksbegroting-2014/j-deltafonds-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/miljoenennota-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/v-buitenlandse-zaken-rijksbegroting-2014/v-buitenlandse-zaken-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/vi-veiligheid-en-justitie-rijksbegroting-2014/vi-veiligheid-en-justitie-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2014/vii-binnenlandse-zaken-en-koninkrijksrelaties-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2014/viii-onderwijs-cultuur-en-wetenschap-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/x-defensie-rijksbegroting-2014/x-defensie-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xii-infrastructuur-en-milieu-rijksbegroting-2014/xii-infrastructuur-en-milieu-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xiii-economische-zaken-rijksbegroting-2014/xiii-economische-zaken-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2014/xv-sociale-zaken-en-werkgelegenheid-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2014/xvi-volksgezondheid-welzijn-en-sport-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2014/xvii-buitenlandse-handel-en-ontwikkelingsamenwerking-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/09/17/xviii-wonen-en-rijksdienst/xviii-wonen-en-rijksdienst-rb2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2013/10/22/antwoorden-op-kamervragen-bij-ontwerpbegroting-vws-2014.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-en-koninkrijksrelaties-rijksbegroting-2015/vii-binnenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/h-bes-fonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/iv-koninkrijksrelaties.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/ix-financien-en-nationale-schuld.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/j-deltafonds.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/v-buitenlandse-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/vi-veiligheid-en-justitie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/viii-onderwijs-cultuur-en-wetenschap.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/x-defensie.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xii-infrastructuur-en-milieu.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xiii-economische-zaken.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xv-sociale-zaken-en-werkgelegenheid.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xvi-volksgezondheid-welzijn-en-sport.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16-rijksbegroting-2015/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/hgis-nota-homogene-groep-internationale-samenwerking-rijksbegroting-2015/homogene-groep-internationale-samenwerking.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/internetbijlagen-bij-miljoenennota-2015/internetbijlagen-miljoenennota-2015.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/09/16/miljoenennota-2015.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/10/07/bijlage-1-antwoorden-op-vragen-hoofdstuk-xii.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2014/11/25/2e-suppletoire-begroting-2014-szw.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/internetbijlagen-miljoenennota-2016/miljoenennota-internetbijlagen.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/iv-koninkrijksrelaties-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/ix-financien-en-nationale-schuld-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/j-deltafonds-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/v-buitenlandse-zaken-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/vi-veiligheid-en-justitie-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/x-defensie-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xii-infrastructuur-en-milieu-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xiii-economische-zaken-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Archive/begrotingen/2015/09/15/xviii-wonen-en-rijksdienst-rijksbegroting-2016.raw.txt
+ create mode 100644 policy-documents/Extract-RawTextDocsFromFromArchive.out
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2015\09\15\miljoenennota-2016 ]> miljoenennota-2016-met-bijlagen.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\04\22 ]> artikel-x-bedrijvenbeleid-innovatief-amp-duurzaam-ondernemen.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\a-infrastructuurfonds-rijksbegroting-2017 ]> 19.-a-infrastructuurfonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2017 ]> 2b.-iib-hoge-colleges-van-staat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\internetbijlagen-miljoenennota-2017 ]> 0.1-internetbijlagen-miljoenennota.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\iv-koninkrijksrelaties-rijksbegroting-2017 ]> 4.-iv-koninkrijksrelaties-en-bes-fonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\ix-financien-en-nationale-schuld-rijksbegroting-2017 ]> 9.-ix-financien.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\j-deltafonds-rijksbegroting-2017 ]> 22.-j-deltafonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\materieel-projectenoverzicht-defensie ]> materieelprojectenoverzicht-defensie-2016.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\miljoenennota-2017 ]> 0.-miljoenennota.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\v-buitenlandse-zaken-rijksbegroting-2017 ]> 5.-v-buitenlandse-zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\vi-veiligheid-en-justitie-rijksbegroting-2017 ]> 6.-vi-veiligheid-en-justitie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2017 ]> 7.-vii-binnenlandse-zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2017 ]> 8.-viii-onderwijs-cultuur-en-wetenschap.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\x-defensie-rijksbegroting-2017 ]> 10.-x-defensie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\xii-infrastructuur-en-milieu-rijksbegroting-2017 ]> 12.-xii-infrastructuur-en-milieu.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\xiii-economische-zaken-rijksbegroting-2017 ]> 13.-xiii-economische-zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2017 ]> 15.-xv-sociale-zaken-en-werkgelegenheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2017 ]> 16.-xvi-volksgezondheid-welzijn-en-sport.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\09\20\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2017 ]> 17.-xvii-buitenlandse-handel-en-ontwikkelingssamenwerking.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2016\11\10 ]> beantwoording-schriftelijke-vragen-ez-begroting-onderdeel-landbouw-en-natuur.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19 ]> Miljoenennota-2018.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19\bijlagen-miljoenennota-2018 ]> Miljoenennota-2018-bijlage.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19\iv-koninkrijksrelaties-rijksbegroting-2018 ]> IV-Koninkrijksrelaties-en-BES-fonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19\xiii-economische-zaken-rijksbegroting-2018 ]> XIII-Economische-Zaken-en-Diergezondheidsfonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2018 ]> XVI-VWS.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-en-kabinetten-van-de-gouverneurs-rijksbegroting-2018 ]> IIB-Overige-Hoge-Colleges-van-Staat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-en-koninkrijksrelaties-rijksbegroting-2018 ]> VII-Binnenlandse-Zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-en-nationale-schuld-rijksbegroting-2018 ]> IX-Financien.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-en-ontwikkelingssamenwerking-rijksbegroting-2018 ]> XVII-Buitenlandse-Handel.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> A-Infrastructuurfonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> J-Deltafonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> V-Buitenlandse-Zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> VI-Veiligheid-en-Justitie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> VIII-Onderwijs-Cultuur-en-Wetenschap.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> X-Defensie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> XII-Infrastructuur-en-Milieu.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\09\19-rijksbegroting-2018 ]> XV-Sociale-Zaken-en-Werkgelegenheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\10\20 ]> bijlage-bij-beantwoording-kamervragen-begroting-ministerie-van-economische-zaken-begrotingsdeel-landbouw-en-natuur.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2017\12\14 ]> 17199594.bijlage.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\a-infrastructuurfonds-rijksbegroting-2019 ]> A_Infrastructuurfonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\bijlagen-miljoenennota-2019 ]> Miljoenennota 2019 bijlage.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2019 ]> 2B_OverigeHogeColleges_van_Staat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\iv-koninkrijksrelaties-rijksbegroting-2019 ]> 4_Koninkrijksrelaties_en_H_BES-fonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\ix-financien-en-nationale-schuld-rijksbegroting-2019 ]> 9_Financien.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\j-deltafonds-rijksbegroting-2019 ]> J_Deltafonds 2019.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\v-buitenlandse-zaken-rijksbegroting-2019 ]> 5_Buitenlandse_Zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\vi-justitie-en-veiligheid-rijksbegroting-2019 ]> 6_Justitie_en_Veiligheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2019 ]> 7_Binnenlandse_Zaken_en_Koninkrijksrelaties.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2019 ]> 8_Onderwijs_Cultuur_en_Wetenschap.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\x-defensie-rijksbegroting-2019 ]> 10_Defensie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xii-infrastructuur-en-waterstaat-rijksbegroting-2019 ]> 12_Infrastructuur_en_Waterstaat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xiii-economische-zaken-en-klimaat-rijksbegroting-2019 ]> 13_Economische_zaken_en_Klimaat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2019 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2019 ]> 15_SocialeZaken_en_Werkgelegenheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2019 ]> 16_VWS.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\09\18\xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2019 ]> 17_Buitenlandse_Handel_en_Ontwikkelingssamenwerking 2019.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2018\10\24 ]> feitelijke-vragen-begrotingsstaten-van-het-ministerie-van-infrastructuur-en-waterstaat-xii-voor-het-jaar-2019.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\06\24 ]> 1e-suppletoire-begroting-h4-kr-2019-35210-iv.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\a-infrastructuurfonds-rijksbegroting-2020 ]> A_Infrastructuurfonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\bijlagen-miljoenennota-2020 ]> 01_Miljoenennota_bijlage.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2020 ]> 2B_OverigeHogeColleges_van_Staat_Kab_Gouverneurs_Kiesraad.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\iv-koninkrijksrelaties-rijksbegroting-2020 ]> 4_Koninkrijksrelaties_en_BES-fonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\ix-financien-en-nationale-schuld-rijksbegroting-2020 ]> 9_Financien.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\j-deltafonds-rijksbegroting-2020 ]> J_Deltafonds.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\v-buitenlandse-zaken-rijksbegroting-2020 ]> 5_Buitenlandse_Zaken.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\vi-justitie-en-veiligheid-rijksbegroting-2020 ]> 6_Justitie_en_Veiligheid.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2020 ]> 7_Binnenlandse_Zaken_en_Koninkrijksrelaties.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2020 ]> 8_Onderwijs_Cultuur_en_Wetenschap_mvt.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\x-defensie-rijksbegroting-2020 ]> 10_Defensie.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\xii-infrastructuur-en-waterstaat-rijksbegroting-2020 ]> 12_Infrastructuur_en_Waterstaat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\xiii-economische-zaken-en-klimaat-rijksbegroting-2020 ]> 13_Economische_zaken_en_Klimaat.pdf[0m
+[32m[1m * Raw-text Exporting from file: [37m[22m[3m[ begrotingen\2019\09\17\xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2020 ]> 14_Landbouw_Natuur_en_Voedselkwaliteit.pdf[0m
+[31;1mExport-RawTextFromSourceFile: [0mC:\dev\policy-evaluation-2\policy-documents\Extract-RawTextDocsFromFromArchive.ps1:217[0m
+[31;1m[0m[36;1mLine |[0m
+[31;1m[0m[36;1m[36;1m 217 | [0m         [36;1mExport-RawTextFromSourceFile[0m |[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mException calling ".ctor" with "1" argument(s): "The document has no page root (meaning: it's an invalid PDF)."[0m
+[97m[1m[3mStarted Exporting raw text from all pdf files...[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> congo-brazzaville-2002-12-05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> guinee-2003-10-03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> congo-brazzaville-2004-07-29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2005-02-28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2009-03-29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> liberia-2007-09-27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2008-01-24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> colombia-2008-09-04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2008-09-30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> liberia-2008-10-03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> liberia-2006-05-06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2009-07-20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> eritrea-2010-09-23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> algemeen-ambtsbericht-colombia-juni-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-2006-memorie-van-toelichting-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-2007-memorie-van-toelichting-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-2008-memorie-van-toelichting-buitenlandse-zaken-wetsvoorstel[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-2009-buitenlandse-zaken-memorie-van-toelichting[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> memorie-van-toelichting-2010-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-de-kabinetten-van-de-gouverneurs[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-veiligheid-en-justitie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-milieu[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-landbouw-en-innovatie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-infrastructuurfonds-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> b-gemeentefonds-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bzk-in-feiten-en-cijfers-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> f-diergezondheidsfonds-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> h-bes-fonds-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-veiligheid-en-justitie-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-milieu-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xviii-wonen-en-rijksdienst[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> hgis-nota-homogene-groep-internationale-samenwerking-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> internetbijlagen-bij-miljoenennota-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-en-koninkrijksrelaties-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16-rijksbegroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> internetbijlagen-miljoenennota-2016[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2016[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-infrastructuurfonds-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> internetbijlagen-miljoenennota-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> materieel-projectenoverzicht-defensie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-veiligheid-en-justitie-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-milieu-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-en-kabinetten-van-de-gouverneurs-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-en-koninkrijksrelaties-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-en-nationale-schuld-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-en-ontwikkelingssamenwerking-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19-rijksbegroting-2018[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-infrastructuurfonds-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2019[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-infrastructuurfonds-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-infrastructuurfonds-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> k-defensiematerieelbegrotingsfonds[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xix-nationaal-groeifonds[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-mobiliteitsfonds-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-nationale-politie-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> hgis-nota-homogene-groep-internationale-samenwerking-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> k-defensiematerieelbegrotingsfonds-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xix-nationaal-groeifonds-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-nationale-politie-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-miljoenennota-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20-rijksbegroting-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begroting-nationale-politie-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten-van-de-gouverneurs-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-en-klimaat-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-natuur-en-voedselkwaliteit-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingssamenwerking-rijksbegroting-2024[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> a-mobiliteitsfonds-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlagen-bij-miljoenennota-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-kabinetten-van-de-gouverneurs-en-de-kiesraad-rijksbe-3D23CAAA[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties-en-h-bes-fonds-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ix-financien-en-nationale-schuld-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> j-deltafonds-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> l-nationaal-groeifonds-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> miljoenennota-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-justitie-en-veiligheid-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-waterstaat-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiv-landbouw-visserij-voedselzekerheid-en-natuur-en-f-diergezondheidsfonds-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvii-buitenlandse-handel-en-ontwikkelingshulp-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xxii-volkshuisvesting-en-ruimtelijke-ordening-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xxiii-klimaat-en-groene-groei-rijksbegroting-2025[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> introductiedossier[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> internationale-migratie-en-ontwikkeling[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-2003-homogene-groep-internationale-samenwerking-hgis[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-2004-homogene-groep-internationale-samenwerking-hgis[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-2010-homogene-groep-internationale-samenwerking-hgis[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksbegroting-defensie-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-n-a-v-verslag-tweede-aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-saba[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-naar-aanleiding-van-het-verslag-derde-aanpassing-van-wetten-bonaire-sint-eustatius-en-saba[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> onderwijsagenda-voor-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> notitie-de-toekomst-van-het-koninkrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20-szw-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> visienota-bestuur-en-bestuurlijke-inrichting[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> derde-nota-van-wijziging-32-537-kaderwet-vrom-en-wwi-subsidies[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beleidsbrief-respect-en-recht-voor-ieder-mens[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> natuurlijk-verder[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beleidsnota-drinkwater[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-nota-naar-aanleiding-van-verslag-inzake-het-voorkomen-en-bestrijden-van-geweld-tegen-6760CEF8[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamerbrief-over-wijzigingsbesluit-financiele-markten-2021[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamerbrief-over-stand-van-zaken-gedupeerde-ouders-kinderopvangtoeslag-in-25B4934F[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnotas-bij-voorjaarsnota-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> deel-5-8-van-de-stukken-bij-de-kabinetsformatie-financien[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-antwoorden-op-kamervragen-over-wet-kiescollege-niet-ingezetenen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-aanbiedingsbrief-overzicht-rijksuitgaven-caribisch-nederland-2021-2027[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-antwoorden-op-kamervragen-over-economische-cijfers-caribisch-nederland-2020[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamervragen-over-nationale-aanpak-klimaatadaptie-gebouwde-omgeving-fase-1[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnotas-bij-aanbiedingsbrief-wetsvoorstel-opheffing-geheimhoudingsplicht-toeslagen--61A040EA[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-aanbiedingsbrief-afschrift-reactie-op-brief-over-sociaal-minimum-caribis-9762D87F[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-aanbiedingsbrief-openbaar-jaarverslag-mivd-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamerbrief-over-voortgang-bestuurlijke-afspraken-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamerbrief-over-commissieverzoek-om-reactie-op-nrc-artikel-en-nvvb-standpunt[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beslisnota-bij-kamerbrief-over-bijzondere-uitkeringen-caribisch-nederland-2023[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-juli-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-augustus-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-oktober-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-maart-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-april-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> algemene-douaneregeling[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-april-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-december-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-juni-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> maandbericht-wijziging-verdragsgegevens-maart-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> regeling-van-de-minister-van-financien-tot-wijziging-van-de-regeling-financiele-markten-bes-2010[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> besluit-tot-wijziging-van-het-eindexamenbesluit-vo-het-staatsexamenbesluit-vo-en-het-exame-8FC8BB64[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> dgbel2013-6335m-dgbel-internationale-inlichtingenuitwisseling-ondermandaatverlening[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20-po[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> besluit-tot-wijziging-van-het-besluit-bekostiging-wpbesluit-rond-aanvullende-bekostiging-i-C30698CB[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> besluit-aanwijzing-van-posten-bevoegd-tot-het-verstrekken-van-paspoorten-of-identiteitskaarten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> besluit-aanwijzing-posten-bevoegd-tot-verstrekken-van-paspoorten-of-identiteitskaarten-dec-A741FB41[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> blkb2015-911-fr-belastingwet-bes-besluit-bestuurlijke-boeten-bes[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> organisatie-en-mandaatbesluit-dg-belastingdienst[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-aan-icco-over-epa-onderhandelingen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-aan-bonaire-over-het-openbaar-bibliotheekwerk-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-inzake-migratie-en-ontwikkeling[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> derde-nota-van-wijziging-overige-fiscale-maatregelen-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> implementatieplan-wet-vrom-bes-concept[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> toekomstige-milieuregelgeving-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-brief-1e-kamer-implementatie-wet-vrom-bes[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> implementatie-wet-vrom-bes-concept[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> toekomstige-milieuregelgeving-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-over-overleg-met-caribisch-nederland-rond-rijksbelastingen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> overzicht-voorgenomen-regelgeving-voor-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afvalbeheer-informatie-ten-behoeve-van-het-algemeen-overleg-grondstoffen-en-afval-7-juni-201-A32B3561[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> memorie-van-antwoord[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> begrotingsstaten-van-het-ministerie-van-infrastructuur-en-milieu-xii-voor-het-jaar-2013[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlage-1-bij-vraag-48-ibo-dji[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> bijlage-3-bij-vraag-48-jaarverslag-2012f[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 20[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-aan-curacao-over-de-nota-studieschuldenproblematiek-van-ex-studenten-van-curacao[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> antwoorden-schriftelijke-vragen-begroting-2015[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschriftbrief-over-instellen-toezicht-st-eustatius[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-advies-rvdr-inzake-invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesrecht-en-ui-9BF6EB0C[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-memorie-van-toelichting-inzake-invoeringsrijkswet-vereenvoudiging-en-digitalisering-proce-413CE685[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-versie-rvs-mvt-inzake-invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesrecht-en-3F3BB56A[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-versie-rvs-wetsvoorstel-inzake-invoeringsrijkswet-vereenvoudiging-en-digitalisering-proce-413CE685[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-wetsvoorstel-inzake-invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesrecht-en-u-DB0C4805[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-advies-raad-van-state-wetsvoorstel-verdrag-montreal-en-de-bes[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-memorie-van-toelichting-wetsvoorstel-verdrag-montreal-en-de-bes[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-memorie-van-toelichting-zoals-voorgelegd-ad-afd-adv-vd-rvs-wetsvoorstel-verdrag-montreal-en-de-bes[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ek-bijlage-brief-inzake-nieuwe-consulaire-tarieven[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> tk-bijlage-brief-inzake-nieuwe-consulaire-tarieven[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beantwoording-vragen-kamervragen-over-begroting-buitenlandse-handel-en-ontwikkelingssamenwer-8D5F1C31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-brief-over-economische-steunmaatregelen-voor-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> adviesopdracht-dierpresentaties-en-verblijven-dolfinarium[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> voorlichting-raad-van-state-over-interbestuurlijke-verhoudingen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> reactie-op-brief-over-geo-blokkade-binnen-het-koninkrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-aan-openbaar-lichaam-bonaire-over-energiebesparing-in-caribisch-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-brief-over-route-tijdtabel[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-brief-plv-regeringscommissaris-over-burgerparticipatie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-reactie-op-brief-regeringscommissaris-over-route-tijdtabel[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-over-begroting-openbaar-lichaam-saba-2022[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 23[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> afschrift-2e-reactie-op-benoemingstermijn-plaatsvervangend-rijksvertegenwoordiger[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-college-voor-de-rechten-van-de-mens-over-mensenrechten-in-het-koninkrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> reactie-op-brief-college-voor-de-rechten-van-de-mens[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> reactie-op-rapport-caribische-kinderen-van-de-rekening[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> brief-regeringscommissaris-sint-eustatius-over-voortgang-criteria-fase-2.2[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> spoedadvies-over-registratietermijn-van-kiezers-voor-het-kiescollege-niet-ingezetenen-kiesraad[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 09[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> briefwisseling-ap-en-belastingdienst-over-fsv-deel-9[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 31[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> berichten-buitenland-nr-11-november-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> berichten-buitenland-nr-11-november-2007-alleen-tekst[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> berichten-buitenland-nr-12-1-december-2007-januari-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> resultaten-in-ontwikkeling-2007-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> resultaten-in-ontwikkeling-2007-2008-hoofdstuk-4-mdg-4-5-en-6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> om-jaarbericht-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> antilliaans-nederlandse-jonge-moeders-in-beeld-wegwijzer-voor-en-door-gemeenten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> antilliaans-nederlandse-jonge-moeders-in-beeld[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> planningsoverzicht-bzk-2-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> de-koninklijke-marechaussee[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> de-marine-in-beeld[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nota-werken-in-het-onderwijs[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-het-buitenland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> offerteaanvraag-vierjarige-overeenkomst-productie-jaarlijks-examen-maatschappij-en-staatku-F67F1C53[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> taalregelingen-voor-de-bes-eilanden-in-de-nederlandse-wet-en-regelgeving[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> kerngegevens-defensie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> informashon-pa-studiantenan-di-aruba-korsou-sint-maarten-i-hulanda-karibense-pa-inskripshon-den-gba[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> informatie-voor-studenten-uit-aruba-curacao-st-maarten-en-caribisch-nederland-voor-inschri-31441F1B[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarwerk-programma-2013[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> nationaal-handboek-crisisbesluitvorming[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> van-abdicatie-tot-zetelroof[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-argentinie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-belgie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-brazilie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-colombia[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-de-dominicaanse-republiek[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-de-verenigde-staten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-denemarken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-duitsland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-ecuador[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-frankrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-griekenland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-het-verenigd-koninkrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-italie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-japan[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-marokko[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-noorwegen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-oostenrijk[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-panama[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-peru[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-portugal[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-spanje[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-suriname[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-thailand[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-turkije[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-venezuela[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> gearresteerd-in-zweden[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> het-koninkrijk-der-nederlanden-buitenlandse-zaken-zijn-koninkrijkszaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> het-koninkrijk-der-nederlanden-een-koninkrijk-vier-landen-europees-en-caribisch[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> factsheet-leerorkest-voor-alle-kinderen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> studeren-in-het-mbo-of-hoger-onderwijs-voor-studenten-uit-caribisch-nederland-aruba-curaca-C1B3B5F6[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> aanpassing-vergoedingen-gezagdragers-bonaire-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> decembercirculaire-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> septembercirculaire-gemeentefonds-2013[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> septembercirculaire-gemeentefonds-2014[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> meicirculaire-gemeentefonds-2016[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> dienstverleningsconvenant-inzake-de-uitvoering-van-en-het-toezicht-op-de-naleving-van-de-C6647C4F[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> convenant-curacao-nederland-heffing-invoerrechten-en-andere-indirecte-belastingen-tussen-E1A54CD8[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> visumaanvraagformulier-koninkrijk-der-nederlanden-caribische-gebiedsdelen[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> herziene-begroting-2011-radio-nederland-wereldomroep[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 24[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> concept-jaarwerkplan-2012-van-de-inspectie-van-het-onderwijs[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarplan-2012-kustwacht-voor-het-koninkrijk-der-nederlanden-in-het-caribisch-gebied[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> beleidsplan-crisisbeheersing-2014-2017[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 21[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 03[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 02[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 05[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 12[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 27[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 07[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksjaarverslag-2015-buitenlandse-handel-en-ontwikkelingssamenwerking[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksjaarverslag-2016-buitenlandse-handel-en-ontwikkelingssamenwerking[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> mivd-2004[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> mivd-2005[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> mivd-2006[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 01[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-mivd-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 28[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksjaarverslag-defensie-2007[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-inspecteur-generaal-der-krijgsmacht-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-2006-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-2008-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-2008-homogene-groep-internationale-samenwerking-hgis[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-2007-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> aivd-voorwaartse-verdediging-is-nodig-voor-de-bescherming-van-nederland[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 29[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksjaarverslag-defensie-2008[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> rijksjaarverslag-defensie-2009[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 15[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> militaire-inlichtingen-en-veiligheidsdienst[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 18[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> financieel-jaarverslag-van-het-rijk-fjr-2010[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 26[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 30[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-commissie-buitenslands-gediplomeerden-volksgezondheid-2010[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> de-ind-belicht-jaarverslag-2011-van-de-ind[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> sociaal-jaarverslag-ministerie-van-buitenlandse-zaken-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 17[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 19[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-mivd[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarrapportage-bedrijfsvoering-rijk-2011-tot-en-met-bijlage-4[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 11[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 16[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> financieel-jaarverslag-van-het-rijk-fjr-2011[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> h-bes-fonds[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ixb-financien[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vi-veiligheid-en-justitie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-milieu[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken-landbouw-en-innovatie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 04[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 22[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> sociaal-jaarverslag-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 25[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 08[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> h-bes-fonds[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iib-overige-hoge-colleges-van-staat-en-kabinetten[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> internetbijlagen-financieel-jaarverslag-van-het-rijk-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> iv-koninkrijksrelaties[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ixb-financien[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> ocw-kerncijfers-2008-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> v-buitenlandse-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> vii-binnenlandse-zaken-en-koninkrijksrelaties[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> viii-onderwijs-cultuur-en-wetenschap[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> x-defensie[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xii-infrastructuur-en-milieu[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xiii-economische-zaken[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xv-sociale-zaken-en-werkgelegenheid[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> xvi-volksgezondheid-welzijn-en-sport[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 13[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 14[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaarverslag-igk-2012[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 06[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> 10[0m
+[32m[1m * Exporting raw-text from file: [37m[22m[3m[ ) ]> jaaroverzicht-crisisbeheersing-ienm-2013[0m
