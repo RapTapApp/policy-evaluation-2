@@ -15,7 +15,7 @@ Write-Information 'Setup: target-apps...'
 $TargetApps = [ordered] @{
 
     '(Microsoft) VS-code' = 'Microsoft.VisualStudioCode'
-    'Python'              = 'Python.Python.3.13'
+    'Python'              = 'Python.Python.3.11'
     'Git'                 = 'Git.Git'
     'Oh my posh'          = 'JanDeDobbeleer.OhMyPosh'
 }
